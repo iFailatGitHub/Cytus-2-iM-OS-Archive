@@ -1,6 +1,6 @@
 # NEKO#ΦωΦ's chatting time
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Meow meow meow (ΦωΦ)/ I'm bored so let's stream~
 
 ![n2801.png](./attachments/n2801.png)

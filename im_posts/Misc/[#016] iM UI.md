@@ -1,6 +1,6 @@
 # iM UI
 ## Post
-Shibawu:<br>
+**Shibawu**<br>
 iM's UI is getting worse with every "patch", especially the virtual connection interface, which is now a complete mess... my head hurts every time I use it 
 ## Replies
 **HC**<br>

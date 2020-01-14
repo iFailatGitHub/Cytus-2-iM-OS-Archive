@@ -1,6 +1,6 @@
 # Did you guys see that news report about Xenon???
 ## Post
-Krypton:<br>
+**Krypton**<br>
 I feel like the tone of 08 Daily's reports is a bit biased. Like from the beginning, the reporter's attitude is always one where she's trying hard to dig up some dirt about X, or at least it seems that way.<br>
 Like, it's very noticeable in her previous report about picking up NEKO from the Bureau too. I don't think a reporter should have a presumption like that, or is that just me??<br>
 Although I am a bit surprised by the things Xenon did as a teenager, isn't that pretty cool as well?<br>

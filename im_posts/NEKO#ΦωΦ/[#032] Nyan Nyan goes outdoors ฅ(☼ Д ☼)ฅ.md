@@ -1,6 +1,6 @@
 # Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Today, NEKO will prove that I am a streamer that knows how to embrace da music σΦωΦ)σ<br>
 Therefore, we are here at UV to see performances !(ΦωΦ)!<br>
 Top-quality bands & amazing live shows all here at Under Velvet \\(Φˋ口ˊΦ)/

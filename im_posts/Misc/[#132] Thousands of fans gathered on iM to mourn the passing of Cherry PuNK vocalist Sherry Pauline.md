@@ -1,6 +1,6 @@
 # Thousands of fans gathered on iM to mourn the passing of Cherry PuNK vocalist Sherry Pauline
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [News][Cherry PuNK][Sherry Pauline][Obituary]<br>
 > Cherry (real name Sherry Pauline), the lead vocalist of popular band Cherry PuNK,  has passed away. The news has fans and the public in utter shock. Cherry's agency, Monophonic Entertainment, has confirmed this information earlier today. However, they remained silent regarding the cause of her death and other details. They only stated that they hope everyone can give the other band members and Cherry's family and friends some time to process this tragedy.<br>
 > <br>

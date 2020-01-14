@@ -1,6 +1,6 @@
 # Does any~ one~ know where NEKO is at now??~~
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Heyyyyy~~~NEKO here yaaaa~~~~<br>
 Been soooo long since I last streamed (\*Φ▽Φ)ﾉ Next stream coming in three minutess!!!!<br>
 If the viewer count is under 5 thousand I'm deleting my account~

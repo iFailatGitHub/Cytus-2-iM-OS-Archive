@@ -1,6 +1,6 @@
 # Anyone got a streamer recommendation ~~~~?
 ## Post
-NnNn:<br>
+**NnNn**<br>
 Since NEKO's stream was shut down, all you hear is old music when you connect to the stream now
 
 

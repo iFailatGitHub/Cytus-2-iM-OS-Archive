@@ -1,6 +1,6 @@
 # Discomfort during connection
 ## Post
-Majaja:<br>
+**Majaja**<br>
 Recently when I connect to cyTus, I get this nauseating feeling. Doctors can't figure out what's wrong either. Should I file a complaint to A.R.C.?
 ## Replies
 **Miyoko1212**<br>

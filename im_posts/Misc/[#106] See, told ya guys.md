@@ -1,6 +1,6 @@
 # See, told ya guys
 ## Post
-SIhama:<br>
+**SIhama**<br>
 I don't care if this whole thing is staged or not<br>
 I never believed one bit that Xenon would be locked up for real<br>
 It's all just a show for the public<br>

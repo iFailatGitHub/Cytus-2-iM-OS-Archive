@@ -1,6 +1,6 @@
 # [Announcement] A thank you to fans and others for the support
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 [Announcement]<br>
 Hello everyone<br>
 We have an emergency announcement to make<br>

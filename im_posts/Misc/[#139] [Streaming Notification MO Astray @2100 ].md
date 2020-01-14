@@ -1,6 +1,6 @@
 # [Streaming Notification: MO: Astray @21:00 ]
 ## Post
-NEKOSAIKOU:<br>
+**NEKOSAIKOU**<br>
 Recently I was told by some haters that I can't rock this game. That's total bull. I am a diehard fan of action puzzle-solvers. I 've heard there's a streamer who nailed all the boss' without losing any HP. Tryin' to get the achievement where you make it to the end without dying once~If you die even once you gotta restart the game!!!
 
 MO: Astray game link: <br>

@@ -1,6 +1,6 @@
 # Xenon you better give us a goddamn explanation
 ## Post
-AngryMan:<br>
+**AngryMan**<br>
 So many netizens are trash-talking you
 
 Yet you've been completely silent and not talking s\*\*\* back all this time

@@ -1,6 +1,6 @@
 # It felt like forever since I last picked up the guitar.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Visited my long-forgotten workshop to take a quick breather between jobs, only to discover that a  thick layer of dust had gathered on the equipment. The strings on the optic guitar were all rusty as well. <br>
 This personal account has always existed for the sole purpose of sharing music. However, recently, I've just been tangled up in too many baffling incidents and had to deal with way too many nonsensical people. All that has caused music to be pushed to the sidelines for quite some time now. The originally simple motivation has also been covered in dust, similar to the guitar.<br>
 This situation might still continue for a while. To the people who have been supporting and looking forward to my music, I can only apologize from the bottom of my heart...

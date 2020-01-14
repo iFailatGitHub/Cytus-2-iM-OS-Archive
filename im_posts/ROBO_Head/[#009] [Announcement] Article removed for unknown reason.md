@@ -1,6 +1,6 @@
 # [Announcement] Article removed for unknown reason
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 Record: Previous post delete for Unknown reason ：( <br>
 Decision: Filing complaint form...... 70%<br>
 

@@ -1,6 +1,6 @@
 # [Announcement] Premium collection now underway!
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Dear little Puffs, we have some good news for you~
 
 To support PAFF, who is still recovering, Mono Music plans to produce a special premium collection for PAFF. It will record all her hard work and will contain her best songs throughout all these years!

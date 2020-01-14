@@ -1,6 +1,6 @@
 # My turn to stream again!! Let's play GOW!
 ## Post
-NEKOSAIKOU:<br>
+**NEKOSAIKOU**<br>
 [Stream announcement 09:00 PM God of Work]
 
 Heard that this game is seriously godlike<br>

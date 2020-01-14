@@ -1,6 +1,6 @@
 # [Annoucement] Explaining the decision behind the contract termination of PAFF
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 To our dear fans and beloved customers,
 
 Monophonic Entertainment Inc. signed Miss Aroma White to a contract back in 695. For the past seven years, ever since her performance debut under the name "PAFF", we have always treated everything regarding Miss White with the highest possible standards. We always try our best to give fellow fans the best experience.

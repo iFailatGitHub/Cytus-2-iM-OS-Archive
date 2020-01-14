@@ -1,6 +1,6 @@
 # Preparing broadcast for new song.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Finally have more time to write new songs and organize the next performance. Been getting a lot more inspirations after returning to A.R.C.
 
 This is a collab project with **@NEKO\#ΦωΦ**. Song title "Return" to celebrate my return to the skies. Hope everyone likes it.

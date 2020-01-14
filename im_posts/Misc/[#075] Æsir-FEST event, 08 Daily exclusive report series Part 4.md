@@ -1,6 +1,6 @@
 # Æsir-FEST event, 08 Daily exclusive report series Part 4
 ## Post
-Vicky:<br>
+**Vicky**<br>
 Discover the secrets, painstaking investigation: Æsir-FEST event report series Part 4
 
 After reading parts 1 ~ 3 of our in-depth coverage reports, we believe that everyone now has a better understanding regarding the ins and outs of the entire  Æsir-FEST incident.<br>

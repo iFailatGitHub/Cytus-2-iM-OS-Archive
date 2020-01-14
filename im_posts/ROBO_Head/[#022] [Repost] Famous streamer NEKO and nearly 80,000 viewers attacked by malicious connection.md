@@ -1,6 +1,6 @@
 # [Repost] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Social][Emergency]<br>
 > According to the information this reporter received before the deadline, famous streamer NEKO's recent stream, which attracted an audience of nearly 80,000, suffered a large-scale malicious connection attack moments after the stream started. The attack caused hundreds of thousands of people to experience temporary memory loss, an unprecedented disaster. <br>
 > Some witnesses point out that before the victims become unconscious, they all received a mysterious call. Upon accepting the call, all victims suffer symptoms like epileptic seizure, severe headache, foaming at the mouth and fainting. <br>

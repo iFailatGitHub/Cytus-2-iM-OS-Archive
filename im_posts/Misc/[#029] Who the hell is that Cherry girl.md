@@ -1,6 +1,6 @@
 # Who the hell is that "Cherry" girl?
 ## Post
-Hatehate:<br>
+**Hatehate**<br>
 Why would PAFF collaborate with some nobody... is this some rich brat who wants to ride on her coattails? 
 ## Replies
 **Mohito**<br>

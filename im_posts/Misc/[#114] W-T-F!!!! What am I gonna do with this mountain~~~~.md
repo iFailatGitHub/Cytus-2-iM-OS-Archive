@@ -1,6 +1,6 @@
 # W-T-F!!!! What am I gonna do with this mountain~~~~
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 I don't know who the hell it was that suggested I order some YAMAMETO fruit beer. <br>
 I shipped in several boxes and ain't no one's ordering it!!<br>
 Should've trust my instincts<br>

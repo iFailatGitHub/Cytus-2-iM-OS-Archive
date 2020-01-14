@@ -1,6 +1,6 @@
 # About Xenon and this iM account.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 It's been three years since I started creating content under the name Xenon. Most people probably followed this personal account because of the music. 
 
 The reason I didn't use the official account for promotion is simple; because I just want to share music with you guys. Not for fame or money.

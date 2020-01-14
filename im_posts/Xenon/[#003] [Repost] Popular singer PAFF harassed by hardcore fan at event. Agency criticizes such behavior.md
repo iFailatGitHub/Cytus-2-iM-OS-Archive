@@ -1,6 +1,6 @@
 # [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ## Post
-Xenon:<br>
+**Xenon**<br>
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
 Personally, I really like PAFF, but even I won't go creating a commotion like this.
 

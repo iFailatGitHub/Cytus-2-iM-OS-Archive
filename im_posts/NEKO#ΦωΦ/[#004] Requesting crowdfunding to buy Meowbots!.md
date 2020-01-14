@@ -1,6 +1,6 @@
 # Requesting crowdfunding to buy Meowbots!
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 > ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...<br>
 I'm ready to buy a dozen MeowBots ~~~<br>
 ヽ(∀Φ )人(Φ∀Φ)人( Φ∀Φ)人(Φ∀Φ )人(Φ∀Φ)人( Φ∀)ﾉ<br>

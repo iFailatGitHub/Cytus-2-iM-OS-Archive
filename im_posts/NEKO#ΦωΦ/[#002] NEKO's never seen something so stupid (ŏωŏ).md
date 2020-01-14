@@ -1,6 +1,6 @@
 # NEKO's never seen something so stupid (ŏωŏ)
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Æsir standing everyone up was big deal lol<br>
 Yet still so many idiots speak up for him(╮ŏωŏ)╭<br>
 Man world's full of hypocrites lul<br>

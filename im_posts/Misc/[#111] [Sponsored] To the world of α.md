@@ -1,6 +1,6 @@
 # [Sponsored] To the world of α
 ## Post
-Cytus_Alpha:<br>
+**Cytus_Alpha**<br>
 A complete remake of a classic, contains over 200 songs<br>
 Including the legendary "Chapter Ω" exclusive songs<br>
 as well as a collaboration with well-known rhythm game title "DJMAX" in the collab chapter 'Chapter DJMAX"<br>

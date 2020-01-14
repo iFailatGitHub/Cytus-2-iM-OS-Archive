@@ -1,6 +1,6 @@
 # [Sponsored] All players in Node 08 are blown away
 ## Post
-Sdorica_Official:<br>
+**Sdorica_Official**<br>
 Follow NEKO\#ΦωΦ and take part in this uber popular game!
 
 A fantasy tale that resonates with your soul;<br>

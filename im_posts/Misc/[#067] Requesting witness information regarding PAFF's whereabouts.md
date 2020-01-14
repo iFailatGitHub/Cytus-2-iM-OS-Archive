@@ -1,6 +1,6 @@
 # Requesting witness information regarding PAFF's whereabouts
 ## Post
-PaffCheckin:<br>
+**PaffCheckin**<br>
 Hello everyone,<br>
 Like all of you, I am a PUFFER. I love PAFF and her singing as much as every one of you; and just like all of you, I am also very concerned about her since her disappearance
 

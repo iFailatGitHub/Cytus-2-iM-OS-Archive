@@ -1,6 +1,6 @@
 # [Emergency Announcement]
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Fellow fans, sorry for the interruption. I am Helena, PAFF's agent.<br>
 A few moments ago, when performing the Encore song, PAFF collapsed on stage. We have PAFF taken to the hospital already. A doctor is checking on her. 
 ## Replies

@@ -1,6 +1,6 @@
 # What kind of retard coded this system
 ## Post
-SuduMan:<br>
+**SuduMan**<br>
 And here I was thinking that I can finally get a refund...<br>
 only for the entire system to suck BALLS!!!<br>
 The user interface is straight up horrendous...<br>

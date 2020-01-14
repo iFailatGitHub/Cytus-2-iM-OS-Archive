@@ -1,6 +1,6 @@
 # Overlords
 ## Post
-ConneR:<br>
+**ConneR**<br>
 Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. 
 
         It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self-declared superiority, couldn't conquer them after all.

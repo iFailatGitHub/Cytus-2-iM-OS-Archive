@@ -1,7 +1,7 @@
 # NEKO#ΦωΦ streaming time -
 「Explosion」
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Today we are streaming a new antique-level game！！＼(Φˋ∀ˊΦ)／<br>
 Rumor has it that this was a Triple-A level game of the last century d(`Φ∀Φ)b <br>
 「Explosion」everybody look forward to it!!

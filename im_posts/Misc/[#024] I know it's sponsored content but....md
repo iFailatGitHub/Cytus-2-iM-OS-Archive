@@ -1,6 +1,6 @@
 # I know it's sponsored content but...
 ## Post
-EvilForce:<br>
+**EvilForce**<br>
 Hey did you guys see the game NEKO was streaming?
 ## Replies
 **NEKOSAIKOU**<br>

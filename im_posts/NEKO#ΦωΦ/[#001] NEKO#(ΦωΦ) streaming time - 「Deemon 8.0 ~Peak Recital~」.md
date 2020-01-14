@@ -1,7 +1,7 @@
 # NEKO#(ΦωΦ) streaming time -
  「Deemon 8.0 ~Peak Recital~」
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Today's stream is sponsored by....oops wrong script (ΦДΦ；today we are playing ! !<br>
 「Deemon 8.0 ~Peak Recital~」<br>
 A classic rhythm game (ΦωΦ)+Neko's pretty good at these

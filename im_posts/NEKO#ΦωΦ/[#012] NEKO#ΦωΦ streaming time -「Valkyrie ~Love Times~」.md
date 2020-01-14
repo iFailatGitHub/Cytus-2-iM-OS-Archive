@@ -1,7 +1,7 @@
 # NEKO#ΦωΦ streaming time -
 「Valkyrie ~Love Times~」
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Stream time! Today we are playing a Visual Novel <br>
 ＼(Φˋ∀ˊΦ)／
 

@@ -1,6 +1,6 @@
 # [Announcement] Connect to major platforms now!
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 The released new song "KANATA" took a long time to prepare. During the production, the composer and producer helped me a lot!
 
 Special thanks to A.R.C. for sponsoring the newest holo-recreation technology! PUFFERs can now join PAFF on stage and sing together!

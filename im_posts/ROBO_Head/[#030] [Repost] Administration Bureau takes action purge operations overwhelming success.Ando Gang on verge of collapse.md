@@ -1,7 +1,7 @@
 # [Repost] Administration Bureau takes action: purge operations overwhelming success.
 Ando Gang on verge of collapse
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Gang][Social][Ando]<br>
 > Since the middle of last year, the law enforcement department (LED) of the Administration Bureau has launched a series of operations titled "Node 08 gang purge". These operations focus on rounding up illegal gang members and eliminating locations where gang activities are rampant. As of this month, 78 listed locations across all 4 quadrants of Node 08 have been targeted for compulsory criminal search. 55 members from major gangs such as the Ando Gang and the Baro Brotherhood have been found liable for the violation of the Organized Crime Act, Electronic Narcotics Prohibition Act, Criminal Intimidation and Extortion Prevention Act, and more. Also found in the criminal searches are 129 suspects who are involved in other criminal cases, hundreds of doses of electronic narcotics, 11 standard-issue law enforcement rifles, and 50 pulse rifle magazines. <br>
 > <br>

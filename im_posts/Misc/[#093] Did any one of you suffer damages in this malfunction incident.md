@@ -1,6 +1,6 @@
 # Did any one of you suffer damages in this malfunction incident?
 ## Post
-9tingale:<br>
+**9tingale**<br>
 Our hospital got hit really hard in this incident<br>
 It's like we drew the short straw on every single occasion<br>
 Any device that requires connection got wiped out pretty much entirely<br>

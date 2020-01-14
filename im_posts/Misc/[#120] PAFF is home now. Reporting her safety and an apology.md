@@ -1,6 +1,6 @@
 # PAFF is home now. Reporting her safety and an apology
 ## Post
-Helena:<br>
+**Helena**<br>
 Hello everybody, this is Paff's older sister Helena White
 
 First, I'd like to thank all of you for your support and encouragement you've given since PAFF went missing. If it weren't for all your passion and consolation, I don't know if I'd still be here today. Also, I'd like to especially thank anyone who has provided tips and assistance in finding PAFF.

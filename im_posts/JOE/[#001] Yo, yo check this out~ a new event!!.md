@@ -1,6 +1,6 @@
 # Yo, yo check this out~ a new event!!
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 Purchase a drink at JOEZ Café now and check-in on iM to get the tomato-flavored craft beer for free!<br>
 The latest fresh fruit beer -- YAMAMETO<br>
 Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece<br>

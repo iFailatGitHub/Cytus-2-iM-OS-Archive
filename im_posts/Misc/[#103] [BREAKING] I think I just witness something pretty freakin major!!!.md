@@ -1,6 +1,6 @@
 # [BREAKING] I think I just witness something pretty freakin major!!!
 ## Post
-Witne_SS:<br>
+**Witne_SS**<br>
 Today, on my way to my part-time job, I suddenly heard a commotion coming from the crowd<br>
 I turned around and I think I heard someone yelling NEKO's name<br>
 So I just sort of instinctively press the shutter<br>

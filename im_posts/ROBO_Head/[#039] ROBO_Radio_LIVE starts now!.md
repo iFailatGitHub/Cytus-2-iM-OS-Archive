@@ -1,6 +1,6 @@
 # ROBO_Radio_LIVE starts now!
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 Due to a connection error, network traffic unable to reach required level. High-quality stream unavailable, apologies：(<br>
 Audiences already in the virtual space will not be affected. Please rest assured and enjoy the performances：)
 

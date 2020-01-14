@@ -1,6 +1,6 @@
 # I have lots of questions...
 ## Post
-Gogossip:<br>
+**Gogossip**<br>
 A tier-1 artist for Mono just dies all of a sudden<br>
 Does nobody feel that there's something very strange about this whole thing?<br>
 Personal speculations in the comments

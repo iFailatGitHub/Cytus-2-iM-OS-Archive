@@ -1,6 +1,6 @@
 # Pray for PAFF.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Although I've heard that PAFF was not feeling well, collapsing during the Encore song is serious business. 
 
 I hope she will be alright. Really want to stay on the surface, but need to return to the A.R.C. for work. 

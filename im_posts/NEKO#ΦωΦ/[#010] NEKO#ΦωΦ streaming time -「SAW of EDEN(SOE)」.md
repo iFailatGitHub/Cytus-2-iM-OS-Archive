@@ -1,7 +1,7 @@
 # NEKO#ΦωΦ streaming time -
 「SAW of EDEN(SOE)」
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Today we are playing the latest action game ㄟ(ΦωΦ)ㄏ！！<br>
 「SAW of EDEN(SOE)」
 

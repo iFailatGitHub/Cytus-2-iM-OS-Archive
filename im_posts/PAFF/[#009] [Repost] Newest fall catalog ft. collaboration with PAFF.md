@@ -1,6 +1,6 @@
 # [Repost] Newest fall catalog ft. collaboration with PAFF
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 > For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant-garde elements creates a colorful and unique autumn listing. <br>
 > Available on both physical and virtual storefronts! Dress-switch now and experience the latest fashion!<br>
 PAFF and 9Tan Design's collab autumn clothes are now available~ This time, PAFF also performs the sponsored theme "Fireflies", please don't forget to listen!

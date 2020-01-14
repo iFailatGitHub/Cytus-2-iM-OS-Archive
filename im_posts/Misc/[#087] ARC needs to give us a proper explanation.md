@@ -1,6 +1,6 @@
 # ARC needs to give us a proper explanation
 ## Post
-9tingale:<br>
+**9tingale**<br>
 I was really angry that all we get is a template announcement about the system being fixed
 
 I'm a registered nurse at hospital 15<br>

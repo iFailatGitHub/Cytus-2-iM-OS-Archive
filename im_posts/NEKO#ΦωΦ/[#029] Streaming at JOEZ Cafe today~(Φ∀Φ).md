@@ -1,7 +1,7 @@
 # Streaming at JOEZ Cafe today~
 (*Φ∀Φ)
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Yes ladies and germs~ Today, NEKO has come to play at uncle JOE's shop (\*Φ∀Φ)<br>
 If you don't know about JOEZ Cafe yet, get you a\*\*\*\* in front of the screens and check this place out~~~ (\*Φ∀Φ)
 

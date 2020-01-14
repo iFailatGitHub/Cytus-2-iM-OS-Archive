@@ -1,6 +1,6 @@
 # An era with no roots
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　This era, I believe is one that lost its roots.
 
 　A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music.  

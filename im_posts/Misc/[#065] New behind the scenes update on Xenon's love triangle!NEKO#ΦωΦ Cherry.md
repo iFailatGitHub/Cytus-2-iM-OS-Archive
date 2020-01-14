@@ -1,7 +1,7 @@
 # New behind the scenes update on Xenon's love triangle!
 NEKO#ΦωΦ? Cherry?
 ## Post
-Vicky:<br>
+**Vicky**<br>
 A few days ago, popular streamer NEKO\#ΦωΦ, who was acquitted of all charges for her involvement in the infamous hacking incident, has returned to her home. Previously, this paper caught sight of one-man band leader Xenon and CherryPuNK lead vocalist Cherry accompanying her as she left the Bureau. Today, there has been a new update to the situation. 
 
 Yesterday afternoon, Xenon left his home alone. After cautiously looking around, he rode his motorcycle directly to a civilian household on 07 street in Quadrant II. That household turned out to be NEKO's home. According to photos taken by our reporter on-site, Xenon was welcomed into the house by NEKO's family and went directly to her room. For around 20 minutes, the two stayed in her room, alone. The lights were turned off, making it impossible for us to determine what they were up to. As sunset approached, Xenon did not stay for dinner. After a quick chat with NEKO at the doorway, he left on his motorcycle. 

@@ -1,6 +1,6 @@
 # Long Time No See!! Chatting time!!
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 HELLOOOOO~~~<br>
 Did you guys miss NEKO?? <br>
 (\*Φ∀Φ)(\*Φ∀Φ)(\*Φ∀Φ)<br>

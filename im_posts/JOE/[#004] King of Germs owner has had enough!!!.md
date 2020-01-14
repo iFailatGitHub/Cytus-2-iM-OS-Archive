@@ -1,6 +1,6 @@
 # King of Germs owner has had enough!!!
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 You bunch of freakin idiots!!!<br>
 Protest here, riot there, and now you are hosting f\*\*\*\*\* mortal kombat in my shop!<br>
 Now my floor is covered with blood-red YAMAMETO<br>

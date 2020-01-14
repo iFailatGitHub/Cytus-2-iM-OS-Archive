@@ -1,6 +1,6 @@
 # If I see a famous artist...
 ## Post
-NekoSamurai:<br>
+**NekoSamurai**<br>
 The artists still have to go to work<br>
 If I happen to run into one
 

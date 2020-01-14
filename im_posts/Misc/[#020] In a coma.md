@@ -1,6 +1,6 @@
 # In a coma
 ## Post
-kou:<br>
+**kou**<br>
 My younger brother has been in a coma ever since the PAFF concert...
 ## Replies
 **Juggernaut**<br>

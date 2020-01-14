@@ -1,6 +1,6 @@
 # Listen, all of you
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Right now, pointless protest and/or sabotage will only bring trouble on yourselves. Surrounding Mono HQ is a nonsensical and dumb idea in the first place. 
 
 As you know, someone already got injured. You people really think that resorting to violence and being the loudest voice in the crowd will justify your actions? All this blind emotion will only make you look like a bunch of uncivilized monkeys. 

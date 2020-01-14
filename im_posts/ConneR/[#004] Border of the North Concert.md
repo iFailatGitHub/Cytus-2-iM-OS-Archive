@@ -1,6 +1,6 @@
 # Border of the North Concert
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　I guess a promotion here wouldn't hurt. My next concert, as usual, will be held at Central Music Hall at Quadrant I. The performance this time will feature classical works of Northen musicians the likes of Rachmaninoff and Stravinsky.
 
 　Of course, my newest work will also be featured. Don't miss out on it. 

@@ -1,6 +1,6 @@
 # [Sponsored] GROOVE COASTER arrives with a splash!
 ## Post
-GC_Official:<br>
+**GC_Official**<br>
 Follow the trails of music into cyberspace! A colorful and fantastic showcase<br>
 "FUJIN Rumble" arrives on cyTus!
 

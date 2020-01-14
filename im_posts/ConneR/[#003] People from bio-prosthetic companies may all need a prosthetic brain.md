@@ -1,6 +1,6 @@
 # People from bio-prosthetic companies may all need a prosthetic brain
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　Recently the condition of my prosthetic arm has been god awful, to say the least. Makes me wonder if I accidentally ordered a leg instead of an arm; that or they actually sold me some junk scraped from the morgue.
 
 　Gradually getting used to this non-organic arm, but when awoken in the middle of the night by an unstable nerve shock, I still get a nauseous feeling. Is this the compensation for modern technology?

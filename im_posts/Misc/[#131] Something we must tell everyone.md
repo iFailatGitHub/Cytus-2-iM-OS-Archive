@@ -1,6 +1,6 @@
 # Something we must tell everyone
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 This is a sad news, but we have to let everybody know. Last week, our band's lead vocalist Cherry, real name Sherry Pauline, has left us due to an accident.
 
 We're still in shock and disbelief regarding this sudden tragedy. She is so considerate, so kind, and so talented. Our thoughts and prayers are with her family and friends, as well as all of you who loved her.

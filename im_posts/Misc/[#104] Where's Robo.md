@@ -1,6 +1,6 @@
 # Where's Robo?
 ## Post
-Snor_eDen:<br>
+**Snor_eDen**<br>
 It feels like I haven't seen a post from robohead in a long time<br>
 The last post is also from quite a while ago<br>
 Is he getting a repair or preparing a new Live???

@@ -1,6 +1,6 @@
 # Lightspeed the Capybara
 ## Post
-Curo:<br>
+**Curo**<br>
 Anyone see the latest trailer for Lightspeed the Capybara?? Whaddaya think? Leave your thoughts below~
 
 **\#LightspeedTheCapybara**<br>

@@ -1,6 +1,6 @@
 # Met an old friend in a new place
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. 
 
 　Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place. 
@@ -13,7 +13,7 @@ ConneR:<br>
 　I believe that I can also learn a lot from you. I look forward to interacting with you more. 
 
 **RaiKiyumi**<br>
-OMG a meeting between two master class musicians >////
+OMG a meeting between two master class musicians >////<
 
 **CozyCaty**<br>
 I'm also a huge fan of ROBO\_Head

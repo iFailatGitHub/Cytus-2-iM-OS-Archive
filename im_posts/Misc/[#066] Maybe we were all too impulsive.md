@@ -1,6 +1,6 @@
 # Maybe we were all too impulsive
 ## Post
-HandsomeYi:<br>
+**HandsomeYi**<br>
 I was there on-site for all of the previous riots. I was indeed quite p\*\*\*ed off at first. When the admins started interfering, I was also furious because I don't know why they were helping Mono with their shady businesses. However, I do feel like we were the ones to blame for injuring an innocent artist too. We can't just pretend that everything is Mono's fault.
 
 I know that I might get a lot of hate for this, but we should all calm down and think about this carefully imho

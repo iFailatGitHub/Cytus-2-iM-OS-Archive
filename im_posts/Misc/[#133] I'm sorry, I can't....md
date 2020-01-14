@@ -1,6 +1,6 @@
 # I'm sorry, I can't...
 ## Post
-maplewing:<br>
+**maplewing**<br>
 To be honest, I'm still in disbelief...<br>
 Why did a such a healthy person just...<br>
 I even watched her perform live not too long ago<br>

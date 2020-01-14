@@ -1,6 +1,6 @@
 # The corner of the city
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 Has anyone been to Quadrant I?<br>
 That's an area where very few people live or even talk about now<br>
 A while ago, I paid the area a visit to draw some inspiration<br>

@@ -1,6 +1,6 @@
 # Does MeowBot have field service?
 ## Post
-Shibawu:<br>
+**Shibawu**<br>
 MeowBot is completely broken. Panoramic camera crashed and now my home is covered with corrupted footage. I can't find the Bot nor can I find the door. SOS!
 ## Replies
 **Uctron_Rust**<br>

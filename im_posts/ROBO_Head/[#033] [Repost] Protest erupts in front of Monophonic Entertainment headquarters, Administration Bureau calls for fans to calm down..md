@@ -1,6 +1,6 @@
 # [Repost] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Monophonic Entertainment][Riot][PAFF]<br>
 > A protest broke out in Node 08's business district today. Angry fans surrounded Monophonic Entertainment's headquarters and a riot ensued. This protest is largely due to the fan dissatisfaction that has been building up since Monophonic's popular diva singer PAFF disappeared from the hospital she was resting in. Monophonic Entertainment's mishandling of the PAFF situation on top of the lackluster PR work they did afterward was what ultimately led to the chaos today. According to the drone analysis, there are thousands of protesters already on-site and the number is still increasing. The building where Monophonic Entertainment is located has been sealed off for safety reasons. The company has also request security and other assistance from the Administration Bureau.<br>
 > <br>

@@ -1,6 +1,6 @@
 # [Repost] Looking back at major riots in history
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Riot][Monophonic Entertainment][Social Commentary][Show]<br>
 > Welcome back to Blitz Newsline, the place where we provide news on the latest news. I'm your host, Jay. Alright, the Monophonic Entertainment riot incident that caused quite the ruckus these days has finally come to an end after the Administration Bureau interfered. This is a riot that escalated from a street protest, a rare sight in recent years. What kind of meaning does this represent? Our history expert Sid is here to answer the question. Hello, Sid!<br>
 > <br>

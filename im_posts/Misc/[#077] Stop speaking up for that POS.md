@@ -1,6 +1,6 @@
 # Stop speaking up for that POS
 ## Post
-BlackNicholas:<br>
+**BlackNicholas**<br>
 Isn't Xenon the most suspicious one ever since this whole incident started???<br>
 This issue of 08 Daily stated that too<br>
 He's a computer genius who started to display his talents at a very young age<br>

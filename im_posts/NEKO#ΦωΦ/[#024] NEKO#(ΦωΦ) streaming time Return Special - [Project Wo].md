@@ -1,6 +1,6 @@
 # NEKO#(ΦωΦ) streaming time: Return Special - [Project Wo]
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Ladies and germs, even though a lot has happened, nothing can stand between us and video games!<br>
 Thaaaaat's right! NEKO stream, back in business \\(Φˋ口ˊΦ)/ !!!
 

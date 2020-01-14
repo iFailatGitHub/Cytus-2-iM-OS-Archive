@@ -1,6 +1,6 @@
 # What's the point of keeping military drones in service??
 ## Post
-WhiteEYE33:<br>
+**WhiteEYE33**<br>
 The Nodes are so small, how can they let those missiles be flying back and forth?<br>
 Even if they're suppressing the gangs,non-lethal force is normally used first<br>
 Why don't the admins simply decommission those drones?<br>

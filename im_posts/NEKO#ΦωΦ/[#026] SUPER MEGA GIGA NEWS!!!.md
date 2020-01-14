@@ -1,6 +1,6 @@
 # SUPER MEGA GIGA NEWS!!!
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really~~~~~ BIG secret!!
 
 **\#MonoIsF\*\*\*ed**<br>

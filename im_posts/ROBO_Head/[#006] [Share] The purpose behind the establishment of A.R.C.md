@@ -1,6 +1,6 @@
 # [Share] The purpose behind the establishment of A.R.C
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Knowledge][Technology][ARC]<br>
 > The A.R.C. was established two centuries ago. It is dedicated to the excavation, recovery, development and recreation of past technologies and provides said technology for all humans to use equally. <br>
 > Of all the technology, the one that affects humans the most is certainly the creation and application of imitation Bio-neural networks. It led to a massive increase in the amount of data transferred and a much-improved internet using experience. <br>

@@ -1,6 +1,6 @@
 # ID chip
 ## Post
-Mist101:<br>
+**Mist101**<br>
 Is it illegal to swap ID chips with someone else? How about one person owning multiple IDs that connects to cyTus?<br>
 
 ## Replies

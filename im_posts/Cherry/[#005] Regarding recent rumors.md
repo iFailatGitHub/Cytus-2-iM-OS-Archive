@@ -1,6 +1,6 @@
 # Regarding recent rumors
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 Goodnight everybody
 
 Cherry here<br>

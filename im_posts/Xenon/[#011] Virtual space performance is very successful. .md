@@ -1,6 +1,6 @@
 # Virtual space performance is very successful. 
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Thank you to everyone who connected to the Live yesterday. <br>
 Although the optic guitar went nuts due to connection, making it hard to control, the performance overall is a great success. <br>
 Since this is a subscribers-only performance, there wasn't too much promotion beforehand. <br>

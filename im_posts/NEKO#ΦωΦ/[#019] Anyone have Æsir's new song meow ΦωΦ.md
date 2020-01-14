@@ -1,6 +1,6 @@
 # Anyone have Æsir's new song meow ΦωΦ?
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 People've been spreading s\*\*\* about him<br>
 During his half-year long disappearance, is he composing in secret or he is escaping from loan sharks ΦωΦ?？
 

@@ -1,6 +1,6 @@
 # Time to show off ma new equipment A_A
 ## Post
-CyberLord:<br>
+**CyberLord**<br>
 Finally got myself a new connection device<br>
 Feast your eyes on its shiny golden glory!!!!
 

@@ -1,6 +1,6 @@
 # What is Archaeology
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.
 
 　People who devoted themselves to archaeology, are not shovel-wielding, hole-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds.  

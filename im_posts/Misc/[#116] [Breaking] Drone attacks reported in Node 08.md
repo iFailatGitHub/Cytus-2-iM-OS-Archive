@@ -1,6 +1,6 @@
 # [Breaking] Drone attacks reported in Node 08
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [Breaking News][Drones][Attack][Casualties]<br>
 > A few hours ago, there had been several eyewitness reports from Node 08 that reported abnormal flight patterns from drones. .Just now, we've also been gradually receiving news regarding the drones' attacks on the cities. Due to the extreme chaos at the site, the number of casualties and other details are still unknown.<br>
 > <br>

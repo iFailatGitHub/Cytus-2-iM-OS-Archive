@@ -1,6 +1,6 @@
 # What kind of nonsense BS are they spewing
 ## Post
-JOE:<br>
+**JOE**<br>
 Haven't been this p\*\*\*ed off in a long time! My uncle always told me that paparazzi is a job for losers; today I finally get what he meant by that!! I've known Simon since the days of CP. His sense of justice and his dedication to his principles are simply unrivaled. I mean, this dude doesn't even drink booze in my shop! He orders milk all the time! Why the f\*\*\* would anyone think he is an internet terrorist??
 
 Here's also a shoutout to all the damn reporters who want gossip on him. I sincerely invite you to check him out in my shop (Minimum order required). You can look at him while he's helping more people, trying to solve the case, and drinking milk. You'll realize that every word I said about him is absolutely true.

@@ -1,6 +1,6 @@
 # Will NEKO actually participate in ROBO_Radio_Live ΦωΦ I dunno~~
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Nyan Nyan Nyan Nyan Nyan ~ Meow Meow Meow~ So many people have been PMing NEKO for the past two days σ(Φ∀Φ)σ<br>
 My inbox is gonna Explode! LMFAO XDDDD<br>
 ENOUGH! No more questions!!!!<br>

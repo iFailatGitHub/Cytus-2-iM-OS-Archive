@@ -1,6 +1,6 @@
 # Ran into a wild NEKO!!!!
 ## Post
-Rinko:<br>
+**Rinko**<br>
 Today I was shopping with my friends at Quadrant III area B, And we ran into a wild **@NEKO\#ΦωΦ**!!!<br>
 She took a photo with us~ yeah <3<br>
 The real NEKO is so small, just like a kitten. She's a little shy and that's so frickin adorable!!!<br>

@@ -1,6 +1,6 @@
 # [Announcement] PAFF is now awake, everything is fine.
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Greeting fellow fans. I am Helena, PAFF's agent. 
 
 PAFF is now awake. Her condition is stable, but to be absolutely certain that she is fine, we will be staying at the hospital for a few more days to do a complete check-up.

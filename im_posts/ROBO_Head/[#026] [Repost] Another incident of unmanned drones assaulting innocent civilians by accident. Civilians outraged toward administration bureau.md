@@ -1,6 +1,6 @@
 # [Repost] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Administration Bureau][Unmanned Drones][Social Issues]<br>
 > Yesterday, in the middle of the night, a law enforcement drone performing its routine patrol at Node 08 Quadrant I's automatic area accidentally attacked a civilian household in the area. A model LE-117 Striker drone that belongs to the Node 08 Administration Bureau suddenly lost control and launched shock blast grenades at a civilian building.  The law enforcement agent who was controlling the drone remotely via a virtual connection also suffered minor damage to his brain when the error occurred. The good news is that the Administration Bureau instantly reacted and shut down the drone's battery, therefore no further damage was caused.<br>
 > <br>

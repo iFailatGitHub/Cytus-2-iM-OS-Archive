@@ -1,6 +1,6 @@
 # Any idea why such a winner in life would go and commit crimes??
 ## Post
-WeskerLam:<br>
+**WeskerLam**<br>
 Seriously, why?<br>
 Genius, has a job that pays really well, knows how to play music, BOTH his rumored girlfriends are super hot/cute girls anyone would die to date<br>
 It's not like he's a loser weeb like me who can only get a tiny sense of happiness through dating sims and simulation games<br>

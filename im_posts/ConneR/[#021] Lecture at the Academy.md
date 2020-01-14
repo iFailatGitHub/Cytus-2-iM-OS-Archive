@@ -1,6 +1,6 @@
 # Lecture at the Academy
 ## Post
-ConneR:<br>
+**ConneR**<br>
 I hinted about this a while ago. Today, I'm here to make an official announcement.
 
     Because of an invitation from A.R.C., I will be giving lectures at the Academy in my spare time of heading the research project. The topics will be the correct attitude and mental fortitude for archeological excavation. I will also mention my new viewpoints on researches about ancient civilizations. Since it's in the Academy, I won't delve into overly minute details. Nevertheless, I will reveal many unimaginable things that you won't believe exists. You don't want to miss it.

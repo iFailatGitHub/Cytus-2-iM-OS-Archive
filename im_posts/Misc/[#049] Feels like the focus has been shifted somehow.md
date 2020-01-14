@@ -1,6 +1,6 @@
 # Feels like the focus has been shifted somehow
 ## Post
-Nyd_Ans:<br>
+**Nyd_Ans**<br>
 Much fewer people seem to care about the Æsir event now?
 
 

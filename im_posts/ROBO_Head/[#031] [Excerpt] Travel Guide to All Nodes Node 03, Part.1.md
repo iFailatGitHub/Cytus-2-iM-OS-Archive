@@ -1,7 +1,7 @@
 # [Excerpt] Travel Guide to All Nodes: 
 Node 03, Part.1
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Show][Travel][Node 03]<br>
 > Half-an-Earth away from Node 08,  the unique Node 03 stands, oozing its mysterious eastern flavors. <br>
 > <br>

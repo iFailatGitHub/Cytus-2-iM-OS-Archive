@@ -1,7 +1,7 @@
 # NEKO#(ΦωΦ) streaming time -
 「Manbora - Seeds of Miracle」
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 SSSSTTTRREEEAAMMM time \\(ΦωΦ)/ Nyaa！！！
 
 ![n0801.png](./attachments/n0801.png)

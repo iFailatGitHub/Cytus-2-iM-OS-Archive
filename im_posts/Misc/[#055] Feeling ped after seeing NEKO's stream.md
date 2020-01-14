@@ -1,6 +1,6 @@
 # Feeling p***ed after seeing NEKO's stream
 ## Post
-JusticeMe:<br>
+**JusticeMe**<br>
 The entertainment industry and the record labels are shady-AF<br>
 Treating artists like products<br>
 Right now, we have no idea what the heck they are up to<br>

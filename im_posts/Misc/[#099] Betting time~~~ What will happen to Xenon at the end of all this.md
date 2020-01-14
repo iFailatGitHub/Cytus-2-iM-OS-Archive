@@ -1,6 +1,6 @@
 # Betting time~~~ What will happen to Xenon at the end of all this???
 ## Post
-Watch_Burn:<br>
+**Watch_Burn**<br>
 A. Locked up for life<br>
 B. ARC use some kind of BS connections to bail out their most important employee<br>
 C. He wipes the memory of everyone in the restricted area again then breaks out<br>

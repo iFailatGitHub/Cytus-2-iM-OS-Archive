@@ -1,6 +1,6 @@
 # I welcome everyone to come and try out the billiards table!!
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 A while ago, I got someone to upgrade the firmware of the old billiards table<br>
 Now we have even more awesome modes for everyone to have fun with~~
 

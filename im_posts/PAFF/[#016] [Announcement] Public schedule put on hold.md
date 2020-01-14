@@ -1,6 +1,6 @@
 # [Announcement] Public schedule put on hold
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Dear little Puffs, we are sorry to tell you that since we still don't have the green light from PAFF's doctor, all public events are put on hold for now. Future events will also be postponed. 
 
 For more updates, please pay attention to **@PAFF-Official** and the Monophonic Entertainment official site. Pray for PAFF!

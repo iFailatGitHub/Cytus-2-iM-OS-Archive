@@ -1,6 +1,6 @@
 # Returning to the skies.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Was originally planning to stay on the surface for only half a year, but the IT at the Node Administration Bureau needs more help, so I had to stay for several more months before finally getting everything on track.
 
 All in all, finally returned to a more comfortable working environment. Although I will miss my physical workshop, this does give me more time with the band.

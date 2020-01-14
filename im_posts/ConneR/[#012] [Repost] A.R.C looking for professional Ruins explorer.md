@@ -1,6 +1,6 @@
 # [Repost] A.R.C looking for professional Ruins explorer
 ## Post
-ConneR:<br>
+**ConneR**<br>
 > Do you have a dream? Do you want to visit Ruins all across the world?<br>
 > <br>
 > No matter how long it takes, no matter how far it is, there is still something that must be completed. A job that leaves an everlasting mark in history<br>

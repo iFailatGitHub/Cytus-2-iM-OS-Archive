@@ -1,6 +1,6 @@
 # [Repost] Explaining the decision behind the contract termination of PAFF
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Announcement][Monophonic Entertainment][PAFF][Contract Termination]<br>
 > ... After Miss White went missing without notice, we have also tried our utmost to search for her and handle the losses. However, her action is indeed a violation of her contract and has already caused the company a substantial amount of damage, including property damage, other contract artists getting injured and more. In addition, it has led to the mistrust between fellow fans and the company, something neither of us wants to see happen. <br>
 > <br>

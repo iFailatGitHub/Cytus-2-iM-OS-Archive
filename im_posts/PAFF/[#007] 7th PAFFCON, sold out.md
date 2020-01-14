@@ -1,6 +1,6 @@
 # 7th PAFFCON, sold out
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Thank you for the support little Puffs~ all tickets have been sold!
 
 If her stamina can handle it, PAFF might try adding a few more physical sessions!

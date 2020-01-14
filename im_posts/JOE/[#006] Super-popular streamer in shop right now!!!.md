@@ -1,6 +1,6 @@
 # Super-popular streamer in shop right now!!!
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 Haha thank you to **@NEKO\#ΦωΦ** for visiting the shop!!<br>
 You are so much easier to chat to than that helmet-wearing nerd!!<br>
 Come visit me again soon!!!!!

@@ -1,6 +1,6 @@
 # [Repost] Node 08 Quadrant II suffered devastating drone attack
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [News][Drones][Attack][Quadrant II]<br>
 > Node 08 Quadrant II's business district suffered a severe drone attack incident. Rumors have come out stating that the attack has left at least 30 dead and over 200 civilians injured. As of now, the Administration Bureau has sealed off all traffic routes entering and exiting that area. Anyone who passes through the area, including pedestrians traveling on foot, must undergo examinations before they can proceed ahead. <br>
 > <br>

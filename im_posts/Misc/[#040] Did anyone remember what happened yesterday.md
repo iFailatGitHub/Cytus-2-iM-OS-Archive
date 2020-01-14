@@ -1,6 +1,6 @@
 # Did anyone remember what happened yesterday??
 ## Post
-lenba:<br>
+**lenba**<br>
 I remember that I attended the launch celebration party, but have no memories of what actually happened. I woke up today on my bed still wearing my suit<br>
 
 ## Replies

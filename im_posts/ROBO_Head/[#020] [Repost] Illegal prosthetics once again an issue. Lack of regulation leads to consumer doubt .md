@@ -1,6 +1,6 @@
 # [Repost] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Technology][Prosthetics]<br>
 > Another accident caused by illegal prosthetics, this time in Node 08's Quadrant III industrial area. A man suddenly went berserk at work. The pistons in his prosthetic right arm began to move on their own, attacking nearby colleagues and security guards that arrived on site to stop him. The accident left one dead and twelve injured.<br>
 > <br>

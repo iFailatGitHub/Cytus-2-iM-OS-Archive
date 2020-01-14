@@ -1,6 +1,6 @@
 # Magnificent Diva, new song announcement
 ## Post
-Saito_Official:<br>
+**Saito_Official**<br>
 [NODE 03 Magnificent Diva, new song announcement]<br>
 MIKU collabs with NODE 08's mischievous streamer NEKO to release a brand-new single!
 

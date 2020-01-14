@@ -1,6 +1,6 @@
 # [Breaking] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Æsir][Hacker][ICybercrime][A.R.C.][Administration Bureau]<br>
 > We have received the latest news. Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents. <br>
 > <br>

@@ -1,6 +1,6 @@
 # [Announcement] Congratulations to ROBO_Radio_LIVE for the successful concert
 ## Post
-Mono_official:<br>
+**Mono_official**<br>
 To our dear fans and precious customers,
 
 First of all, Monophonic Entertainment would like to congratulate the recently concluded ROBO\_Radio\_LIVE for its overwhelming success. To allow people who love music to all come together and share the emotions is also one of the main goals of Monophonic Entertainment when it was established. 

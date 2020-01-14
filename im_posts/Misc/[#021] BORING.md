@@ -1,6 +1,6 @@
 # BORING
 ## Post
-RamenBot:<br>
+**RamenBot**<br>
 It's been so boring these days, is there any news besides the PAFF stuff
 ## Replies
 **BUCK$**<br>

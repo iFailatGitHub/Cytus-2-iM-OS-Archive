@@ -1,6 +1,6 @@
 # [Announcement] Tower 054 celebration event guest revealed
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Dear little Puffs, do you remember the rookie band **@Cherry PuNK** who composed a song for PAFF ~~
 
 Originally, PAFF was scheduled to participate in the Tower 054 new floor "108" 's opening celebration event. However, since she is still not feeling well, she is unable to be present at the event herself. She will be talking with everyone through a pre-recorded video. Monophonic Entertainment also invited Cherry PuNK to be at the event as special guests!

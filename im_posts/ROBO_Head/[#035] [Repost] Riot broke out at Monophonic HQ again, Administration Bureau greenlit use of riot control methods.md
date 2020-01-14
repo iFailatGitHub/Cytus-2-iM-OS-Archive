@@ -1,6 +1,6 @@
 # [Repost] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Administration Bureau][Monophonic Entertainment][Riot][PAFF]<br>
 > Following the incident a few days ago where angry fans surrounded Monophonic Entertainment Headquarters, a second riot erupted today. This one is largely believed to be related to Monophonic Entertainment's announcement of its contract termination with missing idol singer PAFF. Most fans viewed this as an act of evading responsibility, thus leading to today's incident. <br>
 > <br>

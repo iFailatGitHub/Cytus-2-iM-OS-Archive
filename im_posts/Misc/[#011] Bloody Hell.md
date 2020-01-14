@@ -1,6 +1,6 @@
 # Bloody Hell
 ## Post
-KiwaHu:<br>
+**KiwaHu**<br>
 If you are doing human body art or small reforms, don't go to BH. Customer service is slow and their attitude is crap. Dealing with them drives me nuts.
 ## Replies
 **iNydM0N3Y**<br>

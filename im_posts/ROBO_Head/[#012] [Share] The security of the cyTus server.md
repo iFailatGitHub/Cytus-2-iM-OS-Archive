@@ -1,6 +1,6 @@
 # [Share] The security of the cyTus server
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Knowledge][Technology][cyTus]<br>
 > The security system for the cyTus server is very tight. It is basically a giant military fortress in the sky. A.R.C. not only has the air force protecting it; even A.R.C. employees must go through multiple levels of security checks before entering the building. <br>
 [Article excerpted from A.R.C. annual security report]

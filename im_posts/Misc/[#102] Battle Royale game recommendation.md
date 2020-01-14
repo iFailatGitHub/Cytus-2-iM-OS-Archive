@@ -1,6 +1,6 @@
 # Battle Royale game recommendation
 ## Post
-NnNn:<br>
+**NnNn**<br>
 Figure I'd pick up a battle royale game to give the genre a shot <br>
 iM folks, recommendations plz!!!
 ## Replies

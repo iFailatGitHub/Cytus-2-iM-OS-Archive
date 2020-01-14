@@ -1,6 +1,6 @@
 # [Repost] Concert accident? Singer collapsed on stage
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Entertainment][PAFF]<br>
 > PAFF, the music diva who was harassed by a male fan a while ago, had another incident. At the end of a three-hour physical concert at Node 08, she fainted on stage while singing the encore song "Gravity". The singer's sudden collapse had the audience in utter shock. Her agency immediately called off the concert and arranged her for an emergency medical checkup. Many worried fans followed the singer to the hospital and waited outside, hoping for the best.<br>
 > PAFF's agent, Helena, stated: "PAFF is now awake. Her physical conditions are very stable with no major issues. However, to ensure that she is 100% fine, she will be be staying at the hospital for a few more days to do a detailed checkup." <br>

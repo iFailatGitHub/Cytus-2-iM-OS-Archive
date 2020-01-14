@@ -1,6 +1,6 @@
 # NEKO's~ super question time!! \ΦωΦ)/
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Helllooo~~ Everyone~~~ NEKO here~~~~ (\*Φ₃Φ)~♥<br>
 Quick question for mah fans<br>
 Any good hair dye recommendations out there~?<br>

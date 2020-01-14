@@ -1,6 +1,6 @@
 # Paranormal: Bug collection
 ## Post
-Manpora:<br>
+**Manpora**<br>
 Has anybody organize the wide variety of paranormal incidents on the virtual internet recently?<br>
 I'll start
 

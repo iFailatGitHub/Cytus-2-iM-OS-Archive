@@ -1,6 +1,6 @@
 # The limits of Artificial Intelligence
 ## Post
-KirinKiraKira:<br>
+**KirinKiraKira**<br>
 I know technology is quite developed right now. However, Artificial Intelligence is nowhere near the level of having a virtual girlfriend! WTF is A.R.C. doing?
 ## Replies
 **Mohito**<br>

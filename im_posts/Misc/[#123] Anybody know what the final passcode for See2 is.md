@@ -1,6 +1,6 @@
 # Anybody know what the final passcode for See2 is?
 ## Post
-Hulujam:<br>
+**Hulujam**<br>
 Lately, a friend sucked me into<br>
 buying the game See2: US<br>
 After beating it all, this screen popped up and asked for a password to unlock extra content<br>

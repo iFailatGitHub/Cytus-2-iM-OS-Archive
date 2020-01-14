@@ -1,6 +1,6 @@
 # Is it just me, or does someone else also feel like Æsir is a legendary performance artist?
 ## Post
-ShrimpBye:<br>
+**ShrimpBye**<br>
 Æsir (I think it should be fair to directly call him Simon or Xenon now)<br>
 is totally a legendary performance artist~~~~~
 

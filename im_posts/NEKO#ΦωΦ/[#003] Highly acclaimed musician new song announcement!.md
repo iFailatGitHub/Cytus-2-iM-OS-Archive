@@ -1,6 +1,6 @@
 # Highly acclaimed musician new song announcement!
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 It takes quite the talent to use the analog synthesizer to this level. Mixing is clean and good too (\*Φ₃Φ)~♥<br>
 Composed and produced all by yourself~<br>
 This is what I call "music with heart" !!ヽ(Φˋ口ˊΦ)ノ<br>

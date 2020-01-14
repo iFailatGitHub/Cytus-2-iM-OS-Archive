@@ -1,6 +1,6 @@
 # Holy F*** is this news real!!!
 ## Post
-PoolsKitten:<br>
+**PoolsKitten**<br>
 I heard my friend say<br>
 that PAFF was discovered running around on the streets with NEKO<br>
 Never thought that the legendary Yuri ship that only exists in the weebs' mind will become canon one day!!<br>

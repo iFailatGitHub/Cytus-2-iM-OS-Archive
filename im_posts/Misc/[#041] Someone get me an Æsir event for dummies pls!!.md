@@ -1,6 +1,6 @@
 # Someone get me an Æsir event for dummies pls!!
 ## Post
-Noposa:<br>
+**Noposa**<br>
 There's like a boatload of them out there. Multiple different versions too
 ## Replies
 **HC**<br>

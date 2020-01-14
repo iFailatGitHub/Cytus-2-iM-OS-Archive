@@ -1,6 +1,6 @@
 # [Repost] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Node03][Explosion][Fire][Accident][Administration Bureau]<br>
 > Last night, a series of chained explosions occurred in Node 03, Quadrant IV. It is suspected that a leak in the local pipeline system has resulted in at least 30 major explosions. The flames quickly engulfed the dozens of buildings nearby. Estimated casualties currently sit at 20 dead and 300+ injured. In order to prevent further accidents, Node 03's Administration Bureau has cut off the energy pipelines and electric power supply within a radius of several kilometers around the area.<br>
 > <br>

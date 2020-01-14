@@ -1,6 +1,6 @@
 # It's just a dream, just a dream
 ## Post
-Dreamer:<br>
+**Dreamer**<br>
 In my dream, the most influential organization in Node 08 actually contains some shady people that are stealing their recreated-yet-undeveloped tech to sell them for a huge profit. You know, dangerous things like Anti-gravity tech~ weapons of mass destruction~ enhancement surgery~ bioweapons...etc.
 ## Replies
 **Dreamer**<br>

@@ -1,6 +1,6 @@
 # I just saw someone trash a car...
 ## Post
-Arkman:<br>
+**Arkman**<br>
 Feels like a lot of freaky people are mixed in the crowd??<br>
 But I don't have the balls to yell "Stop it, you cream puffs"... 
 ## Replies

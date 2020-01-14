@@ -1,6 +1,6 @@
 # Those long lost memories
 ## Post
-ConneR:<br>
+**ConneR**<br>
 Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself.
 
     Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.

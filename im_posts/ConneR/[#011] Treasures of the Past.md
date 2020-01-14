@@ -1,6 +1,6 @@
 # Treasures of the Past
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 
 
 　Music that wonderful once existed yet we have no way to listen to it now, what a pity.

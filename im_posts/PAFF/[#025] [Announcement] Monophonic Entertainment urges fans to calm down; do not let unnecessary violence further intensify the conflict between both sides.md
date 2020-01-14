@@ -1,6 +1,6 @@
 # [Announcement] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 To our dear fans and beloved customers,
 
 For the past few days, Monophonic Entertainment has been at the center of a serious conflict. The situation has taken a turn for the worse, as a fellow Monophonic Entertainment artist was violently attacked and suffered physical injuries earlier today. These incidents have severely harmed the company's reputation and our employee's safety. They are also chipping away at the positive relationship this company has built with the fans throughout the years.

@@ -1,6 +1,6 @@
 # About the optic guitar.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Some people may have seen my performance using the optic guitar. That's only a prototype, what do you guys think about the sound?
 
 The purpose of this post is to inform you guys that a modified version is almost complete. Should survive the recording of an entire album. 

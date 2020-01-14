@@ -1,6 +1,6 @@
 # [Sponsored] Embark on your journey
 ## Post
-Sdorica_Official:<br>
+**Sdorica_Official**<br>
 A grand tale that resonates with your soul; a gameplay experience with great visuals and music
 
 Famous streamer NEKO\#ΦωΦ: "Look at these Beau~tiful visuals and the music; mmm~ SO GOOD (\*Φ∀Φ)~"<br>

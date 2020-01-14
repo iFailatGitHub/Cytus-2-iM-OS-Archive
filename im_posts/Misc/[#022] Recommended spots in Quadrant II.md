@@ -1,6 +1,6 @@
 # Recommended spots in Quadrant II
 ## Post
-SH11HO:<br>
+**SH11HO**<br>
 I'm going to Quadrant II today, any recommendations?
 ## Replies
 **BUCK$**<br>

@@ -1,6 +1,6 @@
 # More of this BS and I'm going to Mono for some actual answers
 ## Post
-An0nym0us:<br>
+**An0nym0us**<br>
 Haven't been this disappointed in a company for a while<br>
 Can't even tell us the whereabouts of their own artist<br>
 Cancel events to avoid giving any explanation<br>

@@ -1,7 +1,7 @@
 # [Repost] A.R.C dinner party announcement: 
 Major breakthrough in Artificial Intelligence
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Technology][News][ARC][A.I.]<br>
 > The Institute of Ancient Ruin Civilization (A.R.C.) announced at their routine dinner party that they will be releasing an interactive software that allows the public to simulate exploration in the forbidden areas. This software is available for download at the A.R.C. official site. In addition, A.R.C. is scheduled to make a huge announcement at an upcoming press conference. Inside sources told us that the topic of this announcement will be on AI and its interaction with human emotions. <br>
 [Article excerpted from Node News Network]

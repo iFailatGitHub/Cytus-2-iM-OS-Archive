@@ -1,6 +1,6 @@
 # New Instrument
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 
 
 　The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition. 

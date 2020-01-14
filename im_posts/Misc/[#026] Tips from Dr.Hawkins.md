@@ -1,6 +1,6 @@
 # Tips from Dr.Hawkins
 ## Post
-Dr. Hawkins:<br>
+**Dr. Hawkins**<br>
 Although it's a bit weird to give this tip on iM, I would advise everyone to control their time using the internet. <br>
 Recently, there has been a significant increase in patients who visit us due to discomfort caused by virtual connections. We have categorized them as victims of an internet addiction syndrome.<br>
 No matter how advanced technology has become, using the virtual connection for a long period of time will still cause a certain level of stress to the brain. Please take good care of your body.

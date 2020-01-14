@@ -1,6 +1,6 @@
 # My band members.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Topic looks like something right out of a middle school essay. Whatever, today I would like to introduce my band members:
 
 **Lead Singer - Xenon - V<br>

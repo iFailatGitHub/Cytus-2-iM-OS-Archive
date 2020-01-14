@@ -1,6 +1,6 @@
 # Please Calm Down.
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Even though posting stuff that is not music here is against my original intention when I first created this account, things have been getting out of hand lately, to the point where I feel like an explanation is necessary.
 
 Regarding the recent string of internet incidents and the memory and physical harm caused to users by Æsir-FEST, I understand everyone's anxiety and panic right now. However, I'm not exactly in a more comfortable position than you guys.

@@ -1,6 +1,6 @@
 # [Share] What extremely long connection times does to the brain
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Medical][Internet]<br>
 > Fellow online service users, Node United Hospital would like to call your attention to an issue. Last month, thousands of users approached us having suffered symptoms of dizziness, auditory hallucinations and cognitive disorders. All these patients shared one thing: they all had extremely long connection times of over 48 hours before the symptoms surfaced.<br>
 > Thomas Snow, VS of Virtual Psychiatry at Node United Hospital, stated: "In terms of connection times, we recommend setting the cap at 8~12 hours to avoid physical discomfort. If you feel discomfort after disconnecting, please report via the remote medical service and do a basic self-check."<br>

@@ -1,6 +1,6 @@
 # NEKO#ΦωΦ chatting time
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Greetings (ΦωΦ) it's stream time~ ! !
 
 

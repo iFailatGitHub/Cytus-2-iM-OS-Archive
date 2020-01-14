@@ -1,6 +1,6 @@
 # Nyaann~ Long time no see everyone (ΦωΦ)
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Teehee~ looks like I worried a lot of people ΦωΦ?<br>
 Second I opened my inbox and it exploded with messages lololol. Since there are too many of them I just marked all of them as read (Φˋ∀ˊΦ)ゞ
 

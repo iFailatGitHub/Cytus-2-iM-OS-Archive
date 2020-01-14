@@ -1,6 +1,6 @@
 # [Repost] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [Entertainment][Cherry PuNK][Concert]<br>
 > In a recent performance of the popular band Cherry PuNK, lead vocalist Cherry appeared to suffer some serious mismanagement regarding her personal schedule. She was absent for almost 30 minutes before hastily taking the stage to complete the performance. Although her performance is still up to her usual standards, her actions at the start left quite the bad taste. Many audience members criticized her, calling this "The most absurd concert" they've ever seen. <br>
 > <br>

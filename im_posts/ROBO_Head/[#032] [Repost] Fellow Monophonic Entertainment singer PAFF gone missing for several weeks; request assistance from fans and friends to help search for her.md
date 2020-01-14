@@ -1,7 +1,7 @@
 # [Repost] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; 
 request assistance from fans and friends to help search for her
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Announcement][PAFF][Missing]<br>
 > ... PAFF (Real name: Aroma White), an artist who is currently under contract with us, left the hospital she was resting at on the night of September 9th without notice and has been missing since. As of today, her agent, the agency, and other colleagues have been unable to make any kind of contact with her. <br>
 > <br>

@@ -1,6 +1,6 @@
 # [Repost] A.R.C. exploration team founding member Colin Neumann passes away
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [News][Obituary][Archeology]<br>
 > Colin Neumann, patriarch of the Neumann family and veteran A.R.C. exploration team captain, passed away at the family manor in Node 08 on October 23rd at the age of 76 due to illness. <br>
 > <br>

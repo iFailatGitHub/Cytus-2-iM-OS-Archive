@@ -1,6 +1,6 @@
 # Thank you for the support!
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Little Puffs! Good news! PAFF is nominated for Radio POP's "Female Singer of The Year" award!!
 
 The judges are very positive about PAFF's new album. All thanks to the support from every little puff!

@@ -1,6 +1,6 @@
 # Thank you to everyone who came yesterday
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 Hi, I'm Cherry. Thank you to everyone for their passion during yesterday's performance<br>
 LUMY has been saying that it's my turn to write a thank-you post, but I was so tired yesterday that I was out cold the instant I got home... I am so sorry!
 

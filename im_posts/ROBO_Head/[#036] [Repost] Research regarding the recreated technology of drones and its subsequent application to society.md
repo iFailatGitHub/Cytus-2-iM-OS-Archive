@@ -1,6 +1,6 @@
 # [Repost] Research regarding the recreated technology of drones and its subsequent application to society
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Excerpt][Document][Colin Neumann Jr.][Drones]<br>
 >         The Drone is a type of mobile machinery that is equipped with a UI that's shared with the human brain. Originally, they were automatic tools used by the Architects for architecture, excavation, security and other purposes. After "The Decommission" and the disappearance of the Architects, humans founded A.R.C. to recreate and analyze the technology left behind. Due to how widely applicable and convenient the drones are, they are widely used in many fields, especially in areas where it's too risky for humans to venture ourselves.<br>
 > <br>

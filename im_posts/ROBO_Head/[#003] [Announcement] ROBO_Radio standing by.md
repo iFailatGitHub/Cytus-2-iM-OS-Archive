@@ -1,6 +1,6 @@
 # [Announcement] ROBO_Radio standing by
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 ROBO\_Radio online in one hour. <br>
 New song completion percentage:100% ：D
 

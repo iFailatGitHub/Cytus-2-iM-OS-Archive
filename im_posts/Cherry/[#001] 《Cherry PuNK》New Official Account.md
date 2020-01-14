@@ -1,6 +1,6 @@
 # 《Cherry PuNK》New Official Account
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 Hi! We are the next-gen band《Cherry PuNK》!
 
 From now on, all official event announcements and the daily lives of the members will be posted on this account<br>

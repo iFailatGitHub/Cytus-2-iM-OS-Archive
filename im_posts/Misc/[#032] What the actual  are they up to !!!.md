@@ -1,6 +1,6 @@
 # What the actual **** are they up to !!!
 ## Post
-NEKOSAIKOU:<br>
+**NEKOSAIKOU**<br>
 What the heck are the admins up to!? How can they restrain someone for so long?
 
 

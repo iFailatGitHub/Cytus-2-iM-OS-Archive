@@ -1,6 +1,6 @@
 # Hey guys, is a post missing from NEKO's feed?
 ## Post
-Bao:<br>
+**Bao**<br>
 I forgot what was it about. Anyone remember?
 
 

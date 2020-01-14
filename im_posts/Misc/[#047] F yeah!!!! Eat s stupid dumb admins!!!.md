@@ -1,6 +1,6 @@
 # F*** yeah!!!! Eat s*** stupid dumb admins!!!
 ## Post
-NekoSamurai:<br>
+**NekoSamurai**<br>
 NEKO is back, what do you have to say now stupid admins!!!<br>
 The focus of my daily life is now back again~~~~ (opens stream
 ## Replies

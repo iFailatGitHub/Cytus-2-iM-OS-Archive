@@ -1,6 +1,6 @@
 # A short trip
 ## Post
-Marshall:<br>
+**Marshall**<br>
 Just came back from a holiday, man finally feels alive again. You really need to leave your job completely to get actual rest... I attended a mental enhancing camp in another Node; it was a great experience. 
 ## Replies
 **RamenBot**<br>

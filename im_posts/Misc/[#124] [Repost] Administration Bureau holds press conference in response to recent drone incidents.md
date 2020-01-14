@@ -1,6 +1,6 @@
 # [Repost] Administration Bureau holds press conference in response to recent drone incidents
 ## Post
-Andy_Roid:<br>
+**Andy_Roid**<br>
 [News][Drones][Attack][Administration Bureau]<br>
 > An Administration Bureau spokesperson stated: "Concerning the recent sporadic incidents of drones injuring people on accident, our early analysis has labeled this as a system error within the automatic control center. This error caused the system to mistakenly sent unrelated commands to the drones which caused them to malfunction and act abnormally. We've already activated the security protocol. This will increase the patrol frequency of armed Law Enforcement Agents, as well as improve the anti-drone capabilities of Enforcer Drones."<br>
 > <br>

@@ -1,6 +1,6 @@
 # Who's behind this??
 ## Post
-Go55ip:<br>
+**Go55ip**<br>
 Although instances of separate drone malfunctions did occur before this it's getting a little out of hand (Multiple drones malfunction all at once??) <br>
 After all this, people are gonna get PTSD when they see a drone  Who do you think is the one pulling the strings behind the scenes?<br>
 ARC? The Administration Bureau?? Xenon getting his revenge on society???

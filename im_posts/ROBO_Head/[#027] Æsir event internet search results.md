@@ -1,6 +1,6 @@
 # Æsir event internet search results
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 Search Keywords: Æsir, memory loss, NEKO, hack, terrorist attack<br>
 Relevance: High<br>
 Time spread: Past month<br>

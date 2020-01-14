@@ -1,6 +1,6 @@
 # [Finish the survey and win prizes] Anyone want a shot
 ## Post
-NekoSamurai:<br>
+**NekoSamurai**<br>
 A. Æsir is just a puppet. There's a true mastermind behind this<br>
 B. Æsir is the one-man terrorist army against humanity<br>
 C. Æsir doesn't exist. Robo\_Head and others have been lying all this time<br>

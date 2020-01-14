@@ -1,6 +1,6 @@
 # [Repost] Acquittal declared? Live coverage of famous streamer exiting the LED
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Exclusive][Xenon][NEKO][Cherry]<br>
 > Famous streamer NEKO\#ΦωΦ, who was brought in for investigation by the LED due to her involvement with a hacking incident that affected thousands, was acquitted of all charges yesterday morning and has been escorted home by friends.<br>
 > <br>

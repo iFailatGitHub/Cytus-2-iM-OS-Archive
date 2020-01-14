@@ -1,6 +1,6 @@
 # [Repost] A.R.C press conference: AI research will prioritize emotional communication
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Technology][News][ARC][A.I.]<br>
 > In an emergency press conference this morning, the Institute of Ancient Ruin Civilization (A.R.C.) announced that an AI research project is scheduled to be launched very soon. This project is a milestone, as it focuses on something very near and dear to human nature: emotional communication.<br>
 > One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do. A.R.C. has invited highly acclaimed scholar Colin Neumann Jr. to lead the project.<br>

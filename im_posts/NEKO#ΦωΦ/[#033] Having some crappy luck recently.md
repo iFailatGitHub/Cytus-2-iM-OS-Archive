@@ -1,6 +1,6 @@
 # Having some crappy luck recently
 ## Post
-Henry:<br>
+**Henry**<br>
 Recently, whenever I post, 8 out of 10 posts will be corrupted<br>
 Bet this is some Mercury retrograde crap<br>
 In addition, any electronic equipment that has ever come in contact with me has a very high chance of breaking down

@@ -1,6 +1,6 @@
 # Some things must be stated clearly
 ## Post
-Xenon:<br>
+**Xenon**<br>
 Didn't think that I would be so busy that I wouldn't have time to post on iM, and that every time I post it's about things that I find very irritating.
 
 I believe everyone has more or less seen the cover story of this issue's 08 Daily, some reports about my friends and me. 

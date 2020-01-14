@@ -1,6 +1,6 @@
 # [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Entertainment][PAFF]<br>
 > PAFF, a diva who enjoyed immense popularity across all Nodes, was harassed by a hardcore male fan at her promotion concert today. This male fan ran passed the security and screamed directly at PAFF. Fearing that PAFF will be harmed, security immediately apprehended the man. PAFF, while shaken, did not suffer any physical harm. <br>
 > <br>

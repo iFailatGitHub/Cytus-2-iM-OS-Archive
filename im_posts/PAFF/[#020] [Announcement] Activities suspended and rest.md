@@ -1,6 +1,6 @@
 # [Announcement] Activities suspended and rest
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Dear little Puffs, on the recommendation of the doctor, PAFF will be traveling to another Node to rest and rehabilitate.
 
 Therefore all activities will be suspended for a while. For refund policies please visit the official site~

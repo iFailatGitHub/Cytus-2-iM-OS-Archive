@@ -1,6 +1,6 @@
 # The truth of this world
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　Maybe this is an opportunity for everyone to reflect carefully: are there too many things in the world that we simply can't understand and control.
 
 　The Architects created the Node cities on this planet. Did they do it to protect us fragile humans, or are humans mere test rats in a lab?

@@ -1,6 +1,6 @@
 # Man my sides are cramping
 ## Post
-NEKOSAIKOU:<br>
+**NEKOSAIKOU**<br>
 OMFG really fainting on stage lololol are we going the cheesy soap opera route now?
 ## Replies
 **Smurky**<br>

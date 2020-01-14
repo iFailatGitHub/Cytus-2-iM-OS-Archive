@@ -1,7 +1,7 @@
 # [Announcement] Regarding
 《Around the Nodes》concert tour refunds
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Dear little Puffs, thank you for your support and encouragement through all this time.
 
 Monophonic Entertainment is very sorry to announce that due to PAFF's personal health conditions, her《Around the Nodes》concert tour, which was originally scheduled to begin on 702/12/24, will be postponed indefinitely. We promise right here that all fans who purchased tickets will receive a full refund as long as they have the receipt. We sincerely apologize for the inconvenience caused.

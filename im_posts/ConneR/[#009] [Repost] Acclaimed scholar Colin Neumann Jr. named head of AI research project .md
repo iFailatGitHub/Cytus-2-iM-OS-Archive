@@ -1,6 +1,6 @@
 # [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ## Post
-ConneR:<br>
+**ConneR**<br>
 > Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
 > Dr. Neumann is perhaps more well known by his other name, ConneR. A renowned virtual composer on the internet, he is also an archaeologist with a deep knowledge regarding instruments of the past. <br>
 > To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.

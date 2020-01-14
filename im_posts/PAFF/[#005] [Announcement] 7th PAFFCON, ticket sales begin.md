@@ -1,6 +1,6 @@
 # [Announcement] 7th PAFFCON, ticket sales begin
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 Rise up little Puffs!
 
 The annual PAFFCON for this year has been set! This time, it will be a very rare physical concert, right in the Node 08 Dome! 

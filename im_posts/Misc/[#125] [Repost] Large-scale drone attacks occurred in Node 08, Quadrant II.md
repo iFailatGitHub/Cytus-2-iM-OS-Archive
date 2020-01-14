@@ -1,6 +1,6 @@
 # [Repost] Large-scale drone attacks occurred in Node 08, Quadrant II
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [Breaking News][Drones][Attack][Shelter]<br>
 > In Quadrant II of Node 08, at least 10 suicide drone attacks have occurred in areas that are densely populated. The detailed number of casualties is not clear, though the firefighters who responded to the site first have stated that the situation does not look optimistic.<br>
 > <br>

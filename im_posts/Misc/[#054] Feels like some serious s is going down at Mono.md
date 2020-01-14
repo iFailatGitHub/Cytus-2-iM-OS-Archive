@@ -1,6 +1,6 @@
 # Feels like some serious s*** is going down at Mono
 ## Post
-Dogleg:<br>
+**Dogleg**<br>
 Recently, I have access to the Administration Bureau's social hotspot monitoring server due to a research I'm involved in.
 
 Be it internet traffic or actual data density,

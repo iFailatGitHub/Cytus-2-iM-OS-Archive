@@ -1,6 +1,6 @@
 # I don't understand what A.R.C is doing
 ## Post
-Uctron_Rust:<br>
+**Uctron_Rust**<br>
 That Colin Neumann Jr. guy that A.R.C. just hired as an advisor, wasn't he arrested by the admins ten years ago for trespassing into the Ruins? Why would A.R.C. get someone with such a questionable resume?
 ## Replies
 **Mecha_Giga**<br>

@@ -1,6 +1,6 @@
 # [Breaking] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
 ## Post
-Flower_Head:<br>
+**Flower_Head**<br>
 [Breaking][PAFF][NEKO][Missing][Eye Witness]<br>
 > Node 08 idol singer PAFF has been missing for months due to unknown reasons. During her absence, multiple incidents have occurred. From the fans' violent protest regarding Monophonic Entertainment's mistreatment of her disappearance; to the information discovered during the Æsir-FEST investigations that linked PAFF's deteriorating health to a possible memory theft she suffered during the incident and more. Just as everyone is about to give up on the search for her, the case took a very surprising and drastic turn today. <br>
 > <br>

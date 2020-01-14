@@ -1,7 +1,7 @@
 # [Repost] Key evidences provided to law enforcement department;
 famous streamer released after being acquitted of all charges
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [News][Administration Bureau][NEKO][Æsir]<br>
 > The stream hack incident that created quite the buzz a while ago just experienced a dramatic development today. Streamer NEKO\#ΦωΦ, who was marked by the Administration Bureau due to her suspected involvement, was acquitted of all charges and released this afternoon. After contacting the Law Enforcement Department (LED), this reporter was able to receive a quick confirmation of this news.<br>
 > <br>

@@ -1,6 +1,6 @@
 # [Repost] After half year hiatus, comeback from Aesir?
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 > ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....<br>
 Not good news to read when I just woke up (╬ΦдΦ)<br>
 No one will give a damn about his comeback if he didn't give an explanation (ΦωΦ)!<br>

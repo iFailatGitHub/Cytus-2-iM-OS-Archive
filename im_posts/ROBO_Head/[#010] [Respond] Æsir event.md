@@ -1,6 +1,6 @@
 # [Respond] Æsir event
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 Analysis: No Æsir-FEST footage in memory cells.：( <br>
 Speculation: Existence of event   Negative<br>
 Speculation: Existence of related data in memory   Negative<br>

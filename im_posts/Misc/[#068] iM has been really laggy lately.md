@@ -1,6 +1,6 @@
 # iM has been really laggy lately
 ## Post
-Brainmania:<br>
+**Brainmania**<br>
 Sometimes the connection just suddenly gets really slow makes me wonder if I unintentionally connected to another Node's internet<br>
 
 ## Replies

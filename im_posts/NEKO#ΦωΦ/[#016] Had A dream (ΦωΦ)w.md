@@ -1,6 +1,6 @@
 # Had A dream (ΦωΦ)w
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 NEKO had a dream yesterday ΦωΦ.<br>
 It's about this company who is trying to squeeze whatever's left from their musicians lol<br>
 so there's all this crap about memory loss and fainting, all attention-grabbing BS<br>

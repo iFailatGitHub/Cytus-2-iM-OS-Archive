@@ -1,6 +1,6 @@
 # [Announcement] Additional Event Announcement
 ## Post
-CherryPuNK:<br>
+**CherryPuNK**<br>
 [Announcement]<br>
 This week, the "Floor 108 Opening Celebration Event" held at Quadrant III's Tower 054 has invited Cherry PuNK for a special performance. Come and celebrate this occasion with us! (The event is completely free!)
 

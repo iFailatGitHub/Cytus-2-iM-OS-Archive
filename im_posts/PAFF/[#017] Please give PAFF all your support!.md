@@ -1,6 +1,6 @@
 # Please give PAFF all your support!
 ## Post
-PAFF-Official:<br>
+**PAFF-Official**<br>
 PAFF is slowly getting herself back into shape. Everyone, please continue to root for her.
 
 Recently the agent has been watching PAFF very closely, since she is always trying to secretly practice singing. Even virtual simulation training is off limits for her now!

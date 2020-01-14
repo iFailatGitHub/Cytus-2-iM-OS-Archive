@@ -1,6 +1,6 @@
 # [Repost] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
 ## Post
-ROBO_Head:<br>
+**ROBO_Head**<br>
 [Æsir][Breaking][News][ARC][Administration Bureau]<br>
 > The mysterious musician Æsir, who made a high-profile concert announcement half-a-year ago, was exposed by famous internet DJ ROBO\_Head for the suspicious use of illegal methods to erase the memories of all connected users. However, the actual method and purpose of these actions are still unclear. Earlier today, we received some inside news from the law enforcement department of the Administration Bureau. The Bureau has initiated the investigation, and there is a possibility that this incident is related to the "streamer hacked" incident that occurred at the end of last month.<br>
 > <br>

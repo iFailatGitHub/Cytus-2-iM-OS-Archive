@@ -1,6 +1,6 @@
 # Reset
 ## Post
-ConneR:<br>
+**ConneR**<br>
 　Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
 
 　Everything is a brand-new start. objectives to achieve, music to play. Will find a path for myself eventually.

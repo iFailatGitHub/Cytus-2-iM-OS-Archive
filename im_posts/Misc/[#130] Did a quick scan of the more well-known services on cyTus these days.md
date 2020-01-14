@@ -1,6 +1,6 @@
 # Did a quick scan of the more well-known services on cyTus these days
 ## Post
-Henry:<br>
+**Henry**<br>
 1. The new personal information trojan horse virus' affected range includes all connection devices before V11 (In theory, because I don't have devices before V5 with me. However, nobody should be using those XD)
 
 2. The more they fix iM, the crappier it gets. However, the development team has announced the update plans for next season. Can look forward to it.

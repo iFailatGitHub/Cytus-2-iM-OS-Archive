@@ -1,6 +1,6 @@
 # HEY Y'all! I'm still alive!
 ## Post
-JOEZ Cafe:<br>
+**JOEZ Cafe**<br>
 Ummm, h-hey guys~~ I'm still alive haha~~<br>
 Sorry, it seems like I freaked everyone out<br>
 When my store got blown up, I just so happened to be crushed underneath all those cases of Yamameto<br>

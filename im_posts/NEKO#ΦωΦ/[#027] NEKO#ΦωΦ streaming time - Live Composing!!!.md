@@ -1,6 +1,6 @@
 # NEKO#ΦωΦ streaming time - Live Composing!!!
 ## Post
-NEKO#ΦωΦ:<br>
+**NEKO#ΦωΦ**<br>
 Enough games for today. Let's do something different. Time to unveil my super secret Critical Arts (\*Φ∀Φ)<br>
 LIVE!!!<br>
 COMPOSING!!!<br>
