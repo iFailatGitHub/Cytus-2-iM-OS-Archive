@@ -5,7 +5,7 @@ Thank you for the support little Puffs~ all tickets have been sold!
 
 If her stamina can handle it, PAFF might try adding a few more physical sessions!
 
-![p0701.png](\attachments\p0701.png)
+![p0701.png](/attachments/p0701.png)
 ## Replies
 **SuperSlow**<br>
 Whyyyyyy, I was so prepared too...

@@ -28,7 +28,7 @@ Does anyone here wants to JAM with me!?!? I am single and lonely and I need frie
 **\#PressLikeIfYouWantToHear**<br>
 **\#IgnoreTheHaters**
 
-![j0301.png](\attachments\j0301.png)
+![j0301.png](/attachments/j0301.png)
 ## Replies
 **Xenon**<br>
 What the heck are you smoking to write something like this...?

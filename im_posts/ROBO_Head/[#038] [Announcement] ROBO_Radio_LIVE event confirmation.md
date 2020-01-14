@@ -6,7 +6,7 @@ The first ROBO\_Radio\_LIVE will be held in the cyTus virtual space. Several new
 For ticket purchases and details on the event, please visit the customized website<br>
 [ROBO\_Radio\_LIVE]
 
-![h0801.png](\attachments\h0801.png)
+![h0801.png](/attachments/h0801.png)
 ## Replies
 **MustangMartin**<br>
 WOW a virtual LIVE!!! ROBO is finally holding a performance for himself!!!

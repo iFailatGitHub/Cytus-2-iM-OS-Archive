@@ -17,7 +17,7 @@ I would like fans to not abandon her due to her physical shortcomings. Besides m
 
 For remaining with her and supporting her through all these times, I am deeply grateful. All of you, thank you so much! 
 
-![p1401.png](\attachments\p1401.png)
+![p1401.png](/attachments/p1401.png)
 ## Replies
 **Pascal626**<br>
 PAFF!! QAQ ~~~~~~<br>

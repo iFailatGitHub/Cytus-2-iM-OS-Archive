@@ -9,7 +9,7 @@ Looks like the internet rumors about PAFF hiding in NEKO's home turn out to be a
 
 **\#Please get my permission before sharing or reposting**
 
-![q0301.png](\attachments\q0301.png)
+![q0301.png](/attachments/q0301.png)
 ## Replies
 **Heart_Head**<br>
 Holy cow! News reporters! Material right here! Better start copying~~~~~~

@@ -7,7 +7,7 @@ Did you guys miss NEKO?? <br>
 NEKO misses everyone a little bit, just a tiny-winy bit though!<br>
 Let's chat!
 
-![n2501.png](\attachments\n2501.png)
+![n2501.png](/attachments/n2501.png)
 ## Replies
 **C_H_U**<br>
 God I miss you so much~~~~

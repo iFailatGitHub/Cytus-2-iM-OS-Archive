@@ -10,7 +10,7 @@ Aaaanndd...in addition to behind-the-scenes and crossovers, we invited Monophoni
 
 Please pay attention to **@PAFF-Official** and the upcoming updates!
 
-![p1901.png](\attachments\p1901.png)
+![p1901.png](/attachments/p1901.png)
 ## Replies
 **Sayomi911**<br>
 We don't want premium collection; we want PAFF to be healthy!

@@ -6,7 +6,7 @@ Anyone see the latest trailer for Lightspeed the Capybara?? Whaddaya think? Leav
 **\#LightspeedTheCapybara**<br>
 **\#LiveAction**
 
-![q1701.png](\attachments\q1701.png)
+![q1701.png](/attachments/q1701.png)
 ## Replies
 **CJW**<br>
 I feel like they're going in the wrong direction... <br>

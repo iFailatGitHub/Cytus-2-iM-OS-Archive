@@ -5,7 +5,7 @@ ConneR:<br>
 
 　The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own. 
 
-![c1301.png](\attachments\c1301.png)
+![c1301.png](/attachments/c1301.png)
 ## Replies
 **Dogleg**<br>
 If it's possible I would love to live a life just like Sensei, immersing in such wonderful things for a long time

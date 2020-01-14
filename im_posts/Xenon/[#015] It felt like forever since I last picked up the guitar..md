@@ -11,7 +11,7 @@ Seeing so many friends in the music industry participate in this event does make
 Still, a sincere thank you for the invitation. <br>
 Wish the event a great success.
 
-![x1501.png](\attachments\x1501.png)
+![x1501.png](/attachments/x1501.png)
 ## Replies
 **xxScarlexx**<br>
 Is it because of all the incidents regarding cyTus a while back? The connection quality these days seems to have a lot of issues as well<br>

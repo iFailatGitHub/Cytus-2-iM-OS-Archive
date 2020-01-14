@@ -4,7 +4,7 @@
 NEKO#ΦωΦ:<br>
 SSSSTTTRREEEAAMMM time \\(ΦωΦ)/ Nyaa！！！
 
-![n0801.png](\attachments\n0801.png)
+![n0801.png](/attachments/n0801.png)
 ## Replies
 **KirinKiraKira**<br>
 Hheellllllooooo nyaa

@@ -13,7 +13,7 @@ ConneR:<br>
 　I believe that I can also learn a lot from you. I look forward to interacting with you more. 
 
 **RaiKiyumi**<br>
-OMG a meeting between two master class musicians >////<
+OMG a meeting between two master class musicians >////
 
 **CozyCaty**<br>
 I'm also a huge fan of ROBO\_Head

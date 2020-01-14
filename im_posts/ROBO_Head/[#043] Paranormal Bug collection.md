@@ -4,7 +4,7 @@ Manpora:<br>
 Has anybody organize the wide variety of paranormal incidents on the virtual internet recently?<br>
 I'll start
 
-![r4301.png](\attachments\r4301.png)
+![r4301.png](/attachments/r4301.png)
 ## Replies
 **Manpora**<br>
 Loads of garbled text

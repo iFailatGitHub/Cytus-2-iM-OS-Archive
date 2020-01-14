@@ -13,7 +13,7 @@ The video message above is a message to all of you recorded by PAFF herself. Hop
 
 Helena White
 
-![q2001.png](\attachments\q2001.png)
+![q2001.png](/attachments/q2001.png)
 ## Replies
 **iluvpuf**<br>
 Big sis, don't you worry!<br>

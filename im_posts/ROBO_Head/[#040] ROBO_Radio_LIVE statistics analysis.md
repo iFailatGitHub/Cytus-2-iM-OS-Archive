@@ -10,7 +10,7 @@ Positive response from social media: 88%<br>
 Decision: Event success<br>
 Action: Survey willingness to participate in next session
 
-![r4001.png](\attachments\r4001.png)
+![r4001.png](/attachments/r4001.png)
 ## Replies
 **TreeNoAlice**<br>
 Achieving such a result without even trying, sick~~~

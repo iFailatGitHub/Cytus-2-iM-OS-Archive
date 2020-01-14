@@ -7,7 +7,7 @@ I hinted about this a while ago. Today, I'm here to make an official announcemen
 
     This series of lectures will be available to the public. Anyone can sit in on them. However, I truly hope that there will be other intellectuals present to have a proper discussion with me.
 
-![c2101.png](\attachments\c2101.png)
+![c2101.png](/attachments/c2101.png)
 ## Replies
 **Dogleg**<br>
 Don't think there will be many in this Node who is qualified to have a "proper" discussion with Sensei XDD

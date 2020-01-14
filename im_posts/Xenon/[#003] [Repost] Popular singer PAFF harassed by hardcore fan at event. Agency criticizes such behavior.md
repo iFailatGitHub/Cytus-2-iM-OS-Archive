@@ -4,7 +4,7 @@ Xenon:<br>
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
 Personally, I really like PAFF, but even I won't go creating a commotion like this.
 
-![r0701.png](\attachments\r0701.png)
+![r0701.png](/attachments/r0701.png)
 ## Replies
 **Bit_Inex**<br>
 I was there live, it was a huge mess XD

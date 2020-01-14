@@ -9,7 +9,7 @@ Flower_Head:<br>
 > We would like to express our gratitude for everything Cherry gave us. May she rest in peace. <br>
 [Article excerpted from Node News Network]
 
-![q3201.png](\attachments\q3201.png)
+![q3201.png](/attachments/q3201.png)
 ## Replies
 **Pumpkinforest**<br>
 My heart is broken.

@@ -6,7 +6,7 @@ Preparing backstage, see you guys later. ^^
 
 
 
-![p1101.png](\attachments\p1101.png)
+![p1101.png](/attachments/p1101.png)
 ## Replies
 **Pascal626**<br>
 PAFF we are already at the venue. We're at the first row! Left side of the stage~

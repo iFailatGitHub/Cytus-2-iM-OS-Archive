@@ -4,7 +4,7 @@ PAFF-Official:<br>
 Over 1 Million views now. Thank you, everybody. <br>
 
 
-![p0301.png](\attachments\p0301.png)
+![p0301.png](/attachments/p0301.png)
 ## Replies
 **CyKa**<br>
 Only PAFF can surpass PAFF

@@ -6,7 +6,7 @@ I've seen everybody's blessings. Thank you. ^^
 
 
 
-![p1501.png](\attachments\p1501.png)
+![p1501.png](/attachments/p1501.png)
 ## Replies
 **PAFF-Official**<br>
 The check-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now. 

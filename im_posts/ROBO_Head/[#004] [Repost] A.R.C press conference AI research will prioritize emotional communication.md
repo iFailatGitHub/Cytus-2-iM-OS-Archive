@@ -6,7 +6,7 @@ ROBO_Head:<br>
 > One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do. A.R.C. has invited highly acclaimed scholar Colin Neumann Jr. to lead the project.<br>
 [Article excerpt from Node News Network]
 
-![r0401.png](\attachments\r0401.png)
+![r0401.png](/attachments/r0401.png)
 ## Replies
 **ROBO_Head**<br>
 Speculation: Increased value for consumer robot products

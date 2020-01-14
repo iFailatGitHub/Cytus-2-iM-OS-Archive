@@ -3,7 +3,7 @@
 KiwaHu:<br>
 
 
-![q2801.png](\attachments\q2801.png)
+![q2801.png](/attachments/q2801.png)
 ## Replies
 **Shibawu**<br>
 That seems... kinda gross...

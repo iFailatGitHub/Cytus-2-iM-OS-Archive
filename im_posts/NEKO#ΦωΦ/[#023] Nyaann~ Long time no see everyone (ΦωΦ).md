@@ -11,7 +11,7 @@ BUT, I really don't remember what happened that day ლ(ΦωΦლ)<br>
 It's like everything suddenly went black and after I woke up, I was surrounded by a group of law enforcement agents(ΦдΦ;)<br>
 Anyone want to tell me the details~
 
-![n2301.png](\attachments\n2301.png)
+![n2301.png](/attachments/n2301.png)
 ## Replies
 **NEKOSAIKOU**<br>
 \\NEKO/\\NEKO/\\NEKO/\\NEKO/

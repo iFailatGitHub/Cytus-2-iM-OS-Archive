@@ -7,7 +7,7 @@ Special thanks to A.R.C. for sponsoring the newest holo-recreation technology! P
 
 Visit the major platforms to connect now!
 
-![p0201.png](\attachments\p0201.png)
+![p0201.png](/attachments/p0201.png)
 ## Replies
 **SancTityKnight**<br>
 Sounds pretty cool!!!

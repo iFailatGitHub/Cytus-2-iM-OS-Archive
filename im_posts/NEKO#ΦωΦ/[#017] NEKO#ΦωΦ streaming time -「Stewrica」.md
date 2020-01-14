@@ -6,7 +6,7 @@ S~~streaming time ladies and germs (Φˋ∀ˊΦ)ゞ<br>
 Today we are playing a Dota-like game「Stewrica」~lol<br>
 An extremely popular title with a mix of cooking ingredients and death battles!
 
-![n1701.png](\attachments\n1701.png)
+![n1701.png](/attachments/n1701.png)
 ## Replies
 **MRArupaka**<br>
 OMG the art style is Gorgeous!!!!

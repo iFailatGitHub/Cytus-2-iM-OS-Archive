@@ -12,7 +12,7 @@ ROBO_Head:<br>
 
 [Article excerpted from Dr. Colin Neumann Jr.'s publications in the open academic network]
 
-![r3601.png](\attachments\r3601.png)
+![r3601.png](/attachments/r3601.png)
 ## Replies
 **m00nl16h7**<br>
 As expected from Robohead, unearthes a master's paper in no time!

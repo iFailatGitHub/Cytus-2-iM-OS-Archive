@@ -7,7 +7,7 @@ ROBO_Head:<br>
 > To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.<br>
 [Article excerpted from Node News Network]
 
-![r1401.png](\attachments\r1401.png)
+![r1401.png](/attachments/r1401.png)
 ## Replies
 **ROBO_Head**<br>
 Note:<br>

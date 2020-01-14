@@ -6,7 +6,7 @@ ROBO_Head:<br>
 > PAFF's agent, Helena, stated: "PAFF is now awake. Her physical conditions are very stable with no major issues. However, to ensure that she is 100% fine, she will be be staying at the hospital for a few more days to do a detailed checkup." <br>
 [Article excerpted from Node News Network, Breaking]
 
-![r1801.png](\attachments\r1801.png)
+![r1801.png](/attachments/r1801.png)
 ## Replies
 **ROBO_Head**<br>
 Speculation: Over-exhaustion......35%<br>

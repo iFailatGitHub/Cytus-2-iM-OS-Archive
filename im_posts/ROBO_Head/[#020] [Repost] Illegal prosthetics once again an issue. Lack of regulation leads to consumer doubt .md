@@ -7,7 +7,7 @@ ROBO_Head:<br>
 > According to the official investigation, the man's prosthetic arm was purchased from the black market and is an illegally produced, defective product. The neural chips in the arm cause brain damage to the user. The chips may also experience short-circuits and overcharge when the user's emotions are unstable. Node 08 Administration Bureau's medical committee urges the public to only use officially approved, safe prosthetics to prevent similar incidents from happening again. <br>
 [Article excerpted from Node News Network]
 
-![r2001.png](\attachments\r2001.png)
+![r2001.png](/attachments/r2001.png)
 ## Replies
 **Ange3Lina**<br>
 Jesus

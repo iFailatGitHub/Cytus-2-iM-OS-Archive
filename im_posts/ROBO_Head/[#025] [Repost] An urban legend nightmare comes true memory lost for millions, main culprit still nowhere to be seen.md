@@ -7,7 +7,7 @@ ROBO_Head:<br>
 > Regarding this issue, the spokesperson for the Bureau stated that if the actual situation indeed matched the rumors and that the users' memories were erased, this will be the largest internet terrorist attack since Node 08 was established. "We are facing a unique situation never seen before. This is a brand-new type of enemy, using a brand-new method of attack." Davis, A.R.C.'s minister of internet security, also released an announcement earlier today, stating that they will be working together with the Bureau to locate the culprit and uncover the truth...<br>
 [Article excerpted from Node News Network]
 
-![r2501.png](\attachments\r2501.png)
+![r2501.png](/attachments/r2501.png)
 ## Replies
 **ROBO_Head**<br>
 Speculation: Investigation progress...... 15%<br>

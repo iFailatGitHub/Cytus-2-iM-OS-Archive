@@ -5,7 +5,7 @@ NEKO#ΦωΦ:<br>
 Today we are playing the latest action game ㄟ(ΦωΦ)ㄏ！！<br>
 「SAW of EDEN(SOE)」
 
-![n1001.png](\attachments\n1001.png)
+![n1001.png](/attachments/n1001.png)
 ## Replies
 **NekoSamurai**<br>
 YEAHHH!! Been looking forward to this one!!

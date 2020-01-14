@@ -10,7 +10,7 @@ ROBO_Head:<br>
 > According to the head of Quadrant II's LED, working in tandem with the Administration Bureau's "Node 08 gang purge" operations is just a small part of a bigger picture. The regulations for Cross-Node traveling is set to loosen in the near future, so more people are expected to visit the Nodes. In addition to rounding up the gangs in each region, other illegal activities, such as smuggling, that harm the civilians' safety will also be investigated and punished according to the law when found. The goal is to improve security and create a positive image for the city. <br>
 [Article excerpted from Node News Network]
 
-![r3001.png](\attachments\r3001.png)
+![r3001.png](/attachments/r3001.png)
 ## Replies
 **ROBO_Head**<br>
 Analysis: Node 08 gang influence decreased 35%
