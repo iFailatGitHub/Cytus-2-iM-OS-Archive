@@ -11,7 +11,7 @@ Served in a wacky-shaped bottle, it will impact your senses both taste-wise and 
 <br>
 Check-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
 
-![j0101.png](/attachments/j0101.png)
+![j0101.png](./attachments/j0101.png)
 ## Replies
 **StuffyMouth**<br>
 It all sounds pretty awesome in the beginning<br>
