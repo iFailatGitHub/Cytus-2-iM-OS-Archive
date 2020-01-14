@@ -9,7 +9,7 @@ I fixed the problem of the UI crashing after just 10 minutes of play. The sound 
 
 All in all, look forward to seeing this baby in my next performance. 
 
-![x0701.png](im_posts/Xenon/attachments/x0701.png)
+![x0701.png](./attachments/x0701.png)
 ## Replies
 **Xenon**<br>
 Oh BTW, some people keep telling me to mass produce this for sale. But I don't have plans for that so give up. 

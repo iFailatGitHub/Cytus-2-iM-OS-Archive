@@ -10,7 +10,7 @@ Analysis: Attack source has intrusive methods beyond highest level of A.R.C. fir
 Search result of individual or organization in Node Administration Bureau's criminal database that meets criteria: None<br>
 Attachment: Recovered Æsir-FEST visual data and sound files
 
-![r2401.png](im_posts/ROBO_Head/attachments/r2401.png)
+![r2401.png](./attachments/r2401.png)
 ## Replies
 **Ultralism**<br>
 Wh....what's this supernatural BS

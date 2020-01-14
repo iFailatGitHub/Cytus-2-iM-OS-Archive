@@ -8,7 +8,7 @@ Top-quality bands & amazing live shows all here at Under Velvet \\(Φˋ口ˊΦ)/
 **\#HotStaffDoesn'tWantPictureTakenSoOnlyBackView**<br>
 **\#SmallBandOnStageRightNowIsQuiteGood** **@ICECREAMFLY**
 
-![n3201.png](im_posts/NEKO#ΦωΦ/attachments/n3201.png)
+![n3201.png](./attachments/n3201.png)
 ## Replies
 **MirriLL**<br>
 I'm at UV as well!!! NEKO where are you!!!

@@ -6,7 +6,7 @@ Not good news to read when I just woke up (╬ΦдΦ)<br>
 No one will give a damn about his comeback if he didn't give an explanation (ΦωΦ)!<br>
 Here's a song that represents my mood now,「Blow my mind」!
 
-![n1801.png](im_posts/NEKO#ΦωΦ/attachments/n1801.png)
+![n1801.png](./attachments/n1801.png)
 ## Replies
 **Poopytrap**<br>
 This song sounds hype!! lol

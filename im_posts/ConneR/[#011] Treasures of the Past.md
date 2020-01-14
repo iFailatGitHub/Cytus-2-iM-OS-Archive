@@ -5,7 +5,7 @@ ConneR:<br>
 
 　Music that wonderful once existed yet we have no way to listen to it now, what a pity.
 
-![c1101.png](im_posts/ConneR/attachments/c1101.png)
+![c1101.png](./attachments/c1101.png)
 ## Replies
 **Amberclove**<br>
 After hearing Sensei's description, I kinda want to go back to that era

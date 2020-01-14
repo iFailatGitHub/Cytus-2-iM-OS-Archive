@@ -6,7 +6,7 @@ I'm ready to buy a dozen MeowBots ~~~<br>
 ヽ(∀Φ )人(Φ∀Φ)人( Φ∀Φ)人(Φ∀Φ )人(Φ∀Φ)人( Φ∀)ﾉ<br>
 **\#Paint all of them red to increase composing speed by 3600%**
 
-![r0401.png](im_posts/NEKO#ΦωΦ/attachments/r0401.png)
+![r0401.png](./attachments/r0401.png)
 ## Replies
 **
 NEKO#ΦωΦ

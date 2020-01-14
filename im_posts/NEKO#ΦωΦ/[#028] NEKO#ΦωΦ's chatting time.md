@@ -3,7 +3,7 @@
 NEKO#ΦωΦ:<br>
 Meow meow meow (ΦωΦ)/ I'm bored so let's stream~
 
-![n2801.png](im_posts/NEKO#ΦωΦ/attachments/n2801.png)
+![n2801.png](./attachments/n2801.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 Heard that many of you are VERY~ interested in NEKO's room aren't ya~~~ (\*Φ∀Φ)

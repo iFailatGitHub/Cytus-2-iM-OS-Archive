@@ -10,7 +10,7 @@ NEKO will be gracing ROBO\_Radio\_LIVE to bombard everyone's eardrums!!!!!!/(Φ�
 
 Hohohoho What the hell are you waiting for? Get off your a\*\*es and go buy tickets to see NEKO!!!!
 
-![n3001.png](im_posts/NEKO#ΦωΦ/attachments/n3001.png)
+![n3001.png](./attachments/n3001.png)
 ## Replies
 **CHanatsuka**<br>
 Oh so you expect me to buy one just because NEKO told me to?<br>

@@ -5,7 +5,7 @@ MEME: <br>
 THOUGHT YOU ARE SENTENCED TO LIFE IN JAIL<br>
 YOUR EX-BOSS SENDS SOMEONE TO BUST YOU OUT
 
-![q0701.png](im_posts/Misc./attachments/q0701.png)
+![q0701.png](./attachments/q0701.png)
 ## Replies
 **STANley**<br>
 LOLOLOL this image XD

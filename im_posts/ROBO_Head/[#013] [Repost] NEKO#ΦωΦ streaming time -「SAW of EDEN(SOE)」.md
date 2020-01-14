@@ -6,7 +6,7 @@ ROBO_Head:<br>
 > Today playing the latest action gameㄟ(ΦωΦ)ㄏ！！<br>
 > 「SAW of EDEN (SOE)」
 
-![n1001.png](im_posts/ROBO_Head/attachments/n1001.png)
+![n1001.png](./attachments/n1001.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 EHH!!  d(`Φ∀Φ)b

@@ -6,7 +6,7 @@ Good evening everyoneeeee ~(ΦωΦ) Meow
 
 
 
-![n0601.png](im_posts/NEKO#ΦωΦ/attachments/n0601.png)
+![n0601.png](./attachments/n0601.png)
 ## Replies
 **NEKOSAIKOU**<br>
 Good evening~ <3

@@ -4,7 +4,7 @@ CyberLord:<br>
 Finally got myself a new connection device<br>
 Feast your eyes on its shiny golden glory!!!!
 
-![o8001.png](im_posts/Misc./attachments/o8001.png)
+![o8001.png](./attachments/o8001.png)
 ## Replies
 **RamenBot**<br>
 WTF do you want to show us with this photo???

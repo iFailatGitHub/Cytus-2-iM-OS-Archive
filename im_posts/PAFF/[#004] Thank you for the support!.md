@@ -7,7 +7,7 @@ The judges are very positive about PAFF's new album. All thanks to the support f
 
 Let's us continue to cheer PAFF on!
 
-![p0401.png](im_posts/PAFF/attachments/p0401.png)
+![p0401.png](./attachments/p0401.png)
 ## Replies
 **Pascal626**<br>
 Must be because PAFF works really hard! That's why she gets acknowledged by the judges. The sales are gonna go through the roof.

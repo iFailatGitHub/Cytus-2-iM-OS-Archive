@@ -9,7 +9,7 @@ ROBO_Head:<br>
 > Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence. Instead, he appeared at the Bureau with law enforcement agents and has been very cooperative throughout the process. We are currently chasing this news in real-time and will update you with the latest information at any time. <br>
 [Article excerpted from Node News Network]
 
-![o8901.png](im_posts/Misc./attachments/o8901.png)
+![o8901.png](./attachments/o8901.png)
 ## Replies
 **ROBO_Head**<br>
 Xenon's arrest<br>

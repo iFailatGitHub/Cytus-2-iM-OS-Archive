@@ -5,7 +5,7 @@ Finally have more time to write new songs and organize the next performance. Bee
 
 This is a collab project with **@NEKO\#ΦωΦ**. Song title "Return" to celebrate my return to the skies. Hope everyone likes it.
 
-![x0201.png](im_posts/Xenon/attachments/x0201.png)
+![x0201.png](./attachments/x0201.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 Ehhh!? If I knew this song was this important<br>

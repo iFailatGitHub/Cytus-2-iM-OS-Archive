@@ -6,7 +6,7 @@ Greetings (ΦωΦ) it's stream time~ ! !
 
 
 
-![n1501.png](im_posts/NEKO#ΦωΦ/attachments/n1501.png)
+![n1501.png](./attachments/n1501.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 No games today, sry~

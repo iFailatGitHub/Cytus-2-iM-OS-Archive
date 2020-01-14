@@ -7,7 +7,7 @@ This is what I call "music with heart" !!ヽ(Φˋ口ˊΦ)ノ<br>
 Everyone get your asses online and listen to NEKO's new song (ΦωΦ)！！！<br>
 "Happiness Breeze" ready to go!
 
-![n0301.png](im_posts/NEKO#ΦωΦ/attachments/n0301.png)
+![n0301.png](./attachments/n0301.png)
 ## Replies
 **Poopytrap**<br>
 So all that gibberish just to flatter herself LOL

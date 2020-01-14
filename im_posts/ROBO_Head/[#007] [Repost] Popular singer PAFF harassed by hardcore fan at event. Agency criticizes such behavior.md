@@ -7,7 +7,7 @@ ROBO_Head:<br>
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
 [Article excerpted from Node News Network: Entertainment]
 
-![r0701.png](im_posts/ROBO_Head/attachments/r0701.png)
+![r0701.png](./attachments/r0701.png)
 ## Replies
 **Cybel_Mach**<br>
 Robo\_head really follows all kinds of news

@@ -20,7 +20,7 @@ ROBO_Head:<br>
 > The gangs are so widespread that the Administration Bureau is simply overwhelmed by this issue. Many anonymous sources even point out that the Node 03 Administration Bureau is basically under the control of the gangs. <br>
 [Article excerpted from the show "Travel Guide to All Nodes"]
 
-![r3101.png](im_posts/ROBO_Head/attachments/r3101.png)
+![r3101.png](./attachments/r3101.png)
 ## Replies
 **ROBO_Head**<br>
 Analysis: 80% of Node 08 gangs originated from Node 03

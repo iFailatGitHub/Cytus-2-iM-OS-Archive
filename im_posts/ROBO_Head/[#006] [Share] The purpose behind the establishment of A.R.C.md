@@ -6,7 +6,7 @@ ROBO_Head:<br>
 > Of all the technology, the one that affects humans the most is certainly the creation and application of imitation Bio-neural networks. It led to a massive increase in the amount of data transferred and a much-improved internet using experience. <br>
 [Article excerpted from Node 08 Administration Bureau document "Foundation and Construction of City"]
 
-![r0601.png](im_posts/ROBO_Head/attachments/r0601.png)
+![r0601.png](./attachments/r0601.png)
 ## Replies
 **C.Y.**<br>
 I've heard that traditional internet is really slow

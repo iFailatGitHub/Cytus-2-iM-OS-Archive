@@ -5,7 +5,7 @@ PAFF-Official:<br>
 > Available on both physical and virtual storefronts! Dress-switch now and experience the latest fashion!<br>
 PAFF and 9Tan Design's collab autumn clothes are now available~ This time, PAFF also performs the sponsored theme "Fireflies", please don't forget to listen!
 
-![p0901.png](im_posts/PAFF/attachments/p0901.png)
+![p0901.png](./attachments/p0901.png)
 ## Replies
 **KarenMayako**<br>
 OMG it's gorgeous!!!!

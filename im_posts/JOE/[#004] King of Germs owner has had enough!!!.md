@@ -20,7 +20,7 @@ I welcome everyone to come and play with it (?
 **\#PlentyofYAMAMETOleft**<br>
 **\#ComeTryItOut**
 
-![j0401.png](im_posts/JOE/attachments/j0401.png)
+![j0401.png](./attachments/j0401.png)
 ## Replies
 **noneXenon**<br>
 **\#Sponsored** lolol

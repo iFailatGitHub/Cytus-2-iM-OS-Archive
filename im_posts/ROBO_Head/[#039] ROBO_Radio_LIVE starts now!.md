@@ -4,7 +4,7 @@ ROBO_Head:<br>
 Due to a connection error, network traffic unable to reach required level. High-quality stream unavailable, apologies：(<br>
 Audiences already in the virtual space will not be affected. Please rest assured and enjoy the performances：)
 
-![r3901.png](im_posts/ROBO_Head/attachments/r3901.png)
+![r3901.png](./attachments/r3901.png)
 ## Replies
 **beeeeeeeeee**<br>
 Excited! Ready on STANDBY!!!

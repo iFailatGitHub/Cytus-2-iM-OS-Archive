@@ -19,7 +19,7 @@ Dannis
 
 
 
-![q3101.png](im_posts/Misc./attachments/q3101.png)
+![q3101.png](./attachments/q3101.png)
 ## Replies
 **vikisser**<br>
 ?????

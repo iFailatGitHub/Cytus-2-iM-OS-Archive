@@ -5,7 +5,7 @@ ConneR:<br>
 
 　Gradually getting used to this non-organic arm, but when awoken in the middle of the night by an unstable nerve shock, I still get a nauseous feeling. Is this the compensation for modern technology?
 
-![c0301.png](im_posts/ConneR/attachments/c0301.png)
+![c0301.png](./attachments/c0301.png)
 ## Replies
 **ConneR**<br>
 　Can't compose nor perform normally under such conditions. How can I recommend music of such underwhelming quality to my friends?

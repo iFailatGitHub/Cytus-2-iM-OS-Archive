@@ -11,7 +11,7 @@ For official ticketing information please follow **@PAFF-Official** and the Mono
 
 Well then, 7th PAFFCON, see you at Node 08!
 
-![p0501.png](im_posts/PAFF/attachments/p0501.png)
+![p0501.png](./attachments/p0501.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 Wow a physical concert(ΦωΦ) quite ballsy move lol 

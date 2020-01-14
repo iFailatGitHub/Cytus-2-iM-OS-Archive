@@ -5,7 +5,7 @@ NEKO#ΦωΦ:<br>
 Yes ladies and germs~ Today, NEKO has come to play at uncle JOE's shop (\*Φ∀Φ)<br>
 If you don't know about JOEZ Cafe yet, get you a\*\*\*\* in front of the screens and check this place out~~~ (\*Φ∀Φ)
 
-![j0601.png](im_posts/NEKO#ΦωΦ/attachments/j0601.png)
+![j0601.png](./attachments/j0601.png)
 ## Replies
 **Smurky**<br>
 Wow looks like a really atmospheric bar<br>

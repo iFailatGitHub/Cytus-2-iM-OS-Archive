@@ -24,7 +24,7 @@ It's also a song that I really, really love. The concept behind this song is as 
 
 Vocalist\_Cherry
 
-![ch0301.png](im_posts/Cherry/attachments/ch0301.png)
+![ch0301.png](./attachments/ch0301.png)
 ## Replies
 **Cherry0987**<br>
 ... I'm gonna cry QAQ

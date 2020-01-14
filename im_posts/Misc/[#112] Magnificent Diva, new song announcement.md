@@ -11,7 +11,7 @@ Pre-order countdown, 47:02:41
 
 ~ Produced by Saito Production~
 
-![q1201.png](im_posts/Misc./attachments/q1201.png)
+![q1201.png](./attachments/q1201.png)
 ## Replies
 **NnNn**<br>
 MIKU is my waifu!! Everybody, show your love for her~~~~~~

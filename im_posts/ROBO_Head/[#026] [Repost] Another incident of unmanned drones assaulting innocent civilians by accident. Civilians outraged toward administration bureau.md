@@ -8,7 +8,7 @@ ROBO_Head:<br>
 > <br>
 [Article excerpted from Node News Network]
 
-![r2601.png](im_posts/ROBO_Head/attachments/r2601.png)
+![r2601.png](./attachments/r2601.png)
 ## Replies
 **ROBO_Head**<br>
 Decision: Shared UI between drones and human brain still not fully-recreated technology ：/

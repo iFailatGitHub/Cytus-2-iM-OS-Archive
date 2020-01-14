@@ -6,7 +6,7 @@ She took a photo with us~ yeah <3<br>
 The real NEKO is so small, just like a kitten. She's a little shy and that's so frickin adorable!!!<br>
 I want to take her home!!!
 
-![o0401.png](im_posts/Misc./attachments/o0401.png)
+![o0401.png](./attachments/o0401.png)
 ## Replies
 **NEKOSAIKOU**<br>
 WHAT!?!?!? Damnit you will be cursed til the day you die <br>

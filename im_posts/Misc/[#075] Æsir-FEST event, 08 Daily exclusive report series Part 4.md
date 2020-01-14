@@ -15,7 +15,7 @@ According to the information leaked to our news center by an insider, Xenon's ro
 This coverage is part of the exclusive content for our subscribers<br>
 If you want to know more behind-the-scenes information, please login here
 
-![o7501.png](im_posts/Misc./attachments/o7501.png)
+![o7501.png](./attachments/o7501.png)
 ## Replies
 **888fans**<br>
 WOW Looks like another massive report from 08 Daily!

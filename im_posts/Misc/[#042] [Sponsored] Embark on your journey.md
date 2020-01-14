@@ -10,5 +10,5 @@ Open the Book of Bequeathers and being your fantasy adventure
 
 [**Download Sdorica -sunset- now.**](https://app.adjust.com/h0g17k)
 
-![o4201.png](im_posts/Misc./attachments/o4201.png)
+![o4201.png](./attachments/o4201.png)
 ## Replies

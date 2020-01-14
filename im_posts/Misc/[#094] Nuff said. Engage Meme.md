@@ -3,7 +3,7 @@
 MasterMeme:<br>
 
 
-![o9401.png](im_posts/Misc./attachments/o9401.png)
+![o9401.png](./attachments/o9401.png)
 ## Replies
 **66TAN66**<br>
 Ahahahahaha YEP! Totally get it.

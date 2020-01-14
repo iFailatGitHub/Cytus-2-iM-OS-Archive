@@ -6,7 +6,7 @@ Today's stream is sponsored by....oops wrong script (ΦДΦ；today we are playi
 「Deemon 8.0 ~Peak Recital~」<br>
 A classic rhythm game (ΦωΦ)+Neko's pretty good at these
 
-![n0101.png](im_posts/NEKO#ΦωΦ/attachments/n0101.png)
+![n0101.png](./attachments/n0101.png)
 ## Replies
 **D33M0**<br>
 NEKO the big mouth, is that you?
