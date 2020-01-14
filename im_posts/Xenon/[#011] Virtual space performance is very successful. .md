@@ -7,7 +7,7 @@ Since this is a subscribers-only performance, there wasn't too much promotion be
 Those who didn't see it live don't have to worry. The performance has a holo-recording. It will be recreated on major platforms for everyone to see in a few days.<br>
 It feels great to be able to share music with everybody in my spare time. See you guys next time. ：)
 
-![x1101.png](/attachments/x1101.png)
+![x1101.png](im_posts/Xenon/attachments/x1101.png)
 ## Replies
 **Bit_Inex**<br>
 \\x/ \\x/ \\x/ \\x/ \\x/ \\x/ 

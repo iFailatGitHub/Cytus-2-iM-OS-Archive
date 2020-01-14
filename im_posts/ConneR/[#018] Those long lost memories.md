@@ -5,7 +5,7 @@ Wonder how many people here still remember Architects? I'm fairly confident that
 
     Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
 
-![c1801.png](/attachments/c1801.png)
+![c1801.png](im_posts/ConneR/attachments/c1801.png)
 ## Replies
 **Dogleg**<br>
 ConneR Sensei, what are you busy with these days?<br>

@@ -8,5 +8,5 @@ Infuse the characters, join the battles.
 
 [**Experience Sdorica -sunset- for free now!**](https://app.adjust.com/h0g17k)
 
-![o4301.png](/attachments/o4301.png)
+![o4301.png](im_posts/Misc./attachments/o4301.png)
 ## Replies

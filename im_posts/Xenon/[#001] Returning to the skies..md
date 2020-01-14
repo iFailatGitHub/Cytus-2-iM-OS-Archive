@@ -5,7 +5,7 @@ Was originally planning to stay on the surface for only half a year, but the IT 
 
 All in all, finally returned to a more comfortable working environment. Although I will miss my physical workshop, this does give me more time with the band.
 
-![x0101.png](/attachments/x0101.png)
+![x0101.png](im_posts/Xenon/attachments/x0101.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 No longer able to visit Xenon? NEKO will miss Xenon a lot WAAAA (╥ω╥)

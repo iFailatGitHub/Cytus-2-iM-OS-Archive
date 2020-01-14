@@ -4,7 +4,7 @@ PAFF-Official:<br>
 New Song Released.<br>
 
 
-![p0101.png](/attachments/p0101.png)
+![p0101.png](im_posts/PAFF/attachments/p0101.png)
 ## Replies
 **iluvpuf**<br>
 So short! Must be her!!

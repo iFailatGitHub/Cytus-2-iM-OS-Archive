@@ -5,7 +5,7 @@ ROBO_Head:<br>
 > According to official data from A.R.C., the cyTus virtual city has over 200 million registered users and over 180 million active users daily, a 23% increase compared to last year. Mega SNS blocks have also reached the number of 37000. To handle this increasing need for connection, A.R.C. and the Nodes are scheduling for a massive hardware update. <br>
 (Data and article excerpt from Node 08 Administration Bureau)
 
-![r0101.png](/attachments/r0101.png)
+![r0101.png](im_posts/ROBO_Head/attachments/r0101.png)
 ## Replies
 **ROBO_Head**<br>
 Record: Number of blocks managed by this Unit: 42  : )<br>

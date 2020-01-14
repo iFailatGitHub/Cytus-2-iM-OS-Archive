@@ -4,7 +4,7 @@ Xenon:<br>
 Dream realized, finally get to collab with **@ROBO\_Head**. ROBO's composing is simply out of this world. <br>
 For the first reveal, it will be a small Live at cyTus virtual space. Those who subscribed will get a notification. 
 
-![x1001.png](/attachments/x1001.png)
+![x1001.png](im_posts/Xenon/attachments/x1001.png)
 ## Replies
 **ROBO_Head**<br>
 Hint: That day this Unit will be in status of: unable to connect. ：(

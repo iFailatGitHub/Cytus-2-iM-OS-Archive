@@ -7,7 +7,7 @@ COMPOSING!!!<br>
 ON STREAM!!!!!!<br>
 You lucky fellas are going to get a new song immediately! Show me your hands and give me a gigantic round of applause /(Φ皿Φ)/
 
-![n2701.png](/attachments/n2701.png)
+![n2701.png](im_posts/NEKO#ΦωΦ/attachments/n2701.png)
 ## Replies
 **NEKOSAIKOU**<br>
 NEKO~~~<3<3<3

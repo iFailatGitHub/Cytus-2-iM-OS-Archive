@@ -12,7 +12,7 @@ All Codenames. TBH I wrote this post because I was surprised a lot of people did
 Members of Xenon, with the exception of myself, are all robots made by me. They perform based on their programming. There are no actual band members.<br>
 I apologize if you had wild imaginations about the members' personalities.
 
-![x0801.png](/attachments/x0801.png)
+![x0801.png](im_posts/Xenon/attachments/x0801.png)
 ## Replies
 **Shibawu**<br>
 Already knew that!

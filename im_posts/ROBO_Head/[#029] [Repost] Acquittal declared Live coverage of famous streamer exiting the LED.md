@@ -9,7 +9,7 @@ ROBO_Head:<br>
 > Is Xenon really so charming to the point that he can get away with two-timing? Or did Xenon, real name Simon Jackson, utilized his powers at A.R.C. to rescue his precious girlfriend? For more behind-the-scenes information on this case, please follow 08 Daily.<br>
 [Article excerpted from 08 Daily]
 
-![r2901.png](/attachments/r2901.png)
+![r2901.png](im_posts/ROBO_Head/attachments/r2901.png)
 ## Replies
 **ROBO_Head**<br>
 Semantic analysis result of article:<br>

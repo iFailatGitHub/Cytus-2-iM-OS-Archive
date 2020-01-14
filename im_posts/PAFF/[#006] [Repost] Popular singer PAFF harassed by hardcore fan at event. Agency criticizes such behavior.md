@@ -4,7 +4,7 @@ PAFF-Official:<br>
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
 Fellow little Puffs please keep your emotions in check. Don't injure yourselves and please follow the rules!
 
-![r0701.png](/attachments/r0701.png)
+![r0701.png](im_posts/PAFF/attachments/r0701.png)
 ## Replies
 **AngryFan**<br>
 Disgusting, very disgusting

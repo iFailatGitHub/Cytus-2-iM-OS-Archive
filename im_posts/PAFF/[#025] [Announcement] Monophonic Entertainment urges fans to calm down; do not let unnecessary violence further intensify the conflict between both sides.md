@@ -12,7 +12,7 @@ We believe that only reasonable and calm conversation can lead to a path of mutu
 Sincerely<br>
 Monophonic Entertainment
 
-![p2501.png](/attachments/p2501.png)
+![p2501.png](im_posts/PAFF/attachments/p2501.png)
 ## Replies
 **SancTityKnight**<br>
 Keep fighting Mono~

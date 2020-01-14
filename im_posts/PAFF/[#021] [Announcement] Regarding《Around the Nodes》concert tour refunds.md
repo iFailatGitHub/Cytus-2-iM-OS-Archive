@@ -26,7 +26,7 @@ We will be distributing drones to each physical store location to help with the 
 **@MONO\_SERVICE** <br>
 Online 1-on-1 customer service that is available 24/7
 
-![p2101.png](/attachments/p2101.png)
+![p2101.png](im_posts/PAFF/attachments/p2101.png)
 ## Replies
 **beeeeeeeeee**<br>
 Hold it, hold it right there! What we want is NOT refunds!!

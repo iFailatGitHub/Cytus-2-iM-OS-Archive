@@ -7,7 +7,7 @@ Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to cre
 Served in a wacky-shaped bottle, it will impact your senses both taste-wise and visual-wise.<br>
 Check-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
 
-![j0101.png](/attachments/j0101.png)
+![j0101.png](im_posts/JOE/attachments/j0101.png)
 ## Replies
 **StuffyMouth**<br>
 It all sounds pretty awesome in the beginning<br>

@@ -9,7 +9,7 @@ ROBO_Head:<br>
 > As of the publishing of this report, Monophonic Entertainment has yet to issue a statement regarding this protest. Rumor has it that several high-level directors will be addressing the crowd directly to settle the disputes. However, at the same time, there's also a different voice on the internet. Some have wondered if this entire event was just incited by people with malicious intent. They call for fans to stay calm and be alert; do not let others take advantage of your passion. <br>
 [Article excerpted from Node News Network]
 
-![r3301.png](/attachments/r3301.png)
+![r3301.png](im_posts/ROBO_Head/attachments/r3301.png)
 ## Replies
 **ROBO_Head**<br>
 Analysis: Internet flow around Mono HQ  increasing<br>

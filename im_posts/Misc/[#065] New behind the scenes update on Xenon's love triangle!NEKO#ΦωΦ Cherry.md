@@ -10,7 +10,7 @@ The other female in this love triangle, Cherry, was accidentally injured during 
 
 [For more photos regarding the incident, please click the link]
 
-![o6501.png](/attachments/o6501.png)
+![o6501.png](im_posts/Misc./attachments/o6501.png)
 ## Replies
 **Gogossip**<br>
 New gossip! Big news this time too! Sis Vicky is awesome~~

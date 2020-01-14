@@ -6,7 +6,7 @@ Today we are streaming a new antique-level game！！＼(Φˋ∀ˊΦ)／<br>
 Rumor has it that this was a Triple-A level game of the last century d(`Φ∀Φ)b <br>
 「Explosion」everybody look forward to it!!
 
-![n1401.png](/attachments/n1401.png)
+![n1401.png](im_posts/NEKO#ΦωΦ/attachments/n1401.png)
 ## Replies
 **Poopytrap**<br>
 It runs on mother-truckin Nuity Ver6.1, what the hell lol

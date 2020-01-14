@@ -8,7 +8,7 @@ ROBO_Head:<br>
 > Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation.<br>
 [Article excerpted from Node News Network]
 
-![r2201.png](/attachments/r2201.png)
+![r2201.png](im_posts/ROBO_Head/attachments/r2201.png)
 ## Replies
 **ROBO_Head**<br>
 Analysis: Comparing attack pattern and disconnection time...... 100%<br>

@@ -17,7 +17,7 @@ ROBO_Head:<br>
 > Stop right there, Sid. We don't need to delve that deep into tiny details; the ratings are dropping. Yu, after we returned from commercials we'll talk more about your Architect report and your hot wife. Stay tuned!<br>
 [Soundbite excerpted from Neo Channel 8's late-night show "Blitz Newsline"]
 
-![r3701.png](/attachments/r3701.png)
+![r3701.png](im_posts/ROBO_Head/attachments/r3701.png)
 ## Replies
 **ROBO_Head**<br>
 Decision: This show among all social commentary shows, level of practicality  high

@@ -9,7 +9,7 @@ Come visit me again soon!!!!!
 **\#NEKOFansDon'tMissTheYAMAMETOWhenYouVisit**<br>
 **\#GlassContainsOnlyMilkAndThreeCubsOfSugar**
 
-![j0601.png](/attachments/j0601.png)
+![j0601.png](im_posts/JOE/attachments/j0601.png)
 ## Replies
 **STANley**<br>
 The truth is all hidden in the Tags XDDDD

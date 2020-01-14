@@ -15,5 +15,5 @@ Ride the rhythmic rails in GROOVE COASTER<br>
 [**[Official Site]**](http://groovecoaster.jp/)<br>
 [**[Official Twitter]**](https://twitter.com/groove\_coaster)
 
-![o7801.png](/attachments/o7801.png)
+![o7801.png](im_posts/Misc./attachments/o7801.png)
 ## Replies

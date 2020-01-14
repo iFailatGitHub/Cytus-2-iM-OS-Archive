@@ -7,7 +7,7 @@ Flower_Head:<br>
 > Earlier today, in Node 08 Tower, multiple pedestrians caught sight of PAFF together with well-known streamer NEKO. However, the two quickly passed through the crowd and proceeded to disappear. Only a few witnesses were able to get out their mobile devices in time to capture some blurry photos. We are currently contacting Monophonic Entertainment and the Administration Bureau to confirm the details on this event.<br>
 [Article excerpted from Node Times]
 
-![q1001.png](/attachments/q1001.png)
+![q1001.png](im_posts/Misc./attachments/q1001.png)
 ## Replies
 **Michiko**<br>
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>

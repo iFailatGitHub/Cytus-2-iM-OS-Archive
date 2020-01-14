@@ -7,7 +7,7 @@ ConneR:<br>
 
 　A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one-piece chord instrument, feel inferior. 
 
-![c0801.png](/attachments/c0801.png)
+![c0801.png](im_posts/ConneR/attachments/c0801.png)
 ## Replies
 **Amberclove**<br>
 Can we see Sensei perform with the Cello at the Border of the North Concert?

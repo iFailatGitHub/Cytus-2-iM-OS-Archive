@@ -8,7 +8,7 @@ Stream time! Today we are playing a Visual Novel <br>
 
 
 
-![n1201.png](/attachments/n1201.png)
+![n1201.png](im_posts/NEKO#ΦωΦ/attachments/n1201.png)
 ## Replies
 **NEKOSAIKOU**<br>
 HELLLOOO <3

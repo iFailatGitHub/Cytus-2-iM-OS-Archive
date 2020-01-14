@@ -8,7 +8,7 @@ The game we are streaming today is [Project Wo]~<br>
 It's a side-scrolling adventure game where you have to solve puzzles while dodging attacks from the green creature Wo!<br>
 Special thanks to "Macaca" for the recommendation(\*Φ∀Φ)~<3
 
-![n2401.png](/attachments/n2401.png)
+![n2401.png](im_posts/NEKO#ΦωΦ/attachments/n2401.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
 Chat room, go nuts \\(ΦωΦ)/ !!

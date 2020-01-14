@@ -11,7 +11,7 @@ Flower_Head:<br>
 > Cherry didn't cancel her performance even in the face of an unforeseeable situation. After this information surfaced, her dedication and work ethic immediately received praise from fans and netizens once again, claiming that Cherry is indeed "Node 08 rock's last hope". Praises like "Cherry is the best person I've ever seen.", "We don't deserve Cherry PuNK.", "This is why I will always love her." "Only Cherry can surpass Cherry" can be seen everywhere.<br>
 [Article excerpted from Neo Entertainment]
 
-![o9101.png](/attachments/o9101.png)
+![o9101.png](im_posts/Misc./attachments/o9101.png)
 ## Replies
 **CherryMyLife**<br>
 Cherry is what we call a true professional ok~<br>

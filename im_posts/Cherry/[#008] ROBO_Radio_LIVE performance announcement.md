@@ -23,7 +23,7 @@ For more details, please visit the event website:<br>
 
 Cherry
 
-![h0801.png](/attachments/h0801.png)
+![h0801.png](im_posts/Cherry/attachments/h0801.png)
 ## Replies
 **CherryMyLife**<br>
 Cherry！！！！！！I'll definitely be there！！！！！！
