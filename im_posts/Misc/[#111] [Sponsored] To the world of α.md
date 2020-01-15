@@ -12,4 +12,3 @@ Introduces the matchmaking mode, duke it out with players from all over the worl
 Cytus α JP packaged version official release
 
 [**Official site**](https://cytusalpha.com)
-## Replies

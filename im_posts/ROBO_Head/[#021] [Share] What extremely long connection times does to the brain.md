@@ -1,4 +1,9 @@
 # [Share] What extremely long connection times does to the brain
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 22  |
+
 ## Post
 **ROBO_Head**<br>
 [Medical][Internet]<br>

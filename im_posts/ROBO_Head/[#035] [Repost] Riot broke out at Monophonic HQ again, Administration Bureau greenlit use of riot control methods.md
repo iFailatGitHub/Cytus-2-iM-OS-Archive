@@ -1,4 +1,11 @@
 # [Repost] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 42  |
+|**NEKO#ΦωΦ** | 42  |
+|**ROBO_Head**| 42  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Administration Bureau][Monophonic Entertainment][Riot][PAFF]<br>

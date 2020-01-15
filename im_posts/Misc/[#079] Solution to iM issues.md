@@ -1,4 +1,9 @@
 # Solution to iM issues
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 52  |
+
 ## Post
 **EvilForce**<br>
 Does anyone have any idea T̷̨̀͠W̡̨4̛̀͢͞͝3̵̨6̵̴͏U̷͏͜R̶̵̴̢6̷҉i̷͜t̨͜͠k̵̛͢  with iM 3̨͢4̧́͘͝6̷͡w̷̢̕͞ý̨̛7͞i͜͝t̵͘͜͢҉7̶̕y̷̢Ḩ̨̛҉<br>

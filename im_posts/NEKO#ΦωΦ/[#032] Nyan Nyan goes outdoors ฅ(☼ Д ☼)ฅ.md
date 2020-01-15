@@ -1,4 +1,9 @@
 # Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 53  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Today, NEKO will prove that I am a streamer that knows how to embrace da music σΦωΦ)σ<br>

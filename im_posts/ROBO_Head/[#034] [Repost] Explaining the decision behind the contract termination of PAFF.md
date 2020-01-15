@@ -1,4 +1,9 @@
 # [Repost] Explaining the decision behind the contract termination of PAFF
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 40  |
+
 ## Post
 **ROBO_Head**<br>
 [Announcement][Monophonic Entertainment][PAFF][Contract Termination]<br>

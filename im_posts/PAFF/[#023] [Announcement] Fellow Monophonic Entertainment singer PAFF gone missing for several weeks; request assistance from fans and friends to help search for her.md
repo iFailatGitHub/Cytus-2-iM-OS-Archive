@@ -1,5 +1,11 @@
-# [Announcement] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; 
-request assistance from fans and friends to help search for her
+# [Announcement] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 34  |
+|**NEKO#ΦωΦ** | 34  |
+|**ROBO_Head**| 33  |
+
 ## Post
 **PAFF-Official**<br>
 To our dear fans and precious customers,

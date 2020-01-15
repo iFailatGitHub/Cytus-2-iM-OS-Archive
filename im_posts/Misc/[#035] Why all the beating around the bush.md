@@ -1,4 +1,9 @@
 # Why all the beating around the bush
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 26  |
+
 ## Post
 **iluvpuf**<br>
 Monophonic's handling of this case is so infuriating. We don't want refunds; we want to know PAFF's current situation and whether or not she is OK! <br>

@@ -1,4 +1,9 @@
 # F*** yeah!!!! Eat s*** stupid dumb admins!!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 31  |
+
 ## Post
 **NekoSamurai**<br>
 NEKO is back, what do you have to say now stupid admins!!!<br>

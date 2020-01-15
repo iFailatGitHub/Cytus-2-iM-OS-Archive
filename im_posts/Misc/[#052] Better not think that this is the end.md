@@ -1,4 +1,9 @@
 # Better not think that this is the end
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 38  |
+
 ## Post
 **Fuxkoff**<br>
 Our demands are based on evidence and good reasons. Today, if the Administration Bureau demands us to leave, then we should have the right to demand an apology and mental compensation from Monophonic Entertainment. We devoted our time and money to PAFF, yet we get treated like garbage by the agency. Is that even fair????

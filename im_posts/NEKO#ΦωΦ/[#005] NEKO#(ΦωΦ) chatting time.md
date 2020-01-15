@@ -1,4 +1,14 @@
 # NEKO#(ΦωΦ) chatting time
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  5  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**Resurrection**|NEKO#ΦωΦ |Chaos| 12  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Good Morninggggg (ΦωΦ)

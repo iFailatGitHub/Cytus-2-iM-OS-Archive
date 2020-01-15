@@ -1,4 +1,9 @@
 # Encounter
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 54  |
+
 ## Post
 **Drew**<br>
 An W̕͘^̸̶̕̕͝$̸̨͟͟t̶̀͡ŗ͜u̴̡j̡͝r̢̀͢6̕͡9̶̡͘5̶̴̢͝͡9̨͟͞I̵̴͘͜͝  in a new h̷͠͏/̴̨́͞͞"̸͟͏̵̶Ì̸̸K̸̡E̸͝S̢̢̨͜͠Ŗ͢͠T̷̀́e͜҉; don't really know how to express it. It seems Y̶$̶̡́̀͠3̶͜6̸́͠U̢͞ę̶̀r͞҉y̢͡è̸̷͢͏7̸̷6̸̶\_̢̛͟͡{̛͝͠͏4͜͏ that my brain 3̷͘͢͜&̀̕͡4҉q̢̛́͠5̷T̵̢҉̸̶E̢̨͘͟t̸̴̨̀5̷͠6̷̷̀͞͞u̡̨̕i͏̶́͝t̨̛͘͟͟6̧̧͞͝5͘.̸̴̢͜ It feels very... nostalgic. However, \#̨̡́́W̶͟͡%͘͡r̶̷̡͟u͏͝j̸̵̛r̨͠͏t͏̵̨͜͜ì̷͠7̷̀͢9̢̀̕͜T̵͝k̢͝8̴͝҉͞7̛1̧͢ fake, W̷͟͟$̀҉̷͝͞^̴̕t̸̢͜͜í̡͏ķ̶̢̕j̧͝t̶̕͢͝͞y̸̷̛̕͘0̵̡.̵̵.̸͜.̵̷̧

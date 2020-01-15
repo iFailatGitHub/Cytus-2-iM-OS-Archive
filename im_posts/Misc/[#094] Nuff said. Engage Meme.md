@@ -1,4 +1,9 @@
 # Nuff said. Engage Meme
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 57  |
+
 ## Post
 **MasterMeme**<br>
 

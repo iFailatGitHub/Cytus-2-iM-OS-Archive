@@ -1,4 +1,9 @@
 # About that Xenon
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 27  |
+
 ## Post
 **Nyd_Ans**<br>
 Aren't you working some sort of internet security-related job at A.R.C.?<br>

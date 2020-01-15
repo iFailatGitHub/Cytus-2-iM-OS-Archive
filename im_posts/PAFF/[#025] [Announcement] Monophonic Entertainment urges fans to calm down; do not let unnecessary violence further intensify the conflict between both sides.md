@@ -1,4 +1,9 @@
 # [Announcement] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 36  |
+
 ## Post
 **PAFF-Official**<br>
 To our dear fans and beloved customers,

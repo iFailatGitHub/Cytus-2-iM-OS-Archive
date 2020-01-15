@@ -1,4 +1,9 @@
 # Where's Robo?
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 58  |
+
 ## Post
 **Snor_eDen**<br>
 It feels like I haven't seen a post from robohead in a long time<br>

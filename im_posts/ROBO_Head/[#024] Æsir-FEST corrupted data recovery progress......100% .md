@@ -1,4 +1,22 @@
 # Æsir-FEST corrupted data recovery progress......100% 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 24  |
+|**NEKO#ΦωΦ** | 24  |
+|**ROBO_Head**| 24  |
+|**Ivy**      |  9  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**CHAOS**       |ROBO_Head|Easy |  5  |
+|**Hard Landing**|NEKO#ΦωΦ |Easy |  3  |
+|**CHAOS**       |ROBO_Head|Hard |  9  |
+|**Hard Landing**|NEKO#ΦωΦ |Hard |  8  |
+|**CHAOS**       |ROBO_Head|Chaos| 14  |
+|**Hard Landing**|NEKO#ΦωΦ |Chaos| 10  |
+
 ## Post
 **ROBO_Head**<br>
 Report: Æsir-FEST corrupted data recovery progress complete<br>

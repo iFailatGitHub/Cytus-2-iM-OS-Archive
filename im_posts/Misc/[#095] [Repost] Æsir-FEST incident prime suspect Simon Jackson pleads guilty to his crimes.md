@@ -1,4 +1,9 @@
 # [Repost] Æsir-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 57  |
+
 ## Post
 **Flower_Head**<br>
 [News][Æsir][Hacker][Cybercrime][A.R.C.][Administration Bureau]<br>

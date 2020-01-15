@@ -1,4 +1,11 @@
 # [BREAKING] I think I just witness something pretty freakin major!!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 58  |
+|**NEKO#ΦωΦ** | 63  |
+|**ROBO_Head**| 58  |
+
 ## Post
 **Witne_SS**<br>
 Today, on my way to my part-time job, I suddenly heard a commotion coming from the crowd<br>

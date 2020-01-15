@@ -1,4 +1,9 @@
 # OHHH~~~~~~ my beloved one
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 38  |
+
 ## Post
 **JOEZ Cafe**<br>
 Once upon a time<br>

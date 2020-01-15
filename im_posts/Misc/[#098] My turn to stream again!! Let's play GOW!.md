@@ -1,4 +1,9 @@
 # My turn to stream again!! Let's play GOW!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 59  |
+
 ## Post
 **NEKOSAIKOU**<br>
 [Stream announcement 09:00 PM God of Work]

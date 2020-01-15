@@ -1,4 +1,14 @@
 # [Share] The purpose behind the establishment of A.R.C
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  6  |
+
+## Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Restriction**|ROBO_Head|Chaos| 11  |
+
 ## Post
 **ROBO_Head**<br>
 [Knowledge][Technology][ARC]<br>

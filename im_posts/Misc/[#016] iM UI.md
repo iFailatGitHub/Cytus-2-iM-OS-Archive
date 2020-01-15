@@ -1,4 +1,9 @@
 # iM UI
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 16  |
+
 ## Post
 **Shibawu**<br>
 iM's UI is getting worse with every "patch", especially the virtual connection interface, which is now a complete mess... my head hurts every time I use it 

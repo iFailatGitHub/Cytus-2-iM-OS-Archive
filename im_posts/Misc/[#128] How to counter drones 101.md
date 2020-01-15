@@ -1,4 +1,9 @@
 # How to counter drones 101
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 73  |
+
 ## Post
 **KiwaHu**<br>
 

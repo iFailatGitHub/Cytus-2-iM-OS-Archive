@@ -1,4 +1,9 @@
 # Time to show off ma new equipment A_A
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 53  |
+
 ## Post
 **CyberLord**<br>
 Finally got myself a new connection device<br>

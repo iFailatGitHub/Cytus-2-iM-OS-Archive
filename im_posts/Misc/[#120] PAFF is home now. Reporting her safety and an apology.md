@@ -1,4 +1,9 @@
 # PAFF is home now. Reporting her safety and an apology
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 72  |
+
 ## Post
 **Helena**<br>
 Hello everybody, this is Paff's older sister Helena White

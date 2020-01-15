@@ -1,4 +1,9 @@
 # Overtime nightmare ongoing
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 25  |
+
 ## Post
 **OMGQQ**<br>
 No kidding, easily biggest crisis since I joined the company

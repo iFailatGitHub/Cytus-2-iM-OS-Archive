@@ -1,4 +1,9 @@
 # The Saxophone
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 22  |
+
 ## Post
 **ConneR**<br>
 　Due to Node 13's unique historical background, it has quite the collection of well-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. 

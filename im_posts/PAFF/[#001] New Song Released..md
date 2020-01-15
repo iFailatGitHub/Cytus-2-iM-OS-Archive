@@ -1,4 +1,10 @@
 # New Song Released.
+## Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**KANATA**|  PAFF   |Easy |  2  |
+|**KANATA**|  PAFF   |Hard |  6  |
+
 ## Post
 **PAFF-Official**<br>
 New Song Released.<br>

@@ -1,4 +1,9 @@
 # Yo, yo check this out~ a new event!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 34  |
+
 ## Post
 **JOEZ Cafe**<br>
 Purchase a drink at JOEZ Café now and check-in on iM to get the tomato-flavored craft beer for free!<br>

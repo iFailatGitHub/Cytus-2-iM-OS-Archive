@@ -1,4 +1,9 @@
 # Drones
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 10  |
+
 ## Post
 **MYMYM**<br>
 About those unmanned drones that the admins deploy in the Nodes, do they video-tape you? Last time I was peeing, one just happens to fly past the window...<br>

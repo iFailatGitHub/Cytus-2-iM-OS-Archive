@@ -1,4 +1,9 @@
 # NEKO's~ super question time!! \ΦωΦ)/
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 52  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Helllooo~~ Everyone~~~ NEKO here~~~~ (\*Φ₃Φ)~♥<br>

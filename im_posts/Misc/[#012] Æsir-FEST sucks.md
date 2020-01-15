@@ -1,4 +1,9 @@
 # Æsir-FEST sucks
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 13  |
+
 ## Post
 **Popo**<br>
 Found a ticket stub for Æsir-FEST in the drawer, got really pissed off when I remember that the main act never showed up!!!

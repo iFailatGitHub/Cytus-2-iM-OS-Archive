@@ -1,4 +1,14 @@
 # Thank you for the support!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  3  |
+
+## Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Survive**|  PAFF   |Chaos| 10  |
+
 ## Post
 **PAFF-Official**<br>
 Little Puffs! Good news! PAFF is nominated for Radio POP's "Female Singer of The Year" award!!

@@ -1,4 +1,14 @@
 # [Repost] A.R.C press conference: AI research will prioritize emotional communication
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  3  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**Make Me Burn**|ROBO_Head|Chaos| 12  |
+
 ## Post
 **ROBO_Head**<br>
 [Technology][News][ARC][A.I.]<br>

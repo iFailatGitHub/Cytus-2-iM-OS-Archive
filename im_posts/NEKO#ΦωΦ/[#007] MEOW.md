@@ -1,4 +1,14 @@
 # MEOW
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  8  |
+
+## Unlocked Charts
+|            Song            |Character|Diff.|Level|
+|----------------------------|:-------:|:---:|:---:|
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Chaos| 12  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 \*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*

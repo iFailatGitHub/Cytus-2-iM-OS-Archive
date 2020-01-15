@@ -1,4 +1,9 @@
 # Emptiness
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 28  |
+
 ## Post
 **ConneR**<br>
 People of the modern age seem to be overly focused on pursuing the shallow surface. They often only care about what they see, or more likely, what they want to see. Never once did they think about the context and reasons beneath the surface.

@@ -1,4 +1,9 @@
 # 《Cherry PuNK》New Official Account
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 25  |
+
 ## Post
 **CherryPuNK**<br>
 Hi! We are the next-gen band《Cherry PuNK》!

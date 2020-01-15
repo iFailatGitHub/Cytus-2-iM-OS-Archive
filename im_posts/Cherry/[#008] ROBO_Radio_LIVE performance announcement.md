@@ -1,4 +1,9 @@
 # ROBO_Radio_LIVE performance announcement
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 46  |
+
 ## Post
 **Cherry**<br>
 Hello everyone<br>

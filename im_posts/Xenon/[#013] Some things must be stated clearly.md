@@ -1,4 +1,9 @@
 # Some things must be stated clearly
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 32  |
+
 ## Post
 **Xenon**<br>
 Didn't think that I would be so busy that I wouldn't have time to post on iM, and that every time I post it's about things that I find very irritating.

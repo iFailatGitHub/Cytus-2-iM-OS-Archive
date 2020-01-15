@@ -1,4 +1,9 @@
 # At the backstage.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 16  |
+
 ## Post
 **PAFF-Official**<br>
 Preparing backstage, see you guys later. ^^

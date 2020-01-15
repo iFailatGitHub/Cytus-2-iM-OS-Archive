@@ -1,4 +1,9 @@
 # Betting time~~~ What will happen to Xenon at the end of all this???
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 60  |
+
 ## Post
 **Watch_Burn**<br>
 A. Locked up for life<br>

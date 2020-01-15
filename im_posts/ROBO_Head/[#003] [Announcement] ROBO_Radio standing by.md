@@ -1,4 +1,15 @@
 # [Announcement] ROBO_Radio standing by
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  2  |
+
+## Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Luolimasi**|ROBO_Head|Easy |  2  |
+|**Luolimasi**|ROBO_Head|Hard |  7  |
+
 ## Post
 **ROBO_Head**<br>
 ROBO\_Radio online in one hour. <br>

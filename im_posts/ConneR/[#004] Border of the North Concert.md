@@ -1,4 +1,9 @@
 # Border of the North Concert
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  7  |
+
 ## Post
 **ConneR**<br>
 　I guess a promotion here wouldn't hurt. My next concert, as usual, will be held at Central Music Hall at Quadrant I. The performance this time will feature classical works of Northen musicians the likes of Rachmaninoff and Stravinsky.

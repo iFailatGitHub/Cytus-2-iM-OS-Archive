@@ -1,4 +1,9 @@
 # [Repost] Acquittal declared? Live coverage of famous streamer exiting the LED
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 31  |
+
 ## Post
 **ROBO_Head**<br>
 [Exclusive][Xenon][NEKO][Cherry]<br>

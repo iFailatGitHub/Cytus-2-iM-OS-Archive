@@ -1,4 +1,9 @@
 # Feeling p***ed after seeing NEKO's stream
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 37  |
+
 ## Post
 **JusticeMe**<br>
 The entertainment industry and the record labels are shady-AF<br>

@@ -1,4 +1,9 @@
 # [Repost] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 26  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Administration Bureau][Unmanned Drones][Social Issues]<br>

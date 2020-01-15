@@ -1,4 +1,9 @@
 # Ran into a wild NEKO!!!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  5  |
+
 ## Post
 **Rinko**<br>
 Today I was shopping with my friends at Quadrant III area B, And we ran into a wild **@NEKO\#ΦωΦ**!!!<br>

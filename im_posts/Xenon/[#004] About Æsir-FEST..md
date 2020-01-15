@@ -1,4 +1,9 @@
 # About Æsir-FEST.
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  7  |
+
 ## Post
 **Xenon**<br>
 Everyon remembered Æsir-FEST from half a year ago right?<br>

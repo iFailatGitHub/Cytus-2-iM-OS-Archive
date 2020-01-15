@@ -1,4 +1,15 @@
 # Requesting crowdfunding to buy Meowbots!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  4  |
+
+## Unlocked Charts
+|            Song            |Character|Diff.|Level|
+|----------------------------|:-------:|:---:|:---:|
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Easy |  2  |
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Hard |  5  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 > ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...<br>

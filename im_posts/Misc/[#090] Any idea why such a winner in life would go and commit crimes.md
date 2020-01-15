@@ -1,4 +1,12 @@
 # Any idea why such a winner in life would go and commit crimes??
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 56  |
+|**NEKO#ΦωΦ** | 56  |
+|**ROBO_Head**| 56  |
+|**Ivy**      | 29  |
+
 ## Post
 **WeskerLam**<br>
 Seriously, why?<br>

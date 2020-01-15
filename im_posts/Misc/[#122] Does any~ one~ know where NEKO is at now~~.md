@@ -1,4 +1,9 @@
 # Does any~ one~ know where NEKO is at now??~~
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 66  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Heyyyyy~~~NEKO here yaaaa~~~~<br>

@@ -1,4 +1,9 @@
 # HEY Y'all! I'm still alive!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 67  |
+
 ## Post
 **JOEZ Cafe**<br>
 Ummm, h-hey guys~~ I'm still alive haha~~<br>

@@ -1,4 +1,14 @@
 # [Share] The security of the cyTus server
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 12  |
+
+## Unlocked Charts
+|       Song       |Character|Diff.|Level|
+|------------------|:-------:|:---:|:---:|
+|**Claim the Game**|ROBO_Head|Chaos| 12  |
+
 ## Post
 **ROBO_Head**<br>
 [Knowledge][Technology][cyTus]<br>

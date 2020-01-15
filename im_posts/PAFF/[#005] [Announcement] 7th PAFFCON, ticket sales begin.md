@@ -1,4 +1,15 @@
 # [Announcement] 7th PAFFCON, ticket sales begin
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  4  |
+
+## Unlocked Charts
+|                Song                 |Character|Diff.|Level|
+|-------------------------------------|:-------:|:---:|:---:|
+|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Easy |  3  |
+|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Hard |  7  |
+
 ## Post
 **PAFF-Official**<br>
 Rise up little Puffs!

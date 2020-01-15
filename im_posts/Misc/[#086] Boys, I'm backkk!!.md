@@ -1,4 +1,11 @@
 # Boys, I'm backkk!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 55  |
+|**NEKO#ΦωΦ** | 55  |
+|**ROBO_Head**| 55  |
+
 ## Post
 **KirinKiraKira**<br>
 Been a long time since I get this smooth as butter connection<br>

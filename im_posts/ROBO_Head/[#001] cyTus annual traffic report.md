@@ -1,4 +1,10 @@
 # cyTus annual traffic report
+## Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Restriction**|ROBO_Head|Easy |  4  |
+|**Restriction**|ROBO_Head|Hard |  7  |
+
 ## Post
 **ROBO_Head**<br>
 [Data Analysis][ARC][Share]<br>

@@ -1,4 +1,9 @@
 # The limits of Artificial Intelligence
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 11  |
+
 ## Post
 **KirinKiraKira**<br>
 I know technology is quite developed right now. However, Artificial Intelligence is nowhere near the level of having a virtual girlfriend! WTF is A.R.C. doing?

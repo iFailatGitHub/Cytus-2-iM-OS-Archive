@@ -1,4 +1,14 @@
 # Please give PAFF all your support!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 20  |
+
+## Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Re:Boost**|  PAFF   |Chaos| 11  |
+
 ## Post
 **PAFF-Official**<br>
 PAFF is slowly getting herself back into shape. Everyone, please continue to root for her.

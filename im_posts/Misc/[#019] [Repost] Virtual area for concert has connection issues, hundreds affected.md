@@ -1,4 +1,9 @@
 # [Repost] Virtual area for concert has connection issues, hundreds affected
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 18  |
+
 ## Post
 **STANley**<br>
 > A few days ago, famous singer PAFF collapsed on stage during her annual concert. At the same time, audience members in the virtual area began to collapse as well. Several people in the physical area also displayed discomfort. In the hundreds of people affected by this issue, 11 have yet to regain their consciousness. <br>

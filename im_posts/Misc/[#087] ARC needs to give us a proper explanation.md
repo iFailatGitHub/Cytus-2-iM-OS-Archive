@@ -1,4 +1,11 @@
 # ARC needs to give us a proper explanation
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 55  |
+|**NEKO#ΦωΦ** | 55  |
+|**ROBO_Head**| 55  |
+
 ## Post
 **9tingale**<br>
 I was really angry that all we get is a template announcement about the system being fixed

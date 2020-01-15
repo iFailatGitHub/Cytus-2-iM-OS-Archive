@@ -1,4 +1,9 @@
 # Anybody know what the final passcode for See2 is?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 66  |
+
 ## Post
 **Hulujam**<br>
 Lately, a friend sucked me into<br>

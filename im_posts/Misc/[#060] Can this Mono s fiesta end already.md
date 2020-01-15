@@ -1,4 +1,9 @@
 # Can this Mono s*** fiesta end already?
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 39  |
+
 ## Post
 **MustangMartin**<br>
 At first, we just want Mono to find the missing person and properly handle the aftermath of this incident<br>

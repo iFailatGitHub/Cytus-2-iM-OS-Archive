@@ -1,4 +1,14 @@
 # Good afternoon everyone, This is PAFF. ^^
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 15  |
+
+## Unlocked Charts
+|               Song               |Character|Diff.|Level|
+|----------------------------------|:-------:|:---:|:---:|
+|**Fireflies (Funk Fiction remix)**|  PAFF   |Chaos| 10  |
+
 ## Post
 **PAFF-Official**<br>
 Good afternoon everybody. This is PAFF. ^^

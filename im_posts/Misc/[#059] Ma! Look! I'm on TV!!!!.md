@@ -1,4 +1,9 @@
 # Ma! Look! I'm on TV!!!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 38  |
+
 ## Post
 **8plusNine**<br>
 Hi, hi everyone<br>

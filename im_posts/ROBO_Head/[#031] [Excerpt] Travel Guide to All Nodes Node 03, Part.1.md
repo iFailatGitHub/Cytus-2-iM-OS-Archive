@@ -1,5 +1,9 @@
-# [Excerpt] Travel Guide to All Nodes: 
-Node 03, Part.1
+# [Excerpt] Travel Guide to All Nodes: Node 03, Part.1
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 33  |
+
 ## Post
 **ROBO_Head**<br>
 [Show][Travel][Node 03]<br>

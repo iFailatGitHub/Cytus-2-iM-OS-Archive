@@ -1,4 +1,9 @@
 # Is it just me, or does someone else also feel like Æsir is a legendary performance artist?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 61  |
+
 ## Post
 **ShrimpBye**<br>
 Æsir (I think it should be fair to directly call him Simon or Xenon now)<br>

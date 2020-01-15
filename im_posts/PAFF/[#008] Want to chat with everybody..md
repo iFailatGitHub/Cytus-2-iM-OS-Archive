@@ -1,4 +1,16 @@
 # Want to chat with everybody.
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 11  |
+|**NEKO#ΦωΦ** |  9  |
+|**ROBO_Head**|  9  |
+
+## Unlocked Charts
+|                Song                 |Character|Diff.|Level|
+|-------------------------------------|:-------:|:---:|:---:|
+|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Chaos| 12  |
+
 ## Post
 **PAFF-Official**<br>
 Hello everyone, I am PAFF. For a while, both you guys and sis have been suggesting that I post more. 

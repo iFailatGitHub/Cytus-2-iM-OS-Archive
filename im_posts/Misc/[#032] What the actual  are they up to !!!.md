@@ -1,4 +1,9 @@
 # What the actual **** are they up to !!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 25  |
+
 ## Post
 **NEKOSAIKOU**<br>
 What the heck are the admins up to!? How can they restrain someone for so long?

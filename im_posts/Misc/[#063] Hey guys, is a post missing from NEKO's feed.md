@@ -1,4 +1,9 @@
 # Hey guys, is a post missing from NEKO's feed?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 40  |
+
 ## Post
 **Bao**<br>
 I forgot what was it about. Anyone remember?

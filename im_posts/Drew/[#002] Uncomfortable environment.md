@@ -1,4 +1,9 @@
 # Uncomfortable environment
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 25  |
+
 ## Post
 **Drew**<br>
 Clean place, quiet atmosphere, everything seems so perfect... but I just can't bring myself to like this environment. Everyone is so kind to me too, but I just feel so... irritated...

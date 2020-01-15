@@ -1,4 +1,9 @@
 # Man my sides are cramping
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 19  |
+
 ## Post
 **NEKOSAIKOU**<br>
 OMFG really fainting on stage lololol are we going the cheesy soap opera route now?

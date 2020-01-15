@@ -1,4 +1,15 @@
 # Highly acclaimed musician new song announcement!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  3  |
+
+## Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**Happiness Breeze**|NEKO#ΦωΦ |Easy |  3  |
+|**Happiness Breeze**|NEKO#ΦωΦ |Hard |  7  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 It takes quite the talent to use the analog synthesizer to this level. Mixing is clean and good too (\*Φ₃Φ)~♥<br>

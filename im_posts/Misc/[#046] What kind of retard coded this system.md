@@ -1,4 +1,9 @@
 # What kind of retard coded this system
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 32  |
+
 ## Post
 **SuduMan**<br>
 And here I was thinking that I can finally get a refund...<br>

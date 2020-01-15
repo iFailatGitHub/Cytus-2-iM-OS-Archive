@@ -1,4 +1,15 @@
 # Thank you.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  2  |
+
+## Unlocked Charts
+|                   Song                    |Character|Diff.|Level|
+|-------------------------------------------|:-------:|:---:|:---:|
+|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Easy |  2  |
+|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Hard |  6  |
+
 ## Post
 **PAFF-Official**<br>
 Over 1 Million views now. Thank you, everybody. <br>

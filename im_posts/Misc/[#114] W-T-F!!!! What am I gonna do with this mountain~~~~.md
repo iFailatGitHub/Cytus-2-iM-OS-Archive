@@ -1,4 +1,9 @@
 # W-T-F!!!! What am I gonna do with this mountain~~~~
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 59  |
+
 ## Post
 **JOEZ Cafe**<br>
 I don't know who the hell it was that suggested I order some YAMAMETO fruit beer. <br>

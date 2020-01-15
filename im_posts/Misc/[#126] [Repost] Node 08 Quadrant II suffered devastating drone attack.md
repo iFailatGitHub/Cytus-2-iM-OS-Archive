@@ -1,4 +1,9 @@
 # [Repost] Node 08 Quadrant II suffered devastating drone attack
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 67  |
+
 ## Post
 **Flower_Head**<br>
 [News][Drones][Attack][Quadrant II]<br>

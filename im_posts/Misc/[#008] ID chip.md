@@ -1,4 +1,9 @@
 # ID chip
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 10  |
+
 ## Post
 **Mist101**<br>
 Is it illegal to swap ID chips with someone else? How about one person owning multiple IDs that connects to cyTus?<br>

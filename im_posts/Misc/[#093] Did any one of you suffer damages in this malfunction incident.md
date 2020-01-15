@@ -1,4 +1,9 @@
 # Did any one of you suffer damages in this malfunction incident?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 57  |
+
 ## Post
 **9tingale**<br>
 Our hospital got hit really hard in this incident<br>

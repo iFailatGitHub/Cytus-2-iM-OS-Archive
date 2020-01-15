@@ -1,4 +1,15 @@
 # Æsir-FEST corrupted data recovery progress......15% 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 20  |
+
+## Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Dasein**|ROBO_Head|Easy |  4  |
+|**Dasein**|ROBO_Head|Hard |  7  |
+
 ## Post
 **ROBO_Head**<br>
 Report: Æsir-FEST corrupted data recovery progress......15% <br>

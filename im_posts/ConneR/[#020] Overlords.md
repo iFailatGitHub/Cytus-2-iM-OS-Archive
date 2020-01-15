@@ -1,4 +1,9 @@
 # Overlords
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 45  |
+
 ## Post
 **ConneR**<br>
 Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. 

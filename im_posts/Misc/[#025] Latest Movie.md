@@ -1,4 +1,9 @@
 # Latest Movie
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 21  |
+
 ## Post
 **TunaLee**<br>
 Heard that there's a fun movie that just came out. It's a sequel that is 30 years late though

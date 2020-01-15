@@ -1,4 +1,15 @@
 # [Announcement] PAFF is now awake, everything is fine.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 18  |
+
+## Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Re:Boost**|  PAFF   |Easy |  2  |
+|**Re:Boost**|  PAFF   |Hard |  5  |
+
 ## Post
 **PAFF-Official**<br>
 Greeting fellow fans. I am Helena, PAFF's agent. 

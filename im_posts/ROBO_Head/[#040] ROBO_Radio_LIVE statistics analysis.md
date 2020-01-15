@@ -1,4 +1,10 @@
 # ROBO_Radio_LIVE statistics analysis
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**NEKO#ΦωΦ** | 48  |
+|**ROBO_Head**| 49  |
+
 ## Post
 **ROBO_Head**<br>
 Record: ROBO\_Radio\_LIVE<br>

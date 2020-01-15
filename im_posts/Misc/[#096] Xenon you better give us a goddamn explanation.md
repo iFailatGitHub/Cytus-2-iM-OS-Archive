@@ -1,4 +1,9 @@
 # Xenon you better give us a goddamn explanation
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 58  |
+
 ## Post
 **AngryMan**<br>
 So many netizens are trash-talking you

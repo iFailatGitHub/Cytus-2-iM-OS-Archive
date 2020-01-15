@@ -1,5 +1,9 @@
-# [Repost] Key evidences provided to law enforcement department;
-famous streamer released after being acquitted of all charges
+# [Repost] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 30  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Administration Bureau][NEKO][Æsir]<br>

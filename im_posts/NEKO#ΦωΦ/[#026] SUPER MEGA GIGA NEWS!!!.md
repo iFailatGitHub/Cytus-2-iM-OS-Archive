@@ -1,4 +1,11 @@
 # SUPER MEGA GIGA NEWS!!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 39  |
+|**NEKO#ΦωΦ** | 39  |
+|**ROBO_Head**| 39  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really~~~~~ BIG secret!!

@@ -1,5 +1,9 @@
-# [Repost] Administration Bureau takes action: purge operations overwhelming success.
-Ando Gang on verge of collapse
+# [Repost] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 32  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Gang][Social][Ando]<br>

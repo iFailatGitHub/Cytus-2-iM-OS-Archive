@@ -1,4 +1,9 @@
 # People from bio-prosthetic companies may all need a prosthetic brain
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  4  |
+
 ## Post
 **ConneR**<br>
 　Recently the condition of my prosthetic arm has been god awful, to say the least. Makes me wonder if I accidentally ordered a leg instead of an arm; that or they actually sold me some junk scraped from the morgue.

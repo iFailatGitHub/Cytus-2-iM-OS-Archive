@@ -1,4 +1,9 @@
 # Recommended spots in Quadrant II
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 19  |
+
 ## Post
 **SH11HO**<br>
 I'm going to Quadrant II today, any recommendations?

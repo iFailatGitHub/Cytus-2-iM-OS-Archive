@@ -1,4 +1,9 @@
 # NEKO#ΦωΦ's chatting time
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 43  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Meow meow meow (ΦωΦ)/ I'm bored so let's stream~

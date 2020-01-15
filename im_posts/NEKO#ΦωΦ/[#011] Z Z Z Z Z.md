@@ -1,4 +1,14 @@
 # Z Z Z Z Z
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 14  |
+
+## Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Keep it up**|NEKO#ΦωΦ |Chaos| 14  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Z Z Z Z Z Z Z 

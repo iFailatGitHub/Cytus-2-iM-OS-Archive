@@ -1,4 +1,9 @@
 # Check up.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 21  |
+
 ## Post
 **PAFF-Official**<br>
 Checking up at the hospital.

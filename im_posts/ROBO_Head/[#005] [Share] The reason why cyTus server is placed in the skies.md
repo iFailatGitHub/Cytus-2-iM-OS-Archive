@@ -1,4 +1,14 @@
 # [Share] The reason why cyTus server is placed in the skies
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  5  |
+
+## Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Luolimasi**|ROBO_Head|Chaos| 11  |
+
 ## Post
 **ROBO_Head**<br>
 [Hardware][Popular Science][Show]<br>

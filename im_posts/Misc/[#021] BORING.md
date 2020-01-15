@@ -1,4 +1,9 @@
 # BORING
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 19  |
+
 ## Post
 **RamenBot**<br>
 It's been so boring these days, is there any news besides the PAFF stuff

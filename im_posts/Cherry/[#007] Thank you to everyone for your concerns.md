@@ -1,4 +1,9 @@
 # Thank you to everyone for your concerns
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 43  |
+
 ## Post
 **CherryPuNK**<br>
 Hello everyone

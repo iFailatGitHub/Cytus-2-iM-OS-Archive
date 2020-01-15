@@ -12,4 +12,3 @@ Tickets almost sold out. Countdown to the event starts soon!
 [**Event Site**](https://wonderland2019.rayark.jp/)
 
 ![q1301.png](./attachments/q1301.png)
-## Replies

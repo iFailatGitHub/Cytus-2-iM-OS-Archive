@@ -1,4 +1,9 @@
 # More of this BS and I'm going to Mono for some actual answers
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 30  |
+
 ## Post
 **An0nym0us**<br>
 Haven't been this disappointed in a company for a while<br>

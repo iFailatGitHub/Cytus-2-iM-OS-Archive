@@ -1,5 +1,15 @@
-# NEKO#(ΦωΦ) streaming time -
-「Manbora - Seeds of Miracle」
+# NEKO#(ΦωΦ) streaming time -「Manbora - Seeds of Miracle」
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 10  |
+
+## Unlocked Charts
+|              Song              |Character|Diff.|Level|
+|--------------------------------|:-------:|:---:|:---:|
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Easy |  3  |
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Hard |  7  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 SSSSTTTRREEEAAMMM time \\(ΦωΦ)/ Nyaa！！！

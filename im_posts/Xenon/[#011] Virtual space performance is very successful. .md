@@ -1,4 +1,9 @@
 # Virtual space performance is very successful. 
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 21  |
+
 ## Post
 **Xenon**<br>
 Thank you to everyone who connected to the Live yesterday. <br>

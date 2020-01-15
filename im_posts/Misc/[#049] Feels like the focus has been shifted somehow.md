@@ -1,4 +1,9 @@
 # Feels like the focus has been shifted somehow
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 33  |
+
 ## Post
 **Nyd_Ans**<br>
 Much fewer people seem to care about the Æsir event now?

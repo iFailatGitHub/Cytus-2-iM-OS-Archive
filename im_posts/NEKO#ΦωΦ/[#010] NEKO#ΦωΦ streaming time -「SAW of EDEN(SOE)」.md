@@ -1,5 +1,15 @@
-# NEKO#ΦωΦ streaming time -
-「SAW of EDEN(SOE)」
+# NEKO#ΦωΦ streaming time -「SAW of EDEN(SOE)」
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 13  |
+
+## Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Keep it up**|NEKO#ΦωΦ |Easy |  5  |
+|**Keep it up**|NEKO#ΦωΦ |Hard |  8  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Today we are playing the latest action game ㄟ(ΦωΦ)ㄏ！！<br>

@@ -1,4 +1,9 @@
 # Having some crappy luck recently
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 54  |
+
 ## Post
 **Henry**<br>
 Recently, whenever I post, 8 out of 10 posts will be corrupted<br>

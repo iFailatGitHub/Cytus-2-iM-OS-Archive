@@ -1,4 +1,17 @@
 # [Announcement] Article removed for unknown reason
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     |  9  |
+|**NEKO#ΦωΦ** |  9  |
+|**ROBO_Head**|  9  |
+
+## Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Devillic Sphere**|ROBO_Head|Easy |  3  |
+|**Devillic Sphere**|ROBO_Head|Hard |  9  |
+
 ## Post
 **ROBO_Head**<br>
 Record: Previous post delete for Unknown reason ：( <br>

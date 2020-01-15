@@ -1,4 +1,9 @@
 # Listen, all of you
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 37  |
+
 ## Post
 **Xenon**<br>
 Right now, pointless protest and/or sabotage will only bring trouble on yourselves. Surrounding Mono HQ is a nonsensical and dumb idea in the first place. 

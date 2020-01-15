@@ -1,4 +1,14 @@
 # [Repost] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 21  |
+
+## Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Grimoire of Crimson**|ROBO_Head|Chaos| 11  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Technology][Prosthetics]<br>

@@ -1,4 +1,11 @@
 # [Breaking] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 55  |
+|**NEKO#ΦωΦ** | 55  |
+|**ROBO_Head**| 55  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Æsir][Hacker][ICybercrime][A.R.C.][Administration Bureau]<br>

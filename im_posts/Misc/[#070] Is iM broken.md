@@ -1,4 +1,9 @@
 # Is iM broken?
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 47  |
+
 ## Post
 **maplewing**<br>
 Like what my title said. Does anyone have the same issue as me?<br>

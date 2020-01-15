@@ -1,4 +1,9 @@
 # [Breaking] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 67  |
+
 ## Post
 **Flower_Head**<br>
 [Breaking][PAFF][NEKO][Missing][Eye Witness]<br>

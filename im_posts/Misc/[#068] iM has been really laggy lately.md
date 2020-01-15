@@ -1,4 +1,9 @@
 # iM has been really laggy lately
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 44  |
+
 ## Post
 **Brainmania**<br>
 Sometimes the connection just suddenly gets really slow makes me wonder if I unintentionally connected to another Node's internet<br>

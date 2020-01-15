@@ -1,4 +1,9 @@
 # [Breaking] Drone attacks reported in Node 08
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 62  |
+
 ## Post
 **Flower_Head**<br>
 [Breaking News][Drones][Attack][Casualties]<br>

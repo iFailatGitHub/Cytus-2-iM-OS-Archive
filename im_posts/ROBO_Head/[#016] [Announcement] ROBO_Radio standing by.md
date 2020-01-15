@@ -1,4 +1,15 @@
 # [Announcement] ROBO_Radio standing by
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 16  |
+
+## Unlocked Charts
+|              Song               |Character|Diff.|Level|
+|---------------------------------|:-------:|:---:|:---:|
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Easy |  3  |
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Hard |  8  |
+
 ## Post
 **ROBO_Head**<br>
 ROBO\_Radio online in one hour

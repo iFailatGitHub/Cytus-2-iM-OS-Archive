@@ -1,4 +1,14 @@
 # [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  5  |
+
+## Unlocked Charts
+|                     Song                      |Character|Diff.|Level|
+|-----------------------------------------------|:-------:|:---:|:---:|
+|**Bullet Waiting for Me (James Landino remix)**|  PAFF   |Chaos| 11  |
+
 ## Post
 **PAFF-Official**<br>
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>

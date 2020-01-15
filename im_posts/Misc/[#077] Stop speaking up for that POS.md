@@ -1,4 +1,10 @@
 # Stop speaking up for that POS
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**NEKO#ΦωΦ** | 49  |
+|**ROBO_Head**| 50  |
+
 ## Post
 **BlackNicholas**<br>
 Isn't Xenon the most suspicious one ever since this whole incident started???<br>

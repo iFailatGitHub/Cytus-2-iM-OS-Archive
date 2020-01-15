@@ -1,4 +1,14 @@
 # Going back home, sorry for making everybody worried.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 19  |
+
+## Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Gravity**|  PAFF   |Chaos| 12  |
+
 ## Post
 **PAFF-Official**<br>
 Arrived home with Sis.<br>

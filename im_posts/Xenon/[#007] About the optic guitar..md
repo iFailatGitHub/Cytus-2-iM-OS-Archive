@@ -1,4 +1,9 @@
 # About the optic guitar.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 14  |
+
 ## Post
 **Xenon**<br>
 Some people may have seen my performance using the optic guitar. That's only a prototype, what do you guys think about the sound?

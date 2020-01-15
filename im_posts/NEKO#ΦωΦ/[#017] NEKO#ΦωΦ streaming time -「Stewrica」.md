@@ -1,5 +1,9 @@
-# NEKO#ΦωΦ streaming time -
-「Stewrica」
+# NEKO#ΦωΦ streaming time -「Stewrica」
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 20  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 S~~streaming time ladies and germs (Φˋ∀ˊΦ)ゞ<br>

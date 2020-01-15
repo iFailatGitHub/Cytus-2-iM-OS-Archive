@@ -1,4 +1,15 @@
 # [Announcement] Premium collection now underway!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 21  |
+
+## Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Green Hope**|  PAFF   |Easy |  3  |
+|**Green Hope**|  PAFF   |Hard |  7  |
+
 ## Post
 **PAFF-Official**<br>
 Dear little Puffs, we have some good news for you~

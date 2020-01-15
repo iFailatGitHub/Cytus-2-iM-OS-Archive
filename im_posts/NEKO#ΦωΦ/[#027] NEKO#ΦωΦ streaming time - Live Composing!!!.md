@@ -1,4 +1,9 @@
 # NEKO#ΦωΦ streaming time - Live Composing!!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 41  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Enough games for today. Let's do something different. Time to unveil my super secret Critical Arts (\*Φ∀Φ)<br>

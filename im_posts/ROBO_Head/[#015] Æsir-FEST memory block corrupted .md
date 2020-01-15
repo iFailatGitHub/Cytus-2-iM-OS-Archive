@@ -1,4 +1,14 @@
 # Æsir-FEST memory block corrupted 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 15  |
+
+## Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**Pure Powerstomper**|ROBO_Head|Chaos| 13  |
+
 ## Post
 **ROBO_Head**<br>
 Analysis: Accessing Æsir-FEST records...access fail<br>

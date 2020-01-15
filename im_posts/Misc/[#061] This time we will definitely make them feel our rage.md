@@ -1,4 +1,9 @@
 # This time we will definitely make them feel our rage
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 41  |
+
 ## Post
 **Fuxkoff**<br>
 Mono probably thinks that this is none of their business anymore, don't they? They see that they can't handle the situation, so they terminate the contract and abandon her. They think we are stupid enough to let them off scot-free with no responsibility after turning the entire situation to s\*\*\* 

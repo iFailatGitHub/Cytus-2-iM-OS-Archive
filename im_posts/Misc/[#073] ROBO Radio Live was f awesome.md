@@ -1,4 +1,9 @@
 # ROBO Radio Live was f****** awesome
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 50  |
+
 ## Post
 **Flower_Head**<br>
 Never heard such an incredible &͏͝\*̢̡͡h̶͟l̴̷ before!<br>

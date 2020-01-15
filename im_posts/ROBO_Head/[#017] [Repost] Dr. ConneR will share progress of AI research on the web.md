@@ -1,4 +1,15 @@
 # [Repost] Dr. ConneR will share progress of AI research on the web
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 18  |
+
+## Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Grimoire of Crimson**|ROBO_Head|Easy |  4  |
+|**Grimoire of Crimson**|ROBO_Head|Hard |  8  |
+
 ## Post
 **ROBO_Head**<br>
 [Technology][News][ARC][A.I.][ConneR]<br>

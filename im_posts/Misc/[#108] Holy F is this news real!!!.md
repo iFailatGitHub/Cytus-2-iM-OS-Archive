@@ -1,4 +1,9 @@
 # Holy F*** is this news real!!!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 64  |
+
 ## Post
 **PoolsKitten**<br>
 I heard my friend say<br>

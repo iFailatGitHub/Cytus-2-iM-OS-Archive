@@ -1,4 +1,9 @@
 # What kind of nonsense BS are they spewing
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 51  |
+
 ## Post
 **JOE**<br>
 Haven't been this p\*\*\*ed off in a long time! My uncle always told me that paparazzi is a job for losers; today I finally get what he meant by that!! I've known Simon since the days of CP. His sense of justice and his dedication to his principles are simply unrivaled. I mean, this dude doesn't even drink booze in my shop! He orders milk all the time! Why the f\*\*\* would anyone think he is an internet terrorist??

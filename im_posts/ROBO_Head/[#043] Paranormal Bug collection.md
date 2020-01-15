@@ -1,4 +1,9 @@
 # Paranormal: Bug collection
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 54  |
+
 ## Post
 **Manpora**<br>
 Has anybody organize the wide variety of paranormal incidents on the virtual internet recently?<br>

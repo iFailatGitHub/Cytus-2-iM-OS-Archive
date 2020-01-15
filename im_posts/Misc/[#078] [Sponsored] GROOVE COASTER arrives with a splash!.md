@@ -16,4 +16,3 @@ Ride the rhythmic rails in GROOVE COASTER<br>
 [**[Official Twitter]**](https://twitter.com/groove\_coaster)
 
 ![o7801.png](./attachments/o7801.png)
-## Replies

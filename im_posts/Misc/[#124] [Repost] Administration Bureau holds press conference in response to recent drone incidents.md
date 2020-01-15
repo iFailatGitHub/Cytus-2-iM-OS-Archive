@@ -1,4 +1,9 @@
 # [Repost] Administration Bureau holds press conference in response to recent drone incidents
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 66  |
+
 ## Post
 **Andy_Roid**<br>
 [News][Drones][Attack][Administration Bureau]<br>

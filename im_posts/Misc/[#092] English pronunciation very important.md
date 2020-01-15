@@ -1,4 +1,9 @@
 # English pronunciation very important
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 57  |
+
 ## Post
 **t×pazolite**<br>
 Because my english is poor sometimes I use wrong pronunciation. A while ago when I performed at Node 47, a staff member asked me in English if I am ready or not. I wanted to say "I'm ready" but I said "I'm lady". I'm not lady.

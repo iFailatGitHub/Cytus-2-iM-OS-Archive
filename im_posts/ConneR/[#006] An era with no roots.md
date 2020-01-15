@@ -1,4 +1,9 @@
 # An era with no roots
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 10  |
+
 ## Post
 **ConneR**<br>
 　This era, I believe is one that lost its roots.

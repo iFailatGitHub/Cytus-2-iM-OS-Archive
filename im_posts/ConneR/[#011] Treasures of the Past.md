@@ -1,4 +1,9 @@
 # Treasures of the Past
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 18  |
+
 ## Post
 **ConneR**<br>
 　In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 

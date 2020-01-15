@@ -1,4 +1,9 @@
 # Thank you to everyone who came yesterday
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 28  |
+
 ## Post
 **CherryPuNK**<br>
 Hi, I'm Cherry. Thank you to everyone for their passion during yesterday's performance<br>

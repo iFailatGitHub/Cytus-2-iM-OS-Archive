@@ -1,4 +1,9 @@
 # Thousands of fans gathered on iM to mourn the passing of Cherry PuNK vocalist Sherry Pauline
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 68  |
+
 ## Post
 **Flower_Head**<br>
 [News][Cherry PuNK][Sherry Pauline][Obituary]<br>

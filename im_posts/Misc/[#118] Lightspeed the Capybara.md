@@ -1,4 +1,9 @@
 # Lightspeed the Capybara
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 64  |
+
 ## Post
 **Curo**<br>
 Anyone see the latest trailer for Lightspeed the Capybara?? Whaddaya think? Leave your thoughts below~

@@ -1,4 +1,9 @@
 # The Cello
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  9  |
+
 ## Post
 **ConneR**<br>
 　The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. 

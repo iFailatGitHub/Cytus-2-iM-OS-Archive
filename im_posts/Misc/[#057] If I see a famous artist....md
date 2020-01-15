@@ -1,4 +1,9 @@
 # If I see a famous artist...
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 36  |
+
 ## Post
 **NekoSamurai**<br>
 The artists still have to go to work<br>

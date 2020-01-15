@@ -1,4 +1,14 @@
 # Who the hell is that "Cherry" girl?
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 23  |
+
+## Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Green Hope**|  PAFF   |Chaos| 11  |
+
 ## Post
 **Hatehate**<br>
 Why would PAFF collaborate with some nobody... is this some rich brat who wants to ride on her coattails? 

@@ -1,4 +1,9 @@
 # [Repost] A.R.C looking for professional Ruins explorer
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 20  |
+
 ## Post
 **ConneR**<br>
 > Do you have a dream? Do you want to visit Ruins all across the world?<br>

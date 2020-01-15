@@ -1,4 +1,9 @@
 # Will NEKO actually participate in ROBO_Radio_Live ΦωΦ I dunno~~
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 46  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Nyan Nyan Nyan Nyan Nyan ~ Meow Meow Meow~ So many people have been PMing NEKO for the past two days σ(Φ∀Φ)σ<br>

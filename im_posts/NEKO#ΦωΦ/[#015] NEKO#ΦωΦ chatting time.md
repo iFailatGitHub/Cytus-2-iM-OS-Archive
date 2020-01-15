@@ -1,4 +1,14 @@
 # NEKO#ΦωΦ chatting time
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 19  |
+
+## Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Hard |  9  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Greetings (ΦωΦ) it's stream time~ ! !

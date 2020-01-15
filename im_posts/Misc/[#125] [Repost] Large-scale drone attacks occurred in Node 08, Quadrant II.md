@@ -1,4 +1,9 @@
 # [Repost] Large-scale drone attacks occurred in Node 08, Quadrant II
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 66  |
+
 ## Post
 **Flower_Head**<br>
 [Breaking News][Drones][Attack][Shelter]<br>

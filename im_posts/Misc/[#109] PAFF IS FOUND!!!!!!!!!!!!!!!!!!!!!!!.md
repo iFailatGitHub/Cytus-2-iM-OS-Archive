@@ -1,4 +1,9 @@
 # PAFF IS FOUND!!!!!!!!!!!!!!!!!!!!!!!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 66  |
+
 ## Post
 **iluvpuf**<br>
 Just opened my iM to see the same message being spammed everywhere<br>

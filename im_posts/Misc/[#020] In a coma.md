@@ -1,4 +1,9 @@
 # In a coma
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 19  |
+
 ## Post
 **kou**<br>
 My younger brother has been in a coma ever since the PAFF concert...

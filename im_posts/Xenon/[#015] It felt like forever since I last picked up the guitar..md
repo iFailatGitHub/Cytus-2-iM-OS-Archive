@@ -1,4 +1,9 @@
 # It felt like forever since I last picked up the guitar.
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 48  |
+
 ## Post
 **Xenon**<br>
 Visited my long-forgotten workshop to take a quick breather between jobs, only to discover that a  thick layer of dust had gathered on the equipment. The strings on the optic guitar were all rusty as well. <br>

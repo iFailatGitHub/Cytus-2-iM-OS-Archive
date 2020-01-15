@@ -1,4 +1,9 @@
 # About Xenon and this iM account.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 12  |
+
 ## Post
 **Xenon**<br>
 It's been three years since I started creating content under the name Xenon. Most people probably followed this personal account because of the music. 

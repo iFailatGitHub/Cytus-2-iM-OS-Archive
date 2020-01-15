@@ -1,4 +1,9 @@
 # The corner of the city
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 29  |
+
 ## Post
 **CherryPuNK**<br>
 Has anyone been to Quadrant I?<br>

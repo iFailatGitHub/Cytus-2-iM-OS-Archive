@@ -1,4 +1,9 @@
 # Lecture at the Academy
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 47  |
+
 ## Post
 **ConneR**<br>
 I hinted about this a while ago. Today, I'm here to make an official announcement.

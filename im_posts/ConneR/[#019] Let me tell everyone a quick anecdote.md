@@ -1,4 +1,9 @@
 # Let me tell everyone a quick anecdote
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 38  |
+
 ## Post
 **ConneR**<br>
 　A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. 

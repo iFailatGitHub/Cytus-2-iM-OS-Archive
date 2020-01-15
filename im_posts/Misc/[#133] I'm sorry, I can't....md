@@ -1,4 +1,9 @@
 # I'm sorry, I can't...
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 68  |
+
 ## Post
 **maplewing**<br>
 To be honest, I'm still in disbelief...<br>

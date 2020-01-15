@@ -1,4 +1,9 @@
 # [Repost] Looking back at major riots in history
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 46  |
+
 ## Post
 **ROBO_Head**<br>
 [Riot][Monophonic Entertainment][Social Commentary][Show]<br>

@@ -1,4 +1,11 @@
 # So memories can be deleted?
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 24  |
+|**NEKO#ΦωΦ** | 24  |
+|**ROBO_Head**| 24  |
+
 ## Post
 **Mohito**<br>
 I was an audience at Æsir-FEST. Before I don't remember seeing Æsir on stage when recalling this event. I get sick and my memory is blurry.<br>

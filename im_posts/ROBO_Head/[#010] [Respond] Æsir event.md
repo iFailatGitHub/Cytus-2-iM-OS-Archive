@@ -1,4 +1,9 @@
 # [Respond] Æsir event
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 10  |
+
 ## Post
 **ROBO_Head**<br>
 Analysis: No Æsir-FEST footage in memory cells.：( <br>

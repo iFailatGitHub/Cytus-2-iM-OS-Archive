@@ -1,4 +1,16 @@
 # Æsir-FEST corrupted data recovery progress......80% 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 24  |
+|**NEKO#ΦωΦ** | 24  |
+|**ROBO_Head**| 23  |
+
+## Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Dasein**|ROBO_Head|Chaos| 12  |
+
 ## Post
 **ROBO_Head**<br>
 Report: Æsir-FEST corrupted data recovery progress......80%,  index block recovery complete<br>

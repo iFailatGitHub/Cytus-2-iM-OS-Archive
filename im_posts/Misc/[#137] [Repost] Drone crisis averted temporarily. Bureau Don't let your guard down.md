@@ -1,4 +1,9 @@
 # [Repost] Drone crisis averted temporarily. Bureau: Don't let your guard down
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 69  |
+
 ## Post
 **Flower_Head**<br>
 [Breaking][Drones][Attack][Termination]<br>

@@ -1,4 +1,14 @@
 # 7th PAFFCON, sold out
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  7  |
+
+## Unlocked Charts
+|                   Song                    |Character|Diff.|Level|
+|-------------------------------------------|:-------:|:---:|:---:|
+|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Chaos| 10  |
+
 ## Post
 **PAFF-Official**<br>
 Thank you for the support little Puffs~ all tickets have been sold!

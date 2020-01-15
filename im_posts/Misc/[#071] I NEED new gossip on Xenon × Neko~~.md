@@ -1,4 +1,9 @@
 # I NEED new gossip on Xenon × Neko~~
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 48  |
+
 ## Post
 **Go55ip**<br>
 So~~~ Did Xenon and NEKO actually end up together or not!!! We've received no updates on them ever since the last time they went to NEKO's house to do some "secret adult stuff". I demand MOAR gossip!!!!! >///////<<br>

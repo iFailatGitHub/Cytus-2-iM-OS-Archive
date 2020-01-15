@@ -1,4 +1,9 @@
 # Yet another advisor position
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 11  |
+
 ## Post
 **ConneR**<br>
 　Still a while before the information is publicized, but recently I accepted another advisor position. It's in a familiar field, though the unit is not one I particularly agree with. After several back-and-forth negotiations, I accepted the position since they are very sincere about it. Once the NDA is lifted I'll talk more about it. 

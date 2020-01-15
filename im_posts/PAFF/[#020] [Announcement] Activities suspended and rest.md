@@ -1,4 +1,16 @@
 # [Announcement] Activities suspended and rest
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 24  |
+
+## Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Under the same sky**|  PAFF   |Easy |  1  |
+|**Under the same sky**|  PAFF   |Hard |  7  |
+|**Under the same sky**|  PAFF   |Chaos|  9  |
+
 ## Post
 **PAFF-Official**<br>
 Dear little Puffs, on the recommendation of the doctor, PAFF will be traveling to another Node to rest and rehabilitate.

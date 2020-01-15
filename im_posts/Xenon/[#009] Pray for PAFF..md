@@ -1,4 +1,9 @@
 # Pray for PAFF.
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 18  |
+
 ## Post
 **Xenon**<br>
 Although I've heard that PAFF was not feeling well, collapsing during the Encore song is serious business. 

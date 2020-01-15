@@ -1,4 +1,9 @@
 # Me first
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 25  |
+
 ## Post
 **EvilForce**<br>
 Let me get everyone some keywords:<br>

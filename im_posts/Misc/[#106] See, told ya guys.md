@@ -1,4 +1,9 @@
 # See, told ya guys
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 61  |
+
 ## Post
 **SIhama**<br>
 I don't care if this whole thing is staged or not<br>

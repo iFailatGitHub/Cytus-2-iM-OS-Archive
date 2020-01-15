@@ -1,4 +1,11 @@
 # I am very sorry to everyone
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 34  |
+|**NEKO#ΦωΦ** | 34  |
+|**ROBO_Head**| 33  |
+
 ## Post
 **Helena**<br>
 After the agency's statement, I feel that I should officially apologize to everyone here as well. 

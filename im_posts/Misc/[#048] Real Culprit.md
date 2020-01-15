@@ -1,4 +1,9 @@
 # Real Culprit???
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 32  |
+
 ## Post
 **NEKOSAIKOU**<br>
 Bunch of people on the net said NEKO's behind all this<br>

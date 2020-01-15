@@ -1,4 +1,11 @@
 # ROBO_Radio_LIVE starts now!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 48  |
+|**NEKO#ΦωΦ** | 48  |
+|**ROBO_Head**| 48  |
+
 ## Post
 **ROBO_Head**<br>
 Due to a connection error, network traffic unable to reach required level. High-quality stream unavailable, apologies：(<br>

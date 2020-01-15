@@ -1,4 +1,9 @@
 # [Announcement] Tower 054 celebration event guest revealed
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 27  |
+
 ## Post
 **PAFF-Official**<br>
 Dear little Puffs, do you remember the rookie band **@Cherry PuNK** who composed a song for PAFF ~~

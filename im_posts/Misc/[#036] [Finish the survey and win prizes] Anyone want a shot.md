@@ -1,4 +1,10 @@
 # [Finish the survey and win prizes] Anyone want a shot
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**NEKO#ΦωΦ** | 26  |
+|**ROBO_Head**| 26  |
+
 ## Post
 **NekoSamurai**<br>
 A. Æsir is just a puppet. There's a true mastermind behind this<br>

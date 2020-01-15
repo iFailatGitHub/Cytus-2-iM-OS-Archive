@@ -1,4 +1,14 @@
 # NEKO's never seen something so stupid (ŏωŏ)
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  1  |
+
+## Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**The Spark**|NEKO#ΦωΦ |Chaos| 12  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Æsir standing everyone up was big deal lol<br>

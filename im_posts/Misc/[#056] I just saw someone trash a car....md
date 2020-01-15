@@ -1,4 +1,9 @@
 # I just saw someone trash a car...
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 38  |
+
 ## Post
 **Arkman**<br>
 Feels like a lot of freaky people are mixed in the crowd??<br>

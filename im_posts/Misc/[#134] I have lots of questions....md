@@ -1,4 +1,9 @@
 # I have lots of questions...
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 68  |
+
 ## Post
 **Gogossip**<br>
 A tier-1 artist for Mono just dies all of a sudden<br>

@@ -1,4 +1,14 @@
 # [Announcement] Connect to major platforms now!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  1  |
+
+## Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**KANATA**|  PAFF   |Chaos|  9  |
+
 ## Post
 **PAFF-Official**<br>
 The released new song "KANATA" took a long time to prepare. During the production, the composer and producer helped me a lot!

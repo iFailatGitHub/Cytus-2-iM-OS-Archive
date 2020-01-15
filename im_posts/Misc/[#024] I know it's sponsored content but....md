@@ -1,4 +1,9 @@
 # I know it's sponsored content but...
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 20  |
+
 ## Post
 **EvilForce**<br>
 Hey did you guys see the game NEKO was streaming?

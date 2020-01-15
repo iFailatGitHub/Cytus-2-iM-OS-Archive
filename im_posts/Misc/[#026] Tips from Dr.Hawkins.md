@@ -1,4 +1,9 @@
 # Tips from Dr.Hawkins
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 22  |
+
 ## Post
 **Dr. Hawkins**<br>
 Although it's a bit weird to give this tip on iM, I would advise everyone to control their time using the internet. <br>

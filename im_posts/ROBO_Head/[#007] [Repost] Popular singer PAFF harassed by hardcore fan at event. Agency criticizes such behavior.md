@@ -1,4 +1,9 @@
 # [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  7  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Entertainment][PAFF]<br>

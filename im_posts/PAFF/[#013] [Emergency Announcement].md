@@ -1,4 +1,15 @@
 # [Emergency Announcement]
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 17  |
+
+## Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Gravity**|  PAFF   |Easy |  3  |
+|**Gravity**|  PAFF   |Hard |  7  |
+
 ## Post
 **PAFF-Official**<br>
 Fellow fans, sorry for the interruption. I am Helena, PAFF's agent.<br>

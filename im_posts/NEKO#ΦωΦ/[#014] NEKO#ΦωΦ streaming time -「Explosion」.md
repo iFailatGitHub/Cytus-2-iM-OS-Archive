@@ -1,5 +1,9 @@
-# NEKO#ΦωΦ streaming time -
-「Explosion」
+# NEKO#ΦωΦ streaming time -「Explosion」
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 18  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Today we are streaming a new antique-level game！！＼(Φˋ∀ˊΦ)／<br>

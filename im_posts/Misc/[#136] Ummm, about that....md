@@ -1,4 +1,9 @@
 # Ummm, about that...
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 69  |
+
 ## Post
 **MustangMartin**<br>
 Seems that there's no sounds outside, yeah?

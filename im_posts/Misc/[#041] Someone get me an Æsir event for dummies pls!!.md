@@ -1,4 +1,16 @@
 # Someone get me an Æsir event for dummies pls!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 29  |
+
+## Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Brain Power**|NEKO#ΦωΦ |Easy |  3  |
+|**Brain Power**|NEKO#ΦωΦ |Hard |  8  |
+|**Brain Power**|NEKO#ΦωΦ |Chaos| 13  |
+
 ## Post
 **Noposa**<br>
 There's like a boatload of them out there. Multiple different versions too

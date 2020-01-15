@@ -1,4 +1,9 @@
 # [Repost] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 34  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Monophonic Entertainment][Riot][PAFF]<br>

@@ -1,4 +1,9 @@
 # OK this is bulls***
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 42  |
+
 ## Post
 **KiwaHu**<br>
 With each update, the iM UI gets noticably uglier. It's to a point where I can place it in a graveyard and evil spirits will be too scared to even come close to it. I can't take this BS anymore.<br>

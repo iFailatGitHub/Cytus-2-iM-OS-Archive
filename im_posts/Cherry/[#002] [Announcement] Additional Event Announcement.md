@@ -1,4 +1,9 @@
 # [Announcement] Additional Event Announcement
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 26  |
+
 ## Post
 **CherryPuNK**<br>
 [Announcement]<br>

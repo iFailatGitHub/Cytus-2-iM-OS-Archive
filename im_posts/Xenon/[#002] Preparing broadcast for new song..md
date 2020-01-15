@@ -1,4 +1,9 @@
 # Preparing broadcast for new song.
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  2  |
+
 ## Post
 **Xenon**<br>
 Finally have more time to write new songs and organize the next performance. Been getting a lot more inspirations after returning to A.R.C.

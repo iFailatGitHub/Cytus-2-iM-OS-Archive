@@ -1,5 +1,14 @@
-# NEKO#ΦωΦ streaming time -
-「Valkyrie ~Love Times~」
+# NEKO#ΦωΦ streaming time -「Valkyrie ~Love Times~」
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 15  |
+
+## Unlocked Charts
+|              Song              |Character|Diff.|Level|
+|--------------------------------|:-------:|:---:|:---:|
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Chaos| 12  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Stream time! Today we are playing a Visual Novel <br>

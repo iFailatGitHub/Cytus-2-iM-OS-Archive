@@ -1,4 +1,9 @@
 # Something we must tell everyone
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 74  |
+
 ## Post
 **CherryPuNK**<br>
 This is a sad news, but we have to let everybody know. Last week, our band's lead vocalist Cherry, real name Sherry Pauline, has left us due to an accident.

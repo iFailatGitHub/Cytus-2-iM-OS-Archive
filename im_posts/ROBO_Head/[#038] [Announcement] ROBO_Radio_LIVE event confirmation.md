@@ -1,4 +1,9 @@
 # [Announcement] ROBO_Radio_LIVE event confirmation
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 47  |
+
 ## Post
 **ROBO_Head**<br>
 The first ROBO\_Radio\_LIVE will be held in the cyTus virtual space. Several new songs set to be revealed. Invited guests NEKO\#ΦωΦ and Cherry will be on stage as well. We welcome everyone to join us ：)

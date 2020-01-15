@@ -1,4 +1,9 @@
 # What just happened...
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 63  |
+
 ## Post
 **CHanatsuka**<br>
 MEME: <br>

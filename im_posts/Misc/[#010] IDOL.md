@@ -1,4 +1,9 @@
 # "IDOL"
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 11  |
+
 ## Post
 **NEKOSAIKOU**<br>
 Look at that "IDOL", one "moe" gesture and all these weebs can't control their d\*\*\*s. Man I'm gonna go puke LMFAO

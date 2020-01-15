@@ -1,4 +1,9 @@
 # I welcome everyone to come and try out the billiards table!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 42  |
+
 ## Post
 **JOEZ Cafe**<br>
 A while ago, I got someone to upgrade the firmware of the old billiards table<br>

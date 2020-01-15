@@ -1,4 +1,9 @@
 # Teaser for new song "Black Hole".
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 21  |
+
 ## Post
 **Xenon**<br>
 Dream realized, finally get to collab with **@ROBO\_Head**. ROBO's composing is simply out of this world. <br>

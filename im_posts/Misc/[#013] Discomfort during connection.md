@@ -1,4 +1,9 @@
 # Discomfort during connection
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 14  |
+
 ## Post
 **Majaja**<br>
 Recently when I connect to cyTus, I get this nauseating feeling. Doctors can't figure out what's wrong either. Should I file a complaint to A.R.C.?

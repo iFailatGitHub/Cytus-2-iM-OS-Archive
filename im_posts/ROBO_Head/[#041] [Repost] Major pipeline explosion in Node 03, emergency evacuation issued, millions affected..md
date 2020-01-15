@@ -1,4 +1,9 @@
 # [Repost] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 52  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Node03][Explosion][Fire][Accident][Administration Bureau]<br>

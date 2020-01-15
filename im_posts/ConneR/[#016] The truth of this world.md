@@ -1,4 +1,9 @@
 # The truth of this world
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 25  |
+
 ## Post
 **ConneR**<br>
 　Maybe this is an opportunity for everyone to reflect carefully: are there too many things in the world that we simply can't understand and control.

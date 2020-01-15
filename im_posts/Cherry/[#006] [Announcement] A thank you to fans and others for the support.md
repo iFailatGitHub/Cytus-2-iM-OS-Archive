@@ -1,4 +1,9 @@
 # [Announcement] A thank you to fans and others for the support
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 37  |
+
 ## Post
 **CherryPuNK**<br>
 [Announcement]<br>

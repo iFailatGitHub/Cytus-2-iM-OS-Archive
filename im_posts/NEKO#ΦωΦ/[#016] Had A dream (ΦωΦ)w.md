@@ -1,4 +1,14 @@
 # Had A dream (ΦωΦ)w
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 20  |
+
+## Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Chaos| 15  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 NEKO had a dream yesterday ΦωΦ.<br>

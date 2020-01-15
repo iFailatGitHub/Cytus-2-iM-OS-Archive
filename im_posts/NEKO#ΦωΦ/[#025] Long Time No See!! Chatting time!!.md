@@ -1,4 +1,9 @@
 # Long Time No See!! Chatting time!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 36  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 HELLOOOOO~~~<br>

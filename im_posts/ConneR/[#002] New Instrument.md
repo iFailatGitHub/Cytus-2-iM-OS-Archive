@@ -1,4 +1,9 @@
 # New Instrument
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  2  |
+
 ## Post
 **ConneR**<br>
 　Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 

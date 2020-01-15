@@ -1,4 +1,9 @@
 # [Repost] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 53  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Administration Bureau][Law Enforcement Department][Human Trafficking][Pedophile][Cleanup Blitz]<br>

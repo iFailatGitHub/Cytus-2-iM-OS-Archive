@@ -1,4 +1,9 @@
 # King of Germs owner has had enough!!!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 42  |
+
 ## Post
 **JOEZ Cafe**<br>
 You bunch of freakin idiots!!!<br>

@@ -1,5 +1,9 @@
-# New behind the scenes update on Xenon's love triangle!
-NEKO#ΦωΦ? Cherry?
+# New behind the scenes update on Xenon's love triangle!NEKO#ΦωΦ? Cherry?
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 41  |
+
 ## Post
 **Vicky**<br>
 A few days ago, popular streamer NEKO\#ΦωΦ, who was acquitted of all charges for her involvement in the infamous hacking incident, has returned to her home. Previously, this paper caught sight of one-man band leader Xenon and CherryPuNK lead vocalist Cherry accompanying her as she left the Bureau. Today, there has been a new update to the situation. 

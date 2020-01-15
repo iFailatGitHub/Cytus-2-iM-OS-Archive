@@ -1,4 +1,9 @@
 # Who's behind this??
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 65  |
+
 ## Post
 **Go55ip**<br>
 Although instances of separate drone malfunctions did occur before this it's getting a little out of hand (Multiple drones malfunction all at once??) <br>

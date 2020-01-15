@@ -1,4 +1,16 @@
 # [Repost] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 24  |
+
+## Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Chrome VOX**|NEKO#ΦωΦ |Easy |  4  |
+|**Chrome VOX**|NEKO#ΦωΦ |Hard |  9  |
+|**Chrome VOX**|NEKO#ΦωΦ |Chaos| 15  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Social][Emergency]<br>

@@ -1,5 +1,14 @@
-# [Repost] NEKO#ΦωΦ streaming time -
-「SAW of EDEN(SOE)」
+# [Repost] NEKO#ΦωΦ streaming time -「SAW of EDEN(SOE)」
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 13  |
+
+## Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Devillic Sphere**|ROBO_Head|Chaos| 13  |
+
 ## Post
 **ROBO_Head**<br>
 [Stream][Game][NEKO]<br>

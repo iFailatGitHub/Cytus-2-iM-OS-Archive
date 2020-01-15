@@ -1,4 +1,9 @@
 # My band members.
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 16  |
+
 ## Post
 **Xenon**<br>
 Topic looks like something right out of a middle school essay. Whatever, today I would like to introduce my band members:

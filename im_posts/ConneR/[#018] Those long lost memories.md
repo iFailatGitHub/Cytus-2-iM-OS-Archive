@@ -1,4 +1,9 @@
 # Those long lost memories
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 31  |
+
 ## Post
 **ConneR**<br>
 Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself.

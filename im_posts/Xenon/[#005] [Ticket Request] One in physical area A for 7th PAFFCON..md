@@ -1,4 +1,9 @@
 # [Ticket Request] One in physical area A for 7th PAFFCON.
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** |  8  |
+
 ## Post
 **Xenon**<br>
 Since I was so busy with work I missed the first chance to snap up a ticket. If you know anyone that has an extra ticket please contact me. Thanks.

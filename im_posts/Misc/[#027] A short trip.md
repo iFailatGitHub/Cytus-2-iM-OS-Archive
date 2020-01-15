@@ -1,4 +1,9 @@
 # A short trip
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 23  |
+
 ## Post
 **Marshall**<br>
 Just came back from a holiday, man finally feels alive again. You really need to leave your job completely to get actual rest... I attended a mental enhancing camp in another Node; it was a great experience. 

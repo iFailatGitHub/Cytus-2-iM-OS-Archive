@@ -1,4 +1,9 @@
 # [Repost] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 59  |
+
 ## Post
 **Flower_Head**<br>
 [News][Xenon][Jailbreak][Administration Bureau]<br>

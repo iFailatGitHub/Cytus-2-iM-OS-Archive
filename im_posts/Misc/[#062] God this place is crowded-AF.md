@@ -1,4 +1,9 @@
 # God this place is crowded-AF
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 42  |
+
 ## Post
 **8plusNine**<br>
 At Mono HQ right now. The crowd is so massive that there is barely any space left. Even more packed than last time.<br>

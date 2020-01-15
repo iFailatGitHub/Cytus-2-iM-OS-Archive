@@ -1,4 +1,9 @@
 # Super-popular streamer in shop right now!!!
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 45  |
+
 ## Post
 **JOEZ Cafe**<br>
 Haha thank you to **@NEKO\#ΦωΦ** for visiting the shop!!<br>

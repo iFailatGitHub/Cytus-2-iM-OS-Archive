@@ -1,4 +1,9 @@
 # Regarding recent rumors
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 33  |
+
 ## Post
 **CherryPuNK**<br>
 Goodnight everybody

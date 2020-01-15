@@ -1,4 +1,9 @@
 # [Annoucement] Explaining the decision behind the contract termination of PAFF
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 40  |
+
 ## Post
 **PAFF-Official**<br>
 To our dear fans and beloved customers,

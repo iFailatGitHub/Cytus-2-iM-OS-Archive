@@ -1,4 +1,14 @@
 # NEKO#(ΦωΦ) chatting time
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  6  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**One Way Love**|NEKO#ΦωΦ |Chaos|  9  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Good evening everyoneeeee ~(ΦωΦ) Meow

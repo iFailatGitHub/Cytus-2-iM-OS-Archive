@@ -1,4 +1,9 @@
 # Æsir-FEST event, 08 Daily exclusive report series Part 4
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 49  |
+
 ## Post
 **Vicky**<br>
 Discover the secrets, painstaking investigation: Æsir-FEST event report series Part 4

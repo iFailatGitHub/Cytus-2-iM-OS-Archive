@@ -1,4 +1,9 @@
 # My new prosthetic
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 20  |
+
 ## Post
 **Roger**<br>
 Here to tell everyone some good news. My application for a more powerful prosthetic has been accepted. I can get my new limbs this week \\oo/

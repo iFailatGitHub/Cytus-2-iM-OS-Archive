@@ -1,4 +1,16 @@
 # Æsir event internet search results
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 29  |
+
+## Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**EMber**|ROBO_Head|Easy |  3  |
+|**EMber**|ROBO_Head|Hard |  7  |
+|**EMber**|ROBO_Head|Chaos| 13  |
+
 ## Post
 **ROBO_Head**<br>
 Search Keywords: Æsir, memory loss, NEKO, hack, terrorist attack<br>

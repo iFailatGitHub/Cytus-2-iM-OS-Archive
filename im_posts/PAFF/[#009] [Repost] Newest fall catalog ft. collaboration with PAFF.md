@@ -1,4 +1,15 @@
 # [Repost] Newest fall catalog ft. collaboration with PAFF
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 13  |
+
+## Unlocked Charts
+|               Song               |Character|Diff.|Level|
+|----------------------------------|:-------:|:---:|:---:|
+|**Fireflies (Funk Fiction remix)**|  PAFF   |Easy |  3  |
+|**Fireflies (Funk Fiction remix)**|  PAFF   |Hard |  6  |
+
 ## Post
 **PAFF-Official**<br>
 > For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant-garde elements creates a colorful and unique autumn listing. <br>

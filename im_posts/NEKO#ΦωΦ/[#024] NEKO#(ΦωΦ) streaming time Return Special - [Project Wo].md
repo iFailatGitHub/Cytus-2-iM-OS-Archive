@@ -1,4 +1,9 @@
 # NEKO#(ΦωΦ) streaming time: Return Special - [Project Wo]
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 34  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Ladies and germs, even though a lot has happened, nothing can stand between us and video games!<br>

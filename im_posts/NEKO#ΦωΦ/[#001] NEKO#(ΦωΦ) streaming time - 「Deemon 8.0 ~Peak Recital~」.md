@@ -1,5 +1,10 @@
-# NEKO#(ΦωΦ) streaming time -
- 「Deemon 8.0 ~Peak Recital~」
+# NEKO#(ΦωΦ) streaming time - 「Deemon 8.0 ~Peak Recital~」
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**One Way Love**|NEKO#ΦωΦ |Easy |  2  |
+|**One Way Love**|NEKO#ΦωΦ |Hard |  6  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Today's stream is sponsored by....oops wrong script (ΦДΦ；today we are playing ! !<br>

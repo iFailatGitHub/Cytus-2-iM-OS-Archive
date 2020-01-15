@@ -1,4 +1,14 @@
 # Anyone have Æsir's new song meow ΦωΦ?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 22  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**Blow my mind**|NEKO#ΦωΦ |Chaos| 14  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 People've been spreading s\*\*\* about him<br>

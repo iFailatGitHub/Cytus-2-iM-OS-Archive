@@ -1,5 +1,9 @@
-# [Announcement] Regarding
-《Around the Nodes》concert tour refunds
+# [Announcement] Regarding《Around the Nodes》concert tour refunds
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 26  |
+
 ## Post
 **PAFF-Official**<br>
 Dear little Puffs, thank you for your support and encouragement through all this time.

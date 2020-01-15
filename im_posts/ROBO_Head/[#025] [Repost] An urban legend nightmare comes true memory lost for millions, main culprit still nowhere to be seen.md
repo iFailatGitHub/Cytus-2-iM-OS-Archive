@@ -1,4 +1,9 @@
 # [Repost] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 25  |
+
 ## Post
 **ROBO_Head**<br>
 [Æsir][Breaking][News][ARC][Administration Bureau]<br>

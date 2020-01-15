@@ -1,4 +1,14 @@
 # [Repost] Concert accident? Singer collapsed on stage
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 19  |
+
+## Unlocked Charts
+|              Song               |Character|Diff.|Level|
+|---------------------------------|:-------:|:---:|:---:|
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Chaos| 14  |
+
 ## Post
 **ROBO_Head**<br>
 [News][Entertainment][PAFF]<br>

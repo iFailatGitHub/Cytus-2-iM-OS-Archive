@@ -1,4 +1,9 @@
 # I find NEKO to be the biggest suspect
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 28  |
+
 ## Post
 **AntiNEKO**<br>
 Not that I want to single her out, but when her posts are regularly filled with extreme comments, it simply makes it very hard to believe that she's truly innocent<br>

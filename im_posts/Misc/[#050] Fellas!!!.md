@@ -1,4 +1,9 @@
 # Fellas!!!
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 35  |
+
 ## Post
 **Dreamer**<br>
 Hurry up~ quick!!!<br>

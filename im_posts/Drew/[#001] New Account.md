@@ -1,4 +1,9 @@
 # New Account
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 19  |
+
 ## Post
 **Drew**<br>
 I feel like a platform to express my feelings is necessary... However, I don't want other people to know that I am doing something like this

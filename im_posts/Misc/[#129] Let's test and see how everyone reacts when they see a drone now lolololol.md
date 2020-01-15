@@ -1,4 +1,9 @@
 # Let's test and see how everyone reacts when they see a drone now lolololol
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 67  |
+
 ## Post
 **UltraKY**<br>
 

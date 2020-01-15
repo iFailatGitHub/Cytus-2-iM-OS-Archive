@@ -1,4 +1,9 @@
 # [Repost] Research regarding the recreated technology of drones and its subsequent application to society
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 44  |
+
 ## Post
 **ROBO_Head**<br>
 [Excerpt][Document][Colin Neumann Jr.][Drones]<br>

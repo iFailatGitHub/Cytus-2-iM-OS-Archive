@@ -1,4 +1,9 @@
 # [Repost] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 57  |
+
 ## Post
 **Flower_Head**<br>
 [Entertainment][Cherry PuNK][Concert]<br>

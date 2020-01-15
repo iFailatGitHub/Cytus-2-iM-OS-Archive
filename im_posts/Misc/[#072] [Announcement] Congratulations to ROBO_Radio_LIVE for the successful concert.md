@@ -1,4 +1,9 @@
 # [Announcement] Congratulations to ROBO_Radio_LIVE for the successful concert
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 49  |
+
 ## Post
 **Mono_official**<br>
 To our dear fans and precious customers,

@@ -1,4 +1,9 @@
 # Does MeowBot have field service?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**|  4  |
+
 ## Post
 **Shibawu**<br>
 MeowBot is completely broken. Panoramic camera crashed and now my home is covered with corrupted footage. I can't find the Bot nor can I find the door. SOS!

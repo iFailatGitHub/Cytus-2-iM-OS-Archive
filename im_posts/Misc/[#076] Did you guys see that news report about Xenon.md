@@ -1,4 +1,9 @@
 # Did you guys see that news report about Xenon???
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 50  |
+
 ## Post
 **Krypton**<br>
 I feel like the tone of 08 Daily's reports is a bit biased. Like from the beginning, the reporter's attitude is always one where she's trying hard to dig up some dirt about X, or at least it seems that way.<br>

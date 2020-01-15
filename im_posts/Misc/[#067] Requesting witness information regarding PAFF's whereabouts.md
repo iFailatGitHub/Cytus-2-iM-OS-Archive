@@ -1,4 +1,9 @@
 # Requesting witness information regarding PAFF's whereabouts
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 45  |
+
 ## Post
 **PaffCheckin**<br>
 Hello everyone,<br>

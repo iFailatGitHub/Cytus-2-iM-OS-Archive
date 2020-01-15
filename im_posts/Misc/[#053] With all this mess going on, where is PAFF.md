@@ -1,4 +1,9 @@
 # With all this mess going on, where is PAFF?
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 39  |
+
 ## Post
 **SancTityKnight**<br>
 The agency has dispatched people to find her<br>

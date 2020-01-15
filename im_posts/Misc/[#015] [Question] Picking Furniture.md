@@ -1,4 +1,9 @@
 # [Question] Picking Furniture
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 15  |
+
 ## Post
 **Jack**<br>
 So now I've reached "that" age, eh? One that struggles with finding a suitable dining room decoration. We have hologram comparisons and simulation trials too, how come I still can't find a good match?

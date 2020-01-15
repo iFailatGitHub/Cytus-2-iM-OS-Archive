@@ -1,4 +1,11 @@
 # It's fixed!!!
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**PAFF**     | 55  |
+|**NEKO#ΦωΦ** | 55  |
+|**ROBO_Head**| 55  |
+
 ## Post
 **RamenBot**<br>
 FIRST!!! Mine!!!!!!

@@ -1,4 +1,14 @@
 # HAHA fall you bastard! Sick move
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 18  |
+
+## Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Easy |  5  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 !?!??

@@ -1,4 +1,9 @@
 # Nyaann~ Long time no see everyone (ΦωΦ)
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 30  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Teehee~ looks like I worried a lot of people ΦωΦ?<br>

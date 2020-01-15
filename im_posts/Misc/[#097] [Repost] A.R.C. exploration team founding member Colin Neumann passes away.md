@@ -1,4 +1,9 @@
 # [Repost] A.R.C. exploration team founding member Colin Neumann passes away
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 58  |
+
 ## Post
 **Flower_Head**<br>
 [News][Obituary][Archeology]<br>

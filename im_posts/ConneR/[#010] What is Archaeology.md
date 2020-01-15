@@ -1,4 +1,9 @@
 # What is Archaeology
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 16  |
+
 ## Post
 **ConneR**<br>
 　The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.

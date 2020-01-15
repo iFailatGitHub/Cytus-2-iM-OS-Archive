@@ -1,4 +1,9 @@
 # Battle Royale game recommendation
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 62  |
+
 ## Post
 **NnNn**<br>
 Figure I'd pick up a battle royale game to give the genre a shot <br>

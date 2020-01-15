@@ -1,5 +1,9 @@
-# Streaming at JOEZ Cafe today~
-(*Φ∀Φ)
+# Streaming at JOEZ Cafe today~(*Φ∀Φ)
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 45  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 Yes ladies and germs~ Today, NEKO has come to play at uncle JOE's shop (\*Φ∀Φ)<br>

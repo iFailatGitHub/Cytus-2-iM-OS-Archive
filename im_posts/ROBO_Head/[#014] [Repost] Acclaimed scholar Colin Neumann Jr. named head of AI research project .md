@@ -1,4 +1,9 @@
 # [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 15  |
+
 ## Post
 **ROBO_Head**<br>
 [Technology][News][ARC][A.I.]<br>

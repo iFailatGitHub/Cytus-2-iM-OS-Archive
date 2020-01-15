@@ -1,4 +1,9 @@
 # A commotion just occured
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 37  |
+
 ## Post
 **vikisser**<br>
 Seems like someone's coming from the side entrance?<br>

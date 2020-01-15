@@ -1,4 +1,15 @@
 # [Repost] After half year hiatus, comeback from Aesir?
+## Requirements
+| Character  |Level|
+|------------|:---:|
+|**NEKO#ΦωΦ**| 21  |
+
+## Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**Blow my mind**|NEKO#ΦωΦ |Easy |  3  |
+|**Blow my mind**|NEKO#ΦωΦ |Hard |  9  |
+
 ## Post
 **NEKO#ΦωΦ**<br>
 > ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....<br>

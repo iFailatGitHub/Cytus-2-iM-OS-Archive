@@ -1,4 +1,9 @@
 # Isn't this going a bit overboard?
+## Requirements
+|Character|Level|
+|---------|:---:|
+|**PAFF** | 37  |
+
 ## Post
 **moonin**<br>
 Feels like it has nothing to do with the original appeal now?<br>

@@ -1,4 +1,15 @@
 # [Record] Æsir-FEST remaining files
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**| 11  |
+
+## Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**Pure Powerstomper**|ROBO_Head|Easy |  4  |
+|**Pure Powerstomper**|ROBO_Head|Hard |  8  |
+
 ## Post
 **ROBO_Head**<br>
 Record: Æsir-FEST information extracted from memory block of 6 months ago. <br>

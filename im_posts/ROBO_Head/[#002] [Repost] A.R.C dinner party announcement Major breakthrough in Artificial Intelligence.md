@@ -1,5 +1,14 @@
-# [Repost] A.R.C dinner party announcement: 
-Major breakthrough in Artificial Intelligence
+# [Repost] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
+## Requirements
+|  Character  |Level|
+|-------------|:---:|
+|**ROBO_Head**|  1  |
+
+## Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**Deadly Slot Game**|ROBO_Head|Chaos| 12  |
+
 ## Post
 **ROBO_Head**<br>
 [Technology][News][ARC][A.I.]<br>
