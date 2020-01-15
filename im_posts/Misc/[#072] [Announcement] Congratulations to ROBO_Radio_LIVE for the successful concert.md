@@ -1,4 +1,4 @@
-# [Announcement] Congratulations to ROBO_Radio_LIVE for the successful concert
+# [Announcement] Congratulations to ROBO\_Radio\_LIVE for the successful concert
 ## Requirements
 |Character|Level|
 |---------|:---:|

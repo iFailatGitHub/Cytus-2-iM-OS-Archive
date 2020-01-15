@@ -1,4 +1,4 @@
-# Will NEKO actually participate in ROBO_Radio_Live ΦωΦ I dunno~~
+# Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno~~
 ## Requirements
 | Character  |Level|
 |------------|:---:|

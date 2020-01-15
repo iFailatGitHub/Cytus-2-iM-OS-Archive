@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ's chatting time
+# NEKO\#ΦωΦ's chatting time
 ## Requirements
 | Character  |Level|
 |------------|:---:|

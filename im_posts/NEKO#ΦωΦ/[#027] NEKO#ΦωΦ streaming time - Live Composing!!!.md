@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ streaming time - Live Composing!!!
+# NEKO\#ΦωΦ streaming time - Live Composing!!!
 ## Requirements
 | Character  |Level|
 |------------|:---:|

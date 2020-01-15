@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ streaming time -「Valkyrie ~Love Times~」
+# NEKO\#ΦωΦ streaming time -「Valkyrie ~Love Times~」
 ## Requirements
 | Character  |Level|
 |------------|:---:|

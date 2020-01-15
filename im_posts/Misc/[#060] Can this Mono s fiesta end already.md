@@ -1,4 +1,4 @@
-# Can this Mono s*** fiesta end already?
+# Can this Mono s\*\*\* fiesta end already?
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

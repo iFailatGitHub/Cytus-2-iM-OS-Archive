@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ streaming time -「SAW of EDEN(SOE)」
+# NEKO\#ΦωΦ streaming time -「SAW of EDEN(SOE)」
 ## Requirements
 | Character  |Level|
 |------------|:---:|

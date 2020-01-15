@@ -1,4 +1,4 @@
-# NEKO#(ΦωΦ) streaming time - 「Deemon 8.0 ~Peak Recital~」
+# NEKO\#(ΦωΦ) streaming time - 「Deemon 8.0 ~Peak Recital~」
 ## Unlocked Charts
 |      Song      |Character|Diff.|Level|
 |----------------|:-------:|:---:|:---:|

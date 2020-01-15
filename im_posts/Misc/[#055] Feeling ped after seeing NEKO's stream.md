@@ -1,4 +1,4 @@
-# Feeling p***ed after seeing NEKO's stream
+# Feeling p\*\*\*ed after seeing NEKO's stream
 ## Requirements
 | Character  |Level|
 |------------|:---:|

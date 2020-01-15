@@ -1,4 +1,4 @@
-# What the actual **** are they up to !!!
+# What the actual \*\*\*\* are they up to !!!
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

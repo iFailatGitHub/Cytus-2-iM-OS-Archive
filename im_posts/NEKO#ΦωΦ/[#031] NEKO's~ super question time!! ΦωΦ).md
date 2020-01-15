@@ -1,4 +1,4 @@
-# NEKO's~ super question time!! \ΦωΦ)/
+# NEKO's~ super question time!! \\ΦωΦ)/
 ## Requirements
 | Character  |Level|
 |------------|:---:|

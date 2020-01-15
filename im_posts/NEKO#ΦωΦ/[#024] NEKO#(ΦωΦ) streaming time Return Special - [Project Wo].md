@@ -1,4 +1,4 @@
-# NEKO#(ΦωΦ) streaming time: Return Special - [Project Wo]
+# NEKO\#(ΦωΦ) streaming time: Return Special - [Project Wo]
 ## Requirements
 | Character  |Level|
 |------------|:---:|

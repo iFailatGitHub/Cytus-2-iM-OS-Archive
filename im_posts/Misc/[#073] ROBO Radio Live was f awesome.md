@@ -1,4 +1,4 @@
-# ROBO Radio Live was f****** awesome
+# ROBO Radio Live was f\*\*\*\*\*\* awesome
 ## Requirements
 |Character|Level|
 |---------|:---:|

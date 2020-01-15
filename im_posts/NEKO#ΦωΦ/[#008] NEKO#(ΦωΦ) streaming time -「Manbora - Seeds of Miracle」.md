@@ -1,4 +1,4 @@
-# NEKO#(ΦωΦ) streaming time -「Manbora - Seeds of Miracle」
+# NEKO\#(ΦωΦ) streaming time -「Manbora - Seeds of Miracle」
 ## Requirements
 | Character  |Level|
 |------------|:---:|

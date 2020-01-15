@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ streaming time -「Stewrica」
+# NEKO\#ΦωΦ streaming time -「Stewrica」
 ## Requirements
 | Character  |Level|
 |------------|:---:|

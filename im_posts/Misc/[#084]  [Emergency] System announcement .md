@@ -1,4 +1,4 @@
-# *** [Emergency] System announcement ***
+# \*\*\* [Emergency] System announcement \*\*\*
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

@@ -1,4 +1,4 @@
-# [Announcement] ROBO_Radio standing by
+# [Announcement] ROBO\_Radio standing by
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

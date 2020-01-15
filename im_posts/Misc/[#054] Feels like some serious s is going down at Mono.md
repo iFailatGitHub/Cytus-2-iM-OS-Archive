@@ -1,4 +1,4 @@
-# Feels like some serious s*** is going down at Mono
+# Feels like some serious s\*\*\* is going down at Mono
 ## Requirements
 | Character  |Level|
 |------------|:---:|

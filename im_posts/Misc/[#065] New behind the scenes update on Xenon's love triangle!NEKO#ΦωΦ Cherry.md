@@ -1,4 +1,4 @@
-# New behind the scenes update on Xenon's love triangle!NEKO#ΦωΦ? Cherry?
+# New behind the scenes update on Xenon's love triangle!NEKO\#ΦωΦ? Cherry?
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

@@ -1,4 +1,4 @@
-# OK this is bulls***
+# OK this is bulls\*\*\*
 ## Requirements
 | Character  |Level|
 |------------|:---:|

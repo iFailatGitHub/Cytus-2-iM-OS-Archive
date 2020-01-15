@@ -1,4 +1,4 @@
-# F*** yeah!!!! Eat s*** stupid dumb admins!!!
+# F\*\*\* yeah!!!! Eat s\*\*\* stupid dumb admins!!!
 ## Requirements
 | Character  |Level|
 |------------|:---:|

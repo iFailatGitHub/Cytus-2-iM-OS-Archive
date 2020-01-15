@@ -1,4 +1,4 @@
-# Streaming at JOEZ Cafe today~(*Φ∀Φ)
+# Streaming at JOEZ Cafe today~(\*Φ∀Φ)
 ## Requirements
 | Character  |Level|
 |------------|:---:|

@@ -1,4 +1,4 @@
-# Time to show off ma new equipment A_A
+# Time to show off ma new equipment A\_A
 ## Requirements
 |Character|Level|
 |---------|:---:|

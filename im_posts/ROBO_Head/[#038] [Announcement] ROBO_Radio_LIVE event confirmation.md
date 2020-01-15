@@ -1,4 +1,4 @@
-# [Announcement] ROBO_Radio_LIVE event confirmation
+# [Announcement] ROBO\_Radio\_LIVE event confirmation
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|

@@ -1,4 +1,4 @@
-# Holy F*** is this news real!!!
+# Holy F\*\*\* is this news real!!!
 ## Requirements
 |Character|Level|
 |---------|:---:|

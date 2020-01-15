@@ -1,4 +1,4 @@
-# NEKO#ΦωΦ streaming time -「Explosion」
+# NEKO\#ΦωΦ streaming time -「Explosion」
 ## Requirements
 | Character  |Level|
 |------------|:---:|
