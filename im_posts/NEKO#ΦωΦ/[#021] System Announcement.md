@@ -1,4 +1,4 @@
-# ***System Announcement***
+# \*\*\*System Announcement\*\*\*
 ## Requirements
 | Character  |Level|
 |------------|:---:|
