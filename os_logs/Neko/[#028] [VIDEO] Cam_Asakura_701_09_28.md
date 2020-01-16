@@ -30,6 +30,7 @@ Eh\~ So cold! NEKO missed you for real! Ah, right; how was it? Did the interview
 WOW! Congratulations! I'm so happy for you! Linda\-chan will be working in the administration department, right? Then we'll get to see so many free performances!
 
 ![naos2801.png](./attachments/naos2801.png)
+
 **[Linda]**<br>
 *What else do you think I applied for a job there for? Haha. Shouldn't be too hard to get free performances. However, judging by how busy you are these days, do you even have time to come?*
 

@@ -61,6 +61,7 @@ Yes, it's your sister. I'm right here...
 ……！！
 
 ![aos3101.png](./attachments/aos3101.png)
+
 *\[Stabilizer warning\]*
 
 **Aroma**<br>

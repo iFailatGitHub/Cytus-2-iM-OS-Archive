@@ -161,6 +161,7 @@ The mass public tends to not think about the hidden meanings behind these kinds 
 We humans have the power of "knowledge". That's why it's our duty to make the world a better place. For the purpose of a long\-term goal, I chose a path that is not only extreme and dangerous but could also involve crimes. However, even though that's my choice, it does not mean the things we are doing here is simply obsolete.
 
 ![noos0301.png](./attachments/noos0301.png)
+
 **Noah**<br>
 ......
 

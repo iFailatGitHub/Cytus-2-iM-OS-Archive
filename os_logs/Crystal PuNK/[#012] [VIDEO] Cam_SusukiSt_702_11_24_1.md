@@ -70,6 +70,7 @@ Of course we're helping! What I meant to say is, you'll stay behind me while I c
 ... New helmet? Pretty cool\-looking...
 
 ![cpos1201.png](./attachments/cpos1201.png)
+
 **Xenon**<br>
 Not the time for such comments, don't you think? Let's move!
 

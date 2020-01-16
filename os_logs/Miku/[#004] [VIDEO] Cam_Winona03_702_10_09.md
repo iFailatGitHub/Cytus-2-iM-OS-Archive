@@ -46,6 +46,7 @@ Ah, it's the director and Mr. Abe. Why don't you guys join us?
 Tch...
 
 ![mos0401.png](./attachments/mos0401.png)
+
 **Staff B**<br>
 Such a high\-class restaurant, and there's even wine ... Never imagined that mere employees like us would get invited as well.
 

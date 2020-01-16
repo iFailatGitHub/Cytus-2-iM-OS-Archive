@@ -105,6 +105,7 @@ Memory formatting complete. Director! Everything is going smoothly so far!
 *These images... Are they the original memory of this girl?*
 
 ![pos3301.png](./attachments/pos3301.png)
+
 **Noah**<br>
 Yes. In this stage, we'll be formatting the memory of the vessel.
 

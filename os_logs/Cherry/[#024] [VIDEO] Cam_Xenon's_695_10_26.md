@@ -15,6 +15,7 @@ Sherry? Why are you here all of a sudden?<br>
 ......
 
 ![chos2401.png](./attachments/chos2401.png)
+
 **Xenon**<br>
 ... What happened? Are you crying?
 

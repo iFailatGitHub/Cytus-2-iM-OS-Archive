@@ -4,6 +4,7 @@
 Look over there. It's that dog.
 
 ![jos0201.png](./attachments/jos0201.png)
+
 **Saxon**<br>
 Still very much a puppy though, probably no more than a few months old.
 

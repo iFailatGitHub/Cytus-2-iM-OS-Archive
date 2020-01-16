@@ -24,6 +24,7 @@ She's taking a bath... Hmm? Looks like she's just got done with that.
 Ah, Noah... sorry. You can use the bathroom now.
 
 ![pos0201.png](./attachments/pos0201.png)
+
 **Noah**<br>
 *\*Chuckles\** You don't have to be so cautious. We are living together after all. Just treat me like family.
 

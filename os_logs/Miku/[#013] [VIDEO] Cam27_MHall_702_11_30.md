@@ -14,6 +14,7 @@ Are you prepared?
 Mr. Furuhata! If you get caught doing such a thing...
 
 ![mos1301.png](./attachments/mos1301.png)
+
 **Furuhata**<br>
 The company just refused to let you take the stage no matter what. This is the only method left.
 

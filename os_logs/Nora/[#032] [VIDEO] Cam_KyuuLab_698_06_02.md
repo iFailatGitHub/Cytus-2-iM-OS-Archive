@@ -98,6 +98,7 @@ Ugh......! Ichiro, start the boat!
 *...... Phoenix?*
 
 ![noos3201.png](./attachments/noos3201.png)
+
 *\[Gunshot\]*
 
 **Kim**<br>

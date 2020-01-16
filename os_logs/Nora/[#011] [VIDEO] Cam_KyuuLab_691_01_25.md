@@ -46,6 +46,7 @@ You two, come with me. We need to go get Kim. The necrosis on her legs must be t
 What is her situation?
 
 ![noos1101.png](./attachments/noos1101.png)
+
 **Member D**<br>
 Yes sir. The amputation surgery on her two legs was very successful. The necrotic cells from Kim's failed tests didn't expand to other body parts.<br>
 Her level of synchronization with the life support is also very positive. We estimated a complete recovery in 1 or 2 days.

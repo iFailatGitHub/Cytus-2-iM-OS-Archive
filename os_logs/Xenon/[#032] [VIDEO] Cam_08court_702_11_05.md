@@ -107,6 +107,7 @@ After conducting our own investigation, we found out that for the past few years
 *\[File projection\]*
 
 ![xos3201.png](./attachments/xos3201.png)
+
 **Bureau Investigator**<br>
 Shannon Jackson was diagnosed with a disease known as "Virtual\-Internet Related Post\-Traumatic Stress Disorder", better known as VR PTSD. We suspected that this is the reason behind the string of attacks against the systems and memories of virtual internet users. In fact, information has started to surface in the past few days which stated that during the time period where the cyTus system is down, all patients who have the same symptoms appear to have a different reaction compare to their usual panic state.
 

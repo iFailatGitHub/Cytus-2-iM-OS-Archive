@@ -97,6 +97,7 @@ She's right next to me. However, it seems like she's still a bit anxious...
 OK. Aroma, it's Chris.
 
 ![pos0902.png](./attachments/pos0902.png)
+
 **Helena**<br>
 AROMA！！！
 

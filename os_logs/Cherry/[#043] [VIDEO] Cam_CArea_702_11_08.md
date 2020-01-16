@@ -122,6 +122,7 @@ WAAA!?
 Thanks for the hard work, Miss Pauline.
 
 ![chos4301.png](./attachments/chos4301.png)
+
 **ConneR**<br>
 All clear. Let's go. The operation is over.
 

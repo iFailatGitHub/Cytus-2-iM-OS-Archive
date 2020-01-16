@@ -141,6 +141,7 @@ Maybe I just want to tell you, that death... does not erase a person's trace fro
 *......*
 
 ![noos2901.png](./attachments/noos2901.png)
+
 **[Nora]**<br>
 *As I expected, you can understand what I meant, ROBO... I'm so glad that I have you by my side.*
 

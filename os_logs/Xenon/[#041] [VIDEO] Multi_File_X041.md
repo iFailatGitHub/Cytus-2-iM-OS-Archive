@@ -139,6 +139,7 @@ Kyle, to be honest, I brought you here because there's something I want to tell 
 Here is some information I got through some of my connections. Take a look first.
 
 ![xos4101.png](./attachments/xos4101.png)
+
 **Kyle**<br>
 Paper documents...?<br>
 ......! These are... Hey, did you file an application for all this?

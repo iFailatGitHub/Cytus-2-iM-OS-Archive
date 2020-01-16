@@ -47,6 +47,7 @@ They sheltered a criminal, so they're guilty as well! How dare you think you can
 *\[Parts moving\]*
 
 ![ros2601.png](./attachments/ros2601.png)
+
 **[ROBO_Head]**<br>
 *......?*
 

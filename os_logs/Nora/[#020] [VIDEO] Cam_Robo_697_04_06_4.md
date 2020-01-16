@@ -64,6 +64,7 @@ They pay large sums of money to Mogura, and Mogura will grant them a meeting wit
 *......*
 
 ![noos2001.png](./attachments/noos2001.png)
+
 **[ROBO_Head]**<br>
 *This unit, decision, Nora experienced change in emotion. Mostly possible option, sadness, possibility 93.725%<br>
 Suggest Nora, take notice.*

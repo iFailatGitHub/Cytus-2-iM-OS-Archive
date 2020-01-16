@@ -77,6 +77,7 @@ Stop right there! Hands in the air or I'll shoot!
 Okay okay okay, hands in the air, got it. See\~
 
 ![jos3601.png](./attachments/jos3601.png)
+
 **Agent B**<br>
 No weapons, safe... Huh, no civilian ID card with you? That's quite suspicious.
 

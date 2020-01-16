@@ -19,6 +19,7 @@ Yo, Simon.
 ... What's wrong with her? Is she drunk?
 
 ![chos2501.png](./attachments/chos2501.png)
+
 **JOE**<br>
 Her? Do you really think she can get drunk? She just fell asleep; apparently, band practice was tough today.<br>
 Should we wake her up?

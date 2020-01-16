@@ -77,6 +77,7 @@ Searching for major organizations in Node 03...*
 *……？*
 
 ![ros1501.png](./attachments/ros1501.png)
+
 **[TV]**<br>
 *... Register for Project P now and receive the most complete medical care!*
 

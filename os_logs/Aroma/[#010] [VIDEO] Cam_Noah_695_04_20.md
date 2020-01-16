@@ -48,6 +48,7 @@ Into shadow that can make us feel love <br>
 Eat the sorrow drink a cup of fear\*
 
 ![aos1001.png](./attachments/aos1001.png)
+
 **Helena**<br>
 It's been a while since I last heard you sing...
 

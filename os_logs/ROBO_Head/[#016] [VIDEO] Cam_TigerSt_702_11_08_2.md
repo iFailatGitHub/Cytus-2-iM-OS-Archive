@@ -35,6 +35,7 @@ No s\*\*\*! You can tell that by just looking!<br>
 Surround them! Surround them!
 
 ![ros1601.png](./attachments/ros1601.png)
+
 **[ROBO_Head]**<br>
 *Sir, please move to the front of this unit in order for this unit to continue the diagnosis.*
 

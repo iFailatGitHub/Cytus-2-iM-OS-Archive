@@ -112,6 +112,7 @@ Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we ca
 *Muhaha, unfortunately for you, I'm a projection now! Your drumsticks are not very effective against me! Check out my Shadow C\*\*\*\* Technique! Muhahaha!*
 
 ![cpos0501.png](./attachments/cpos0501.png)
+
 **Cherry**<br>
 Ahaha! What the hell?
 

@@ -13,6 +13,8 @@
 |**hunted**| Cherry  |Chaos| 12  |
 
 ## Log Content
-![chos3201.png](./attachments/chos3201.png)
+[![chos3201.png](./attachments/chos3201.png)](https://youtu.be/83x4Bh9ELmc)<br>
+*[Click the image to watch the movie]*
+
 Date: 702/09/18<br>
 Location: Node 08 \- Quadrant I, Factory 03

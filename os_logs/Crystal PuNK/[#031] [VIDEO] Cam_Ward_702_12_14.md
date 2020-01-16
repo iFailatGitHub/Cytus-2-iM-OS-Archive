@@ -29,6 +29,7 @@ Miss Pauline's injuries are not serious. We've finished treating all of them. Ho
 Sis Cherry! Waaaaahhhhh!
 
 ![cpos3101.png](./attachments/cpos3101.png)
+
 **[Nora]**<br>
 *Please remain silent.*
 

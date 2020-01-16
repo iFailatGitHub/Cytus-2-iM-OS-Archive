@@ -31,6 +31,7 @@ The news is already reporting this...
 This is a photo of the suspect (male) taken by one of our reporters.*
 
 ![aos2101.png](./attachments/aos2101.png)
+
 **Helena**<br>
 ... The hell? This isn't the photo of that man at all! Moreover, that guy came running out of the media area, not the fan area.
 

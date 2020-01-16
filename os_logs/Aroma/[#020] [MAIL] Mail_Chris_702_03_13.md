@@ -9,6 +9,7 @@
 **From**: Chris Pinkman<br>
 **To**: Aroma White & Helena White
 ___
+
 7th PAFFCON promo event \- Public autograph session (1)
 
 Time: 702/03/27 19:00 \~ 20:30<br>

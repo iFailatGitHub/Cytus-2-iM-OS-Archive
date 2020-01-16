@@ -14,6 +14,7 @@
 **From**:  Chris Pinkman<br>
 **To**:  Sherry Pauline
 ___
+
 Quadrant III, Tower 054 new floor "108" opening celebration event
 
 Time: 702/09/15, 13:00 \~ 16:30

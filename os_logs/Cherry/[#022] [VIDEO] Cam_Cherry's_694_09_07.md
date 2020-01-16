@@ -88,6 +88,7 @@ You always notice all the little details. You were the one who organized this bi
 I didn't really organize it... I just told them that your birthday may be right around the corner. They were the ones who came up with the plan and other crap. I was sort of forced into... HMM!?
 
 ![chos2201.png](./attachments/chos2201.png)
+
 **Cherry**<br>
 ... If you treat me so kindly, you can't blame me for falling for you, can you?
 

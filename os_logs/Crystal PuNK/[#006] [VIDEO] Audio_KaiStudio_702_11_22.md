@@ -38,6 +38,7 @@ It's so good\~ Mommy! Sing some more\~
 Sure\~
 
 ![cpos0601.png](./attachments/cpos0601.png)
+
 **Cherry**<br>
 Mommy, why are you so good at singing?
 

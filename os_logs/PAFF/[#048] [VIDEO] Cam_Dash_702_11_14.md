@@ -24,6 +24,7 @@ NEKO said the bar is located in Quadrant II...
 You... do know the directions, right?
 
 ![pos4503.png](./attachments/pos4503.png)
+
 **???**<br>
 ......
 

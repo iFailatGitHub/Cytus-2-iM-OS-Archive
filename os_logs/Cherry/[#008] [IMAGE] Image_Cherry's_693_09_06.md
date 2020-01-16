@@ -11,6 +11,6 @@
 
 ## Log Content
 ![chos0801.png](./attachments/chos0801.png)
+
 Date: 693/09/06<br>
 Location: Node 08 \- Quadrant III, Apartment 33<br>
-

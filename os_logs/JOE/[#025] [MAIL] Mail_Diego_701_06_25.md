@@ -14,6 +14,7 @@
 **From**: D<br>
 **To**: H.H.
 ___
+
 Cafe's stance has shaken. Talk with him during the puppet deal. Make him behave.
 
 D.

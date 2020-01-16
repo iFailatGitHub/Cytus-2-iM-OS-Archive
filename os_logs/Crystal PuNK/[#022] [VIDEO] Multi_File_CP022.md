@@ -86,6 +86,7 @@ Sherry? Why are you here all of a sudden?<br>
 ......
 
 ![chos2401.png](./attachments/chos2401.png)
+
 *[→Audio\_StudioB\_696\_05\_10]*
 
 **KAI**<br>

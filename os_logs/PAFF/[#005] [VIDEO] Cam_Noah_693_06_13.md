@@ -32,6 +32,7 @@ Ah, Aroma, you're done with the bath? Then I guess it's my turn.
 Not listening at all...
 
 ![pos0501.png](./attachments/pos0501.png)
+
 **PAFF**<br>
 Ah, you guys are back? The bathroom is available now.<br>
 Noah, you left work early today again?

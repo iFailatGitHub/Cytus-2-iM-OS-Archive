@@ -6,6 +6,7 @@
 
 ## Log Content
 ![xos2002.png](./attachments/xos2002.png)
+
 **JOE**<br>
 ... Then! That guy said my hair looks like a sea cucumber! Damnit... ugh...
 

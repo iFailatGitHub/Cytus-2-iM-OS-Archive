@@ -9,8 +9,7 @@ Here he is! The future superstar!<br>
 
 **Cherry**<br>
 The guitarist you mentioned before?<br>
-*[Sent at PM 09:20
-]*
+*[Sent at PM 09:20]*
 
 **S.J.**<br>
 Hello everyone. I'm Simon.<br>
@@ -50,8 +49,7 @@ I've also heard your DEMO. I'm quite interested. The lead singer's voice is very
 
 **JOE**<br>
 XD She wrote most of it. I wrote a little bit\~<br>
-*[Sent at PM 09:22
-]*
+*[Sent at PM 09:22]*
 
 **Cherry**<br>
 Thank you. I did indeed write most of it<br>

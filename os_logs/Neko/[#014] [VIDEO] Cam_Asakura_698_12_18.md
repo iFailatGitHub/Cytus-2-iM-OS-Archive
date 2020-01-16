@@ -122,6 +122,7 @@ HA!? Ewwwww! If you just want the money, then stop trying to act like a mother!.
 *\[Vase Shatters\]*
 
 ![naos1401.png](./attachments/naos1401.png)
+
 **Neko**<br>
 Ouch......!
 

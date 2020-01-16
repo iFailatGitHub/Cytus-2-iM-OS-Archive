@@ -23,6 +23,7 @@ Greetings, Kyuu Hou Kai's "The Eye of Horus". Turns out you're such a cute littl
 ......
 
 ![noos2101.png](./attachments/noos2101.png)
+
 **Phoenix**<br>
 You only have ten minutes. You better not waste any time.
 

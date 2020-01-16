@@ -8,7 +8,9 @@
 |**Cherry**   | 24  |
 
 ## Log Content
-![chos3101.png](./attachments/chos3101.png)
+[![chos3101.png](./attachments/chos3101.png)](https://youtu.be/JG7hd0-f42E)<br>
+*[Click the image to watch the movie]*
+
 **Xenon**<br>
 The steps are slippery. Grab hold of me.
 

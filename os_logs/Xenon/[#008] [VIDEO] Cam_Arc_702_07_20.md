@@ -11,6 +11,7 @@
 
 ## Log Content
 ![xos0801.png](./attachments/xos0801.png)
+
 **ConneR**<br>
 Greetings. I believe this is our first meeting. I'm Colin Neumann Jr.
 

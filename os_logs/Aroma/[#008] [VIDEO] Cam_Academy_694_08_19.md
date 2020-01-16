@@ -80,6 +80,7 @@ Woah... she fell down! Hey! Are you faking it so we get points deducted by the s
 Hmmmm... OUCH!?
 
 ![aos0801.png](./attachments/aos0801.png)
+
 **Aroma**<br>
 ... Help her up.
 

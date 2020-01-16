@@ -13,10 +13,12 @@
 
 ## Log Content
 ![mos1402.png](./attachments/mos1402.png)
+
 **Miku**<br>
 I... What am I singing for?
 
 ![mos1403.png](./attachments/mos1403.png)
+
 **Miku**<br>
 Ah, I see. I'm singing for everyone.
 
@@ -35,9 +37,11 @@ When I sing on the stage for everyone, I can see everyone's happiness. That's wh
 I'm truly... truly grateful for everyone...
 
 ![mos1404.png](./attachments/mos1404.png)
+
 *[→Signal Switches]*
 
 ![mos1405.png](./attachments/mos1405.png)
+
 **Saito**<br>
 Hey, what is going on? This part is not in the schedule, isn't it?
 
@@ -67,6 +71,7 @@ Hmph, so you can sing pretty well after all.
 *[→Signal Switches]*
 
 ![mos1406.png](./attachments/mos1406.png)
+
 **Miku**<br>
 It's over... At the very end, I am still singing for everyone. That's all I asked for.
 

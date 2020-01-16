@@ -29,6 +29,7 @@ Arf! Arf arf!
 The back door? What's wrong? Are the stray dogs digging around the trash again? Did you really think that every stray dog is the same as you?
 
 ![ivos1601.png](./attachments/ivos1601.png)
+
 **JOE**<br>
 Woah!? Why is there a person lying here?...... A woman? Is she drunk?
 

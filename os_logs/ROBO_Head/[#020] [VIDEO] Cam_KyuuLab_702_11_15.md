@@ -27,6 +27,7 @@ Do not make a sound. Hey you, you kneel down too.
 ......
 
 ![ros2002.png](./attachments/ros2002.png)
+
 **[ROBO_Head]**<br>
 *......?*
 
@@ -42,6 +43,7 @@ Chief, we caught the rats.
 *......!?*
 
 ![ros2003.png](./attachments/ros2003.png)
+
 **[ROBO_Head]**<br>
 *No... ra...?*
 

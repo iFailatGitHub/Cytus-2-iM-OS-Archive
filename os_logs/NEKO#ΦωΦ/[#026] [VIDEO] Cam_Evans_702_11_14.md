@@ -6,6 +6,7 @@
 
 ## Log Content
 ![nos2602.png](./attachments/nos2602.png)
+
 **NEKO#ΦωΦ**<br>
 Is this the place?
 
@@ -30,6 +31,7 @@ Okay.
 Sis Vicky, wait for me! Why are we leaving in a hurry all of a sudden?
 
 ![nos2603.png](./attachments/nos2603.png)
+
 **Vicky**<br>
 Judging by his attitude, he probably won't tell us anything more... On top of that, if we stayed there, your big mouth is likely gonna leak all the precious information.
 
@@ -54,6 +56,7 @@ Yikes! Isn't that...!?
 ...... Ha......
 
 ![nos2604.png](./attachments/nos2604.png)
+
 **NEKO#ΦωΦ**<br>
 Aroma\-chan! RUN!
 
@@ -72,6 +75,7 @@ Why are you just standing there!? Go after them, you blockhead!
 *[→Signal Switch]*
 
 ![nos2605.png](./attachments/nos2605.png)
+
 **NEKO#ΦωΦ**<br>
 Ha... ha! Excuse me!
 
@@ -91,6 +95,7 @@ It really is them!
 Quick, take a picture!
 
 ![nos2606.png](./attachments/nos2606.png)
+
 **NEKO#ΦωΦ**<br>
 Oh god, oh no! This is bad! This is really, really bad!
 

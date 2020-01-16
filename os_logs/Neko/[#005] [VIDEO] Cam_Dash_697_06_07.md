@@ -100,6 +100,7 @@ On top of that, his "let me do everything" personality is also super\~ troubling
 Ok, ok, I get it! Geez, you don't have to tell her everything...
 
 ![naos0501.png](./attachments/naos0501.png)
+
 **Yukiko**<br>
 Pffft... You weren't kidding. Your daughter really does know you very well.
 

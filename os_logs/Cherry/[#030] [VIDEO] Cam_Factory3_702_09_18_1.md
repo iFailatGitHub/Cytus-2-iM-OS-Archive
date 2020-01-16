@@ -86,6 +86,7 @@ Civilians...... prohibited...
 ......
 
 ![chos3001.png](./attachments/chos3001.png)
+
 **Xenon**<br>
 ... Did you destroy it?
 

@@ -62,6 +62,7 @@ Shut it! The amount you guys owed is way too much. Don't you dare inform the adm
 Uargh!!
 
 ![naos2301.png](./attachments/naos2301.png)
+
 **Neko**<br>
 Let go of him! You ugly bastard!
 

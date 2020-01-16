@@ -125,6 +125,7 @@ Haha...<br>
 You... Don't blame yourself. We're all living in guilt for our crimes, right?
 
 ![chos4101.png](./attachments/chos4101.png)
+
 **JOE**<br>
 ......!<br>
 ...... Yeah.

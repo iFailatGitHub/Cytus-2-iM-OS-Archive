@@ -45,6 +45,7 @@ No problem... Let's begin.<br>
 Well then, here's our first song!
 
 ![pos5001.png](./attachments/pos5001.png)
+
 *[»»» Fast Forward»»»]*
 
 *\[Audience applauds\]*
@@ -72,6 +73,7 @@ Hoho\~ Look at him, he's embarassed\~ His entire face is bright red.
 *\[Audience laughter\]*
 
 ![pos5002.png](./attachments/pos5002.png)
+
 **Kaori**<br>
 Well then, we've sung our songs and received our applause...<br>
 That's it for our performance today. Thanks, everybody!

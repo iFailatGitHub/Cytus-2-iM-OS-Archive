@@ -17,6 +17,7 @@ Alright, set up the music stand here...
 No need for that! Yours truly here have memorized the entire thing already!
 
 ![jos0101.png](./attachments/jos0101.png)
+
 **Saxon**<br>
 You're way too young to be calling yourself "yours truly"... alright then, let's begin.
 

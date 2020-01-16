@@ -43,6 +43,7 @@ It's fine. Both of you didn't suffer severe injuries. Your sister is in the ICU.
 *[Signal Switches]*
 
 ![aos0101.png](./attachments/aos0101.png)
+
 **Helena**<br>
 ...... No... this can't be... *\*Bawls\**!!!!
 

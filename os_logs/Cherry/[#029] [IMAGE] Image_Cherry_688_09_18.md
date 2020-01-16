@@ -11,6 +11,6 @@
 
 ## Log Content
 ![chos2901.png](./attachments/chos2901.png)
+
 Date: 688/09/18<br>
 Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)<br>
-

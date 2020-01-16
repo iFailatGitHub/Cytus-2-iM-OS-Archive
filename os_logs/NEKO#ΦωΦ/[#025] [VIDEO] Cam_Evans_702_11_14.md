@@ -92,6 +92,7 @@ Eh? Sis Vicky...?
 ... If there's any update on Aroma, please let us know.
 
 ![nos2501.png](./attachments/nos2501.png)
+
 **Hayato**<br>
 .. Certainly!
 

@@ -25,6 +25,7 @@ I'm sorry... now, die.
 *Player1 Cherry WIN!*
 
 ![chos1901.png](./attachments/chos1901.png)
+
 **Cherry**<br>
 Yeah! Muhahaha! You owe me a drink, loser!
 

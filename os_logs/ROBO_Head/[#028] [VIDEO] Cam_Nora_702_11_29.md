@@ -6,6 +6,7 @@
 
 ## Log Content
 ![ros2802.png](./attachments/ros2802.png)
+
 *\[ROBO_Head Start-Up\]*
 
 **[ROBO_Head]**<br>
@@ -48,6 +49,7 @@ What's the big deal? It's not like the door is locked. Just a quick tiny peak...
 *\[Door Opens\]*
 
 ![ros2803.png](./attachments/ros2803.png)
+
 **NEKO#ΦωΦ**<br>
 Eh... EHHHHHHH!?<br>
 R, R, R\-Ropohead!?

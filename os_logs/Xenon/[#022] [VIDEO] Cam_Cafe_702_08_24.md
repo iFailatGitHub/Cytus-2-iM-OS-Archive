@@ -11,6 +11,7 @@
 
 ## Log Content
 ![xos2302.png](./attachments/xos2302.png)
+
 *"Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation."*
 
 **Xenon**<br>

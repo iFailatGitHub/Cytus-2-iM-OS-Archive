@@ -70,7 +70,9 @@ Ugh... Head... hurts... a lot...
 **NEKO#ΦωΦ**<br>
 Ughh...... AHHHHHHHH!!
 
-![naos3001.png](./attachments/naos3001.png)
+[![naos3001.png](./attachments/naos3001.png)](https://youtu.be/QgtLOM2iX2U)<br>
+*[Click the image to watch the movie]*
+
 *\[Things crashing\]*
 
 **Kenta**<br>

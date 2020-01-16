@@ -14,6 +14,7 @@ Oh! Simon! You're here.
 The usual stuff.
 
 ![xos0205.png](./attachments/xos0205.png)
+
 **JOE**<br>
 Got it, one bottle of milk. But seriously, when are you going to start drinking some booze? You're already 26.
 

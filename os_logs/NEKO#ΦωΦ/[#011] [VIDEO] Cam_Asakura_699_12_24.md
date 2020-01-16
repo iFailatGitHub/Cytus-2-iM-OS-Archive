@@ -79,6 +79,7 @@ Be careful, NEKO. Don't hurt yourself...
 Sis Yukiko, you should join too! Linda\-chan, turn up the volume! Christmas is a time of celebration after all! Ahahahaha!
 
 ![nos1101.png](./attachments/nos1101.png)
+
 **Linda**<br>
 Haha...... Idiot, you're on the verge of bursting into tears, yet you're still trying to act strong.
 

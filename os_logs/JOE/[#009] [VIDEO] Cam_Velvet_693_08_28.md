@@ -6,6 +6,7 @@
 
 ## Log Content
 ![jos0901.png](./attachments/jos0901.png)
+
 *\[Crowd screams and applauds\]*
 
 **Cherry**<br>

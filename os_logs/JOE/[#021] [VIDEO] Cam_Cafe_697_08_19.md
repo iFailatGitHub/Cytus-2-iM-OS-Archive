@@ -124,6 +124,7 @@ Don't pull a long face. I'm asking you a question.
 I want one\-fourth of the transaction amount...!
 
 ![jos2101.png](./attachments/jos2101.png)
+
 **Diego**<br>
 Hoho... hahaha! Boy! I knew you wouldn't disappoint me!<br>
 Alright! One\-fourth it is!

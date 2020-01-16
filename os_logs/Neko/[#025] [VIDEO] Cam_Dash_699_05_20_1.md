@@ -138,6 +138,7 @@ I was already retired from this stuff... but you people crossed the line by mess
 You worthless sacks of s\*\*\*!!*
 
 ![naos2501.png](./attachments/naos2501.png)
+
 **[Man C]**<br>
 *U... Understood! We are very sorry!!*
 

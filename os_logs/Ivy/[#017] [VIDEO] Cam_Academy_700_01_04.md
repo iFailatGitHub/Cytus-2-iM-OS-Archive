@@ -83,6 +83,7 @@ No, humans never cared about history in the first place. Or else, they wouldn't 
 *Learner, history is absolute! It is not altered! You won't be able to pursue the real answers with an attitude like this!*
 
 ![ivos1701.png](./attachments/ivos1701.png)
+
 **Ivy**<br>
 Alright, forget it. I won't ask about history anymore. Can you tell me what is "cyTus"?
 

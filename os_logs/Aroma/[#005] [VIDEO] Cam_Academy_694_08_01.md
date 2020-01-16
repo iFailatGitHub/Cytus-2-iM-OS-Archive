@@ -57,6 +57,7 @@ Hey! Stopping spewing nonsense. Aroma, don't listen to him. I'm your real boyfri
 Shut your pie holes! Seriously, why are you guys so immature!
 
 ![aos0501.png](./attachments/aos0501.png)
+
 **Iris**<br>
 Waah! You don't have to drag me here...
 

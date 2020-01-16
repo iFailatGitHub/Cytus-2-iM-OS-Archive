@@ -11,6 +11,7 @@
 
 ## Log Content
 ![xos1101.png](./attachments/xos1101.png)
+
 **ConneR**<br>
 Good afternoon sir. May I sit here?
 

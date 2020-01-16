@@ -25,6 +25,7 @@ Yikes!? Who's calling me!?
 *... I'm Nora. Looks like it's a success. I'm behind the shelf.*
 
 ![noos1401.png](./attachments/noos1401.png)
+
 **Member I**<br>
 Nora!? This machine... did you make this?
 

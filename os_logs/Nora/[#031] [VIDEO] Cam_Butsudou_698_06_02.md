@@ -39,6 +39,7 @@ Boss!
 *\[Gunshot\]*
 
 ![noos3101.png](./attachments/noos3101.png)
+
 **Mogura Bodyguard**<br>
 Arghhhh!
 

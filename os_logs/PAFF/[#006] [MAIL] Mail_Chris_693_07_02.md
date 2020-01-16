@@ -9,6 +9,7 @@
 **From**: Chris Pinkman<br>
 **To**: Aroma White & Helena White
 ___
+
 MonoCon "NOVA" in\-studio performance event
 
 Time: 693/08/15 17:00 \~ 21:30<br>

@@ -12,6 +12,7 @@ Not bad. Boy, you've been improving fast recently.
 I know that!
 
 ![jos0701.png](./attachments/jos0701.png)
+
 **Saxon**<br>
 Keep your pride in check. Overall, your play is still too rash. You can't just ignore the tempo and play random notes... <br>
 If you are playing in a band, the drummer is definitely going to throw drumsticks at you.

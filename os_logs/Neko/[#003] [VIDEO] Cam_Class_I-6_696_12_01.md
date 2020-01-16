@@ -38,6 +38,7 @@ Aww, come on. Don't act like that\~ NEKO's gonna ask her!
 Lin\~da\~chan! I\~ found\~ you!
 
 ![naos0301.png](./attachments/naos0301.png)
+
 **Linda**<br>
 Yikes!? Wha... what do you want?
 

@@ -50,6 +50,7 @@ This unit number of performances in virtual internet: 89.
 Wow, so ROBO is here too
 
 ![aos1801.png](./attachments/aos1801.png)
+
 **Lumy**<br>
 BTW, the rehearsal has already begun. Why is Æsir still MIA?
 

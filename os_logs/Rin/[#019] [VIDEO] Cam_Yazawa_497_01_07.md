@@ -51,6 +51,7 @@ Katsuya!? You're still alive!? Where are you!?
 *[»»»Fast Forward»»»]*
 
 ![rios1901.png](./attachments/rios1901.png)
+
 **Rin**<br>
 Katsuya... Daddy, Mommy... I'm coming for you...
 

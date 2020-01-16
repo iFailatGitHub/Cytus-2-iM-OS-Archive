@@ -28,6 +28,7 @@ I'm the one in charge of internet security. As a non\-regular employee, your per
 Hmmm? Then what can you do? Arrest me?
 
 ![xos2407.png](./attachments/xos2407.png)
+
 **Xenon**<br>
 I have the right to report any suspicious activities to the higher\-ups.
 

@@ -79,6 +79,7 @@ Idiot! This thing went out of production a long time ago! Besides, with NEKO's p
 *\[Items scattered\]*
 
 ![pos1901.png](./attachments/pos1901.png)
+
 **Susan**<br>
 Yikes! That stinks! What are these, sis Vicky!?
 
