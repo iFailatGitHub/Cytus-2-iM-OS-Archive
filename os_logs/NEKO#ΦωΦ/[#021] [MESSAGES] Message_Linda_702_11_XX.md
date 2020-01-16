@@ -26,7 +26,7 @@ Why you looking for NEKO all of a sudden<br>
 *[Sent at PM 03:44]*
 
 **NEKO#ΦωΦ**<br>
-![07_CatXD.png](./attachments/07_CatXD.png)
+![07_CatXD.png](./attachments/07_CatXD.png)<br>
 *[Sent at PM 03:44]*
 
 **Linda**<br>
@@ -42,7 +42,7 @@ Wanna eat Ramen with NEKO??<br>
 *[Sent at PM 03:45]*
 
 **NEKO#ΦωΦ**<br>
-![07_CatXD.png](./attachments/07_CatXD.png)
+![07_CatXD.png](./attachments/07_CatXD.png)<br>
 *[Sent at PM 03:45]*
 
 **NEKO#ΦωΦ**<br>
@@ -66,7 +66,7 @@ All in all, I took a picture first. Do you know this woman?<br>
 *[Sent at PM 03:49]*
 
 **NEKO#ΦωΦ**<br>
-![08_CatQQ.png](./attachments/08_CatQQ.png)
+![08_CatQQ.png](./attachments/08_CatQQ.png)<br>
 *[Sent at PM 03:50]*
 
 **NEKO#ΦωΦ**<br>
@@ -118,5 +118,5 @@ That's it for now... I'm still more used to speaking on the phone. All this noti
 *[Sent at PM 03:54]*
 
 **NEKO#ΦωΦ**<br>
-![08_CatQQ.png](./attachments/08_CatQQ.png)
+![08_CatQQ.png](./attachments/08_CatQQ.png)<br>
 *[Sent at PM 03:54]*

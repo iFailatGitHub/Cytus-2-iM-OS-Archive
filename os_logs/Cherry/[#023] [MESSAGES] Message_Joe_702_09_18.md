@@ -66,7 +66,7 @@ Nope. He never allowed me to even mention his sister. Every time I bring it up, 
 *[Sent at AM 10:07]*
 
 **JOE**<br>
-![05_QQ.png](./attachments/05_QQ.png)
+![05_QQ.png](./attachments/05_QQ.png)<br>
 *[Sent at AM 10:07]*
 
 **Cherry**<br>
@@ -83,7 +83,7 @@ Alcohol Master~<br>
 *[Sent at AM 10:08]*
 
 **Cherry**<br>
-![04_XD.png](./attachments/04_XD.png)
+![04_XD.png](./attachments/04_XD.png)<br>
 *[Sent at AM 10:08]*
 
 **JOE**<br>

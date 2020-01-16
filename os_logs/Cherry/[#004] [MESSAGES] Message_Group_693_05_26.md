@@ -9,8 +9,7 @@ Here he is! The future superstar!<br>
 
 **Cherry**<br>
 The guitarist you mentioned before?<br>
-*[Sent at PM 09:20
-]*
+*[Sent at PM 09:20]*
 
 **S.J.**<br>
 Hello everyone. I'm Simon.<br>
@@ -33,7 +32,7 @@ No kidding! I almost want to worship you! Please go out with me! XD<br>
 *[Sent at PM 09:21]*
 
 **JOE**<br>
-![04_XD.png](./attachments/04_XD.png)
+![04_XD.png](./attachments/04_XD.png)<br>
 *[Sent at PM 09:21]*
 
 **Cherry**<br>
@@ -111,7 +110,7 @@ Me neither~ Won't there be a bunch of problems with feedback and stuff?<br>
 *[Sent at PM 09:27]*
 
 **JOE**<br>
-![03_N.png](./attachments/03_N.png)
+![03_N.png](./attachments/03_N.png)<br>
 *[Sent at PM 09:27]*
 
 **S.J.**<br>
