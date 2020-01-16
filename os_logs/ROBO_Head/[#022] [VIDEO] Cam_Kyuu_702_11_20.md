@@ -14,7 +14,6 @@ Chief, the car is ready.
 *... Why is he still there?*
 
 ![ros2201.png](./attachments/ros2201.png)
-
 **[ROBO_Head]**<br>
 *......*
 

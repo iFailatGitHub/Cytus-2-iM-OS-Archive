@@ -13,25 +13,25 @@
 
 ## Log Content
 **Neko**<br>
-Li~n~da~ Chan!
+Li\~n\~da\~ Chan!
 
 **Linda**<br>
 Why did you arrive so late?
 
 **Neko**<br>
-Well~ I ran into some small issues at my part\-time job... You changed your hair color! It's so stylish!
+Well\~ I ran into some small issues at my part\-time job... You changed your hair color! It's so stylish!
 
 **Linda**<br>
 Yeah, I got tired of the previous color. NEKO, do you want to try it yourself? My hair designer is really, really good.
 
 **Neko**<br>
-Sure~ Once NEKO get my salary, I can go get my hair dyed!
+Sure\~ Once NEKO get my salary, I can go get my hair dyed!
 
 **Linda**<br>
 Ah, the food is here. Since you're late, I ordered for you.
 
 **Neko**<br>
-Woah~ All stuff NEKO likes! I expect no less from Linda\-chan!
+Woah\~ All stuff NEKO likes! I expect no less from Linda\-chan!
 
 **Linda**<br>
 Haha, let's finish this quickly, or else we're gonna miss the performance.
@@ -42,7 +42,7 @@ Haha, let's finish this quickly, or else we're gonna miss the performance.
 All the bands in the lineup today are ones we've never seen before. I'm so hyped!
 
 **Neko**<br>
-Yeah~ NEKO is super excited!
+Yeah\~ NEKO is super excited!
 
 **Linda**<br>
 Especially this opening band Xenon; heard that this is the fastest rising new band right now!
@@ -67,7 +67,6 @@ Uwaa! WAAAAA! &^\*%(%(%(\#)!!!!
 WOW...!
 
 ![naos1001.png](./attachments/naos1001.png)
-
 *[»»» Fast Forward 2 Hours»»»]*
 
 **Neko**<br>
@@ -77,7 +76,7 @@ Waaaaaa! I'm so glad that I decided to come to this performance! NEKO is so sati
 Yeah, even though all the performers are new bands, everyone is great. Especially...
 
 **Neko**<br>
-The opening band! Xenon! That scream! That guitar! OH MY GODDD~ NEKO literally can't control myself right now!
+The opening band! Xenon! That scream! That guitar! OH MY GODDD\~ NEKO literally can't control myself right now!
 
 **Linda**<br>
 Stop jumping around. It's so embarrassing... However, he really was impressive. It's very rare for a band to be this good this early into their establishment. Every instrument was given its moment to shine and not a single one was ignored. The balance is phenomenal.

@@ -6,7 +6,7 @@
 
 ## Post
 **Dreamer**<br>
-Hurry up~ quick!!!<br>
+Hurry up\~ quick!!!<br>
 Seems like there are people gathering at the front door of Mono already. Time to launch a true protest to show them how p\*\*\*ed off we are!
 ## Replies
 **Andy_Roid**<br>

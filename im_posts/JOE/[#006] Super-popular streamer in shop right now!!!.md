@@ -1,4 +1,4 @@
-# Super-popular streamer in shop right now!!!
+# Super\-popular streamer in shop right now!!!
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -7,10 +7,10 @@
 ## Post
 **JOEZ Cafe**<br>
 Haha thank you to **@NEKO\#ΦωΦ** for visiting the shop!!<br>
-You are so much easier to chat to than that helmet-wearing nerd!!<br>
+You are so much easier to chat to than that helmet\-wearing nerd!!<br>
 Come visit me again soon!!!!!
 
-**\#TheBilliardsScoreWasHandiworkOfEx-Owner**<br>
+**\#TheBilliardsScoreWasHandiworkOfEx\-Owner**<br>
 **\#NEKOFansDon'tMissTheYAMAMETOWhenYouVisit**<br>
 **\#GlassContainsOnlyMilkAndThreeCubsOfSugar**
 
@@ -23,7 +23,7 @@ The truth is all hidden in the Tags XDDDD
 With a quick ad thrown in as well, impressive
 
 **RyanRii**<br>
-Wait, so you still have that YAMA-something drink sitting inside the storage room???
+Wait, so you still have that YAMA\-something drink sitting inside the storage room???
 
 **JOEZ Cafe**<br>
 Let's just say my basement is still filled with tomato smells.................................

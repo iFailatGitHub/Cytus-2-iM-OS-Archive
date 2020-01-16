@@ -83,7 +83,7 @@ Why the long face? If you have something to say, say it.
 Nothing... I was just thinking, why don't you come with us? You also want to know what happened to PAFF, right?
 
 **Vicky**<br>
-Of course. I'm a journalist first, human second. But~ I've long been blacklisted by Node 03's Administration Bureau, which denies me any form of entry. Not even special privileges can get me in there, so I can only leave it to you.
+Of course. I'm a journalist first, human second. But\~ I've long been blacklisted by Node 03's Administration Bureau, which denies me any form of entry. Not even special privileges can get me in there, so I can only leave it to you.
 
 **Vicky**<br>
 ... Besides, if being a paparazzi was all I could think about after hearing your stories, the Vicky Russell that once pursued justice and truth at all costs... is perhaps no longer in me anymore.

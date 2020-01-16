@@ -19,7 +19,6 @@ NOO!!
 ...Unit 10!?
 
 ![rios2102.png](./attachments/rios2102.png)
-
 **OPCII_0584_X**<br>
 ... You must... go...
 
@@ -41,7 +40,6 @@ Protocol... commands... have become very strange... kill all... humans... and Ar
 *\[Bang\]*
 
 ![rios2103.png](./attachments/rios2103.png)
-
 **Rin**<br>
 Stop! You're going to be destroyed!
 
@@ -62,7 +60,6 @@ This way... I... won't be able to see... please... leave... while I still can...
 ......!?
 
 ![rios2104.png](./attachments/rios2104.png)
-
 **Rin**<br>
 I don't... want to run away anymore.
 
@@ -93,5 +90,4 @@ Wah... your body... isn't cold at all...
 Rin...! ... *\*sob\**...
 
 ![rios2105.png](./attachments/rios2105.png)
-
 *[Signal Lost]*

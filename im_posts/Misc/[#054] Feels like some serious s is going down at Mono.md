@@ -39,7 +39,7 @@ I have a friend who is a hardcore fan... He's the one who dragged me here, and n
 Can you stream to give everyone a peak of the site??
 
 **Overtale**<br>
-No, thanks. I don't think the atmosphere here is suitable for that ~"~
+No, thanks. I don't think the atmosphere here is suitable for that \~"\~
 
 **Uxi**<br>
 Wanna go check it out later

@@ -36,7 +36,7 @@ Jasus there are still people who know that band? XD
 Hey we are still here live and kicking lolol
 
 **TreeNoAlice**<br>
-JOE and Xenon's duo-Solo was amazing, never seen a band that can live up to that.
+JOE and Xenon's duo\-Solo was amazing, never seen a band that can live up to that.
 
 **Gearz_Igo**<br>
 Indeed! Never though Bass can keep up with Xenon's guitar!
@@ -45,7 +45,7 @@ Indeed! Never though Bass can keep up with Xenon's guitar!
 All past glory. I'm too old for this now haha
 
 **Bit_Inex**<br>
-Xenon doesn't seem to like talking about the ex-band QwQ
+Xenon doesn't seem to like talking about the ex\-band QwQ
 
 **Xenon**<br>
 Don't actively avoid it, just felt like it was too long ago. 

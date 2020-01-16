@@ -1,4 +1,4 @@
-# About Æsir-FEST.
+# About Æsir\-FEST.
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -6,18 +6,18 @@
 
 ## Post
 **Xenon**<br>
-Everyon remembered Æsir-FEST from half a year ago right?<br>
+Everyon remembered Æsir\-FEST from half a year ago right?<br>
 There have been many different theories on the internet, so I'm here to tell what I remembered:
 
 I was also connected to the cyTus background system that day. I was monitoring the huge flow of server data (hence I was not on stage). Afterwards, the entire backstage and site blacked out. 
 
-I recall that **@PAFF-Official** and **@ROBO\_Head** were invited as guests that day. 
+I recall that **@PAFF\-Official** and **@ROBO\_Head** were invited as guests that day. 
 
 Since I was working and was not paying attention to the performances, I want to ask: did the blackout occur before or after they took stage?
 ## Replies
 **ROBO_Head**<br>
-Analysis: No Æsir-FEST footage in memory cells. ：( <br>
-Record: File - Æsir-FEST\_Live\_Set.nwav <br>
+Analysis: No Æsir\-FEST footage in memory cells. ：( <br>
+Record: File \- Æsir\-FEST\_Live\_Set.nwav <br>
 Views on that day: 1
 
 **Irisa0938**<br>
@@ -40,7 +40,7 @@ Wasn't simple case of **@Æsir** standing everyone up? (ΦωΦ)
 You were not there, stop making things more complicated OK?
 
 **NEKO#ΦωΦ**<br>
-WAAAAA Xenon is mad~~. ･ﾟ･(つдΦ)･ﾟ･
+WAAAAA Xenon is mad\~\~. ･ﾟ･(つдΦ)･ﾟ･
 
 **D33M0**<br>
 Good ol' NEKO lololol

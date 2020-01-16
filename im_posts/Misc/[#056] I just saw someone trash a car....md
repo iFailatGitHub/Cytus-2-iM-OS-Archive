@@ -26,7 +26,7 @@ Didn't a bunch of gang members got arrested just a few days ago? Also, from what
 To be fair, I saw the call on a forum and thought I could maybe get some quick cash out of this. That's the only reason I'm here...
 
 **DDStream**<br>
-Gotcha~~~~~~ It's people like you who add fuel to the fire! (TBH, compare to those actually wrecking stuff, folks like you seems to be minor offenders)
+Gotcha\~\~\~\~\~\~ It's people like you who add fuel to the fire! (TBH, compare to those actually wrecking stuff, folks like you seems to be minor offenders)
 
 **HandsomeYi**<br>
 Looks like a lot of people got riled up by NEKO's stream and forgot about common sense

@@ -31,7 +31,6 @@ EH!? What attack? Is it dangerous!?
 Damnit, how on earth did they find that entrance!? Security team A, team B, report to area 03 immediately!
 
 ![cpos2801.png](./attachments/cpos2801.png)
-
 **Cherry**<br>
 Is it Diego...? NEKO, you can relax. Kyuu Hou Kai should be able to deal with those people just fine.
 

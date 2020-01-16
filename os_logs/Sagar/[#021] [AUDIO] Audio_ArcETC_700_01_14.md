@@ -169,7 +169,7 @@ Um... oh, okay.
 *[→File Switches]*
 
 **Sagar**<br>
-...*\*yawn\**...~~Finally, it's over...
+...*\*yawn\**...\~\~Finally, it's over...
 
 **Alex**<br>
 Hey, Bambi, what's up?

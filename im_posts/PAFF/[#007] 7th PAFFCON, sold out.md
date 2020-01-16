@@ -11,7 +11,7 @@
 
 ## Post
 **PAFF-Official**<br>
-Thank you for the support little Puffs~ all tickets have been sold!
+Thank you for the support little Puffs\~ all tickets have been sold!
 
 If her stamina can handle it, PAFF might try adding a few more physical sessions!
 
@@ -24,15 +24,15 @@ Whyyyyyy, I was so prepared too...
 I got it!!! Muhahahah
 
 **NEKOSAIKOU**<br>
-Fishy under-the-table crap, only scalpers win LOL
+Fishy under\-the\-table crap, only scalpers win LOL
 
 **CyKa**<br>
 **@NEKOSAIKOU** you are REALLY starting to irritate me = =
 
 **Chevalier151**<br>
-Got two tickets for physical area A ^~^<br>
-Got two tickets for physical area A ^~^<br>
-Got two tickets for physical area A ^~^
+Got two tickets for physical area A ^\~^<br>
+Got two tickets for physical area A ^\~^<br>
+Got two tickets for physical area A ^\~^
 
 **AnyClue**<br>
 Damn I envy your luck, mind sharing one
@@ -47,7 +47,7 @@ When will we get the info for the added sessions QQ
 Got three tickets, my date is secured!
 
 **Pascal626**<br>
-I'll be there!!!! Hip hip hooray~
+I'll be there!!!! Hip hip hooray\~
 
 **Lynx87**<br>
 Uhhh didn't get one...

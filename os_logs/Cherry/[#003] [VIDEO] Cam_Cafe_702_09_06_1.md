@@ -11,7 +11,6 @@
 Oh, hello there Simon, as u... wait, what!? Cherry...?
 
 ![chos0301.png](./attachments/chos0301.png)
-
 **Cherry**<br>
 Hi! Long time no see, Joe.<br>
 Damn, you still recognize me through all this disguise.

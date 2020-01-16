@@ -24,7 +24,7 @@ Helena White<br>
 
 ## Replies
 **HolyEarth**<br>
-Sis fight! We are all here to support you ~~~~~
+Sis fight! We are all here to support you \~\~\~\~\~
 
 **TreeNoAlice**<br>
 Why didn't you tell us in the first place??
@@ -36,7 +36,7 @@ So what, doesn't change the fact that you're Mono's accomplice
 Sis don't worry, PAFF will be fine
 
 **Grimwood**<br>
-PAFF, please at least contact your sister, she's worried sick~~~~
+PAFF, please at least contact your sister, she's worried sick\~\~\~\~
 
 **ArupakaKUN**<br>
 Did you sell your younger sister to some shady organization

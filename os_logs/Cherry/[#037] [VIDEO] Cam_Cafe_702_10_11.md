@@ -92,7 +92,6 @@ I'm so foolish... After all the things that happened, I still hoped that he'll t
 *\*Sobs\**
 
 ![chos3701.png](./attachments/chos3701.png)
-
 **JOE**<br>
 ... Get some sleep. Don't blame yourself... We're all living in guilt for our crimes...
 

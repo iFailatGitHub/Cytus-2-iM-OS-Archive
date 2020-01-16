@@ -60,7 +60,7 @@ Here, NEKO. Can you stand up?
 Are you okay? Any injuries? It's very dangerous to run in the hallways...
 
 **NEKO#ΦωΦ**<br>
-No worries, all is well~ NEKO falls down a lot, so I'm already used to it. Hehe~
+No worries, all is well\~ NEKO falls down a lot, so I'm already used to it. Hehe\~
 
 **Helena**<br>
 I see. Good to see that you're fine.
@@ -123,7 +123,7 @@ You bumped into NEKO at least say sorry!
 Ummm... Weren't you the one who bumped into her...
 
 **NEKO#ΦωΦ**<br>
-Hmph!! We are still collaborating and writing songs together, yet I can't talk to her in person!? Who does she think she is! Idol my a\*\*~ She's treating herself like some kind of queen! Arrogant bastard!
+Hmph!! We are still collaborating and writing songs together, yet I can't talk to her in person!? Who does she think she is! Idol my a\*\*\~ She's treating herself like some kind of queen! Arrogant bastard!
 
 **Chris**<br>
 Hey! Watch your words! PAFF is not that kind of person! She is working very hard on the song she wants you to arrange for her.
@@ -132,7 +132,7 @@ Hey! Watch your words! PAFF is not that kind of person! She is working very hard
 ...... Hmph, if the song sucks, NEKO won't even bother!
 
 **Chris**<br>
-That's not up to you... Besides, you better pay more attention to your actions and words, especially on the internet. Those fans of yours always lose control and cause trouble for no apparent reason. They are starting to get out of hand for us~<br>
+That's not up to you... Besides, you better pay more attention to your actions and words, especially on the internet. Those fans of yours always lose control and cause trouble for no apparent reason. They are starting to get out of hand for us\~<br>
 If this keeps going on, the company's image will be affected.
 
 **NEKO#ΦωΦ**<br>

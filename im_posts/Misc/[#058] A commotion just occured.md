@@ -26,7 +26,7 @@ I'm trying my best to squeeze my way to the side entrance<br>
 I think I heard someone yell Cherry
 
 **Shipper**<br>
-She decided to go to work at this time?? Cherry, pls RUN~~~~
+She decided to go to work at this time?? Cherry, pls RUN\~\~\~\~
 
 **An0nym0us**<br>
 Who cares if it's a CEO or a janitor<br>
@@ -42,7 +42,7 @@ He said that this kind of group lawsuits has a very good chance to win!!!<br>
 Be careful, you might get accidently punched if you get too close
 
 **GotoH3ll**<br>
-(-\_-\#) **\#MonoWillPay** (-\_-\#)
+(\-\_\-\#) **\#MonoWillPay** (\-\_\-\#)
 
 **Cipher_troll**<br>
 MR.CY is still on his tour, you're not gonna see him

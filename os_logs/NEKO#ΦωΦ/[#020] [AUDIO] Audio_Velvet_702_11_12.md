@@ -30,7 +30,7 @@ All that whining yet you still keep organizing it. Don't bring trouble on yourse
 Excuse me, is the manager here?
 
 **Jacky**<br>
-Manager is currently escaping from life so he's not here~
+Manager is currently escaping from life so he's not here\~
 
 **Linda**<br>
 That's enough... Miss, are you here to tour the venue?
@@ -52,7 +52,7 @@ Apologies, I didn't see clearly. Turns out it's such a pretty lady... Please, co
 Linda, make two cups of coffee for us. The best we have!
 
 **Vicky**<br>
-Ara, thank you~ Then pardon me for the intrusion.
+Ara, thank you\~ Then pardon me for the intrusion.
 
 **Linda**<br>
 ......
@@ -132,7 +132,7 @@ Not really. Recently, she has come here a lot less. She's probably busy.
 ... Boss, I need to go watch the store. You two, take your time.
 
 **Jacky**<br>
-Oh, gotcha. I'll leave it to you then~
+Oh, gotcha. I'll leave it to you then\~
 
 *\[Door Opens\]*
 

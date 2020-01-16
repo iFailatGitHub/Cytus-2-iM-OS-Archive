@@ -9,7 +9,7 @@
 **Xenon**<br>
 Even though posting stuff that is not music here is against my original intention when I first created this account, things have been getting out of hand lately, to the point where I feel like an explanation is necessary.
 
-Regarding the recent string of internet incidents and the memory and physical harm caused to users by Æsir-FEST, I understand everyone's anxiety and panic right now. However, I'm not exactly in a more comfortable position than you guys.
+Regarding the recent string of internet incidents and the memory and physical harm caused to users by Æsir\-FEST, I understand everyone's anxiety and panic right now. However, I'm not exactly in a more comfortable position than you guys.
 
 I'm also very worried about PAFF; plus I'm also one of the people whose memory was affected. Not to mention that my friend NEKO is also restricted and is currently under the admins' investigation. It's impossible for me to brush off these incidents like they're nothing serious.
 
@@ -17,9 +17,9 @@ However, before the truth is clear, I will not disclose incomplete information o
 
 You've all heard my supervisor talk on the news. A.R.C. will be wholeheartedly supporting the admins in the investigation of these incidents. I myself have agreed to offer everything I can to help out as well. 
 
-Due to the non-disclosure agreement, this is as much as I can say on iM. 
+Due to the non\-disclosure agreement, this is as much as I can say on iM. 
 
-Both technology and the internet are, in essence, things created to give humans a better life. However, if they are abused for the wrong purposes, they can become a double-edged sword.
+Both technology and the internet are, in essence, things created to give humans a better life. However, if they are abused for the wrong purposes, they can become a double\-edged sword.
 
 The purpose of this post is not to appease everyone, but in the hopes that at least the people around me can have more reasonable opinions when it comes to treating the victims of these incidents. We don't want them to suffer any secondary injuries because of the internet. 
 
@@ -55,7 +55,7 @@ Music is innocent! \\x/
 Calm? If I'm not calm I would have broken into the admins' offices and beat the living hell out of those little b\*\*\*\*\*!
 
 **SuperKY**<br>
-Heard rumors of Xenon being a two-timer, is that true?
+Heard rumors of Xenon being a two\-timer, is that true?
 
 **KiwaHu**<br>
 More and more dumb comments, pls ban them

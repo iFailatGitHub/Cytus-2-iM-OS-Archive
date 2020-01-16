@@ -14,7 +14,7 @@
 **PAFF-Official**<br>
 Greeting fellow fans. I am Helena, PAFF's agent. 
 
-PAFF is now awake. Her condition is stable, but to be absolutely certain that she is fine, we will be staying at the hospital for a few more days to do a complete check-up.
+PAFF is now awake. Her condition is stable, but to be absolutely certain that she is fine, we will be staying at the hospital for a few more days to do a complete check\-up.
 
 I have to be honest, I really panicked when PAFF collapsed during last night's event. Not as an agent, but as PAFF's sister and only family. 
 
@@ -31,7 +31,7 @@ For remaining with her and supporting her through all these times, I am deeply g
 ![p1401.png](./attachments/p1401.png)
 ## Replies
 **Pascal626**<br>
-PAFF!! QAQ ~~~~~~<br>
+PAFF!! QAQ \~\~\~\~\~\~<br>
 **\#PrayForPAFF**
 
 **M3rmaid**<br>
@@ -84,7 +84,7 @@ Puffs indeed, cream for brains lolol
 **@NEKOSAIKOU** Would you kindly shut the \*\*\*\* up??? Or do you need a good punch in the face for you to do that?
 
 **Lynx87**<br>
-Ignore that troll-a\*\*hole<br>
+Ignore that troll\-a\*\*hole<br>
 **\#PrayForPAFF**
 
 **Chevalier151**<br>
@@ -94,7 +94,7 @@ Ignore that troll-a\*\*hole<br>
 Can the officials blacklist that account?
 
 **IronFan**<br>
-Just ignore him. All these a-holes want is to create hatred. Let us defeat the trolls with our positivity!<br>
+Just ignore him. All these a\-holes want is to create hatred. Let us defeat the trolls with our positivity!<br>
 **\#PrayForPAFF**
 
 **Sayomi911**<br>
@@ -106,7 +106,7 @@ Thank you to Sis Helena for taking care of PAFF, we know your hard work<br>
 **\#PrayForPAFF**
 
 **ArupakaKUN**<br>
-OMG I can't live without PAFF ~~~~<br>
+OMG I can't live without PAFF \~\~\~\~<br>
 **\#PrayForPAFF**
 
 **Xenon**<br>

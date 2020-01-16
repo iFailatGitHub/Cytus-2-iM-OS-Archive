@@ -31,7 +31,7 @@ If it's not Cherry who got hurt today, will you still give a f\*\*\*<br>
 **\#MonoWillPay**
 
 **Arya_Poke**<br>
-Shut up you two-timer <br>
+Shut up you two\-timer <br>
 **\#MonoWillPay**
 
 **AngryMan**<br>
@@ -48,14 +48,14 @@ Xenon's trying to offer some helpful advice, ended up attracting a whole bunch o
 
 **Wrinkleheart**<br>
 I find those who resort to violence utterly detestable<br>
-They are making everyone on-site look horrible, even the reasonable fans who just want a proper answer
+They are making everyone on\-site look horrible, even the reasonable fans who just want a proper answer
 
 **Pinevalley**<br>
 Nah, reasonable fans don't exist anymore. Even if they do, they are the extreme minority imo
 
 **NathaN**<br>
 I was watching my friend streaming<br>
-He said that the crowd on-site is mixed with many different people, some definitely not just "fans"
+He said that the crowd on\-site is mixed with many different people, some definitely not just "fans"
 
 **RamenBot**<br>
 F\*\*\*! Plenty of folks don't know WTF is up yet still went there to cause trouble<br>

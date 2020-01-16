@@ -1,4 +1,4 @@
-# Æsir-FEST corrupted data recovery progress......100% 
+# Æsir\-FEST corrupted data recovery progress......100% 
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -19,14 +19,14 @@
 
 ## Post
 **ROBO_Head**<br>
-Report: Æsir-FEST corrupted data recovery progress complete<br>
+Report: Æsir\-FEST corrupted data recovery progress complete<br>
 Conclusion: Existence of event   Affirmative<br>
 Speculation: Existence of event in participants' memory  Negative<br>
 Chance of attack by intrusive connection: 99.98%<br>
-This Unit equipped with non-organic brain and nervous system, reason only corrupted memory data, not permanent memory loss<br>
+This Unit equipped with non\-organic brain and nervous system, reason only corrupted memory data, not permanent memory loss<br>
 Analysis: Attack source has intrusive methods beyond highest level of A.R.C. firewall protection<br>
 Search result of individual or organization in Node Administration Bureau's criminal database that meets criteria: None<br>
-Attachment: Recovered Æsir-FEST visual data and sound files
+Attachment: Recovered Æsir\-FEST visual data and sound files
 
 ![r2401.png](./attachments/r2401.png)
 ## Replies
@@ -50,7 +50,7 @@ Wait now I remember! So WTF happened before this? I'm so confused...
 
 **HC**<br>
 I remember now!<br>
-Æsir was indeed on stage! OH MY freakin GOD~~~
+Æsir was indeed on stage! OH MY freakin GOD\~\~\~
 
 **Flower_Head**<br>
 this is way beyond "Information Security", is it the end of the world!?

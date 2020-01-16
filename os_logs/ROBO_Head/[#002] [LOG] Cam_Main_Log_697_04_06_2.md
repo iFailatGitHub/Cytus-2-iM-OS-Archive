@@ -19,3 +19,5 @@
 [   7.0335] Calibrating camera array position<br>
 [   7.0744] 0x8001C227 Failed: subject is too close<br>
 [   7.1902] Scheduled ID recognition for next test cycle
+
+![ros0201.png](./attachments/ros0201.png)

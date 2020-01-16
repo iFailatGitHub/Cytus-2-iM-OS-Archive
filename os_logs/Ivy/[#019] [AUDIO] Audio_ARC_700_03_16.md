@@ -12,16 +12,16 @@ We are about to board the gravity transporter to visit the A.R.C. Sky headquarte
 *\[Transporter activates\]*
 
 **[Tour Guide Robot]**<br>
-*Then, let us begin today's tour~ Do we have any first\-time visitors here?*
+*Then, let us begin today's tour\~ Do we have any first\-time visitors here?*
 
 **Kids**<br>
-Me~ Me~
+Me\~ Me\~
 
 **[Tour Guide Robot]**<br>
 *Very good. Everyone, please follow me closely afterward. Do not run off on your own, understand?*
 
 **Kids**<br>
-Okay~
+Okay\~
 
 **[Tour Guide Robot]**<br>
 *We have many students from the Academy here today as well. Later, you may have an opportunity to have a quick chat with our engineers. We believe it will bring great benefits to your career experience.*

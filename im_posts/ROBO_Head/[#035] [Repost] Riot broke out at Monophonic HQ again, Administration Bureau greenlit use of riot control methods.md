@@ -11,7 +11,7 @@
 [News][Administration Bureau][Monophonic Entertainment][Riot][PAFF]<br>
 > Following the incident a few days ago where angry fans surrounded Monophonic Entertainment Headquarters, a second riot erupted today. This one is largely believed to be related to Monophonic Entertainment's announcement of its contract termination with missing idol singer PAFF. Most fans viewed this as an act of evading responsibility, thus leading to today's incident. <br>
 > <br>
-> Earlier today, fans voluntarily gathered in front of the building once again. According to the analysis by the drone, the crowd this time expanded much faster than last time. This fast-growing mob quickly jammed the entire traffic network around the site. The furious fans nearly caused the entire situation to go out of control. Fortunately, the Administration Bureau deployed squadrons of law enforcement agents and riot control drones in time to prevent the worst from happening. Using high-velocity water streams, the agents were able to drive away the rioting crowd and arrest 12 suspects for excessive behavior, finally putting an end to the riot. <br>
+> Earlier today, fans voluntarily gathered in front of the building once again. According to the analysis by the drone, the crowd this time expanded much faster than last time. This fast\-growing mob quickly jammed the entire traffic network around the site. The furious fans nearly caused the entire situation to go out of control. Fortunately, the Administration Bureau deployed squadrons of law enforcement agents and riot control drones in time to prevent the worst from happening. Using high\-velocity water streams, the agents were able to drive away the rioting crowd and arrest 12 suspects for excessive behavior, finally putting an end to the riot. <br>
 > <br>
 > Monophonic Entertainment later issued a statement regarding this incident. In addition to thanking the Administration Bureau for their timely and efficient help, they also expressed their grief for the actions of the rioting fans. They also restated their point, that Monophonic Entertainment has communicated with PAFF's agent, Helena White, about all the details regarding the contract termination. The two sides reached a peaceful and mutual agreement before the decision was made public. It was not an attempt to evade responsibility, which is what many people outside of the company have suspected. <br>
 > <br>
@@ -65,7 +65,7 @@ LMAO<br>
 **@ROBO\_Head** Tell him to stop it!
 
 **ROBO_Head**<br>
-Note: Analyze technology viability of forming quasi-human feces with the application of Quantum Physics
+Note: Analyze technology viability of forming quasi\-human feces with the application of Quantum Physics
 
 **CHanatsuka**<br>
 Wait Robo are you serious about this NOOOOO!!!!!

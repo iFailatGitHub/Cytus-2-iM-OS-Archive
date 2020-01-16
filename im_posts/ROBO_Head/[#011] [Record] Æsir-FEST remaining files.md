@@ -1,4 +1,4 @@
-# [Record] Æsir-FEST remaining files
+# [Record] Æsir\-FEST remaining files
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -12,7 +12,7 @@
 
 ## Post
 **ROBO_Head**<br>
-Record: Æsir-FEST information extracted from memory block of 6 months ago. <br>
+Record: Æsir\-FEST information extracted from memory block of 6 months ago. <br>
 > Guest list: <br>
 > The New Generation's Diva: PAFF<br>
 > The Electronic Machine DJ: ROBO\_Head<br>
@@ -40,10 +40,10 @@ I was there, it ended after Robo\_head's performance
 I don't even remember if PAFF and ROBO\_head really performed TBH
 
 **Andy_Roid**<br>
-Let's get PAFF herself to answer **@PAFF-Official**
+Let's get PAFF herself to answer **@PAFF\-Official**
 
 **ROBO_Head**<br>
-Speculation: Chance of reply from PAFF-Official: 0.7%
+Speculation: Chance of reply from PAFF\-Official: 0.7%
 
 **Ayx_Socket**<br>
 TOO LOW!

@@ -25,7 +25,7 @@ I've heard some went from love to hate<br>
 Those are the REALLY dangerous ones
 
 **Alaina**<br>
-Condemn him! It's A-holes like this that ruin the image of other fans!
+Condemn him! It's A\-holes like this that ruin the image of other fans!
 
 **m00nl16h7**<br>
 I was there live, but I was too far away. All I hear were screams and ruckus

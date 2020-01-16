@@ -20,7 +20,7 @@ For today's show, we invited a guest that packs a serious punch. So, let's sit t
 *PAFF, 19 years old, a superstar of "Monophonic Entertainment". In the two years since her debut, she took over the music industry by storm with her beautiful voice and her gorgeous features. Her two albums so far have captured two consecutive [Best selling female artist] titles in the "Platinum Awards".  However, despite her immense popularity, she rarely talks or interacts with fans in front of the camera, thus earning her the nickname "The Mysterious Diva". What kind of private persona will she show us today?  Let us find out more about PAFF.*
 
 **Host**<br>
-Before we welcome our guest, a quick reminder for our audiences: today's show will have a holographic live stream on iM as well~ Fellow Puffers, connect to cyTus ASAP to have a close encounter with PAFF!<br>
+Before we welcome our guest, a quick reminder for our audiences: today's show will have a holographic live stream on iM as well\~ Fellow Puffers, connect to cyTus ASAP to have a close encounter with PAFF!<br>
 Now, it's time to welcome our guests: PAFF, and her agent Helena!
 
 **Aroma**<br>
@@ -30,7 +30,7 @@ Hello everyone... I, I'm PAFF...
 Hello everyone, I'm Helena.
 
 **Host**<br>
-My my~ It's an honor of myself and everyone here at《Entertainment C+》to have an exclusive interview with PAFF. <br>
+My my\~ It's an honor of myself and everyone here at《Entertainment C+》to have an exclusive interview with PAFF. <br>
 This should be PAFF's first time doing a live stream interview like this, right? It seems like she's quite nervous?
 
 **Helena**<br>
@@ -66,7 +66,6 @@ Inhale... Exhale...
 PAFF has been massaging her temple for a while now. Is she not feeling well?
 
 ![aos1101.png](./attachments/aos1101.png)
-
 **Helena**<br>
 PAFF, are you alright?
 
@@ -116,7 +115,7 @@ Yes... I don't believe it's available for purchase now. PAFF bought this a long 
 *Discontinued! Discontinued!*
 
 **Host**<br>
-Wow~ What a shame. You can no longer own an electronic pet that is the same style as PAFF's. If you're one of the lucky fellas who bought one, perhaps you can now sell it at a very high price!<br>
+Wow\~ What a shame. You can no longer own an electronic pet that is the same style as PAFF's. If you're one of the lucky fellas who bought one, perhaps you can now sell it at a very high price!<br>
 Second question from the Puffers: "Really loved PAFF's singing voice! Has PAFF been such a good singer since she was little?"
 
 **Aroma**<br>

@@ -90,7 +90,7 @@ NEKO... Allow me to repeat one more time. Thank you, thank you for everything yo
 Of course! We'll always be!
 
 **[NEKO#ΦωΦ]**<br>
-*Hehe... thanks. Then, NEKO's gotta go since I'm almost home. Bye\-bye~*
+*Hehe... thanks. Then, NEKO's gotta go since I'm almost home. Bye\-bye\~*
 
 *[Call Ends]*
 

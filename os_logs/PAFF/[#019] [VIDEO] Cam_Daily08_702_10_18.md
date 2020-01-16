@@ -6,7 +6,7 @@
 
 ## Log Content
 **Hayato**<br>
-I'm back. Sighs~ I'm exhausted...
+I'm back. Sighs\~ I'm exhausted...
 
 **Susan**<br>
 Thanks for the hard work. Another major news story?
@@ -48,8 +48,8 @@ Eh!? For real? Where!?
 Take a look! This is the VOD of a NEKO stream on iM a while ago!
 
 **[Video]**<br>
-*Meow meow meow (ΦωΦ)/ I'm bored so let's stream~<br>
-Heard that many of you are VERY~ interested in NEKO's room aren't ya~~~ (\*Φ∀Φ)*
+*Meow meow meow (ΦωΦ)/ I'm bored so let's stream\~<br>
+Heard that many of you are VERY\~ interested in NEKO's room aren't ya\~\~\~ (\*Φ∀Φ)*
 
 **Susan**<br>
 This clip... it's just a stream of her room though? Is something wrong with it?
@@ -79,7 +79,6 @@ Idiot! This thing went out of production a long time ago! Besides, with NEKO's p
 *\[Items scattered\]*
 
 ![pos1901.png](./attachments/pos1901.png)
-
 **Susan**<br>
 Yikes! That stinks! What are these, sis Vicky!?
 
@@ -114,7 +113,7 @@ No idea... a private investigator maybe...?
 In short! These clues! They are proof that there's a high possibility of PAFF hiding in NEKO's home! Susan! Come with me this weekend! We're going to set up an ambush at her house! At minimum, we need one or two clear photos!
 
 **Susan**<br>
-Eh~? I can't... I have family business to tend to this weekend...
+Eh\~? I can't... I have family business to tend to this weekend...
 
 **Vicky**<br>
 Then... Hayato!

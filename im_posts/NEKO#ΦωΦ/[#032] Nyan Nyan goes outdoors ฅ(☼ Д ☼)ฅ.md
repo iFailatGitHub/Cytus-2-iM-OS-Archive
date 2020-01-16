@@ -8,7 +8,7 @@
 **NEKO#ΦωΦ**<br>
 Today, NEKO will prove that I am a streamer that knows how to embrace da music σΦωΦ)σ<br>
 Therefore, we are here at UV to see performances !(ΦωΦ)!<br>
-Top-quality bands & amazing live shows all here at Under Velvet \\(Φˋ口ˊΦ)/
+Top\-quality bands & amazing live shows all here at Under Velvet \\(Φˋ口ˊΦ)/
 
 **\#HotStaffDoesn'tWantPictureTakenSoOnlyBackView**<br>
 **\#SmallBandOnStageRightNowIsQuiteGood** **@ICECREAMFLY**
@@ -48,7 +48,7 @@ This garbled text thingy seems to have a life of its own. It's creating all kind
 ARC must be testing out their new artificial idiot system
 
 **Heart_Head**<br>
-This band is nice. I like this laid-back atmosphere, feels very relaxed
+This band is nice. I like this laid\-back atmosphere, feels very relaxed
 
 **Watch_Burn**<br>
 Agreed. This is the first time I ever felt relaxed in a NEKO stream<br>

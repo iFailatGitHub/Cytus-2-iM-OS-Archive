@@ -14,7 +14,7 @@
 ## Post
 **ROBO_Head**<br>
 [News][Social][Emergency]<br>
-> According to the information this reporter received before the deadline, famous streamer NEKO's recent stream, which attracted an audience of nearly 80,000, suffered a large-scale malicious connection attack moments after the stream started. The attack caused hundreds of thousands of people to experience temporary memory loss, an unprecedented disaster. <br>
+> According to the information this reporter received before the deadline, famous streamer NEKO's recent stream, which attracted an audience of nearly 80,000, suffered a large\-scale malicious connection attack moments after the stream started. The attack caused hundreds of thousands of people to experience temporary memory loss, an unprecedented disaster. <br>
 > Some witnesses point out that before the victims become unconscious, they all received a mysterious call. Upon accepting the call, all victims suffer symptoms like epileptic seizure, severe headache, foaming at the mouth and fainting. <br>
 > Node 08 United Hospital's director of Virtual Psychiatry stated:" We have requested specialized hospital beds from A.R.C. for those with severe symptoms. Other patients will have their symptoms eased by a medical wave deployed remotely. Due to a large number of patients, it may take a while for the wave to take effect. Please wait patiently."<br>
 > Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation.<br>
@@ -36,7 +36,7 @@ Man, I was planning to watch the stream yesterday but was hit with a train delay
 **@ROBO\_Head** my older brother was also attacked will his life be in danger?
 
 **ROBO_Head**<br>
-Negative. Minimal damage to brain, temporary cognitive disorders or memory displacements will recover within 3~5 days
+Negative. Minimal damage to brain, temporary cognitive disorders or memory displacements will recover within 3\~5 days
 
 **Dolly**<br>
 Thank you Robo\_head, my family can now rest assured after hearing that

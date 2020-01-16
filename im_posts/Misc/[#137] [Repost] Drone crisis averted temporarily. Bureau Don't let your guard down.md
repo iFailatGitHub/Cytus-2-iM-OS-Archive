@@ -9,7 +9,7 @@
 [Breaking][Drones][Attack][Termination]<br>
 > The drone attacks that lasted for several days seemed to have been brought under control at noon today, stopping the destruction that rained down on the city and the attacks on citizens at almost the same time. Drones even returned to their normal flight patterns to begin working again. This has caused citizens to wonder whether it was just an error or a terrorist attack that was been carefully designed.<br>
 > <br>
-> However, due to the heavy losses caused by the attacks, the Administration Bureau was initially unable to propose an effective solution. That was until the A.R.C. indicated its willingness to support, thereby initiating military counter-attacks. Many citizens expressed great dissatisfaction; the reputation of the Administration Bureau has reached its lowest level in the past two decades.<br>
+> However, due to the heavy losses caused by the attacks, the Administration Bureau was initially unable to propose an effective solution. That was until the A.R.C. indicated its willingness to support, thereby initiating military counter\-attacks. Many citizens expressed great dissatisfaction; the reputation of the Administration Bureau has reached its lowest level in the past two decades.<br>
 [Article excerpted from Node News Network]
 ## Replies
 **MustangMartin**<br>
@@ -45,7 +45,7 @@ The admins have such a weak social network. How do they have the right to manage
 I think it’s a terrorist attack... definitely a conspiracy
 
 **PoolsKitten**<br>
-Whatevs it’s okay now~<br>
+Whatevs it’s okay now\~<br>
 Everyone can return to normal life.
 
 **AbigaleJ**<br>

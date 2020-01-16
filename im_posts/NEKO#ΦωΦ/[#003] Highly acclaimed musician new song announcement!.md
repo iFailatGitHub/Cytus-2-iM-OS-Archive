@@ -12,8 +12,8 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-It takes quite the talent to use the analog synthesizer to this level. Mixing is clean and good too (\*Φ₃Φ)~♥<br>
-Composed and produced all by yourself~<br>
+It takes quite the talent to use the analog synthesizer to this level. Mixing is clean and good too (\*Φ₃Φ)\~♥<br>
+Composed and produced all by yourself\~<br>
 This is what I call "music with heart" !!ヽ(Φˋ口ˊΦ)ノ<br>
 Everyone get your asses online and listen to NEKO's new song (ΦωΦ)！！！<br>
 "Happiness Breeze" ready to go!
@@ -27,7 +27,7 @@ So all that gibberish just to flatter herself LOL
 I'm in love ♡
 
 **DiiiiMO**<br>
-This song's cute~~
+This song's cute\~\~
 
 **xxScarlexx**<br>
 ♡♡♡
@@ -42,7 +42,7 @@ Here comes the NEKO BASS!!!
 Teach me how to do this!!!!
 
 **w_Rosabel_w**<br>
-Time to make llllooovveeee~~~
+Time to make llllooovveeee\~\~\~
 
 **Smurky**<br>
 Dude keep your d\*\*\* in your pants!!!
@@ -51,5 +51,5 @@ Dude keep your d\*\*\* in your pants!!!
 \\Marry me NEKO/
 
 **C_H_U**<br>
-**(\*´∀`)~♥**
+**(\*´∀`)\~♥**
 

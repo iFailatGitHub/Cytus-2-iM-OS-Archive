@@ -59,7 +59,7 @@ It's an emergency what do you expect them to say? Stop complaining will ya?
 Did the connection just cut off all of a sudden? Anyone with the same problem?
 
 **PAFF-Official**<br>
-Regarding the traffic flow, staff members have been informed. Please follow their instructions to leave the venue. Regarding ticket refunds, please follow **@PAFF-Official** as more details will be coming soon. Right now I am focused on taking care of PAFF, sorry for any inconvenience caused...
+Regarding the traffic flow, staff members have been informed. Please follow their instructions to leave the venue. Regarding ticket refunds, please follow **@PAFF\-Official** as more details will be coming soon. Right now I am focused on taking care of PAFF, sorry for any inconvenience caused...
 
 **SancTityKnight**<br>
 Good work Sis Helena! Hope PAFF is OK, everyone pray for PAFF! <br>
@@ -105,7 +105,7 @@ Good work Sis Helena! Your sister will be alright!! QQ<br>
 **\#PrayForPAFF**
 
 **Shahari**<br>
-Noooo~ I don't want this PAFF please wake up! QQ<br>
+Noooo\~ I don't want this PAFF please wake up! QQ<br>
 **\#PrayForPAFF**
 
 **Chevalier151**<br>

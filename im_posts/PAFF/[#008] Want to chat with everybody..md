@@ -52,7 +52,7 @@ You really do like singing a lot XD
 Still singing even during break!!!!
 
 **Pascal626**<br>
-PAFF, you can interact with us more during your events~
+PAFF, you can interact with us more during your events\~
 
 **PAFF-Official**<br>
 I don't really know what to say on the spot.
@@ -61,7 +61,7 @@ I don't really know what to say on the spot.
 Typing is easier than talking, but I am still kind of nervous. 
 
 **MAN_Dora**<br>
-PUFFERS are all nice people~
+PUFFERS are all nice people\~
 
 **Sopheee**<br>
 \\PAFF is so cute/
@@ -73,7 +73,7 @@ It's alright. Try adding some emoticons while typing so people can get what feel
 OK like this? ^^
 
 **koolboss01**<br>
-Haha you don't have to use this one~ XDD
+Haha you don't have to use this one\~ XDD
 
 **CeLiA**<br>
 \\PAFF is so cute/
@@ -97,7 +97,7 @@ No need to say sorry lol
 PAFF you can always PM me.
 
 **m00nl16h7**<br>
-I love your songs~
+I love your songs\~
 
 **PAFF-Official**<br>
 Everyone, thank you. ^^

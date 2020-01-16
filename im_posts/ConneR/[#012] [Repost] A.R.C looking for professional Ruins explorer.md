@@ -16,7 +16,7 @@
 > A.R.C., create a better future
 ## Replies
 **ConneR**<br>
-　You people think this is some kind of self-gratification; such ignorant and selfish minds. Really don't want to repost this but I can't stand it anymore. 
+　You people think this is some kind of self\-gratification; such ignorant and selfish minds. Really don't want to repost this but I can't stand it anymore. 
 
 **ConneR**<br>
 　Archaeology bears a lot of responsibility. Not a job where you impudent children can screw around and do whatever you want. 

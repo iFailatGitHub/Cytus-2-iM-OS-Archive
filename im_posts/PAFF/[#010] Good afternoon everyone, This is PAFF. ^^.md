@@ -23,22 +23,22 @@ Good afternoon everybody. This is PAFF. ^^
 IIIIttt's PAFF <3<3
 
 **MAN_Dora**<br>
-LOVE U PAFF~~
+LOVE U PAFF\~\~
 
 **8pupu**<br>
-Do we have a chance to hear "Gravity" live again? the one PAFF sang on Æsir-FEST
+Do we have a chance to hear "Gravity" live again? the one PAFF sang on Æsir\-FEST
 
 **PAFF-Official**<br>
 If everyone wants to hear it, then I will sing it again. ^^
 
 **8pupu**<br>
-Thank you PAFF~ I will continue to support you!
+Thank you PAFF\~ I will continue to support you!
 
 **lenba**<br>
-PAFF was not at Æsir-FEST right? Wasn't it canceled?
+PAFF was not at Æsir\-FEST right? Wasn't it canceled?
 
 **Lynx87**<br>
-No she was on stage ~ it's A who didn't show up.
+No she was on stage \~ it's A who didn't show up.
 
 **SancTityKnight**<br>
 That event was never held, right?
@@ -50,7 +50,7 @@ PAFF herself is here. We can just ask her
 I don't remember it too well. I'm sorry...
 
 **CyKa**<br>
-No need to say sorry~ it's OK~ XD
+No need to say sorry\~ it's OK\~ XD
 
 **Chevalier151**<br>
 BTW where has Æsir been? It's been like half a year since we last heard anything from him right?
@@ -89,7 +89,7 @@ Yes. If it's possible here, I should be able to talk a bit more when I'm on stag
 Sis is telling me to go to bed. Thank you everyone for your care. ^^
 
 **KarenMayako**<br>
-Night night PAFF ~
+Night night PAFF \~
 
 **MustangMartin**<br>
 Good night have a good sleep <3

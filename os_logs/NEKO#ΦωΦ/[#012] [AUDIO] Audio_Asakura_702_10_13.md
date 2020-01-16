@@ -6,13 +6,13 @@
 
 ## Log Content
 **NEKO#ΦωΦ**<br>
-All done~ Kenta, time for dinner.
+All done\~ Kenta, time for dinner.
 
 **Yukiko**<br>
 Today's dishes look very successful.
 
 **NEKO#ΦωΦ**<br>
-No kidding~ Sis Yukiko is getting more and more skilled by the day. You're so close to surpassing NEKO!
+No kidding\~ Sis Yukiko is getting more and more skilled by the day. You're so close to surpassing NEKO!
 
 **Kouhei**<br>
 I'll get the rice.
@@ -35,10 +35,10 @@ I want to finish hearing PAFF's ED!
 Ya little brat...
 
 **Yukiko**<br>
-Well~ It doesn't hurt to eat dinner with the TV on sometimes.
+Well\~ It doesn't hurt to eat dinner with the TV on sometimes.
 
 **NEKO#ΦωΦ**<br>
-Muuu~ Sis Yukiko, you're going to spoil him like this.
+Muuu\~ Sis Yukiko, you're going to spoil him like this.
 
 **Kouhei**<br>
 I wonder who's the one that spoils him more.
@@ -103,7 +103,7 @@ Well, I guess it is pretty tough to be a superstar...
 ... What is wrong with you today?
 
 **NEKO#ΦωΦ**<br>
-Nothing! I'm just a bit exhausted from the supplementary classes at the Academy this afternoon. Teehee~
+Nothing! I'm just a bit exhausted from the supplementary classes at the Academy this afternoon. Teehee\~
 
 **Kouhei**<br>
 You're graduating in two months. Keep at it.
@@ -138,7 +138,7 @@ I, I know that. What? Why are you saying this out of nowhere? Ahahaha...
 *\[Door Closes\]*
 
 **NEKO#ΦωΦ**<br>
-Whew~<br>
+Whew\~<br>
 Here, your dinner.
 
 **PAFF**<br>
@@ -151,7 +151,7 @@ They said that they heard noises from the room in the morning...
 Ah, I accidentally fell down this morning...... I'm so sorry!
 
 **NEKO#ΦωΦ**<br>
-Come on~ Be careful, ok! NEKO feel like I can't cover this up anymore...
+Come on\~ Be careful, ok! NEKO feel like I can't cover this up anymore...
 
 **PAFF**<br>
 I get it... sorry.

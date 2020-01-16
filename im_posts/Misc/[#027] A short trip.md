@@ -15,7 +15,7 @@ Your application actually got granted?
 Last time I had to wait in line for an entire morning before it's finally my turn...
 
 **AliceinCytus**<br>
-I though cross-Node traveling is the pain in the neck. Last time someone's application wasn't granted... they had to be deported from another Node and sent back QQ
+I though cross\-Node traveling is the pain in the neck. Last time someone's application wasn't granted... they had to be deported from another Node and sent back QQ
 
 **Marshall**<br>
 It worked just fine for me though. Just remember to apply earlier, then wait for a short while. As long as you inform your company everything should be okay.

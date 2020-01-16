@@ -8,7 +8,7 @@
 **ConneR**<br>
 Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. 
 
-        It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self-declared superiority, couldn't conquer them after all.
+        It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade\-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self\-declared superiority, couldn't conquer them after all.
 
         Certainly, drones are not creatures. They are just simple, inorganic structures. However, "intelligence" itself is no longer a privilege exclusive only to living creatures. Sounds, visuals, sensations, memories, wisdom, and even the soul are all things that we once thought to be so vague that they were considered ethereal. In this era, however, they can all be interpreted as a combination of countless electronic signals. Humans can no longer claim that we are the one and only "intelligent" mind in this world.
 
@@ -51,10 +51,10 @@ OMFG, "There" you moron...<br>
 On a side note, it's so damn hard to find any information about the Architects online (Flips Table
 
 **Dogleg**<br>
-I feel like Sensei knows a lot of behind-the-scenes information, but he just couldn't tell us all of it...
+I feel like Sensei knows a lot of behind\-the\-scenes information, but he just couldn't tell us all of it...
 
 **HC**<br>
-Well, in 800 years machines are gonna replace all humans I guess~<br>
+Well, in 800 years machines are gonna replace all humans I guess\~<br>
 Just like how the old movies play out<br>
 Whatever, we're probably all dead as f\*\*\* when that time arrives, won't make a difference
 

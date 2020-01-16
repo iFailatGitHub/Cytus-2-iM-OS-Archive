@@ -9,7 +9,8 @@ Here he is! The future superstar!<br>
 
 **Cherry**<br>
 The guitarist you mentioned before?<br>
-*[Sent at PM 09:20]*
+*[Sent at PM 09:20
+]*
 
 **S.J.**<br>
 Hello everyone. I'm Simon.<br>
@@ -48,7 +49,7 @@ I've also heard your DEMO. I'm quite interested. The lead singer's voice is very
 *[Sent at PM 09:22]*
 
 **JOE**<br>
-XD She wrote most of it. I wrote a little bit~<br>
+XD She wrote most of it. I wrote a little bit\~<br>
 *[Sent at PM 09:22
 ]*
 
@@ -70,7 +71,7 @@ For your first song, I made a new chord for it. Give it a listen.<br>
 *[Sent at PM 09:24]*
 
 **JOE**<br>
-OMG!! It's amazing!! Let's make this the final ver~<br>
+OMG!! It's amazing!! Let's make this the final ver\~<br>
 *[Sent at PM 09:25]*
 
 **KAI**<br>
@@ -106,7 +107,7 @@ I'm ok with it, but I've never used a physical space before<br>
 *[Sent at PM 09:27]*
 
 **JOE**<br>
-Me neither~ Won't there be a bunch of problems with feedback and stuff?<br>
+Me neither\~ Won't there be a bunch of problems with feedback and stuff?<br>
 *[Sent at PM 09:27]*
 
 **JOE**<br>
@@ -128,7 +129,7 @@ I look forward to seeing everyone.<br>
 *[Sent at PM 09:28]*
 
 **KAI**<br>
-![01_OK.png](./attachments/01_OK.png)
+![01_OK.png](./attachments/01_OK.png)<br>
 *[Sent at PM 09:28]*
 
 **JOE**<br>

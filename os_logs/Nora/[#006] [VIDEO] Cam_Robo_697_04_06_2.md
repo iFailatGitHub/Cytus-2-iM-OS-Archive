@@ -42,7 +42,6 @@ This unit, does not comprehend.*
 *... I'm not sure whether you can understand this or not...*
 
 ![noos0601.png](./attachments/noos0601.png)
-
 **[Nora]**<br>
 *In this world, there are a lot of bad things; things that make people really, really sad... These organizations are using these bad things to obtain resources in order to achieve an even larger goal. Both Mogura and Kyuu Hou Kai are organizations like that as well*
 

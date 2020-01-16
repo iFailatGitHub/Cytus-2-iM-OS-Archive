@@ -45,7 +45,6 @@ ROBO, take good care of her.
 *\[Door Opens\]*
 
 ![noos2601.png](./attachments/noos2601.png)
-
 **[Nora]**<br>
 *Phoenix worries way too much... This is just a small cold. Nothing serious.<br>
 ROBO, you don't have to watch over me all the time too. It's pretty boring, right?*

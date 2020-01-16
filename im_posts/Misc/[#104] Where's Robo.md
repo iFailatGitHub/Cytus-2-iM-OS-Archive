@@ -25,7 +25,7 @@ Comment +2
 
 **TreeNoAlice**<br>
 Okay okay I know it's me<br>
-**@ROBO\_Head** Come on let's go and play~~~~~~
+**@ROBO\_Head** Come on let's go and play\~\~\~\~\~\~
 
 **JAC-jack**<br>
 You're pretty resigned about this aren't you XDDD
@@ -34,7 +34,7 @@ You're pretty resigned about this aren't you XDDD
 Looks he really isn't replying. Something's not right about this, isn't it???
 
 **ElinaDaniel**<br>
-**@ROBO\_Head**??? We need your serious analysis here~~~~
+**@ROBO\_Head**??? We need your serious analysis here\~\~\~\~
 
 **maplewing**<br>
 **@ROBO\_Head** Can you write my thesis for me QAQ

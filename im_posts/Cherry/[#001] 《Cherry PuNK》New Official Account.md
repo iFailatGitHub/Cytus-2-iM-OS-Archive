@@ -6,19 +6,19 @@
 
 ## Post
 **CherryPuNK**<br>
-Hi! We are the next-gen band《Cherry PuNK》!
+Hi! We are the next\-gen band《Cherry PuNK》!
 
 From now on, all official event announcements and the daily lives of the members will be posted on this account<br>
 The old account will likely not be updated anymore (I think)<br>
-If you follow the old account, please remember to transfer to this one~
+If you follow the old account, please remember to transfer to this one\~
 
 To those who don't know about us yet:<br>
-We are a two-year-old independent Rock/Post-Rock band from Node 08.<br>
-Our members include lead vocalist and guitar - Cherry/ Bass - Frank/ Keyboard - LUMY/ Drums - Dannis<br>
+We are a two\-year\-old independent Rock/Post\-Rock band from Node 08.<br>
+Our members include lead vocalist and guitar \- Cherry/ Bass \- Frank/ Keyboard \- LUMY/ Drums \- Dannis<br>
 This year, we are very honored to receive the invitation from Monophonic Entertainment to join this big family.<br>
 We are currently working on our first album after we joined (Our previous EPs are also available at Monophonic's marketplace)<br>
 In the future, we will work with the company and bring everyone more amazing events and performances.<br>
-Looking forward to meeting everyone~
+Looking forward to meeting everyone\~
 
 Vocalist\_Cherry
 ## Replies
@@ -26,14 +26,14 @@ Vocalist\_Cherry
 OHHHH! You guys are gonna be famous!!
 
 **aasdd**<br>
-So Cherry's becoming a superstar now~ Don't forget me... Q\_Q
+So Cherry's becoming a superstar now\~ Don't forget me... Q\_Q
 
 **CherryPuNK**<br>
 **@aasdd** Ha! Don't be ridiculous
 
 **NEKOSAIKOU**<br>
 It's the band that **@NEKO\#ΦωΦ** recommended a lot!! Must support!!<br>
-But look out though, since Mono is shady-AF LOLOL
+But look out though, since Mono is shady\-AF LOLOL
 
 **D33M0**<br>
 Mono's commission fee is brutal, why would you join it...
@@ -63,7 +63,7 @@ Still prefer the old style though...
 Will the data from the old account stay there? I really like to visit that account to see recreations of your performances!
 
 **CherryPuNK**<br>
-**@KiwaHu** Yes. It's just that there won't be new posts~ the data there will gradually be transferred to this account too
+**@KiwaHu** Yes. It's just that there won't be new posts\~ the data there will gradually be transferred to this account too
 
 **KiwaHu**<br>
 ♡♡♡

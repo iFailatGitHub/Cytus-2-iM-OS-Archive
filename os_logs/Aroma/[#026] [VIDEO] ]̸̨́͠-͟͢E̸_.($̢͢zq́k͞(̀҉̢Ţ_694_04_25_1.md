@@ -15,7 +15,7 @@
 *\[Guitar\]*
 
 **？？？**<br>
-Hmm... Still 8̶̧̀̕~̶͢͞8̸̶͜@̧̡͏̡͡...
+Hmm... Still 8̶̧̀̕\~̶͢͞8̸̶͜@̧̡͏̡͡...
 
 *\[Guitar\]*
 
@@ -30,13 +30,13 @@ Yikes! You sc'҉̷̛̛́r̷͘͢b͏̸̧͝Ǹ̵̕?͏҉͘/̨͠ me...<br>
 Umm... Thanks for the hard work. I've set up all the equipment.
 
 **？？？**<br>
-Haha, wh^̷͜͝҉3͘҉҉҉p̛͏̷̨2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴C̸̨̢̡ work? Thanks 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴~ I'll [͏̴͢͟ś̨[̷̵̨̨͢Z̡̧͢͜͡ keyboard right away. Gimb͏̸̧͝Ǹ̵̕?͏҉͘ minute.
+Haha, wh^̷͜͝҉3͘҉҉҉p̛͏̷̨2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴C̸̨̢̡ work? Thanks 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴\~ I'll [͏̴͢͟ś̨[̷̵̨̨͢Z̡̧͢͜͡ keyboard right away. Gimb͏̸̧͝Ǹ̵̕?͏҉͘ minute.
 
 **？？？**<br>
 Sure... \\̶̶̷̀&̴̡̡͡\_҉̷͜͞;̸͢͞͝d̷̨̛́ restaurant today?
 
 **？？？**<br>
-X̴͟͟Ş͟͜͠\\͞҉͠P̨̛͢\\̷̵̨́'̡̛̛|͠͞ always. +̡͠͡!͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ water, washing ù҉Ś̵̵͟͞es, greeting customers, occasionall y\\͞҉͠P̨̛͢\\̷̵̨́\\͞҉͠P̨̛͢\\̷̵̨́ yelled at by the head chef. My god~ my ears !͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ ringing.
+X̴͟͟Ş͟͜͠\\͞҉͠P̨̛͢\\̷̵̨́'̡̛̛|͠͞ always. +̡͠͡!͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ water, washing ù҉Ś̵̵͟͞es, greeting customers, occasionall y\\͞҉͠P̨̛͢\\̷̵̨́\\͞҉͠P̨̛͢\\̷̵̨́ yelled at by the head chef. My god\~ my ears !͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ ringing.
 
 **？？？**<br>
 Ahaha... He really]̶҉̵͘͝?̵͡\-̸͏̧́̀ǹ̶҉x̶̢
@@ -63,7 +63,7 @@ I see... I hope É̢S̶҉̶̧P̶̵̡͢͠p̡҉͘2̴̶̛͏͟N̸̴̨͞z̵͢͝ś̨
 ......
 
 **？？？**<br>
-Aww, come on~ Why t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ long face! Even [͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ looks sad! e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́ good music with a 3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́
+Aww, come on\~ Why t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ long face! Even [͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ looks sad! e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́ good music with a 3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́
 
 **？？？**<br>
 I, I... I am G̀͜@̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟d̡̛҉x͘͟͝>̶̸xious.<br>
@@ -97,7 +97,7 @@ Huh?
 
 **？？？**<br>
 Noth@̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟... Oh, ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟ starting N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ gather. e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡  ready?<br>
-Ah~Ah~, Mic test, mic test~
+Ah\~Ah\~, Mic test, mic test\~
 
 *\[Audience applauds\]*
 
@@ -105,5 +105,4 @@ Ah~Ah~, Mic test, mic test~
 Ah, just give me3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ond... %̡́̕͞҉{͏̸̶̢͜rry.
 
 ![aos2601.png](./attachments/aos2601.png)
-
 *[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*

@@ -25,7 +25,7 @@ Speculation: Increased value for consumer robot products
 MeowBot! **ヽ(\*Φ∀Φ)八(Φ∀Φ\*)ノ**
 
 **ROBO_Head**<br>
-Analysis: NEKO\#ΦωΦ 's liking of feline animal robots. A psychological projection due to lack of same-age social group. 
+Analysis: NEKO\#ΦωΦ 's liking of feline animal robots. A psychological projection due to lack of same\-age social group. 
 
 **SYY**<br>
 Isn't Colin Neumann Jr. that pretty famous musician ConneR???

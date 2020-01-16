@@ -1,4 +1,4 @@
-# Æsir-FEST memory block corrupted 
+# Æsir\-FEST memory block corrupted 
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -11,7 +11,7 @@
 
 ## Post
 **ROBO_Head**<br>
-Analysis: Accessing Æsir-FEST records...access fail<br>
+Analysis: Accessing Æsir\-FEST records...access fail<br>
 Troubleshoot: Memory block corrupted, reason unknown<br>
 Objective: Reproduce complete memory of event<br>
 Decision: Launch recovery...initializing...

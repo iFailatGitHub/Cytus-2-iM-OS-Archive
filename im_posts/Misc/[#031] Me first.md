@@ -9,7 +9,7 @@
 Let me get everyone some keywords:<br>
 Rookie debut<br>
 Publicity stunt<br>
-Jerry-built<br>
+Jerry\-built<br>
 Not surprised, it's XX
 ## Replies
 **Jingleglimmer**<br>

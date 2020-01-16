@@ -18,7 +18,7 @@ Damnit... I lost!
 NEKO is so amazing!
 
 **NEKO#ΦωΦ**<br>
-Muhaha~ sorry about that, Sis Cherry, but NEKO never goes easy on my opponents when it comes to rhythm games!
+Muhaha\~ sorry about that, Sis Cherry, but NEKO never goes easy on my opponents when it comes to rhythm games!
 
 **Hayato**<br>
 You've never gone easy on anybody no matter what game we play...
@@ -42,7 +42,7 @@ Daigo. Go play with them. Make sure our guests have a good time.*
 M\-M\-Me?
 
 **NEKO#ΦωΦ**<br>
-Eh~? NEKO only wants to play with the best. I don't wanna play with this guy.
+Eh\~? NEKO only wants to play with the best. I don't wanna play with this guy.
 
 **[Nora]**<br>
 *Daigo is quite skilled himself too.<br>

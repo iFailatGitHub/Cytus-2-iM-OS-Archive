@@ -50,7 +50,7 @@ If we think about it carefully, every single human in Node 08 is a user of ARC<b
 I don't think it's too much to ask for a bit of security promise
 
 **HandsomeYi**<br>
-These ungrateful a-holes asking for so much, who would want to be a hero if this is what they get?<br>
+These ungrateful a\-holes asking for so much, who would want to be a hero if this is what they get?<br>
 I support ARC.  Ignore these stupid haters
 
 **AntiMetal**<br>

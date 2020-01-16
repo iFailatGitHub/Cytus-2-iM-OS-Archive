@@ -52,7 +52,6 @@ I'm sorry... you can only observe her through this glass. The patient has lost a
 ... *\*Sniff\**...
 
 ![chos3401.png](./attachments/chos3401.png)
-
 **Jacob**<br>
 If she knows that a friend has come to visit, she will be very happy, I believe. For the past two years, she has had very few visitors besides family members.
 

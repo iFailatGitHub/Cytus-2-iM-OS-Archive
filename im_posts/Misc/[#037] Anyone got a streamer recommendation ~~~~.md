@@ -1,4 +1,4 @@
-# Anyone got a streamer recommendation ~~~~?
+# Anyone got a streamer recommendation \~\~\~\~?
 ## Requirements
 | Character  |Level|
 |------------|:---:|

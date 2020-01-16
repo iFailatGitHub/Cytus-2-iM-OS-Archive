@@ -12,10 +12,10 @@ Kenta, eat it.
 Uhhhh...
 
 **[TV]**<br>
-*Welcome to the "Truth Digger 101" segment~ Tonight's guests...*
+*Welcome to the "Truth Digger 101" segment\~ Tonight's guests...*
 
 **NEKO#ΦωΦ**<br>
-Before you finish it, big sister will not leave this spot. The night is long. We still got plenty~ of time.
+Before you finish it, big sister will not leave this spot. The night is long. We still got plenty\~ of time.
 
 **Kenta**<br>
 *\*Sobs\*...*
@@ -27,7 +27,7 @@ No crying!
 *... Ladies and gentleman! Only three sets left! Call in now at...*
 
 **NEKO#ΦωΦ**<br>
-Ahhh~ This is so damn boring. Why are all the shows so terrible...
+Ahhh\~ This is so damn boring. Why are all the shows so terrible...
 
 **Kouhei**<br>
 Then turn off the TV. Stop skipping through the channels like this.
@@ -71,7 +71,6 @@ Ugh... Head... hurts... a lot...
 Ughh...... AHHHHHHHH!!
 
 ![naos3001.png](./attachments/naos3001.png)
-
 *\[Things crashing\]*
 
 **Kenta**<br>

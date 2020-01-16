@@ -100,7 +100,6 @@ DIE! Die you godforsaken... metal trash...!
 *\[Pulse Pistol Shot\]*
 
 ![cpos0901.png](./attachments/cpos0901.png)
-
 **Diego**<br>
 Hey... That's enough, isn't it? It's already broken.
 

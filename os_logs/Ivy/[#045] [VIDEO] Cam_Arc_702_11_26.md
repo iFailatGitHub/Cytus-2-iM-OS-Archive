@@ -57,7 +57,6 @@ I've scanned everything that has come into this room. I can project it right awa
 Ho? How convenient. I expect no less from you.
 
 ![ivos4501.png](./attachments/ivos4501.png)
-
 **Sagar**<br>
 ... That bastard! He installed a wiretap inside... Damnit, he may have heard our conversation.
 

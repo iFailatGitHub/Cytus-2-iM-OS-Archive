@@ -30,7 +30,7 @@ That's right. We're the ones who NEKO has taken care of instead. We owe her a lo
 Is that so? That's surprising...
 
 **NEKO#ΦωΦ**<br>
-GRAND~ MA~!!
+GRAND\~ MA\~!!
 
 **Saku**<br>
 Haha... Come one in, don't just stand there. Bring your bags inside. Apologies for the small room, but I can ensure you that it is regularly cleaned. If there's any inconvenience, feel free to tell us.
@@ -43,7 +43,7 @@ The room really is very clean. This used to be NEKO's old room, right?
 Ah... is it really okay for us to live here?
 
 **NEKO#ΦωΦ**<br>
-Teehee~ No problem at all! I'm sleeping with mommy tonight! Although not being able to cuddle Aroma\-chan kinda sucks...
+Teehee\~ No problem at all! I'm sleeping with mommy tonight! Although not being able to cuddle Aroma\-chan kinda sucks...
 
 **Saku**<br>
 Haha, for a child your age, you really are clingy...<br>
@@ -59,7 +59,7 @@ Mom? Is your back alright?
 It's fine. I'm feeling pretty good today. About time I do a little exercise too.
 
 **PAFF**<br>
-Thank you so much~ Let us help out too!
+Thank you so much\~ Let us help out too!
 
 *\[Door Opens\]*
 
@@ -111,7 +111,7 @@ EHHH!? You're going to let them stay here until then?
 Yes. Since Miss PAFF is NEKO's friend, mommy trusts her as well. If NEKO wants to help her, it's only natural that mommy helps her to the very end as well.
 
 **NEKO#ΦωΦ**<br>
-*\*Sobs\**~ You're the best mommy in the world...
+*\*Sobs\**\~ You're the best mommy in the world...
 
 **Saku**<br>
 However, mommy needs to remind you, do not get yourself involved in anything dangerous, understand?

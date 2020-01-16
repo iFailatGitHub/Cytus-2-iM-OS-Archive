@@ -21,7 +21,6 @@ Wow... this is so realistic...<br>
 H, hello everyone... My name is...
 
 ![pos0401.png](./attachments/pos0401.png)
-
 *[»»» Fast Forward »»»]*
 
 **PAFF**<br>

@@ -17,11 +17,11 @@ Search Keywords: Æsir, memory loss, NEKO, hack, terrorist attack<br>
 Relevance: High<br>
 Time spread: Past month<br>
 Community preference ranking, from high to low:<br>
-1. [Æsir-FEST] [Internet terrorist attack incidents]<br>
-2. [Memory loss] [Æsir-FEST]<br>
+1. [Æsir\-FEST] [Internet terrorist attack incidents]<br>
+2. [Memory loss] [Æsir\-FEST]<br>
 3. [Streamer] [NEKO] [[Æsir event accomplices] [or mastermind] <br>
-4. [NEKO] [Hacking incident] [Cooked-up by herself]<br>
-5. [Æsir] [Non-human] [Might be A.I.]
+4. [NEKO] [Hacking incident] [Cooked\-up by herself]<br>
+5. [Æsir] [Non\-human] [Might be A.I.]
 ## Replies
 **ROBO_Head**<br>
 Decision: This unit level of agreement with community preference: 37%
@@ -31,7 +31,7 @@ D... Dann<br>
 Robohead's posts always leave me hanging for more!!!
 
 **Fu7ureW0rld**<br>
-D-A-M-N, learn to spell damnit!!!
+D\-A\-M\-N, learn to spell damnit!!!
 
 **Wrinkleheart**<br>
 Why is it that the first comment has nothing to do with the post XDD
@@ -40,10 +40,10 @@ Why is it that the first comment has nothing to do with the post XDD
 Trying to grab some attention aren't you
 
 **SYY**<br>
-Gotcha~~~~~~~~~ you must be Æsir (σ0ω0)σ
+Gotcha\~\~\~\~\~\~\~\~\~ you must be Æsir (σ0ω0)σ
 
 **Flower_Head**<br>
-Æsir give NEKO back to us you a-hole!!!!!!!!!
+Æsir give NEKO back to us you a\-hole!!!!!!!!!
 
 **AvaJaKeLon**<br>
 What kind of idiot will cook themselves up to be the culprit? That doesn't make any sense .\\\_/.

@@ -37,7 +37,7 @@ These blank comments are ˇ̷̡͞1̢͞3̸̷͘4̴͝t̶̕͟͜͡e̸̴̕͟t̵̢͘͡r
 Well, you didn't get blanked, but you got garbled XD
 
 **DiiR**<br>
-Not just the internet, the remote-controlled devices in my home are all going bonkers too...
+Not just the internet, the remote\-controlled devices in my home are all going bonkers too...
 
 **Anti_iM**<br>
 Time to switch 5̶́s̸͞҉̸u̶͜j̢̀̀ŗ́͢y̴̢͘͜k҉̵́͟D̷̡́F̵̵́͟4̀̀̕͡͡é̷ì̕͟͟

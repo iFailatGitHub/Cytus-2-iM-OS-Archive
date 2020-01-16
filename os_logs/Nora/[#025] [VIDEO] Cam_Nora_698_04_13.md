@@ -92,7 +92,6 @@ Therefore, this unit, not defective product that should be discarded.*
 ......
 
 ![noos2501.png](./attachments/noos2501.png)
-
 **[Nora]**<br>
 *... Maybe we should shut you down first. It's necessary that we do a complete diagnosis of your core system. <br>
 Activate shutdown command. Enter voiceprint password: [NORA].*

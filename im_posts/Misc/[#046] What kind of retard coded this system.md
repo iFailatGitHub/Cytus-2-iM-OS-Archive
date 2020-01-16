@@ -21,7 +21,7 @@ Could it be that there are simply too many connections all at once??
 From what I've heard the physical locations aren't any better either
 
 **T.Goldwell**<br>
-Holy s\*\*\* XDDDDD Guys, I think we just found the newest internet fad: the refund challenge~~~~~ XDD
+Holy s\*\*\* XDDDDD Guys, I think we just found the newest internet fad: the refund challenge\~\~\~\~\~ XDD
 
 **MustangMartin**<br>
 I just got lost in the refund system. It was horrible <br>

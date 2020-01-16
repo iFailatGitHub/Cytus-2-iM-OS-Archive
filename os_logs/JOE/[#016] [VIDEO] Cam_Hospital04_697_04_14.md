@@ -11,7 +11,7 @@
 
 ## Log Content
 **JOE**<br>
-Hi~ How are you doing today?
+Hi\~ How are you doing today?
 
 **Saxon**<br>
 The doctor said I can have one drink today.

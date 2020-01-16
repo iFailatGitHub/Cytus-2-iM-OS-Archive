@@ -22,10 +22,10 @@ Really!? Yeah, you did. My math was terrible. I had to rely on Aroma all the tim
 I'm so happy; another thing that you remembered!
 
 **Classmate C**<br>
-Ho~? Really? Then that's great. You're starting to remember things about Iris one at a time.
+Ho\~? Really? Then that's great. You're starting to remember things about Iris one at a time.
 
 **Classmate D**<br>
-Yet you didn't remember any~ thing about me. I'm so sad~ Or could you choose what you forget?
+Yet you didn't remember any\~ thing about me. I'm so sad\~ Or could you choose what you forget?
 
 **Other classmates**<br>
 Pffft... Hehe...
@@ -40,7 +40,7 @@ You guys... What are you doing?
 Nothing though? We want to be friends with Aroma too. You have a problem with that?
 
 **Classmate D**<br>
-Are you okay with that, Aroma? Are we qualified to keep being your friends? We used to be good friends too~ Or do you only remember this dorky loser?
+Are you okay with that, Aroma? Are we qualified to keep being your friends? We used to be good friends too\~ Or do you only remember this dorky loser?
 
 **Iris**<br>
 ......
@@ -61,7 +61,7 @@ Nice! That's so cool! Let me give it a go!
 You guys! If you keep this up I'll call Clara here!
 
 **Classmate C**<br>
-Ooh, so you're calling the class rep. I'm so scared~ or maybe she won't come cause she's the one that hates Aroma the most?
+Ooh, so you're calling the class rep. I'm so scared\~ or maybe she won't come cause she's the one that hates Aroma the most?
 
 **Classmate D**<br>
 Haha, that's true. Since all her crush sees is Aroma and not her.
@@ -80,7 +80,6 @@ Woah... she fell down! Hey! Are you faking it so we get points deducted by the s
 Hmmmm... OUCH!?
 
 ![aos0801.png](./attachments/aos0801.png)
-
 **Aroma**<br>
 ... Help her up.
 

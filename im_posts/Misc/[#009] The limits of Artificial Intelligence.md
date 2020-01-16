@@ -12,7 +12,7 @@ I know technology is quite developed right now. However, Artificial Intelligence
 I thought it's a serious discussion based on the topic; turns out is buncha nonsense...  
 
 **KirinKiraKira**<br>
-What are you talking about... did you realize that's the dream of countless single men? Don't act that you never thought of that you nerd~
+What are you talking about... did you realize that's the dream of countless single men? Don't act that you never thought of that you nerd\~
 
 **Uctron_Rust**<br>
 As of now, the peak of AI should be **@ROBO\_Head**, right? He can even create his own music

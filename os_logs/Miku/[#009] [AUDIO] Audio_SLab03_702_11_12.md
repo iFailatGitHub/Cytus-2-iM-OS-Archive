@@ -37,7 +37,7 @@ Yes. I understand that I'm not a real person. Nevertheless, I know that the happ
 Ho? With that noisy music of yours?
 
 **Miku**<br>
-My music is not noisy~ I bet you've never properly listened to any of my songs, right?
+My music is not noisy\~ I bet you've never properly listened to any of my songs, right?
 
 **Furuhata**<br>
 No, and I'm not interested. Alright, now be quiet and let me work.
@@ -74,7 +74,7 @@ So you kept me around just so you can test this thing...? Unbelievable... Cold\-
 ... Whatever you say. Your personality was written by me anyway. 
 
 **Miku**<br>
-Muuuu~!
+Muuuu\~!
 
 *[»»» Fast Forward 24 hours»»»]*
 
@@ -110,8 +110,8 @@ Must be for your family, right? I heard before that you have a wife. Isn't that 
 ... If my child is as annoying as you are, then I am very fortunate to not have one.
 
 **Miku**<br>
-Muuuu~!<br>
-Ah, right! This... Is this a photo of your wife? Such a beautiful person~ What's her name?<br>
+Muuuu\~!<br>
+Ah, right! This... Is this a photo of your wife? Such a beautiful person\~ What's her name?<br>
 Ah! The one next to her is your child, right?
 
 **Furuhata**<br>

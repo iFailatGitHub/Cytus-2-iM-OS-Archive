@@ -58,7 +58,7 @@ OK... Daddy just doesn't want you to be unhappy.
 I'm sorry; daddy's such a useless daddy.
 
 **Cherry**<br>
-No kidding. You rea~lly are a useless daddy. *\*Chuckles\**
+No kidding. You rea\~lly are a useless daddy. *\*Chuckles\**
 
 **Luis**<br>
 Woah! Directly hearing it from Sherry still hurts quite a bit. Haha...

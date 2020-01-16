@@ -14,7 +14,7 @@
 Then that's it for today's meeting. We would like you to address the aforementioned notes. Thank you.
 
 **[Event Organizer]**<br>
-*Got it. We are all very excited about PAFF's amazing performance. Bye bye~*
+*Got it. We are all very excited about PAFF's amazing performance. Bye bye\~*
 
 **Helena**<br>
 Whew, finally done with that. Aroma, you must be hungry, right?
@@ -86,7 +86,7 @@ Woah! See, even the usually uninterested PAFF is saying she wants to give it a t
 Eh? Was I like that...?
 
 **Helena**<br>
-Hmmm... PAFF's work for the past 2~3 years are all covers and arrangements. Putting out a "singer\-songwriter" tag at this time will certainly help her increase her audience reach too.
+Hmmm... PAFF's work for the past 2\~3 years are all covers and arrangements. Putting out a "singer\-songwriter" tag at this time will certainly help her increase her audience reach too.
 
 **Chris**<br>
 Right? PAFF, you want to try writing a song on your own, don't you?

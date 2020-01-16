@@ -1,4 +1,4 @@
-# Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno~~
+# Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -6,10 +6,10 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Nyan Nyan Nyan Nyan Nyan ~ Meow Meow Meow~ So many people have been PMing NEKO for the past two days σ(Φ∀Φ)σ<br>
+Nyan Nyan Nyan Nyan Nyan \~ Meow Meow Meow\~ So many people have been PMing NEKO for the past two days σ(Φ∀Φ)σ<br>
 My inbox is gonna Explode! LMFAO XDDDD<br>
 ENOUGH! No more questions!!!!<br>
-The answer to that is~~~~ Nyan nyan~ Nyan Nyan Nyan Nyan σ(Φ∀Φ)σ
+The answer to that is\~\~\~\~ Nyan nyan\~ Nyan Nyan Nyan Nyan σ(Φ∀Φ)σ
 
 NEKO will be gracing ROBO\_Radio\_LIVE to bombard everyone's eardrums!!!!!!/(Φ口Φ)/
 
@@ -29,7 +29,7 @@ NEKO always throws in random mixtapes whenever she's performing live. She has no
 [User is now banned.]
 
 **MYMYM**<br>
-This line-up is getting more and more stacked!!! I'm going to skip work to watch this. NEKO 4 life!!!!
+This line\-up is getting more and more stacked!!! I'm going to skip work to watch this. NEKO 4 life!!!!
 
 **ROBO_Head**<br>
 Analysis: Mentions of performance, massive increase of 355% after post was made <br>
@@ -41,7 +41,7 @@ This unit still appreciates **@NEKO\#ΦωΦ** for agreeing to perform on ROBO\_R
 
 **NEKO#ΦωΦ**<br>
 What do you mean "Mixed responses"!!!!! \\(Φˋ口ˊΦ)/<br>
-Stupid tin can~~~~~~~\\(Φˋ口ˊΦ)/
+Stupid tin can\~\~\~\~\~\~\~\\(Φˋ口ˊΦ)/
 
 **Cherry**<br>
 Very honored to be able to perform with NEKO<br>
@@ -49,7 +49,7 @@ Let's work together<br>
 to present the perfect performance to the audience
 
 **NEKO#ΦωΦ**<br>
-Teehee~ together~(\*Φ∀Φ)♥
+Teehee\~ together\~(\*Φ∀Φ)♥
 
 **aidan**<br>
 Poor ROBO, having to provide the URL himself XDDD Ticket purchased already!!
@@ -65,16 +65,16 @@ I won't go even if you pay me. I would rather wait for ConneR sensei's next conc
 NEKO is my waifu ♡♡♡♡♡
 
 **JOEZ Cafe**<br>
-Ohhhhh so the little wildcat is participating as well. My eardrums are definitely well-trained and prepared for this occasion!!<br>
+Ohhhhh so the little wildcat is participating as well. My eardrums are definitely well\-trained and prepared for this occasion!!<br>
 After everything wraps up, come to JOEZ Cafe for a celebration!!<br>
 I will prepare your favorite Snow White Nyan Special!! ALL!!YOU!!!CAN!!DRINK!!!!!!!<br>
-Nyan~<br>
+Nyan\~<br>
 **\#SnowWhiteNyanSpecialOnSaleNow**<br>
 **\#MilkIsCheapNowAnyway**<br>
 **\#Get20$DiscountOnDrinksWithROBO\_Radio\_LIVETickets**
 
 **Shibawu**<br>
-King of Germs owner for the love of god can you stop imitating NEKO lololol. Have some self-conscious about how old you are.<br>
+King of Germs owner for the love of god can you stop imitating NEKO lololol. Have some self\-conscious about how old you are.<br>
 Also \#ShamelessPlug would be more accurate LOLOLOL
 
 **NEKO#ΦωΦ**<br>

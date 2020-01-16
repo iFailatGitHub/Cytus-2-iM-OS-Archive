@@ -12,7 +12,6 @@ Not bad. Boy, you've been improving fast recently.
 I know that!
 
 ![jos0701.png](./attachments/jos0701.png)
-
 **Saxon**<br>
 Keep your pride in check. Overall, your play is still too rash. You can't just ignore the tempo and play random notes... <br>
 If you are playing in a band, the drummer is definitely going to throw drumsticks at you.
@@ -46,7 +45,7 @@ If not for the injury to my ear, I may still be playing music now...<br>
 Now, all I can do is teach a little retard how to play BASS... *\*Sighs\** man, how life can change.
 
 **JOE**<br>
-If not for the arrow I took in the knee, I am still an adventurer~<br>
+If not for the arrow I took in the knee, I am still an adventurer\~<br>
 Sidenote, what do you actually do in a band? Practice, perform, have s\*\*?
 
 **Saxon**<br>

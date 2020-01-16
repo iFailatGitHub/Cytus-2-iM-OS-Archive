@@ -16,7 +16,7 @@ The transporter is over there. Thank god we made it in time. Let's go, Mad Dog. 
 *\[Moves Cargo\]*
 
 **Hunter**<br>
-Hnnngh~ Dang, this s\*\*\* is heavy...
+Hnnngh\~ Dang, this s\*\*\* is heavy...
 
 **Cherry**<br>
 Don't be such a p\*\*\*\*.

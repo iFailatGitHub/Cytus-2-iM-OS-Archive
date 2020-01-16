@@ -79,7 +79,7 @@ Got it. I'll be waiting in the shop<br>
 
 **Cherry**<br>
 Just a heads up, don't get wasted by me before your customers show up, 
-Alcohol Master~<br>
+Alcohol Master\~<br>
 *[Sent at AM 10:08]*
 
 **Cherry**<br>

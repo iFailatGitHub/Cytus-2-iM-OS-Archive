@@ -39,7 +39,7 @@ Instant Ban lmfao XDD
 It p\*\*\*\* me off so hard when I remember one of NEKO's compositions was taken by them GRRRRR(Φ皿Φ╬)!
 
 **NEKOSAIKOU**<br>
-Not surprised. Mono is a bunch of retarded A-holes. Good thing NEKO is no longer under their contract
+Not surprised. Mono is a bunch of retarded A\-holes. Good thing NEKO is no longer under their contract
 
 **Poopytrap**<br>
 It's not the first time Mono is accused of plagiarism. They don't give a damn about copyright
@@ -67,7 +67,7 @@ Another time we accidentally bumped into each other in the elevator; it's the ag
 NEKO 's raging HARD <3 lolol
 
 **NEKO#ΦωΦ**<br>
-Is she speech-impaired or what? During my time at Mono I never heard her say a single word (((  ΦдΦ  )))
+Is she speech\-impaired or what? During my time at Mono I never heard her say a single word (((  ΦдΦ  )))
 
 **NEKO#ΦωΦ**<br>
 I bet her singing voice is completely synthesized <br>

@@ -24,10 +24,10 @@ Ladies and germs, meet Robo\_head the super manager!! Seriously how in the world
 Organizing three blocks worth of data everyday is already killing me X\_X
 
 **Cloria72**<br>
-Personally, I think Robo-kun is online 24/7
+Personally, I think Robo\-kun is online 24/7
 
 **Cyd_Mire**<br>
-**@ROBO\_Head** Can you delete my post on the traffic report forum, the one that is blowing up now pretty please~ 
+**@ROBO\_Head** Can you delete my post on the traffic report forum, the one that is blowing up now pretty please\~ 
 
 **ROBO_Head**<br>
 Rejected. Requested data does not require deletion.

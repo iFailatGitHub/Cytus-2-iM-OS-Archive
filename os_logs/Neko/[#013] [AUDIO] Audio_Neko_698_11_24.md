@@ -14,16 +14,16 @@ Ha...... Ha...... Sorry, I'm a little late.
 What "a little"... You're the one that said 09:30, right? It's already 10:12 now.
 
 **Neko**<br>
-Muuuu~ This is not the respond NEKO was hoping for...
+Muuuu\~ This is not the respond NEKO was hoping for...
 
 **Xenon**<br>
 Where's the cat?
 
 **Neko**<br>
-Ah, it's here~ NEKO even bought some expensive cat food for it...... They are all here.
+Ah, it's here\~ NEKO even bought some expensive cat food for it...... They are all here.
 
 **Cat**<br>
-Meow~
+Meow\~
 
 **Xenon**<br>
 Good. Give it to me.<br>
@@ -37,7 +37,7 @@ Then, I'll be taking my leave.
 I'm taking the cat to my friend. What else do you think I'm going to do?
 
 **Neko**<br>
-NEKO took a really~~ long trip here! Yet you just took it and left? That's NOT how you do things! At least let NEKO see who are you giving the cat to!
+NEKO took a really\~\~ long trip here! Yet you just took it and left? That's NOT how you do things! At least let NEKO see who are you giving the cat to!
 
 **Xenon**<br>
 ... Fine, fine; do as you please.<br>
@@ -52,7 +52,7 @@ Rest assured, the owner is a good person, I think.
 *[»»» Fast Forward»»»]*
 
 **Neko**<br>
-Nah~ are we not there yet? NEKO's feet are aching...
+Nah\~ are we not there yet? NEKO's feet are aching...
 
 **Xenon**<br>
 Almost there.
@@ -125,7 +125,7 @@ Eh? Yeah... how did you know?
 Just a guess... then I'll leave it at that. Nevertheless, Node 08 at night is not as safe as you imagined. You're a girl after all; you should be more careful yourself.
 
 **Neko**<br>
-Ok, ok~ So turns out that Xenon is the type who lectures people a lot...
+Ok, ok\~ So turns out that Xenon is the type who lectures people a lot...
 
 **Xenon**<br>
 Shut it... we're here.
@@ -134,7 +134,7 @@ Shut it... we're here.
 
 **Neko**<br>
 JOZ......Cafe?<br>
-Ho~? A music bar, eh? Feels really nice.
+Ho\~? A music bar, eh? Feels really nice.
 
 **Xenon**<br>
 You can go in when you are 20.<br>

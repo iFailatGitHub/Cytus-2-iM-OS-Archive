@@ -21,7 +21,7 @@
 Xenon was so cool! That performance was so good!
 
 **Neko**<br>
-No kidding~
+No kidding\~
 
 **Linda**<br>
 Ah, the bus service is almost ending. We better get moving.
@@ -33,13 +33,13 @@ Ummm... NEKO wants to stay here a bit longer. Linda\-chan, you can go back first
 Eh? This place will become a bar very soon...
 
 **Neko**<br>
-NEKO will leave before 12:00 am, so no need to worry~
+NEKO will leave before 12:00 am, so no need to worry\~
 
 **Linda**<br>
 Alright... be careful yourself. If you wander around outside past midnight, drones and law enforcement agents will start to harass you.
 
 **Neko**<br>
-I know, I know~
+I know, I know\~
 
 *[»»» Fast Forward»»»]*
 
@@ -96,7 +96,7 @@ Why didn't you just continue using the name "Simon"? Your music will be so much 
 This bulls\*\*\* reasoning again...
 
 **Neko**<br>
-He~? Is this the reason behind the disbandment?
+He\~? Is this the reason behind the disbandment?
 
 **Bartender**<br>
 Haha... Little girl, just give up. He's not gonna talk.
@@ -108,7 +108,7 @@ Who you calling little girl!? NEKO is already 16!
 ... On a side note, that cat last time, what happened afterward?
 
 **Neko**<br>
-Ah, it's still in NEKO's room... But NEKO's house doesn't have a pet registration, and there's someone who's allergic to cats... Right now, I'm pretty much just raising it in secret. So troublesome~~~
+Ah, it's still in NEKO's room... But NEKO's house doesn't have a pet registration, and there's someone who's allergic to cats... Right now, I'm pretty much just raising it in secret. So troublesome\~\~\~
 
 **Xenon**<br>
 ... I do know someone who might be able to adopt it, but that dude already has a dog...
@@ -120,7 +120,7 @@ Really!? Can you please ask him?
 Alright. I'll ask.
 
 **Neko**<br>
-You're my savior~ Or else NEKO's gonna get busted by my family anytime soon...<br>
+You're my savior\~ Or else NEKO's gonna get busted by my family anytime soon...<br>
 Let's exchange iM so we can better communicate with each other!
 
 **Xenon**<br>
@@ -129,13 +129,13 @@ Sure.
 *\[iM exchange\]*
 
 **Neko**<br>
-Yeah~ Xenon's iM get!
+Yeah\~ Xenon's iM get!
 
 **Xenon**<br>
 ... Don't send it to some random stranger.
 
 **Neko**<br>
-No worries, I won't! NEKO is very good at keeping secrets~ Oh, and NEKO won't spill the secret that Xenon is Simon as well!
+No worries, I won't! NEKO is very good at keeping secrets\~ Oh, and NEKO won't spill the secret that Xenon is Simon as well!
 
 **Xenon**<br>
 Aren't you spilling it right now...?

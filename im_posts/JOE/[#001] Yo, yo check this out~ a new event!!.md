@@ -1,4 +1,4 @@
-# Yo, yo check this out~ a new event!!
+# Yo, yo check this out\~ a new event!!
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -6,11 +6,11 @@
 
 ## Post
 **JOEZ Cafe**<br>
-Purchase a drink at JOEZ Café now and check-in on iM to get the tomato-flavored craft beer for free!<br>
-The latest fresh fruit beer -- YAMAMETO<br>
+Purchase a drink at JOEZ Café now and check\-in on iM to get the tomato\-flavored craft beer for free!<br>
+The latest fresh fruit beer \-\- YAMAMETO<br>
 Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece<br>
-Served in a wacky-shaped bottle, it will impact your senses both taste-wise and visual-wise.<br>
-Check-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
+Served in a wacky\-shaped bottle, it will impact your senses both taste\-wise and visual\-wise.<br>
+Check\-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
 
 ![j0101.png](./attachments/j0101.png)
 ## Replies
@@ -19,13 +19,13 @@ It all sounds pretty awesome in the beginning<br>
 but what's with the King of Germs owner at the end?? LOL
 
 **STANley**<br>
-I've tasted tomoto-flavored cocktails, but I've never heard about tomato-flavored beer...
+I've tasted tomoto\-flavored cocktails, but I've never heard about tomato\-flavored beer...
 
 **Zigzag**<br>
 Wouldn't it taste like Borscht??
 
 **NnNn**<br>
-Just checked-in and I actually got a whole bottle!! First!!
+Just checked\-in and I actually got a whole bottle!! First!!
 
 **SIhama**<br>
 Quick! Tell us what it tastes like lol
@@ -37,7 +37,7 @@ Waiting for a brave one to sacrifice himself
 CHUG! CHUG! CHUG!
 
 **NnNn**<br>
-It's... it's so... unique~~~~<br>
+It's... it's so... unique\~\~\~\~<br>
 Every single one of you better come here and drink a whole bottle!!<br>
 **\#SpreadTheTaste**
 

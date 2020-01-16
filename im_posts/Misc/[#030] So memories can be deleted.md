@@ -8,7 +8,7 @@
 
 ## Post
 **Mohito**<br>
-I was an audience at Æsir-FEST. Before I don't remember seeing Æsir on stage when recalling this event. I get sick and my memory is blurry.<br>
+I was an audience at Æsir\-FEST. Before I don't remember seeing Æsir on stage when recalling this event. I get sick and my memory is blurry.<br>
 After reading Robo\_head's post, I am very certain that Æsir did take the stage and perform that day. I'm also quite confident that this is my actual/correct memory. <br>
 If this really is the doing of a hacker or virus, this means that memories can be deleted through virtual connection. Therefore I would advise everyone to stay away from it.
 ## Replies

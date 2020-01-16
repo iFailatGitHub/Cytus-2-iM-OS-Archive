@@ -29,7 +29,7 @@ Mass produce +1
 It's finally heeeerrreee!!!! \\x/\\x/\\x/\\x/
 
 **Fu7ureW0rld**<br>
-I'm E-X-C-I-T-E-DDDD!!! \\x/
+I'm E\-X\-C\-I\-T\-E\-DDDD!!! \\x/
 
 **Wrinkleheart**<br>
 The sound quality is amazing! Regular guitars just can't produce sounds like that XD

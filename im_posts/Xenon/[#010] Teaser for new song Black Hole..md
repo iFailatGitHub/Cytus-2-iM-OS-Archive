@@ -15,7 +15,7 @@ For the first reveal, it will be a small Live at cyTus virtual space. Those who 
 Hint: That day this Unit will be in status of: unable to connect. ：(
 
 **Xenon**<br>
-**@ROBO\_Head** Still fixing Æsir-FEST's data? You've been at it for too long. 
+**@ROBO\_Head** Still fixing Æsir\-FEST's data? You've been at it for too long. 
 
 **ROBO_Head**<br>
 Use of "Too long" negative. <br>
@@ -56,7 +56,7 @@ Here comes the optic guitar XDD
 Awaiting!! \\x/\\x/
 
 **Pumpkinforest**<br>
-Immediate subscribe~
+Immediate subscribe\~
 
 **Fu7ureW0rld**<br>
 YAAASSSSSSS!!! \\x/\\x/\\x/\\x/\\x/

@@ -6,21 +6,21 @@
 
 ## Log Content
 **Punk**<br>
-Meow~
+Meow\~
 
 **Cherry**<br>
 Ummm.... this is... my home?<br>
 Ah, right... JOE escorted me home...
 
 **Punk**<br>
-Meow~
+Meow\~
 
 **Cherry**<br>
-What's the matter, Punk? You hungry? Sorry, sorry; I'll go fix you some food now~<br>
+What's the matter, Punk? You hungry? Sorry, sorry; I'll go fix you some food now\~<br>
 Owww...... my head hurts...
 
 **Punk**<br>
-Meow~
+Meow\~
 
 **Cherry**<br>
 Hey! What are you eating!? You can't just eat random things! Spit it out!<br>

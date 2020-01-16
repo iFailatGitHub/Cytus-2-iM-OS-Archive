@@ -25,7 +25,7 @@ Man, how lazy can you be?<br>
 Those who are slothful do not have the right to pursue the truth (In Sensei's tone)
 
 **ConneR**<br>
-Extra note here. A.R.C. originally provided me with a pre-determined handout. They wanted me to give my lecture according to that handout. That file was categorized as spam by my firewall program and deleted alongside other malicious emails. Therefore, I will be using my own material to give the lecture.
+Extra note here. A.R.C. originally provided me with a pre\-determined handout. They wanted me to give my lecture according to that handout. That file was categorized as spam by my firewall program and deleted alongside other malicious emails. Therefore, I will be using my own material to give the lecture.
 
     In addition, please don't bring any mobile devices or recording equipment to my lectures. I will not prepare any visual aid or handouts for my presentation either. What I'm going to tell you requires no notes; all you need are your ears to hear me talk and your heart to feel my words. I guarantee that you will gain a lot by simply doing what I said.
 
@@ -33,18 +33,18 @@ Extra note here. A.R.C. originally provided me with a pre-determined handout. Th
 Hahaha ConneR sensei's firewall program matches his own personality XDDD
 
 **SIhama**<br>
-It's not Dr. ConneR if he teaches according to ARC's handouts~~ Registered for all the lectures already!!
+It's not Dr. ConneR if he teaches according to ARC's handouts\~\~ Registered for all the lectures already!!
 
 **T.Goldwell**<br>
 The website experienced so much traffic that it's starting to lag... Must be quite the shocker for the Academy
 
 **ROBO_Head**<br>
-Analysis: Searches on Academy curriculum increase by 58%. Reached 10-year peak, still increasing by the minute<br>
+Analysis: Searches on Academy curriculum increase by 58%. Reached 10\-year peak, still increasing by the minute<br>
 Action: Successfully registered with block administrators' priority internet access：)
 
 **T3RA_wr47h**<br>
 Wait Robohead that's cheating lmfao<br>
-Dang that block admin internet sure is fast~
+Dang that block admin internet sure is fast\~
 
 **NerfThat**<br>
 ROBO's getting more and more delightful these days XDDD I'm starting to believe that there's an actual person behind him

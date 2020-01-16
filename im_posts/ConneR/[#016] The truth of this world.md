@@ -42,5 +42,5 @@ Just look at the recent drone incident, so much technology we still can't contro
 Follow Sensei and find the Truth!!!
 
 **SIhama**<br>
-Follow Sensei~~~
+Follow Sensei\~\~\~
 

@@ -11,7 +11,7 @@ Since I was so busy with work I missed the first chance to snap up a ticket. If 
 
 ## Replies
 **Axroid_Sona**<br>
-I only have a ticket for virtual area A, is that OK? Get a bit sick every time I attend a virtual concert since Æsir-FEST, so would like to sell my virtual ticket
+I only have a ticket for virtual area A, is that OK? Get a bit sick every time I attend a virtual concert since Æsir\-FEST, so would like to sell my virtual ticket
 
 **Xenon**<br>
 If I still can't get anything until next week I'll buy your virtual ticket. Still prefer hearing it in person. The organizer this time, PA, is not exactly good at adjusting virtual sound field. Had a bad experience last time... thanks anyway.

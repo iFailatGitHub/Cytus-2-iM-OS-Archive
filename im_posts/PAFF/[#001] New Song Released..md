@@ -58,7 +58,7 @@ PAFF do you remember me? The one that gave you chocolate at the last event!!
 I want to sing as well as PAFF
 
 **beeeeeeeeee**<br>
-How can it be so gooooddd~ QAQ
+How can it be so gooooddd\~ QAQ
 
 **CyKa**<br>
 It's amazing!!!! Love you PAFF!!
@@ -67,7 +67,7 @@ It's amazing!!!! Love you PAFF!!
 Keep it up PAFF^^
 
 **MustangMartin**<br>
-Your voice is very charming indeed ~~ <3
+Your voice is very charming indeed \~\~ <3
 
 **MAN_Dora**<br>
 ♡♡♡♡

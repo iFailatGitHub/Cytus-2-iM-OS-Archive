@@ -79,7 +79,7 @@ What's the matter? Are you still nervous?
 Ah, it's from Chris.
 
 **[Chris]**<br>
-*Hi~ Just calling in for a quick reminder. Practice starts at 10.*
+*Hi\~ Just calling in for a quick reminder. Practice starts at 10.*
 
 **Helena**<br>
 Got it. We are already on our way.
@@ -97,7 +97,6 @@ She's right next to me. However, it seems like she's still a bit anxious...
 OK. Aroma, it's Chris.
 
 ![pos0902.png](./attachments/pos0902.png)
-
 **Helena**<br>
 AROMA！！！
 

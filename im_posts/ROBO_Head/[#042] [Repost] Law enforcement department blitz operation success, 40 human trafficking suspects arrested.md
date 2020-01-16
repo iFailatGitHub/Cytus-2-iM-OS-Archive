@@ -7,7 +7,7 @@
 ## Post
 **ROBO_Head**<br>
 [News][Administration Bureau][Law Enforcement Department][Human Trafficking][Pedophile][Cleanup Blitz]<br>
-> In an attempt to stop cross-Node human trafficking and online sex crimes which target young children, after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles were among the criminals arrested. What's even more horrifying was that among the human trafficking group suspects, retired law enforcement agents and multiple minor gang members were also part of them.<br>
+> In an attempt to stop cross\-Node human trafficking and online sex crimes which target young children, after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles were among the criminals arrested. What's even more horrifying was that among the human trafficking group suspects, retired law enforcement agents and multiple minor gang members were also part of them.<br>
 > <br>
 > Davis, the head of A.R.C's internet security department who assisted the Administration Bureau in this operation, also stated that the human trafficking groups use the black market and encrypted internet connections for things like information trades and contraband transactions. However, under the assistance of A.R.C., the Administration Bureau was able to get their hands on a large amount of evidence, which allowed them to strike preemptively and crack this case.<br>
 > <br>

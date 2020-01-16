@@ -22,7 +22,7 @@ Something like that???
 What is this, an ultimate challenge to our humanity XDD I feel like it's definitely going to fail because there will never be a winner lol
 
 **HandsomeYi**<br>
-Tbh I don't think it's that bad of an idea. It would be quite the wake-up call
+Tbh I don't think it's that bad of an idea. It would be quite the wake\-up call
 
 **KiwaHu**<br>
 Teammates: Hey, we got a gun here. Let's pick it up so players who want to hurt others won't get it.
@@ -45,7 +45,7 @@ In the end, in order to determine who is truly "dangerous", a conflict will brea
 Wait, then we're reverting back to an actual battle royale again WTH XDDDD
 
 **Hulujam**<br>
-Yes, this is human nature after all~~~~
+Yes, this is human nature after all\~\~\~\~
 
 **HC**<br>
 All this discussion yet not a single actual recommendation in this thread dafuq XDDDDD

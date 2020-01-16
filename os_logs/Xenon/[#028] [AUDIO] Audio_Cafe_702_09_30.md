@@ -117,7 +117,7 @@ Whenever I see these retards, that idea will still pop into my mind from time to
 After all, what I'm doing at A.R.C. now is more or less the same thing. Only difference is now it has a "legal" label on it. 
 
 **JOE**<br>
-Tch~ You could've made a s\*\*\* ton of money too.
+Tch\~ You could've made a s\*\*\* ton of money too.
 
 **Xenon**<br>
 ... The stink of money in that brain of yours is definitely going to get you screwed someday.
@@ -129,7 +129,7 @@ Tch~ You could've made a s\*\*\* ton of money too.
 ... What's wrong?
 
 **JOE**<br>
-Haha... That advice may have come a tad~ bit too late.
+Haha... That advice may have come a tad\~ bit too late.
 
 **Xenon**<br>
 ......

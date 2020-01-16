@@ -35,7 +35,7 @@ Haha... good girl. Here, let's go inside.
 *\[Door Opens\]*
 
 **Kaori**<br>
-Wow, it smells so nice~
+Wow, it smells so nice\~
 
 **Saku**<br>
 Because it happens to be lunch time, Kaori\-chan!
@@ -84,7 +84,7 @@ Why did you give it to her first! Do you like her more than me!?
 P, please wait... I'll be right there...
 
 **Kaori**<br>
-STOP~!!<br>
+STOP\~!!<br>
 Everyone, no rushing!
 
 **???**<br>
@@ -116,15 +116,14 @@ Ah, okay...
 This one is for you.
 
 **Little Boy B**<br>
-It smells so good~ Thank you, big brother!
+It smells so good\~ Thank you, big brother!
 
 **???**<br>
 ... Haha.
 
 ![pos4101.png](./attachments/pos4101.png)
-
 **Kaori**<br>
-Hey, you look good with a smile~ When did you come here?
+Hey, you look good with a smile\~ When did you come here?
 
 **???**<br>
 R, recently...

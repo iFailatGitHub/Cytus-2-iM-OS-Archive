@@ -7,7 +7,7 @@
 ## Post
 **ShrimpBye**<br>
 Æsir (I think it should be fair to directly call him Simon or Xenon now)<br>
-is totally a legendary performance artist~~~~~
+is totally a legendary performance artist\~\~\~\~\~
 
 When he debuted, he only distributed music on the internet for free: A rebellious attitude to the pop music industry that only cares about money
 
@@ -17,7 +17,7 @@ At the end of the Live, erase everyone's memory and take it away: A sign that ar
 
 Hacking of an annoying streamer: A warning to ignorant brats. The world of the internet is not a place for you naive children to be messing around in
 
-Real identity discovered: Everything turns out to be planned by the seemingly self-righteous and self-proclaimed "defender of justice" Xenon. A lesson that tells everyone to not trust shallow and egotistical truths so easily
+Real identity discovered: Everything turns out to be planned by the seemingly self\-righteous and self\-proclaimed "defender of justice" Xenon. A lesson that tells everyone to not trust shallow and egotistical truths so easily
 ## Replies
 **Miyoko1212**<br>
 I almost believed you, ALMOST
@@ -52,7 +52,7 @@ Holy s\*\*\* This is the most amazing speculation I've seen since this incident 
 Can I repost it to my private chat group XDDDD
 
 **Copper_stone**<br>
-So... he performance-arted himself to an arrest? Is he stupid or what<br>
+So... he performance\-arted himself to an arrest? Is he stupid or what<br>
 Many of them pretty serious crimes too
 
 **Fu7ureW0rld**<br>
@@ -70,7 +70,7 @@ OP, have you ever consider starting a cult?<br>
 You seem pretty good at BSing people
 
 **Gearz_Igo**<br>
-Hey look, it's friends who know how to talk nonsense~~~
+Hey look, it's friends who know how to talk nonsense\~\~\~
 
 **Trashtalker**<br>
 I'm also a performance artist. I oversleep and is late for school every day. I use my personal experience to prove the importance of time management since I overslept for my midterm and is now completely f\*\*\*ed

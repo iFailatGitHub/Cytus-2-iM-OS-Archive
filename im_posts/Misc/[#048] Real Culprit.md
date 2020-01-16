@@ -20,7 +20,7 @@ You only find out who is swimming naked when the tide goes out
 Look at those idiots scrambling for their pants
 
 **AntiNEKO**<br>
-I'm anti-NEKO I don't care I'm gonna file a complaint to the admins
+I'm anti\-NEKO I don't care I'm gonna file a complaint to the admins
 
 **Muahaha**<br>
 Not a criminal now doesn't mean she won't be a criminal in the future!!<br>

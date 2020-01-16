@@ -31,7 +31,7 @@ Speaking of which, didn't think big sis would actually accept this case... Is th
 If it's about shooting guns, I won't fail. You, on the other hand, tagging along despite your crappy aim... Just don't forget to hide behind me.
 
 **JOE**<br>
-Haha, big sis is such a boss~ No need to worry, I just have to unleash the true power of the Quadrant III gunslinger god...
+Haha, big sis is such a boss\~ No need to worry, I just have to unleash the true power of the Quadrant III gunslinger god...
 
 **Agent A**<br>
 Hey, did you hear that noise?
@@ -68,16 +68,15 @@ Stop whining. Go, now.
 WHO'S THERE!?
 
 **JOE**<br>
-Chill out, chill out~ I'm nobody suspicious. Ahahaha!
+Chill out, chill out\~ I'm nobody suspicious. Ahahaha!
 
 **Agent A**<br>
 Stop right there! Hands in the air or I'll shoot!
 
 **JOE**<br>
-Okay okay okay, hands in the air, got it. See~
+Okay okay okay, hands in the air, got it. See\~
 
 ![jos3601.png](./attachments/jos3601.png)
-
 **Agent B**<br>
 No weapons, safe... Huh, no civilian ID card with you? That's quite suspicious.
 
@@ -85,7 +84,7 @@ No weapons, safe... Huh, no civilian ID card with you? That's quite suspicious.
 Hey, tell us who you are.
 
 **JOE**<br>
-Just your average joe~ Really~ a\-ver\-ge joe. I was drinking with a few friends just nearby... Haha, what is this place?
+Just your average joe\~ Really\~ a\-ver\-ge joe. I was drinking with a few friends just nearby... Haha, what is this place?
 
 **Agent A**<br>
 This is an area under the restriction of Node 08's Administration Bureau. It's pretty far away from the city. Why would you travel all the way here to drink?
@@ -110,7 +109,7 @@ No... I was just thinking, I just accidentally passed by. I probably won't get l
 Who knows if you're bulls\*\*\*ing us? Before we confirm your identity, stay here and behave yourself. Hey, watch over him. Don't let him try anything funny.
 
 **Agent B**<br>
-... Sighs~ What a pain in the a\*\*...
+... Sighs\~ What a pain in the a\*\*...
 
 **JOE**<br>
 Sorry 'bout that, mate. Haha... I'm thirsty. Do you have booze?

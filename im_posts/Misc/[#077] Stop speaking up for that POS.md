@@ -11,7 +11,7 @@ Isn't Xenon the most suspicious one ever since this whole incident started???<br
 This issue of 08 Daily stated that too<br>
 He's a computer genius who started to display his talents at a very young age<br>
 He personally established many security regulations and protocols after he joined A.R.C.<br>
-During Æsir-FEST he was allegedly (according to himself) monitoring the internet back-end at A.R.C.<br>
+During Æsir\-FEST he was allegedly (according to himself) monitoring the internet back\-end at A.R.C.<br>
 He knows NEKO very well so it shouldn't be difficult at all for him to hack into her stream<br>
 Every single case that he's involved in so far have become unsolved mysteries<br>
 The answers don't get more obvious than that, right?<br>

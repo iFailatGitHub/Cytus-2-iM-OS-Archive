@@ -112,7 +112,6 @@ Get outta the way!!!
 *\[Conducts electricity \]*
 
 ![sos1401.png](./attachments/sos1401.png)
-
 *[Pic]*
 
 **Bruno**<br>

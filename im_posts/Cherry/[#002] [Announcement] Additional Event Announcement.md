@@ -9,18 +9,18 @@
 [Announcement]<br>
 This week, the "Floor 108 Opening Celebration Event" held at Quadrant III's Tower 054 has invited Cherry PuNK for a special performance. Come and celebrate this occasion with us! (The event is completely free!)
 
-Time: 702/09/15 PM 03:00 ~ PM 04:30
+Time: 702/09/15 PM 03:00 \~ PM 04:30
 
-Originally plan to participate in this event, **@PAFF-Official** couldn't make it because of her physical conditions. The members also feel terribly sorry for fellow PUFFERs.
+Originally plan to participate in this event, **@PAFF\-Official** couldn't make it because of her physical conditions. The members also feel terribly sorry for fellow PUFFERs.
 
-However, PAFF recorded a holo-recreation and she has a message for everyone. We would like fellow fans to come and support PAFF with us!
+However, PAFF recorded a holo\-recreation and she has a message for everyone. We would like fellow fans to come and support PAFF with us!
 
 That day, one of our new songs in the new album we are working on will also be performed for the first time. Please look forward to it!
 
 Keyboard\_LUMY
 ## Replies
 **CherryMyLife**<br>
-First~
+First\~
 
 **Smurky**<br>
 Last

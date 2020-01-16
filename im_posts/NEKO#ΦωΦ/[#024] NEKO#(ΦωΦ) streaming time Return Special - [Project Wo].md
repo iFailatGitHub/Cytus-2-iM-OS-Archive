@@ -1,4 +1,4 @@
-# NEKO\#(ΦωΦ) streaming time: Return Special - [Project Wo]
+# NEKO\#(ΦωΦ) streaming time: Return Special \- [Project Wo]
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -9,9 +9,9 @@
 Ladies and germs, even though a lot has happened, nothing can stand between us and video games!<br>
 Thaaaaat's right! NEKO stream, back in business \\(Φˋ口ˊΦ)/ !!!
 
-The game we are streaming today is [Project Wo]~<br>
-It's a side-scrolling adventure game where you have to solve puzzles while dodging attacks from the green creature Wo!<br>
-Special thanks to "Macaca" for the recommendation(\*Φ∀Φ)~<3
+The game we are streaming today is [Project Wo]\~<br>
+It's a side\-scrolling adventure game where you have to solve puzzles while dodging attacks from the green creature Wo!<br>
+Special thanks to "Macaca" for the recommendation(\*Φ∀Φ)\~<3
 
 ![n2401.png](./attachments/n2401.png)
 ## Replies
@@ -19,13 +19,13 @@ Special thanks to "Macaca" for the recommendation(\*Φ∀Φ)~<3
 Chat room, go nuts \\(ΦωΦ)/ !!
 
 **NEKOSAIKOU**<br>
-\*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*
 
 **Noposa**<br>
-NEKO\*~\\(ΦωΦ)/~\*
+NEKO\*\~\\(ΦωΦ)/\~\*
 
 **wkn**<br>
-~\\(ΦωΦ)/~\*~\\(ΦωΦ)/~\*
+\~\\(ΦωΦ)/\~\*\~\\(ΦωΦ)/\~\*
 
 **HandsomeYi**<br>
 NKEO I love you <br>
@@ -33,7 +33,7 @@ NKEO I love you <br>
 [User is now banned.]
 
 **Uxi**<br>
-\*~\\(ΦдΦ)/~\*
+\*\~\\(ΦдΦ)/\~\*
 
 **NEKOSAIKOU**<br>
 Legend has it that this game's producer has a nice head of hair
@@ -42,7 +42,7 @@ Legend has it that this game's producer has a nice head of hair
 What kind of useless fun fact is this XDDD
 
 **NEKO#ΦωΦ**<br>
-Ooohhhh~ the opening music's pretty good (\*´∀`)~<3 <br>
+Ooohhhh\~ the opening music's pretty good (\*´∀`)\~<3 <br>
 Excellent work, developers
 
 **noneXenon**<br>
@@ -53,7 +53,7 @@ That's an abnormal amount of praise coming from NEKO. Wait, is this spon... <br>
 Game gives off a really nice feel<3<3<3
 
 **banban**<br>
-Art style is amazing~ it's pixel art~
+Art style is amazing\~ it's pixel art\~
 
 **NEKO#ΦωΦ**<br>
 What the hell is this green creature!? It's OP as f\*\*\*(ΦдΦ╬) Feels as if an actual human is controlling it

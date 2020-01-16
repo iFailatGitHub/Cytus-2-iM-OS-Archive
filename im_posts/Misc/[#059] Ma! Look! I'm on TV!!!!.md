@@ -7,7 +7,7 @@
 ## Post
 **8plusNine**<br>
 Hi, hi everyone<br>
-Check-in at Mono HQ<br>
+Check\-in at Mono HQ<br>
 Man, this place is crowded AF right now<br>
 I'm having trouble sending a photo LMFAO<br>
 Guess I'll post atfer I get home
@@ -15,7 +15,7 @@ Guess I'll post atfer I get home
 **\#MonoWillPay**
 ## Replies
 **An0nym0us**<br>
-"A-f-t-e-r".........<br>
+"A\-f\-t\-e\-r".........<br>
  **\#MonoWillPay**
 
 **BizTrip**<br>
@@ -46,5 +46,5 @@ These people disgust me
 The admins are about to interfere XDDD Have fun with your pointless moral victory now
 
 **Trashtalker**<br>
-**\#MonoWillPay** Pay me my ticket refunds~~~~
+**\#MonoWillPay** Pay me my ticket refunds\~\~\~\~
 

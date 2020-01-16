@@ -6,14 +6,14 @@
 
 ## Post
 **ROBO_Head**<br>
-Analysis: No Æsir-FEST footage in memory cells.：( <br>
+Analysis: No Æsir\-FEST footage in memory cells.：( <br>
 Speculation: Existence of event   Negative<br>
 Speculation: Existence of related data in memory   Negative<br>
-Speculation: Event-related hardware damaged<br>
+Speculation: Event\-related hardware damaged<br>
 Decision: Before clear evidence, equal possibility for all above speculations ：/
 ## Replies
 **NEKO#ΦωΦ**<br>
-I said long ago that he stood us up, probably doing it just for the lulz~
+I said long ago that he stood us up, probably doing it just for the lulz\~
 
 **C.Y.**<br>
 **@ROBO\_Head** Is the memory cell damaged?

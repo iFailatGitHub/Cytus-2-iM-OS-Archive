@@ -6,7 +6,7 @@
 
 ## Post
 **Fuxkoff**<br>
-Mono probably thinks that this is none of their business anymore, don't they? They see that they can't handle the situation, so they terminate the contract and abandon her. They think we are stupid enough to let them off scot-free with no responsibility after turning the entire situation to s\*\*\* 
+Mono probably thinks that this is none of their business anymore, don't they? They see that they can't handle the situation, so they terminate the contract and abandon her. They think we are stupid enough to let them off scot\-free with no responsibility after turning the entire situation to s\*\*\* 
 
 If that's their attitude, we are not stopping at just surrounding the building this time. I'll be on my way first. You guys can follow up later
 ## Replies
@@ -31,7 +31,7 @@ You, stay where you are<br>
 I will make sure you don't go home in one piece tonight
 
 **Tracix**<br>
-Dude, calm down. From what I heard, the admins are already on-site
+Dude, calm down. From what I heard, the admins are already on\-site
 
 **PopKorn**<br>
 Tonight's NNN headlines should be quite exciting \*Grabs popcorn\*

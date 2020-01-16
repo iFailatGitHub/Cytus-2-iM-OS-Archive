@@ -34,7 +34,7 @@ Cherry
 Cherry！！！！！！I'll definitely be there！！！！！！
 
 **MatsuyamaC**<br>
-It's been a long time~~~ Congratulations on the performance invite ♡♡♡ I've already followed this account!!!!
+It's been a long time\~\~\~ Congratulations on the performance invite ♡♡♡ I've already followed this account!!!!
 
 **TorF**<br>
 Why are you getting so weirdly excited for an event hosted by some random DJ...<br>
@@ -92,7 +92,7 @@ Beware of Mono's ultimate move... Contract termination from the most minute of i
 **\#PrayForPAFF**
 
 **KiwaHu**<br>
-Can't help but think back to Æsir-FEST. That's also an event hosted by a DJ... Robo probably won't brainwash us right? At least that's what I hoped (((；ﾟДﾟ))))
+Can't help but think back to Æsir\-FEST. That's also an event hosted by a DJ... Robo probably won't brainwash us right? At least that's what I hoped (((；ﾟДﾟ))))
 
 **SuduMan**<br>
 This group can totally brainwash everyone with just their music!! I'm so excited about this!!!

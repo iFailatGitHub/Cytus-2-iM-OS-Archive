@@ -9,7 +9,7 @@
 I heard my friend say<br>
 that PAFF was discovered running around on the streets with NEKO<br>
 Never thought that the legendary Yuri ship that only exists in the weebs' mind will become canon one day!!<br>
-Bow down to your Yuri overlords~~~~~~
+Bow down to your Yuri overlords\~\~\~\~\~\~
 ## Replies
 **KirinKiraKira**<br>
 WHAT!!!!! Does this mean that the doujins I previously collected are now gonna rise in price!!!!!
@@ -17,7 +17,7 @@ WHAT!!!!! Does this mean that the doujins I previously collected are now gonna r
 **PrideCr0w**<br>
 PAFF is found???<br>
 So NEKO's the one who took her away???<br>
-OMG there are so many things I want to know~~~~~~~~~~~
+OMG there are so many things I want to know\~\~\~\~\~\~\~\~\~\~\~
 
 **HandsomeYi**<br>
 Oooohhh I don't know why, but this ship sounds so hot (Slurrpppp
@@ -37,7 +37,7 @@ So PAFF is safe!! Thank goodness!!
 She has been missing for so long, I thought she got caught up in some kind of accident QAQ Although she's now together with the wildcat (who I really don't like), I still hope she can return to the stage soon!!
 
 **CeLiA**<br>
-That's awesome news!!! Someone go inform Sis Helena ASAP~~~~~
+That's awesome news!!! Someone go inform Sis Helena ASAP\~\~\~\~\~
 
 **noneXenon**<br>
 Why were they running around @@ Did they encounter some kind of danger??

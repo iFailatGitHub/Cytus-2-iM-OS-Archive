@@ -8,7 +8,7 @@
 **ConneR**<br>
 Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself.
 
-    Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
+    Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well\-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un\-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
 
 ![c1801.png](./attachments/c1801.png)
 ## Replies
@@ -24,7 +24,7 @@ If not, we fans should have lots of new music to listen to
 What's an Architect is it tasty ROFL
 
 **RaiKiyumi**<br>
-Time for more archaeology lessons with Sensei~~~~
+Time for more archaeology lessons with Sensei\~\~\~\~
 
 **Amberclove**<br>
 I've only seen them in my textbooks

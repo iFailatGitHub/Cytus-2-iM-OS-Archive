@@ -10,7 +10,7 @@
 *The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations.*
 
 **NEKO#ΦωΦ**<br>
-Eh~ NEKO wants to stay here with Sis Cherry though...<br>
+Eh\~ NEKO wants to stay here with Sis Cherry though...<br>
 Can't help it then; let's go to PAFF's room to play some games!
 
 **Hayato**<br>
@@ -23,13 +23,13 @@ Alright. Everyone, leave the room so the treatment process can continue.*
 *[→Signal Switches]*
 
 **NEKO#ΦωΦ**<br>
-Whew~ It's finally over... That was so scary.
+Whew\~ It's finally over... That was so scary.
 
 **Hayato**<br>
 You sure do recover fast... No one would ever suspect that you were bawling like a child just a few minutes ago.
 
 **NEKO#ΦωΦ**<br>
-I... I did not! I was just a tiny~ bit scared, like what every normal person would be in those circumstances.
+I... I did not! I was just a tiny\~ bit scared, like what every normal person would be in those circumstances.
 
 **Hayato**<br>
 And that "WAAAAHHHHH!" was... quite glorious.

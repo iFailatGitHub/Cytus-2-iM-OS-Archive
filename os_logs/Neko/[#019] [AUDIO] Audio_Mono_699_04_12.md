@@ -8,25 +8,25 @@
 *[Call Starts]*
 
 **[Neko]**<br>
-*Hi hi, NEKO here~*
+*Hi hi, NEKO here\~*
 
 **Chris**<br>
 What "HI hi"? You messed up big time! You need to delete that post on iM right away!
 
 **[Neko]**<br>
-*Eh~? What's the deal this time...*
+*Eh\~? What's the deal this time...*
 
 **Chris**<br>
 About the collab single with company T a while ago, they haven't even announced it yet. Why did you post it on your own iM already!?
 
 **[Neko]**<br>
-*Eh~? I can't? That's a collab song with NEKO, isn't it? Why can't NEKO post it?*
+*Eh\~? I can't? That's a collab song with NEKO, isn't it? Why can't NEKO post it?*
 
 **Chris**<br>
 Idiot! That collab song has a contract! We are required to cooperate with the promotion schedule. What makes you think you can just go off\-track like that?
 
 **[Neko]**<br>
-*Muuu~ but deleting something already posted feels really weird...*
+*Muuu\~ but deleting something already posted feels really weird...*
 
 **Chris**<br>
 That's your problem... In short, delete it now, before things get really messy!
@@ -64,11 +64,11 @@ Regardless, pay more attention to what you do. If this keeps happening, it makes
 ......
 
 **[Neko]**<br>
-*If you don't have anything else to say, NEKO will go back to work. I'm arranging PAFF's song now; need to focus! Byebye~*
+*If you don't have anything else to say, NEKO will go back to work. I'm arranging PAFF's song now; need to focus! Byebye\~*
 
 *[Call Ends]*
 
 **Chris**<br>
-... Sighs~ how troublesome...
+... Sighs\~ how troublesome...
 
 *[Signal Lost]*

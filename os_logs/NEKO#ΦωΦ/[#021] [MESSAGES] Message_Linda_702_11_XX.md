@@ -14,7 +14,7 @@ YEP !!!!(ΦωΦ)/<br>
 *[Sent at PM 03:44]*
 
 **NEKO#ΦωΦ**<br>
-Oooh so rare~<br>
+Oooh so rare\~<br>
 *[Sent at PM 03:44]*
 
 **NEKO#ΦωΦ**<br>

@@ -1,4 +1,4 @@
-# Æsir-FEST sucks
+# Æsir\-FEST sucks
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -6,7 +6,7 @@
 
 ## Post
 **Popo**<br>
-Found a ticket stub for Æsir-FEST in the drawer, got really pissed off when I remember that the main act never showed up!!!
+Found a ticket stub for Æsir\-FEST in the drawer, got really pissed off when I remember that the main act never showed up!!!
 ## Replies
 **iNydM0N3Y**<br>
 Thank goodness it's free, and we still got the opening performances of Robo\_head and PAFF

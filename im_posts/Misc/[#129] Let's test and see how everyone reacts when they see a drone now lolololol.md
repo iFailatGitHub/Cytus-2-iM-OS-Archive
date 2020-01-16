@@ -11,7 +11,7 @@
 ![q2901.png](./attachments/q2901.png)
 ## Replies
 **UltraKY**<br>
-Better look out when you see drones on the streets these days ^w^~
+Better look out when you see drones on the streets these days ^w^\~
 
 **11IIll11**<br>
 Dude are u sure it's ok to post this kind of stuff now LOL
@@ -36,7 +36,7 @@ My older brother is a victim of the recent drone attacks and is currently still 
 And you just made their psychological trauma more severe. Happy now?
 
 **Math_Head**<br>
-Bro you're exaggerating, it's just a prank~~<br>
+Bro you're exaggerating, it's just a prank\~\~<br>
 Trauma can't get worse from just a prank LOL
 
 **TunaLee**<br>

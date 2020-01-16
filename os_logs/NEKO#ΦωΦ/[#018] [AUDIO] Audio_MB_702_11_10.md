@@ -29,7 +29,7 @@ Yep! The sound is super awesome!
 Good to hear that. So? What are you looking for today?
 
 **NEKO#ΦωΦ**<br>
-Eh~ I'm not here to buy instruments today. I want to ask uncle Frank something
+Eh\~ I'm not here to buy instruments today. I want to ask uncle Frank something
 
 **Frank**<br>
 Ho? What is it?
@@ -41,7 +41,7 @@ The place on this photo, it's around here, right? Do you recognize where this is
 Hmm... Lemme see. Nothing comes to mind, really. However, if it's able to capture our sign... Judging from the direction, if you go out, turn right and keep walking, you'll probably see a lot of similar alleys, I think?
 
 **NEKO#ΦωΦ**<br>
-Eh~? But I want to know which one it is~ The alleys there are way too complicated.
+Eh\~? But I want to know which one it is\~ The alleys there are way too complicated.
 
 **Frank**<br>
 Hold on. Let me ask the part\-timer.<br>
@@ -74,7 +74,7 @@ Miss, are you looking for something?
 Ah... I...
 
 **NEKO#ΦωΦ**<br>
-WAH~ Hahaha, she is NEKO's friend. Don't mind her.
+WAH\~ Hahaha, she is NEKO's friend. Don't mind her.
 
 **Frank**<br>
 ......?

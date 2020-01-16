@@ -19,7 +19,7 @@ Action: Survey willingness to participate in next session
 ![r4001.png](./attachments/r4001.png)
 ## Replies
 **TreeNoAlice**<br>
-Achieving such a result without even trying, sick~~~
+Achieving such a result without even trying, sick\~\~\~
 
 **ElinaDaniel**<br>
 Hey how could you say that Robohead didn't try!! Maybe the planning process was very tough!!
@@ -46,7 +46,7 @@ That way I can show how much I adore them! (Saying this while still on my knees)
 My reaction after listening:<br>
 THAT<br>
 WAS<br>
-SICCCCCCCC~~~
+SICCCCCCCC\~\~\~
 
 **beeeeeeeeee**<br>
 Turns out the part I liked the most was JOE's party crashing, and he wasn't even supposed to perform in the first place!<br>
@@ -66,7 +66,7 @@ That's fine you guys can have everyone else I just want Robo (Hugs
 That's fine you guys can take everything at least I still have King of Germ... I'm sorry I was wrong pls forgive me
 
 **TobeTobe**<br>
-If PAFF was there on-site she would've outshined everybody as the No.1 Diva QAQ
+If PAFF was there on\-site she would've outshined everybody as the No.1 Diva QAQ
 
 **iluvpuf**<br>
 Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once again (personal wish<br>

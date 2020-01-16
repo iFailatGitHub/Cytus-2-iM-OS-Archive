@@ -48,7 +48,7 @@ Luckily I live way up on a much higher floor.<br>
 (ΩДΩ) So scared 0rz
 
 **Prime6750911**<br>
-Please be careful up there~ Not the time to move around now...
+Please be careful up there\~ Not the time to move around now...
 
 **Talus_Alpha**<br>
 Posting to report my safety. There didn't seem to be any incidents reported in my area... so far<br>
@@ -77,7 +77,7 @@ EVERYBODY, look out for your own safety!!!
 So scared QAQ. Gotta listen to PAFF's music to calm my nerves...
 
 **DiiR**<br>
-ConneR Sensei, please come and save us~
+ConneR Sensei, please come and save us\~
 
 **Dogleg**<br>
 Folks, do not overreact to false information. The emergency news reports are just to prevent the situation from getting out of control. Nothing more.

@@ -15,7 +15,6 @@
 ......?
 
 ![mos0201.png](./attachments/mos0201.png)
-
 **Miku**<br>
 *\*Put on a mask and don a false identity<br>
 I'm broken down into my core...\**
@@ -39,19 +38,19 @@ Hey! Hey! Hey! Hey!
 *\[Audience Cheer\]*
 
 **Miku**<br>
-Everyone~! What is my name!?
+Everyone\~! What is my name!?
 
 **Audience**<br>
 Miku!
 
 **Miku**<br>
-Hoho~ I can't hear you!
+Hoho\~ I can't hear you!
 
 **Audience**<br>
 Miku!!
 
 **Miku**<br>
-L~O~U~D~E~R!!
+L\~O\~U\~D\~E\~R!!
 
 **Audience**<br>
 Miku! Miku! Miku! ......

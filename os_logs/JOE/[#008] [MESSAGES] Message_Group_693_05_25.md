@@ -16,7 +16,7 @@ Hi, everyone, time for the band meeting<br>
 
 **JOE**<br>
 Meeting time!!!
-Big sis, if you're there, make a noise~<br>
+Big sis, if you're there, make a noise\~<br>
 *[Sent at PM 08:35]*
 
 **Cherry**<br>
@@ -41,7 +41,7 @@ Could it be a boyfriend... >///<<br>
 *[Sent at PM 08:37]*
 
 **JOE**<br>
-![04_XD.png](./attachments/04_XD.png)
+![04_XD.png](./attachments/04_XD.png)<br>
 *[Sent at PM 08:37]*
 
 **JOE**<br>
@@ -69,7 +69,7 @@ All Caps names are everywhere, doesn't stand out<br>
 *[Sent at PM 08:40]*
 
 **JOE**<br>
-I know that XDDD I'm ok with the name~
+I know that XDDD I'm ok with the name\~
 The most important thing is that it's a band with you guys!<br>
 *[Sent at PM 08:40]*
 
@@ -109,7 +109,7 @@ Looks like JOE you can leave in peace<br>
 *[Sent at PM 08:43]*
 
 **JOE**<br>
-NOOOOOOO~~~~<br>
+NOOOOOOO\~\~\~\~<br>
 *[Sent at PM 08:43]*
 
 **KAI**<br>
@@ -155,5 +155,5 @@ Can someone else be the leader instead... please...<br>
 *[Sent at PM 08:50]*
 
 **JOE**<br>
-![05_QQ.png](./attachments/05_QQ.png)
+![05_QQ.png](./attachments/05_QQ.png)<br>
 *[Sent at PM 08:50]*

@@ -113,7 +113,6 @@ Let her go. I'll take the responsibility.
 ARGH!
 
 ![jos1301.png](./attachments/jos1301.png)
-
 **Hunter**<br>
 Responsibility? You can't even take one punch from me! Ptui!
 

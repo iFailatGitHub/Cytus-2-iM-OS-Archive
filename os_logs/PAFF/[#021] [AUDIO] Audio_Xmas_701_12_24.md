@@ -16,7 +16,7 @@ Sorry, I fell asleep...
 It's alright. If you're tired, feel free to rest some more.
 
 **[Tuner-san]**<br>
-*Notice: 10 minutes until performance~ 10 minutes until performance~*
+*Notice: 10 minutes until performance\~ 10 minutes until performance\~*
 
 **Helena**<br>
 Ah, looks like you're taking the stage soon.
@@ -67,7 +67,7 @@ Yes. I think I still remember how to sing that song.
 ... Can I sing this song when I take the stage later? I can't really recall the emotion I was in when I sang it back then. If I sing it again, perhaps I will remember that feeling as well.
 
 **Helena**<br>
-Of course you can! Alright, time's up. Say hello to everybody~
+Of course you can! Alright, time's up. Say hello to everybody\~
 
 **PAFF**<br>
 Okay.

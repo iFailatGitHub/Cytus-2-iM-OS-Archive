@@ -41,7 +41,7 @@ You twisted your ankle, didn't you? Why are you trying to act tough? Gimme your 
 ... Eh? Umm...
 
 **Child C**<br>
-Waahhh~~ Daddy!
+Waahhh\~\~ Daddy!
 
 **Pedestrian A**<br>
 You're safe! Daddy was so worried...
@@ -67,5 +67,4 @@ Partner?
 *\[Footsteps\]*
 
 ![cpos1301.png](./attachments/cpos1301.png)
-
 *[Signal Lost]*

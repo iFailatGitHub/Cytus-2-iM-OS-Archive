@@ -38,7 +38,7 @@ Sir, your English teacher would like a word with you. Oh, and he has a knife
 **MemeYan**<br>
 I previously saw this game on NEKO's wishlist lulz<br>
 There's also the Mega Briefcase deluxe edition<br>
-Inside, it contains a physical employee badge and the in-game item "Infinite Overtime Coins"
+Inside, it contains a physical employee badge and the in\-game item "Infinite Overtime Coins"
 
 **Noposa**<br>
 So you have to achieve a balance between going to work and killing monsters?
@@ -60,7 +60,7 @@ Aren't we playing this game every day? It's called "Life" HAHAHahahahah... I wan
 I finished the whole game. Quick tip: just buy tons of Overtime Coins. That's the fastest way to level up
 
 **KirinKiraKira**<br>
-I see your grand plan. You're trying to become a streamer so you get to sit next to NEKO in the iM annual party~~~
+I see your grand plan. You're trying to become a streamer so you get to sit next to NEKO in the iM annual party\~\~\~
 
 **Mulder**<br>
 I heard that a sequel is already in development

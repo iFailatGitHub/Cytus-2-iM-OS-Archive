@@ -63,9 +63,9 @@ Truly feel bad for PAFF and CHERRY<br>
 Got themselves involved with a garbage company like this
 
 **Srys_lee**<br>
-Ladies and gentlemen, I present to you~<br>
-Mono Pride~<br>
-We will continue to f\*\*\* with your favorite artists since we don't give a damn about what you think~ Oh, but don't forget to give us money because f\*\*\* you<br>
+Ladies and gentlemen, I present to you\~<br>
+Mono Pride\~<br>
+We will continue to f\*\*\* with your favorite artists since we don't give a damn about what you think\~ Oh, but don't forget to give us money because f\*\*\* you<br>
 Seriously, why don't you guys just go eat s\*\*\* and die
 
 **Arkman**<br>

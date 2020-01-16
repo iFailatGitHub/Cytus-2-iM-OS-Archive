@@ -12,7 +12,7 @@
 
 **Chris**<br>
 Another one? It has been so busy since we announced the public audition...<br>
-Sighs~ and I have to deal with Sis Helena and her loads of demands...
+Sighs\~ and I have to deal with Sis Helena and her loads of demands...
 
 **Chris**<br>
 Lemme see... Neko Asakura, 17 years old... What a weird name.... Hoho! She is cute!<br>
@@ -22,7 +22,7 @@ Play voice mail.
 *Playing audio attachment from Neko Asakura.*
 
 **[Neko]**<br>
-*Hello hello~ This is NEKO. NE, KO~ NEKO saw on iM that you guys are recruiting arrangers, right? NEKO is interested! Listen to NEKO's work! Then reply to NEKO!<br>
+*Hello hello\~ This is NEKO. NE, KO\~ NEKO saw on iM that you guys are recruiting arrangers, right? NEKO is interested! Listen to NEKO's work! Then reply to NEKO!<br>
 OVER!*
 
 **[PC]**<br>
@@ -39,7 +39,7 @@ Hmm, huh? That's it? Where's the work?
 Playing audio attachment from Neko Asakura.*
 
 **[Neko]**<br>
-*Hello hello~ NEKO again! NEKO forgot to attach the work! Ahahaha! Gimme a minute! OVER!*
+*Hello hello\~ NEKO again! NEKO forgot to attach the work! Ahahaha! Gimme a minute! OVER!*
 
 **[PC]**<br>
 *Replay complete.*

@@ -105,7 +105,6 @@ Hey, Hayato? Who is it...
 W, why are you here... Wait, are you crying?
 
 ![pos4701.png](./attachments/pos4701.png)
-
 **PAFF**<br>
 I finally get to see you again... Hayato!
 

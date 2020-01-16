@@ -8,7 +8,7 @@
 *\[Door Opens\]*
 
 **Chris**<br>
-Looks like everyone is here~ Sorry about this, Aroma. I know you're busy, yet I still asked you to come.
+Looks like everyone is here\~ Sorry about this, Aroma. I know you're busy, yet I still asked you to come.
 
 **Aroma**<br>
 It's nothing...
@@ -25,7 +25,7 @@ Being late will damage her image and will harm future partnerships. This is the 
 29 minutes.
 
 **Chris**<br>
-Ok, ok~<br>
+Ok, ok\~<br>
 Sis Helena, I bet you've already done your research on this "Legendary DJ". <br>
 Am I right?
 
@@ -52,7 +52,7 @@ Ha, hahaha... Cough, back to business. Regarding this Æsir, besides his music, 
 He hides his identity from the outside world. We don't even know whether he's male or female. However, judging from this proposal, he is definitely no newbie when it comes to organizing events.
 
 **Chris**<br>
-Indeed~ This proposal is practically perfect; even the setup for the virtual space is very detailed. More importantly...
+Indeed\~ This proposal is practically perfect; even the setup for the virtual space is very detailed. More importantly...
 
 **Aroma**<br>
 ......?
@@ -94,7 +94,7 @@ Hm? Aroma, did you say something?
 Ah, nothing...
 
 **Chris**<br>
-You do have a point. The company understands this as well~ However, this proposal is pretty much perfect, be it planning or execution. <br>
+You do have a point. The company understands this as well\~ However, this proposal is pretty much perfect, be it planning or execution. <br>
 If we also consider his share of voice online, Aroma's participation will bring her major benefits...
 
 **Helena**<br>
@@ -134,7 +134,7 @@ Ah, I'm sorry. I don't know what I'm talking about either...
 Chris, I'll take Aroma to her next schedule first. You organize the performance preparation plan for the next four months, as well as the virtual connection monitoring during the performance. Remember...
 
 **Chris**<br>
-Highest standard right? I know, I know~
+Highest standard right? I know, I know\~
 
 **Helena**<br>
 Button up, slowpoke. If something goes wrong, I'm coming for you. Here, Aroma, let's go!

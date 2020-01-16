@@ -12,11 +12,11 @@ I believe everyone has more or less seen the cover story of this issue's 08 Dail
 
 For the record, I must declare that the motivation behind this report to be very, very questionable. If its purpose is to only provide a description of an event, then the absurd amount of misinformation mixed into the report is unforgivable. It has seriously affected the public image of my friends and me and has invaded the privacy of our lives.
 
-First of all, NEKO's release is a legal procedure based entirely on the independent judgment of the law enforcement department. There is no way myself or even my company could influence their judgment by so-called " relationships". The reporter attempted to direct the case to a presumption in which NEKO was guilty and was only able to escape legal procedures because of her influences. I find this false accusation to be very offensive and thoroughly uncomfortable. 
+First of all, NEKO's release is a legal procedure based entirely on the independent judgment of the law enforcement department. There is no way myself or even my company could influence their judgment by so\-called " relationships". The reporter attempted to direct the case to a presumption in which NEKO was guilty and was only able to escape legal procedures because of her influences. I find this false accusation to be very offensive and thoroughly uncomfortable. 
 
-Second, my personal relationship situation is not what was made up in the report. Regarding the two females who were present on-site that day, we are merely good friends right now. 
+Second, my personal relationship situation is not what was made up in the report. Regarding the two females who were present on\-site that day, we are merely good friends right now. 
 
-I hope that some media outlets can be aware of the quality of their reports and follow basic journalism ethics. This type of rumor-mongering should not be allowed in the future. 
+I hope that some media outlets can be aware of the quality of their reports and follow basic journalism ethics. This type of rumor\-mongering should not be allowed in the future. 
 ## Replies
 **TreeNoAlice**<br>
 I'm with you!! I was super p\*\*\*ed as well when I read that article; it's a load of BS
@@ -56,7 +56,7 @@ If you can't read then would you kindly f\*\*\* off pls
 More and more retarded comments. Shouldn't you ban them
 
 **RyanRii**<br>
-It's pointless~<br>
+It's pointless\~<br>
 If you ban them, they say you're hiding something<br>
 If you don't ban them, they just keep ignoring the post and spilling BS
 
@@ -64,7 +64,7 @@ If you don't ban them, they just keep ignoring the post and spilling BS
 Xenon we are here to support you \\x/
 
 **AntiNEKO**<br>
-You're quite the man though, getting together with two uber-popular goddesses
+You're quite the man though, getting together with two uber\-popular goddesses
 
 **Pinevalley**<br>
 He came out to issue a proper statement<br>

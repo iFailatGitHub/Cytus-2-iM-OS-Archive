@@ -8,7 +8,7 @@
 *\[Class Bell\]*
 
 **Neko**<br>
-Whew~ It's over!!! I'm exhausted~
+Whew\~ It's over!!! I'm exhausted\~
 
 **Classmate A**<br>
 NEKO, are you going to the game center today?
@@ -20,7 +20,7 @@ Ah! Sure, let's go! NEKO is definitely gonna crush the records today!
 Haha! You've already filled the high\-scores with your name, haven't you?
 
 **Neko**<br>
-I'm talking about breaking my own records again of course~<br>
+I'm talking about breaking my own records again of course\~<br>
 Ah, what about Linda? She coming too?
 
 **Classmate A**<br>
@@ -30,15 +30,14 @@ Eh? Forget it. She's a complete loner. She's not going to come with us.
 Yeah. Besides, I think that girl is kinda scary.
 
 **Neko**<br>
-Aww, come on. Don't act like that~ NEKO's gonna ask her!
+Aww, come on. Don't act like that\~ NEKO's gonna ask her!
 
 *[→Signal Switch]*
 
 **Neko**<br>
-Lin~da~chan! I~ found~ you!
+Lin\~da\~chan! I\~ found\~ you!
 
 ![naos0301.png](./attachments/naos0301.png)
-
 **Linda**<br>
 Yikes!? Wha... what do you want?
 
@@ -55,8 +54,8 @@ You didn't know? That's how we refer to close friends back in NEKO's hometown. I
 Oh... All in all, I pass. Besides, we're not that close to begin with, right? Stop calling me that... it's so awkward.
 
 **Neko**<br>
-Eheh~ how come? Linda\-chan is really cute~<br>
-That aside, you should get together with everyone in class more often~ Since your transfer, you're always by yourself. Everyone is super nice. You don't have to be so shy~
+Eheh\~ how come? Linda\-chan is really cute\~<br>
+That aside, you should get together with everyone in class more often\~ Since your transfer, you're always by yourself. Everyone is super nice. You don't have to be so shy\~
 
 **Linda**<br>
 Hmm... It's fine. This is more an issue on my part. I'm just more used to being by myself.
@@ -68,7 +67,7 @@ Is that so... When NEKO first transferred here, I also couldn't make any friends
 You're a pretty weird person too... Usually, when people see loners like me, they don't actively approach us for a conversation.
 
 **Neko**<br>
-Eh? Really? But Linda\-chan is so cool! Your style is very unique, and you're also very cute! My classmates are also very interested in you. You should talk to everybody more often~
+Eh? Really? But Linda\-chan is so cool! Your style is very unique, and you're also very cute! My classmates are also very interested in you. You should talk to everybody more often\~
 
 **Linda**<br>
 Pfff... Haha, is that so? But, no thanks. I feel like my hobbies don't seem to match up with their's...
@@ -86,7 +85,7 @@ Pot... Core...? I don't quite get it. NEKO's vocabulary is not very big...
 Pffft! Pot is something you use in the kitchen! No wonder you're in class 6.
 
 **Neko**<br>
-Eheh~ You don't get to say that, Linda\-chan! You're also in class 6! NEKO wants to hear it as well!
+Eheh\~ You don't get to say that, Linda\-chan! You're also in class 6! NEKO wants to hear it as well!
 
 **Linda**<br>
 Ummm, I wouldn't recommend that...
@@ -127,7 +126,7 @@ EHH? What a shame! Such an awesome band too!
 Then you should try this song too. It's from an old band call "GuluJam". CP was heavily influenced by them!
 
 **Neko**<br>
-Wow wow WOW! This is so~ good!!
+Wow wow WOW! This is so\~ good!!
 
 **Linda**<br>
 Thank goodness... So there are still people in class who likes music. Other people only find it to be really loud and noisy...

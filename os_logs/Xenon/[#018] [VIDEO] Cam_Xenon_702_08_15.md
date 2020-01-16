@@ -13,7 +13,6 @@
 *\[Spray Paint\]*
 
 ![xos1801.png](./attachments/xos1801.png)
-
 **Man A**<br>
 Hey, you done? Get on it.
 

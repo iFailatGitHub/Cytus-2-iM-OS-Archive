@@ -29,23 +29,23 @@ Anyone with that kind of power is going to be corrupted no matter what they do
 Not everyone is as selfish as you, so stop judging other people you moron
 
 **WAW**<br>
-M̸̡͜͝P҉̸̵J̛͟͜P̡̀̕͠O̵͜i̴͘u̷̵̶̵͘g̶̢̡͠͞f͏̶̧́͡7̕͏͜͝9̵̧҉̷5̶́d͏͏́͟8̛͘͠F̸̛͟҉(̸͜G͜͞҉̧&̵̕͢͡͡\_҉̧\*̴͞͡͠0̵͢[̶̨͞ì̕͜o̴̡͜͝͏;̶̛͟h̛̀ų̛g҉̕ù̡͢͝i̧̢͢͏ỳ̛́̕f̨͟d̷̸͘r҉͡T̢́͏C҉̨̛V̨̕-̸̛p̵̕̕͠͡8̢=̷̨̧͜͡]̢̨͟͟0̶̛́͠[̨̛̀͡9͘͘͘͟͜h̨͏͏p͡i͢͡;̵͝ó̸͜҉g҉͞ù̀͜͟\*͢͏̶͡͠Ǫ̛̀^̀͟͡͠R̡͜͏͞F̶̕9҉̷͡͠
+M̸̡͜͝P҉̸̵J̛͟͜P̡̀̕͠O̵͜i̴͘u̷̵̶̵͘g̶̢̡͠͞f͏̶̧́͡7̕͏͜͝9̵̧҉̷5̶́d͏͏́͟8̛͘͠F̸̛͟҉(̸͜G͜͞҉̧&̵̕͢͡͡\_҉̧\*̴͞͡͠0̵͢[̶̨͞ì̕͜o̴̡͜͝͏;̶̛͟h̛̀ų̛g҉̕ù̡͢͝i̧̢͢͏ỳ̛́̕f̨͟d̷̸͘r҉͡T̢́͏C҉̨̛V̨̕\-̸̛p̵̕̕͠͡8̢=̷̨̧͜͡]̢̨͟͟0̶̛́͠[̨̛̀͡9͘͘͘͟͜h̨͏͏p͡i͢͡;̵͝ó̸͜҉g҉͞ù̀͜͟\*͢͏̶͡͠Ǫ̛̀^̀͟͡͠R̡͜͏͞F̶̕9҉̷͡͠
 
 **WAW**<br>
-O̷̵͜I̢̡͢͝H̶̢́͜͞(̴͞P͝҉Ì̷͡f̡̡͞7͢9̸̡̡͟͞5̛́è͟͝͠d̶̢͜͠8́́͘6͠͞f̶̶͡t͏͟͝͡͞)̧͟&̴͜\*́͟͠Y̸̸͞͝H̵͜-̡́9̴8̢̕͘͠y̶͜͡h͜͏̵̧͞u̴̵͞͞7͟͞y̧͜҉̢̕f̨̛̛͢͞t̵ŗ̡͞͝į̡̢͟7̸̴̕5̨̡́̕È̡͏͘D̢͠(̸̷̧̛͜7̴͝g̸̴0͜9҉̷̸u̧̢8̀͠ǵ͘͢ḩ̴̷̨̕i҉҉́͘u͜͏̶f̴̡͠͠y҉̶̨͢Í̛̕͜&͢͢͝
+O̷̵͜I̢̡͢͝H̶̢́͜͞(̴͞P͝҉Ì̷͡f̡̡͞7͢9̸̡̡͟͞5̛́è͟͝͠d̶̢͜͠8́́͘6͠͞f̶̶͡t͏͟͝͡͞)̧͟&̴͜\*́͟͠Y̸̸͞͝H̵͜\-̡́9̴8̢̕͘͠y̶͜͡h͜͏̵̧͞u̴̵͞͞7͟͞y̧͜҉̢̕f̨̛̛͢͞t̵ŗ̡͞͝į̡̢͟7̸̴̕5̨̡́̕È̡͏͘D̢͠(̸̷̧̛͜7̴͝g̸̴0͜9҉̷̸u̧̢8̀͠ǵ͘͢ḩ̴̷̨̕i҉҉́͘u͜͏̶f̴̡͠͠y҉̶̨͢Í̛̕͜&͢͢͝
 
 **WAW**<br>
 God f\*\*\*\*\* damnit iM!! Do you want me to type or not!!!
 
 **11IIll11**<br>
-08 Daily also released a survey down by a third-party organization that shows over 70% of people believe that there is a high possibility Xenon is involved in the incident
+08 Daily also released a survey down by a third\-party organization that shows over 70% of people believe that there is a high possibility Xenon is involved in the incident
 
 **TunaLee**<br>
 What kind of dumb survey is that??? Who did it?
 
 **Curo**<br>
 About that...<br>
-The so-called "Third-party organization" later came out and clarified that they did not do such a survey<br>
+The so\-called "Third\-party organization" later came out and clarified that they did not do such a survey<br>
 It's very likely that 08 Daily faked it themselves
 
 **MYMYM**<br>

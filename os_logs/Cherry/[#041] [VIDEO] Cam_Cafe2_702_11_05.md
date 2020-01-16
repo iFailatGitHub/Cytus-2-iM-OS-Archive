@@ -8,7 +8,7 @@
 *\[Doorbell\]*
 
 **Cherry**<br>
-Hi~
+Hi\~
 
 **JOE**<br>
 Big sis.
@@ -125,7 +125,6 @@ Haha...<br>
 You... Don't blame yourself. We're all living in guilt for our crimes, right?
 
 ![chos4101.png](./attachments/chos4101.png)
-
 **JOE**<br>
 ......!<br>
 ...... Yeah.
@@ -133,7 +132,7 @@ You... Don't blame yourself. We're all living in guilt for our crimes, right?
 *\[Doorbell\]*
 
 **Cherry**<br>
-Remember to watch the stream. I will use our songs to bring that stupid smile back onto your face. That's what suits you. Bye~!
+Remember to watch the stream. I will use our songs to bring that stupid smile back onto your face. That's what suits you. Bye\~!
 
 *\[Doorbell\]*
 

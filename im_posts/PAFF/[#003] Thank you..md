@@ -33,7 +33,7 @@ All my friends are listening to the song <3
 I don't have any friends...
 
 **SancTityKnight**<br>
-1M already? PAFF is really amazing~
+1M already? PAFF is really amazing\~
 
 **AbbEE**<br>
 Not surprised. PAFF gets all the records!
@@ -57,19 +57,19 @@ Agreed. Usually it's the admins posting
 Want to chat with PAFF ˊ▽ˋ
 
 **Anonymous**<br>
-Stream ~~~~
+Stream \~\~\~\~
 
 **vvv_IRIS_vvv**<br>
 PAFF is really busy, don't bother her
 
 **Sopheee**<br>
-PAFF! PAFF! PAFF! I really love you~~
+PAFF! PAFF! PAFF! I really love you\~\~
 
 **PoolsKitten**<br>
 PAFF for life
 
 **Pascal626**<br>
-L-O-V-E PAFF \\oo/
+L\-O\-V\-E PAFF \\oo/
 
 **LyLah1207**<br>
 **\\PAFF/****\\PAFF/****\\PAFF/**

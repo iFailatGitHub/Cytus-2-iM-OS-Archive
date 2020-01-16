@@ -1,4 +1,4 @@
-# Betting time~~~ What will happen to Xenon at the end of all this???
+# Betting time\~\~\~ What will happen to Xenon at the end of all this???
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -9,7 +9,7 @@
 A. Locked up for life<br>
 B. ARC use some kind of BS connections to bail out their most important employee<br>
 C. He wipes the memory of everyone in the restricted area again then breaks out<br>
-D. He was innocent to begin with and the admins screw up AGAIN~~~
+D. He was innocent to begin with and the admins screw up AGAIN\~\~\~
 ## Replies
 **Watch_Burn**<br>
 I'll cast my vote first; I personally think it's B<br>
@@ -40,7 +40,7 @@ The security in that place is super tight. One wrong step and you'll be riddled 
 If you ask me, I say there are no more than 3 people in the entirety of Node 08 who are skilled enough to carry that plan out
 
 **GemFeather**<br>
-I bet he'll be declared non-guilty and acquitted. The admins f\*\*\*ed up and arrested the wrong guy in the first place!
+I bet he'll be declared non\-guilty and acquitted. The admins f\*\*\*ed up and arrested the wrong guy in the first place!
 
 **Manpora**<br>
 I'm a fanboy of Xenon, so my bet is on C!<br>

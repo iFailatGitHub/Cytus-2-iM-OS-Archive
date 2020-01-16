@@ -149,7 +149,6 @@ Feels like your dear friends are in a pretty serious pinch. Allow me to take my 
 *\[Footsteps\]*
 
 ![xos3301.png](./attachments/xos3301.png)
-
 **Xenon**<br>
 ......
 

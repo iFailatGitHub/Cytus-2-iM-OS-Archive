@@ -1,4 +1,4 @@
-# God this place is crowded-AF
+# God this place is crowded\-AF
 ## Requirements
 |Character|Level|
 |---------|:---:|

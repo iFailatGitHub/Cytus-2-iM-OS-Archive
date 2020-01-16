@@ -8,23 +8,23 @@
 *\[Door Opens\]*
 
 **Neko**<br>
-Mommy! Grandma! NEKO is back~
+Mommy! Grandma! NEKO is back\~
 
 **Mayu**<br>
-Wow~ NEKO, is that you!?
+Wow\~ NEKO, is that you!?
 
 **Saku**<br>
 NEKO!? What did you come back all of a sudden!?
 
 **Neko**<br>
-Hehe~ I bought the ticket the moment I saved up enough money! I want to give you two a big surprise!
+Hehe\~ I bought the ticket the moment I saved up enough money! I want to give you two a big surprise!
 
 **Saku**<br>
 You child... how could you not tell us that you're coming back!<br>
 Mommy will go clear out your room now.
 
 **Neko**<br>
-Eh~ You don't need to do that. NEKO will be going back the day after tomorrow. I still have work to do.
+Eh\~ You don't need to do that. NEKO will be going back the day after tomorrow. I still have work to do.
 
 **Saku**<br>
 We're just about to eat dinner. Need to cook your share now.
@@ -36,10 +36,9 @@ We're just about to eat dinner. Need to cook your share now.
 What's wrong? Why are you standing still at the door? Go wash your hands.
 
 **Neko**<br>
-*... \*Cries\**... Uwaaaaaa~ Mommy! Grandma! NEKO miss you so much!
+*... \*Cries\**... Uwaaaaaa\~ Mommy! Grandma! NEKO miss you so much!
 
 ![naos2001.png](./attachments/naos2001.png)
-
 *[»»» Fast Forward»»»]*
 
 **Neko**<br>
@@ -63,13 +62,13 @@ Haha...
 Ah, mom, let me wash it.
 
 **Neko**<br>
-Eh, let NEKO do it~
+Eh, let NEKO do it\~
 
 **Mayu**<br>
-It's alright~ Mother and daughter should spend more time together after being apart for so long. Besides, the doctor has suggested that I should exercise more often.
+It's alright\~ Mother and daughter should spend more time together after being apart for so long. Besides, the doctor has suggested that I should exercise more often.
 
 **Neko**<br>
-Thanks, grandma~
+Thanks, grandma\~
 
 **Saku**<br>
 NEKO, why did you have the time to come back? What about the Academy?
@@ -97,7 +96,7 @@ Mommy... are you okay with this? Daddy is such a big liar. Back then he said it 
 
 **Saku**<br>
 Yes, he no longer does that. He has a new family now; mommy doesn't want to take money from him anymore.<br>
-We're doing fine on our own. No need to worry about us~
+We're doing fine on our own. No need to worry about us\~
 
 **Neko**<br>
 Eheh!? Mommy, you're too nice! Why aren't you angry at daddy for
@@ -128,7 +127,7 @@ NEKO, people don't change that easily. At the very least, the daddy I knew won't
 Hmm... NEKO don't really understand...
 
 **Saku**<br>
-*\*Chuckles\**~ Simply put, just keep one thing in mind. Whether it's daddy or mommy, our love for you will never change; because no matter what happens, you are the one person that is most worthy of our devotion.
+*\*Chuckles\**\~ Simply put, just keep one thing in mind. Whether it's daddy or mommy, our love for you will never change; because no matter what happens, you are the one person that is most worthy of our devotion.
 
 **Neko**<br>
 ......

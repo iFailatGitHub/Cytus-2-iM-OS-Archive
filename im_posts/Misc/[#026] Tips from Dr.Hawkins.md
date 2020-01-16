@@ -25,7 +25,7 @@ As of now, there is no complete cure for faltering in memory/balance and cogniti
 Just like the past, failure in eyesight due to overuse of electronic products is also incurable. Therefore before we discover a complete solution, I can only give tips like this to prevent these symptoms from happening in the first place.
 
 **Pinevalley**<br>
-Terrifying! Gotta get offline now~
+Terrifying! Gotta get offline now\~
 
 **Aceman**<br>
 Thank you for the tip doctor. More people need to know about this

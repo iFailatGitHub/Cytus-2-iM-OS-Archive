@@ -135,7 +135,7 @@ Eh? Voices?
 
 **Rin**<br>
 I noticed it a long time ago! If you don't believe me then take a listen.<br>
-Ah~Ahhh~
+Ah\~Ahhh\~
 
 **OPCII_0584_X**<br>
 ...! You're right... Quite similar.<br>

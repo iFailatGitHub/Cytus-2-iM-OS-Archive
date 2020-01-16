@@ -11,7 +11,7 @@
 > <br>
 > The Neumann family is renowned for producing excellent archeologist, and Colin Neumann is no exception. His achievements in recreated technology and ancient artifact collection made significant contributions to the development and rebuilding of human civilization and should not be overlooked. When he was a member of the exploration team, despite encountering countless dangers, he always completed the mission with his resolute will and unrivaled skills. <br>
 > <br>
-> After his retirement, Colin Neumann has lived a semi-reclusive life in the Neumann family manor. According to a close friend of his, he has continued to study the artifacts left behind by ancient civilizations...<br>
+> After his retirement, Colin Neumann has lived a semi\-reclusive life in the Neumann family manor. According to a close friend of his, he has continued to study the artifacts left behind by ancient civilizations...<br>
 [Article excerpted from News Fastlane]
 ## Replies
 **DiiR**<br>
@@ -31,7 +31,7 @@ May your soul rest in peace
 My god, this year is such a terrible year. So many sad things... R.I.P.
 
 **HWJones**<br>
-R U serious 702... Is taking PAFF away from me not enough~~~
+R U serious 702... Is taking PAFF away from me not enough\~\~\~
 
 **Axroid_Sona**<br>
 I am so fortunate that I was able to go to his previous concert<br>

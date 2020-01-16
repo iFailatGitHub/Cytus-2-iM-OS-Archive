@@ -57,7 +57,7 @@ NEKO really likes here though. The equipment is better then what I have back hom
 In your dreams. You done eating? Let's finish up the remaining parts.
 
 **NEKO#ΦωΦ**<br>
-OKayyyy~
+OKayyyy\~
 
 *\[Eat Snacks\]*
 

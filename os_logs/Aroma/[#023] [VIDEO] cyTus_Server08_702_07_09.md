@@ -14,27 +14,27 @@
 Chris, are you ready on your side?
 
 **[Chris]**<br>
-*Armed and ready. The monitoring program has finished setting. This is the latest version developed by A.R.C. It can monitor and manage all information on its own, as well as filter any keyword we desire. Not even a spec of dust can escape its almighty eye~*
+*Armed and ready. The monitoring program has finished setting. This is the latest version developed by A.R.C. It can monitor and manage all information on its own, as well as filter any keyword we desire. Not even a spec of dust can escape its almighty eye\~*
 
 **Helena**<br>
 Jesus, how old are you... Are you certain that this program works?
 
 **[Chris]**<br>
-*Come on, sis Helena; You can at least trust me "sometimes"~<br>
+*Come on, sis Helena; You can at least trust me "sometimes"\~<br>
 This program is originally only available to major businesses for Beta testing. It cost the company a fortune to get our hands on this...*
 
 **Helena**<br>
 All in all, you make sure that harassment messages stay away from PAFF's feed. That's the least you can do.
 
 **[Chris]**<br>
-*No problemo~ Do you have any idea how much I crap I had to take in order to get this program... Of course I'm gonna use it to its maximum effect!*
+*No problemo\~ Do you have any idea how much I crap I had to take in order to get this program... Of course I'm gonna use it to its maximum effect!*
 
 **Helena**<br>
 This 7th Anniversary event is the key to let Mono's name be known across the world. Those were their exact words. <br>
 Go back and tell them, "Believe PAFF".
 
 **[Chris]**<br>
-*Ok, ok, I get it~ In short, I'm all set here.*
+*Ok, ok, I get it\~ In short, I'm all set here.*
 
 **Helena**<br>
 Very well. We'll move this conversation to iM. If anything happens, PM me.<br>
@@ -56,7 +56,6 @@ Chris has logged in to the block.*
 Good afternoon everybody. This is PAFF. ^^
 
 ![aos2301.png](./attachments/aos2301.png)
-
 *[»»» Fast Forward»»»]*
 
 **Chris**<br>

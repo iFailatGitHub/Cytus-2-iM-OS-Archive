@@ -6,13 +6,13 @@
 
 ## Post
 **NEKOSAIKOU**<br>
-Recently I was told by some haters that I can't rock this game. That's total bull. I am a diehard fan of action puzzle-solvers. I 've heard there's a streamer who nailed all the boss' without losing any HP. Tryin' to get the achievement where you make it to the end without dying once~If you die even once you gotta restart the game!!!
+Recently I was told by some haters that I can't rock this game. That's total bull. I am a diehard fan of action puzzle\-solvers. I 've heard there's a streamer who nailed all the boss' without losing any HP. Tryin' to get the achievement where you make it to the end without dying once\~If you die even once you gotta restart the game!!!
 
 MO: Astray game link: <br>
 [**MO: Astray**](http://short.rayark.com/MOAstray)
 ## Replies
 **MYMYM**<br>
-Wow~ it's NEKOSAIKOU. Long time no see~~ 
+Wow\~ it's NEKOSAIKOU. Long time no see\~\~ 
 
 **TunaLee**<br>
 Isn't that the production team for project Wo from a long time ago wwwww<br>
@@ -22,23 +22,23 @@ I remember NEKO used to play that
 Someone in the chat room even said the producer's hair is nice and thick XDDD
 
 **RamenBot**<br>
-The puzzles in MO are really well-designed~
+The puzzles in MO are really well\-designed\~
 
 **RyanRii**<br>
 The art is super beautiful as well.<br>
-Totally amazing~~~
+Totally amazing\~\~\~
 
 **NEKOSAIKOU**<br>
-Hells yeah, the double-jump and speed-dash are s\*\*\*ting awesome!
+Hells yeah, the double\-jump and speed\-dash are s\*\*\*ting awesome!
 
 **Pooooon**<br>
 Don't dash your head off bro www
 
 **banban**<br>
-Look at u! Tha zombie almost got u~
+Look at u! Tha zombie almost got u\~
 
 **beeeeeeeeee**<br>
-been thinkin bout how to beat this part~~~~foreverrrrr
+been thinkin bout how to beat this part\~\~\~\~foreverrrrr
 
 **HandsomeYi**<br>
 Wait a sec<br>
@@ -56,10 +56,10 @@ A few shadows just fled by
 **STANley**<br>
 Waaaait, there's one more<br>
 Is that a human? A robot?<br>
-Definitely not a drone~~
+Definitely not a drone\~\~
 
 **NEKOSAIKOU**<br>
-bulls\*\*\*~~<br>
+bulls\*\*\*\~\~<br>
 I'm not playing a horror game, you ain't scaring me www
 
 **lrrllrrl**<br>

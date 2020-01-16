@@ -15,7 +15,7 @@ Here, you calm down yet?
 You're gonna deplete my inventory for tomorrow's business if you keep drinking! I'm going to charge you starting with this one.
 
 **NEKO#ΦωΦ**<br>
-Ehh~ How could you!? Cheap! S\*\*\*head!
+Ehh\~ How could you!? Cheap! S\*\*\*head!
 
 **JOE**<br>
 Shut it! Don't act drunk when you haven't even had a sniff of alcohol... No need to be so anxious. Didn't she say in the phone call that she'd be arriving here soon?
@@ -114,7 +114,7 @@ Daddy is so stupid! How can he get drugged like that... NEKO was super worried! 
 NEKO... thank you.
 
 **JOE**<br>
-Hehe, it really is the super idol herself! Hello~ I am the owner of JOEZ Cafe. Joe Miller's the name.
+Hehe, it really is the super idol herself! Hello\~ I am the owner of JOEZ Cafe. Joe Miller's the name.
 
 **PAFF**<br>
 Hello. NEKO mentioned you before... Thank you so much for your help, Mr. Miller.

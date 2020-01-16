@@ -1,4 +1,4 @@
-# NEKO\#ΦωΦ streaming time -「SAW of EDEN(SOE)」
+# NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -25,7 +25,7 @@ The graphics look awesome!!
 
 **NEKO#ΦωΦ**<br>
 "Wielding the ancient chainsaw that can cut through enemy souls, the MC shall end this war of the century!"<br>
-Jesus the cover art looks sick-AF (ﾉΦωΦ)ﾉ
+Jesus the cover art looks sick\-AF (ﾉΦωΦ)ﾉ
 
 **MRArupaka**<br>
 Wasn't it a card game in the previous entries?? When did it become an action game lol

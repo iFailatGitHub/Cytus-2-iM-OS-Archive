@@ -26,7 +26,7 @@ Only Central Music Hall can bring out the characteristics of ConneR Sensei's mus
 Did some research?
 
 **Dogleg**<br>
-Central Music Hall can hold almost 2000 people. Reverberation is controlled between 1.85 ~1.9 seconds. A crowned jewel among performance venues.  
+Central Music Hall can hold almost 2000 people. Reverberation is controlled between 1.85 \~1.9 seconds. A crowned jewel among performance venues.  
 
 **Dogleg**<br>
 Four floors of seats and boxes, with luxurious curtains and a relief sculpture wall.

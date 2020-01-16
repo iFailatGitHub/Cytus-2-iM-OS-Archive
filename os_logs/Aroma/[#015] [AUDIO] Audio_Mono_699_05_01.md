@@ -15,7 +15,7 @@ Thank you. The new song is a bit hard to sing correctly... This is a song I made
 What is the meaning of all this!?
 
 **Chris**<br>
-Now, now~ You should calm down a bit first...
+Now, now\~ You should calm down a bit first...
 
 **Aroma**<br>
 There seems to be an argument outside the recording studio...? Is everything fine?

@@ -64,10 +64,10 @@ So WTF does that have to do with you? It's their life; what they do is none of y
 
 **Xzavis**<br>
 Recent issues of 08 Daily are getting more and more exciting<br>
-They finally start to grasp the taste of young readers~
+They finally start to grasp the taste of young readers\~
 
 **CherryMyLife**<br>
-Node 08 rock's only ray of hope, please hold strong~~~
+Node 08 rock's only ray of hope, please hold strong\~\~\~
 
 **Brock3tt**<br>
 Don't really like Xenon, too many secrets<br>

@@ -19,7 +19,7 @@ Aroma, are you bored?
 Not at all. When sister is working hard, you look very cool.
 
 **Helena**<br>
-It's not like I purposely want to look cool though. I'm exhausted~
+It's not like I purposely want to look cool though. I'm exhausted\~
 
 **PAFF**<br>
 Thanks for the hard work.
@@ -113,7 +113,7 @@ Shut your pie holes! Hmph, you guys are going to see the best show ever right no
 Eh? A child?
 
 **Customer D**<br>
-Hey! We want to see a sexy lady~ When has this place become an art class for kids?
+Hey! We want to see a sexy lady\~ When has this place become an art class for kids?
 
 **PAFF**<br>
 *\*All the store lights<br>
@@ -134,7 +134,7 @@ Through their doors stream melodies of winter\**
 *[»»» Fast Forward »»»]*
 
 **Customer A**<br>
-Wow~ Tonight's show was incredible!
+Wow\~ Tonight's show was incredible!
 
 **Customer B**<br>
 Especially that opening with the little girl wearing a mask! Her voice is beautiful... I wonder who she is?
@@ -161,7 +161,7 @@ In the end, I wasn't able to spend Christmas with you... sorry.
 I don't mind... I feel like I already experience a wonderful Christmas. Thank you, sister.
 
 **Helena**<br>
-Good to hear that~ Aroma, Merry Christmas.
+Good to hear that\~ Aroma, Merry Christmas.
 
 **PAFF**<br>
 Yes... Merry Christmas.

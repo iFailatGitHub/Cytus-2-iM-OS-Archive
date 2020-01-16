@@ -7,11 +7,11 @@
 ## Post
 **JOEZ Cafe**<br>
 A while ago, I got someone to upgrade the firmware of the old billiards table<br>
-Now we have even more awesome modes for everyone to have fun with~~
+Now we have even more awesome modes for everyone to have fun with\~\~
 
 Starting today, I welcome everyone to come can try it out!!<br>
 Whether you're sober or smashed<br>
-don't be hesitant to pick up that long and thick rod~ \*Blushes\*
+don't be hesitant to pick up that long and thick rod\~ \*Blushes\*
 
 If you can defeat the King of Germs owner<br>
 You get to drink all the milk you want for the day!!!
@@ -31,14 +31,14 @@ Wow, billiards. You don't see those very often these days
 How do you play it? Do you swing it like a baseball bat and try to knock the ball into the pockets?
 
 **JOEZ Cafe**<br>
-You can't swing the cue~ you have to aim carefully and poke your stick at the right hole<br>
+You can't swing the cue\~ you have to aim carefully and poke your stick at the right hole<br>
 >///
 
 **Pinevalley**<br>
 Innuendos galore ROFL
 
 **NEKO#ΦωΦ**<br>
-NEKO is no.1~ Everybody should come and worship me hohoho σ(Φ∀Φ)σ
+NEKO is no.1\~ Everybody should come and worship me hohoho σ(Φ∀Φ)σ
 
 **Noposa**<br>
 Wow nice!
@@ -58,7 +58,7 @@ On the other hand!!! ME!!! Owner of the Cafe!!! 7 9 5 6 0 pts!!!!!<br>
 HAHA!!!! Fall you bastard!!!! Sick move!!!!
 
 **NEKO#ΦωΦ**<br>
-HEY! That was my line~~~ (Φ皿Φ)/!!!!
+HEY! That was my line\~\~\~ (Φ皿Φ)/!!!!
 
 **STANley**<br>
 Holy almost 80 thousand pts. How is that even possible?

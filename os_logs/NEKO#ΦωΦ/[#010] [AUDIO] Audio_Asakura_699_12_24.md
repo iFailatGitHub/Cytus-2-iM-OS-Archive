@@ -8,7 +8,7 @@
 *\[Door Opens\]*
 
 **NEKO#ΦωΦ**<br>
-Lin~da~chan~! Welcome!
+Lin\~da\~chan\~! Welcome!
 
 **Linda**<br>
 Sorry for disturbing... Yikes! NEKO...
@@ -64,7 +64,7 @@ Do people not celebrate Christmas back in Node 03?
 
 **NEKO#ΦωΦ**<br>
 We do, but we don't go as far as roasting a whole chicken for it.<br>
-Speaking of which, the holiday celebrations in Node 08 are nuts! It seems like there's a huge party for every single holiday... We used to just have a simple meal together and call it a day! Muuu~ it's not the holiday itself, but who you celebrate the holiday with that's important, right?
+Speaking of which, the holiday celebrations in Node 08 are nuts! It seems like there's a huge party for every single holiday... We used to just have a simple meal together and call it a day! Muuu\~ it's not the holiday itself, but who you celebrate the holiday with that's important, right?
 
 **Kouhei**<br>
 Haha, material well\-being is very important as well... *\*Gulp!\**
@@ -99,7 +99,7 @@ I think the Academy taught us about it, but I already forgot...<br>
 NEKO, you... never mind, can't rely on you to remember things.
 
 **NEKO#ΦωΦ**<br>
-What do you say!? NEKO had a higher score than you in the previous history exam~ you meanie!
+What do you say!? NEKO had a higher score than you in the previous history exam\~ you meanie!
 
 **Linda**<br>
 I don't think 39 and 42 are scores worthy of any comparison...
@@ -149,13 +149,13 @@ Not a problem, NEKO, daddy is not drunk... Daddy wants your best friend to teach
 ......
 
 **NEKO#ΦωΦ**<br>
-No harassing Linda\-chan~!<br>
+No harassing Linda\-chan\~!<br>
 Sis Yukiko, we need to drag this drunkard away and lay him in bed now! This fatso will directly collapse into a deep sleep any minute now and won't wake up until tomorrow morning. We won't be able to move him once he is asleep! Hurry, hurry!
 
 **Yukiko**<br>
 Umm, O, okay! Kouhei, come over here...
 
 **NEKO#ΦωΦ**<br>
-Arrggghhhh~ This is so embarrassing~ Dumb daddy! Stupid smelly feet!
+Arrggghhhh\~ This is so embarrassing\~ Dumb daddy! Stupid smelly feet!
 
 *[Signal Lost]*

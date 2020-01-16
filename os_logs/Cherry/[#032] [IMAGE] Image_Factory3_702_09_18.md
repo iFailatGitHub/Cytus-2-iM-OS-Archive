@@ -14,6 +14,5 @@
 
 ## Log Content
 ![chos3201.png](./attachments/chos3201.png)
-
 Date: 702/09/18<br>
 Location: Node 08 \- Quadrant I, Factory 03

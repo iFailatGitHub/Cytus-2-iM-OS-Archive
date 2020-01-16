@@ -87,7 +87,6 @@ Big sister, Happy birthday!
 *... \*Sniffs\*...*
 
 ![naos2601.png](./attachments/naos2601.png)
-
 **Kouhei**<br>
 This is also daddy's apology to you. I'm sorry for the terrible things I said to you...
 

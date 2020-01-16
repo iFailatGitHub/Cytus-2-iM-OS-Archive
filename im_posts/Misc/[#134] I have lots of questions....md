@@ -6,7 +6,7 @@
 
 ## Post
 **Gogossip**<br>
-A tier-1 artist for Mono just dies all of a sudden<br>
+A tier\-1 artist for Mono just dies all of a sudden<br>
 Does nobody feel that there's something very strange about this whole thing?<br>
 Personal speculations in the comments
 ## Replies
@@ -51,5 +51,5 @@ If it is a vendetta, what is the reasoning?
 The media has tended not to clearly explain the causes and outcomes of social incidents recently.
 
 **Damn3D**<br>
-Are conspiracy theorists all a little anti-social?
+Are conspiracy theorists all a little anti\-social?
 

@@ -40,7 +40,6 @@ Here.
 It's all squeaky clean now, captain.
 
 ![cpos0301.png](./attachments/cpos0301.png)
-
 **Xenon**<br>
 Oh, good work. You can leave now.
 
@@ -55,7 +54,7 @@ We haven't performed together in a very long time either.
 Wanna jam for a little? The instruments all still work.
 
 **Cherry**<br>
-Ehh~ maybe tomorrow? Aren't you boys tired?
+Ehh\~ maybe tomorrow? Aren't you boys tired?
 
 **KAI**<br>
 I'm very much a night owl, and this guy barely sleeps at all in the first place.
@@ -117,6 +116,6 @@ Hmm? I'm going home. I'll leave this place to you.
 Why are you giving me that perverted look...?
 
 **KAI**<br>
-Hehe... Bye~
+Hehe... Bye\~
 
 *[Signal Lost]*

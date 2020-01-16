@@ -17,7 +17,7 @@ Mono's been p\*\*\*ing me off a lot lately
 The recent Æsir incident is not properly explained either
 
 **iluvpuf**<br>
-Æsir-FEST was already an event where everyone has their own version of the story. Then Robohead came out and revealed that the event was held; it's just that everyone's memory of it was gone. But instead of clearing things up, it led to even more weird-a\*\* speculations lol
+Æsir\-FEST was already an event where everyone has their own version of the story. Then Robohead came out and revealed that the event was held; it's just that everyone's memory of it was gone. But instead of clearing things up, it led to even more weird\-a\*\* speculations lol
 
 **HolyEarth**<br>
 \*Raise hand\* I participated, I have no memory

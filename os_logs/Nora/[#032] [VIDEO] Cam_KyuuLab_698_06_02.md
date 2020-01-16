@@ -98,7 +98,6 @@ Ugh......! Ichiro, start the boat!
 *...... Phoenix?*
 
 ![noos3201.png](./attachments/noos3201.png)
-
 *\[Gunshot\]*
 
 **Kim**<br>
@@ -139,7 +138,7 @@ Nora, your real name is...... [Shizuka Shiino]. Your birthday is 690 N.A., Novem
 *\[Gunshot\]*
 
 **Kim**<br>
-I, found, you~~
+I, found, you\~\~
 
 **Phoenix**<br>
 ICHIRO! GO! NOW!!

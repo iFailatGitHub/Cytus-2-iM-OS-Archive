@@ -147,7 +147,6 @@ Hey! He has a gun...!
 ... Umm...
 
 ![xos3901.png](./attachments/xos3901.png)
-
 **Shannon**<br>
 Brother, no!
 

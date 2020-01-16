@@ -46,7 +46,7 @@ I know you like to be alone when you're not in a good mood<br>
 *[Sent at AM 01:27]*
 
 **JOE**<br>
-but don't go missing for too long~<br>
+but don't go missing for too long\~<br>
 *[Sent at AM 01:27]*
 
 **JOE**<br>

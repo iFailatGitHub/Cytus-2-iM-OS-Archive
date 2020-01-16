@@ -137,7 +137,7 @@ NEKO may not be... for something this big... no even for something small, NEKO m
 ......
 
 **NEKO#ΦωΦ**<br>
-Okay all done~ Don't move for now. NEKO already contacted Brother Kai to take you to his place. He'll definitely be able to pick ya up.
+Okay all done\~ Don't move for now. NEKO already contacted Brother Kai to take you to his place. He'll definitely be able to pick ya up.
 
 *[→Signal Switches]*
 

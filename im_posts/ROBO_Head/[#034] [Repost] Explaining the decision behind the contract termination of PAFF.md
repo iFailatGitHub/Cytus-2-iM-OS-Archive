@@ -31,7 +31,7 @@ The way they handle the situation is so terrible that it's practically ASKING fo
 It really is terrible... makes me wonder if they actually hired monkeys to do PR work
 
 **Damn3D**<br>
-Dude, if you ask me, the ones who drew the shortest straws are their other artists~~ Especially Cherry...
+Dude, if you ask me, the ones who drew the shortest straws are their other artists\~\~ Especially Cherry...
 
 **C.Y.**<br>
 Agreed. I wonder if Cherry is feeling better now

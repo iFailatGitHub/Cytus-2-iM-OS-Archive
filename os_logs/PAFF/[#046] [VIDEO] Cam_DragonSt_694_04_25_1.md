@@ -23,13 +23,13 @@ Yikes! You scared me...<br>
 Umm... Thanks for the hard work. I've set up all the equipment.
 
 **Kaori**<br>
-Haha, what hard work? Thanks anyway~ I'll set up the keyboard right away. Gimme a minute.
+Haha, what hard work? Thanks anyway\~ I'll set up the keyboard right away. Gimme a minute.
 
 **Hayato**<br>
 Sure... How was the restaurant today?
 
 **Kaori**<br>
-Same as always. Refilling water, washing dishes, greeting customers, occasionally getting yelled at by the head chef. My god~ my ears are still ringing.
+Same as always. Refilling water, washing dishes, greeting customers, occasionally getting yelled at by the head chef. My god\~ my ears are still ringing.
 
 **Hayato**<br>
 Ahaha... He really is very loud.
@@ -56,7 +56,7 @@ I see... I hope grandma can recover from her illness soon.
 ......
 
 **Kaori**<br>
-Aww, come on~ Why the long face! Even your guitar looks sad! You can't play good music with a sad\-looking guitar!
+Aww, come on\~ Why the long face! Even your guitar looks sad! You can't play good music with a sad\-looking guitar!
 
 **Hayato**<br>
 I, I... I am just a bit anxious.<br>
@@ -90,7 +90,7 @@ Huh?
 
 **Kaori**<br>
 Nothing... Oh, a crowd is starting to gather. Are you ready?<br>
-Ah~Ah~, Mic test, mic test~
+Ah\~Ah\~, Mic test, mic test\~
 
 *\[Audience applauds\]*
 

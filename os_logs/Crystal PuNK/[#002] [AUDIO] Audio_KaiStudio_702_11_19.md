@@ -38,7 +38,7 @@ Let me help out too.
 *[»»» Fast Forward»»»]*
 
 **KAI**<br>
-Whew~ That's more than enough, right? Didn't think this equipment and instruments are still able to function.
+Whew\~ That's more than enough, right? Didn't think this equipment and instruments are still able to function.
 
 **Cherry**<br>
 Where's Simon?
@@ -60,7 +60,7 @@ It's me.
 Yes, we are safe, so far at least. Thanks.
 
 **[JOE]**<br>
-*No problemo~<br>
+*No problemo\~<br>
 Big sis' cat is also with me. Tell her not to worry.*
 
 **Xenon**<br>
@@ -79,7 +79,7 @@ Got it. If anything happens, I'll contact you again.
 *Muuuuu.... ten more minutes...*
 
 **[JOE]**<br>
-*It's a call from Xenon~*
+*It's a call from Xenon\~*
 
 **[NEKO]**<br>
 *None*

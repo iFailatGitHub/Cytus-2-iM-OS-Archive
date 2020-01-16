@@ -26,7 +26,7 @@ Does not accept these kinds of behavior
 Definitely not a PUFFER, we know our place!
 
 **IronFan**<br>
-I feel like we need to single him out. The admins are probably going to give him a non-prosecution or something and let him off scot-free. What if he does it again?
+I feel like we need to single him out. The admins are probably going to give him a non\-prosecution or something and let him off scot\-free. What if he does it again?
 
 **PAFF-Official**<br>
 We would like fellow little Puffs to calm down. We don't do anything illegal!

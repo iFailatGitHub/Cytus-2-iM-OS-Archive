@@ -35,7 +35,7 @@ Wow it's the doctor himself!
 Rumor has it that ConneR and ROBO\_head know each other personally, looks true now
 
 **N0B0DY**<br>
-Sensei~~ it's a great honor to know you!
+Sensei\~\~ it's a great honor to know you!
 
 **Dogleg**<br>
 Only the best scholars can take on this important mission, congrats Sensei.

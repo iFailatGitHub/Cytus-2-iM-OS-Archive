@@ -114,7 +114,6 @@ Hey, you can come out now.
 ......!
 
 ![rios2501.png](./attachments/rios2501.png)
-
 **Sagar**<br>
 Exactly like a person... Her exterior, it's...?
 

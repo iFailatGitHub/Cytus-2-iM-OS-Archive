@@ -7,9 +7,9 @@
 ## Post
 **Flower_Head**<br>
 [News][Xenon][Jailbreak][Administration Bureau]<br>
-> According to our sources, in the middle of last night, several armed people broke into the restricted area. Their target was the prime suspect of the Æsir-FEST incident Simon Jackson (Internet ID: Xenon), who was still in custody. Even though the Administration Bureau has stated that they will be holding a press conference to explain the situation once they sort out the details, it is almost certain that as of now, Simon Jackson is no longer under the control of the Administration Bureau.<br>
+> According to our sources, in the middle of last night, several armed people broke into the restricted area. Their target was the prime suspect of the Æsir\-FEST incident Simon Jackson (Internet ID: Xenon), who was still in custody. Even though the Administration Bureau has stated that they will be holding a press conference to explain the situation once they sort out the details, it is almost certain that as of now, Simon Jackson is no longer under the control of the Administration Bureau.<br>
 > <br>
-> According to private interviews conducted by our reporter, the perpetrators' planning of this jailbreak operation was very carefully thought out. In addition to distracting the guards with words, they also destroyed more than a dozen armed drones. Fortunately, no casualties were found. Whether this was caused by the Administration Bureau's lack of discipline or the perpetrators being simply too skilled and well-prepared remains to be determined. Right now, we can only wait patiently for the results of the investigation. <br>
+> According to private interviews conducted by our reporter, the perpetrators' planning of this jailbreak operation was very carefully thought out. In addition to distracting the guards with words, they also destroyed more than a dozen armed drones. Fortunately, no casualties were found. Whether this was caused by the Administration Bureau's lack of discipline or the perpetrators being simply too skilled and well\-prepared remains to be determined. Right now, we can only wait patiently for the results of the investigation. <br>
 [Article excerpted from Node Times]
 ## Replies
 **Curo**<br>
@@ -30,7 +30,7 @@ A few people were all it took to break him out? What the f\*\*\* are the admins 
 What an embarrassment XDDD The restricted area being made a complete joke by a few random folks LOLOL
 
 **888fans**<br>
-Is there nothing we can do about this?? Just let him get off scot-free like that?? Has a wanted order been issued?
+Is there nothing we can do about this?? Just let him get off scot\-free like that?? Has a wanted order been issued?
 
 **AntiMetal**<br>
 ARGGGHHH so mad why did this guy get out!!!! We should introduce caning for bastards like him!!
@@ -39,10 +39,10 @@ ARGGGHHH so mad why did this guy get out!!!! We should introduce caning for bast
 Drones destroyed... dude, doesn't that sound like what a terrorist would do?? Did an entire army show up to bail Xenon out??
 
 **Heart_Head**<br>
-The admins are probably figuring out how they're going to explain such a major screw-up to the public
+The admins are probably figuring out how they're going to explain such a major screw\-up to the public
 
 **Nyd_Ans**<br>
-The two sides probably already reached an agreement. All is well, all is well~
+The two sides probably already reached an agreement. All is well, all is well\~
 
 **GemFeather**<br>
 In all seriousness,<br>
@@ -53,7 +53,7 @@ I feel like there should be a news embargo on stuff like this<br>
 Where did the reporter get all this info???
 
 **DDStream**<br>
-Maybe even this news report is fake~~~ \#Fakenews is still alive and well~~
+Maybe even this news report is fake\~\~\~ \#Fakenews is still alive and well\~\~
 
 **DoToro**<br>
 I think I'll repost after the NNN report on this is released

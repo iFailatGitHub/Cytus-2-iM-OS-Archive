@@ -18,7 +18,7 @@ Xenon really working very hard to help everyone address the problems (ΦωΦ)/
 
 **NEKO#ΦωΦ**<br>
 NEKO is never afraid of reporters anyway<br>
-You a-holes better watch your back /(Φ皿Φ)/
+You a\-holes better watch your back /(Φ皿Φ)/
 
 **JOE**<br>
 Umm... I don't think that's a good idea<br>
@@ -33,7 +33,7 @@ Wait a sec this is still a promotional post
 
 **Pinevalley**<br>
 I personally don't think that Xenon would do those things<br>
-However, I have to say that with him getting off scot-free every time and all those rumors out there<br>
+However, I have to say that with him getting off scot\-free every time and all those rumors out there<br>
 It is no surprise that more and more people around me are starting to feel that there is something "off" about him
 
 **Noposa**<br>
@@ -44,7 +44,7 @@ Didn't expect NEKO to reply to this thread<br>
 Is it wrong for me to be a little excited at the possibility of Cherry appearing as well (?
 
 **lenba**<br>
-Don't be stupid Cherry is under contract with an actual agency. It would be annoying-AF for them to deal with a paparazzi magazine
+Don't be stupid Cherry is under contract with an actual agency. It would be annoying\-AF for them to deal with a paparazzi magazine
 
 **StuffyMouth**<br>
 Owner don't be mad<br>

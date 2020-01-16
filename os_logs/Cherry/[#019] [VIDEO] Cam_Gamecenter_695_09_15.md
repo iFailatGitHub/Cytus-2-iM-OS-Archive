@@ -25,7 +25,6 @@ I'm sorry... now, die.
 *Player1 Cherry WIN!*
 
 ![chos1901.png](./attachments/chos1901.png)
-
 **Cherry**<br>
 Yeah! Muhahaha! You owe me a drink, loser!
 
@@ -33,7 +32,7 @@ Yeah! Muhahaha! You owe me a drink, loser!
 Impossible... me, the Quadrant III gunslinger god, loses to a girl...
 
 **Cherry**<br>
-Never look down on a lady~<br>
+Never look down on a lady\~<br>
 How 'bout you KAI? Want a match?
 
 **KAI**<br>
@@ -64,7 +63,7 @@ Interesting! Bring it on!
 I... is this what a match between the pros looks like? I have absolutely no idea what the hell you guys are doing...
 
 **Xenon**<br>
-Ah~~, I lost. Haven't played in a while, needs more practice. 
+Ah\~\~, I lost. Haven't played in a while, needs more practice. 
 
 **Cherry**<br>
 Doesn't count! The time was up and I didn't get to kill you!

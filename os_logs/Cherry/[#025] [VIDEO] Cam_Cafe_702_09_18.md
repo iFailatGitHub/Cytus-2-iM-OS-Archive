@@ -19,7 +19,6 @@ Yo, Simon.
 ... What's wrong with her? Is she drunk?
 
 ![chos2501.png](./attachments/chos2501.png)
-
 **JOE**<br>
 Her? Do you really think she can get drunk? She just fell asleep; apparently, band practice was tough today.<br>
 Should we wake her up?
@@ -42,7 +41,7 @@ Oh, I see, congrats! Then where are you guys going later?
 Not telling you.
 
 **JOE**<br>
-Huh~? Why are you also acting so mysterious and such? Are you guys having an underground affair?
+Huh\~? Why are you also acting so mysterious and such? Are you guys having an underground affair?
 
 **Xenon**<br>
 How can there be an underground one when there's nothing on the surface to begin with... stop acting like an idiot.
@@ -61,7 +60,7 @@ Wow, you serious!? How did you guys do that?
 Even if I do explain, there's no way that blockhead of yours gets it. To keep it short, once we get the evidence we need, we'll go get NEKO from the admins.
 
 **JOE**<br>
-Oh I see~ Then good luck~ Mr."Big Hero"~<br>
+Oh I see\~ Then good luck\~ Mr."Big Hero"\~<br>
 But all things aside, isn't this quite dangerous? I mean if it's really him, he's pretty much a terrorist, isn't he?
 
 **Xenon**<br>
@@ -110,6 +109,6 @@ Ah, probably NEKO? Sometimes when we compose late into the night, I'll give her 
 So she really is your new...
 
 **Xenon**<br>
-Yeah Yeah~ she is~ now stop talking and get on.
+Yeah Yeah\~ she is\~ now stop talking and get on.
 
 *[Signal Lost]*

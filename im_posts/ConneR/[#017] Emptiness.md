@@ -8,7 +8,7 @@
 **ConneR**<br>
 People of the modern age seem to be overly focused on pursuing the shallow surface. They often only care about what they see, or more likely, what they want to see. Never once did they think about the context and reasons beneath the surface.
 
-    My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in-person.
+    My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in\-person.
 ## Replies
 **Amberclove**<br>
 Is Sensei taking a shot at the recent incidents?

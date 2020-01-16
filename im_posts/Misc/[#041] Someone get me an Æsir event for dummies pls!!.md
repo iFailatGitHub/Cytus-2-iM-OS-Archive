@@ -32,7 +32,7 @@ EHHHHH how could you!!!
 What I had my snacks ready for a big reveal and now you hit me with this!!
 
 **SH11HO**<br>
-It ain't Robohead without the "exposed" stuff ~~~~ you're Roboham now (ΦˋдˊΦ)
+It ain't Robohead without the "exposed" stuff \~\~\~\~ you're Roboham now (ΦˋдˊΦ)
 
 **SYY**<br>
 Robowhat???

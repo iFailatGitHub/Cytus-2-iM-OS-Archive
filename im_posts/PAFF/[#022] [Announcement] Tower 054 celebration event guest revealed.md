@@ -6,9 +6,9 @@
 
 ## Post
 **PAFF-Official**<br>
-Dear little Puffs, do you remember the rookie band **@Cherry PuNK** who composed a song for PAFF ~~
+Dear little Puffs, do you remember the rookie band **@Cherry PuNK** who composed a song for PAFF \~\~
 
-Originally, PAFF was scheduled to participate in the Tower 054 new floor "108" 's opening celebration event. However, since she is still not feeling well, she is unable to be present at the event herself. She will be talking with everyone through a pre-recorded video. Monophonic Entertainment also invited Cherry PuNK to be at the event as special guests!
+Originally, PAFF was scheduled to participate in the Tower 054 new floor "108" 's opening celebration event. However, since she is still not feeling well, she is unable to be present at the event herself. She will be talking with everyone through a pre\-recorded video. Monophonic Entertainment also invited Cherry PuNK to be at the event as special guests!
 
 After hearing that they will be performing in place of the still recovering PAFF, the members of Cherry PuNK have been practicing really hard. Everyone, please remember to acknowledge them and give them a huge round of applause!
 ## Replies
@@ -77,7 +77,7 @@ Wait so that means?????
 More BS from Mono?
 
 **MYMYM**<br>
-There's a clip!! I'm gonna check it out~~~~~~
+There's a clip!! I'm gonna check it out\~\~\~\~\~\~
 
 **TunaLee**<br>
 Is it wrong to find love for Cherry PuNK in PAFF's dungeon

@@ -11,7 +11,7 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Good evening everyoneeeee ~(ΦωΦ) Meow
+Good evening everyoneeeee \~(ΦωΦ) Meow
 
 
 
@@ -19,14 +19,14 @@ Good evening everyoneeeee ~(ΦωΦ) Meow
 ![n0601.png](./attachments/n0601.png)
 ## Replies
 **NEKOSAIKOU**<br>
-Good evening~ <3
+Good evening\~ <3
 
 **MRArupaka**<br>
 Greetings NEKO ////
 
 **NEKO#ΦωΦ**<br>
-What should we talk about today~ (－ˋωˊ－)<br>
-Ah I know, let's talk about the Æsir concert thingamabob half a year ago~
+What should we talk about today\~ (－ˋωˊ－)<br>
+Ah I know, let's talk about the Æsir concert thingamabob half a year ago\~
 
 **NEKO#ΦωΦ**<br>
 This should be an event many people followed lol
@@ -38,7 +38,7 @@ The talk about Æsir has been increasing as of late. Thought people completely f
 Can someone tell me what happened?
 
 **NEKO#ΦωΦ**<br>
-Some dude says he will hold a concert then pulled a no-show and had everyone standing there like idiots for several hours (σΦωΦ)σ
+Some dude says he will hold a concert then pulled a no\-show and had everyone standing there like idiots for several hours (σΦωΦ)σ
 
 **Poopytrap**<br>
 Mr. "I stood people up" rofl

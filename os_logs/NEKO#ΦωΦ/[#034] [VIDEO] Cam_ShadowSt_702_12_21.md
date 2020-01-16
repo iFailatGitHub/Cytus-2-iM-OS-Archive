@@ -27,7 +27,6 @@ Lemme take a pic for Aroma\-chan first...
 *\[Takes Picture\]*
 
 ![nos3401.png](./attachments/nos3401.png)
-
 **Xenon**<br>
 ......
 
@@ -43,7 +42,7 @@ Y\-Y\-Y\-You... You gotta go to the hospital! Let's go to Kyubo Medical Center? 
 *\[Pulls hand\]*
 
 **NEKO#ΦωΦ**<br>
-Erghhh~~~com' on and get up! NEKO can't pull ya all alone!
+Erghhh\~\~\~com' on and get up! NEKO can't pull ya all alone!
 
 **Xenon**<br>
 ......

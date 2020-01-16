@@ -1,4 +1,4 @@
-# Weird-ass experience
+# Weird\-ass experience
 ## Requirements
 |Character|Level|
 |---------|:---:|
@@ -6,7 +6,7 @@
 
 ## Post
 **Mecha_Giga**<br>
-This is a weird-ass experience I heard from a friend's friend. He said that he fell asleep without removing the virtual connection cable. He had a dream where he's surfing the net and sending messages to friends. After he woke up, he found out that it wasn't just a dream; he actually sent out those messages in real life...
+This is a weird\-ass experience I heard from a friend's friend. He said that he fell asleep without removing the virtual connection cable. He had a dream where he's surfing the net and sending messages to friends. After he woke up, he found out that it wasn't just a dream; he actually sent out those messages in real life...
 ## Replies
 **TunaLee**<br>
 Didn't the manual for the chips say that you shouldn't sleep with the cable connected?

@@ -7,9 +7,9 @@
 ## Post
 **ROBO_Head**<br>
 [Æsir][Breaking][News][ARC][Administration Bureau]<br>
-> The mysterious musician Æsir, who made a high-profile concert announcement half-a-year ago, was exposed by famous internet DJ ROBO\_Head for the suspicious use of illegal methods to erase the memories of all connected users. However, the actual method and purpose of these actions are still unclear. Earlier today, we received some inside news from the law enforcement department of the Administration Bureau. The Bureau has initiated the investigation, and there is a possibility that this incident is related to the "streamer hacked" incident that occurred at the end of last month.<br>
+> The mysterious musician Æsir, who made a high\-profile concert announcement half\-a\-year ago, was exposed by famous internet DJ ROBO\_Head for the suspicious use of illegal methods to erase the memories of all connected users. However, the actual method and purpose of these actions are still unclear. Earlier today, we received some inside news from the law enforcement department of the Administration Bureau. The Bureau has initiated the investigation, and there is a possibility that this incident is related to the "streamer hacked" incident that occurred at the end of last month.<br>
 > <br>
-> Regarding this issue, the spokesperson for the Bureau stated that if the actual situation indeed matched the rumors and that the users' memories were erased, this will be the largest internet terrorist attack since Node 08 was established. "We are facing a unique situation never seen before. This is a brand-new type of enemy, using a brand-new method of attack." Davis, A.R.C.'s minister of internet security, also released an announcement earlier today, stating that they will be working together with the Bureau to locate the culprit and uncover the truth...<br>
+> Regarding this issue, the spokesperson for the Bureau stated that if the actual situation indeed matched the rumors and that the users' memories were erased, this will be the largest internet terrorist attack since Node 08 was established. "We are facing a unique situation never seen before. This is a brand\-new type of enemy, using a brand\-new method of attack." Davis, A.R.C.'s minister of internet security, also released an announcement earlier today, stating that they will be working together with the Bureau to locate the culprit and uncover the truth...<br>
 [Article excerpted from Node News Network]
 
 ![r2501.png](./attachments/r2501.png)
@@ -26,16 +26,16 @@ If not for that fact, we might have no evidence at all on the event
 It feels like you are saying that he's an idiot by stating that he doesn't have a brain XDDDD
 
 **Talus_Alpha**<br>
-**@ROBO\_Head** You have no brains~~~~
+**@ROBO\_Head** You have no brains\~\~\~\~
 
 **ROBO_Head**<br>
 This unit consists of inorganic compounds<br>
 Brain organic biological organ<br>
 Conclusion: This unit no brains<br>
-P.S: Smarter than 99.99% of carbon-based creatures ：D
+P.S: Smarter than 99.99% of carbon\-based creatures ：D
 
 **HC**<br>
-ROBO\_Head should count as a Silicon-based creature I think XDD Just like how Sci-Fi novels describe alien creatures
+ROBO\_Head should count as a Silicon\-based creature I think XDD Just like how Sci\-Fi novels describe alien creatures
 
 **AliceinCytus**<br>
 No matter what, I still can't remember anything about the concert<br>
@@ -43,7 +43,7 @@ Or should I say can I still remember anything?<br>
 If I really do remember, is it really my memory of that day?
 
 **NerfThat**<br>
-I saw Dr. Hawkins on a show the other day. He said that although the memory is theoretically erased, the human brain has some kind of self-defense mechanism. So there might be a backup hidden in the subconscious
+I saw Dr. Hawkins on a show the other day. He said that although the memory is theoretically erased, the human brain has some kind of self\-defense mechanism. So there might be a backup hidden in the subconscious
 
 **BUCK$**<br>
 Ah man, times like this make you wish that you're a computer and you can just go into the subconscious to copy and paste your memory to your heart's content

@@ -15,7 +15,7 @@ I've already paid for the liquidated damages, so that's it! Goodbye!
 
 **Neko**<br>
 UGH! I'm so mad! Trash Company!!<br>
-Only idiots will produce music for your stupid faces! BLEHHHHH~!!
+Only idiots will produce music for your stupid faces! BLEHHHHH\~!!
 
 **Neko**<br>
 ......

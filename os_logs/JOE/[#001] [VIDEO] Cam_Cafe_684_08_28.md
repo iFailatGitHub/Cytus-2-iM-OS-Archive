@@ -17,7 +17,6 @@ Alright, set up the music stand here...
 No need for that! Yours truly here have memorized the entire thing already!
 
 ![jos0101.png](./attachments/jos0101.png)
-
 **Saxon**<br>
 You're way too young to be calling yourself "yours truly"... alright then, let's begin.
 
@@ -76,7 +75,7 @@ Whew, I finished! Yeah!
 Not bad. However, your pinky finger is not flexible enough. Are you doing your scale exercises properly? That's the most basic skill, you must practice it every day.
 
 **JOE**<br>
-Of course I did~ You never believe me, even though I'm such a good boy!
+Of course I did\~ You never believe me, even though I'm such a good boy!
 
 **Saxon**<br>
 I will believe you once you show me some results. One more time?

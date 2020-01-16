@@ -6,7 +6,7 @@
 
 ## Post
 **Nyd_Ans**<br>
-Aren't you working some sort of internet security-related job at A.R.C.?<br>
+Aren't you working some sort of internet security\-related job at A.R.C.?<br>
 Got anything?<br>
 
 ## Replies
@@ -41,7 +41,7 @@ People in music bands are always like that, especially metal bands
 Got gossip?
 
 **Cipher_troll**<br>
-There were rumors about him dating NEKO a while ago, then recently someone saw him getting back together with his ex-girlfriend Cherry
+There were rumors about him dating NEKO a while ago, then recently someone saw him getting back together with his ex\-girlfriend Cherry
 
 **Andy_Roid**<br>
 Cherry? Who's that?
@@ -50,7 +50,7 @@ Cherry? Who's that?
 That Cherry PuNK girl right? The one that has been covering up for PAFF a lot these days
 
 **Rob_Oto**<br>
-Let's tag him XDDD Hey **@Xenon**~~~~~ tell us about your gossip ~~~
+Let's tag him XDDD Hey **@Xenon**\~\~\~\~\~ tell us about your gossip \~\~\~
 
 **NoProblemo**<br>
 You're gonna get reported if you keep tagging like this lol

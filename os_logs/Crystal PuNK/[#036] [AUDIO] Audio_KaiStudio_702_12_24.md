@@ -19,7 +19,7 @@ Sensei, he's in the inner room.
 Hehe, don't call me Sensei. I haven't seen you in so long. Seems like you've grown taller?
 
 **NEKO#ΦωΦ**<br>
-Muuu~ don't treat me like a child.
+Muuu\~ don't treat me like a child.
 
 **??????**<br>
 ...*\*chuckles\* ...\*sigh\**... Hiding in such a filthy place like this, no wonder folks couldn't find you. Even a cockroach wouldn't want to enter a place like this.

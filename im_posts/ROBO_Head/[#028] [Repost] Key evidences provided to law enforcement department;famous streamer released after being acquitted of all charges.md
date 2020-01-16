@@ -9,7 +9,7 @@
 [News][Administration Bureau][NEKO][Æsir]<br>
 > The stream hack incident that created quite the buzz a while ago just experienced a dramatic development today. Streamer NEKO\#ΦωΦ, who was marked by the Administration Bureau due to her suspected involvement, was acquitted of all charges and released this afternoon. After contacting the Law Enforcement Department (LED), this reporter was able to receive a quick confirmation of this news.<br>
 > <br>
-> This reporter also managed to get some exclusive information. According to an anonymous source inside LED, in the past few days, they've been receiving physical evidence that is very favorable for NEKO. The evidence is sufficient enough that the LED officers and the Bureau believe that NEKO is not the main culprit behind the large-scale hacking incident. To prevent public opinion from shifting, the procedures have been cleared and her release has been granted as quickly as possible. <br>
+> This reporter also managed to get some exclusive information. According to an anonymous source inside LED, in the past few days, they've been receiving physical evidence that is very favorable for NEKO. The evidence is sufficient enough that the LED officers and the Bureau believe that NEKO is not the main culprit behind the large\-scale hacking incident. To prevent public opinion from shifting, the procedures have been cleared and her release has been granted as quickly as possible. <br>
 [Article excerpted from Node News Network]
 ## Replies
 **ROBO_Head**<br>
@@ -51,13 +51,13 @@ So she just went home quietly<br>
 Judging by NEKO's personality, I thought she would've have started a party right there at the main entrance
 
 **AbigaleJ**<br>
-Are you sure that her real-life personality in private is the same as the one during stream ROFL
+Are you sure that her real\-life personality in private is the same as the one during stream ROFL
 
 **Flower_Head**<br>
 \*Whisper\* TBH I kinda secretly hope it's the same...
 
 **C.Y.**<br>
-I have a friend's friend who was her classmate. From what he said, not as over-the-top as she is in streams, but indeed a very fun and playful person
+I have a friend's friend who was her classmate. From what he said, not as over\-the\-top as she is in streams, but indeed a very fun and playful person
 
 **Andy_Roid**<br>
 Today the LED also only issued a brief statement. Seems like the investigation is truly going nowhere

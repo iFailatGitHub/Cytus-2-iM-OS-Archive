@@ -11,6 +11,5 @@
 
 ## Log Content
 ![chos2101.png](./attachments/chos2101.png)
-
 Date: 702/09/15<br>
 Location: Quadrant III, Tower 054

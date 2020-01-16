@@ -12,14 +12,14 @@
 
 ## Post
 **PAFF-Official**<br>
-Dear little Puffs, we have some good news for you~
+Dear little Puffs, we have some good news for you\~
 
 To support PAFF, who is still recovering, Mono Music plans to produce a special premium collection for PAFF. It will record all her hard work and will contain her best songs throughout all these years!
 
-Aaaanndd...in addition to behind-the-scenes and crossovers, we invited Monophonic Entertainment newcomers <br>
-**@Cherry PuNK** to compose the songs, guaranteed to bring everyone a brand-new experience!
+Aaaanndd...in addition to behind\-the\-scenes and crossovers, we invited Monophonic Entertainment newcomers <br>
+**@Cherry PuNK** to compose the songs, guaranteed to bring everyone a brand\-new experience!
 
-Please pay attention to **@PAFF-Official** and the upcoming updates!
+Please pay attention to **@PAFF\-Official** and the upcoming updates!
 
 ![p1901.png](./attachments/p1901.png)
 ## Replies
@@ -27,7 +27,7 @@ Please pay attention to **@PAFF-Official** and the upcoming updates!
 We don't want premium collection; we want PAFF to be healthy!
 
 **IronFan**<br>
-Didn't she just return to the hospital for a check-up?
+Didn't she just return to the hospital for a check\-up?
 
 **Pascal626**<br>
 Won't PAFF get too tired from this, did the doctor give permission? Why is the agency doing this to PAFF QQ

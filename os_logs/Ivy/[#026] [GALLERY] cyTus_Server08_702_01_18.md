@@ -13,8 +13,6 @@
 ## Log Content
 ![ivos2601.png](./attachments/ivos2601.png)
 
-
 ![ivos2602.png](./attachments/ivos2602.png)
-
 
 ![ivos2603.png](./attachments/ivos2603.png)

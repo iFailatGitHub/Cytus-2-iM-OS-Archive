@@ -35,7 +35,6 @@ No s\*\*\*! You can tell that by just looking!<br>
 Surround them! Surround them!
 
 ![ros1601.png](./attachments/ros1601.png)
-
 **[ROBO_Head]**<br>
 *Sir, please move to the front of this unit in order for this unit to continue the diagnosis.*
 
@@ -156,7 +155,7 @@ I grabbed this from their safe... Had to run for a really damn long time to get 
 
 **Yamada**<br>
 Don't look at me like that. They're illegally owning it too. I just took something that never belonged to them in the first place and sold it on the market. That doesn't count as "stealing".<br>
-Thank you for your help. See ya~
+Thank you for your help. See ya\~
 
 *\[Footsteps\]*
 

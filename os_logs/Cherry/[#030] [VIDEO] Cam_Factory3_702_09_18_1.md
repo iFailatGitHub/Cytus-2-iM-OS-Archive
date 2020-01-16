@@ -39,7 +39,7 @@ Umm... I didn't think about that either. For starters, let's circle the facility
 ... When it comes to tech, you're really smart. Everything else? You're a complete mess, be it back then or now...
 
 **Xenon**<br>
-Yes, yes, I know~ Then what kind of great idea do you have, Miss "Criminal Master"?
+Yes, yes, I know\~ Then what kind of great idea do you have, Miss "Criminal Master"?
 
 **Cherry**<br>
 Shhhhh! Stay down! Something's there.
@@ -86,7 +86,6 @@ Civilians...... prohibited...
 ......
 
 ![chos3001.png](./attachments/chos3001.png)
-
 **Xenon**<br>
 ... Did you destroy it?
 

@@ -30,7 +30,7 @@ You really don't remember anything...? You two were really close friends.
 Yes... I'm sorry.
 
 **Clara**<br>
-You don't have to apologize... We can build a new friendship starting today! If we're being honest, the person that's real~ close to you is right there~ Iris, why don't you come and greet Aroma?
+You don't have to apologize... We can build a new friendship starting today! If we're being honest, the person that's real\~ close to you is right there\~ Iris, why don't you come and greet Aroma?
 
 **Iris**<br>
 ......
@@ -57,7 +57,6 @@ Hey! Stopping spewing nonsense. Aroma, don't listen to him. I'm your real boyfri
 Shut your pie holes! Seriously, why are you guys so immature!
 
 ![aos0501.png](./attachments/aos0501.png)
-
 **Iris**<br>
 Waah! You don't have to drag me here...
 
@@ -123,12 +122,12 @@ You have a point. He, Clara and Aroma; putting the Big 3 in our class together w
 Forget about it. Didn't you see him in class? He is in a terrible mood today. He might beat you up if you go talk to him right now.
 
 **Classmate A**<br>
-Sighs~ Seriously, what's the point of having good test scores if you're going to act like that? If he keeps doing this, his conduct score will be in the negatives very soon.
+Sighs\~ Seriously, what's the point of having good test scores if you're going to act like that? If he keeps doing this, his conduct score will be in the negatives very soon.
 
 **Aroma**<br>
 ......?
 
 **Clara**<br>
-...... Ah, whatever~ Forget it. Let's take Aroma on a tour of the Academy. Pretty sure that'll be more helpful than waiting here for that punk.
+...... Ah, whatever\~ Forget it. Let's take Aroma on a tour of the Academy. Pretty sure that'll be more helpful than waiting here for that punk.
 
 *[Signal Lost]*

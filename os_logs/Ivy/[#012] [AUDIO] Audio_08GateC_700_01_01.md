@@ -65,7 +65,7 @@ Die.
 OWWW! That really hurt!
 
 **Sagar**<br>
-Hey, don't mess around now~ Excuse me, can you guys weigh us again?
+Hey, don't mess around now\~ Excuse me, can you guys weigh us again?
 
 *\[Weight scanning\]*
 

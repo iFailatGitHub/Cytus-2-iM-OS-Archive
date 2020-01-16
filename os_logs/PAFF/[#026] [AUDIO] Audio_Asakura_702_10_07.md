@@ -8,13 +8,13 @@
 *\[Door Closes\]*
 
 **NEKO#ΦωΦ**<br>
-Whew~ Haha~ Today's stream was AWESOME. The viewers were all hyped!
+Whew\~ Haha\~ Today's stream was AWESOME. The viewers were all hyped!
 
 **PAFF**<br>
 Is it really alright...? Your conduct score must've taken quite the hit, right? That was a pretty big ruckus you caused back there...
 
 **NEKO#ΦωΦ**<br>
-No problemo~ NEKO enrolled in a few extra credit seminars at the end of the semester. It should be just enough to cover my deducted points~ I think? Probably?
+No problemo\~ NEKO enrolled in a few extra credit seminars at the end of the semester. It should be just enough to cover my deducted points\~ I think? Probably?
 
 **PAFF**<br>
 ......
@@ -26,13 +26,13 @@ What's the matter? Not feeling well?
 Eh? No... It's just... I think you're amazing. You always seem so energetic.
 
 **NEKO#ΦωΦ**<br>
-The heck is that~ NEKO may seem this way, but there's still stuff I worry about...
+The heck is that\~ NEKO may seem this way, but there's still stuff I worry about...
 
 **PAFF**<br>
 Is that so? I've always felt like NEKO is such a strong person. It's as if there is no hardship you can't overcome.
 
 **NEKO#ΦωΦ**<br>
-Hehe~? I'm not that ... haha.<br>
+Hehe\~? I'm not that ... haha.<br>
 ... Ah, by the way, Aroma\-chan, do you know about Xenon?
 
 **PAFF**<br>
@@ -98,7 +98,7 @@ Yes! I saved a few photographs and brought them out with me. All these classmate
 *Project saved photo files.*
 
 **NEKO#ΦωΦ**<br>
-Ho~? Ah, so this is that Iris person? She's a really cute girl too...
+Ho\~? Ah, so this is that Iris person? She's a really cute girl too...
 
 **PAFF**<br>
 Yes... what a shame. If only I could find her address...
@@ -116,13 +116,13 @@ Then it's very possible that this photo is taken somewhere near her home, isn't 
 Hmm... I'm not certain. Besides, I don't recognize this place either...
 
 **NEKO#ΦωΦ**<br>
-Hmmm... this place... NEKO finds it a bit familiar for some reason~
+Hmmm... this place... NEKO finds it a bit familiar for some reason\~
 
 **PAFF**<br>
 Eh? For real?
 
 **NEKO#ΦωΦ**<br>
-Uh\-huh~ Hmm~~ Ah! Isn't this the streets around "Mountain Breeze Musique"! NEKO knows this place!
+Uh\-huh\~ Hmm\~\~ Ah! Isn't this the streets around "Mountain Breeze Musique"! NEKO knows this place!
 
 **PAFF**<br>
 Mountain Breeze Musique...?

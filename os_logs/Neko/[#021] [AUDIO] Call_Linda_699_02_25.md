@@ -11,7 +11,7 @@
 *Hello, NEKO? What's the matter?*
 
 **Neko**<br>
-Lin~da~Chuwan~~~
+Lin\~da\~Chuwan\~\~\~
 
 **[Linda]**<br>
 *... An argument with your family again?*
@@ -35,13 +35,13 @@ No kidding! Today, we bumped into each other when taking the elevator. She didn'
 *Woah, everything alright?*
 
 **Neko**<br>
-No problemo~ NEKO has a very hard head!
+No problemo\~ NEKO has a very hard head!
 
 **[Linda]**<br>
 *Umm, I was concerned about PAFF.*
 
 **Neko**<br>
-Lin~da~Chii~~~ You're so mean!
+Lin\~da\~Chii\~\~\~ You're so mean!
 
 **[Linda]**<br>
 *Ahaha, so she didn't say sorry at all?*
@@ -59,7 +59,7 @@ Ahaha, that's true. Linda\-chan used to not talk to other people at all.
 *You, on the other hand, love to talk to other people, whether it's back then or right now.*
 
 **Neko**<br>
-That's how we became super BFFs! Teehee~
+That's how we became super BFFs! Teehee\~
 
 **[Linda]**<br>
 *Teehee my a\*\*.<br>
@@ -94,7 +94,7 @@ I'm so envious of you for knowing your path already. I'm also at the time where 
 
 **Neko**<br>
 If it's Linda\-chan, a band perhaps? Become an uber\-popular lead singer! Collab with NEKO! Release a platinum EP!<br>
-Muhahaha, what a perfect plan~
+Muhahaha, what a perfect plan\~
 
 **[Linda]**<br>
 *I don't have PAFF's talent.<br>
@@ -120,6 +120,6 @@ There definitely will be! Fight, Linda\-chan!
 I have a morning shift tomorrow. Gotta sleep first. Goodnight!*
 
 **Neko**<br>
-Gotcha. NEKO's gonna sleep too. Goodnight~
+Gotcha. NEKO's gonna sleep too. Goodnight\~
 
 *[Call Ends]*

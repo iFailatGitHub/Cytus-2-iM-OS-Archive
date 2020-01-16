@@ -21,7 +21,7 @@ Haha... Can e͟%̶̡͟\#̧͝h͝|́͘%͝ dinner Ǵ̢̛͜͟S̷̡̨̛͜)̢͜͝z̨�
 Ah, not that yours >̷̀\#̛͠?̧ wrong. It's mostly \\͞҉͠+̡͠͡!͏̵̡͢͠2̶̨͜ me.
 
 **？？？**<br>
-Here you go again~ If it's tomorrow, ,̷,͜͝[̨g̵!̡̕`̢}̸͜ until I get off work. {̧́͟;̴̸̵͝~̷̢̀͘͜r̢̢H̸͟͝,̷,͜͝[̨g̵!̡̕`̢}̸͜s̷̡̕͜b̴̧̧͢͜Z҉̨ too late?
+Here you go again\~ If it's tomorrow, ,̷,͜͝[̨g̵!̡̕`̢}̸͜ until I get off work. {̧́͟;̴̸̵͝\~̷̢̀͘͜r̢̢H̸͟͝,̷,͜͝[̨g̵!̡̕`̢}̸͜s̷̡̕͜b̴̧̧͢͜Z҉̨ too late?
 
 **？？？**<br>
 Not at all. I'll wait for you.
@@ -64,7 +64,6 @@ Ha... Ha... Ha... AH!
 Damnit...
 
 ![aos3001.png](./attachments/aos3001.png)
-
 **？？？**<br>
 ......
 

@@ -69,10 +69,10 @@ It's okay. I just want to know that sister is safe. There really are a lot of cu
 Ah... You shouldn't come in here. Go home now. Sister will go back later.
 
 **Shop Owner**<br>
-Ho? Isn't this Aroma? Haven't seen you in a long time~
+Ho? Isn't this Aroma? Haven't seen you in a long time\~
 
 **PAFF**<br>
-G, good evening, sir~
+G, good evening, sir\~
 
 **Shop Owner**<br>
 Good evening. Did you grow taller again?<br>
@@ -95,7 +95,7 @@ Thank you so much!<br>
 Aroma, can you sit here and wait for me? My shift is ending very soon.
 
 **PAFF**<br>
-Understood. Sister, fight~
+Understood. Sister, fight\~
 
 **Shop Owner**<br>
 What do you want to drink? Uncle will treat you.

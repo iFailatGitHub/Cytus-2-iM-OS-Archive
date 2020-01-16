@@ -9,7 +9,7 @@
 [Entertainment][Cherry PuNK][Concert]<br>
 > In a recent performance of the popular band Cherry PuNK, lead vocalist Cherry appeared to suffer some serious mismanagement regarding her personal schedule. She was absent for almost 30 minutes before hastily taking the stage to complete the performance. Although her performance is still up to her usual standards, her actions at the start left quite the bad taste. Many audience members criticized her, calling this "The most absurd concert" they've ever seen. <br>
 > <br>
-> Cherry's late arrival occurred at a charity concert held at Node 08's Central Park. Many audience members actually waited in line overnight just to catch a glimpse of their idol, yet they were slapped with a near-30 minute no-show. Many thought that this was an organized warmup event by the band at first, which led to plenty of complaints. Some fans took to iM to express that Cherry is nowhere near as nice and professional as others have described. Their reasoning is that she didn't even bother to explain why she was late. She just hopped on stage and performed till the end as if nothing has happened. <br>
+> Cherry's late arrival occurred at a charity concert held at Node 08's Central Park. Many audience members actually waited in line overnight just to catch a glimpse of their idol, yet they were slapped with a near\-30 minute no\-show. Many thought that this was an organized warmup event by the band at first, which led to plenty of complaints. Some fans took to iM to express that Cherry is nowhere near as nice and professional as others have described. Their reasoning is that she didn't even bother to explain why she was late. She just hopped on stage and performed till the end as if nothing has happened. <br>
 > <br>
 > However, the day following the concert, fan club president CherryMyLife (iM account name) made a statement after contacting Cherry's agent and other band members to understand the situation. He stated that the real reason behind the delay was because Cherry had to deal with a family emergency that suddenly came up. Knowing how disappointed the fans would be of her absence, Cherry rushed to Central Park as fast as she could once she finished addressing the emergency.<br>
 > <br>
@@ -19,7 +19,7 @@
 ![o9101.png](./attachments/o9101.png)
 ## Replies
 **CherryMyLife**<br>
-Cherry is what we call a true professional ok~<br>
+Cherry is what we call a true professional ok\~<br>
 If it's other artists, they would've probably just canceled the whole thing!
 
 **TunaLee**<br>
@@ -49,7 +49,7 @@ Those comments in the end... just how big of a fanboy do you have to be to make 
 Turns out that the whole article is just empty fluff. No insider information what so ever
 
 **Curo**<br>
-Hey look, it's friends who know how to make big scawy titles~~~~
+Hey look, it's friends who know how to make big scawy titles\~\~\~\~
 
 **lenba**<br>
 Breaking! Reporter does your family know that you are copy and pasting internet posts and calling it news?

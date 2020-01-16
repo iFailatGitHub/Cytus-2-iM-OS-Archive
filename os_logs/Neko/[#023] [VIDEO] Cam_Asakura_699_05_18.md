@@ -18,7 +18,7 @@ Miss Yukiko, we've been looking for you for so long... So this is where you move
 Yikes... Who are these people...?
 
 **Man B**<br>
-Trying to commit debt evasion? That's not right~
+Trying to commit debt evasion? That's not right\~
 
 **Man A**<br>
 Heard that you married the person living here. Where is he?
@@ -33,7 +33,7 @@ Hmph!? That's just the principal, right? What about the interest? What do you th
 About the interest... I really couldn't...
 
 **Man B**<br>
-Hey hey hey~<br>
+Hey hey hey\~<br>
 Have you forgotten about the contract you signed? We have it right here. This is your signature, isn't it?
 
 **Man A**<br>
@@ -62,12 +62,11 @@ Shut it! The amount you guys owed is way too much. Don't you dare inform the adm
 Uargh!!
 
 ![naos2301.png](./attachments/naos2301.png)
-
 **Neko**<br>
 Let go of him! You ugly bastard!
 
 **Kenta**<br>
-Big sister! Wahhhhhh~
+Big sister! Wahhhhhh\~
 
 **Neko**<br>
 Kenta! Sis Yukiko! Are you guys alright!?
@@ -98,12 +97,12 @@ Got her. Hey! How long are you going to lie down there? Get up!
 Ah! Okay!
 
 **Man A**<br>
-Miss Yukiko, we'll take this girl as interest. We won't be bothering you for a while. Please remember to pay back the remaining principal~
+Miss Yukiko, we'll take this girl as interest. We won't be bothering you for a while. Please remember to pay back the remaining principal\~
 
 **Yukiko**<br>
 Ugh... please... don't...
 
 **Kenta**<br>
-WAHHHHHH~~
+WAHHHHHH\~\~
 
 *[Signal Lost]*

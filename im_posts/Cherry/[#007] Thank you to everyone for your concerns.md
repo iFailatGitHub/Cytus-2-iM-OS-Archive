@@ -17,7 +17,7 @@ Held a little celebration party with my band members<br>
 They've been teasing me about being the first artist to ever end up in a hospital by simply going to work<br>
 Can't blame them though; you don't find a lead vocalist who's this unlucky everyday
 
-However, I don't blame anybody. I really do understand why the fans are so emotionally fired-up for this incident<br>
+However, I don't blame anybody. I really do understand why the fans are so emotionally fired\-up for this incident<br>
 The incidents and people I've come across lately <br>
 have led me to the realization, that if it was me who lost something I treasured<br>
 I certainly won't be able to keep myself under control
@@ -36,7 +36,7 @@ Thank you
 Vocalist\_Cherry
 ## Replies
 **CherryMyLife**<br>
-Praise the lord~~~~~~~~ Cherry welcome back!!!!
+Praise the lord\~\~\~\~\~\~\~\~ Cherry welcome back!!!!
 
 **Cherry0987**<br>
 I'm gonna cry Q\_Q

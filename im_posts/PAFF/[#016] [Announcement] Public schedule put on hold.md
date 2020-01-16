@@ -8,7 +8,7 @@
 **PAFF-Official**<br>
 Dear little Puffs, we are sorry to tell you that since we still don't have the green light from PAFF's doctor, all public events are put on hold for now. Future events will also be postponed. 
 
-For more updates, please pay attention to **@PAFF-Official** and the Monophonic Entertainment official site. Pray for PAFF!
+For more updates, please pay attention to **@PAFF\-Official** and the Monophonic Entertainment official site. Pray for PAFF!
 ## Replies
 **m00nl16h7**<br>
 How come, didn't she return home already?
@@ -33,7 +33,7 @@ Pray for PAFF's health first!<br>
 Didn't she say she went home with sis Helena yesterday???
 
 **Shahari**<br>
-I won't accept his~~~QAQ
+I won't accept his\~\~\~QAQ
 
 **AbbEE**<br>
 What's wrong with PAFF? Can we get Sis Helena to explain? Instead of this official PC crap

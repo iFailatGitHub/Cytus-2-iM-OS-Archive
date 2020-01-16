@@ -14,7 +14,7 @@ This is a collab project with **@NEKO\#ΦωΦ**. Song title "Return" to celebrat
 ## Replies
 **NEKO#ΦωΦ**<br>
 Ehhh!? If I knew this song was this important<br>
-NEKO would have spent more time fine-tuning it (Φ艸Φ)
+NEKO would have spent more time fine\-tuning it (Φ艸Φ)
 
 **Xenon**<br>
 It's ok, I think you did a great job on your parts.
@@ -29,7 +29,7 @@ OOHHHH yeah! Awesome song! \\x/
 This combo feels so weird hahaha
 
 **NEKO#ΦωΦ**<br>
-What does that mean~(ΦДΦ)
+What does that mean\~(ΦДΦ)
 
 **w_Rosabel_w**<br>
 The synthesizer in the beginning is very "NEKO" ! XDD

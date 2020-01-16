@@ -68,7 +68,7 @@ Eek!
 Little kids need to listen to adults and go home, get it?
 
 **Pedestrian A**<br>
-You're a bad, bad child~ Lemme punch you in the face a few times; that'll teach you a lesson.
+You're a bad, bad child\~ Lemme punch you in the face a few times; that'll teach you a lesson.
 
 **Xenon**<br>
 Hey! Stop it.
@@ -95,10 +95,10 @@ Ha? You wanna pick a fight!?
 *\[Punch\]*
 
 **Pedestrian B**<br>
-Ha! He's so weak! Look at how far he flew~!
+Ha! He's so weak! Look at how far he flew\~!
 
 **Pedestrian A**<br>
-Hey~? Are you alright? Aren't you trying to be a hero? You can't be one if you suck so bad! Hahaha!
+Hey\~? Are you alright? Aren't you trying to be a hero? You can't be one if you suck so bad! Hahaha!
 
 **Xenon**<br>
 ......
@@ -130,7 +130,7 @@ Who are you calling child!? I don't need your care! Who are you?
 ... Hey, I did help you out, didn't I? Couldn't you at least say thank you?
 
 **Neko**<br>
-When have I ever asked for your help? Nosy idiot... Taunting people when you can't win, pfft, LAME~
+When have I ever asked for your help? Nosy idiot... Taunting people when you can't win, pfft, LAME\~
 
 **Xenon**<br>
 ......

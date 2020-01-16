@@ -46,7 +46,7 @@ The chances are slim to none. However, this did indeed help some people return t
 This is the latest one, just listed a few days ago. I heard it from the old man at the food stall over there. Apparently, there's a giant robot asking people on the streets about her.
 
 **Cherry**<br>
-Morning... *\*Yawn\**~~ So sleepy... Waah! KAI is here as well...!?
+Morning... *\*Yawn\**\~\~ So sleepy... Waah! KAI is here as well...!?
 
 **Xenon**<br>
 ... Why are you only wearing that? At least put on some pants!
@@ -62,13 +62,13 @@ Hehehe...
 ... What? Why that face?
 
 **KAI**<br>
-LOTS~ of things happened last night, didn't it?
+LOTS\~ of things happened last night, didn't it?
 
 **Xenon**<br>
 Nothing happened. We didn't even sleep in the same room.
 
 **KAI**<br>
-Blah, blah, blah~
+Blah, blah, blah\~
 
 **Xenon**<br>
 ... You little...
@@ -112,7 +112,6 @@ Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we ca
 *Muhaha, unfortunately for you, I'm a projection now! Your drumsticks are not very effective against me! Check out my Shadow C\*\*\*\* Technique! Muhahaha!*
 
 ![cpos0501.png](./attachments/cpos0501.png)
-
 **Cherry**<br>
 Ahaha! What the hell?
 

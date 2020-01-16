@@ -13,13 +13,13 @@ Put in some random rookie and dismiss their fans like that?<br>
 Let's go and show them what the internet can do
 ## Replies
 **Michiko**<br>
-Wouldn't it be awkward-AF if you are the only one who showed up?
+Wouldn't it be awkward\-AF if you are the only one who showed up?
 
 **vvv_IRIS_vvv**<br>
 Where do you want to go ROFL Main entrance of Mono's headquarters? lol
 
 **Mohito**<br>
-Yeah let's go. I'm gonna go even if it means I take a day off. Man, I'm soooo p\*\*\*ed off (-\_-\#)
+Yeah let's go. I'm gonna go even if it means I take a day off. Man, I'm soooo p\*\*\*ed off (\-\_\-\#)
 
 **Mecha_Giga**<br>
 Dude you're gonna get preventive detention<br>

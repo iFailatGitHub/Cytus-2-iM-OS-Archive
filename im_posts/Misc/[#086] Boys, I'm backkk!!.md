@@ -9,7 +9,7 @@
 ## Post
 **KirinKiraKira**<br>
 Been a long time since I get this smooth as butter connection<br>
-Time to get online and curb-stomp some noobs<br>
+Time to get online and curb\-stomp some noobs<br>
 **@NekoSamurai** Get your a\*\* online
 ## Replies
 **NekoSamurai**<br>

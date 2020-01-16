@@ -6,7 +6,7 @@
 
 ## Post
 **Xenon**<br>
-Visited my long-forgotten workshop to take a quick breather between jobs, only to discover that a  thick layer of dust had gathered on the equipment. The strings on the optic guitar were all rusty as well. <br>
+Visited my long\-forgotten workshop to take a quick breather between jobs, only to discover that a  thick layer of dust had gathered on the equipment. The strings on the optic guitar were all rusty as well. <br>
 This personal account has always existed for the sole purpose of sharing music. However, recently, I've just been tangled up in too many baffling incidents and had to deal with way too many nonsensical people. All that has caused music to be pushed to the sidelines for quite some time now. The originally simple motivation has also been covered in dust, similar to the guitar.<br>
 This situation might still continue for a while. To the people who have been supporting and looking forward to my music, I can only apologize from the bottom of my heart...
 
@@ -23,14 +23,14 @@ Is it because of all the incidents regarding cyTus a while back? The connection 
 Uninvited trouble one after another... Thanks for the Hard work, X
 
 **11IIll11**<br>
-Ah, is it because everyone now knows you're a two-timing Piece of S\*\*\*?. You don't seem to be sorry about it either, worthless hack
+Ah, is it because everyone now knows you're a two\-timing Piece of S\*\*\*?. You don't seem to be sorry about it either, worthless hack
 
 **Quest_ION**<br>
 Your comment shows the level of your intelligence and it seems to be somewhere around "bottom of the barrel"<br>
 Good work Xenon; will look forward to your new songs
 
 **NEKO#ΦωΦ**<br>
-Hey, I came up with a great idea! NEKO will write the songs for you! You on board for that ~(\*Φ∀Φ)<br>
+Hey, I came up with a great idea! NEKO will write the songs for you! You on board for that \~(\*Φ∀Φ)<br>
 The《Return》we previously wrote together is REALLY amazing (\*Φ∀Φ)
 
 **ROBO_Head**<br>

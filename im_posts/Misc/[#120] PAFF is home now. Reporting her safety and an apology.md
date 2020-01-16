@@ -22,7 +22,7 @@ Helena White
 ## Replies
 **iluvpuf**<br>
 Big sis, don't you worry!<br>
-We're in this together~~~~~
+We're in this together\~\~\~\~\~
 
 **Muahaha**<br>
 Why does the video look fake? Is it really her?
@@ -62,7 +62,7 @@ Artists don't care about being insulted. They're more scared of not being discus
 Sis Helena, if you need anything just let us know
 
 **SancTityKnight**<br>
-At least nothing happened to her. That alone is great news~<br>
+At least nothing happened to her. That alone is great news\~<br>
 PAFF, we'll support you foreverrrrrr
 
 **Sayomi911**<br>
@@ -75,7 +75,7 @@ I think the fans' wallets are hurting the most ROFL
 Bet Mono is crying their hearts out right now for cutting ties so early  \*grin\*
 
 **Sayomi911**<br>
-The Cream Puffs voices have been heard by the heavens~~~~~~
+The Cream Puffs voices have been heard by the heavens\~\~\~\~\~\~
 
 **Shahari**<br>
 PAFF and Helena, keep at it. I'm sure everything will be alright  :))))

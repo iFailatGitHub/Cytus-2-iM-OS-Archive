@@ -31,7 +31,7 @@ Turns out it's an issue with iM, then I can rest assured<br>
 **\#NobodyIsSpared**
 
 **lenba**<br>
-My connection is working just fine though~~ Did you guys remember to pay for your internet @@
+My connection is working just fine though\~\~ Did you guys remember to pay for your internet @@
 
 **Snor_eDen**<br>
 We've been continually monitoring the connection quality over here. Recently, the connection is indeed a bit unstable. The record shows that there were several sudden disconnects and login issues. We hope ARC can address these issues as soon as possible.

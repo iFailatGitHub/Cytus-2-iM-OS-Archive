@@ -12,7 +12,7 @@ Any device that requires connection got wiped out pretty much entirely<br>
 Many patients in intensive care or has special diseases, unfortunately, passed away because of this <br>
 (Surprisingly, there were also some patients whose symptoms got better)<br>
 Just suddenly realize how severe the risks can be when we are so overly reliant on a singular system<br>
-ARC did send someone later to discuss compensation with the higher-ups of the hospital<br>
+ARC did send someone later to discuss compensation with the higher\-ups of the hospital<br>
 However, it all just felt too late...
 ## Replies
 **vveay**<br>
@@ -31,16 +31,16 @@ Are there any ways we can give donations to the victims' families??
 Wait, so no backup system at all for such delicate equipment?? QAQ
 
 **Andy_Roid**<br>
-ARC had better shell out some serious money for this screw-up
+ARC had better shell out some serious money for this screw\-up
 
 **StuffyMouth**<br>
 So there were people who got better??
 
 **9tingale**<br>
-Yes, patients with Virtual-Internet Related Post-Traumatic Stress Disorder
+Yes, patients with Virtual\-Internet Related Post\-Traumatic Stress Disorder
 
 **Wickedragon**<br>
-9tingale, have you ever thought about becoming a knowledge-type streamer?<br>
+9tingale, have you ever thought about becoming a knowledge\-type streamer?<br>
 I've always found your articles to be professional and useful
 
 **Mimosa_droid**<br>
@@ -51,7 +51,7 @@ There are so many things wrong with that I won't even bother to correct you<br>
 Dr. 9tingale would be a much better title
 
 **IronFan**<br>
-I support that~~~~~~
+I support that\~\~\~\~\~\~
 
 **kou**<br>
 A prayer to all those who passed away \*Pray\*. May they all rest in peace
@@ -60,7 +60,7 @@ A prayer to all those who passed away \*Pray\*. May they all rest in peace
 Back then when the internet broke down, I thought to myself "OH, crap." Nowadays, so many services and systems are deeply tied to the internet. It's guaranteed chaos if anything happens to it. And what do we know?
 
 **Henry**<br>
-All my bank services also got completely wiped out that day~~~~<br>
+All my bank services also got completely wiped out that day\~\~\~\~<br>
 The money I transferred is still lost in the void
 
 **Snor_eDen**<br>

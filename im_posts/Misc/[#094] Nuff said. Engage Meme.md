@@ -27,7 +27,7 @@ Too real man, too real.<br>
 In the face of the REALLY scary people, nobody even dares to let out a whimper.
 
 **Rabbitdora**<br>
-F\*\*\* I'm in class right now! I almost couldn't control my laughter~~~~~~~
+F\*\*\* I'm in class right now! I almost couldn't control my laughter\~\~\~\~\~\~\~
 
 **HandsomeYi**<br>
 I would gladly have a sniff of whatever the heck JOE is on. Pretty please??
@@ -40,10 +40,10 @@ Where in living gods' name did you people get material for this crap!!!??
 Oh, hey look, it's the memelord himself XDDDDDDD
 
 **MatsuyamaC**<br>
-Boys, step right up~~~ We are here to witness the star of a new meme~~~~
+Boys, step right up\~\~\~ We are here to witness the star of a new meme\~\~\~\~
 
 **w_Rosabel_w**<br>
-Come, King of Germs, let us go and "Pass by" ARC headquarters together~~~~
+Come, King of Germs, let us go and "Pass by" ARC headquarters together\~\~\~\~
 
 **Bit_Inex**<br>
 Ooh, nice one owner lul. Yes, feel it, embrace the power of the meme LMFAO

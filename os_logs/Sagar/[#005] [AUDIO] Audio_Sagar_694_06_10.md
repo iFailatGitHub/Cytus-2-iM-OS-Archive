@@ -29,7 +29,7 @@ Ah, no problem. I can do it.
 Looks like Mr. Lee's gotten to that age where he doesn't want to move a muscle, haha. I just need to sign, right?
 
 **Sagar**<br>
-That's right. Thanks~
+That's right. Thanks\~
 
 **Inhabitant J**<br>
 Not at all. Send Mr. Lee my regards. If he's ever tough on you, you let me know. <br>
@@ -39,7 +39,7 @@ I'll send in a little complaint to the company, that'll take care of him.
 Hahaha... I'm sure that's not necessary. All set. Gotta be going.
 
 **Inhabitant J**<br>
-Bye\-Bye~
+Bye\-Bye\~
 
 *[→Signal Switches]*
 

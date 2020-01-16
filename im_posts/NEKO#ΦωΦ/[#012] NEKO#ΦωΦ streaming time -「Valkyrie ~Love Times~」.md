@@ -1,4 +1,4 @@
-# NEKO\#ΦωΦ streaming time -「Valkyrie ~Love Times~」
+# NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -29,7 +29,7 @@ Morning lolol
 Hello <3<3
 
 **NEKO#ΦωΦ**<br>
-Valkyrie ~Love Times~<br>
+Valkyrie \~Love Times\~<br>
 A VN where you can date both male and female characters <br>
 σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ
 

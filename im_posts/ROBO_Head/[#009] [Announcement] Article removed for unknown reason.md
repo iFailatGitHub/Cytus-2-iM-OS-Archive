@@ -25,7 +25,7 @@ yeah I just finished the song and the article was somehow removed ???
 I thought my system crashed lol
 
 **Cybel_Mach**<br>
-Isn't Devillic Sphere the opening song before Æsir-FEST started?
+Isn't Devillic Sphere the opening song before Æsir\-FEST started?
 
 **Andy_Roid**<br>
 Well ma boy, you just ran into the Taboo song lol
@@ -44,7 +44,7 @@ NEKO once again asking the impossible XD
 Run everbody, here's NEKO!
 
 **Heart_Head**<br>
-but if ROBO says he did participate in Æsir-FEST, it's very unlikely he lied am I right?
+but if ROBO says he did participate in Æsir\-FEST, it's very unlikely he lied am I right?
 
 **ElinaDaniel**<br>
 Maybe
@@ -65,5 +65,5 @@ Wasn't PAFF part of the performance too?
 yes I saw both of them perform
 
 **An0nym0us**<br>
-So is Æsir-FEST a real thing or not...I mean even those connected told completely different stories lol
+So is Æsir\-FEST a real thing or not...I mean even those connected told completely different stories lol
 

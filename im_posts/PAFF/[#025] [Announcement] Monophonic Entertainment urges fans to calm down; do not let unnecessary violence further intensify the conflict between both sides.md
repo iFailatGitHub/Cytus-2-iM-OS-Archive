@@ -10,7 +10,7 @@ To our dear fans and beloved customers,
 
 For the past few days, Monophonic Entertainment has been at the center of a serious conflict. The situation has taken a turn for the worse, as a fellow Monophonic Entertainment artist was violently attacked and suffered physical injuries earlier today. These incidents have severely harmed the company's reputation and our employee's safety. They are also chipping away at the positive relationship this company has built with the fans throughout the years.
 
-To fellow fans who are surrounding the Monophonic Entertainment Headquarters right now, we sincerely hope that you can have a proper and peaceful conversation with the Monophonic PR team that will be present on-site very soon. Your feedback and opinions are always the most important thing to us. 
+To fellow fans who are surrounding the Monophonic Entertainment Headquarters right now, we sincerely hope that you can have a proper and peaceful conversation with the Monophonic PR team that will be present on\-site very soon. Your feedback and opinions are always the most important thing to us. 
 
 We believe that only reasonable and calm conversation can lead to a path of mutual understanding. 
 
@@ -20,11 +20,11 @@ Monophonic Entertainment
 ![p2501.png](./attachments/p2501.png)
 ## Replies
 **SancTityKnight**<br>
-Keep fighting Mono~
+Keep fighting Mono\~
 
 **StuffyMouth**<br>
 PAFF we are all here to support you<br>
-Can you please return to us~~~
+Can you please return to us\~\~\~
 
 **koolboss01**<br>
 Reasonable? Bulls\*\*\*!<br>
@@ -47,7 +47,7 @@ Who gives a damn about your stupid announcements anymore? Think we haven't had e
 **\#MonoWillPay**
 
 **WhiteEYE33**<br>
-Not bad, but I thought you guys had gangs behind you? Oh my, I'm so scared~~<br>
+Not bad, but I thought you guys had gangs behind you? Oh my, I'm so scared\~\~<br>
 **\#MonoWillPay**
 
 **Miyoko1212**<br>
@@ -57,7 +57,7 @@ Were you watching NEKO's stream too?
 I personally don't think Mono is a company with gang connections... Then again, who in the right mind would openly talk about this...
 
 **KirinKiraKira**<br>
-**\#PrayForPAFF** vs **\#MonoWillPay**... Let's get ready to rumble~~~~!!!
+**\#PrayForPAFF** vs **\#MonoWillPay**... Let's get ready to rumble\~\~\~\~!!!
 
 **Hatehate**<br>
 The only reason Cherry was assaulted was that she is YOUR artist. Shouldn't you guys be held responsible for that too???<br>
@@ -71,7 +71,7 @@ Missing artist, check. Injured artist, check. P\*\*\*ing off fans, double check.
 **\#MonoWillPay**
 
 **UCantCme**<br>
-Feeling that logic no longer exists in this building anymore lol. BUT nobody's gonna see this post anyway (Bye~~
+Feeling that logic no longer exists in this building anymore lol. BUT nobody's gonna see this post anyway (Bye\~\~
 
 **CandiceNaoko**<br>
 Too much fake news<br>

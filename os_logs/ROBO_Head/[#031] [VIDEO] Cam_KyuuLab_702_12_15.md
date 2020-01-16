@@ -182,5 +182,4 @@ I'm sorry... I'm sorry...*
 *WAHHHHHHHH!!*
 
 ![ros3101.png](./attachments/ros3101.png)
-
 *[Signal Lost]*

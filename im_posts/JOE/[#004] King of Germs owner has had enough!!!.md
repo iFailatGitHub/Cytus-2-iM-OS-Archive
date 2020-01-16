@@ -8,11 +8,11 @@
 **JOEZ Cafe**<br>
 You bunch of freakin idiots!!!<br>
 Protest here, riot there, and now you are hosting f\*\*\*\*\* mortal kombat in my shop!<br>
-Now my floor is covered with blood-red YAMAMETO<br>
+Now my floor is covered with blood\-red YAMAMETO<br>
 Do you guys seriously want me to go bankrupt? Huh???
 
 Therefore!!!!<br>
-Take a look at this brand-new WaiterKing-2000!!!<br>
+Take a look at this brand\-new WaiterKing\-2000!!!<br>
 Not only did it mastered services like preparing the bar and delivering meals<br>
 it can also clean up all the mess in the store with ease<br>
 No matter how sticky and disgusting your puke is, it can make everything squeaky clean in 3 seconds!<br>

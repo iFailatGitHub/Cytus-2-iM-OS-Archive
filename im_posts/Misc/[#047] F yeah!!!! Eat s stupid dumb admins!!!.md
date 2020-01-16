@@ -7,10 +7,10 @@
 ## Post
 **NekoSamurai**<br>
 NEKO is back, what do you have to say now stupid admins!!!<br>
-The focus of my daily life is now back again~~~~ (opens stream
+The focus of my daily life is now back again\~\~\~\~ (opens stream
 ## Replies
 **KirinKiraKira**<br>
-Yeah~~~~~ Celebration time~~~~~
+Yeah\~\~\~\~\~ Celebration time\~\~\~\~\~
 
 **NEKOSAIKOU**<br>
 C<br>
@@ -25,7 +25,7 @@ Mutha F\*\*\*ers!
 \\NEKO/\\NEKO/\\NEKO/\\NEKO/
 
 **C_H_U**<br>
-\*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*\*~\\(ΦωΦ)/~\*
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*
 
 **Mulder**<br>
 ♡♡♡

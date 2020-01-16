@@ -6,18 +6,18 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Meow meow meow (ΦωΦ)/ I'm bored so let's stream~
+Meow meow meow (ΦωΦ)/ I'm bored so let's stream\~
 
 ![n2801.png](./attachments/n2801.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
-Heard that many of you are VERY~ interested in NEKO's room aren't ya~~~ (\*Φ∀Φ)
+Heard that many of you are VERY\~ interested in NEKO's room aren't ya\~\~\~ (\*Φ∀Φ)
 
 **Noposa**<br>
 Show us more!!!
 
 **9me**<br>
-We get this same angle every single time damnit~~!!
+We get this same angle every single time damnit\~\~!!
 
 **KirinKiraKira**<br>
 Jeez that's a lot of stuff in your room XDDD Are there other rooms
@@ -48,6 +48,6 @@ If I get a present I don't like I'll utterly trash it than mail it to the admins
 The rage still lives on XDDDDDD
 
 **NEKO#ΦωΦ**<br>
-Even I'm getting a bit bored streaming here all the time~ Let's go play outside next time!! <br>
+Even I'm getting a bit bored streaming here all the time\~ Let's go play outside next time!! <br>
 (ΦωΦ)/
 

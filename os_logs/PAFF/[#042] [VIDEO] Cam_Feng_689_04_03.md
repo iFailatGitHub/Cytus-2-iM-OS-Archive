@@ -123,14 +123,14 @@ Ah, o, okay!
 
 **Kaori**<br>
 Ahahaha! That was totally offbeat! This really is your first time playing drums!<br>
-Hayato, you're so funny~!
+Hayato, you're so funny\~!
 
 **Hayato**<br>
 I, I'm so sorry... T, this is not for me after all...
 
 **Kaori**<br>
 Aw, come on. It's okay!<br>
-Here, I'll start again. You just follow my movement and tap your feet to the beat. Get ready~
+Here, I'll start again. You just follow my movement and tap your feet to the beat. Get ready\~
 
 **Kaori**<br>
 *\*You and I. Just like butterflies, perfect hue and light.\**
@@ -163,5 +163,4 @@ You're exaggerating things again... haha.
 *\[Drum noise\]*
 
 ![pos4201.png](./attachments/pos4201.png)
-
 *[Signal Lost]*

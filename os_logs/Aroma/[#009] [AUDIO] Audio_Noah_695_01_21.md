@@ -13,7 +13,7 @@
 *\[Ringtone\]*
 
 **[Chris]**<br>
-*Hi~ Good morning. Is Aroma there?*
+*Hi\~ Good morning. Is Aroma there?*
 
 **Helena**<br>
 She is. Here, Aroma. It's for you.

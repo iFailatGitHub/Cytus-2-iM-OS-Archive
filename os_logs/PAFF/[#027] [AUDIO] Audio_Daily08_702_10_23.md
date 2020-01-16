@@ -18,7 +18,7 @@ It's already well past dinner time. Whenever sis Vicky starts working on a repor
 Fufufu... In order to reveal the truth to the public ahead of everyone else, missing a meal is no big deal at all! This is our job! Our duty! Our lives!
 
 **Susan**<br>
-Yeah, yeah, I know~ Thanks for the hard work. I'll be leaving first. Hayato has a performance today! Bye~!
+Yeah, yeah, I know\~ Thanks for the hard work. I'll be leaving first. Hayato has a performance today! Bye\~!
 
 **Vicky**<br>
 We're publishing a new special issue tomorrow. Don't you dare come in late!

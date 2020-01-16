@@ -1,4 +1,4 @@
-# NEKO\#(ΦωΦ) streaming time - 「Deemon 8.0 ~Peak Recital~」
+# NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」
 ## Unlocked Charts
 |      Song      |Character|Diff.|Level|
 |----------------|:-------:|:---:|:---:|
@@ -8,7 +8,7 @@
 ## Post
 **NEKO#ΦωΦ**<br>
 Today's stream is sponsored by....oops wrong script (ΦДΦ；today we are playing ! !<br>
-「Deemon 8.0 ~Peak Recital~」<br>
+「Deemon 8.0 \~Peak Recital\~」<br>
 A classic rhythm game (ΦωΦ)+Neko's pretty good at these
 
 ![n0101.png](./attachments/n0101.png)
@@ -42,7 +42,7 @@ NEKO you're evil lol
 ROFL
 
 **NEKO#ΦωΦ**<br>
-**(\*´∀`)~♥** Music is good as always, charts are beginner friendly too~
+**(\*´∀`)\~♥** Music is good as always, charts are beginner friendly too\~
 
 **w_Rosabel_w**<br>
 Great song!!

@@ -15,7 +15,7 @@
 *[→Audio\_53St.\_696\_05\_10]*
 
 **Student A**<br>
-Shannon, bye\-bye~ See you next week.
+Shannon, bye\-bye\~ See you next week.
 
 **Shannon**<br>
 Okay! See you next week!
@@ -68,7 +68,7 @@ I don't have that kind of time... Besides, isn't it just some noisy music?
 Hey! What are you doing!?
 
 **Shannon**<br>
-Ah, what a coincidence. I turn on your music player and the first song just so happens to be "noisy music"~
+Ah, what a coincidence. I turn on your music player and the first song just so happens to be "noisy music"\~
 
 **Kyle**<br>
 ......
@@ -80,7 +80,7 @@ If it wasn't for the guitar you gifted him, he wouldn't have gone into music in 
 ... Hmph, if he wants to come back, he can come back whenever he wants.
 
 **Shannon**<br>
-Here we go again~ Who would want to live with you if you have that attitude...
+Here we go again\~ Who would want to live with you if you have that attitude...
 
 *\[Brakes\]*
 

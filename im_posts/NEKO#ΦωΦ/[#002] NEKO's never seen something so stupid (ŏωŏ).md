@@ -1,9 +1,4 @@
 # NEKO's never seen something so stupid (ŏωŏ)
-## Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  1  |
-
 ## Unlocked Charts
 |    Song     |Character|Diff.|Level|
 |-------------|:-------:|:---:|:---:|
@@ -18,7 +13,7 @@ NEKO has nothing against him lolol<br>
 But comments, feel free to murder him σ ΦωΦ) Φ∀Φ)σ 
 ## Replies
 **NEKOSAIKOU**<br>
-Fanboys and fangirls, commence hate-mail lol
+Fanboys and fangirls, commence hate\-mail lol
 
 **KirinKiraKira**<br>
 I never liked him. How do you like someone with no face lulz
@@ -37,7 +32,7 @@ Safety Concerns. ：)
 I thought it was canceled due to problems with the venue?
 
 **EvilForce**<br>
-No it wasn't canceled, the warm-up performances did go through.
+No it wasn't canceled, the warm\-up performances did go through.
 
 **Lynx87**<br>
 Æsir's music is way better than yours.<br>
@@ -57,7 +52,7 @@ Never heard of him. Is he famous?
 Æsir and NEKO have completely different styles it's pointless to compare them. 
 
 **MirriLL**<br>
-The songs are pretty nice, but I did not go to Æsir-FEST
+The songs are pretty nice, but I did not go to Æsir\-FEST
 
 **Noposa**<br>
 Agreed, songs are nice

@@ -6,14 +6,14 @@
 
 ## Log Content
 **NEKO#ΦωΦ**<br>
-Ya\-hello~ Chris! About that song you asked for the day before yesterday, NEKO has finished it. I sent it to you this morning. Did you get it?
+Ya\-hello\~ Chris! About that song you asked for the day before yesterday, NEKO has finished it. I sent it to you this morning. Did you get it?
 
 **Chris**<br>
 ... NEKO? I did say I received it.<br>
 Why did you come to the company all of a sudden? I'm quite busy today...
 
 **NEKO#ΦωΦ**<br>
-You thought NEKO made a trip here just to see you? Pffft, come on~ NEKO is here to see PAFF!
+You thought NEKO made a trip here just to see you? Pffft, come on\~ NEKO is here to see PAFF!
 
 **Chris**<br>
 See PAFF!?
@@ -26,19 +26,19 @@ How did you know...?
 
 **NEKO#ΦωΦ**<br>
 It's written on the calendar of the main recording studio. It says that PAFF is recording NEKO's song today. Your reaction just confirmed it!<br>
-Damnit, I'm jelly~ NEKO can only use the small studio.
+Damnit, I'm jelly\~ NEKO can only use the small studio.
 
 **Chris**<br>
 Ah...
 
 **NEKO#ΦωΦ**<br>
-Since we started this collab, we've only communicated via mail. NEKO wants to talk with PAFF in person as well~ Can't wait to see how cute she is... Ohoho, I'm starting to drool~ Slurp!
+Since we started this collab, we've only communicated via mail. NEKO wants to talk with PAFF in person as well\~ Can't wait to see how cute she is... Ohoho, I'm starting to drool\~ Slurp!
 
 **Chris**<br>
 Umm...
 
 **NEKO#ΦωΦ**<br>
-They're almost done recording, right? Enough talking~ NEKO's going inside. Bye~
+They're almost done recording, right? Enough talking\~ NEKO's going inside. Bye\~
 
 **Chris**<br>
 Hey... hey, wait a minute!
@@ -116,7 +116,7 @@ OK.
 
 **NEKO#ΦωΦ**<br>
 AH! Liar! What do you mean she's not here? Unless I'm seeing things, that's PAFF right there!<br>
-PAFF! Hello~ HELLO!
+PAFF! Hello\~ HELLO!
 
 **Aroma**<br>
 Ah...
@@ -135,21 +135,20 @@ No good. Arriving late is a major taboo in the business. The people in the next 
 Alright...
 
 ![aos1301.png](./attachments/aos1301.png)
-
 *[Signal Switches]*
 
 **Helena**<br>
 Hello, NEKO. The recording today went very smoothly. Thank you for the song you wrote.
 
 **NEKO#ΦωΦ**<br>
-Hello, sis Helena~ Where's PAFF? NEKO is here today just for her! I even got stopped by this big furry Bear!
+Hello, sis Helena\~ Where's PAFF? NEKO is here today just for her! I even got stopped by this big furry Bear!
 
 **Bodyguard G**<br>
 ... What did you say!?
 
 **NEKO#ΦωΦ**<br>
 Do you not know about it! The Bears from Stewrica! Lame!<br>
-Eh, sis Helena, let NEKO and PAFF have some quick chit\-chat~ It won't take too long!
+Eh, sis Helena, let NEKO and PAFF have some quick chit\-chat\~ It won't take too long!
 
 **Helena**<br>
 ... Apologies, but she's in the car already... Maybe next time!<br>
@@ -157,9 +156,9 @@ I'll arrange a meeting for you two sometime later, is that ok?<br>
 About the audio track for the recording, I'll have Chris play it to you.
 
 **NEKO#ΦωΦ**<br>
-Ehehehe? Why~? Ok then... You have to make that arrangement though! Deal?
+Ehehehe? Why\~? Ok then... You have to make that arrangement though! Deal?
 
 **Helena**<br>
-Yes yes~ It's a deal. Then I shall take my leave as well.
+Yes yes\~ It's a deal. Then I shall take my leave as well.
 
 *[Signal Lost]*

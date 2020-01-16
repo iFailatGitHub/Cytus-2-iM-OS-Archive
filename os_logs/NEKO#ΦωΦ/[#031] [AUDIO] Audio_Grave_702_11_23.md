@@ -22,7 +22,7 @@ Eh? Ahaha... nothing really. NEKO just thinks that the face on this gravestone i
 ... What? Weren't you also crying just now? Man, your mood changes way too fast...
 
 **PAFF**<br>
-Come on~ You can't disrespect those who have passed on. Grandma Feng told us before, that the dead will protect us from where they are. Right, Hayato?
+Come on\~ You can't disrespect those who have passed on. Grandma Feng told us before, that the dead will protect us from where they are. Right, Hayato?
 
 **Hayato**<br>
 ... Yes. Grandma also said that the only thing we, the people still living, can do for them is to remember them. As long as we still remember them, they aren't truly dead. They will forever be by our side.
@@ -47,7 +47,7 @@ I'm sorry. NEKO didn't do it on purpose, even though you really do look very fun
 Haha... it's very "NEKO".
 
 **NEKO#ΦωΦ**<br>
-Alright, let's go back~
+Alright, let's go back\~
 
 **Hayato**<br>
 Uh, umm, NEKO...
@@ -63,7 +63,7 @@ They were here just a minute ago...
 ... Ah...
 
 **NEKO#ΦωΦ**<br>
-...... Eh!? EHHHHHHH~~~!?
+...... Eh!? EHHHHHHH\~\~\~!?
 
 *[»»» Fast Forward»»»]*
 

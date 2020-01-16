@@ -17,7 +17,7 @@ For ticket purchases and details on the event, please visit the customized websi
 WOW a virtual LIVE!!! ROBO is finally holding a performance for himself!!!
 
 **Spinner**<br>
-Instant purchase. This line-up is too godly to skip
+Instant purchase. This line\-up is too godly to skip
 
 **Cherry**<br>
 Thank you to **@ROBO\_Head** for the invitation<br>
@@ -28,14 +28,14 @@ Came from NEKO's post. Followed!! Good luck with the event!
 
 **NEKO#ΦωΦ**<br>
 Hehe NEKO's popularity is no joke (\*Φ∀Φ)<br>
-As a return, ROBO, lemme use your head that day as an instrument~ You down with that~(\*Φ∀Φ)<br>
+As a return, ROBO, lemme use your head that day as an instrument\~ You down with that\~(\*Φ∀Φ)<br>
 I really like the drumming and beating noises in《Deadly Slot Game》ฅ(☼ ∀ ☼)ฅ
 
 **ROBO_Head**<br>
 Negative. This unit does not offer function of percussion instruments }: /
 
 **Heart_Head**<br>
-Hahaha Robohead is so adorable ♡ Bought the ticket already~~ I want to see Cherry too!!
+Hahaha Robohead is so adorable ♡ Bought the ticket already\~\~ I want to see Cherry too!!
 
 **NekoSamurai**<br>
 It's a NEKO live (Screams internally
@@ -60,7 +60,7 @@ Addition to artist's profile, completed ：/
 
 **Curo**<br>
 This comment section has so many amazing artists (tears of joy<br>
-Feels like I just witnessed the beginning of a  new era~~
+Feels like I just witnessed the beginning of a  new era\~\~
 
 **66TAN66**<br>
 Bought ten tickets already! This performance is definitely what you call can't miss!!

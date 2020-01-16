@@ -88,7 +88,7 @@ Stop spreading unconfirmed fake rumors ok = =
 If you don't believe me, just do a quick search in the gossip blocks. The photo is right there
 
 **SuperKY**<br>
-S\*\*\* so does that mean the Xenon two-timing stuff is real?
+S\*\*\* so does that mean the Xenon two\-timing stuff is real?
 
 **Gearz_Igo**<br>
 Dude, there was never proof that Xenon and NEKO were actually dating, so stop making stupid assumptions...

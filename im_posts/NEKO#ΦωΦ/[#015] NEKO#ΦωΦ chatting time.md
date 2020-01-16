@@ -11,7 +11,7 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Greetings (ΦωΦ) it's stream time~ ! !
+Greetings (ΦωΦ) it's stream time\~ ! !
 
 
 
@@ -19,13 +19,13 @@ Greetings (ΦωΦ) it's stream time~ ! !
 ![n1501.png](./attachments/n1501.png)
 ## Replies
 **NEKO#ΦωΦ**<br>
-No games today, sry~
+No games today, sry\~
 
 **Anom4ly**<br>
 Hello
 
 **NEKOSAIKOU**<br>
-HELLO~ <3
+HELLO\~ <3
 
 **NEKO#ΦωΦ**<br>
 Has everybody heard about the cyTus urban legend(ΦωΦ) ?
@@ -46,7 +46,7 @@ That's the admins' responsibility to deal with issues like this; not quite an ur
 I've heard similar things lol
 
 **NEKO#ΦωΦ**<br>
-Exactly. But the real kicker is(ΦωΦ) before the body is found~ his online self is still interacting with other people!!!
+Exactly. But the real kicker is(ΦωΦ) before the body is found\~ his online self is still interacting with other people!!!
 
 **9me**<br>
 Scawy lol

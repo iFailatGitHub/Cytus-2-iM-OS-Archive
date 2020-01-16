@@ -14,7 +14,7 @@
 Rin, wake up!
 
 **Rin**<br>
-...*\*yawn\**... ~ ahhh, Dad?
+...*\*yawn\**... \~ ahhh, Dad?
 
 **Yasushi**<br>
 What are you doing sleeping at the research institute? Don't you have class in the afternoon?
@@ -156,7 +156,7 @@ Aigh... so affectionate.<br>
 But I gotta go find Asa.
 
 **Rin**<br>
-Ok... See you later, Dad~say hi to Mom!
+Ok... See you later, Dad\~say hi to Mom!
 
 **Yasushi**<br>
 Don't go running around.

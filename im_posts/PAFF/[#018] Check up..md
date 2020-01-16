@@ -59,7 +59,7 @@ PAFF let's go!<br>
 **\#PrayForPAFF**
 
 **Michiko**<br>
-Gogogo~ get some rest<br>
+Gogogo\~ get some rest<br>
 **\#PrayForPAFF**
 
 **SancTityKnight**<br>
@@ -67,7 +67,7 @@ Lend PAFF our strength!!<br>
 **\#PrayForPAFF**
 
 **Sayomi911**<br>
-PAFF please recover~ We will always be here for you~<br>
+PAFF please recover\~ We will always be here for you\~<br>
 **\#PrayForPAFF**
 
 **Varinaya**<br>

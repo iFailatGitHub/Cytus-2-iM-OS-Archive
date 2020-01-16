@@ -124,7 +124,6 @@ I'm fine now! You can stop looking!
 *\[Things knocked down\]*
 
 ![noos2701.png](./attachments/noos2701.png)
-
 **Hayato**<br>
 Hey! Are you alright!?
 

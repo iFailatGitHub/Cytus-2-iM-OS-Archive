@@ -34,7 +34,7 @@ If it's a kidnapping, news about a ransom should appear a long time ago. Could i
 
 **iluvpuf**<br>
 At the very least, I hope it's not something terrible QAQ<br>
-PAFF, come back~~~~
+PAFF, come back\~\~\~\~
 
 **Heart_Head**<br>
 Perhaps she took the Xenon route and covered her face with a helmet (?

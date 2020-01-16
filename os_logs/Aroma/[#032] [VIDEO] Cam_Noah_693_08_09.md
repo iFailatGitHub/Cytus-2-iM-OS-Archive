@@ -21,20 +21,20 @@ You don't have to be nervous. According to a senior, the continuation exam from 
 If I don't stay in the same grade range as you guys, I'm getting demoted to class 2 the next semester...*
 
 **Aroma**<br>
-You worry too much~ Iris will be fine too. We studied late every day just for this, didn't we?
+You worry too much\~ Iris will be fine too. We studied late every day just for this, didn't we?
 
 **[Iris]**<br>
 *Yes...*
 
 **Aroma**<br>
 Just approach it normally. With your current grades, you can mess up 1 or 2 questions and still end up in class 1. All you need to do is perform up to your usual standards. If you're too nervous, you won't remember what you studied.<br>
-Relax~ We are all going to J\-1, together. 
+Relax\~ We are all going to J\-1, together. 
 
 **[Iris]**<br>
 *Got it! Hearing you say that really calms my mind down... Though I hope you can encourage yourself like that on stage too. Every time I see you on\-stage, I always get sweaty palms because you're literally shaking. Haha.*
 
 **Aroma**<br>
-Don't tease me like that~ That's mean!
+Don't tease me like that\~ That's mean!
 
 **[Iris]**<br>
 *Aroma is about to become a celebrity... feels like you're going to another world. I'm happy for you, but I also feel a bit... lonely. When you become famous, will we still be friends?*
@@ -53,15 +53,15 @@ Sister is not coming home tonight, so I can stay up a bit later. However, it's a
 *Yep, same for me. See you tomorrow at school then! Goodnight,*
 
 **Aroma**<br>
-Goodnight~
+Goodnight\~
 
 *[Call ends]*
 
 **Aroma**<br>
-Yawns~ Tuner\-san, set the alarm clock. I'm going to bed.
+Yawns\~ Tuner\-san, set the alarm clock. I'm going to bed.
 
 **[Tuner-san]**<br>
-*Alarm clock set. Goodnight, Aroma~ Goodnight~*
+*Alarm clock set. Goodnight, Aroma\~ Goodnight\~*
 
 *\[Crashing noises\]*
 
@@ -117,7 +117,6 @@ I understand. It's all for sister...
 No...... Ugh!
 
 ![aos3201.png](./attachments/aos3201.png)
-
 **Aroma**<br>
 Woah! Be careful. Maybe you should sit down first?
 

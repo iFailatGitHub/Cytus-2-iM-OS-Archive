@@ -1,4 +1,4 @@
-# Æsir-FEST corrupted data recovery progress......80% 
+# Æsir\-FEST corrupted data recovery progress......80% 
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -13,11 +13,11 @@
 
 ## Post
 **ROBO_Head**<br>
-Report: Æsir-FEST corrupted data recovery progress......80%,  index block recovery complete<br>
+Report: Æsir\-FEST corrupted data recovery progress......80%,  index block recovery complete<br>
 Record: Timestamp information spread across 90+ minutes<br>
 Existence of event   95% Affirmative<br>
-Connections to Æsir-FEST at start of timestamp 1,366,554<br>
-Connections to Æsir-FEST at end of timestamp 0<br>
+Connections to Æsir\-FEST at start of timestamp 1,366,554<br>
+Connections to Æsir\-FEST at end of timestamp 0<br>
 Speculation: Outside influence cause millions of participants experience error and lost connection. Can't confirm if event continued, need complete data to confirm...recovering ：（
 ## Replies
 **Cybel_Mach**<br>

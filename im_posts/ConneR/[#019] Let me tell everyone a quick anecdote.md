@@ -22,7 +22,7 @@ I was wondering why did we suddenly get an anecdote from sensei ROFL
 If it was me, I would probably burn these ants with a magnifying glass, I think??
 
 **DMO**<br>
-A max-level, full-screen taunt lul
+A max\-level, full\-screen taunt lul
 
 **Amberclove**<br>
 By the holy light! <br>
@@ -42,7 +42,7 @@ I want to be the gardener as well QAQ
 After reading all the stupid BS in the news, this post is a breath of fresh air
 
 **T.Goldwell**<br>
-OMG that was a sic burn~~~~~~~~~
+OMG that was a sic burn\~\~\~\~\~\~\~\~\~
 
 **STANley**<br>
 Sensei, can you post this to NNN's social commentary column pretty pls XD

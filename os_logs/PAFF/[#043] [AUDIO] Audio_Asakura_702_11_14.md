@@ -60,7 +60,7 @@ PAFF!???
 Umm, Yes... Apologies for disturbing you...
 
 **NEKO#ΦωΦ**<br>
-Sighhh~ I knew this is gonna happen... Welp, can't help it then. Guys, just hear NEKO out first.
+Sighhh\~ I knew this is gonna happen... Welp, can't help it then. Guys, just hear NEKO out first.
 
 *[»»» Fast Forward»»»]*
 

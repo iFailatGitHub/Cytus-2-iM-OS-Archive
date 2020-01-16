@@ -8,7 +8,7 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really~~~~~ BIG secret!!
+OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really\~\~\~\~\~ BIG secret!!
 
 **\#MonoIsF\*\*\*ed**<br>
 **\#CallMeDetectiveNEKO**<br>
@@ -34,7 +34,7 @@ You finally discover your actual height number??? <br>
 [User is now banned]
 
 **Go55ip**<br>
-Can you smell what NEKO is cooking~~~ I smell gossip!<br>
+Can you smell what NEKO is cooking\~\~\~ I smell gossip!<br>
 **\#MonoWillPay**
 
 **NEKOSAIKOU**<br>

@@ -13,14 +13,14 @@
 > <br>
 > Alright, Sid, you stop there. Let us turn to our tech expert Yu. Yu, do you have any idea what Architects are?<br>
 > <br>
-> Jay, you're underestimating me. Of course I know what Architects are! In fact, I know them very well! I wrote a report about how the Architects helped humans rebuild civilization as my Academy project. What do you know, I graduated with the highest grade. The best-looking girl in my grade even became my wife. I can guarantee you that if the Architects reappears, I'm the person that can communicate with them the best!<br>
+> Jay, you're underestimating me. Of course I know what Architects are! In fact, I know them very well! I wrote a report about how the Architects helped humans rebuild civilization as my Academy project. What do you know, I graduated with the highest grade. The best\-looking girl in my grade even became my wife. I can guarantee you that if the Architects reappears, I'm the person that can communicate with them the best!<br>
 > <br>
 > Got it. Sid, you mentioned something about how street riots have decreased a lot in the past one hundred years, right?<br>
 > <br>
 > Indeed, mostly because the Administration Bureau's policies gradually matured and the technology products under their control also increased. Take Node 08 for example; the last time we had such a major riot was 23 years ago. Back then, the reason for that was to protest the high taxes. That incident concluded after the law enforcement agents arrested the leader of the rioters. What I want to say is, if an idol can create an incident of this magnitude, we need to discuss whether or not...<br>
 > <br>
 > Stop right there, Sid. We don't need to delve that deep into tiny details; the ratings are dropping. Yu, after we returned from commercials we'll talk more about your Architect report and your hot wife. Stay tuned!<br>
-[Soundbite excerpted from Neo Channel 8's late-night show "Blitz Newsline"]
+[Soundbite excerpted from Neo Channel 8's late\-night show "Blitz Newsline"]
 
 ![r3701.png](./attachments/r3701.png)
 ## Replies

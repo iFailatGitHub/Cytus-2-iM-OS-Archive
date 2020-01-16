@@ -11,7 +11,6 @@
 
 ## Log Content
 ![xos1001.png](./attachments/xos1001.png)
-
 **Xenon**<br>
 I tracked down the IP address of the anonymous mail I received a while ago.
 

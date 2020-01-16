@@ -116,7 +116,7 @@ What do you mean "this type of place"? The resident singers here are the best! E
 
 **Kyle**<br>
 ......!<br>
-Ah~ this certainly is a beautiful voice...
+Ah\~ this certainly is a beautiful voice...
 
 **Helena**<br>
 Thank you. That's my little sister.
@@ -125,7 +125,7 @@ Thank you. That's my little sister.
 Oh! Helena, another night shift today? Must be tough.
 
 **Helena**<br>
-You too, agent Martin. Thank you for coming so often~ Here, it's a treat. Don't tell the owner!<br>
+You too, agent Martin. Thank you for coming so often\~ Here, it's a treat. Don't tell the owner!<br>
 Then, I'll leave you two to it. Enjoy!
 
 **Agent M**<br>
@@ -139,7 +139,6 @@ Kyle, to be honest, I brought you here because there's something I want to tell 
 Here is some information I got through some of my connections. Take a look first.
 
 ![xos4101.png](./attachments/xos4101.png)
-
 **Kyle**<br>
 Paper documents...?<br>
 ......! These are... Hey, did you file an application for all this?

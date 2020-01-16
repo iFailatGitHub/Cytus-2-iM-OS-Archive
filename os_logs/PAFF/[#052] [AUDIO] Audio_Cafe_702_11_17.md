@@ -76,7 +76,7 @@ Yes...
 Besides, my job as your agent is not over yet. Aroma definitely wants to sing again someday, right? After everything is over, I will make sure that you can still return to the stage and perform! 
 
 **PAFF**<br>
-Yes! Sister... I'm so glad; you're finally acting like the sister I always knew. Hehe~
+Yes! Sister... I'm so glad; you're finally acting like the sister I always knew. Hehe\~
 
 *\[Hugs\]*
 
@@ -115,7 +115,7 @@ Daddy is so stupid! How can he get drugged like that... NEKO was super worried! 
 NEKO... thank you.
 
 **JOE**<br>
-Hehe, it really is the super idol herself! Hello~ I am the owner of JOEZ Cafe. Joe Miller's the name.
+Hehe, it really is the super idol herself! Hello\~ I am the owner of JOEZ Cafe. Joe Miller's the name.
 
 **PAFF**<br>
 Hello. NEKO mentioned you before... Thank you so much for your help, Mr. Miller.

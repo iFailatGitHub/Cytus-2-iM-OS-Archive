@@ -172,7 +172,6 @@ You couldn't do it, because you've never killed anyone before. You've never hurt
 *\[Draws Gun\]*
 
 ![sos2301.png](./attachments/sos2301.png)
-
 **Sagar**<br>
 ... Why do I pretend to not see what you're doing? Because I want to understand those who think differently from me. Even if you've got your reasons for wanting to kill me, I don't believe that's everything about you. After all, nobody is completely evil.
 

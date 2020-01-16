@@ -12,7 +12,6 @@
 *Unit 02, can you hear my voice?*
 
 ![noos0201.png](./attachments/noos0201.png)
-
 **[ROBO_Head]**<br>
 *This unit, condition: available to accept commands. Command requested.*
 

@@ -6,7 +6,7 @@
 
 ## Post
 **AngryMan**<br>
-So many netizens are trash-talking you
+So many netizens are trash\-talking you
 
 Yet you've been completely silent and not talking s\*\*\* back all this time
 
@@ -21,7 +21,7 @@ OP have you forgotten that he is still currently in custody???
 
 **Go55ip**<br>
 I am personally on Team NEKO<br>
-Plenty of fish in the sea, no need to dwell on an ex~~~
+Plenty of fish in the sea, no need to dwell on an ex\~\~\~
 
 **AntiMetal**<br>
 He's gonna get locked up HAHA good riddance

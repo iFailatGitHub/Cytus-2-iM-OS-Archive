@@ -52,7 +52,6 @@ Sherry, are you alright?
 *\[Footsteps\]*
 
 ![cpos3302.png](./attachments/cpos3302.png)
-
 *\[Holds Hand\]*
 
 **Cherry**<br>

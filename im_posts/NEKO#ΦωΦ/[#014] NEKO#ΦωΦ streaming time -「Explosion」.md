@@ -1,4 +1,4 @@
-# NEKO\#ΦωΦ streaming time -「Explosion」
+# NEKO\#ΦωΦ streaming time \-「Explosion」
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -6,14 +6,14 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Today we are streaming a new antique-level game！！＼(Φˋ∀ˊΦ)／<br>
-Rumor has it that this was a Triple-A level game of the last century d(`Φ∀Φ)b <br>
+Today we are streaming a new antique\-level game！！＼(Φˋ∀ˊΦ)／<br>
+Rumor has it that this was a Triple\-A level game of the last century d(`Φ∀Φ)b <br>
 「Explosion」everybody look forward to it!!
 
 ![n1401.png](./attachments/n1401.png)
 ## Replies
 **Poopytrap**<br>
-It runs on mother-truckin Nuity Ver6.1, what the hell lol
+It runs on mother\-truckin Nuity Ver6.1, what the hell lol
 
 **NEKOSAIKOU**<br>
 HELLOO <3
@@ -59,7 +59,7 @@ Trollololol
 ♡♡♡
 
 **NekoSamurai**<br>
-RG's recent games have been mind-numbingly hard, to the point you question your sanity. I want a refund, but I already played for too long TAT
+RG's recent games have been mind\-numbingly hard, to the point you question your sanity. I want a refund, but I already played for too long TAT
 
 **Noposa**<br>
 Name of game?

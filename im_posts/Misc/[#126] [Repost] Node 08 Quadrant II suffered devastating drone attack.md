@@ -11,7 +11,7 @@
 > <br>
 > Node 08's business district is a hub area that has always been the most bustling place in 08. Notable landmarks such as Monophonic Entertainment HQ, Central Music Hall, and the Live House District were all affected by the attack to varying degrees. Fortunately, when the attack occurred, most stores had yet to start their business for the day. However, some stores were not as fortunate. For example, the Old Town area, home to the Jazz Bar "JOEZ Cafe" and the renowned Department Store "The Fountains", was pretty much reduced to rubble. The dining street, which houses famous restaurants like "Pizzattic" and "Singularity", also didn't survive the attack and was destroyed almost entirely.<br>
 > <br>
-> According to the Administration Bureau, in contrast with the previous sporadic drone malfunctions, this incident was very clearly a targeted attack. There were even instances where large drones crashed into buildings while carrying energy cells or fuel. These cases of suicide attacks have resulted in at least a dozen high-rise buildings suffering structural damage. Official sources have yet to confirm whether this attack was caused by terrorists or not. <br>
+> According to the Administration Bureau, in contrast with the previous sporadic drone malfunctions, this incident was very clearly a targeted attack. There were even instances where large drones crashed into buildings while carrying energy cells or fuel. These cases of suicide attacks have resulted in at least a dozen high\-rise buildings suffering structural damage. Official sources have yet to confirm whether this attack was caused by terrorists or not. <br>
 [Article excerpted from Node News Network]
 ## Replies
 **Chevalier151**<br>

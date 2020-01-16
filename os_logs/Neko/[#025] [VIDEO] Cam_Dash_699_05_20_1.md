@@ -131,14 +131,13 @@ I was already retired from this stuff... but you people crossed the line by mess
 *Your heads must be burning, right? Did you realize that the cyTus chip model you guys implanted has an overcharge loophole? I can split your heads in half whenever I feel like it. It could be when you eating, sleeping or even when you're taking a s\*\*\*. If you have the balls to get the chips removed, I have plenty of other methods to torment you people.*
 
 **[Man B]**<br>
-*Eek~ We, we understood! We apologize! We didn't know that you are X...*
+*Eek\~ We, we understood! We apologize! We didn't know that you are X...*
 
 **[Kouhei]**<br>
 *Leave my dear daughter and family alone! <br>
 You worthless sacks of s\*\*\*!!*
 
 ![naos2501.png](./attachments/naos2501.png)
-
 **[Man C]**<br>
 *U... Understood! We are very sorry!!*
 

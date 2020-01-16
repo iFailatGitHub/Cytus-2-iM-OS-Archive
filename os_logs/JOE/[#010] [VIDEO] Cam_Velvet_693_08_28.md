@@ -12,7 +12,6 @@ JOE.
 So it was you! How come you didn't tell me that you're coming!
 
 ![jos1001.png](./attachments/jos1001.png)
-
 **Saxon**<br>
 Didn't want to give you pressure.<br>
 The performance was good. The song you wrote was great.

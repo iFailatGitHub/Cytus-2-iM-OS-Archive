@@ -16,9 +16,9 @@ Rise up little Puffs!
 
 The annual PAFFCON for this year has been set! This time, it will be a very rare physical concert, right in the Node 08 Dome! 
 
-The seventh anniversary of PAFF will bring everyone a brand-new experience. You must be there to hear it live!
+The seventh anniversary of PAFF will bring everyone a brand\-new experience. You must be there to hear it live!
 
-For official ticketing information please follow **@PAFF-Official** and the Monophonic Entertainment official site!
+For official ticketing information please follow **@PAFF\-Official** and the Monophonic Entertainment official site!
 
 Well then, 7th PAFFCON, see you at Node 08!
 

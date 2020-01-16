@@ -4,7 +4,6 @@
 Look over there. It's that dog.
 
 ![jos0201.png](./attachments/jos0201.png)
-
 **Saxon**<br>
 Still very much a puppy though, probably no more than a few months old.
 
@@ -36,7 +35,7 @@ Arf... arf.
 It's enjoying that bone way too much... ok, it doesn't look THAT annoying right now.
 
 **Puppy**<br>
-Arooo~ ARF!
+Arooo\~ ARF!
 
 **JOE**<br>
 Yikes! This stupid dog bit me! Forget it; we should chase it away!

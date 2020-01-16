@@ -23,7 +23,7 @@ I choose to cover myself with cucumber slices<br>
 Even though I might die from the poison XD
 
 **FlyingCodo**<br>
-Sir, that brewery just recently released a cucumber-flavored beer ouo<br>
+Sir, that brewery just recently released a cucumber\-flavored beer ouo<br>
 Shouldn't you taste test it to show you love for cucumbers LOL<br>
 Or do you need me to grind it into a puree before pouring it all over you??
 

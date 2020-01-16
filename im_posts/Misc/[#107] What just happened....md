@@ -8,7 +8,7 @@
 **CHanatsuka**<br>
 MEME: <br>
 THOUGHT YOU ARE SENTENCED TO LIFE IN JAIL<br>
-YOUR EX-BOSS SENDS SOMEONE TO BUST YOU OUT
+YOUR EX\-BOSS SENDS SOMEONE TO BUST YOU OUT
 
 ![q0701.png](./attachments/q0701.png)
 ## Replies
@@ -49,7 +49,7 @@ Do not underestimate the spreading power of memes
 If I was ARC and I realy didn't do anything yet get all this hate, I would be so p\*\*\*ed off
 
 **lenba**<br>
-Hey, MYMYM, just a quick heads-up:<br>
+Hey, MYMYM, just a quick heads\-up:<br>
 realy is actually spelled really.<br>
 Have a nice day!
 
@@ -60,5 +60,5 @@ On top of that, no one would bother to even listen to your explanations and woul
 Dude this topic is kinda sensitive. You don't want ARC coming after your a\*\*
 
 **C.Y.**<br>
-Come on~~~ What year is it that we still have people scared of that nonsense???
+Come on\~\~\~ What year is it that we still have people scared of that nonsense???
 

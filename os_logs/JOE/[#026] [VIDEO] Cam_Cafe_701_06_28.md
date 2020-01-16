@@ -45,7 +45,6 @@ A request from the buyer. Looks like we have ourselves a serious sicko. Stop yap
 We should wait a moment. The buyer should be coming anytime... ARGH!
 
 ![jos2601.png](./attachments/jos2601.png)
-
 **JOE**<br>
 I CAN'T ACCEPT THINGS LIKE THIS AFTER ALL!!!!
 
@@ -99,7 +98,7 @@ Zark!! No...
 *\[Gunshot\]*
 
 **Zark**<br>
-Arooo~...
+Arooo\~...
 
 **JOE**<br>
 Zark！！！！！！

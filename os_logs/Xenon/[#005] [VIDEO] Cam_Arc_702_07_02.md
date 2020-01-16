@@ -11,7 +11,6 @@
 
 ## Log Content
 ![xos0501.png](./attachments/xos0501.png)
-
 **Xenon**<br>
 Hello Mark. Sorry about leaving for such a long time.
 

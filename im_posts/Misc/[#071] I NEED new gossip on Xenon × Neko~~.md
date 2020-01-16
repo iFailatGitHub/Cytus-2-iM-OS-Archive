@@ -1,4 +1,4 @@
-# I NEED new gossip on Xenon × Neko~~
+# I NEED new gossip on Xenon × Neko\~\~
 ## Requirements
 |Character|Level|
 |---------|:---:|
@@ -6,12 +6,12 @@
 
 ## Post
 **Go55ip**<br>
-So~~~ Did Xenon and NEKO actually end up together or not!!! We've received no updates on them ever since the last time they went to NEKO's house to do some "secret adult stuff". I demand MOAR gossip!!!!! >///////<<br>
+So\~\~\~ Did Xenon and NEKO actually end up together or not!!! We've received no updates on them ever since the last time they went to NEKO's house to do some "secret adult stuff". I demand MOAR gossip!!!!! >///////<<br>
 **\#X×NAllTheWay**<br>
 **\#SayNoToX×C**
 ## Replies
 **GymGai**<br>
-Same! I want more gossip too! Sis Vicky, pretty please~<br>
+Same! I want more gossip too! Sis Vicky, pretty please\~<br>
 **\#X×N**
 
 **888fans**<br>
@@ -24,7 +24,7 @@ You guys have too much free time... Who they want to be with is none of your f\*
 Who is C? Is it CONNER sensei? I'm totally down for that C×X
 
 **SuperKY**<br>
-Cherry is literally a goddess. Good-looking and has a great personality too. That POS Xenon doesn't deserve to be with her<br>
+Cherry is literally a goddess. Good\-looking and has a great personality too. That POS Xenon doesn't deserve to be with her<br>
 As with NEKO, just a spoiled brat whose mouth moves faster than her brain. Spamming emoticons like she's a retarded child; just like the OP
 
 **Go55ip**<br>

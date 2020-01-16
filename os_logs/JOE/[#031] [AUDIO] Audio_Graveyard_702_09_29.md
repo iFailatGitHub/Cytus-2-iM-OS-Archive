@@ -67,19 +67,19 @@ Besides what?
 Nothing. Forget about it.
 
 **JOE**<br>
-Aww~ come on, why the hesitation?
+Aww\~ come on, why the hesitation?
 
 **Xenon**<br>
 I told you, it's nothing.
 
 **JOE**<br>
-Ehh~~? Muuu~~ Come on, tell me~~
+Ehh\~\~? Muuu\~\~ Come on, tell me\~\~
 
 **Xenon**<br>
 ... That's gross. Stop trying to imitate NEKO. You sound nothing like her and it's rather creepy...
 
 **JOE**<br>
-Teehee~
+Teehee\~
 
 **Xenon**<br>
 ......<br>

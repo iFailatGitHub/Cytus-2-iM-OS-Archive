@@ -21,14 +21,14 @@ It's alright.<br>
 Hey, your hands are still wet, so don't touch anything. Here, towel.
 
 **Neko**<br>
-Okay~<br>
+Okay\~<br>
 This really is a workshop. Where do you sleep?
 
 **Xenon**<br>
 On the couch you're sitting on right now. You can sleep on it tonight. Let's get things straight first. The first thing we do tomorrow morning is escort you home...
 
 **Neko**<br>
-Wow~ It's PAFF's album. NEKO also has one!
+Wow\~ It's PAFF's album. NEKO also has one!
 
 **Xenon**<br>
 Not listening at all...
@@ -71,9 +71,8 @@ Absolutely! Bring it!
 *[»»» Fast Forward»»»]*
 
 ![naos1601.png](./attachments/naos1601.png)
-
 **Neko**<br>
-Man~ that was fun! I never thought I could Jam with Xenon!
+Man\~ that was fun! I never thought I could Jam with Xenon!
 
 **Xenon**<br>
 I'm quite surprised myself as well. I didn't know that you compose music.

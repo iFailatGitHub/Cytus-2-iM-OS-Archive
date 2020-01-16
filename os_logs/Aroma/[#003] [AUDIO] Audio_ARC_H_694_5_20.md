@@ -37,7 +37,7 @@ Ah, right! Here, your Tuner\-san.
 My...?
 
 **[Tuner-san]**<br>
-*Aroma, Good morning~ Good morning~*
+*Aroma, Good morning\~ Good morning\~*
 
 **Helena**<br>
 It's an electronic pet that has been with you since you were little. It contains so many past photos and videos of us. Let's take a look. Maybe it'll help you recover your memory.<br>

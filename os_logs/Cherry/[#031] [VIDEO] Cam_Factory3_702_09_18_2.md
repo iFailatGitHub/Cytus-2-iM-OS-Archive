@@ -9,7 +9,6 @@
 
 ## Log Content
 ![chos3101.png](./attachments/chos3101.png)
-
 **Xenon**<br>
 The steps are slippery. Grab hold of me.
 

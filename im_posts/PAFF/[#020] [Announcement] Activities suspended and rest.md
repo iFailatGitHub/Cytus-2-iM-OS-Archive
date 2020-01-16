@@ -15,7 +15,7 @@
 **PAFF-Official**<br>
 Dear little Puffs, on the recommendation of the doctor, PAFF will be traveling to another Node to rest and rehabilitate.
 
-Therefore all activities will be suspended for a while. For refund policies please visit the official site~
+Therefore all activities will be suspended for a while. For refund policies please visit the official site\~
 
 We hope that PAFF can recharge completely and return to the stage better than ever!
 ## Replies
@@ -44,7 +44,7 @@ So you think we will be satisfied with a single POST? Agency, you better give us
 Broken...
 
 **CyKa**<br>
-So the result of the check-up is...
+So the result of the check\-up is...
 
 **koolboss01**<br>
 Where the hell is the agency? Such little information is Unacceptable to us!!!

@@ -8,7 +8,7 @@
 
 ## Post
 **Witne_SS**<br>
-Today, on my way to my part-time job, I suddenly heard a commotion coming from the crowd<br>
+Today, on my way to my part\-time job, I suddenly heard a commotion coming from the crowd<br>
 I turned around and I think I heard someone yelling NEKO's name<br>
 So I just sort of instinctively press the shutter<br>
 I ended up capturing a photo that's pretty amazing!!<br>
@@ -19,10 +19,10 @@ Looks like the internet rumors about PAFF hiding in NEKO's home turn out to be a
 ![q0301.png](./attachments/q0301.png)
 ## Replies
 **Heart_Head**<br>
-Holy cow! News reporters! Material right here! Better start copying~~~~~~
+Holy cow! News reporters! Material right here! Better start copying\~\~\~\~\~\~
 
 **m00nl16h7**<br>
-Man, you dumb. You should've just sold this photo directly to the media~~~<br>
+Man, you dumb. You should've just sold this photo directly to the media\~\~\~<br>
 I bet 08 Daily would absolutely pay a fortune for it
 
 **Ararar**<br>
@@ -32,7 +32,7 @@ I bet 08 Daily would absolutely pay a fortune for it
 Dude that's some EX rank luck!! You just bumped into an SSR character on the road!
 
 **iluvpuf**<br>
-I hope this is true! PAFF is safe after all!!! My day just got so much better~
+I hope this is true! PAFF is safe after all!!! My day just got so much better\~
 
 **ShadowForest**<br>
 I feel like this post is gonna blow up
@@ -77,10 +77,10 @@ I hope PAFF can come back and continue to be an idol AHHHHHH<br>
 I am more than willing to keep being your loyal fan Q\_Q
 
 **KirinKiraKira**<br>
-The fantasy Yuri ship just became canon~~~~~~
+The fantasy Yuri ship just became canon\~\~\~\~\~\~
 
 **Sopheee**<br>
-My body is so ready~~ The hype is real~~~~~
+My body is so ready\~\~ The hype is real\~\~\~\~\~
 
 **PrideCr0w**<br>
 I didn't know that they live in 08 as well before today

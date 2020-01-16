@@ -16,7 +16,6 @@ Wait a sec, I'm coming, I'm coming!
 Whoo, out of...*\*breathes\**... Hello?
 
 ![cpos2402.png](./attachments/cpos2402.png)
-
 **[Xenon]**<br>
 *JOE! Thank goodness, you're fine.*
 
@@ -71,5 +70,4 @@ UWAAHHH!!
 *[Call Ends]*
 
 ![cpos2403.png](./attachments/cpos2403.png)
-
 *[Signal Lost]*

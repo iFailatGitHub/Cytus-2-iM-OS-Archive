@@ -43,7 +43,7 @@ He is well educated and very intelligent. It's very obvious that he is vastly di
 Sounds like a dangerous folk... you should be careful yourself too.
 
 **Saxon**<br>
-Hmph, no need to worry~ He is good enough to earn my praise, but not enough to truly impress me. He has a clear understanding of the rules here, and he never buys on credit too.
+Hmph, no need to worry\~ He is good enough to earn my praise, but not enough to truly impress me. He has a clear understanding of the rules here, and he never buys on credit too.
 
 **Luo**<br>
 So he has a good credit score just like me.

@@ -27,7 +27,7 @@ I still believe that Mono is a very good company
 Fight
 
 **ArupakaKUN**<br>
-I thought you guys went bankrupt since you haven't posted in a long~ time (?
+I thought you guys went bankrupt since you haven't posted in a long\~ time (?
 
 **koolboss01**<br>
 Is it just me, or does this post gives off that "I don't want to do this, but I have to" vibe lololol
@@ -43,10 +43,10 @@ Well, of course they can take legal actions XDDDD<br>
 if they don't mind losing one of their biggest moneymakers
 
 **moonin**<br>
-Very well-handled. Let's us all stand together for music :)))
+Very well\-handled. Let's us all stand together for music :)))
 
 **Poopytrap**<br>
-So you guys are not hand-washing this time???
+So you guys are not hand\-washing this time???
 
 **Juggernaut**<br>
 I will give you one last chance<br>
@@ -65,7 +65,7 @@ However, if I like the music, I will still buy it
 
 **SancTityKnight**<br>
 Am I the only one who thinks Cherry is kinda in the wrong this time?<br>
-(Not-PC comment)
+(Not\-PC comment)
 
 **UCantCme**<br>
 It's so amusing seeing those nerds defending their idol<br>
@@ -94,5 +94,5 @@ After all, if they really wanted to pursue the case, it would be tough for Cherr
 
 **Cherry0987**<br>
 Although Cherry violated her contract first, her performance on ROBO\_Radio\_LIVE kicked so much a\*\*!!<br>
-It was a treat to see her there~~
+It was a treat to see her there\~\~
 

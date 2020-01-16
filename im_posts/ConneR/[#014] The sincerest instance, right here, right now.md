@@ -6,7 +6,7 @@
 
 ## Post
 **ConneR**<br>
-　Only those who are there on-site can really feel the sincerest moment. No data transfer delays, no post-production trickery; only a real performance presented directly to the audience by the performer.
+　Only those who are there on\-site can really feel the sincerest moment. No data transfer delays, no post\-production trickery; only a real performance presented directly to the audience by the performer.
 
 　And I, perform only for myself.
 
@@ -49,7 +49,7 @@ Guy above me, those are Sensei's personal collection lul
 Never heard of ConneR, went because of curiosity. Well Sensei, today you officially have a new fan!!
 
 **MissingSth**<br>
-Is there a holo-recreation? QQ
+Is there a holo\-recreation? QQ
 
 **DiiR**<br>
 Too bad Sensei insists on live performances only. It would be a blessing for us fans outside of Node08 if there are virtual seats available
@@ -60,7 +60,7 @@ Fellow music lovers, thank you for the appreciation. If you can enjoy classical 
     My performances do not have virtual seats, nor are there holographic recreations. Please come to the concert in person and experience the music with your own ears.
 
 **Amberclove**<br>
-To all the staff tonight, and the all-important performer, we offer you our highest respect \*bows\*
+To all the staff tonight, and the all\-important performer, we offer you our highest respect \*bows\*
 
 **Bolt_Urx**<br>
 Sensei you are the best ! ! !

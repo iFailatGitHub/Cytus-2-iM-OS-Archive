@@ -1,9 +1,4 @@
 # [Announcement] Connect to major platforms now!
-## Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  1  |
-
 ## Unlocked Charts
 |   Song   |Character|Diff.|Level|
 |----------|:-------:|:---:|:---:|
@@ -13,7 +8,7 @@
 **PAFF-Official**<br>
 The released new song "KANATA" took a long time to prepare. During the production, the composer and producer helped me a lot!
 
-Special thanks to A.R.C. for sponsoring the newest holo-recreation technology! PUFFERs can now join PAFF on stage and sing together!
+Special thanks to A.R.C. for sponsoring the newest holo\-recreation technology! PUFFERs can now join PAFF on stage and sing together!
 
 Visit the major platforms to connect now!
 
@@ -23,13 +18,13 @@ Visit the major platforms to connect now!
 Sounds pretty cool!!!
 
 **Lynx87**<br>
-Holo-recreation? WTH is that? ：O
+Holo\-recreation? WTH is that? ：O
 
 **Sleepsystem**<br>
 No idea what it is.
 
 **CyKa**<br>
-I'm telling you, you guys need to read more~
+I'm telling you, you guys need to read more\~
 
 **NEKOSAIKOU**<br>
 Stop acting like you know everything lol

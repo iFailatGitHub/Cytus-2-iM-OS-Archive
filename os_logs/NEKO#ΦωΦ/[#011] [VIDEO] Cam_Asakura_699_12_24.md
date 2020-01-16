@@ -55,7 +55,7 @@ Woah! Sis Yukiko... Where's daddy?
 Asleep in bed. He was mumbling about wanting to come out and listen to your song, even though he can barely stand. It took me quite some time to finally put him to sleep.
 
 **NEKO#ΦωΦ**<br>
-Ha? Stupid daddy, he's just talking the big talk~ He doesn't understand NEKO's music...
+Ha? Stupid daddy, he's just talking the big talk\~ He doesn't understand NEKO's music...
 
 **Kenta**<br>
 Big sister's music is the best!
@@ -64,7 +64,7 @@ Big sister's music is the best!
 You little brat only likes PAFF's songs, don't ya?
 
 **Kenta**<br>
-That's not true~ Big sister's songs are great too!
+That's not true\~ Big sister's songs are great too!
 
 **NEKO#ΦωΦ**<br>
 ... Very well! Then big sister shall teach you how to dance! Here, grab my hand and match the beat! One\-two\-three\-four!
@@ -79,7 +79,6 @@ Be careful, NEKO. Don't hurt yourself...
 Sis Yukiko, you should join too! Linda\-chan, turn up the volume! Christmas is a time of celebration after all! Ahahahaha!
 
 ![nos1101.png](./attachments/nos1101.png)
-
 **Linda**<br>
 Haha...... Idiot, you're on the verge of bursting into tears, yet you're still trying to act strong.
 

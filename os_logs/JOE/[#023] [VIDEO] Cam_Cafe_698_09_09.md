@@ -46,7 +46,6 @@ Huh? Do we know each other?
 Do you know now?
 
 ![jos2301.png](./attachments/jos2301.png)
-
 **JOE**<br>
 JASUS! Simon!? Why are you here!?
 

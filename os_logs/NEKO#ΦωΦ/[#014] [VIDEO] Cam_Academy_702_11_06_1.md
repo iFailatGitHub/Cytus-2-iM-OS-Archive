@@ -23,13 +23,13 @@ NEKO wants to go home too...
 Wow! It's NEKO! Did you flunk the semester as well?
 
 **NEKO#ΦωΦ**<br>
-Sigh~~~ Yeah, because of the stream incident last time. Like, what the hell! I just wanted to introduce the Academy to my fans!
+Sigh\~\~\~ Yeah, because of the stream incident last time. Like, what the hell! I just wanted to introduce the Academy to my fans!
 
 **Student B**<br>
 Can I sit next to you? We're all big fans of you!
 
 **NEKO#ΦωΦ**<br>
-Sure~ 
+Sure\~ 
 
 *\[Door Opens\]*
 
@@ -95,7 +95,7 @@ Pretty ironic, isn't it? After all, they are the most superior existence of thei
 ......
 
 **ConneR**<br>
-The Crystal Ants in this case are probably the last surviving batch in the entire world. Even now, they have no clue of the dire situation and continue to refer to themselves as kings in this tiny box... How cute. *\*Chuckles\**~
+The Crystal Ants in this case are probably the last surviving batch in the entire world. Even now, they have no clue of the dire situation and continue to refer to themselves as kings in this tiny box... How cute. *\*Chuckles\**\~
 
 *[»»» Fast Forward»»»]*
 
@@ -105,7 +105,7 @@ The Crystal Ants in this case are probably the last surviving batch in the entir
 That lecturer... he feels so... weird. I don't want to take his classes anymore...
 
 **NEKO#ΦωΦ**<br>
-Yeah~ So much for NEKO thinking that he's kinda handsome...
+Yeah\~ So much for NEKO thinking that he's kinda handsome...
 
 **ConneR**<br>
 I appreciate your compliment.
@@ -132,7 +132,7 @@ It's true. You can see for yourself, a 55.
 Oh crap... This is bad! This is really, really bad!
 
 **ConneR**<br>
-Hmm~ It's not like there's no space for a few bonus points.
+Hmm\~ It's not like there's no space for a few bonus points.
 
 **NEKO#ΦωΦ**<br>
 For real!? Please, please let NEKO pass! I don't want to flunk the whole semester!

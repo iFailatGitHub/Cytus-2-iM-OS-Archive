@@ -12,7 +12,7 @@ Daddy, over here!
 How did the day go? Is everything alright in class?
 
 **Neko**<br>
-Same as always. Got plenty of sleep. Teehee~
+Same as always. Got plenty of sleep. Teehee\~
 
 **Kouhei**<br>
 Pay more attention in class...<br>
@@ -31,10 +31,10 @@ Yeah, something else came up for her today. What a shame...
 That girl looks like the nasty type. I hope she won't have a bad influence on you.
 
 **Neko**<br>
-Daddy~ you're spewing nonsense again! NEKO told you many times before! Linda is a very good girl; got it!? Stop saying that about her!
+Daddy\~ you're spewing nonsense again! NEKO told you many times before! Linda is a very good girl; got it!? Stop saying that about her!
 
 **Kouhei**<br>
-OK~ OK~
+OK\~ OK\~
 
 *\[Door Opens\]*
 
@@ -76,7 +76,7 @@ Your father mentions you a lot.
 Eh? Ahaha... Sis Yukiko is really pretty yourself! I didn't know that daddy has a colleague this good\-looking... Maybe NEKO should work there as well in the future!
 
 **Yukiko**<br>
-Haha, thank you. Our company is pretty tough though~
+Haha, thank you. Our company is pretty tough though\~
 
 **Neko**<br>
 If NEKO helps out too, it will definitely be easier! I bet it is really hard working for daddy, right?
@@ -94,30 +94,29 @@ What? It's not like NEKO doesn't have a point! Daddy may look capable and reliab
 Eh...?
 
 **Neko**<br>
-On top of that, his "let me do everything" personality is also super~ troubling, right? For example, he is always fighting for the chance to cook even though both of us knew how much his cooking sucks~ NEKO had to clean up his mess every time.
+On top of that, his "let me do everything" personality is also super\~ troubling, right? For example, he is always fighting for the chance to cook even though both of us knew how much his cooking sucks\~ NEKO had to clean up his mess every time.
 
 **Kouhei**<br>
 Ok, ok, I get it! Geez, you don't have to tell her everything...
 
 ![naos0501.png](./attachments/naos0501.png)
-
 **Yukiko**<br>
 Pffft... You weren't kidding. Your daughter really does know you very well.
 
 **Neko**<br>
-Teehee~
+Teehee\~
 
 **Yukiko**<br>
 So, NEKO is good at cooking? I also like cooking a lot.
 
 **Neko**<br>
-For real? NEKO loves cooking too! Because it's something taught by mommy~ Besides, it's so darn expensive eating out at Node 08!
+For real? NEKO loves cooking too! Because it's something taught by mommy\~ Besides, it's so darn expensive eating out at Node 08!
 
 **Yukiko**<br>
 I agree. I too miss the cheap and tasty restaurants back in Node 03... However, work has been quite busy these days. I can't cook very often, so take\-outs are often the only option.
 
 **Neko**<br>
-Work too busy? Da~~~ddy! Is it your fault!? Are you dumping all your work to her!?<br>
+Work too busy? Da\~\~\~ddy! Is it your fault!? Are you dumping all your work to her!?<br>
 Drunkard! Couch Potato! Smelly Feet!
 
 **Kouhei**<br>
@@ -133,16 +132,16 @@ We're here. This is the place, right?<br>
 I'll come pick you up after the event is over.
 
 **Neko**<br>
-Gotcha~! Hehe, NEKO is so hyped up about this!
+Gotcha\~! Hehe, NEKO is so hyped up about this!
 
 **Kouhei**<br>
 Be careful yourself when you're messing around here. Stay in contact.
 
 **Neko**<br>
-Uh\-huh! Bye\-bye, sis Yukiko~ Don't forget our deal. Next time, when you visit NEKO's house, we can cook together!
+Uh\-huh! Bye\-bye, sis Yukiko\~ Don't forget our deal. Next time, when you visit NEKO's house, we can cook together!
 
 **Yukiko**<br>
-Of course. I'll look forward to that~ Goodbye.
+Of course. I'll look forward to that\~ Goodbye.
 
 *\[Door Opens\]*
 

@@ -13,14 +13,14 @@
 *\[Door Opens\]*
 
 **Neko**<br>
-Morning~ Hello everyone, NEKO is here!
+Morning\~ Hello everyone, NEKO is here!
 
 **Chris**<br>
 Umm, you're almost ten minutes late... Also, it's already the afternoon, not morning.
 
 **Neko**<br>
 You're so noisy. PAFF is not here either.<br>
-We're discussing the arrangements with her today, right? I'm so excited~
+We're discussing the arrangements with her today, right? I'm so excited\~
 
 **Chris**<br>
 About that, A... Miss PAFF will not be coming today.
@@ -48,7 +48,7 @@ Apologies, PAFF has a filming scheduled today, so she couldn't come. Later today
 
 **Neko**<br>
 No problem, no problem! Wow, super idol indeed! I'm more and more excited about this collab!<br>
-Sis Helena, if we have the opportunity, can I meet her? The real PAFF must be so sweet and tasty. Slurp~ Muhaha~
+Sis Helena, if we have the opportunity, can I meet her? The real PAFF must be so sweet and tasty. Slurp\~ Muhaha\~
 
 **Chris**<br>
 Why does that sound a bit dangerous...

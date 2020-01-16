@@ -45,7 +45,6 @@ N, no way. It can't be...
 Woah...!
 
 ![pos4502.png](./attachments/pos4502.png)
-
 **PAFF**<br>
 That was close... Almost got recognized again...
 
@@ -65,7 +64,6 @@ NEKO said the bar is located in Quadrant II...
 You... do know the directions, right?
 
 ![pos4503.png](./attachments/pos4503.png)
-
 **???**<br>
 ......
 

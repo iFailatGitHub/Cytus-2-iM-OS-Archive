@@ -13,6 +13,5 @@
 
 ## Log Content
 ![jos2901.png](./attachments/jos2901.png)
-
 Date: 693/06/03<br>
 Location: Node 03 \- Wolong St.

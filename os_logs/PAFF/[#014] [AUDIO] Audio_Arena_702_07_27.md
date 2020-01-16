@@ -23,7 +23,7 @@ Haha, no matter how skilled I am, makeup is never perfect on its own. If not for
 That's not the case... Thank you, sir.
 
 **Stylist**<br>
-You're welcome~ Since this is a rare physical concert, I'll be at the VIP section. I'll be here when you need to reapply your makeup.
+You're welcome\~ Since this is a rare physical concert, I'll be at the VIP section. I'll be here when you need to reapply your makeup.
 
 **Helena**<br>
 We'll be in your care.

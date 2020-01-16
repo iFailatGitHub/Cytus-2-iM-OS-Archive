@@ -12,7 +12,7 @@ Here to tell everyone some good news. My application for a more powerful prosthe
 Ehhhh? Is that stuff safe? Wasn't there an incident where that thing went nuts!??
 
 **Roger**<br>
-In that incident the guy bought a defective product. Mine's from BH so it will be a-okay
+In that incident the guy bought a defective product. Mine's from BH so it will be a\-okay
 
 **Justin888**<br>
 Next time you're going anywhere post it on iM; I'll be sure to stay far away from that location

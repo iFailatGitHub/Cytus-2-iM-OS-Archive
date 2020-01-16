@@ -13,7 +13,7 @@
 
 ## Log Content
 **NEKO#ΦωΦ**<br>
-Aroma\-chan~ Hurry, hurry!
+Aroma\-chan\~ Hurry, hurry!
 
 **PAFF**<br>
 So nostalgic... I haven't returned to the Academy since I graduated.
@@ -38,7 +38,7 @@ Alrighty! Operation START!
 *\[Footsteps\]*
 
 **NEKO#ΦωΦ**<br>
-Hheellllllooo everyone~ NEKO desu! Today, we are streaming at the Academy, where NEKO takes classes! You guys must be super curious, right? Although I don't have class today, let's get going! Ahahahaha!
+Hheellllllooo everyone\~ NEKO desu! Today, we are streaming at the Academy, where NEKO takes classes! You guys must be super curious, right? Although I don't have class today, let's get going! Ahahahaha!
 
 **Student A**<br>
 Hey, isn't that NEKO outside?

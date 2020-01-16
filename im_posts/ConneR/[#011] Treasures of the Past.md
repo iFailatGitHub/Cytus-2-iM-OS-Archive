@@ -16,7 +16,7 @@
 After hearing Sensei's description, I kinda want to go back to that era
 
 **RaiKiyumi**<br>
-Is there really no possibility to recover it? Want to hear it~
+Is there really no possibility to recover it? Want to hear it\~
 
 **Bolt_Urx**<br>
 Just collecting every single instrument and recreating the setting is already mission impossible...

@@ -52,7 +52,7 @@ Kensho, leave them alone. Don't force them. They're clearly full. Here, I'll cle
 Mrs. Kawasaki, the food was delicious. Thank you!
 
 **Nazuki**<br>
-Not a problem~ I should thank you. After Katsuya's brother left, he's been down in the dumps. He's been much happier after you came. The dining table has also been a lot more lively.
+Not a problem\~ I should thank you. After Katsuya's brother left, he's been down in the dumps. He's been much happier after you came. The dining table has also been a lot more lively.
 
 **Katsuya**<br>
 ......<br>

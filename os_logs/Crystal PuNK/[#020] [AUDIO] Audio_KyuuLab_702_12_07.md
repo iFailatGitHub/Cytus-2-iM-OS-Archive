@@ -101,13 +101,13 @@ Eh? Umm...
 *It's fine. Go ahead. You need a good rest anyway.*
 
 **NEKO#ΦωΦ**<br>
-Ehh~? What about Nora\-chan?
+Ehh\~? What about Nora\-chan?
 
 **[Nora]**<br>
 *I have work I must attend to.*
 
 **NEKO#ΦωΦ**<br>
-Muuuu... okay~<br>
+Muuuu... okay\~<br>
 Aroma\-chan! We just made some amazing sounding chords!
 
 *\[Synthesizer\]*

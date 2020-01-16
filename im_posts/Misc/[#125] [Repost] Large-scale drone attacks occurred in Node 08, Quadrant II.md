@@ -1,4 +1,4 @@
-# [Repost] Large-scale drone attacks occurred in Node 08, Quadrant II
+# [Repost] Large\-scale drone attacks occurred in Node 08, Quadrant II
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -11,7 +11,7 @@
 > <br>
 > At around 3 P.M., the first wave of attacks struck a Law Enforcement patrol post in the outskirts of Quadrant II. Multiple citizens and Law Enforcement Agents suffered minor and critical injuries. Of the critically injured, three already showed no signs of life by the time medical personnel arrived at the site. A witness of the attack told this NNN reporter, that after the first wave of attacks, the remaining drones continued to head toward the business district, most likely preparing for the next attack.<br>
 > <br>
-> Since these incidents showed clear signs of a terrorist attack, the Administration Bureau has issued an order for first-priority precautionary measures to be taken. All Law Enforcement Agents will be deployed to conduct the investigation. In addition, the flying permits for all drones that are on standby have been revoked. However, drones that are currently conducting missions or offline are still out of their control. If the situation calls for it, these drones will be destroyed or brought down by force.<br>
+> Since these incidents showed clear signs of a terrorist attack, the Administration Bureau has issued an order for first\-priority precautionary measures to be taken. All Law Enforcement Agents will be deployed to conduct the investigation. In addition, the flying permits for all drones that are on standby have been revoked. However, drones that are currently conducting missions or offline are still out of their control. If the situation calls for it, these drones will be destroyed or brought down by force.<br>
 > <br>
 > Based on the news embargo put in place by the Administration Bureau, to all citizens, please head to the designated safety shelters immediately. If the roads to such shelters have already been blocked, please remain indoors. Do not engage or attempt to fight against the drones. Node News Network will continue to broadcast this event by images, text, or audio.<br>
 [Article excerpted from Node News Network]
@@ -45,7 +45,7 @@ Who the hell is controlling these drones??
 I heard over 20 people have died already...
 
 **Wickedragon**<br>
-This is a real terrorist attack... RUUNNNN~!
+This is a real terrorist attack... RUUNNNN\~!
 
 **kou**<br>
 Stop commenting!!! Anyone still outside, get to a shelter ASAP!!!

@@ -29,7 +29,6 @@ Miss Pauline's injuries are not serious. We've finished treating all of them. Ho
 Sis Cherry! Waaaaahhhhh!
 
 ![cpos3101.png](./attachments/cpos3101.png)
-
 **[Nora]**<br>
 *Please remain silent.*
 
@@ -64,7 +63,7 @@ We have to say thank you to you as well.
 No kidding. Even though I tried to stop you guys rushing out the room back there... Sorry, I couldn't do anything...
 
 **NEKO#ΦωΦ**<br>
-Yeah! You guys are everyone's hero! Though your methods are very reckless~
+Yeah! You guys are everyone's hero! Though your methods are very reckless\~
 
 **Xenon**<br>
 You don't get to lecture me on that...
@@ -98,7 +97,7 @@ Chief, please return to your toom and get some rest.
 The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations.*
 
 **NEKO#ΦωΦ**<br>
-Eh~ NEKO wants to stay here with Sis Cherry though...<br>
+Eh\~ NEKO wants to stay here with Sis Cherry though...<br>
 Can't help it then; let's go to PAFF's room to play some games!
 
 **Hayato**<br>

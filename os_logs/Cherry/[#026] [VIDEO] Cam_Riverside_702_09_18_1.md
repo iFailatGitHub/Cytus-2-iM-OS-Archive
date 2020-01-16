@@ -23,7 +23,6 @@ Yeah, it's right there.
 *Rewind Starts.*
 
 ![chos2601.png](./attachments/chos2601.png)
-
 **Xenon**<br>
 So you really do come here by yourself for no reason...?
 
@@ -33,7 +32,6 @@ Yes. I come here to repent myself for leaving without ever saying "Sorry" to you
 *[<<< Flashback <<*
 
 ![chos2602.png](./attachments/chos2602.png)
-
 **Xenon**<br>
 Here's all the evidence. Is this the "secret" that you've been unable to tell me all this time...?
 
@@ -78,7 +76,6 @@ You can't accept this, can you? The real me...
 *\*Bawls\**
 
 ![chos2603.png](./attachments/chos2603.png)
-
 **Xenon**<br>
 ......
 

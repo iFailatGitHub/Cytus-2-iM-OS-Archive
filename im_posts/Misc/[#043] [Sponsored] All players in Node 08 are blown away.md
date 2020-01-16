@@ -13,6 +13,6 @@ Follow NEKO\#ΦωΦ and take part in this uber popular game!
 A fantasy tale that resonates with your soul;<br>
 Infuse the characters, join the battles.
 
-[**Experience Sdorica -sunset- for free now!**](https://app.adjust.com/h0g17k)
+[**Experience Sdorica \-sunset\- for free now!**](https://app.adjust.com/h0g17k)
 
 ![o4301.png](./attachments/o4301.png)

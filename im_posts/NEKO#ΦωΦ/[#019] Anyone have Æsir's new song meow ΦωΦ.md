@@ -12,7 +12,7 @@
 ## Post
 **NEKO#ΦωΦ**<br>
 People've been spreading s\*\*\* about him<br>
-During his half-year long disappearance, is he composing in secret or he is escaping from loan sharks ΦωΦ?？
+During his half\-year long disappearance, is he composing in secret or he is escaping from loan sharks ΦωΦ?？
 
 People who know the details please PM me ლ(ΦωΦლ)<br>
 If you have his new song, even better <br>

@@ -12,7 +12,7 @@ Are you sure that you can't...?
 *Sorry... I really can't help you out today...*
 
 **Neko**<br>
-Ah~~ Not just today. NEKO might be without a place to live from now on...
+Ah\~\~ Not just today. NEKO might be without a place to live from now on...
 
 **[Linda]**<br>
 *Eh? What happened?*
@@ -112,7 +112,7 @@ NOICE!
 ... Seriously? So you're the "NEKO\#ΦωΦ" on this high\-score ranking?
 
 **Neko**<br>
-Hmph~ How is it? NEKO won!
+Hmph\~ How is it? NEKO won!
 
 **Xenon**<br>
 Yeah... I lost.

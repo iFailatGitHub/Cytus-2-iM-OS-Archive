@@ -6,15 +6,15 @@
 
 ## Log Content
 **Pedestrian A**<br>
-Hick... Aww~ I love you so much~
+Hick... Aww\~ I love you so much\~
 
 **JOE**<br>
-Yeah yeah yeah~ I love you too. Now f\*\*\* off.
+Yeah yeah yeah\~ I love you too. Now f\*\*\* off.
 
 *\[Doorbell\]*
 
 **JOE**<br>
-Today is finally over~
+Today is finally over\~
 
 **Zark**<br>
 Arf!
@@ -29,7 +29,6 @@ Arf! Arf arf!
 The back door? What's wrong? Are the stray dogs digging around the trash again? Did you really think that every stray dog is the same as you?
 
 ![ivos1601.png](./attachments/ivos1601.png)
-
 **JOE**<br>
 Woah!? Why is there a person lying here?...... A woman? Is she drunk?
 
@@ -111,7 +110,7 @@ Rest assured. No one is going to be interested in the fetishes of a nobody like 
 Thanks!
 
 **JOE**<br>
-Walk yourself out~
+Walk yourself out\~
 
 **Zark**<br>
 ARF!
@@ -124,6 +123,6 @@ Arf Arf!
 
 **JOE**<br>
 What? Why are you so noisy today? ......Eh ......? AHHH!! The money in my tip box! Why are they all gone!? Damnit, it must be that girl! If I knew this would happen, I wouldn't have helped her. <br>
-Sighs~ this sucks...
+Sighs\~ this sucks...
 
 *[Signal Lost]*

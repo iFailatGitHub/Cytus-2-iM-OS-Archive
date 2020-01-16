@@ -38,7 +38,7 @@ No... I just... had a dream... I think?
 ... No, it's not a dream... It's too real to be one.
 
 **NEKO#ΦωΦ**<br>
-Ehh~ Did you recover a new piece of memory?
+Ehh\~ Did you recover a new piece of memory?
 
 **PAFF**<br>
 I don't know... I saw Clara...
@@ -50,7 +50,7 @@ Clara? Ah, the classmate Aroma is looking for. Did you just remember something f
 No, I'm not present in the memory... but it was a conversation about me, and it also mentioned that Iris moved away not long after graduation...
 
 **NEKO#ΦωΦ**<br>
-Ehhh... If we knew that sooner, we wouldn't have to take that extra trip~
+Ehhh... If we knew that sooner, we wouldn't have to take that extra trip\~
 
 **PAFF**<br>
 I'm sorry...
@@ -99,7 +99,7 @@ Meowbot, search images of "Midwest Town Area"!
 Ah... it does look very similar. This should be the area!
 
 **NEKO#ΦωΦ**<br>
-Teehee, NEKO's amazing, isn't it~<br>
+Teehee, NEKO's amazing, isn't it\~<br>
 When we first moved here, we were originally gonna live there, because the rent is very cheap... But daddy said that it's more convenient if the house is closer to the Academy.
 
 **PAFF**<br>

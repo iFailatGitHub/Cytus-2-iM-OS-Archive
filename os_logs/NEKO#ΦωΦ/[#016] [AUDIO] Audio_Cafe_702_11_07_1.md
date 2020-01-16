@@ -36,7 +36,7 @@ NEKO! On stage!
 Girl, be nice to the door! Are you trying to tear down my poor little shop!?
 
 **NEKO#ΦωΦ**<br>
-Linda\-chan~ Gimme a hug!
+Linda\-chan\~ Gimme a hug!
 
 **Linda**<br>
 Yikes! Be careful; I have a drink in my hand.
@@ -52,7 +52,7 @@ I'm not that... who you calling uncle?<br>
 Why are you so weirdly excited today? Are you drunk already?
 
 **NEKO#ΦωΦ**<br>
-Of course I'm not~ Alcohol tastes awful!
+Of course I'm not\~ Alcohol tastes awful!
 
 **Linda**<br>
 She's just like this all the time.
@@ -61,7 +61,7 @@ She's just like this all the time.
 Yeah, I get it. What do you want to drink?
 
 **NEKO#ΦωΦ**<br>
-Woah~ What is Linda\-chan having? It looks so pretty! NEKO wants one as well!
+Woah\~ What is Linda\-chan having? It looks so pretty! NEKO wants one as well!
 
 **Linda**<br>
 It's "Queen Kill", but this is an alcoholic beverage.

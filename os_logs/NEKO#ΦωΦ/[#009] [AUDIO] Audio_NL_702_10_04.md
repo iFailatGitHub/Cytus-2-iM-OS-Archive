@@ -20,13 +20,13 @@ And this bra...... HEY\-YA!
 ... Kyaa!
 
 **NEKO#ΦωΦ**<br>
-Muuu... Dang, they're big...... Hoho, so soft~~~ Buhehehe...
+Muuu... Dang, they're big...... Hoho, so soft\~\~\~ Buhehehe...
 
 **PAFF**<br>
 Umm... please stop... Pfft, haha...
 
 **NEKO#ΦωΦ**<br>
-Hoho~~ So PAFF is the type that's weak against tickles...? Take this! Tickle tickle tickle tickle!
+Hoho\~\~ So PAFF is the type that's weak against tickles...? Take this! Tickle tickle tickle tickle!
 
 **PAFF**<br>
 Ahahaha! Ahahaha!
@@ -37,14 +37,14 @@ Ahahaha! Ahahaha!
 NEKO? Who's laughing?
 
 **NEKO#ΦωΦ**<br>
-Yikes! Shhh~!!<br>
+Yikes! Shhh\~!!<br>
 N, NEKO is watching a video. What's the matter?
 
 **Yukiko**<br>
 We three are going to the mall, and we'll buy ingredients for dinner on the way. Please look after the house. Is there anything you want us to buy for you?
 
 **NEKO#ΦωΦ**<br>
-Nothing comes to mind! Have a safe trip~
+Nothing comes to mind! Have a safe trip\~
 
 *\[Door Opens\]*
 
@@ -110,7 +110,7 @@ Tada! Look, NEKO bought this!
 This is...?
 
 **NEKO#ΦωΦ**<br>
-Hair dye! Light slate grey colored~ Your hair color right now is too noticeable! If we use this and apply some disguise, you should be able to go outside.
+Hair dye! Light slate grey colored\~ Your hair color right now is too noticeable! If we use this and apply some disguise, you should be able to go outside.
 
 **PAFF**<br>
 Go outside...
@@ -144,9 +144,9 @@ Then, if we tie your hair like how you used to... tada!
 ......!
 
 **NEKO#ΦωΦ**<br>
-So pretty~ With that plus a simple face mask, I can guarantee that nobody will recognize it's you. Most importantly, it's adorable~ I originally plan to cut your hair short, but Aroma\-chan's hair is way too pretty. NEKO can't bring myself to do such a cruel thing!
+So pretty\~ With that plus a simple face mask, I can guarantee that nobody will recognize it's you. Most importantly, it's adorable\~ I originally plan to cut your hair short, but Aroma\-chan's hair is way too pretty. NEKO can't bring myself to do such a cruel thing!
 
 **PAFF**<br>
-T, thank you~
+T, thank you\~
 
 *[Signal Lost]*

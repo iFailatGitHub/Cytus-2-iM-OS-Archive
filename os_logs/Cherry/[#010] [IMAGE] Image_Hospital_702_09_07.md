@@ -11,6 +11,5 @@
 
 ## Log Content
 ![chos1001.png](./attachments/chos1001.png)
-
 Date: 702/09/07<br>
 Location: Node 08 \- Quadrant III, Hospital 15

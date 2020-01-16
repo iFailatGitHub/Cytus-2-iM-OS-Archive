@@ -83,7 +83,6 @@ No, humans never cared about history in the first place. Or else, they wouldn't 
 *Learner, history is absolute! It is not altered! You won't be able to pursue the real answers with an attitude like this!*
 
 ![ivos1701.png](./attachments/ivos1701.png)
-
 **Ivy**<br>
 Alright, forget it. I won't ask about history anymore. Can you tell me what is "cyTus"?
 
@@ -107,13 +106,13 @@ Excavation... Exploration team.<br>
 ... Where did they excavate it from?
 
 **[Basicpedia 01]**<br>
-*Apologies. This information is a trade secret. Basicpedia does not have the authorization to answer this question! QQ~*
+*Apologies. This information is a trade secret. Basicpedia does not have the authorization to answer this question! QQ\~*
 
 **Ivy**<br>
 ... Where is this Library currently located?
 
 **[Basicpedia 01]**<br>
-*It is stored inside the A.R.C. headquarters "A.R.C. Sky". Tours are available every Monday and Friday during business hours~ Ah, but learner, you won't be able to see Library itself. After all, it is an extremely precious facility!*
+*It is stored inside the A.R.C. headquarters "A.R.C. Sky". Tours are available every Monday and Friday during business hours\~ Ah, but learner, you won't be able to see Library itself. After all, it is an extremely precious facility!*
 
 **Ivy**<br>
 ......
@@ -125,6 +124,6 @@ Excavation... Exploration team.<br>
 ... No, that's enough.
 
 **[Basicpedia 01]**<br>
-*Glad to share knowledge with you. Bye\-bye~*
+*Glad to share knowledge with you. Bye\-bye\~*
 
 *[Signal Lost]*

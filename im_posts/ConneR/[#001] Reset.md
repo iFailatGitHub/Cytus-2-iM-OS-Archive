@@ -3,7 +3,7 @@
 **ConneR**<br>
 　Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
 
-　Everything is a brand-new start. objectives to achieve, music to play. Will find a path for myself eventually.
+　Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
 
 　L'essentiel n'est pas de vivre, mais de bien vivre.
 ## Replies
@@ -17,7 +17,7 @@ Greetings Sensei. It has been a while.I thought you had abandoned this world and
 OHHHHH didn't expect Master Colin to make a comeback gotta go tell my friend
 
 **Brightswirls**<br>
-Discovered my idol after a five-year hiatus. I must be dreaming \*pinch face\*
+Discovered my idol after a five\-year hiatus. I must be dreaming \*pinch face\*
 
 **DMO**<br>
 Reporting \*raise hand\*
@@ -39,5 +39,5 @@ Reporting +1
 **\#FollowConneR**
 
 **C.Y.**<br>
-Looking forward to more music~~~
+Looking forward to more music\~\~\~
 

@@ -6,7 +6,7 @@
 
 ## Post
 **JOEZ Cafe**<br>
-Ummm, h-hey guys~~ I'm still alive haha~~<br>
+Ummm, h\-hey guys\~\~ I'm still alive haha\~\~<br>
 Sorry, it seems like I freaked everyone out<br>
 When my store got blown up, I just so happened to be crushed underneath all those cases of Yamameto<br>
 Those nasty drinks ended up absorbing most of the impact for me, which kept lil' ol' me alive (Turns out I did the right thing ordering so much of that damn stuff!?)
@@ -29,7 +29,7 @@ F\*\*\* dude don't scare us like that<br>
 You took your sweet time and got us all worried sick!!!!
 
 **KoraKora**<br>
-Praise the Yamameto~~~~
+Praise the Yamameto\~\~\~\~
 
 **FreeFinder**<br>
 Owner, to commemorate this occasion, can I...<br>
@@ -51,10 +51,10 @@ Hey why not? Won't be the most insane thing he has done
 
 **Arcade1012**<br>
 One does not simply kill the King of Germs lulul<br>
-He is the KING of all germs after all~
+He is the KING of all germs after all\~
 
 **Zeviart09**<br>
-Owner, if you ever plan to reopen don't forget to tell us~ I'm going to go drink there at least three times every week QAQ
+Owner, if you ever plan to reopen don't forget to tell us\~ I'm going to go drink there at least three times every week QAQ
 
 **JaneHikaru**<br>
 The Return of The King of Germs

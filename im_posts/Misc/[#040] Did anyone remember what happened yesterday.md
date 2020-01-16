@@ -11,7 +11,7 @@ I remember that I attended the launch celebration party, but have no memories of
 
 ## Replies
 **MYMYM**<br>
-Did you really not remember anything lul? Maybe you've been Æsir-ed XDD
+Did you really not remember anything lul? Maybe you've been Æsir\-ed XDD
 
 **lenba**<br>
 I somewhat recalled that I talked a lot of nonsense?<br>
@@ -63,7 +63,7 @@ Because after you got drunk, you were running around like a madman and literally
 **@Kemcoter** so that was you. I was wondering why there's a weird noise outside, hence why I never left my office.
 
 **JAC-jack**<br>
-Goddamnit I was not there f\*\*\*\*\*\* ~~~~ looks like I missed a lot of good s\*\*\*!!
+Goddamnit I was not there f\*\*\*\*\*\* \~\~\~\~ looks like I missed a lot of good s\*\*\*!!
 
 **CHanatsuka**<br>
 No worries man. We'll hold another one when the next version launches!!

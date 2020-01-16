@@ -16,7 +16,7 @@ Haha... Can we have dinner together tomorrow? We might want to review our perfor
 Ah, not that their was anything that you did wrong. It's mostly about me.
 
 **Kaori**<br>
-Here you go again~ If it's tomorrow, you'll have to wait until I get off work. Is that too late?
+Here you go again\~ If it's tomorrow, you'll have to wait until I get off work. Is that too late?
 
 **Hayato**<br>
 Not at all. I'll wait for you.
@@ -59,7 +59,6 @@ Ha... Ha... Ha... AH!
 Damnit...
 
 ![pos5301.png](./attachments/pos5301.png)
-
 **Hunter**<br>
 ......
 

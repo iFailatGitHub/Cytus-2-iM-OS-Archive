@@ -1,4 +1,4 @@
-# NEKO's~ super question time!! \\ΦωΦ)/
+# NEKO's\~ super question time!! \\ΦωΦ)/
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -6,10 +6,10 @@
 
 ## Post
 **NEKO#ΦωΦ**<br>
-Helllooo~~ Everyone~~~ NEKO here~~~~ (\*Φ₃Φ)~♥<br>
+Helllooo\~\~ Everyone\~\~\~ NEKO here\~\~\~\~ (\*Φ₃Φ)\~♥<br>
 Quick question for mah fans<br>
-Any good hair dye recommendations out there~?<br>
-The brand NEKO previously used decides to troll me with the sold-out tag! ◢···· ╰(Φ皿Φ)╯····◣
+Any good hair dye recommendations out there\~?<br>
+The brand NEKO previously used decides to troll me with the sold\-out tag! ◢···· ╰(Φ皿Φ)╯····◣
 
 I did do a quick search, but there were a bazillion results. NEKO can't chooseヽ(Φˋ口ˊΦ)ノ<br>
 SO! I decided to turn to the experts on iM σ ΦωΦ) Φ∀Φ)σ 

@@ -1,4 +1,4 @@
-# NEKO\#(ΦωΦ) streaming time -「Manbora - Seeds of Miracle」
+# NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」
 ## Requirements
 | Character  |Level|
 |------------|:---:|
@@ -26,7 +26,7 @@ Hello <3
 Meow <3<3<3
 
 **NEKO#ΦωΦ**<br>
-Today we are playing a very causal small game ♥~(Φ∀Φ  )人
+Today we are playing a very causal small game ♥\~(Φ∀Φ  )人
 
 **D33M0**<br>
 Are you playing deemon today?

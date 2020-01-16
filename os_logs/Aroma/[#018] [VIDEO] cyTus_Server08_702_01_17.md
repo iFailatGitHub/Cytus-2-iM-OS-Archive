@@ -20,7 +20,7 @@ Helena has logged in to the block.*
 Hoho, here comes the megastar
 
 **Cherry**<br>
-Hello PAFF, sis Helena too~ Looking forward to working with you today!
+Hello PAFF, sis Helena too\~ Looking forward to working with you today!
 
 **Aroma**<br>
 Yes, same here.
@@ -50,7 +50,6 @@ This unit number of performances in virtual internet: 89.
 Wow, so ROBO is here too
 
 ![aos1801.png](./attachments/aos1801.png)
-
 **Lumy**<br>
 BTW, the rehearsal has already begun. Why is Æsir still MIA?
 

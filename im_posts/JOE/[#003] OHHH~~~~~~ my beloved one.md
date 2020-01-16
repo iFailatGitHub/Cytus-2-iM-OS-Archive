@@ -1,4 +1,4 @@
-# OHHH~~~~~~ my beloved one
+# OHHH\~\~\~\~\~\~ my beloved one
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -27,7 +27,7 @@ OH, my beloved Fonder, how I have missed you (French kiss)
 
 That aside, it has truly been a while. Starting to miss the good ol' band days<br>
 I will probably resume my role as a bassist very soon<br>
-Does anyone here wants to JAM with me!?!? I am single and lonely and I need friends~~
+Does anyone here wants to JAM with me!?!? I am single and lonely and I need friends\~\~
 
 **\#CommentToJamTogether**<br>
 **\#PressLikeIfYouWantToHear**<br>
@@ -55,7 +55,7 @@ The bass has random stickers on it lolol
 I want to JAM!!!!
 
 **HandsomeYi**<br>
-My mind is telling me no~~ but my body is telling me yes~~~~~
+My mind is telling me no\~\~ but my body is telling me yes\~\~\~\~\~
 
 **MatsuyamaC**<br>
 JOE, you better look out for the guy above me...

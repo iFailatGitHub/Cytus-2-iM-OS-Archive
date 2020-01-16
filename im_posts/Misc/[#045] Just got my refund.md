@@ -11,7 +11,7 @@ Feeling really nice after the refund. Don't really want to follow any idols now.
 
 ## Replies
 **Dreamer**<br>
-Idol chasing in a Buddhist-like manner:<br>
+Idol chasing in a Buddhist\-like manner:<br>
 Don't watch news, don't buy tickets
 
 **Shrimpyy**<br>

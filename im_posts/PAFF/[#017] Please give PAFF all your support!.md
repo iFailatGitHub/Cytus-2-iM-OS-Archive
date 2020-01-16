@@ -15,7 +15,7 @@ PAFF is slowly getting herself back into shape. Everyone, please continue to roo
 
 Recently the agent has been watching PAFF very closely, since she is always trying to secretly practice singing. Even virtual simulation training is off limits for her now!
 
-Tomorrow is the routine return check-up. We believe that the doctor will see PAFF's improvements!
+Tomorrow is the routine return check\-up. We believe that the doctor will see PAFF's improvements!
 ## Replies
 **Michiko**<br>
 PAFF will certainly do well since she is always hard on herself<br>
@@ -34,11 +34,11 @@ Doctor! Please!<br>
 **\#PrayForPAFF**
 
 **Shahari**<br>
-Sis Helena take good care of PAFF as well~<br>
+Sis Helena take good care of PAFF as well\~<br>
 **\#PrayForPAFF**
 
 **Delora**<br>
-The doctor will certainly make sure that PAFF is ok~<br>
+The doctor will certainly make sure that PAFF is ok\~<br>
 **\#PrayForPAFF**
 
 **LyLah1207**<br>
@@ -64,7 +64,7 @@ Wait patiently PUFFERs, once PAFF is healthy we can sing with her again!<br>
 **\#PrayForPAFF**
 
 **PoolsKitten**<br>
-PAFF fight~ we are all waiting for you~<br>
+PAFF fight\~ we are all waiting for you\~<br>
 **\#PrayForPAFF**
 
 **IronFan**<br>

@@ -27,5 +27,5 @@ You mean writing papers that utterly destroyed A.R.C.'s "research"? Hahaha.
 He went missing for several years, recently he started a new account for music purposes I think
 
 **Colinforever**<br>
-Colin Sensei is a legend ok? He is not your typical run-of-the-mill scholar
+Colin Sensei is a legend ok? He is not your typical run\-of\-the\-mill scholar
 

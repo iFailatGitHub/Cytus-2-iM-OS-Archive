@@ -33,7 +33,7 @@ Oh... sorry!
 Please, gimme a moment... Too much information... My brain needs time to process it a bit...
 
 **NEKO#ΦωΦ**<br>
-Ahhhh~ NEKO has no idea what she should do now! Help me~~ Linda\-Chuwan~
+Ahhhh\~ NEKO has no idea what she should do now! Help me\~\~ Linda\-Chuwan\~
 
 **Linda**<br>
 Your troubles escalated way too damn fast this time. I don't know what I can help with... However, let's all calm down and organize the current situation first.<br>
@@ -126,7 +126,7 @@ Ah, one more thing. If you really can't hide her anymore, come to me. I have a h
 If you have any problems, I will help as well. Don't forget that.
 
 **NEKO#ΦωΦ**<br>
-Okay... Waaaaaa~ Thank you guys so much!
+Okay... Waaaaaa\~ Thank you guys so much!
 
 **Linda**<br>
 Okay okay, stop faking it. You're gonna spill the drink!

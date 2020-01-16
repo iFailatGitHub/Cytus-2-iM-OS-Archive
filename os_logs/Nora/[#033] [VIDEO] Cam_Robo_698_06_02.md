@@ -92,7 +92,6 @@ Nora, goodbye.*
 *Activate offline recording mode.*
 
 ![noos3302.png](./attachments/noos3302.png)
-
 **[Nora]**<br>
 *ROBO, when you see this message, it means you've already arrived at Node 08. I'm sorry... I couldn't go there with you.*
 

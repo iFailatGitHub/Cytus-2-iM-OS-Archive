@@ -28,7 +28,7 @@ We will be distributing drones to each physical store location to help with the 
 
 4. Contacts:<br>
 **@MONO\_SERVICE** <br>
-Online 1-on-1 customer service that is available 24/7
+Online 1\-on\-1 customer service that is available 24/7
 
 ![p2101.png](./attachments/p2101.png)
 ## Replies
@@ -45,17 +45,17 @@ PAFF, I won't ask for a refund. I want you to use our money to heal yourself
 Should I say "Not surprised, it's Mono"?
 
 **SancTityKnight**<br>
-Link is completely dead. The so-called "available 24/7" customer service system also have not responded at all. Available 24/7? More like absolute trash 24/7!!!
+Link is completely dead. The so\-called "available 24/7" customer service system also have not responded at all. Available 24/7? More like absolute trash 24/7!!!
 
 **Poopytrap**<br>
 Dude, do you have too much money to throw at random crap? Maybe this is all a scam ya know
 
 **vvv_IRIS_vvv**<br>
-Mono officials, any announcements regarding the Æsir-FEST incident?
+Mono officials, any announcements regarding the Æsir\-FEST incident?
 
 **AbbEE**<br>
 My god that's right<br>
-Mono should know about Æsir-FEST too<br>
+Mono should know about Æsir\-FEST too<br>
 Since they agreed to let PAFF be a guest performer
 
 **koolboss01**<br>
@@ -81,7 +81,7 @@ Idiots refund is the only way they can handle a situation like this. What else a
 I'm so disappointed. I will not support you guys anymore in the future
 
 **Mohito**<br>
-Even though the news reports say that Æsir-FEST was held, I still couldn't piece together my schedule that day
+Even though the news reports say that Æsir\-FEST was held, I still couldn't piece together my schedule that day
 
 **NotScalper**<br>
 It's great that we can ask for a refund. I bought 15 general admission tickets

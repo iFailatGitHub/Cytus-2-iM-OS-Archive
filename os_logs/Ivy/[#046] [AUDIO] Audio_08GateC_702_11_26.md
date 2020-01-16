@@ -136,7 +136,7 @@ Jackal! Save your unfunny jokes for another time!
 Captain?
 
 **Alex**<br>
-Sigh~ Here we go again...<br>
+Sigh\~ Here we go again...<br>
 Bambi, we still have work to do. This is none of our business. The sooner we leave the city the...
 
 **Sagar**<br>

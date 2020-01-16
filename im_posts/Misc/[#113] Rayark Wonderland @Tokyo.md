@@ -2,9 +2,9 @@
 ## Post
 **Rayark_Official**<br>
 Cytus II, DEEMO, Sdorica, amazing performance with all the classic songs!<br>
-Cytus II JP Battle - CHAOS -, grand finals to determine who has the fastest fingers!<br>
+Cytus II JP Battle \- CHAOS \-, grand finals to determine who has the fastest fingers!<br>
 Many u<br>
-Event exclusive merchandise available on-site only!
+Event exclusive merchandise available on\-site only!
 
 Are you lady?<br>
 Tickets almost sold out. Countdown to the event starts soon!

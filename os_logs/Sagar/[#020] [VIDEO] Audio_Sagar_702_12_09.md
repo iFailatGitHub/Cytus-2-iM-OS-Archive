@@ -32,7 +32,7 @@ You still thinking about Gary? He's fine. That small of a wound. Just spit on it
 Captain, we're good over here.
 
 **Alex**<br>
-Oh ho! Mrs. Freeze, when you wear civilian clothes you look even cuter~
+Oh ho! Mrs. Freeze, when you wear civilian clothes you look even cuter\~
 
 **Lucy**<br>
 Get outta here before I put this beetle on your head,
@@ -67,7 +67,7 @@ Okay. You two are on it. The rest of us will be spread out in the various exits 
 He's definitely in that house. But... it's already been ten days and he hasn't left.
 
 **Alex**<br>
-...*\*yawn\**...~~awww~~borrrrrring.
+...*\*yawn\**...\~\~awww\~\~borrrrrring.
 
 **[Sagar]**<br>
 *Lucy, Jackal, it's time, report back.*

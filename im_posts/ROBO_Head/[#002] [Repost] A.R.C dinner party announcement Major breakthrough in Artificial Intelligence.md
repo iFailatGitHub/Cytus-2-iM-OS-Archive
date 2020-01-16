@@ -1,9 +1,4 @@
 # [Repost] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
-## Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  1  |
-
 ## Unlocked Charts
 |        Song        |Character|Diff.|Level|
 |--------------------|:-------:|:---:|:---:|
@@ -35,7 +30,7 @@ Chance everything on cyTus is under their control
 Nah, aren't they supposed to be some kind of scholar organization?
 
 **SuduMan**<br>
-How do you know, Robo\_head you there~
+How do you know, Robo\_head you there\~
 
 **NEKO#ΦωΦ**<br>
 Is there anything in this world Robobrain here doesn't know(Φ∀Φ)
@@ -68,5 +63,5 @@ Analysis: Plagiarism.
 OMG he is here!
 
 **Dezzert**<br>
-All this talk is making me believe that A.R.C. is some kind of real-life god
+All this talk is making me believe that A.R.C. is some kind of real\-life god
 

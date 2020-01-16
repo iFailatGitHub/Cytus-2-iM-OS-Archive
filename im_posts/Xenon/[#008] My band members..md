@@ -8,10 +8,10 @@
 **Xenon**<br>
 Topic looks like something right out of a middle school essay. Whatever, today I would like to introduce my band members:
 
-**Lead Singer - Xenon - V<br>
-Guitar - Xenon (myself)<br>
-Bass - Xenon - B<br>
-Drums - Xenon - D**
+**Lead Singer \- Xenon \- V<br>
+Guitar \- Xenon (myself)<br>
+Bass \- Xenon \- B<br>
+Drums \- Xenon \- D**
 
 All Codenames. TBH I wrote this post because I was surprised a lot of people didn't know the fact that:<br>
 Members of Xenon, with the exception of myself, are all robots made by me. They perform based on their programming. There are no actual band members.<br>

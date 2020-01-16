@@ -54,7 +54,7 @@ Can't believe she's really gone, I was just listening to your musicQ\_Q
 What really happened to Cherry? It happened so suddenly@@
 
 **Redshirt**<br>
-Is this some kind of out-of-season April Fools' joke or something?
+Is this some kind of out\-of\-season April Fools' joke or something?
 
 **Gearz_Igo**<br>
 Nobody would joke about their lead vocalist's death.<br>

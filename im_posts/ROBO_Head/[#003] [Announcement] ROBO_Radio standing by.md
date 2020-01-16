@@ -43,7 +43,7 @@ Hint: Lifestyle streamer. Stream focused on talking about books and magazines.
 Yep definitely not NEKO lol
 
 **beeeeeeeeee**<br>
-Finally a new song~
+Finally a new song\~
 
 **NEKO#ΦωΦ**<br>
 (Φ皿Φ)凸

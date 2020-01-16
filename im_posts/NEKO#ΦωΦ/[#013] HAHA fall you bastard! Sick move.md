@@ -43,7 +43,7 @@ Sigh! You puffs really have cream for brains.
 Apologize now, or the agency will resort to legal actions.
 
 **Smurky**<br>
-Go ahead, we all know Mono's bunch of little p\*\*\*\*\*s~
+Go ahead, we all know Mono's bunch of little p\*\*\*\*\*s\~
 
 **w_Rosabel_w**<br>
 Bwahaha look at all these butthurt fans lololol
@@ -58,7 +58,7 @@ Wait you're talking about a game score!?!? Look at all the chaos you've caused i
 .......
 
 **NekoSamurai**<br>
-Man you are one cruel sneaky a-hole LMFAO
+Man you are one cruel sneaky a\-hole LMFAO
 
 **C_H_U**<br>
 So it's all a game...trollolololol

@@ -36,7 +36,6 @@ Hey... let go of me.
 NEKO was sooo worried about you……eh!? Sis Cherry's here too!? Whahaha……
 
 ![cpos1701.png](./attachments/cpos1701.png)
-
 **Xenon**<br>
 If you're here, that means...
 

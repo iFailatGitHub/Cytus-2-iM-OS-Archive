@@ -29,11 +29,11 @@ Like, who's cutting these goddamn onions QQ
 For me, not experiencing this hidden content is like not even playing the game at all
 
 **Hulujam**<br>
-Help me, please~~
+Help me, please\~\~
 
 **lrrllrrl**<br>
 It's mentioned in the earlier storylines<br>
-You should look for it yourself~~~
+You should look for it yourself\~\~\~
 
 **DewittSteiger**<br>
 Why are you people giving him such a hard time??<br>

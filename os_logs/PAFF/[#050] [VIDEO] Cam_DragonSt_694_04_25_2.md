@@ -45,7 +45,6 @@ No problem... Let's begin.<br>
 Well then, here's our first song!
 
 ![pos5001.png](./attachments/pos5001.png)
-
 *[»»» Fast Forward»»»]*
 
 *\[Audience applauds\]*
@@ -57,7 +56,7 @@ Thank you everyone... Woah! Brother Zhao, are you crying!? You're overreacting!
 It's because your singing was too good!
 
 **Kaori**<br>
-Hehe! Thanks~
+Hehe! Thanks\~
 
 **Kaori**<br>
 Audience, please give a round of applause to my partner Hayato as well! He wrote more than half of our songs!
@@ -68,12 +67,11 @@ Audience, please give a round of applause to my partner Hayato as well! He wrote
 EH? Ummm... Ha, hahaha...
 
 **Kaori**<br>
-Hoho~ Look at him, he's embarassed~ His entire face is bright red.
+Hoho\~ Look at him, he's embarassed\~ His entire face is bright red.
 
 *\[Audience laughter\]*
 
 ![pos5002.png](./attachments/pos5002.png)
-
 **Kaori**<br>
 Well then, we've sung our songs and received our applause...<br>
 That's it for our performance today. Thanks, everybody!
@@ -87,13 +85,13 @@ What the hell!? You only performed two songs!
 Pfft...
 
 **Kaori**<br>
-Haha, I was messing around with you~ See, you're not as nervous as before, right?
+Haha, I was messing around with you\~ See, you're not as nervous as before, right?
 
 **Hayato**<br>
 I guess... so.
 
 **Kaori**<br>
-Guess? So you still have your doubts~<br>
+Guess? So you still have your doubts\~<br>
 Then I'll ask the crowd. Do you guys want to hear us sing?
 
 **Audience**<br>

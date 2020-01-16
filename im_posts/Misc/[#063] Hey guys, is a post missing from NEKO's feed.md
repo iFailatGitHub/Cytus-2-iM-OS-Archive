@@ -12,7 +12,7 @@ I forgot what was it about. Anyone remember?
 
 ## Replies
 **NEKOSAIKOU**<br>
-"OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really~~~~~ BIG secret!!"<br>
+"OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really\~\~\~\~\~ BIG secret!!"<br>
 That's how the post went!!
 
 **Kemcoter**<br>
@@ -20,7 +20,7 @@ Ladies and gents, here's your NEKO expert!
 
 **NEKOSAIKOU**<br>
 Everything about NEKO is imprinted in my brain!!<br>
-It seemed that she was going to tell us some big news but there was no follow-up
+It seemed that she was going to tell us some big news but there was no follow\-up
 
 **DoToro**<br>
 If anyone knows, pls PM me thanks!

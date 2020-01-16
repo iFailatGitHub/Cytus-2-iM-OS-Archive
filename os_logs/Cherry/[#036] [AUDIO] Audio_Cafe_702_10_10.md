@@ -8,7 +8,7 @@
 *\[Doorbell\]*
 
 **Cherry**<br>
-Hi~ You busy?
+Hi\~ You busy?
 
 **JOE**<br>
 Big sis!? If you're coming, gimme a heads\-up! All the booths are full... sorry.
@@ -36,7 +36,7 @@ Big sis, what would you like to drink?
 I'll let you decide. I quite like the tangy drink you served me last time.
 
 **JOE**<br>
-Okay~ The first one is on me! You always order four or five more drinks anyway.
+Okay\~ The first one is on me! You always order four or five more drinks anyway.
 
 **Customer B**<br>
 Ho? Young lady, you're a good drinker too? How about a drinking match with us old folks?
@@ -51,7 +51,7 @@ Sure! That seems like a lot of fun!
 Oyoy... you serious? Don't underestimate those geezers; they are the type that can really drink a lot...
 
 **Cherry**<br>
-Who cares~ I don't have work tomorrow anyway. I planned to get 70% drunk today in the first place. The remaining 30% should be more than enough to handle these folks, right?
+Who cares\~ I don't have work tomorrow anyway. I planned to get 70% drunk today in the first place. The remaining 30% should be more than enough to handle these folks, right?
 
 **Customer A**<br>
 Hmph! Interesting! Hey, bring that thing out! It's on me!

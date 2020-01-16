@@ -88,7 +88,6 @@ We can't do that! This is breaking news...
 *\[Explosion\]*
 
 ![ivos4401.png](./attachments/ivos4401.png)
-
 **Susan**<br>
 *\*cough\*......! \*cough\* \*cough\*...... *Sam! Sam!! Are you okay!?
 

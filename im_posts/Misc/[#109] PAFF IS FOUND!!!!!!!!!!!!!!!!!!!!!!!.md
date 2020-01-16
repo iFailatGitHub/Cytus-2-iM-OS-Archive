@@ -24,7 +24,7 @@ Looking back, it seems like PAFF is the reason?
 I saw the post from that group as well LMFAO The top fan in that group even started streaming himself because of this LOLOLOLOL
 
 **Lynx87**<br>
-That infamously toxic/annoying NEKOSAIKOU right~~~~
+That infamously toxic/annoying NEKOSAIKOU right\~\~\~\~
 
 **Ayx_Socket**<br>
 Hey, give the guy some credit.<br>

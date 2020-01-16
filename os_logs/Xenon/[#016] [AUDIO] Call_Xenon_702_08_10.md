@@ -56,7 +56,7 @@ Negative! NEKO will die if she can't use the internet!
 Then at least switch to traditional connection.
 
 **NEKO#ΦωΦ**<br>
-Hmmmm~? Are you worried about NEKO?
+Hmmmm\~? Are you worried about NEKO?
 
 **Xenon**<br>
 ...It's normal for an A.R.C. employee to worry about the user's safety.

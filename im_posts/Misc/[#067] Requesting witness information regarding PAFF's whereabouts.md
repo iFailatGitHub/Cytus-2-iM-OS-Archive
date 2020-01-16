@@ -39,7 +39,7 @@ Hope you guys can get good results!!<br>
 **\#PrayForPAFF**
 
 **CyberLord**<br>
-Not really a PAFF fan, but what you guys are doing is awe-inspiring. Keep up the good work!
+Not really a PAFF fan, but what you guys are doing is awe\-inspiring. Keep up the good work!
 
 **JAC-jack**<br>
 However, if it's in a restricted area, you can't do much, right?<br>

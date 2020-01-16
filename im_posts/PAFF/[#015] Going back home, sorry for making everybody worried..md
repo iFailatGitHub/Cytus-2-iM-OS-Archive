@@ -19,14 +19,14 @@ I've seen everybody's blessings. Thank you. ^^
 ![p1501.png](./attachments/p1501.png)
 ## Replies
 **PAFF-Official**<br>
-The check-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now. 
+The check\-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now. 
 
 **CandiceNaoko**<br>
 It's a post from the real PAFF! She's back home to rest, thank god >\_<**<br>
 \#PrayForPAFF**
 
 **Pascal626**<br>
-It's PAFF~ QQ can finally rest assured. So what did the doctor say?
+It's PAFF\~ QQ can finally rest assured. So what did the doctor say?
 
 **CeLiA**<br>
 Get some rest. We'll all be here for you!<br>
@@ -42,7 +42,7 @@ If it's a post from herself we should be a little at ease now.
 PAFF mentioned this "dizzy" thing several times already. Did the doctor not check it?
 
 **AbbEE**<br>
-PAFF I sent you many gifts and supplements to Mono for you~
+PAFF I sent you many gifts and supplements to Mono for you\~
 
 **SancTityKnight**<br>
 Doctor PLEASE take good care of PAFF!!!
@@ -52,7 +52,7 @@ Get some rest：)<br>
 **\#PrayForPAFF**
 
 **Cipher**<br>
-Maybe a more detailed check-up? Since you still get dizzy and stuff
+Maybe a more detailed check\-up? Since you still get dizzy and stuff
 
 **ArupakaKUN**<br>
 **\#PrayForPAFF**

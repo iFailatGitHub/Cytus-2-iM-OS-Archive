@@ -35,7 +35,7 @@ Exactly what I was thinking <3
 Good point
 
 **DiiR**<br>
-Sensei~ the era is different. Just today in the academy, I was really angered by the shallow values displayed by the children there. Such Ignorance!
+Sensei\~ the era is different. Just today in the academy, I was really angered by the shallow values displayed by the children there. Such Ignorance!
 
 **ConneR**<br>
 　Doing thing in ways most people can't agree with; I guess that's my destiny

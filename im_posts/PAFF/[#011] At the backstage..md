@@ -14,10 +14,10 @@ Preparing backstage, see you guys later. ^^
 ![p1101.png](./attachments/p1101.png)
 ## Replies
 **Pascal626**<br>
-PAFF we are already at the venue. We're at the first row! Left side of the stage~
+PAFF we are already at the venue. We're at the first row! Left side of the stage\~
 
 **vvv_IRIS_vvv**<br>
-PAFF we are waiting for you, been looking forward to your singing for a long time~ see you later \\oo/
+PAFF we are waiting for you, been looking forward to your singing for a long time\~ see you later \\oo/
 
 **ArupakaKUN**<br>
 Our group of seven is right here at row 1! ^^
@@ -42,7 +42,7 @@ Quick time goes by fast, those who are not here yet GL
 You're the best <3
 
 **Anonymous**<br>
-MG what's this mountain of people!! I can't wait ~
+MG what's this mountain of people!! I can't wait \~
 
 **iluvpuf**<br>
 PAFF I'm at the very first row <3<3
@@ -54,7 +54,7 @@ Excuse me can someone check out the souvenir shop for me...I'm looking for the c
 Completely sold out!
 
 **SuduMan**<br>
-See you later~
+See you later\~
 
 **MAN_Dora**<br>
 We are all waiting for you!

@@ -7,7 +7,7 @@
 ## Post
 **CherryPuNK**<br>
 Hi, I'm Cherry. Thank you to everyone for their passion during yesterday's performance<br>
-LUMY has been saying that it's my turn to write a thank-you post, but I was so tired yesterday that I was out cold the instant I got home... I am so sorry!
+LUMY has been saying that it's my turn to write a thank\-you post, but I was so tired yesterday that I was out cold the instant I got home... I am so sorry!
 
 For yesterday's Encore song, I sang Crystal PuNK's old song "Still"<br>
 Since this is a rare opportunity, I would like to talk a little bit about this song<br>
@@ -44,7 +44,7 @@ This song accompanied me through many hard times, so did Cherry PuNK
 Waiting for the new album :)
 
 **ZigZag**<br>
-Good work on the performance~
+Good work on the performance\~
 
 **Natsukash11**<br>
 Damn, I miss this song. Been seven years huh?

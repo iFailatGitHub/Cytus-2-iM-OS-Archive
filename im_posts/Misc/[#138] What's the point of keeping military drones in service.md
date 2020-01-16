@@ -7,12 +7,12 @@
 ## Post
 **WhiteEYE33**<br>
 The Nodes are so small, how can they let those missiles be flying back and forth?<br>
-Even if they're suppressing the gangs,non-lethal force is normally used first<br>
+Even if they're suppressing the gangs,non\-lethal force is normally used first<br>
 Why don't the admins simply decommission those drones?<br>
 After they were hacked they just became even more useless.
 ## Replies
 **lol_icon**<br>
-Just in case~<br>
+Just in case\~<br>
 What if the terrorists or gangs have greater firepower?
 
 **NerfThat**<br>
@@ -31,11 +31,11 @@ Be careful. you guys might be blacklisted for dangerous speech w
 
 **Snor_eDen**<br>
 These incidents should make the admin bureau think hard about what's going on<br>
-if they keep letting those heavy-armed drones exist, <br>
+if they keep letting those heavy\-armed drones exist, <br>
 who can keep that power under control?
 
 **NoSignal**<br>
-anyone who says we don't need force must not live in 03~<br>
+anyone who says we don't need force must not live in 03\~<br>
 The technology gangs from 03 possess way more power than the admins wwww
 
 **Mulder**<br>

@@ -28,7 +28,7 @@ So what? Any progress with the investigation?
 *Ooh, such a hostile attitude. Should I remind you who kept you two alive for an entire week not too long ago?*
 
 **Xenon**<br>
-Okay okay~ Thanks~<br>
+Okay okay\~ Thanks\~<br>
 You told me not to actively connect back to investigate the Æsir incident. That's why I'm waiting here in 03 like an idiot. If we don't get going soon...
 
 **[Rald]**<br>

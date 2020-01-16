@@ -9,7 +9,7 @@
 I don't care if this whole thing is staged or not<br>
 I never believed one bit that Xenon would be locked up for real<br>
 It's all just a show for the public<br>
-Nobody will remember a thing after six months~~~
+Nobody will remember a thing after six months\~\~\~
 ## Replies
 **Marshall**<br>
 That's a really damn entertaining show, lemme tell ya!!
@@ -31,7 +31,7 @@ Well, guess who's the prophet now LOLOL
 All hail the return of justice???
 
 **StuffyMouth**<br>
-Dude, drones are scary-AF and they kill whatever comes into sight<br>
+Dude, drones are scary\-AF and they kill whatever comes into sight<br>
 Whoever broke in to get him out must have balls of steel
 
 **Chevalier151**<br>
@@ -42,5 +42,5 @@ Not even the admins can hurt him
 Will A.R.C. admit that they're the ones who did all that XDDD
 
 **Sopheee**<br>
-What is this soap opera nonsense~ Who wrote this crap!
+What is this soap opera nonsense\~ Who wrote this crap!
 

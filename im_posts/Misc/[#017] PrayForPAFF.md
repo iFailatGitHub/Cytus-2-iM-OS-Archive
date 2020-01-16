@@ -25,7 +25,7 @@ Sis Helena is one heck of a sister...<br>
 **\#PrayForPAFF**
 
 **MAN_Dora**<br>
-Now I like her even more~<br>
+Now I like her even more\~<br>
 **\#PrayForPAFF**
 
 **CyKa**<br>

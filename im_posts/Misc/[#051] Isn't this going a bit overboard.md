@@ -34,7 +34,7 @@ Which shows that a lot of the people in this commotion don't actually care about
 From the **\#PrayForPaff** to the **\#MonoWillPay** now, feels like everybody just wants someone else to solve the problem for them
 
 **TunaLee**<br>
-I think Mono is unlucky-AF wwwww
+I think Mono is unlucky\-AF wwwww
 
 **lenba**<br>
 \*Cries\* My beloved Cherry got injured TAT

@@ -32,13 +32,12 @@ My mom... was a victim of a drone malfunction too...
 *\[Singing\]*
 
 **Cherry**<br>
-It's so good~ Mommy! Sing some more~
+It's so good\~ Mommy! Sing some more\~
 
 **Carly**<br>
-Sure~
+Sure\~
 
 ![cpos0601.png](./attachments/cpos0601.png)
-
 **Cherry**<br>
 Mommy, why are you so good at singing?
 
@@ -84,7 +83,7 @@ Mommy, you want to be a singer...?
 ... Idiot, right now, mommy needs to work, take care of this family and take care of you. Mommy is very happy right now.
 
 **Cherry**<br>
-Hmm... mommy needs to take care of me... then I'll be a singer when I grow up! Mommy, teach me how to sing~
+Hmm... mommy needs to take care of me... then I'll be a singer when I grow up! Mommy, teach me how to sing\~
 
 **Carly**<br>
 Hahaha, can you really do it? Alright then, let's begin!

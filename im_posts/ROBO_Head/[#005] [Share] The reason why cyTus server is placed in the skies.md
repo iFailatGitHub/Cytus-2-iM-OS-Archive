@@ -12,8 +12,8 @@
 ## Post
 **ROBO_Head**<br>
 [Hardware][Popular Science][Show]<br>
-> Do you know why the cyTus server is placed in the skies? It's because the energy required to power the server is immense. With specialized solar panels covering the entire server, solar power can be effectively used to charge the server. Its location in the Stratosphere also means that turbulence doesn't really harm the architecture. The cool temperature in the lower portion of the Stratosphere, around 216K (-57°C), also means that it's much easier to dissipate heat. <br>
-> That's it for today's fun fact. We'll see you tomorrow at the same time. Byebye~~~<br>
+> Do you know why the cyTus server is placed in the skies? It's because the energy required to power the server is immense. With specialized solar panels covering the entire server, solar power can be effectively used to charge the server. Its location in the Stratosphere also means that turbulence doesn't really harm the architecture. The cool temperature in the lower portion of the Stratosphere, around 216K (\-57°C), also means that it's much easier to dissipate heat. <br>
+> That's it for today's fun fact. We'll see you tomorrow at the same time. Byebye\~\~\~<br>
 [Soundbite excerpted from Neo Channel 8's morning show "Breakfast With Popular Science"]
 ## Replies
 **ROBO_Head**<br>
@@ -29,7 +29,7 @@ My dad is super worried that thing will somehow fall from the sky lol
 Will it fall? **@ROBO\_Head**
 
 **ROBO_Head**<br>
-Analysis: Target   non human-failure   chance of falling from sky: 0.0003333333333333333……%
+Analysis: Target   non human\-failure   chance of falling from sky: 0.0003333333333333333……%
 
 **Flower_Head**<br>
 Wow ROBO\_head watches this show as well<br>
@@ -51,7 +51,7 @@ Never thought Robo\_head has a TV show recommendation
 But if that giant server really falls from the sky, it's gonna cause a boatload of damage I imagine...
 
 **TunaLee**<br>
-I can't figure it out. **@ROBO\_Head** HHHEEELLPPPP~
+I can't figure it out. **@ROBO\_Head** HHHEEELLPPPP\~
 
 **ROBO_Head**<br>
 Simulation: Target  (weight) \* (falling velocity)......<br>

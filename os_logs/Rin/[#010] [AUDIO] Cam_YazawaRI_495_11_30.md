@@ -36,7 +36,6 @@ Good. Let's talk, "Unit 10"... That's what the human in the surveillance footage
 ......!?
 
 ![rios1001.png](./attachments/rios1001.png)
-
 **?????**<br>
 Let me introduce myself. My name is Mauro, Architect serial number OPCII\_0479\_VI... no, forget that. That's just a meaningless string of numbers.
 

@@ -21,7 +21,7 @@ ROBO\_Radio online in one hour
 Yeah Robohead's stream!
 
 **beeeeeeeeee**<br>
-It's music time~~~
+It's music time\~\~\~
 
 **Andy_Roid**<br>
 Keep me waiting day and night

@@ -1,4 +1,4 @@
-# Æsir-FEST corrupted data recovery progress......15% 
+# Æsir\-FEST corrupted data recovery progress......15% 
 ## Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -12,13 +12,13 @@
 
 ## Post
 **ROBO_Head**<br>
-Report: Æsir-FEST corrupted data recovery progress......15% <br>
+Report: Æsir\-FEST corrupted data recovery progress......15% <br>
 Reason for corrupted data: Unknown
 
 
 ## Replies
 **Andy_Roid**<br>
-**@ROBO\_Head** Recovering the records of Æsir-FEST?
+**@ROBO\_Head** Recovering the records of Æsir\-FEST?
 
 **ROBO_Head**<br>
 Affirmative
@@ -33,7 +33,7 @@ Wow feels like we're involved in something major
 Only 15% so far, the damage must be really bad
 
 **Abin**<br>
-Robohead fight~~~~~
+Robohead fight\~\~\~\~\~
 
 **Hash**<br>
 **\#GoGoROBO\_Head**
@@ -45,7 +45,7 @@ There goes Hash and his dumb tags LMAO
 well at least it knows to cheer ROBO on
 
 **ElinaDaniel**<br>
-the recovery seems to take ages~~
+the recovery seems to take ages\~\~
 
 **Esox_tron**<br>
 Still can't figure out why it's corrupted??

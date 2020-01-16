@@ -87,7 +87,7 @@ Didn't I already tell you? You need to let go of the past. If you don't, there's
 Yeah... you're right.
 
 **Xenon**<br>
-*\*Yawn\*~*
+*\*Yawn\*\~*
 
 **Cherry**<br>
 So you do yawn? What a rare sight.
@@ -125,7 +125,6 @@ Wahh!
 ... Owww...!
 
 ![cpos2301.png](./attachments/cpos2301.png)
-
 **Xenon**<br>
 ......
 

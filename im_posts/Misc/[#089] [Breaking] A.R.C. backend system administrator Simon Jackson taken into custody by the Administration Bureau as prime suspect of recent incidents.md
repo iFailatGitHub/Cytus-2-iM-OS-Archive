@@ -13,7 +13,7 @@
 > <br>
 > According to our inside sources, the Administration Bureau received investigative information from an A.R.C. employee. The employee accused Simon Jackson of using a specialized A.I. that has yet to clear safety protocols for all kinds of operations. The Administration Bureau decided to delve further into the situation. However, when they came across A.R.C.'s system program records, they discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. <br>
 > <br>
-> Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence. Instead, he appeared at the Bureau with law enforcement agents and has been very cooperative throughout the process. We are currently chasing this news in real-time and will update you with the latest information at any time. <br>
+> Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence. Instead, he appeared at the Bureau with law enforcement agents and has been very cooperative throughout the process. We are currently chasing this news in real\-time and will update you with the latest information at any time. <br>
 [Article excerpted from Node News Network]
 
 ![o8901.png](./attachments/o8901.png)
@@ -61,10 +61,10 @@ They got the wrong person, right? Xenon can't be this kind of person, can he?
 
 **fotoistruth**<br>
 You never know the true side of a person until you see it. If not for Sis Vicky, we would all definitely still be in the dark.<br>
-Top-level journalism is a necessary part of a developed society after all
+Top\-level journalism is a necessary part of a developed society after all
 
 **Nyd_Ans**<br>
-Such a world-class scandal at the very start of this century... We need to lock terrorist like him up ASAP
+Such a world\-class scandal at the very start of this century... We need to lock terrorist like him up ASAP
 
 **888fans**<br>
 Great job. the internet can finally return to its peaceful days
@@ -73,7 +73,7 @@ Great job. the internet can finally return to its peaceful days
 Fanboys and fangirls, get REKT XDDDD
 
 **Nyd_Ans**<br>
-You only find out who is swimming naked when the tide goes out~~~~~  Bet those fanboys are all butt-naked now~~
+You only find out who is swimming naked when the tide goes out\~\~\~\~\~  Bet those fanboys are all butt\-naked now\~\~
 
 **Go55ip**<br>
 Sis Vicky is the media heroine we deserve AND need right now
@@ -85,7 +85,7 @@ Is it possible that he can still hack the s\*\*\* out of everyone even in custod
 Out of Neko and Cherry, I wonder who out of the two will stay by his side
 
 **Copper_stone**<br>
-Run as far away as possible ofc~~~~ What kind of idiot will choose to stay with him
+Run as far away as possible ofc\~\~\~\~ What kind of idiot will choose to stay with him
 
 **AntiMetal**<br>
 Yeah yeah go praise your now worthless posters stupid fanboys
@@ -117,7 +117,7 @@ F\*\*\* doesn't that make him an absolute music genius
 Crap, he is even more godly now. Genius hacker + genius musician
 
 **Poopytrap**<br>
-Time to binge-hear Æsir music to let off some steam
+Time to binge\-hear Æsir music to let off some steam
 
 **4nonymous**<br>
 Thank you to the admins for arresting Æsir<br>

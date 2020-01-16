@@ -13,7 +13,7 @@
 ![c0201.png](./attachments/c0201.png)
 ## Replies
 **T.Goldwell**<br>
-When can we see it in Sensei's work~
+When can we see it in Sensei's work\~
 
 **CozyCaty**<br>
 Finally!
