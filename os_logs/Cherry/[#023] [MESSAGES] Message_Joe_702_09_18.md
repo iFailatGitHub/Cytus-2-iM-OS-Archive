@@ -10,7 +10,7 @@
 |**SYSTEMFEIT**| Cherry  |Hard |  7  |
 
 ## Log Content
-**[Cherry]**<br>
+**Cherry**<br>
 Hi when does the Cafe open?<br>
 *[Sent at AM 09:58]*
 
@@ -18,7 +18,7 @@ Hi when does the Cafe open?<br>
 8, you coming for a drink?<br>
 *[Sent at AM 10:01]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Band practice ends at 5. Have a meeting with Simon at 8
 No place to go, so I want to see if I can wait for him at your place<br>
 *[Sent at AM 10:01]*
@@ -27,7 +27,7 @@ No place to go, so I want to see if I can wait for him at your place<br>
 OH Sure! Then I'll be in the shop at 5. You can just cone in<br>
 *[Sent at AM 10:02]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 'Come'' in<br>
 *[Sent at AM 10:02]*
 
@@ -40,12 +40,12 @@ By the way, did you guys get back together?
 Why are you guys contacting each other so often recently?<br>
 *[Sent at AM 10:02]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 No, we didn't
  Some things happened. It's complicated...<br>
 *[Sent at AM 10:05]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 I'd ask another question, are Simon and NEKO really not dating or anything?<br>
 *[Sent at AM 10:07]*
 
@@ -53,11 +53,11 @@ I'd ask another question, are Simon and NEKO really not dating or anything?<br>
 I don't think so. He said their age is too far apart. He treats her like a little sister<br>
 *[Sent at AM 10:07]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 So like Shannon...<br>
 *[Sent at AM 10:07]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Have you talked to him about it? How his sister is doing and stuff<br>
 *[Sent at AM 10:07]*
 
@@ -69,7 +69,7 @@ Nope. He never allowed me to even mention his sister. Every time I bring it up, 
 ![05_QQ.png](./attachments/05_QQ.png)
 *[Sent at AM 10:07]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 I see. I'm almost leaving. I'll talk about the rest at your place<br>
 *[Sent at AM 10:08]*
 
@@ -77,7 +77,7 @@ I see. I'm almost leaving. I'll talk about the rest at your place<br>
 Got it. I'll be waiting in the shop<br>
 *[Sent at AM 10:08]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Just a heads up, don't get wasted by me before your customers show up, 
 Alcohol Master~<br>
 *[Sent at AM 10:08]*

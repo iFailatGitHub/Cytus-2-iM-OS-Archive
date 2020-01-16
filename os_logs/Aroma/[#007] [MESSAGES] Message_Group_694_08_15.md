@@ -52,7 +52,7 @@ Nope. There are plenty of people who hate Miss A in other classes<br>
 We're anonymous anyway. Doesn't matter who it is<br>
 *[Sent at PM 21:59]*
 
-**[Aroma]**<br>
+**Anonymus Coconut**<br>
 I saw her playing the piano in the music classroom a few days ago.<br>
 *[Sent at PM 22:00]*
 
@@ -80,7 +80,7 @@ My guess is that those three plates on her head are also just for show<br>
 Maybe she thinks it's \*fashionable\* LMFAO<br>
 *[Sent at PM 22:01]*
 
-**[Aroma]**<br>
+**Anonymous Coconut**<br>
 She did file an application to the system. If not for that, it's against the rules to wear any accessory besides the uniform.<br>
 *[Sent at PM 22:01]*
 
@@ -96,7 +96,7 @@ Anyone wants to join??<br>
 Why not<br>
 *[Sent at PM 22:02]*
 
-**[Aroma]**<br>
+**Anonymous Coconut**<br>
 Quick advise; don't do anything too serious. A while ago, someone got deducted 20 points by the system when they pushed her to the ground.<br>
 *[Sent at PM 22:02]*
 

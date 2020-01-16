@@ -7,7 +7,7 @@
 Here he is! The future superstar!<br>
 *[Sent at PM 09:20]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 The guitarist you mentioned before?<br>
 *[Sent at PM 09:20
 ]*
@@ -20,7 +20,7 @@ Hello everyone. I'm Simon.<br>
 Hi, I'm KAI, the drummer.<br>
 *[Sent at PM 09:21]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 I'm the lead singer, Cherry<br>
 *[Sent at PM 09:21]*
 
@@ -36,7 +36,7 @@ No kidding! I almost want to worship you! Please go out with me! XD<br>
 ![04_XD.png](./attachments/04_XD.png)
 *[Sent at PM 09:21]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 ...You're gonna scare him away<br>
 *[Sent at PM 09:21]*
 
@@ -53,7 +53,7 @@ XD She wrote most of it. I wrote a little bit~<br>
 *[Sent at PM 09:22
 ]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Thank you. I did indeed write most of it<br>
 *[Sent at PM 09:22]*
 
@@ -78,7 +78,7 @@ OMG!! It's amazing!! Let's make this the final ver~<br>
 Very nice. You can come to our band practice this weekend. Big sis, set up the practice room will you. <br>
 *[Sent at PM 09:25]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Why are you grown\-a\*\* men calling me big sis? I'm the youngest here!<br>
 *[Sent at PM 09:25]*
 
@@ -86,7 +86,7 @@ Why are you grown\-a\*\* men calling me big sis? I'm the youngest here!<br>
 You sure? Simon's only 17<br>
 *[Sent at PM 09:25]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Thy fair lady here is only 16<br>
 *[Sent at PM 09:25]*
 
@@ -94,7 +94,7 @@ Thy fair lady here is only 16<br>
 Thy fair lady... you sound like a big sis saying that...<br>
 *[Sent at PM 09:25]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Stop yapping. I'm done setting up the virtual space in Area 3<br>
 *[Sent at PM 09:27]*
 
@@ -102,7 +102,7 @@ Stop yapping. I'm done setting up the virtual space in Area 3<br>
 Umm, sorry for bothering, but can we use a physical space for practice? I'm more used to analog resonance.<br>
 *[Sent at PM 09:27]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 I'm ok with it, but I've never used a physical space before<br>
 *[Sent at PM 09:27]*
 
@@ -136,6 +136,6 @@ I look forward to seeing everyone.<br>
 Hahaha get excited! Cherry is quite the eye candy <3<br>
 *[Sent at PM 09:28]*
 
-**[Cherry]**<br>
+**Cherry**<br>
 Shut up you perv...<br>
 *[Sent at PM 09:29]*
