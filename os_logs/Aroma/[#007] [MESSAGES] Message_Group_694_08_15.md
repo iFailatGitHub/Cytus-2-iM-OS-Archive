@@ -52,7 +52,7 @@ Nope. There are plenty of people who hate Miss A in other classes<br>
 We're anonymous anyway. Doesn't matter who it is<br>
 *[Sent at PM 21:59]*
 
-**Anonymus Coconut**<br>
+**Anonymous Coconut**<br>
 I saw her playing the piano in the music classroom a few days ago.<br>
 *[Sent at PM 22:00]*
 
