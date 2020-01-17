@@ -109,7 +109,7 @@ OKayyyy\~
 
 *\[Eat Snacks\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -189,7 +189,7 @@ Stairway to Heaven. Cheers!
 **Xenon**<br>
 ... Tastes terrible.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -275,7 +275,7 @@ I'll leave this case to you!
 **Xenon**<br>
 Ok. I'll go back to work.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -352,7 +352,7 @@ Hey! No fighting in the shop! Take it outside!
 **Xenon**<br>
 ...I'm hanging up.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -415,7 +415,7 @@ I did some research on his background. He has a very complicated relationship wi
 **Mark**<br>
 Good.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -433,7 +433,7 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
@@ -513,7 +513,7 @@ Don't be full of yourself. You weren't even close to cracking it last time.
 **Mark**<br>
 ... OK.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -580,7 +580,7 @@ I hope so. If there aren't any more problems, I will leave now.
 **ConneR**<br>
 Of course. It's a great pleasure meeting you.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -640,7 +640,7 @@ Hmm not a bad idea. Let's go with it. I can rest assured even more if you're aro
 **Xenon**<br>
 If there's anything fishy, we'll immediately report it to the admins.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -695,7 +695,7 @@ Regardless I will keep a keen eye on him. He is not someone you should overlook.
 **Mark**<br>
 OK.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -769,7 +769,7 @@ If I'm in the right mood.
 **Xenon**<br>
 I would appreciate that.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -787,7 +787,7 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
@@ -866,7 +866,7 @@ Calm down. Right now we are not 100% sure that Æsir has anything to do with thi
 **Davis**<br>
 Then we move on to the next topic: overall security.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -936,7 +936,7 @@ With your talent level and contribution to the company, it's very unlikely that 
 **Xenon**<br>
 ... Stop talking like you know who I am. I'll deal with this case in my own way.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -954,12 +954,12 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
 Received a verification request from<br>
-address: [2600:1901:0:f599::]<br>
+address: \[2600:1901:0:f599::\]<br>
 Connection mode: Normal; Security level: medium
 
 Replied result: Denied<br>
@@ -1041,7 +1041,7 @@ EHH! You still haven't fixed my connection speed problem!
 **Xenon**<br>
 Call customer service.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1133,7 +1133,7 @@ A while ago, some dude bought humans from us with humans. We had to conduct a fu
 **Man B**<br>
 Stop babbling; there are cameras around here. If everything's ok, take it to Cafe. I'll call Boss.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1156,7 +1156,7 @@ Hello, here are the photos from yesterday's performance.<br>
 
 The mixing is finished as well. The virtual sound field's recording quality is pretty good. Give it a try XD
 
-[Other Attachments]
+\[Other Attachments\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1265,7 +1265,7 @@ The devil... will never be satisfied with just one finger. Once you fall into it
 
 *\[Doorbell\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1283,16 +1283,16 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
 Reverse tracking results.<br>
 List of suspected attackers and their most common connection locations:<br>
-[4620:100:6859::d2a4]<br>
-[4620:100:8c::c6:d6bb]<br>
-[4620:b00:e7cf::2377]<br>
-[4620:b00:898a::f00f]<br>
+\[4620:100:6859::d2a4\]<br>
+\[4620:100:8c::c6:d6bb\]<br>
+\[4620:b00:e7cf::2377\]<br>
+\[4620:b00:898a::f00f\]<br>
 ==========<br>
 Report Ends
 
@@ -1387,7 +1387,7 @@ Nothing, see you.
 **JOE**<br>
 ...Thanks, and sorry...
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1405,7 +1405,7 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
@@ -1497,7 +1497,7 @@ Indeed. "Conditions", "Rules", "Protocols". Having such arrogant limitations on 
 Pardon me, I've strayed a bit too far. All in all, I'm not the "mastermind" behind Library's connection errors. On a side note, I'm not the "Anonymous" who has been sending you mail either.<br>
 Instead of wasting time on an old man like me, there are more important matters that you should be dealing with, Mr. Simon Jackson.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1519,7 +1519,7 @@ ___
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
-Source Location: [Locked][Dynamic Proxy Server activated]
+Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report<br>
 ==========<br>
@@ -1616,7 +1616,7 @@ If you're still an intern, I suggest you quit the job. That world is not suitabl
 **Hayato**<br>
 Thank goodness that I already sent the photos to Miss Vicky...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1657,7 +1657,7 @@ Eh? The person over there... Isn't that your friend JOE?
 **Xenon**<br>
 It really is him... What is that guy doing? You can set everything up first. I'll go say hi.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1895,7 +1895,7 @@ You're giving me too much praise. Do not forget that I only have this job becaus
 **Xenon**<br>
 ... All things considered, I'll still talk to him sometime later. If not, I'm in an awkward spot myself too.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1932,7 +1932,7 @@ I mentioned before... that I was also investigating the Æsir incident, right? I
 **Davis**<br>
 ......?
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Davis**<br>
 ...... This is...... It can't be...
@@ -2043,7 +2043,7 @@ Got it. Let's do that. I believe that he is not the culprit.
 **Mark**<br>
 I hope not.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2086,7 +2086,7 @@ The Æsir attack incident is labeled as security level A. The evidence you provi
 **Mark**<br>
 ......
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 *\[Door Breaks\]*
 
@@ -2137,7 +2137,7 @@ Mark's the one who uncovered this, right?
 **Agent A**<br>
 If you have something to say, you can talk once we get back to the Bureau. Now move!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2200,7 +2200,7 @@ I know. To protect A.R.C.'s reputation and property... I'll be relying on you la
 **A.R.C. Defender**<br>
 Understood.
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **Judge**<br>
 Starting now, we will be conducting the trial for Simon Jackson, the prime suspect of the "Æsir large\-scale internet attacks". Begin trial.
@@ -2297,7 +2297,7 @@ What are you trying to say?
 **Judge**<br>
 ......!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2319,7 +2319,7 @@ Trespassers in area C, the underground passages. Send additional agents and dron
 **Xenon**<br>
 ......?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Knock\]*
 
@@ -2456,7 +2456,7 @@ Feels like your dear friends are in a pretty serious pinch. Allow me to take my 
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2513,7 +2513,7 @@ Those trespassers down there are here to help him! I'll handle this place. You g
 **Agent A**<br>
 Yes, sir!
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 *\[Hurried Footsteps\]*
 
@@ -2546,7 +2546,7 @@ Trying to hack me? You thought I don't know about you and your little tricks?
 
 *\[Handcuffs\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2563,7 +2563,7 @@ Trying to hack me? You thought I don't know about you and your little tricks?
 **Agent N**<br>
 Shut up and just come with me.
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **Agent N**<br>
 We're here. Now, stand still.
@@ -2608,7 +2608,7 @@ It's a bit complicated.
 **Agent N**<br>
 You have until this cigarette burns out to explain.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 ... That's more or less it. The real Æsir is definitely still hiding somewhere right now. He is using the window created by all this chaos to carry out his next plan... We have no idea what secrets A.R.C. is hiding either.
@@ -2691,7 +2691,7 @@ However, if it's you, maybe there is still hope.
 **Agent N**<br>
 Oh, one more thing. "Willing to give up my most treasured things." Don't say that until you've lost something for real.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2757,7 +2757,7 @@ What about you?
 **ConneR**<br>
 I'll figure out a way to sneak into Node 13 from there. I'm currently a criminal after all.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2911,7 +2911,7 @@ Let's start over from zero... Partners?
 **Xenon**<br>
 I'll go and check what he's doing in the next car. You must be exhausted. Get some rest.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2965,7 +2965,7 @@ What's in those crates...
 Simon, the transporter is almost here. It's best that we don't get into a fight with them. Just pretend that we didn't see anything... Right? R?<br>
 ...... R?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Member A**<br>
 Be careful! This cargo is easily worth ten times more than your life ever will.
@@ -3082,7 +3082,7 @@ JOE! Quick, call him and ask him about this.
 **Xenon**<br>
 On it!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3093,7 +3093,7 @@ On it!
 |**Xenon**| 35  |
 
 ### Log Content
-*[→Audio\_Kyle\_688\_04\_16]*
+*\[→Audio\_Kyle\_688\_04\_16\]*
 
 *\[Door Opens\]*
 
@@ -3152,7 +3152,7 @@ Simon...! Wait a minute!
 **Shannon**<br>
 Mom! Let me talk to him... I'll treat his wounds while I'm at it too.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Xenon**<br>
 ... Oww.
@@ -3201,7 +3201,7 @@ All in all, I forbid you to pick fights with other people for my sake anymore. I
 **Xenon**<br>
 ......
 
-*[→Audio\_05St\_688\_04\_30]*
+*\[→Audio\_05St\_688\_04\_30\]*
 
 *\[Crash\]*
 
@@ -3265,7 +3265,7 @@ Simon... give me back the gun.
 **Kyle**<br>
 Do you have any idea what you're doing?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3276,7 +3276,7 @@ Do you have any idea what you're doing?
 |**Xenon**| 36  |
 
 ### Log Content
-*[→Audio\_Capt.Wood\_688\_05\_01]*
+*\[→Audio\_Capt.Wood\_688\_05\_01\]*
 
 **Andrew**<br>
 And that's it for the Serious Crime Unit's operation report. Meeting's over. Jackson, you stay. I have something to tell you.
@@ -3284,7 +3284,7 @@ And that's it for the Serious Crime Unit's operation report. Meeting's over. Jac
 **Kyle**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Andrew**<br>
 So the gun was stolen by Simon?
@@ -3325,7 +3325,7 @@ One more thing... Isn't it better for you to directly show your children that yo
 **Kyle**<br>
 ... Understood.
 
-*[→Audio\_AB08\_688\_05\_19]*
+*\[→Audio\_AB08\_688\_05\_19\]*
 
 **Agent A**<br>
 Walk forward! Get in!
@@ -3367,7 +3367,7 @@ In short, this is a pretty major catch. You SCU folks and your arrogant a\*\*es 
 **Kyle**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Agent A**<br>
 Alex Flynn, do you know why you are here?
@@ -3423,7 +3423,7 @@ From the looks of it, your dad is lowly scum himself too. So? What do you think?
 **Student A**<br>
 N... no! WAAAAHHHHHH!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3434,7 +3434,7 @@ N... no! WAAAAHHHHHH!!
 |**Xenon**| 37  |
 
 ### Log Content
-*[→Audio\_Capt.Wood\_690\_04\_02]*
+*\[→Audio\_Capt.Wood\_690\_04\_02\]*
 
 **Andrew**<br>
 This is the criminal activity we're pursuing this time.
@@ -3499,7 +3499,7 @@ I believe that said accomplice is definitely not present in this room. However, 
 **Kyle**<br>
 ... Understood.
 
-*[→Audio\_Capt.Jackson\_692\_08\_12]*
+*\[→Audio\_Capt.Jackson\_692\_08\_12\]*
 
 *\[Door Knock\]*
 
@@ -3533,7 +3533,7 @@ I'll handle it for you! Go!
 **Kyle**<br>
 Hey, don't drag me...
 
-*[→Audio\_HNote\_692\_08\_12]*
+*\[→Audio\_HNote\_692\_08\_12\]*
 
 **Kyle**<br>
 ... Is this the type of place you like to go to after work? Guess you're no different than the other folks in the Bureau.
@@ -3589,7 +3589,7 @@ This means the search range is now reduced significantly! As long as we can get 
 **Agent M**<br>
 We'll be able to catch the big one using this guy.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3600,7 +3600,7 @@ We'll be able to catch the big one using this guy.
 |**Xenon**| 38  |
 
 ### Log Content
-*[→Audio\_Capt.Jackson\_693\_09\_31]*
+*\[→Audio\_Capt.Jackson\_693\_09\_31\]*
 
 **Agent M**<br>
 So it finally came, eh...?
@@ -3648,7 +3648,7 @@ Ten days.
 Hey! Martin!<br>
 Sigh...
 
-*[→Audio\_Graveyard\_693\_10\_15]*
+*\[→Audio\_Graveyard\_693\_10\_15\]*
 
 **Agent**<br>
 Let us mourn for this brave agent. His bravery will forever remain in our hearts. Salute!
@@ -3661,7 +3661,7 @@ Let us mourn for this brave agent. His bravery will forever remain in our hearts
 **Nate**<br>
 *\*Sobs\**... Dad...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 ... Smoke?
@@ -3750,7 +3750,7 @@ I will. Nate, what you should be is an agent of the law, not an agent of revenge
 Haha... Never thought I would get lectured by a brat like you one day.<br>
 ... I know.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3761,7 +3761,7 @@ Haha... Never thought I would get lectured by a brat like you one day.<br>
 |**Xenon**| 39  |
 
 ### Log Content
-*[→Audio\_53St.\_696\_05\_10]*
+*\[→Audio\_53St.\_696\_05\_10\]*
 
 **Student A**<br>
 Shannon, bye\-bye\~ See you next week.
@@ -3777,7 +3777,7 @@ Shannon, want a ride?
 **Shannon**<br>
 Dad!? What are you doing here!?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Shannon**<br>
 Jeez, stop picking me up with the admins' car!<br>
@@ -3857,7 +3857,7 @@ Get out the car, now! Listen carefully; don't do anything else, go straight back
 **Shannon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3878,7 +3878,7 @@ Stop right there!
 
 *\[Running\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Kyle**<br>
 This is a dead\-end. There's nowhere for you to run! Show yourself!
@@ -3957,7 +3957,7 @@ Shannon！！
 
 *\[Gunshot\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3968,7 +3968,7 @@ Shannon！！
 |**Xenon**| 40  |
 
 ### Log Content
-*[→Audio\_Hospital01\_696\_05\_10]*
+*\[→Audio\_Hospital01\_696\_05\_10\]*
 
 **Cherry**<br>
 Father! What happened!?
@@ -3994,7 +3994,7 @@ Really!? Are you willing to undergo a blood transfusion checkup...
 **Xenon**<br>
 Whatever! Let's get on it!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Cherry**<br>
 *\*sob\*... \*sob\*...*
@@ -4023,7 +4023,7 @@ Sherry, it's okay. I'm still feeling a bit dizzy. I'll just rest here. Go on.
 **Cherry**<br>
 Okay!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Xenon**<br>
 ……
@@ -4047,12 +4047,12 @@ New information just came in. The agent who died in the line of duty was named K
 **Xenon**<br>
 Dad!? Shannon!?
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Cherry**<br>
 ... Simon? Where did he go?
 
-*[→Audio\_Hospital01\_696\_05\_17]*
+*\[→Audio\_Hospital01\_696\_05\_17\]*
 
 **Jacob**<br>
 I'm sorry, we're still unable to determine the reason behind your daughter's unique symptoms. She has suffered no brain damage, but her brain is just unable to disconnect with the virtual internet. She may need to remain in the hospital for a while so we can observe her symptoms.
@@ -4069,7 +4069,7 @@ I'm very sorry about what happened to Mr. Jackson... he was a good agent.
 **Doris**<br>
 Thank you. That's what everybody says...
 
-*[→Audio\_Hospital01\_696\_09\_15]*
+*\[→Audio\_Hospital01\_696\_09\_15\]*
 
 **Doris**<br>
 Doctor.
@@ -4104,7 +4104,7 @@ No. Even if she so much as sees your faces, she will...
 **Xenon**<br>
 ... So it's alright as long as I don't show my face?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

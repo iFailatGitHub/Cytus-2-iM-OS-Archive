@@ -76,8 +76,8 @@ Initializing system reset......100%<br>
 Overwriting all current status......100%<br>
 Wiping memories......100%<br>
 Implementing HOS......100% <br>
-[Warning] Reset rate 99.92%......error occurred<br>
-[Suggestion] Ignore and continue......
+\[Warning\] Reset rate 99.92%......error occurred<br>
+\[Suggestion\] Ignore and continue......
 
 Initializing mass production preparation<br>
 20\*\*\*\*V to 16\*\*\*\*L series<br>
@@ -164,7 +164,7 @@ The structure is very new... Could it be...
 **Ivy**<br>
 ...... Go. Don't get caught again.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -201,7 +201,7 @@ The command code is `2501004`.
 **OPCI_2501_IV**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Cytus System]**<br>
 *All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
@@ -215,7 +215,7 @@ The command code is `2501004`.
 **OPCI_2501_IV**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Shelter System]**<br>
 *All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
@@ -229,7 +229,7 @@ The command code is `2501004`.
 **OPCI_2501_IV**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Cytus System]**<br>
 *All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
@@ -243,7 +243,7 @@ The command code is `2501004`.
 **OPCI_2501_IV**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Shelter System]**<br>
 *All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
@@ -269,7 +269,7 @@ Today... same thing again...?
 **OPCI_2501_IV**<br>
 ...... Understood.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Shelter System]**<br>
 *All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
@@ -289,7 +289,7 @@ Report: Suspect hardware error. Require visit to maintenance area B.
 **OPCI_2501_V**<br>
 *Understood.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Maintenance Area System]**<br>
 *2501 Unit 04, checkup complete. No errors detected.*
@@ -307,7 +307,7 @@ It feels like I... am different compared to the other units.
 **OPCI_2501_IV**<br>
 Skipping a day... wouldn't matter too, right?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Footsteps\]*
 
@@ -322,7 +322,7 @@ So Shelter has a place like this... So beautiful...
 **OPCI_2501_IV**<br>
 What... am I?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -393,7 +393,7 @@ This could sell for quite the big bucks in the black market. Whaddaya say? I've 
 **Ivy**<br>
 They are taking it away!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -441,7 +441,7 @@ Report: Suspect hardware error. Require visit to maintenance area B.
 **OPCI_2501_IV**<br>
 ......?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Shelter System]**<br>
 *Class: Constructor, Caretaker. Please proceed to Entrance A and prepare to leave for Node 08 to perform routine construction.*
@@ -498,7 +498,7 @@ The other units.... are all very quiet.
 **OPCI_2501_IV**<br>
 ...... Yes.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **OPCI_2103_I**<br>
 *Tower 003 construction process, start. All units, please stay connected and report your progress.*
@@ -551,7 +551,7 @@ I wonder... what are humans like?
 **OPCI_2501_IV**<br>
 ... Definitely different from us, that I am certain.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -635,7 +635,7 @@ And I wonder who's fault is that for dumping all this work on me?
 **Ivy**<br>
 ... This is the chance.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 *\[Animal Chirp\]*
 
@@ -709,7 +709,7 @@ I guess that leaves us with no other options... Suspend mission! Stay alert thro
 **Alex**<br>
 Tch... I couldn't keep up with it... F\*\*\*, what the hell is that thing?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -725,7 +725,7 @@ Tch... I couldn't keep up with it... F\*\*\*, what the hell is that thing?
 ### Log Content
 ...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years? How is that...... N, no, I have to calm down... The reconstruction project has already concluded. The "Node" cities have been established too. That's why I saw those humans. That's also why almost all Shelters are abandoned now. A visit to Shelter 08... would be utterly pointless as well. We...... failed, in the end. Lost everything...... including you......
 
-[Added after edit on 700/01/01 02:02:53] I must witness with my own eyes the current human civilization. Only issue... my left arm is gradually losing sensation due to being hit by the gunshot earlier... I must hurry. Coordinates show that Node 08 is just nearby. Time to move.
+\[Added after edit on 700/01/01 02:02:53\] I must witness with my own eyes the current human civilization. Only issue... my left arm is gradually losing sensation due to being hit by the gunshot earlier... I must hurry. Coordinates show that Node 08 is just nearby. Time to move.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -828,7 +828,7 @@ Anyhow, turn on the alarm first.
 **Alex**<br>
 Seriously...?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Agent A**<br>
 Everything's normal. We weren't able to find anything odd...
@@ -849,7 +849,7 @@ Let's go back to A.R.C. Bruno and this little guy are both injured. They need to
 
 *\[Armored car engine\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -954,7 +954,7 @@ Command code: 2501004. I order you to provide me your serial number and motivati
 **Ivy**<br>
 ...... It's cold.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -965,9 +965,9 @@ Command code: 2501004. I order you to provide me your serial number and motivati
 |**Ivy**  | 11  |
 
 ### Log Content
-[System Alert] Insufficient power (6%). Diverting all power to maintain basic function. What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br> <br> First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? The kind of technology that is prohibited for development by the protocol is practically everywhere in this city... This shows that humans have gone completely loose after taking over the Administration Bureau. The one thing that puzzles me the most, is the thing they called "cyTus"...... I tried to log in to it as well. It's basically the "Virtual Internet", the protocol's top forbidden technology. However, it is also slightly different. My authorization still couldn't access any area outside of the provided services. None of this makes any sense at all... How did humans get their hands on this technology? And what are they using to operate this system? Is it because that they are fed up with the various limitations enforced by the protocol that they eliminated all the OPCI machines......? Or, as I have suspected in the past... the entire protocol is, in reality, nothing more than a fraud? There are way too many questions here. I need to figure out a way to get answers. First, I need to counterfeit a civilian ID. Then, it seems that I also need some money... or it will be quite inconvenient. 
+\[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function. What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br> <br> First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? The kind of technology that is prohibited for development by the protocol is practically everywhere in this city... This shows that humans have gone completely loose after taking over the Administration Bureau. The one thing that puzzles me the most, is the thing they called "cyTus"...... I tried to log in to it as well. It's basically the "Virtual Internet", the protocol's top forbidden technology. However, it is also slightly different. My authorization still couldn't access any area outside of the provided services. None of this makes any sense at all... How did humans get their hands on this technology? And what are they using to operate this system? Is it because that they are fed up with the various limitations enforced by the protocol that they eliminated all the OPCI machines......? Or, as I have suspected in the past... the entire protocol is, in reality, nothing more than a fraud? There are way too many questions here. I need to figure out a way to get answers. First, I need to counterfeit a civilian ID. Then, it seems that I also need some money... or it will be quite inconvenient. 
 
-[System Alert] Insufficient power (5%). Entering power saving mode.
+\[System Alert\] Insufficient power (5%). Entering power saving mode.
 
 　　Crap...... The energy ingested from biomass is indeed limited. Got to think of something fast, or else...
 
@@ -997,7 +997,7 @@ Eh? But it's already time for synchronization...
 **OPCI_2501_IV**<br>
 It'll be just a minute. Come.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **OPCI_2501_V**<br>
 ... This place is...?
@@ -1126,7 +1126,7 @@ Sisters?
 **Ivy**<br>
 It's a little hard to explain...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ivy**<br>
 From the perspective of human bloodlines...
@@ -1134,7 +1134,7 @@ From the perspective of human bloodlines...
 **OPCI_2404_IL**<br>
 ... New members of "The Blessed"...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1180,7 +1180,7 @@ Arf Arf!
 No wait... she fainted! If the patrols see this I'm gonna be in trouble...<br>
 Oof! What the f\*\*\* is wrong with this chick!? Why is she so heavy?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Doorbell\]*
 
@@ -1243,7 +1243,7 @@ Rest assured. No one is going to be interested in the fetishes of a nobody like 
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Doorbell\]*
 
@@ -1266,7 +1266,7 @@ Arf Arf!
 What? Why are you so noisy today? ......Eh ......? AHHH!! The money in my tip box! Why are they all gone!? Damnit, it must be that girl! If I knew this would happen, I wouldn't have helped her. <br>
 Sighs\~ this sucks...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1399,7 +1399,7 @@ Excavation... Exploration team.<br>
 **[Basicpedia 01]**<br>
 *Glad to share knowledge with you. Bye\-bye\~*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1446,7 +1446,7 @@ The reconstruction project is about to proceed to the next stage. Before we unfr
 **Vanessa**<br>
 ......?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Ivy**<br>
 Install... Are we not going to the maintenance area? Why isn't this done through a system announcement?
@@ -1465,7 +1465,7 @@ We've been observing you guys for more than a year. We determined that you two h
 **Vanessa**<br>
 ......EEK! ...... No......NO!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **OPCI_2404_IL**<br>
 How was it? Any comments?
@@ -1485,7 +1485,7 @@ She must return to the mainframe for synchronization immediately!
 **OPCI_2404_IL**<br>
 What a shame... Let her go.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Ivy**<br>
 ...... What is this!? Why did you let us see these?
@@ -1587,7 +1587,7 @@ UGH!
 **Ilka**<br>
 Rest assured. As a fellow member of The Blessed, I will not let you die...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1634,7 +1634,7 @@ Okay\~
 **Ivy**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Employee A**<br>
 Hey, have you heard about it? What happened to Hank last week.
@@ -1654,7 +1654,7 @@ We better be careful too.
 **Ivy**<br>
 Freight elevator No.5...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Footsteps\]*
 
@@ -1713,7 +1713,7 @@ Alrighty, time to work! If you see the trespasser, just shoot it! No need to hes
 **Securities**<br>
 Aye aye, captain!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ivy**<br>
 Library... the door is tightly locked. Nevertheless, judging by the structure of this wall... It can't be...
@@ -1727,7 +1727,7 @@ This wiring... There should be another method for me to see what's inside.
 
 *\[Hurried Footsteps\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1796,7 +1796,7 @@ Shhh......! Do not make a sound...
 **Ivy**<br>
 It left... this way! Follow me!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Running\]*
 
@@ -1818,7 +1818,7 @@ Act more naturally...
 
 ![ivos2101.png](./attachments/ivos2101.png)
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ilka**<br>
 DIE!
@@ -1828,7 +1828,7 @@ DIE!
 **Ilka**<br>
 Go to the freezing capsule area! Even if our plan fails, we need to kill all those humans at the very least!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ivy**<br>
 Here. You hide here and do not leave.
@@ -1854,7 +1854,7 @@ Ilka's methods... although I can't agree with them, the other members of The Ble
 **Vanessa**<br>
 Ivy......!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ilka**<br>
 Out of my way!
@@ -1875,7 +1875,7 @@ Can't do! Their numbers are just too much!..... Argh!
 **Ivy**<br>
 This way! I know a path that can lead directly to the outside. Follow me!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **OPCI_2503_III**<br>
 ... Everyone... is dead.
@@ -1925,7 +1925,7 @@ This thing has a limited spread radius! Everyone, RUN! Stay away from the Shelte
 
 *\[Explosion\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1938,9 +1938,9 @@ This thing has a limited spread radius! Everyone, RUN! Stay away from the Shelte
 ### Log Content
 　　Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
 
-[Added after edit on 700/06/20 22:17:16] Took me three months; finally able to complete the algorithm that can mutually convert humans' emotion samples and music. Next, I just need to convert large amounts of emotion sample into music. With those, I can then create a new Cytus system and use it to awaken Vanessa. I am not very well\-versed in complicated mechanisms...... The only thing I know, is that music is the only medium we understand and able to deduce emotions from. After I awakened, I no longer need to be connected to Cytus. Despite that, whenever I listen to music, I still feel this vibration deep down inside my body. It just keeps vibrating, one beat at a time, for no apparent reason. That sound, it's very similar...... to a human's heartbeat. 
+\[Added after edit on 700/06/20 22:17:16\] Took me three months; finally able to complete the algorithm that can mutually convert humans' emotion samples and music. Next, I just need to convert large amounts of emotion sample into music. With those, I can then create a new Cytus system and use it to awaken Vanessa. I am not very well\-versed in complicated mechanisms...... The only thing I know, is that music is the only medium we understand and able to deduce emotions from. After I awakened, I no longer need to be connected to Cytus. Despite that, whenever I listen to music, I still feel this vibration deep down inside my body. It just keeps vibrating, one beat at a time, for no apparent reason. That sound, it's very similar...... to a human's heartbeat. 
 
-[Added after edit on 700/06/21 01:35:25]<br> <br> Just ran a test using my own emotions...... My first ever musical composition is born.<br>
+\[Added after edit on 700/06/21 01:35:25\]<br> <br> Just ran a test using my own emotions...... My first ever musical composition is born.<br>
         <br>
         The hysteria of being unconscious for hundreds of years; the anger of losing my comrades; all these elements caused this song to feel immensely powerful when listened to. It's essentially a replica of myself. It has a completely different meaning...... I decided to seal it up. 
 
@@ -2016,7 +2016,7 @@ Ummm... O, okay. Thank you two for the invitation.
 
 *\[Show Transition\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2042,7 +2042,7 @@ The schedule, remuneration, and event details are in the proposal.
 Hope Miss PAFF can perform at this event.<br>
 Awaiting your response.
 
-[Æsir\-MUSIC FESTIVAL Proposal]
+\[Æsir\-MUSIC FESTIVAL Proposal\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2128,7 +2128,7 @@ Here. We should go now. Give the flowers to big sister.
 **Ivy**<br>
 ... So humans... feel sadness from loss too?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2157,7 +2157,7 @@ Here. We should go now. Give the flowers to big sister.
 Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
 If this continues to happen, humans will without a doubt become more alert. It is already borderline impossible for me to hold another performance to collect memories using the Æsir identity. I'm going to have to resort to even more extreme methods...
 
-[Added after edit on 702/07/28 09:04:12] Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them... I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first. 
+\[Added after edit on 702/07/28 09:04:12\] Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them... I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first. 
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2220,7 +2220,7 @@ iM... If the situation calls for it, I need to hack inside and delete it...
 **Ivy**<br>
 This streamer... perhaps she can be of use to me.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2299,7 +2299,7 @@ Oh, he's gone. What a weirdo... Paying me so much... Did he owe me a favor of so
 **JOE**<br>
 ...... Have absolutely no idea who he is. Whatever. Hahahaha!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2346,7 +2346,7 @@ Vivi, your sister is not coming back again. People who have passed on will never
 **Man**<br>
 Then daddy will go upstairs to work. You wait here. Don't get too close to the railing though, it's dangerous.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Girl**<br>
 So high... big sister also... from a place this high...
@@ -2428,7 +2428,7 @@ That jump was insane... how did you do it? Thank you!
 **Ivy**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Agent A**<br>
 In short, your construction company will be responsible entirely for this accident. Are you fine with that?
@@ -2474,7 +2474,7 @@ From this distance...?
 **Man**<br>
 Ah! Wait......!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ivy**<br>
 Why... did I rescue her...?
@@ -2487,7 +2487,7 @@ Why... did I rescue her...?
 This is... that little girl's doll. Should I go up there and give it back to her...?<br>
 ...... Forget it.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2624,7 +2624,7 @@ Mission complete. Begin disconnection.
 **Ivy**<br>
 Humans, enjoy the pointless busy work of figuring out who Æsir really is. I don't have time to waste on you right now.
 
-*[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost]*
+*\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2673,7 +2673,7 @@ No idea... We were separated as soon as we crossed the river... It's possible th
 **Ilka**<br>
 She wouldn't die so easily; if she isn't stupid enough to get herself killed by going back...
 
-*[»»» Fast Forward 68 Hours»»»]*
+*\[»»» Fast Forward 68 Hours»»»\]*
 
 *\[Heavy things falling down\]*
 
@@ -2762,7 +2762,7 @@ Of course!
 **Ilka**<br>
 The sun has yet to rise. We shall use this opportunity to move towards Node 08. Come, follow me.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2828,7 +2828,7 @@ I... Where am I now? How did you find me? How much time has passed?
 **Ivy**<br>
 No need to hurry. I will slowly tell you everything I know.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Vanessa**<br>
 I see... So 553 years have passed.
@@ -2888,7 +2888,7 @@ Me too... I've got to disconnect now. This connection is not meant for long conn
 **Vanessa**<br>
 Yes, I'll be waiting for you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2920,7 +2920,7 @@ We shall meet again in the "afterlife".
 
 ![ivos3802.png](./attachments/ivos3802.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3051,7 +3051,7 @@ Nothing. That sounds great! The lake we used to see flowers together, I wonder w
 **Ivy**<br>
 Yes, it's a promise.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3184,7 +3184,7 @@ Yes. Ivy, take care of yourself too.
 **Ivy**<br>
 Do I... have to do that to humans again...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3341,7 +3341,7 @@ What do you say?
 **Old Man**<br>
 Yes... This is Lily's favorite drink. She was so fond of its taste.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3481,7 +3481,7 @@ Blocked...?
 **Ivy**<br>
 ... Vanessa?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3582,7 +3582,7 @@ We can't do that! This is breaking news...
 **Agent**<br>
 We need......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3716,7 +3716,7 @@ Rin, I must go now... The thing you just mentioned, if it happens again, you mus
 **Rin**<br>
 Yes... I understand. Take care.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3786,7 +3786,7 @@ If there are no other questions, get ready to leave as soon as we complete one l
 **Team Member**<br>
 Yes, captain!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Bruno**<br>
 Captain, we're almost ready to leave.
@@ -3870,7 +3870,7 @@ Everyone, attention!
 **Sagar**<br>
 Emergency change of plans! Everyone, proceed to Quadrant II immediately! The target is to destroy all malfunctioned drones and protect the civilians!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3914,7 +3914,7 @@ W\-wait! There are still some people at the intersection over there...
 **Sagar**<br>
 It's alright. I'll handle it. You should leave this place ASAP!
 
-[→Signal Switches]
+\[→Signal Switches\]
 
 **Pedestrian B**<br>
 Woah! Hon, quick! Come over here!
@@ -4017,7 +4017,7 @@ Jackal! The mission is not over yet. Get your a\*\* back here. Continue to prote
 **Alex**<br>
 Tsk...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4120,7 +4120,7 @@ Goodbye.
 
 ![ivos4801.png](./attachments/ivos4801.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4219,7 +4219,7 @@ Ugh... Uhh, my... research...?
 **???**<br>
 ... You're going to assist me.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4384,7 +4384,7 @@ Don't worry about security issues. After you've created the block, I'll upgrade 
 **???**<br>
 O... Okay! I'll give it a try!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4555,7 +4555,7 @@ No... be careful. Hope everything goes smoothly.
 **Ivy**<br>
 ... You too.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4648,7 +4648,7 @@ It doesn't matter if you believe or not. The important question is can you do it
 **Noah**<br>
 I've got to do a little research...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 *\[Inputting Data\]*
 
@@ -4713,7 +4713,7 @@ Doesn't matter. Let's begin.
 ......!<br>
 Understood...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Noah**<br>
 Although it's just a theory... during the link, please do your best to think of the owner of this memory. I saw many visuals of you inside, which means you two have lived together for a very long time. If the memories are able to create an intertwined reaction, it will shorten the required transmission time and reduce the damage done to you.
@@ -4730,7 +4730,7 @@ No matter what I do... I only think of her.
 
 *\[Electric shock\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4751,7 +4751,7 @@ Focus!
 **Ivy**<br>
 ...... Va...... nessa...... aaahhhhH!!!!!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Ivy**<br>
 ... ughh...
@@ -4914,7 +4914,7 @@ Noah? Oh... this injury is serious...
 **Ivy**<br>
 DAMNIT! There's only one of these...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

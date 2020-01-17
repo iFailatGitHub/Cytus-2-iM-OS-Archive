@@ -132,7 +132,7 @@ How can I ever stand to ﬁght another day\*
 Holy...!<br>
 Are you serious...
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Audience**<br>
 ......\-
@@ -142,7 +142,7 @@ Are you serious...
 
 *\[Audience applauds\]*
 
-*[Switch Signal]*
+*\[Switch Signal\]*
 
 **Helena**<br>
 Aroma! Over here!
@@ -187,7 +187,7 @@ It's getting late. Let's go back.
 **PAFF**<br>
 OK!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -254,9 +254,9 @@ Eh?
 
 **Noah**<br>
 See for yourself...<br>
-[No.12 is so cuuuute!! Her voice is amazing too!]<br>
-[Ten times better than the actual winner, stupid organizer and their shady BS]<br>
-[I'm in love. Can someone get me her iM account]...
+\[No.12 is so cuuuute!! Her voice is amazing too!\]<br>
+\[Ten times better than the actual winner, stupid organizer and their shady BS\]<br>
+\[I'm in love. Can someone get me her iM account\]...
 
 **PAFF**<br>
 S, stop reading them out loud! It's embarrassing... Also, the first\-place winner is much better than me...
@@ -276,7 +276,7 @@ The research department is not really busy these days due to that previous incid
 **Noah**<br>
 If you don't believe, check the clip. It's been spreading like wildfire online already.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Helena**<br>
 ... Another listen and it's still as amazing as the first time. You indeed have the best singing performance.
@@ -329,7 +329,7 @@ In times like this, it's best you listen to sister...
 **Noah**<br>
 Haha... seems like that's the case.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -384,7 +384,7 @@ Our CEO thinks that with Miss White's appearance, elegance and performance trait
 **Helena**<br>
 Shush! Let me handle it.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Helena**<br>
 ... That's about it. Their plans are more transparent and clear. For safety concerns, I feel like they are the better choice.
@@ -425,7 +425,7 @@ Yes, ma'am! I have a feeling... that you will be a great agent.
 **Helena**<br>
 I am only a good sister. I will look forward to your reply.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **PAFF**<br>
 ... Is that the right thing to do? Shouldn't we be a little nicer...?
@@ -434,7 +434,7 @@ I am only a good sister. I will look forward to your reply.
 Idiot, how could I just hand you off to some random, out\-of\-nowhere small company like that?<br>
 This is a great opportunity for your dreams to come true. Let me handle it.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -462,7 +462,7 @@ H, hello everyone... My name is...
 
 ![pos0401.png](./attachments/pos0401.png)
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **PAFF**<br>
 Hello everyone! I'm Aroma! I, I'm f... fifteen...
@@ -540,7 +540,7 @@ You're welcome.
 **Noah**<br>
 ... I will be waiting for you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -600,7 +600,7 @@ I'm going to go take a shower. If I listen to you talk anymore I feel like my ea
 **PAFF**<br>
 Sister, the floor is still a bit wet. Be careful.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Television]**<br>
 *... In the series of papers published by Dr. Neumann, his interpretation of ancient technology has been significantly different from A.R.C.'s previous theories, leading to heated discussions within the community. Rumor has it that some of Dr.Neumann's evidence came from non\-legal sources, making the papers and the doctor himself the topic of many controversies. However, voices that support his theories are gaining more and more ground in the industry...*
@@ -695,7 +695,7 @@ Seriously... Stopping instilling people with your random crap. That's why you ne
 **Noah**<br>
 No... it's ok. She is speaking the truth after all. Haha...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -800,7 +800,7 @@ No\~... We're all grown\-ups now. This is weird...
 **Helena**<br>
 I've grown up too. No matter what, I will always be 8 years older than you. Come here. Don't think about anything and close your eyes.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 Hugging each other like this... it feels nostalgic.
@@ -887,7 +887,7 @@ Got it... I'll be there soon.
 **PAFF**<br>
 Sister... *\*Sobs\*...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -921,7 +921,7 @@ Those people at Mono really are a pain in the neck. It's truly exhausting to dea
 **Noah**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 ......
@@ -1037,7 +1037,7 @@ OK.
 **Noah**<br>
 ... Did I rush it? That's not good... Hehehe.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1096,7 +1096,7 @@ What? You got something to say? If something happens to me, blame yourself for b
 **Noah**<br>
 Stop jinxing yourself... Let's go.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Helena**<br>
 Don't you have to work today?
@@ -1146,7 +1146,7 @@ AROMA！！！
 
 *\[Car Accident\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1224,7 +1224,7 @@ Noah... I believe you.
 **[Noah]**<br>
 *... I know. Leave it to me.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1261,7 +1261,7 @@ Haha, that's how showbiz works anyway. So damn predictable.
 **PAFF**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 Cough... cough cough...
@@ -1299,7 +1299,7 @@ I definitely saved her info... No, right now, I don't even know whether the thin
 **PAFF**<br>
 Just what should I do now...? 
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Advertisement Music\]*
 
@@ -1321,7 +1321,7 @@ Tuner\-san, search for NEKO's contact information.
 **PAFF**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1372,7 +1372,7 @@ Hey, where are you going? You are not in the shape to run around...
 **Bryan**<br>
 It's fine. Both of you didn't suffer severe injuries. Your sister is in the ICU. I'll take you there.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 ![aos0101.png](./attachments/aos0101.png)
 
@@ -1445,7 +1445,7 @@ We will think of other methods to save her. Please believe in us!
 **Noah**<br>
 ... I'll leave it to you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1537,7 +1537,7 @@ Yes.
 
 ![aos1901.png](./attachments/aos1901.png)
 
-*[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*
+*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1642,7 +1642,7 @@ It has been fine recently...
 No, I can't let sister and others worry about me...<br>
 It's not that serious. I can do this...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Helena]**<br>
 *Aroma... No, "Miss PAFF", it is time. Please come to the backstage for final preparations.*<br>
@@ -1654,7 +1654,7 @@ Sister...
 **Aroma**<br>
 ... I'll be right there.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1709,7 +1709,7 @@ Don't overthink yourself. You need to rest. I'll apply some medication to make y
 **Aroma**<br>
 OK...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1744,7 +1744,7 @@ The fans are all worried about you. Look at all these letters and gifts.
 I saw them.<br>
 Since I already arrived home, I need to report my status to everyone on iM.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -1795,7 +1795,7 @@ Ah, nothing...
 **Aroma**<br>
 Thank you.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -1844,7 +1844,7 @@ Hmm?
 **Aroma**<br>
 ... Nothing. I... I really like this song.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1982,7 +1982,7 @@ Sister...
 **Aroma**<br>
 What... just what am I... 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2021,7 +2021,7 @@ Aroma, good morning. Wake up!
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward 10 minutes »»»]*
+*\[»»» Fast Forward 10 minutes »»»\]*
 
 **Noah**<br>
 ... The window is open. There are footprints on the grass but they are unable to be tracked. The bent grass has dewdrops on them, which means that she has been gone for a while now. On top of that, no other traces are found.<br>
@@ -2097,7 +2097,7 @@ Ahhhh... AHHHHH......
 **Noah**<br>
 I... can't repent my crimes like this, can't it...? All I did was bring even more suffering... I'm sorry...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2243,7 +2243,7 @@ Then a decision has been made! BUT, you better not cause me any trouble like you
 **Hayato**<br>
 U, understood!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2287,7 +2287,7 @@ You should talk to the shop owner. We can handle the rest.
 **Helena**<br>
 No... I can't do that. This is not an excuse. I will focus on the job!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Staff B**<br>
 Little girl, you can't come in here.
@@ -2352,7 +2352,7 @@ What do you want to drink? Uncle will treat you.
 **PAFF**<br>
 Then... o, orange juice...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2430,7 +2430,7 @@ Of course you can! Alright, time's up. Say hello to everybody\~
 **PAFF**<br>
 Okay.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2503,7 +2503,7 @@ All in all, we can't just leave the stage empty like this. Got to figure out a w
 ......<br>
 During the promotion, we didn't specify what the secret event is going to be, did we?
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **PAFF**<br>
 ... Eh? Me?
@@ -2532,7 +2532,7 @@ Sir treated me to some orange juice. I want to help...
 **Helena**<br>
 Aroma......
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Customer A**<br>
 Why hasn't anything started! Where is the show?
@@ -2560,14 +2560,14 @@ Through their doors stream melodies of winter\**
 **Audience**<br>
 ......!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **PAFF**<br>
 ...... (Bows)
 
 *\[Audience Cheers\]*
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Customer A**<br>
 Wow\~ Tonight's show was incredible!
@@ -2602,7 +2602,7 @@ Good to hear that\~ Aroma, Merry Christmas.
 **PAFF**<br>
 Yes... Merry Christmas.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2668,7 +2668,7 @@ Hahaha! You guys are so passionate! Then come with NEKO!
 **PAFF**<br>
 I, incredible...
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 *\[System activate\]*
 
@@ -2689,7 +2689,7 @@ Activating virtual projection for you now.*
 **PAFF**<br>
 ......
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **PAFF**<br>
 Found it. This is me...... And......<br>
@@ -2716,7 +2716,7 @@ Ah, so you can't tell me... Makes sense.<br>
 **PAFF**<br>
 ... At least I confirmed that I do indeed remember Iris.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2853,7 +2853,7 @@ Don't seem to catch a glimpse of PAFF in this one either...
 **Vicky**<br>
 That's fine. Take a few more photos. We'll bring them back and enlarge them. I'm absolutely not letting this exclusive report get away!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2998,7 +2998,7 @@ Let's go and check out this road in the photo tomorrow. Maybe you can remember s
 **PAFF**<br>
 ... Okay!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3125,7 +3125,7 @@ I almost forgot my pride as a journalist... You want information? That get off y
 
 *\[Hang Up\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3231,7 +3231,7 @@ Understood...
 **Rescue Team Captain**<br>
 Please... hang in there.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3321,7 +3321,7 @@ Yes. I won't allow anything to happen to Aroma again. We have to make sure she l
 **Noah**<br>
 Then that's it for now.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 *\[Door Opens\]*
 
@@ -3396,7 +3396,7 @@ This is none of your business! Now p\*\*\* off!
 **Noah**<br>
 I... I want to save her even more than you do...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3486,7 +3486,7 @@ Ah, the surgery just concluded. You can't...
 **Noah**<br>
 Shut your mouth. Helena, let's go.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Helena**<br>
 *\*Sobs\**... Aroma... Aroma...
@@ -3515,7 +3515,7 @@ This is our only option left. This time, trust me, okay? Please...
 **Helena**<br>
 Yes... please... please save her... *\*Sobs\**...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3574,7 +3574,7 @@ Y, yes, Sir!
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Noah**<br>
 The test species this time "Black Horn Ape", the complexity of its brain tissue is already very similar to humans. Now that the experiment is successful, I believe we've cleared the most difficult challenge... Here's the short\-term closing document for this project. Can you organize it for me? 
@@ -3627,7 +3627,7 @@ No problem. Thank you, director! I will definitely work extra hard!
 **Noah**<br>
 It'll be here soon... the "beacon" for humans...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3788,7 +3788,7 @@ Very good. A technology like you that completely surrenders to my commands is wh
 **[System]**<br>
 *Yes, Mr. Smith.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3823,7 +3823,7 @@ Alright! I knew we could do it!
 **Researcher U**<br>
 Begin formatting the memory of the "vessel".
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Noah**<br>
 Director, I really appreciate your help.
@@ -3935,7 +3935,7 @@ Yes, she was. But... sorry.
 **Noah**<br>
 Aroma... this is going to hurt a bit. Please, bear with it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4038,7 +4038,7 @@ Aroma's body is already dead! There's already no turning back for us! This is ou
 **[Noah]**<br>
 *Aroma... come on... wake up... *
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4114,9 +4114,9 @@ Noah... I believe you.
 **[Noah]**<br>
 *... I know. Leave it to me.*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
-*[»»» Fast Forward 15 hours»»»]*
+*\[»»» Fast Forward 15 hours»»»\]*
 
 **Researcher U**<br>
 Director, all tests are complete. Her nervous system is reacting normally. <br>
@@ -4184,7 +4184,7 @@ I need to calm down. Leave me alone. Please.
 
 *\[Door Opens\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4322,7 +4322,7 @@ Don't think about it... I did the right thing.
 **Helena**<br>
 I have to... protect Aroma no matter the cost...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4375,7 +4375,7 @@ You look really pale and haggard. You've not slept well for the past few days, h
 **Helena**<br>
 It's okay... I still have to make a PR post on iM. I'll leave the things here to you.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **PAFF**<br>
 ......
@@ -4421,7 +4421,7 @@ Don't overthink yourself. You need to rest. I'll apply some medication to make y
 **PAFF**<br>
 OK...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4559,7 +4559,7 @@ Tell her. Tell her everything. Let her decide what she'll do herself... even if 
 **Noah**<br>
 ... I'll... consider it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4593,7 +4593,7 @@ Quick, take a picture!
 **NEKO#ΦωΦ**<br>
 Oh god, oh no! This is bad! This is really, really bad!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Vicky**<br>
 Waah!
@@ -4629,7 +4629,7 @@ Hnngh... Ha!
 
 *\[Footsteps\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Vicky**<br>
 ......<br>
@@ -4692,7 +4692,7 @@ Don't mind me. All in all, setting aside my role as a journalist, I really want 
 **Hayato**<br>
 ... I... I grew up in Node 03, together with a girl named "Kaori"...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4757,7 +4757,7 @@ Ah, right. Is your husband not here?
 **Tsumugi**<br>
 Same as always. Not taking one step outside his research room...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Little Boy A**<br>
 Big brother, give me one!
@@ -4838,7 +4838,7 @@ Ah, right. My name is Kaori. What's your name?
 **???**<br>
 I... I'm...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Feng**<br>
 ... Will this child... be willing to come with me?
@@ -4846,7 +4846,7 @@ I... I'm...
 **Tsumugi**<br>
 Rest assured, Mrs. Huang... Hayato is a good kid. He'll be more than happy to go with you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5009,7 +5009,7 @@ You're exaggerating things again... haha.
 
 ![pos4201.png](./attachments/pos4201.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5077,7 +5077,7 @@ Umm, Yes... Apologies for disturbing you...
 **NEKO#ΦωΦ**<br>
 Sighhh\~ I knew this is gonna happen... Welp, can't help it then. Guys, just hear NEKO out first.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Kenta**<br>
 It's the real PAFF... the real PAFF...
@@ -5156,7 +5156,7 @@ KENTA! Snap out of it! Put on your shoes, now! If you keep overheating, I'll sti
 **PAFF**<br>
 Haha...
 
-[Signal Lost]
+\[Signal Lost\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5309,7 +5309,7 @@ Aroma\-chan, get in the car!!
 **PAFF**<br>
 Ah... U, understood!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5384,7 +5384,7 @@ You... do know the directions, right?
 **???**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5487,7 +5487,7 @@ Ah\~Ah\~, Mic test, mic test\~
 **Hayato**<br>
 Ah, just give me another second... sorry.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5611,7 +5611,7 @@ I finally get to see you again... Hayato!
 **Hayato**<br>
 ... Kao... ri?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5681,7 +5681,7 @@ Everything...
 **Noah**<br>
 That's right. Maybe you'll come to despise me after hearing what I'm about to say, and I wouldn't mind it one bit. I had this coming...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 ......
@@ -5746,7 +5746,7 @@ We're home. Let's get inside first.
 **PAFF**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5797,7 +5797,7 @@ Noah already told me quite a bit on our way here...
 **PAFF**<br>
 Okay. Thank you.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Closes\]*
 
@@ -5876,7 +5876,7 @@ I won't ask for anyone's forgiveness. I won't ask you to shoulder this guilt tog
 **Noah**<br>
 Okay...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5921,7 +5921,7 @@ Well then, here's our first song!
 
 ![pos5001.png](./attachments/pos5001.png)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Audience applauds\]*
 
@@ -5991,7 +5991,7 @@ If that's the case, tonight... we sing till we drop dead! How does that sound, e
 
 *\[Music\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6110,7 +6110,7 @@ No matter how many "me"s exist in this body; no matter where I go next, what hap
 
 ![pos5101.png](./attachments/pos5101.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6205,7 +6205,7 @@ Yes! Sister... I'm so glad; you're finally acting like the sister I always knew.
 **PAFF**<br>
 Yes.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Doorbell\]*
 
@@ -6245,7 +6245,7 @@ Understood... We'll be in your care.
 **NEKO#ΦωΦ**<br>
 NEKO will go down there with you as soon as I finish this drink!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -6273,7 +6273,7 @@ Understood.
 **PAFF**<br>
 ... Ughh... my head...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6303,7 +6303,7 @@ Not at all. I'll wait for you.
 **Kaori**<br>
 Gotcha. Bye\-bye!
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[Footsteps\]*
 
@@ -6325,7 +6325,7 @@ Accidentally sang a few too many songs. It's getting really late... Mom's probab
 **Kaori**<br>
 ... No way...
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[Hurried Footsteps\]*
 
@@ -6366,7 +6366,7 @@ You're not getting away!
 **Kaori**<br>
 AHHHHHHHH!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6464,7 +6464,7 @@ Aroma\-chan! Where are you going!? Wait for me!
 **JOE**<br>
 Hey! NEKO!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **JOE**<br>
 That's... how is that... that can't be right...
@@ -6525,7 +6525,7 @@ JOE, it's me.
 **JOE**<br>
 Simon!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6566,7 +6566,7 @@ Do you remember... anything about Grandma Feng...?
 **Hayato**<br>
 Forget it. Don't think about it now! Since there's still a while before we get there, I guess I'll tell you about what happened during the time you were gone.
 
-*[→Audio\_Feng's\_694\_05\_06]*
+*\[→Audio\_Feng's\_694\_05\_06\]*
 
 **Agent**<br>
 We'll try our best to help you guys search for her. However, I hope you also realize that in Node 03, especially in this downtown area, people missing is a very common thing. You guys aren't civilians with a high offering level, so the Administration Bureau is probably not going to dedicate a lot of resources to this case.
@@ -6577,7 +6577,7 @@ I understand. I'll leave it to you... *\*Sobs\**...
 **Agent**<br>
 Kaori... is a good girl. My daughter loves to listen to Hayato and her perform at the corner of the street every weekend.
 
-*[→Audio\_Feng's\_694\_05\_10]*
+*\[→Audio\_Feng's\_694\_05\_10\]*
 
 **Hayato**<br>
 Grandma! Why!? You don't have to do this!
@@ -6588,7 +6588,7 @@ I'm really sorry, Hayato. Only by selling this flower shop can we request more r
 **Hayato**<br>
 This shop is everything Grandma has worked for! It's a part of our family's memories... On top of that, your medical bills... I'll figure out a way to make more money! Please think about it again, okay!?
 
-*[→Audio\_Downst\_698\_07\_01]*
+*\[→Audio\_Downst\_698\_07\_01\]*
 
 **Hayato**<br>
 Only made this much today... Just as I thought, without Kaori, nobody wants to listen when it's just me...
@@ -6602,7 +6602,7 @@ I want to listen!
 **Yamada**<br>
 Haha, long time no see, old friend! Why did you stop going to the Academy all of a sudden? I was super lonely!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Hayato**<br>
 That's pretty much it. Now, the flower shop is no more. Grandma Feng suffered a brain stroke and has been in the hospital for years... I have to work hard to make more money, all the while I've been trying to search for Kaori. I really am exhausted...
@@ -6619,7 +6619,7 @@ Yikes! Sorry, my bad. That's right, no need to be so pessimistic. To be honest w
 **Hayato**<br>
 For real!?
 
-*[→Audio\_???\_697\_12\_25]*
+*\[→Audio\_???\_697\_12\_25\]*
 
 **Hayato**<br>
 Oyoy!? Are you really going to do this? Isn't this theft!?
@@ -6634,7 +6634,7 @@ Eh? You need the money, right? You think those pitiful coins you make from your 
 Ah, sorry. I really like your music. I really do. However, making money is a completely different matter. This is a major business deal, and you better not mess up. <br>
 Boys, time to work!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Yamada**<br>
 F\*\*\*! Oh crap oh crap oh crap! Run! Get your a\*\*es moving!
@@ -6645,7 +6645,7 @@ Hey! That friend of yours... he's still in the truck! They're taking him away!
 **Yamada**<br>
 Who gives a f\*\*\* about him!? Run for your damn lives first!
 
-*[→Audio\_???\_697\_12\_25]*
+*\[→Audio\_???\_697\_12\_25\]*
 
 *\[Door Opens\]*
 
@@ -6658,7 +6658,7 @@ Hey... there's a person inside!
 **Hayato**<br>
 Waah! Don't shoot me!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Member D**<br>
 Director, we caught the stealing rat. Our losses over these past few months were probably a result of his handiwork.
@@ -6666,7 +6666,7 @@ Director, we caught the stealing rat. Our losses over these past few months were
 **???**<br>
 Just one person?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6677,7 +6677,7 @@ Just one person?
 |**PAFF** | 72  |
 
 ### Log Content
-*[→Audio\_???\_697\_12\_25]*
+*\[→Audio\_???\_697\_12\_25\]*
 
 **Phoenix**<br>
 Just one person?
@@ -6707,7 +6707,7 @@ H\-Hayato... Hayato Kusu.
 ......<br>
 I think I've seen this name somewhere... Brat, come with me for a bit.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Phoenix**<br>
 As I expected. Your guardian, her name is Feng Huang, right?
@@ -6740,7 +6740,7 @@ But, this is an unstable project that is still in its experimental phase. Both t
 **Hayato**<br>
 ......!
 
-*[→Audio\_???\_698\_03\_18]*
+*\[→Audio\_???\_698\_03\_18\]*
 
 **Medical Staff**<br>
 I'm sorry. Your grandma's brain nerves were too badly damaged. The experiment has failed. However, it's not a complete failure either. We've successfully restored all her senses except vision. You can interact with her through this interface. Her thoughts will be presented to you through words and synthetic voices.
@@ -6755,13 +6755,13 @@ I must remind you... the experiment failed. If you activate it now, she will onl
 ......!<br>
 ... *\*Sobs\**...
 
-*[»»» Fast Forward 30 minutes»»»]*
+*\[»»» Fast Forward 30 minutes»»»\]*
 
 **Hayato**<br>
 I... I've made my decision...<br>
 Please activate it. However... before that, I would like the nurse to help me with something...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Feng]**<br>
 This is...? Where am I? It's so dark...
@@ -6816,7 +6816,7 @@ The time... is up.
 **Hayato**<br>
 You can... finally, sleep with a smile. You can sleep with a smile, forever...  WAAAHHHHHH!!!! 
 
-*[→Cam\_Grave\_702\_11\_23]*
+*\[→Cam\_Grave\_702\_11\_23\]*
 
 **Hayato**<br>
 We're here, her grave.<br>
@@ -6840,7 +6840,7 @@ So you remember? Thank goodness... You... you're indeed Kaori. Grandma always be
 
 ![pos5701.png](./attachments/pos5701.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6948,7 +6948,7 @@ You've already seen the address. You should be able to recall it.
 Wha... That's...<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -6974,7 +6974,7 @@ Why are you so carefree about this whole thing...?
 *......<br>
 Alright. Everyone, leave the room so the treatment process can continue.*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **NEKO#ΦωΦ**<br>
 Whew\~ It's finally over... That was so scary.
@@ -7120,7 +7120,7 @@ Did you do this? How did you...?
 ... I... I don't know either.<br>
 All I know is that we have to get there as fast as we can!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -7194,7 +7194,7 @@ I... I think I can use the surveillance cameras in the city to find his location
 **PAFF**<br>
 Yes! I'll try my best.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 ......<br>
@@ -7256,7 +7256,7 @@ It was because she couldn't make the decision to sacrifice ROBO that led to... A
 **Hayato**<br>
 Who would call...? NEKO!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -7365,7 +7365,7 @@ Please give me the model number and location of those that have issues.*
 **PAFF**<br>
 Got it!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **[Nora]**<br>
 *I see...*
@@ -7389,7 +7389,7 @@ Let's contact NEKO right away! She's in the city. We can tell her to check these
 **[Nora]**<br>
 *Let's do that.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -7412,7 +7412,7 @@ Sorry, Chief. But... please take a look!
 **PAFF**<br>
 ......?
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **[Nora]**<br>
 *... Are we too late?*
@@ -7440,7 +7440,7 @@ That guy!? All by himself?
 **PAFF**<br>
 O\-Okay!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **PAFF**<br>
 Yeah... Uh\-huh... Okay, got it. NEKO, please be careful. If something happens you've got to let us know!
@@ -7538,7 +7538,7 @@ Yes?
 *... Nothing, it's nothing. You... you really are an amazing person.<br>
 ... Thank you.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

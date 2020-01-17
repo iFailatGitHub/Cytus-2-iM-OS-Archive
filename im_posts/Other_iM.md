@@ -14,11 +14,11 @@
 - [[#012] Æsir\-FEST sucks](#o1201)
 - [[#013] Discomfort during connection](#o1301)
 - [[#014] I don't understand what A.R.C is doing](#o1401)
-- [[#015] [Question] Picking Furniture](#o1501)
+- [[#015] \[Question\] Picking Furniture](#o1501)
 - [[#016] iM UI](#o1601)
 - [[#017] PrayForPAFF](#o1701)
 - [[#018] Man my sides are cramping](#o1801)
-- [[#019] [Repost] Virtual area for concert has connection issues, hundreds affected](#o1901)
+- [[#019] \[Repost\] Virtual area for concert has connection issues, hundreds affected](#o1901)
 - [[#020] In a coma](#o2001)
 - [[#021] BORING](#o2101)
 - [[#022] Recommended spots in Quadrant II](#o2201)
@@ -35,14 +35,14 @@
 - [[#033] Overtime nightmare ongoing](#o3301)
 - [[#034] It's just a dream, just a dream](#o3401)
 - [[#035] Why all the beating around the bush](#o3501)
-- [[#036] [Finish the survey and win prizes] Anyone want a shot](#o3601)
+- [[#036] \[Finish the survey and win prizes\] Anyone want a shot](#o3601)
 - [[#037] Anyone got a streamer recommendation \~\~\~\~?](#o3701)
 - [[#038] About that Xenon](#o3801)
 - [[#039] I find NEKO to be the biggest suspect](#o3901)
 - [[#040] Did anyone remember what happened yesterday??](#o4001)
 - [[#041] Someone get me an Æsir event for dummies pls!!](#o4101)
-- [[#042] [Sponsored] Embark on your journey](#o4201)
-- [[#043] [Sponsored] All players in Node 08 are blown away](#o4301)
+- [[#042] \[Sponsored\] Embark on your journey](#o4201)
+- [[#043] \[Sponsored\] All players in Node 08 are blown away](#o4301)
 - [[#044] More of this BS and I'm going to Mono for some actual answers](#o4401)
 - [[#045] Just got my refund](#o4501)
 - [[#046] What kind of retard coded this system](#o4601)
@@ -71,48 +71,48 @@
 - [[#069] So those drones can actually shoot water streams](#o6901)
 - [[#070] Is iM broken?](#o7001)
 - [[#071] I NEED new gossip on Xenon × Neko\~\~](#o7101)
-- [[#072] [Announcement] Congratulations to ROBO\_Radio\_LIVE for the successful concert](#o7201)
+- [[#072] \[Announcement\] Congratulations to ROBO\_Radio\_LIVE for the successful concert](#o7201)
 - [[#073] ROBO Radio Live was f\*\*\*\*\*\* awesome](#o7301)
 - [[#074] Alter Ego](#o7401)
 - [[#075] Æsir\-FEST event, 08 Daily exclusive report series Part 4](#o7501)
 - [[#076] Did you guys see that news report about Xenon???](#o7601)
 - [[#077] Stop speaking up for that POS](#o7701)
-- [[#078] [Sponsored] GROOVE COASTER arrives with a splash!](#o7801)
+- [[#078] \[Sponsored\] GROOVE COASTER arrives with a splash!](#o7801)
 - [[#079] Solution to iM issues](#o7901)
 - [[#080] Time to show off ma new equipment A\_A](#o8001)
 - [[#081] Encounter](#o8101)
-- [[#084] \*\*\* [Emergency] System announcement \*\*\*](#o8401)
+- [[#084] \*\*\* \[Emergency\] System announcement \*\*\*](#o8401)
 - [[#085] It's fixed!!!](#o8501)
 - [[#086] Boys, I'm backkk!!](#o8601)
 - [[#087] ARC needs to give us a proper explanation](#o8701)
 - [[#088] So... does anyone knows what actually happened](#o8801)
-- [[#089] [Breaking] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents](#o8901)
+- [[#089] \[Breaking\] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents](#o8901)
 - [[#090] Any idea why such a winner in life would go and commit crimes??](#o9001)
-- [[#091] [Repost] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...](#o9101)
+- [[#091] \[Repost\] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...](#o9101)
 - [[#092] English pronunciation very important](#o9201)
 - [[#093] Did any one of you suffer damages in this malfunction incident?](#o9301)
 - [[#094] Nuff said. Engage Meme](#o9401)
-- [[#095] [Repost] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes](#o9501)
+- [[#095] \[Repost\] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes](#o9501)
 - [[#096] Xenon you better give us a goddamn explanation](#o9601)
-- [[#097] [Repost] A.R.C. exploration team founding member Colin Neumann passes away](#o9701)
+- [[#097] \[Repost\] A.R.C. exploration team founding member Colin Neumann passes away](#o9701)
 - [[#098] My turn to stream again!! Let's play GOW!](#o9801)
 - [[#099] Betting time\~\~\~ What will happen to Xenon at the end of all this???](#o9901)
 - [[#101] Is it just me, or does someone else also feel like Æsir is a legendary performance artist?](#q0101)
 - [[#102] Battle Royale game recommendation](#q0201)
-- [[#103] [BREAKING] I think I just witness something pretty freakin major!!!](#q0301)
+- [[#103] \[BREAKING\] I think I just witness something pretty freakin major!!!](#q0301)
 - [[#104] Where's Robo?](#q0401)
-- [[#105] [Repost] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown](#q0501)
+- [[#105] \[Repost\] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown](#q0501)
 - [[#106] See, told ya guys](#q0601)
 - [[#107] What just happened...](#q0701)
 - [[#108] Holy F\*\*\* is this news real!!!](#q0801)
 - [[#109] PAFF IS FOUND!!!!!!!!!!!!!!!!!!!!!!!](#q0901)
-- [[#110] [Breaking] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months](#q1001)
-- [[#111] [Sponsored] To the world of α](#q1101)
+- [[#110] \[Breaking\] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months](#q1001)
+- [[#111] \[Sponsored\] To the world of α](#q1101)
 - [[#112] Magnificent Diva, new song announcement](#q1201)
 - [[#113] Rayark Wonderland @Tokyo](#q1301)
 - [[#114] W\-T\-F!!!! What am I gonna do with this mountain\~\~\~\~](#q1401)
 - [[#115] B... Birds?](#q1501)
-- [[#116] [Breaking] Drone attacks reported in Node 08](#q1601)
+- [[#116] \[Breaking\] Drone attacks reported in Node 08](#q1601)
 - [[#117] SOS!](#q1701)
 - [[#118] Lightspeed the Capybara](#q1801)
 - [[#119] Who's behind this??](#q1901)
@@ -120,9 +120,9 @@
 - [[#121] Uh... umm... so, where should I go and hide?](#q2101)
 - [[#122] Does any\~ one\~ know where NEKO is at now??\~\~](#q2201)
 - [[#123] Anybody know what the final passcode for See2 is?](#q2301)
-- [[#124] [Repost] Administration Bureau holds press conference in response to recent drone incidents](#q2401)
-- [[#125] [Repost] Large\-scale drone attacks occurred in Node 08, Quadrant II](#q2501)
-- [[#126] [Repost] Node 08 Quadrant II suffered devastating drone attack](#q2601)
+- [[#124] \[Repost\] Administration Bureau holds press conference in response to recent drone incidents](#q2401)
+- [[#125] \[Repost\] Large\-scale drone attacks occurred in Node 08, Quadrant II](#q2501)
+- [[#126] \[Repost\] Node 08 Quadrant II suffered devastating drone attack](#q2601)
 - [[#127] HEY Y'all! I'm still alive!](#q2701)
 - [[#128] How to counter drones 101](#q2801)
 - [[#129] Let's test and see how everyone reacts when they see a drone now lolololol](#q2901)
@@ -133,9 +133,9 @@
 - [[#134] I have lots of questions...](#q3401)
 - [[#135] Hey...](#q3501)
 - [[#136] Ummm, about that...](#q3601)
-- [[#137] [Repost] Drone crisis averted temporarily. Bureau: Don't let your guard down](#q3701)
+- [[#137] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down](#q3701)
 - [[#138] What's the point of keeping military drones in service??](#q3801)
-- [[#139] [Streaming Notification: MO: Astray @21:00 ]](#q3901)
+- [[#139] \[Streaming Notification: MO: Astray @21:00 \]](#q3901)
 
 ## <a id="o0101"/>[#001] LONG nap
 ### Requirements
@@ -253,7 +253,7 @@ Can't stand it!
 
 **NEKOSAIKOU**<br>
 You're pretty disgusting too LMFAO <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **iluvpuf**<br>
 Wildcat pissing all over the place
@@ -474,7 +474,7 @@ Colin Sensei is a legend ok? He is not your typical run\-of\-the\-mill scholar
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1501"/>[#015] [Question] Picking Furniture
+## <a id="o1501"/>[#015] \[Question\] Picking Furniture
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -518,9 +518,10 @@ If you get dizzy than don't surf the net with chips lol
 
 ### Post
 **iluvpuf**<br>
-> PAFF is a very shy child. I know that because I grew up with her. Her devotion to fans and her efforts to try communicating with this world through music, I've witnessed it all with my own eyes. <br>
+\> PAFF is a very shy child. I know that because I grew up with her. Her devotion to fans and her efforts to try communicating with this world through music, I've witnessed it all with my own eyes. <br>
 > <br>
-> I would like fans to not abandon her due to her physical shortcomings. Besides music, your support is the only thing that keeps her going.<br>
+> I would like fans to not abandon her due to her physical shortcomings. Besides music, your support is the only thing that keeps her going.
+
 PAFF's story is so touching. Get well soon QQ**<br>
 \#PrayForPAFF**
 ### Replies
@@ -575,7 +576,7 @@ Hmmm you had a point there XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1901"/>[#019] [Repost] Virtual area for concert has connection issues, hundreds affected
+## <a id="o1901"/>[#019] \[Repost\] Virtual area for concert has connection issues, hundreds affected
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -583,9 +584,10 @@ Hmmm you had a point there XD
 
 ### Post
 **STANley**<br>
-> A few days ago, famous singer PAFF collapsed on stage during her annual concert. At the same time, audience members in the virtual area began to collapse as well. Several people in the physical area also displayed discomfort. In the hundreds of people affected by this issue, 11 have yet to regain their consciousness. <br>
+\> A few days ago, famous singer PAFF collapsed on stage during her annual concert. At the same time, audience members in the virtual area began to collapse as well. Several people in the physical area also displayed discomfort. In the hundreds of people affected by this issue, 11 have yet to regain their consciousness. <br>
 > <br>
-> An A.R.C. spokesperson stated today," We will begin the investigation of this incident as soon as possible. For the time being, we would like everyone to limit their use of virtual connections.
+> An A.R.C. spokesperson stated today," We will begin the investigation of this incident as soon as possible. For the time being, we would like everyone to limit their use of virtual connections.<br>
+
 ### Replies
 **STANley**<br>
 It has been several days already, ASAP my ass.
@@ -1077,7 +1079,7 @@ Room Service!! **@Xenon**
 
 **WhiteEYE33**<br>
 Room Service!! **@ROBO\_Head** (Following Up)<br>
-[This comment reported for spam]
+\[This comment reported for spam\]
 
 **ROBO_Head**<br>
 This unit detect tag spamming. Reported
@@ -1147,7 +1149,7 @@ It's pointless. Recently they've issued a gag order to all their employees
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3601"/>[#036] [Finish the survey and win prizes] Anyone want a shot
+## <a id="o3601"/>[#036] \[Finish the survey and win prizes\] Anyone want a shot
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1466,7 +1468,7 @@ Robowhat???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4201"/>[#042] [Sponsored] Embark on your journey
+## <a id="o4201"/>[#042] \[Sponsored\] Embark on your journey
 ### Unlocked Charts
 |            Song             |Character|Diff.|Level|
 |-----------------------------|:-------:|:---:|:---:|
@@ -1488,7 +1490,7 @@ Open the Book of Bequeathers and being your fantasy adventure
 ![o4201.png](./attachments/o4201.png)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4301"/>[#043] [Sponsored] All players in Node 08 are blown away
+## <a id="o4301"/>[#043] \[Sponsored\] All players in Node 08 are blown away
 ### Unlocked Charts
 |       Song       |Character|Diff.|Level|
 |------------------|:-------:|:---:|:---:|
@@ -1610,7 +1612,7 @@ Holy s\*\*\* XDDDDD Guys, I think we just found the newest internet fad: the ref
 
 **MustangMartin**<br>
 I just got lost in the refund system. It was horrible <br>
-ヽ(´Д`；)
+ヽ(´Д\`；)
 
 **N0B0DY**<br>
 Is this the ninth circle of refund hell lul WTF XD
@@ -1722,7 +1724,7 @@ The young folks love their precious idols
 I don't think it's fewer; it's just that nobody can remember anything. If there's no information, it's natural that there's no progress.
 
 **Doubty**<br>
-Memory alteration... such a convenient skill >"
+Memory alteration... such a convenient skill >"<
 
 **Wowow**<br>
 I'm waiting for news from ROBO\_head and Xenon
@@ -2431,7 +2433,7 @@ Yesterday afternoon, Xenon left his home alone. After cautiously looking around,
 
 The other female in this love triangle, Cherry, was accidentally injured during the recent protests in front of Mono HQ. At the time of this visit, she was resting in the hospital. Xenon chose not to visit her at the time; instead, he chose to visit NEKO at her home. Does this mean that he finally made his decision? Or is he still wandering between the two and playing his dangerous game of love? For more behind\-the\-scenes information on this case, please follow 08 Daily. We will continue providing updates on the situation.
 
-[For more photos regarding the incident, please click the link]
+\[For more photos regarding the incident, please click the link\]
 
 ![o6501.png](./attachments/o6501.png)
 ### Replies
@@ -2557,7 +2559,7 @@ Like all of you, I am a PUFFER. I love PAFF and her singing as much as every one
 
 Even though the law enforcement agents are already searching for her, I still want to contribute to the cause, however minor it may be. Several friends and I created a website in hopes that we could gather all possible witnesses available online regarding PAFF's whereabouts. We will sort through the information and send teams to investigate if we determine the tip to be credible. If you want to participate as well, please visit the following website for more details on this operation. Come and help us find our beloved PAFF. 
 
-[FindingPAFF]
+\[FindingPAFF\]
 
 **\#PrayForPAFF**
 ### Replies
@@ -2782,7 +2784,7 @@ I even checked again to make sure that my eyes were not seeing things. How the h
 
 **Go55ip**<br>
 ！？！？！？！？！？！？Orz<br>
-I definitely typed something. Why did they turn blank when I hit send? The f\*\*\* is this thing doing >皿
+I definitely typed something. Why did they turn blank when I hit send? The f\*\*\* is this thing doing >皿<
 
 **4nonymous**<br>
 It's clear that ARC finds this discussion pointless, hence why they decided to screw with you<br>
@@ -2793,7 +2795,7 @@ X: Make no mistake, I'm saying that everyone else is mine as well
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7201"/>[#072] [Announcement] Congratulations to ROBO\_Radio\_LIVE for the successful concert
+## <a id="o7201"/>[#072] \[Announcement\] Congratulations to ROBO\_Radio\_LIVE for the successful concert
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2913,7 +2915,7 @@ Dude there is something very off about your post (Rubs eye
 
 **SuduMan**<br>
 Well now I'm screwed lol<br>
-I can't tell if you're a true fan or is being sarcastic with all the garbled text >"
+I can't tell if you're a true fan or is being sarcastic with all the garbled text >"<
 
 **MustangMartin**<br>
 **@ROBO\_Head**Someone confessed to you\~\~\~\~
@@ -3065,7 +3067,7 @@ Anyone with that kind of power is going to be corrupted no matter what they do
 Not everyone is as selfish as you, so stop judging other people you moron
 
 **WAW**<br>
-M̸̡͜͝P҉̸̵J̛͟͜P̡̀̕͠O̵͜i̴͘u̷̵̶̵͘g̶̢̡͠͞f͏̶̧́͡7̕͏͜͝9̵̧҉̷5̶́d͏͏́͟8̛͘͠F̸̛͟҉(̸͜G͜͞҉̧&̵̕͢͡͡\_҉̧\*̴͞͡͠0̵͢[̶̨͞ì̕͜o̴̡͜͝͏;̶̛͟h̛̀ų̛g҉̕ù̡͢͝i̧̢͢͏ỳ̛́̕f̨͟d̷̸͘r҉͡T̢́͏C҉̨̛V̨̕\-̸̛p̵̕̕͠͡8̢=̷̨̧͜͡]̢̨͟͟0̶̛́͠[̨̛̀͡9͘͘͘͟͜h̨͏͏p͡i͢͡;̵͝ó̸͜҉g҉͞ù̀͜͟\*͢͏̶͡͠Ǫ̛̀^̀͟͡͠R̡͜͏͞F̶̕9҉̷͡͠
+M̸̡͜͝P҉̸̵J̛͟͜P̡̀̕͠O̵͜i̴͘u̷̵̶̵͘g̶̢̡͠͞f͏̶̧́͡7̕͏͜͝9̵̧҉̷5̶́d͏͏́͟8̛͘͠F̸̛͟҉(̸͜G͜͞҉̧&̵̕͢͡͡\_҉̧\*̴͞͡͠0̵͢\[̶̨͞ì̕͜o̴̡͜͝͏;̶̛͟h̛̀ų̛g҉̕ù̡͢͝i̧̢͢͏ỳ̛́̕f̨͟d̷̸͘r҉͡T̢́͏C҉̨̛V̨̕\-̸̛p̵̕̕͠͡8̢=̷̨̧͜͡\]̢̨͟͟0̶̛́͠\[̨̛̀͡9͘͘͘͟͜h̨͏͏p͡i͢͡;̵͝ó̸͜҉g҉͞ù̀͜͟\*͢͏̶͡͠Ǫ̛̀^̀͟͡͠R̡͜͏͞F̶̕9҉̷͡͠
 
 **WAW**<br>
 O̷̵͜I̢̡͢͝H̶̢́͜͞(̴͞P͝҉Ì̷͡f̡̡͞7͢9̸̡̡͟͞5̛́è͟͝͠d̶̢͜͠8́́͘6͠͞f̶̶͡t͏͟͝͡͞)̧͟&̴͜\*́͟͠Y̸̸͞͝H̵͜\-̡́9̴8̢̕͘͠y̶͜͡h͜͏̵̧͞u̴̵͞͞7͟͞y̧͜҉̢̕f̨̛̛͢͞t̵ŗ̡͞͝į̡̢͟7̸̴̕5̨̡́̕È̡͏͘D̢͠(̸̷̧̛͜7̴͝g̸̴0͜9҉̷̸u̧̢8̀͠ǵ͘͢ḩ̴̷̨̕i҉҉́͘u͜͏̶f̴̡͠͠y҉̶̨͢Í̛̕͜&͢͢͝
@@ -3151,7 +3153,7 @@ On a side note, have we experienced anything like this in the past regarding the
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7801"/>[#078] [Sponsored] GROOVE COASTER arrives with a splash!
+## <a id="o7801"/>[#078] \[Sponsored\] GROOVE COASTER arrives with a splash!
 ### Post
 **GC_Official**<br>
 Follow the trails of music into cyberspace! A colorful and fantastic showcase<br>
@@ -3165,8 +3167,8 @@ Internet critic TunaLee: "The heck? Why are you asking me LOLOLOL It's a great g
 
 Ride the rhythmic rails in GROOVE COASTER<br>
 　<br>
-[**[Official Site]**](http://groovecoaster.jp/)<br>
-[**[Official Twitter]**](https://twitter.com/groove\_coaster)
+[**\[Official Site\]**](http://groovecoaster.jp/)<br>
+[**\[Official Twitter\]**](https://twitter.com/groove\_coaster)
 
 ![o7801.png](./attachments/o7801.png)
 [*(Click here to go back to the top)*](#toc)
@@ -3237,13 +3239,13 @@ WTF do you want to show us with this photo???
 I had to turn my screen 360 degrees before I realize that this photo is corrupted
 
 **Pixely99**<br>
-It's all blurry ˋ̸͢ˊ̀͏̕͟͡Y̕͘͜$҉́2̴̢5̛̕͠3̛́͝6̧̢̧͠͞Ẃ̧͢҉͏Ý͘͏̵͘Y̷$̶̡̡̢͝q̵̢̀͞w҉̵͜4̧q̸̸̧Y͏É̴̶͞͡$̛̛҉R̀͝o̡͜6̨́͟͡҉7̷͟k̶҉t͝y̷͜͡ḱ̕͡t̡͞H͟͞R̀͞͏̡́6̷̶̧̧3̛͘2͏͏
+It's all blurry ˋ̸͢ˊ̀͏̕͟͡Y̕͘͜\$҉́2̴̢5̛̕͠3̛́͝6̧̢̧͠͞Ẃ̧͢҉͏Ý͘͏̵͘Y̷\$̶̡̡̢͝q̵̢̀͞w҉̵͜4̧q̸̸̧Y͏É̴̶͞͡\$̛̛҉R̀͝o̡͜6̨́͟͡҉7̷͟k̶҉t͝y̷͜͡ḱ̕͡t̡͞H͟͞R̀͞͏̡́6̷̶̧̧3̛͘2͏͏
 
 **CyberLord**<br>
 
 
 **Pinevalley**<br>
-ARGHHHH I !̸͢͏̛@̸̡͜\#̷̕̕͟҉r͘͠e̴̢̧6̷͠҉͘ỳ̴͜e͏̧̕͜͝5̕͜͢͝͡7̵̶͡͝S̵҉É̡̡̀7̷͜͟͝8͏̀͝0̸̨̢͟͢l̵̛͡f̕͞͏k҉̶͡G҉̨D̷̀͝i̛͞͡7̷͠8̡̛͢9̷̢͞4̴̡͞6҉̸7̸̀̕͟ǫ̡͡k̷͞͝j̵͜͝͡k͠͞͠l̶̨̡K͏͜͝L͏͏͟:͏̷̢̛̛Ļ̶͘͜͟"̷̧s̵̕͝r͘͞.̀͘҉̷̛,̡͏m̴͠҉.̵͝3͏͏̷̧͜4͘͏̧1̨̢̡̢̀7̵̢̧́̕4̴̧̨͜͝@̸̢̡̛͠$̷̛͞7͏̕͠͠ý͟͟9҉̶́
+ARGHHHH I !̸͢͏̛@̸̡͜\#̷̕̕͟҉r͘͠e̴̢̧6̷͠҉͘ỳ̴͜e͏̧̕͜͝5̕͜͢͝͡7̵̶͡͝S̵҉É̡̡̀7̷͜͟͝8͏̀͝0̸̨̢͟͢l̵̛͡f̕͞͏k҉̶͡G҉̨D̷̀͝i̛͞͡7̷͠8̡̛͢9̷̢͞4̴̡͞6҉̸7̸̀̕͟ǫ̡͡k̷͞͝j̵͜͝͡k͠͞͠l̶̨̡K͏͜͝L͏͏͟:͏̷̢̛̛Ļ̶͘͜͟"̷̧s̵̕͝r͘͞.̀͘҉̷̛,̡͏m̴͠҉.̵͝3͏͏̷̧͜4͘͏̧1̨̢̡̢̀7̵̢̧́̕4̴̧̨͜͝@̸̢̡̛͠\$̷̛͞7͏̕͠͠ý͟͟9҉̶́
 
 **CyberLord**<br>
 
@@ -3255,7 +3257,7 @@ If there are blank comments, I wonder if there are blank photos
 You mean the old "x" in a white square LMFAO (f\*\*\* I'm old)
 
 **11IIll11**<br>
-É͘͞}҉̧́͟͟[̵̶í̴͘͟͟o̶͘͞͡;̸̴̨ų̛͢͞t̶̛̕͟͡i̸̷̸͟͡u͟ȩ̸̶͜Ẁ̷̀͘͜Ŗ̨̀͢\#̴̨̢́W͢͏͠͝%̀̀͜@͏͜f̢t҉̵҉g͞͠ what's so shiny and golden with the pic like this XD
+É͘͞}҉̧́͟͟\[̵̶í̴͘͟͟o̶͘͞͡;̸̴̨ų̛͢͞t̶̛̕͟͡i̸̷̸͟͡u͟ȩ̸̶͜Ẁ̷̀͘͜Ŗ̨̀͢\#̴̨̢́W͢͏͠͝%̀̀͜@͏͜f̢t҉̵҉g͞͠ what's so shiny and golden with the pic like this XD
 
 **CyberLord**<br>
 Stupid iM
@@ -3273,14 +3275,14 @@ Stupid iM
 
 ### Post
 **Drew**<br>
-An W̕͘^̸̶̕̕͝$̸̨͟͟t̶̀͡ŗ͜u̴̡j̡͝r̢̀͢6̕͡9̶̡͘5̶̴̢͝͡9̨͟͞I̵̴͘͜͝  in a new h̷͠͏/̴̨́͞͞"̸͟͏̵̶Ì̸̸K̸̡E̸͝S̢̢̨͜͠Ŗ͢͠T̷̀́e͜҉; don't really know how to express it. It seems Y̶$̶̡́̀͠3̶͜6̸́͠U̢͞ę̶̀r͞҉y̢͡è̸̷͢͏7̸̷6̸̶\_̢̛͟͡{̛͝͠͏4͜͏ that my brain 3̷͘͢͜&̀̕͡4҉q̢̛́͠5̷T̵̢҉̸̶E̢̨͘͟t̸̴̨̀5̷͠6̷̷̀͞͞u̡̨̕i͏̶́͝t̨̛͘͟͟6̧̧͞͝5͘.̸̴̢͜ It feels very... nostalgic. However, \#̨̡́́W̶͟͡%͘͡r̶̷̡͟u͏͝j̸̵̛r̨͠͏t͏̵̨͜͜ì̷͠7̷̀͢9̢̀̕͜T̵͝k̢͝8̴͝҉͞7̛1̧͢ fake, W̷͟͟$̀҉̷͝͞^̴̕t̸̢͜͜í̡͏ķ̶̢̕j̧͝t̶̕͢͝͞y̸̷̛̕͘0̵̡.̵̵.̸͜.̵̷̧
+An W̕͘^̸̶̕̕͝\$̸̨͟͟t̶̀͡ŗ͜u̴̡j̡͝r̢̀͢6̕͡9̶̡͘5̶̴̢͝͡9̨͟͞I̵̴͘͜͝  in a new h̷͠͏/̴̨́͞͞"̸͟͏̵̶Ì̸̸K̸̡E̸͝S̢̢̨͜͠Ŗ͢͠T̷̀́e͜҉; don't really know how to express it. It seems Y̶\$̶̡́̀͠3̶͜6̸́͠U̢͞ę̶̀r͞҉y̢͡è̸̷͢͏7̸̷6̸̶\_̢̛͟͡{̛͝͠͏4͜͏ that my brain 3̷͘͢͜&̀̕͡4҉q̢̛́͠5̷T̵̢҉̸̶E̢̨͘͟t̸̴̨̀5̷͠6̷̷̀͞͞u̡̨̕i͏̶́͝t̨̛͘͟͟6̧̧͞͝5͘.̸̴̢͜ It feels very... nostalgic. However, \#̨̡́́W̶͟͡%͘͡r̶̷̡͟u͏͝j̸̵̛r̨͠͏t͏̵̨͜͜ì̷͠7̷̀͢9̢̀̕͜T̵͝k̢͝8̴͝҉͞7̛1̧͢ fake, W̷͟͟\$̀҉̷͝͞^̴̕t̸̢͜͜í̡͏ķ̶̢̕j̧͝t̶̕͢͝͞y̸̷̛̕͘0̵̡.̵̵.̸͜.̵̷̧
 ### Replies
 **Drew**<br>
-Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t̛́͘͜͞u҉̸̵͠i҉͘͠4̕͜͢r͠͠͝t̷̸͘u҉̸͢l̶̨̢̀͡F̕͝H̶̨҉D̢̡̀D̵̢̕j̴̕͏ĺ̢͜h̵̴̸̵́j̷̸ù̕͜͢;̴̀͟y̶̡̡͡j͟͠)̧̨̕(͏̛&̷̸͟͜k̵̕k̶͟͝͠h̵́҉W̛͢͞Ţ̸̕͞R̶̨̛̀E̛͜(̢͝͞҉5̧͏ļ̀͘͝͝j̧͢[̧͘҉̛͡>́͡?̢̢̡́h͟҉̸̛g̵̢̛u͏̷̨j̷̶̡̡͞d̴ŕ̨͏͏̛a̶̕e̵҉̶̀Ẁ̷͢\#̛҉̵͟%͟͝f͏͝g͢͜͠͠͠t̶͡͏̡͜j͟͜͜h͏l̀̕͜P̷͘͟:̷̶́͟͠L̡͏̵̡S҉̧̢͠É̛͘͟͡f̛҉̷g͘͘͝d̴͜͠҉h̵͝4̛̀̕͘͟ anyone really understand it?
+Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t̛́͘͜͞u҉̸̵͠i҉͘͠4̕͜͢r͠͠͝t̷̸͘u҉̸͢l̶̨̢̀͡F̕͝H̶̨҉D̢̡̀D̵̢̕j̴̕͏ĺ̢͜h̵̴̸̵́j̷̸ù̕͜͢;̴̀͟y̶̡̡͡j͟͠)̧̨̕(͏̛&̷̸͟͜k̵̕k̶͟͝͠h̵́҉W̛͢͞Ţ̸̕͞R̶̨̛̀E̛͜(̢͝͞҉5̧͏ļ̀͘͝͝j̧͢\[̧͘҉̛͡>́͡?̢̢̡́h͟҉̸̛g̵̢̛u͏̷̨j̷̶̡̡͞d̴ŕ̨͏͏̛a̶̕e̵҉̶̀Ẁ̷͢\#̛҉̵͟%͟͝f͏͝g͢͜͠͠͠t̶͡͏̡͜j͟͜͜h͏l̀̕͜P̷͘͟:̷̶́͟͠L̡͏̵̡S҉̧̢͠É̛͘͟͡f̛҉̷g͘͘͝d̴͜͠҉h̵͝4̛̀̕͘͟ anyone really understand it?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8401"/>[#084] \*\*\* [Emergency] System announcement \*\*\*
+## <a id="o8401"/>[#084] \*\*\* \[Emergency\] System announcement \*\*\*
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -3290,7 +3292,7 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 
 ### Post
 **Admin**<br>
-[Regarding the recent connection issues of this system and its subsequent sub\-systems, the institute has identified the cause of those issues and has addressed them. Users can use the service with ease now. We apologize for the inconveniences we caused. If you still encounter issues with the system, please provide a screenshot of the issue to ARC\-IT to help us address that issue.]
+\[Regarding the recent connection issues of this system and its subsequent sub\-systems, the institute has identified the cause of those issues and has addressed them. Users can use the service with ease now. We apologize for the inconveniences we caused. If you still encounter issues with the system, please provide a screenshot of the issue to ARC\-IT to help us address that issue.\]
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="o8501"/>[#085] It's fixed!!!
@@ -3518,7 +3520,7 @@ OMG are you a prophet! The news came out. Go watch it now
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8901"/>[#089] [Breaking] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
+## <a id="o8901"/>[#089] \[Breaking\] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -3528,13 +3530,14 @@ OMG are you a prophet! The news came out. Go watch it now
 
 ### Post
 **ROBO_Head**<br>
-[News][Æsir][Hacker][ICybercrime][A.R.C.][Administration Bureau]<br>
+\[News\]\[Æsir\]\[Hacker\]\[ICybercrime\]\[A.R.C.\]\[Administration Bureau\]<br>
 > We have received the latest news. Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents. <br>
 > <br>
 > According to our inside sources, the Administration Bureau received investigative information from an A.R.C. employee. The employee accused Simon Jackson of using a specialized A.I. that has yet to clear safety protocols for all kinds of operations. The Administration Bureau decided to delve further into the situation. However, when they came across A.R.C.'s system program records, they discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. <br>
 > <br>
-> Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence. Instead, he appeared at the Bureau with law enforcement agents and has been very cooperative throughout the process. We are currently chasing this news in real\-time and will update you with the latest information at any time. <br>
-[Article excerpted from Node News Network]
+> Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence. Instead, he appeared at the Bureau with law enforcement agents and has been very cooperative throughout the process. We are currently chasing this news in real\-time and will update you with the latest information at any time. 
+
+\[Article excerpted from Node News Network\]
 
 ![o8901.png](./attachments/o8901.png)
 ### Replies
@@ -3542,10 +3545,10 @@ OMG are you a prophet! The news came out. Go watch it now
 Xenon's arrest<br>
 Time range: Past 3 hours<br>
 Community preference ranking, from high to low:<br>
-1. [Culprit arrested] 66.1%<br>
-2. [False arrest] 23.5%<br>
-3. [Accomplice still at large] 9.2%<br>
-4. [No comment] 1.2%
+1. \[Culprit arrested\] 66.1%<br>
+2. \[False arrest\] 23.5%<br>
+3. \[Accomplice still at large\] 9.2%<br>
+4. \[No comment\] 1.2%
 
 **AntiMetal**<br>
 Truth revealed! So it was this bastard after all!
@@ -3727,7 +3730,7 @@ Imo, there is definitely still more shady stuff that folks are not saying
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9101"/>[#091] [Repost] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
+## <a id="o9101"/>[#091] \[Repost\] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3735,15 +3738,16 @@ Imo, there is definitely still more shady stuff that folks are not saying
 
 ### Post
 **Flower_Head**<br>
-[Entertainment][Cherry PuNK][Concert]<br>
+\[Entertainment\]\[Cherry PuNK\]\[Concert\]<br>
 > In a recent performance of the popular band Cherry PuNK, lead vocalist Cherry appeared to suffer some serious mismanagement regarding her personal schedule. She was absent for almost 30 minutes before hastily taking the stage to complete the performance. Although her performance is still up to her usual standards, her actions at the start left quite the bad taste. Many audience members criticized her, calling this "The most absurd concert" they've ever seen. <br>
 > <br>
 > Cherry's late arrival occurred at a charity concert held at Node 08's Central Park. Many audience members actually waited in line overnight just to catch a glimpse of their idol, yet they were slapped with a near\-30 minute no\-show. Many thought that this was an organized warmup event by the band at first, which led to plenty of complaints. Some fans took to iM to express that Cherry is nowhere near as nice and professional as others have described. Their reasoning is that she didn't even bother to explain why she was late. She just hopped on stage and performed till the end as if nothing has happened. <br>
 > <br>
 > However, the day following the concert, fan club president CherryMyLife (iM account name) made a statement after contacting Cherry's agent and other band members to understand the situation. He stated that the real reason behind the delay was because Cherry had to deal with a family emergency that suddenly came up. Knowing how disappointed the fans would be of her absence, Cherry rushed to Central Park as fast as she could once she finished addressing the emergency.<br>
 > <br>
-> Cherry didn't cancel her performance even in the face of an unforeseeable situation. After this information surfaced, her dedication and work ethic immediately received praise from fans and netizens once again, claiming that Cherry is indeed "Node 08 rock's last hope". Praises like "Cherry is the best person I've ever seen.", "We don't deserve Cherry PuNK.", "This is why I will always love her." "Only Cherry can surpass Cherry" can be seen everywhere.<br>
-[Article excerpted from Neo Entertainment]
+> Cherry didn't cancel her performance even in the face of an unforeseeable situation. After this information surfaced, her dedication and work ethic immediately received praise from fans and netizens once again, claiming that Cherry is indeed "Node 08 rock's last hope". Praises like "Cherry is the best person I've ever seen.", "We don't deserve Cherry PuNK.", "This is why I will always love her." "Only Cherry can surpass Cherry" can be seen everywhere.
+
+\[Article excerpted from Neo Entertainment\]
 
 ![o9101.png](./attachments/o9101.png)
 ### Replies
@@ -4013,7 +4017,7 @@ Owner, quick! This is the golden opportunity to insert your promotions!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9501"/>[#095] [Repost] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
+## <a id="o9501"/>[#095] \[Repost\] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -4021,13 +4025,14 @@ Owner, quick! This is the golden opportunity to insert your promotions!
 
 ### Post
 **Flower_Head**<br>
-[News][Æsir][Hacker][Cybercrime][A.R.C.][Administration Bureau]<br>
+\[News\]\[Æsir\]\[Hacker\]\[Cybercrime\]\[A.R.C.\]\[Administration Bureau\]<br>
 > The series of internet terrorist attacks related to the infamous Æsir\-FEST has been the talk of the Node. Prime suspect Simon Jackson (Internet ID: Xenon) was arrested a few days ago. Despite refusing to explain his involvement with the cases at first, after several nights of interrogation, we've received information that he has finally given up and pleaded guilty, stating that he is indeed the mastermind behind everything: Æsir.<br>
 > <br>
 > According to an anonymous source from within the Administration Bureau, Simon Jackson stated during interrogation: " Under a condition where a certain purpose exists in the subconscious, I may have used my computer technology skills to convert the theoretical thought of stealing memories into practical actions. Even though my memory is still in a rather chaotic state, I will not rule out the possibility that I fabricated this Æsir identity and used it to commit criminal acts."<br>
 > <br>
-> The source also points out that the higher\-ups at A.R.C., where Simon Jackson is previously employed at, have also dispatched key figures to assist the Administration Bureau in acquiring more evidence. This is also to ensure that there are no hidden accomplices or other potentially dangerous factors that may lead to another incident.<br>
-[Article excerpted from Node News Network]
+> The source also points out that the higher\-ups at A.R.C., where Simon Jackson is previously employed at, have also dispatched key figures to assist the Administration Bureau in acquiring more evidence. This is also to ensure that there are no hidden accomplices or other potentially dangerous factors that may lead to another incident.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **Nyd_Ans**<br>
 Truth Reveal XD
@@ -4128,7 +4133,7 @@ How the f\*\*\* is he going to talk back you idiot lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9701"/>[#097] [Repost] A.R.C. exploration team founding member Colin Neumann passes away
+## <a id="o9701"/>[#097] \[Repost\] A.R.C. exploration team founding member Colin Neumann passes away
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -4136,13 +4141,14 @@ How the f\*\*\* is he going to talk back you idiot lol
 
 ### Post
 **Flower_Head**<br>
-[News][Obituary][Archeology]<br>
+\[News\]\[Obituary\]\[Archeology\]<br>
 > Colin Neumann, patriarch of the Neumann family and veteran A.R.C. exploration team captain, passed away at the family manor in Node 08 on October 23rd at the age of 76 due to illness. <br>
 > <br>
 > The Neumann family is renowned for producing excellent archeologist, and Colin Neumann is no exception. His achievements in recreated technology and ancient artifact collection made significant contributions to the development and rebuilding of human civilization and should not be overlooked. When he was a member of the exploration team, despite encountering countless dangers, he always completed the mission with his resolute will and unrivaled skills. <br>
 > <br>
-> After his retirement, Colin Neumann has lived a semi\-reclusive life in the Neumann family manor. According to a close friend of his, he has continued to study the artifacts left behind by ancient civilizations...<br>
-[Article excerpted from News Fastlane]
+> After his retirement, Colin Neumann has lived a semi\-reclusive life in the Neumann family manor. According to a close friend of his, he has continued to study the artifacts left behind by ancient civilizations...
+
+\[Article excerpted from News Fastlane\]
 ### Replies
 **DiiR**<br>
 WHAT!! ConneR sensei passed away??? How come???
@@ -4216,7 +4222,7 @@ The first few comments are so freakin cringeworthy ROFL
 
 ### Post
 **NEKOSAIKOU**<br>
-[Stream announcement 09:00 PM God of Work]
+\[Stream announcement 09:00 PM God of Work\]
 
 Heard that this game is seriously godlike<br>
 Has already sweep through countless awards<br>
@@ -4486,7 +4492,7 @@ All this discussion yet not a single actual recommendation in this thread dafuq 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0301"/>[#103] [BREAKING] I think I just witness something pretty freakin major!!!
+## <a id="q0301"/>[#103] \[BREAKING\] I think I just witness something pretty freakin major!!!
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -4641,7 +4647,7 @@ I feel like it could be because a cockroach fell into his joints!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0501"/>[#105] [Repost] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
+## <a id="q0501"/>[#105] \[Repost\] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4649,11 +4655,12 @@ I feel like it could be because a cockroach fell into his joints!
 
 ### Post
 **Flower_Head**<br>
-[News][Xenon][Jailbreak][Administration Bureau]<br>
+\[News\]\[Xenon\]\[Jailbreak\]\[Administration Bureau\]<br>
 > According to our sources, in the middle of last night, several armed people broke into the restricted area. Their target was the prime suspect of the Æsir\-FEST incident Simon Jackson (Internet ID: Xenon), who was still in custody. Even though the Administration Bureau has stated that they will be holding a press conference to explain the situation once they sort out the details, it is almost certain that as of now, Simon Jackson is no longer under the control of the Administration Bureau.<br>
 > <br>
-> According to private interviews conducted by our reporter, the perpetrators' planning of this jailbreak operation was very carefully thought out. In addition to distracting the guards with words, they also destroyed more than a dozen armed drones. Fortunately, no casualties were found. Whether this was caused by the Administration Bureau's lack of discipline or the perpetrators being simply too skilled and well\-prepared remains to be determined. Right now, we can only wait patiently for the results of the investigation. <br>
-[Article excerpted from Node Times]
+> According to private interviews conducted by our reporter, the perpetrators' planning of this jailbreak operation was very carefully thought out. In addition to distracting the guards with words, they also destroyed more than a dozen armed drones. Fortunately, no casualties were found. Whether this was caused by the Administration Bureau's lack of discipline or the perpetrators being simply too skilled and well\-prepared remains to be determined. Right now, we can only wait patiently for the results of the investigation. 
+
+\[Article excerpted from Node Times\]
 ### Replies
 **Curo**<br>
 As long as Xenon has a PC, no one, and I mean no one, can keep him locked up
@@ -4930,7 +4937,7 @@ Xenon and ConneR's pairing (ship?) does indeed have quite the following XDDDDDD 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1001"/>[#110] [Breaking] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
+## <a id="q1001"/>[#110] \[Breaking\] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4938,11 +4945,12 @@ Xenon and ConneR's pairing (ship?) does indeed have quite the following XDDDDDD 
 
 ### Post
 **Flower_Head**<br>
-[Breaking][PAFF][NEKO][Missing][Eye Witness]<br>
+\[Breaking\]\[PAFF\]\[NEKO\]\[Missing\]\[Eye Witness\]<br>
 > Node 08 idol singer PAFF has been missing for months due to unknown reasons. During her absence, multiple incidents have occurred. From the fans' violent protest regarding Monophonic Entertainment's mistreatment of her disappearance; to the information discovered during the Æsir\-FEST investigations that linked PAFF's deteriorating health to a possible memory theft she suffered during the incident and more. Just as everyone is about to give up on the search for her, the case took a very surprising and drastic turn today. <br>
 > <br>
-> Earlier today, in Node 08 Tower, multiple pedestrians caught sight of PAFF together with well\-known streamer NEKO. However, the two quickly passed through the crowd and proceeded to disappear. Only a few witnesses were able to get out their mobile devices in time to capture some blurry photos. We are currently contacting Monophonic Entertainment and the Administration Bureau to confirm the details on this event.<br>
-[Article excerpted from Node Times]
+> Earlier today, in Node 08 Tower, multiple pedestrians caught sight of PAFF together with well\-known streamer NEKO. However, the two quickly passed through the crowd and proceeded to disappear. Only a few witnesses were able to get out their mobile devices in time to capture some blurry photos. We are currently contacting Monophonic Entertainment and the Administration Bureau to confirm the details on this event.
+
+\[Article excerpted from Node Times\]
 
 ![q1001.png](./attachments/q1001.png)
 ### Replies
@@ -5007,7 +5015,7 @@ Let's use PAFF to bait Xenon out. He's a pretty hardcore PAFF fan right???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1101"/>[#111] [Sponsored] To the world of α
+## <a id="q1101"/>[#111] \[Sponsored\] To the world of α
 ### Post
 **Cytus_Alpha**<br>
 A complete remake of a classic, contains over 200 songs<br>
@@ -5026,7 +5034,7 @@ Cytus α JP packaged version official release
 ## <a id="q1201"/>[#112] Magnificent Diva, new song announcement
 ### Post
 **Saito_Official**<br>
-[NODE 03 Magnificent Diva, new song announcement]<br>
+\[NODE 03 Magnificent Diva, new song announcement\]<br>
 MIKU collabs with NODE 08's mischievous streamer NEKO to release a brand\-new single!
 
 Pre\-order countdown, 47:02:41
@@ -5208,7 +5216,7 @@ Get the f\*\*\* out of there! I heard they started attacking people!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1601"/>[#116] [Breaking] Drone attacks reported in Node 08
+## <a id="q1601"/>[#116] \[Breaking\] Drone attacks reported in Node 08
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -5216,11 +5224,12 @@ Get the f\*\*\* out of there! I heard they started attacking people!!!
 
 ### Post
 **Flower_Head**<br>
-[Breaking News][Drones][Attack][Casualties]<br>
+\[Breaking News\]\[Drones\]\[Attack\]\[Casualties\]<br>
 > A few hours ago, there had been several eyewitness reports from Node 08 that reported abnormal flight patterns from drones. .Just now, we've also been gradually receiving news regarding the drones' attacks on the cities. Due to the extreme chaos at the site, the number of casualties and other details are still unknown.<br>
 > <br>
-> Based on the new embargo put in place by the Administration Bureau, to all citizens, please head to the designated safety shelters immediately. If the roads to such shelters have already been blocked, please remain indoors. Do not engage or attempt to fight against the drones. Node News Network will continue to broadcast this event by images, text, or audio.<br>
-[Article excerpted from Node News Network]
+> Based on the new embargo put in place by the Administration Bureau, to all citizens, please head to the designated safety shelters immediately. If the roads to such shelters have already been blocked, please remain indoors. Do not engage or attempt to fight against the drones. Node News Network will continue to broadcast this event by images, text, or audio.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **NoSignal**<br>
 Does anyone now what's going on?<br>
@@ -5635,7 +5644,7 @@ Is that old "I'm gonna delete my account" meme really gonna work\~\~\~ lul
 
 **DogBark**<br>
 WAHHH its been soooo long!!! \*Smells the air\*  I think I can smell NEKO's scent\~\~ <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **NekoSamurai**<br>
 Yep. Been a long time since you last dropped the ban hammer too :P
@@ -5805,7 +5814,7 @@ I pronounce it "See2: US".
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2401"/>[#124] [Repost] Administration Bureau holds press conference in response to recent drone incidents
+## <a id="q2401"/>[#124] \[Repost\] Administration Bureau holds press conference in response to recent drone incidents
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -5813,11 +5822,12 @@ I pronounce it "See2: US".
 
 ### Post
 **Andy_Roid**<br>
-[News][Drones][Attack][Administration Bureau]<br>
+\[News\]\[Drones\]\[Attack\]\[Administration Bureau\]<br>
 > An Administration Bureau spokesperson stated: "Concerning the recent sporadic incidents of drones injuring people on accident, our early analysis has labeled this as a system error within the automatic control center. This error caused the system to mistakenly sent unrelated commands to the drones which caused them to malfunction and act abnormally. We've already activated the security protocol. This will increase the patrol frequency of armed Law Enforcement Agents, as well as improve the anti\-drone capabilities of Enforcer Drones."<br>
 > <br>
-> At the same time, A.R.C's Recreated Technology Department also stated that they will be assisting in the investigation to determine if there exist other safety concerns that have been overlooked. However, regarding the drones in use right now, they reaffirmed that there is no need for the public to be worried...<br>
-[Article excerpted from Node News Network]
+> At the same time, A.R.C's Recreated Technology Department also stated that they will be assisting in the investigation to determine if there exist other safety concerns that have been overlooked. However, regarding the drones in use right now, they reaffirmed that there is no need for the public to be worried...
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **EvilForce**<br>
 I'm pretty sure all the, you know, DEATHS have made everyone uneasy
@@ -5854,7 +5864,7 @@ The Law Enforcement Agents really got it tough 0rz. No wonder my dad doesn't wan
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2501"/>[#125] [Repost] Large\-scale drone attacks occurred in Node 08, Quadrant II
+## <a id="q2501"/>[#125] \[Repost\] Large\-scale drone attacks occurred in Node 08, Quadrant II
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -5862,15 +5872,16 @@ The Law Enforcement Agents really got it tough 0rz. No wonder my dad doesn't wan
 
 ### Post
 **Flower_Head**<br>
-[Breaking News][Drones][Attack][Shelter]<br>
+\[Breaking News\]\[Drones\]\[Attack\]\[Shelter\]<br>
 > In Quadrant II of Node 08, at least 10 suicide drone attacks have occurred in areas that are densely populated. The detailed number of casualties is not clear, though the firefighters who responded to the site first have stated that the situation does not look optimistic.<br>
 > <br>
 > At around 3 P.M., the first wave of attacks struck a Law Enforcement patrol post in the outskirts of Quadrant II. Multiple citizens and Law Enforcement Agents suffered minor and critical injuries. Of the critically injured, three already showed no signs of life by the time medical personnel arrived at the site. A witness of the attack told this NNN reporter, that after the first wave of attacks, the remaining drones continued to head toward the business district, most likely preparing for the next attack.<br>
 > <br>
 > Since these incidents showed clear signs of a terrorist attack, the Administration Bureau has issued an order for first\-priority precautionary measures to be taken. All Law Enforcement Agents will be deployed to conduct the investigation. In addition, the flying permits for all drones that are on standby have been revoked. However, drones that are currently conducting missions or offline are still out of their control. If the situation calls for it, these drones will be destroyed or brought down by force.<br>
 > <br>
-> Based on the news embargo put in place by the Administration Bureau, to all citizens, please head to the designated safety shelters immediately. If the roads to such shelters have already been blocked, please remain indoors. Do not engage or attempt to fight against the drones. Node News Network will continue to broadcast this event by images, text, or audio.<br>
-[Article excerpted from Node News Network]
+> Based on the news embargo put in place by the Administration Bureau, to all citizens, please head to the designated safety shelters immediately. If the roads to such shelters have already been blocked, please remain indoors. Do not engage or attempt to fight against the drones. Node News Network will continue to broadcast this event by images, text, or audio.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **Mick_Rorty**<br>
 \#@%&! Looks like something is seriously wrong this time
@@ -5917,7 +5928,7 @@ Is it normal for the sounds of explosions to sound like an earthquake...?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2601"/>[#126] [Repost] Node 08 Quadrant II suffered devastating drone attack
+## <a id="q2601"/>[#126] \[Repost\] Node 08 Quadrant II suffered devastating drone attack
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -5925,13 +5936,14 @@ Is it normal for the sounds of explosions to sound like an earthquake...?
 
 ### Post
 **Flower_Head**<br>
-[News][Drones][Attack][Quadrant II]<br>
+\[News\]\[Drones\]\[Attack\]\[Quadrant II\]<br>
 > Node 08 Quadrant II's business district suffered a severe drone attack incident. Rumors have come out stating that the attack has left at least 30 dead and over 200 civilians injured. As of now, the Administration Bureau has sealed off all traffic routes entering and exiting that area. Anyone who passes through the area, including pedestrians traveling on foot, must undergo examinations before they can proceed ahead. <br>
 > <br>
 > Node 08's business district is a hub area that has always been the most bustling place in 08. Notable landmarks such as Monophonic Entertainment HQ, Central Music Hall, and the Live House District were all affected by the attack to varying degrees. Fortunately, when the attack occurred, most stores had yet to start their business for the day. However, some stores were not as fortunate. For example, the Old Town area, home to the Jazz Bar "JOEZ Cafe" and the renowned Department Store "The Fountains", was pretty much reduced to rubble. The dining street, which houses famous restaurants like "Pizzattic" and "Singularity", also didn't survive the attack and was destroyed almost entirely.<br>
 > <br>
-> According to the Administration Bureau, in contrast with the previous sporadic drone malfunctions, this incident was very clearly a targeted attack. There were even instances where large drones crashed into buildings while carrying energy cells or fuel. These cases of suicide attacks have resulted in at least a dozen high\-rise buildings suffering structural damage. Official sources have yet to confirm whether this attack was caused by terrorists or not. <br>
-[Article excerpted from Node News Network]
+> According to the Administration Bureau, in contrast with the previous sporadic drone malfunctions, this incident was very clearly a targeted attack. There were even instances where large drones crashed into buildings while carrying energy cells or fuel. These cases of suicide attacks have resulted in at least a dozen high\-rise buildings suffering structural damage. Official sources have yet to confirm whether this attack was caused by terrorists or not. 
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **Chevalier151**<br>
 Reduced to rubble... Yikes...
@@ -6376,13 +6388,14 @@ I thought I could watch Cherry become even more popular for decades to come QAQ 
 
 ### Post
 **Flower_Head**<br>
-[News][Cherry PuNK][Sherry Pauline][Obituary]<br>
+\[News\]\[Cherry PuNK\]\[Sherry Pauline\]\[Obituary\]<br>
 > Cherry (real name Sherry Pauline), the lead vocalist of popular band Cherry PuNK,  has passed away. The news has fans and the public in utter shock. Cherry's agency, Monophonic Entertainment, has confirmed this information earlier today. However, they remained silent regarding the cause of her death and other details. They only stated that they hope everyone can give the other band members and Cherry's family and friends some time to process this tragedy.<br>
 > <br>
 > On iM, thousands of posts were made to mourn her passing. Due to the very sudden nature of the incident, many fans stated that it's "Hard to accept.", "Really hope it's only a bad April Fools' joke." "Life comes at you fast." Multiple members of the entertainment industry also expressed their grief. Liam Gish, the head of Node 08's department of culture, stated, "My deepest condolences to her family and friends. The entertainment industry just lost a brilliant rising star. The things she put into her music and lyrics are not only the values and emotions of a young girl but also a microcosm of her attitude towards life."<br>
 > <br>
-> We would like to express our gratitude for everything Cherry gave us. May she rest in peace. <br>
-[Article excerpted from Node News Network]
+> We would like to express our gratitude for everything Cherry gave us. May she rest in peace. 
+
+\[Article excerpted from Node News Network\]
 
 ![q3201.png](./attachments/q3201.png)
 ### Replies
@@ -6662,7 +6675,7 @@ It was just holding a disinfectant and tried to poison me!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3701"/>[#137] [Repost] Drone crisis averted temporarily. Bureau: Don't let your guard down
+## <a id="q3701"/>[#137] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -6670,11 +6683,12 @@ It was just holding a disinfectant and tried to poison me!!!
 
 ### Post
 **Flower_Head**<br>
-[Breaking][Drones][Attack][Termination]<br>
+\[Breaking\]\[Drones\]\[Attack\]\[Termination\]<br>
 > The drone attacks that lasted for several days seemed to have been brought under control at noon today, stopping the destruction that rained down on the city and the attacks on citizens at almost the same time. Drones even returned to their normal flight patterns to begin working again. This has caused citizens to wonder whether it was just an error or a terrorist attack that was been carefully designed.<br>
 > <br>
-> However, due to the heavy losses caused by the attacks, the Administration Bureau was initially unable to propose an effective solution. That was until the A.R.C. indicated its willingness to support, thereby initiating military counter\-attacks. Many citizens expressed great dissatisfaction; the reputation of the Administration Bureau has reached its lowest level in the past two decades.<br>
-[Article excerpted from Node News Network]
+> However, due to the heavy losses caused by the attacks, the Administration Bureau was initially unable to propose an effective solution. That was until the A.R.C. indicated its willingness to support, thereby initiating military counter\-attacks. Many citizens expressed great dissatisfaction; the reputation of the Administration Bureau has reached its lowest level in the past two decades.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **MustangMartin**<br>
 What reputation? Aren't they all just inefficient bureaucrats??
@@ -6776,7 +6790,7 @@ Dude, who the heck did you hear that from?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3901"/>[#139] [Streaming Notification: MO: Astray @21:00 ]
+## <a id="q3901"/>[#139] \[Streaming Notification: MO: Astray @21:00 \]
 ### Requirements
 | Character  |Level|
 |------------|:---:|

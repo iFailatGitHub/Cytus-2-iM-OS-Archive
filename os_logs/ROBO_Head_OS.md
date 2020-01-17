@@ -43,9 +43,9 @@
 |**ROBO_Head**| 35  |
 
 ### Log Content
-[   0.0000] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
-[   0.0000] Warning: unauthorized boot loader<br>
-[   0.0000] ?{(/?
+\[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
+\[   0.0000\] Warning: unauthorized boot loader<br>
+\[   0.0000\] ?{(/?
 
 ![ros0101.png](./attachments/ros0101.png)
 
@@ -58,20 +58,20 @@
 |**ROBO_Head**| 40  |
 
 ### Log Content
-[   0.3940] Visual analyzer initialized.<br>
-[   0.5547] Phase 1: Environment scanning..........................checked<br>
-[   0.6012] 1 main structure detected. Structure integrity: 88% <br>
-[   0.9477] Phase 2: Entity scanning...............................checked<br>
-[   0.9635] 493 entities detected. Hazardous: 0 <br>
-[   0.9701] Phase 3: Life sign scanning............................checked<br>
-[   1.0027] 1 humanoid life sign detected. Possible known associate: unknown.<br>
-[   1.0045] Initializing ID recognition protocol<br>
-[   5.1070] Downloading Bio\-key data base..........................complete<br>
-[   7.0101] Starting ID recognition <br>
-[   7.0242] 0x8001C227 Failed: subject is too close<br>
-[   7.0335] Calibrating camera array position<br>
-[   7.0744] 0x8001C227 Failed: subject is too close<br>
-[   7.1902] Scheduled ID recognition for next test cycle
+\[   0.3940\] Visual analyzer initialized.<br>
+\[   0.5547\] Phase 1: Environment scanning..........................checked<br>
+\[   0.6012\] 1 main structure detected. Structure integrity: 88% <br>
+\[   0.9477\] Phase 2: Entity scanning...............................checked<br>
+\[   0.9635\] 493 entities detected. Hazardous: 0 <br>
+\[   0.9701\] Phase 3: Life sign scanning............................checked<br>
+\[   1.0027\] 1 humanoid life sign detected. Possible known associate: unknown.<br>
+\[   1.0045\] Initializing ID recognition protocol<br>
+\[   5.1070\] Downloading Bio\-key data base..........................complete<br>
+\[   7.0101\] Starting ID recognition <br>
+\[   7.0242\] 0x8001C227 Failed: subject is too close<br>
+\[   7.0335\] Calibrating camera array position<br>
+\[   7.0744\] 0x8001C227 Failed: subject is too close<br>
+\[   7.1902\] Scheduled ID recognition for next test cycle
 
 ![ros0201.png](./attachments/ros0201.png)
 
@@ -84,19 +84,19 @@
 |**ROBO_Head**| 42  |
 
 ### Log Content
-[   8.1257] Initializing linguistic simulation<br>
-[  10.5547] Main application.......................................installed<br>
-[  20.6748] Semiotics.................................................installed<br>
-[  25.5411] Bio\-linguistics...........................................installed<br>
-[  30.9696] Clinical linguistics....................................installed<br>
-[  40.5601] Computational linguistics.........................installed<br>
-[  44.0027] Forensic linguistics...................................installed<br>
-[  47.0645] Connecting to cyTus for test running...connected!<br>
-[  47.0070] Test running 00000001<br>
-[  50.0701] Fetching iM raw data....20%..Error 0x87DF2EE7<br>
-[  90.0075] Retry connection...connected!<br>
-[ 113.1544] Fetching iM raw data....20%....40%....60%....80%....100%<br>
-[ 200.1772] Linguistic simulation estimate complete time: 399:48:15
+\[   8.1257\] Initializing linguistic simulation<br>
+\[  10.5547\] Main application.......................................installed<br>
+\[  20.6748\] Semiotics.................................................installed<br>
+\[  25.5411\] Bio\-linguistics...........................................installed<br>
+\[  30.9696\] Clinical linguistics....................................installed<br>
+\[  40.5601\] Computational linguistics.........................installed<br>
+\[  44.0027\] Forensic linguistics...................................installed<br>
+\[  47.0645\] Connecting to cyTus for test running...connected!<br>
+\[  47.0070\] Test running 00000001<br>
+\[  50.0701\] Fetching iM raw data....20%..Error 0x87DF2EE7<br>
+\[  90.0075\] Retry connection...connected!<br>
+\[ 113.1544\] Fetching iM raw data....20%....40%....60%....80%....100%<br>
+\[ 200.1772\] Linguistic simulation estimate complete time: 399:48:15
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -107,11 +107,11 @@
 |**ROBO_Head**| 43  |
 
 ### Log Content
-[ 4.7521] Sound receiver activated.<br>
-[ 4.8251] Voice analyzer initialized.<br>
-[ 5.6748] Phase 1: Environment scanning..........................checked<br>
-[ 6.5477] 1 main structure detected. Possible sound sources: 9<br>
-[ 7.9191] Phase 2: Receiving sound raw data...
+\[ 4.7521\] Sound receiver activated.<br>
+\[ 4.8251\] Voice analyzer initialized.<br>
+\[ 5.6748\] Phase 1: Environment scanning..........................checked<br>
+\[ 6.5477\] 1 main structure detected. Possible sound sources: 9<br>
+\[ 7.9191\] Phase 2: Receiving sound raw data...
 
 **???**<br>
 v̶͡h̶̛͝N͘V̷Customery͢P̶̕4̸̨͠6҉͘fortune tellingz̛͘Ģ̛͢r҉x̧̧͜V̡F̨z̀X̧
@@ -122,8 +122,8 @@ v̶͡h̶̛͝N͘V̷Customery͢P̶̕4̸̨͠6҉͘fortune tellingz̛͘Ģ̛͢r҉x̧�
 **???**<br>
 Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t́̕D͜Y͟
 
-[  47.5601] Processing.........<br>
-[  47.9922] Analyzing completed.
+\[  47.5601\] Processing.........<br>
+\[  47.9922\] Analyzing completed.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -134,9 +134,9 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 |**ROBO_Head**| 45  |
 
 ### Log Content
-[   0.0000] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
-[   0.0000] Warning: unauthorized boot loader<br>
-[   0.0000] "8])5[7.\#8/\*{
+\[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
+\[   0.0000\] Warning: unauthorized boot loader<br>
+\[   0.0000\] "8\])5\[7.\#8/\*{
 
 ![ros0501.png](./attachments/ros0501.png)
 
@@ -178,7 +178,7 @@ Internet keyword search...<br>
 Sort: Message volume<br>
 Extracting keywords...... Complete
 
-[Node 03][Explosion][Fire][Accident][Kyuu Hou Kai][Casualties][Seriously Injured][Administration Bureau][Mogura][Energy Pipelines] (1/3795)
+\[Node 03\]\[Explosion\]\[Fire\]\[Accident\]\[Kyuu Hou Kai\]\[Casualties\]\[Seriously Injured\]\[Administration Bureau\]\[Mogura\]\[Energy Pipelines\] (1/3795)
 
 Continue listing... Negative
 
@@ -311,7 +311,7 @@ Program activation...... start
 
 **[Xenon]**<br>
 *I've listened to the DEMO. Utterly blown away. I will start recording very soon.<br>
-As with the title, I want to name it [Black Hole]. Really suits the image of this entire song. See if you have any other suggestions.<br>
+As with the title, I want to name it \[Black Hole\]. Really suits the image of this entire song. See if you have any other suggestions.<br>
 I'll leave the track to you as well.*
 
 Save date: 702.08.09<br>
@@ -694,7 +694,7 @@ You goddamn lolicon... No, we've never seen her before.
 **Pedestrian B**<br>
 ... What a weird robot.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **[ROBO_Head]**<br>
 *Thank you for your answer.*
@@ -757,7 +757,7 @@ Remaining 81%... data not found.*
 **[ROBO_Head]**<br>
 *... "Phoenix"...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -926,7 +926,7 @@ Thank you for your help. See ya\~
 **[ROBO_Head]**<br>
 *... This unit, was deceived?*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1073,7 +1073,7 @@ Hehe, looking forward to working with you.
 *... Lying... <br>
 In the past, this unit... for Nora...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1174,7 +1174,7 @@ Therefore, this unit, not defective product that should be discarded.*
 
 **[Nora]**<br>
 *... Maybe we should shut you down first. It's necessary that we do a complete diagnosis of your core system. <br>
-Activate shutdown command. Enter voiceprint password: [NORA].*
+Activate shutdown command. Enter voiceprint password: \[NORA\].*
 
 **[ROBO_Head]**<br>
 *... Creator voiceprint command, verification success.<br>
@@ -1192,7 +1192,7 @@ Maybe we can solve this issue by resetting the system... But if I do that, ROBO'
 **[Nora]**<br>
 *... No, the way he is now should be just fine.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1243,7 +1243,7 @@ We're here. This is a pipe used for dumping waste. It shuts down temporarily at 
 
 *\[Heavy Blow\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Yamada**<br>
 Woah, it's quite spacious inside. Thank goodness I have a pipeline map...
@@ -1325,7 +1325,7 @@ Huh!?
 *Here, is this unit's home.<br>
 This unit, has... come home.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1435,7 +1435,7 @@ N, no! Please stop! Please... WAHHHHHH!
 **Nora**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1516,7 +1516,7 @@ Leave Node 03 now, effective immediately.*
 *Nora, this unit...*
 
 **[Nora]**<br>
-*[Nora]. Peform system shutdown.*
+*\[Nora\]. Peform system shutdown.*
 
 **[ROBO_Head]**<br>
 *......*
@@ -1562,7 +1562,7 @@ No...... rarara......*
 
 *\[Door Opens\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1610,7 +1610,7 @@ Yes, Chief.
 **[ROBO_Head]**<br>
 *......*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ryu**<br>
 Calling me to this place... You like to talk business in this kind of rain?
@@ -1717,7 +1717,7 @@ You guys should know what to do, right?
 **Mogura Member**<br>
 Yes, Boss.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Gate Opens\]*
 
@@ -1733,7 +1733,7 @@ Chief, he's still there... What should we do? The things Ryu just said...
 **Member D**<br>
 ... Yes, Chief.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1787,7 +1787,7 @@ Even though your parts are waterproof, constantly getting drenched in this kind 
 **[ROBO_Head]**<br>
 *Understood. Ichiro, helped us before. A good person.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1915,7 +1915,7 @@ Ichiro, can help her too.*
 **[ROBO_Head]**<br>
 *Understood.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1994,7 +1994,7 @@ I need to go buy some things. Please look after my home. Grandma still has some 
 **[ROBO_Head]**<br>
 *Understood. People Nora helps, this unit will help as well.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2082,7 +2082,7 @@ ROBO! What are you doing!? Shoot them!
 **[ROBO_Head]**<br>
 *Ichiro, in danger, shoot...*
 
-*[→File Switches: Cam\_KyuuLab\_698\_06\_02]*
+*\[→File Switches: Cam\_KyuuLab\_698\_06\_02\]*
 
 **[ROBO_Head]**<br>
 *Let this unit... deal with Kim.*
@@ -2091,7 +2091,7 @@ ROBO! What are you doing!? Shoot them!
 Have you taken a look at yourself?<br>
 ... ROBO, you are not created as a weapon to kill... 
 
-*[→File Switches: Cam\_Murata\_702\_11\_27]*
+*\[→File Switches: Cam\_Murata\_702\_11\_27\]*
 
 **[ROBO_Head]**<br>
 *No, cannot, kill.*
@@ -2126,7 +2126,7 @@ You alright!? Get in the car! Grab those two as well!
 **Ichiro**<br>
 Daigo!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2138,7 +2138,7 @@ Daigo!?
 
 ### Log Content
 **[Nora]**<br>
-*[Nora].*
+*\[Nora\].*
 
 *\[ROBO_Head Start-Up\]*
 
@@ -2239,7 +2239,7 @@ On the contrary, your actions have caused us some serious trouble... In short, s
 
 *\[Repairing\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Instrument.\]*
 
@@ -2251,7 +2251,7 @@ On the contrary, your actions have caused us some serious trouble... In short, s
 **[ROBO_Head]**<br>
 Nora... doesn't make music anymore...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2320,7 +2320,7 @@ It really is him! Why is he here...?
 **[ROBO_Head]**<br>
 *... Miss PAFF, MIss NEKO, greetings.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2414,7 +2414,7 @@ Miss Nora... it's alright.
 **[Nora]**<br>
 *... Very well.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2549,7 +2549,7 @@ Yes, Chief.
 **[ROBO_Head]**<br>
 *... Help. Everyone, together...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2738,7 +2738,7 @@ I'm sorry... I'm sorry...*
 
 ![ros3101.png](./attachments/ros3101.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2800,7 +2800,7 @@ Chief... are you really alright...?
 **Member D**<br>
 ... Chief...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Door Opens\]*
 
@@ -2816,7 +2816,7 @@ Nora...*
 **ROBO_Head**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[ROBO_Head]**<br>
 *......<br>
@@ -2904,7 +2904,7 @@ Keywords: self\-blame, regret, sadness... anger.*
 **[ROBO_Head]**<br>
 *... Understood.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2917,7 +2917,7 @@ Keywords: self\-blame, regret, sadness... anger.*
 ### Log Content
 *\[Ringtone\]*
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **[Rald]**<br>
 *It's me, Miss Pauline. I have some new information I would like to share with you.*
@@ -2976,7 +2976,7 @@ Now that I think about it, this number is supposed to belong to Miss Pauline... 
 ......<br>
 She's...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Rald]**<br>
 *......<br>
@@ -3063,12 +3063,12 @@ Ivy... who is that?*
 *I am very glad to hear that from you, Miss Nora.<br>
 Then, let us stay in contact.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Nora**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3088,7 +3088,7 @@ No need. You already made an appointment with the Chief, haven't you? This way, 
 **ConneR**<br>
 What a shame. I've always wanted to use a code word... Please, lead the way.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **ConneR**<br>
 You are Miss Nora? I heard of your age long ago, but seeing you in person, it's still quite surprising... It's an honor to meet you.<br>
@@ -3209,7 +3209,7 @@ Data space set up... complete.*
 **[ROBO_Head]**<br>
 *Test: Chip link simulation. Initiate calculations.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3296,7 +3296,7 @@ We can't let that happen! Otherwise, everyone will...
 **[Nora]**<br>
 *No, the source of the surge is in the guest room... ROBO!?*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Door Opens\]*
 
@@ -3393,7 +3393,7 @@ But, this unit, wants to help Nora too.*
 
 *\[ROBO emotion\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

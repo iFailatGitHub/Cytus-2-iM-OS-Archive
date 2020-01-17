@@ -17,12 +17,12 @@
 - [[#015] NEKO\#ΦωΦ chatting time](#n1501)
 - [[#016] Had A dream (ΦωΦ)w](#n1601)
 - [[#017] NEKO\#ΦωΦ streaming time \-「Stewrica」](#n1701)
-- [[#018] [Repost] After half year hiatus, comeback from Aesir?](#n1801)
+- [[#018] \[Repost\] After half year hiatus, comeback from Aesir?](#n1801)
 - [[#019] Anyone have Æsir's new song meow ΦωΦ?](#n1901)
 - [[#021] \*\*\*System Announcement\*\*\*](#n2101)
 - [[#022] ???](#n2201)
 - [[#023] Nyaann\~ Long time no see everyone (ΦωΦ)](#n2301)
-- [[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- [Project Wo]](#n2401)
+- [[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]](#n2401)
 - [[#025] Long Time No See!! Chatting time!!](#n2501)
 - [[#026] SUPER MEGA GIGA NEWS!!!](#n2601)
 - [[#027] NEKO\#ΦωΦ streaming time \- Live Composing!!!](#n2701)
@@ -53,7 +53,7 @@ NEKO the big mouth, is that you?
 
 **Lynx87**<br>
 Man that drawing sucks hahahaha <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **KirinKiraKira**<br>
 ROFLMFAO
@@ -77,7 +77,7 @@ NEKO you're evil lol
 ROFL
 
 **NEKO#ΦωΦ**<br>
-**(\*´∀`)\~♥** Music is good as always, charts are beginner friendly too\~
+**(\*´∀\`)\~♥** Music is good as always, charts are beginner friendly too\~
 
 **w_Rosabel_w**<br>
 Great song!!
@@ -87,7 +87,7 @@ Great song!!
 
 **WhiteEYE**<br>
 Playing on the lowest difficulty lololol<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Hulujam**<br>
 It's great<3
@@ -138,14 +138,14 @@ No it wasn't canceled, the warm\-up performances did go through.
 
 **Lynx87**<br>
 Æsir's music is way better than yours.<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **D33M0**<br>
 Baited lolol
 
 **w_Rosabel_w**<br>
 Used to listen to his songs a lot.<br>
-But deleted them all after he scammed everybodyヽ(`Д´)ノ
+But deleted them all after he scammed everybodyヽ(\`Д´)ノ
 
 **Smurky**<br>
 Never heard of him. Is he famous?
@@ -229,7 +229,7 @@ Dude keep your d\*\*\* in your pants!!!
 \\Marry me NEKO/
 
 **C_H_U**<br>
-**(\*´∀`)\~♥**
+**(\*´∀\`)\~♥**
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -247,7 +247,8 @@ Dude keep your d\*\*\* in your pants!!!
 
 ### Post
 **NEKO#ΦωΦ**<br>
-> ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...<br>
+\> ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...
+
 I'm ready to buy a dozen MeowBots \~\~\~<br>
 ヽ(∀Φ )人(Φ∀Φ)人( Φ∀Φ)人(Φ∀Φ )人(Φ∀Φ)人( Φ∀)ﾉ<br>
 **\#Paint all of them red to increase composing speed by 3600%**
@@ -351,7 +352,7 @@ Wait, isn't that in the morning. Man you how long were you asleep LOL
 
 **Uxi**<br>
 That song is pretty good lol! <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **KirinKiraKira**<br>
 Instant Ban lmfao XDD
@@ -609,11 +610,11 @@ Ummm...score 7893... Magical Flying Cow(ΦдΦ )... WTF is this achievement name
 
 **Lynx87**<br>
 Man you suck lol<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **EvilForce**<br>
 I can get 100000 with my foot lolol <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **loveIris**<br>
 Fight  lololol
@@ -982,7 +983,7 @@ So it's all a game...trollolololol
 ### Post
 **NEKO#ΦωΦ**<br>
 Today we are streaming a new antique\-level game！！＼(Φˋ∀ˊΦ)／<br>
-Rumor has it that this was a Triple\-A level game of the last century d(`Φ∀Φ)b <br>
+Rumor has it that this was a Triple\-A level game of the last century d(\`Φ∀Φ)b <br>
 「Explosion」everybody look forward to it!!
 
 ![n1401.png](./attachments/n1401.png)
@@ -1013,7 +1014,7 @@ ROFLMFAO
 
 **maplewing**<br>
 My god you suck lol <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **VardoR**<br>
 L O L
@@ -1125,7 +1126,7 @@ Did MeowBot finish chewing on the body XD
 Can you give the Bass back to me first?
 
 **NEKO#ΦωΦ**<br>
-[Stream Ended]
+\[Stream Ended\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1209,7 +1210,7 @@ Add me add me!!
 
 **Uxi**<br>
 I'll go to the enemy time and camp NEKO for the entire game hehehe<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **NEKO#ΦωΦ**<br>
 Woah full room instantly!! ヽ(Φˋ口ˊΦ)ノ Then let's begin!!
@@ -1230,7 +1231,7 @@ WTF are my teammates doing ?? Don't you know you have to protect me??
 .........
 
 **beeeeeeeeee**<br>
-[beeeeeeeeee has left the game.] 
+\[beeeeeeeeee has left the game.\] 
 
 **Poopytrap**<br>
 Instant DC from the teammate lol
@@ -1261,7 +1262,7 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1801"/>[#018] [Repost] After half year hiatus, comeback from Aesir?
+## <a id="n1801"/>[#018] \[Repost\] After half year hiatus, comeback from Aesir?
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1275,7 +1276,8 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 
 ### Post
 **NEKO#ΦωΦ**<br>
-> ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....<br>
+\> ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....
+
 Not good news to read when I just woke up (╬ΦдΦ)<br>
 No one will give a damn about his comeback if he didn't give an explanation (ΦωΦ)!<br>
 Here's a song that represents my mood now,「Blow my mind」!
@@ -1379,7 +1381,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 
 ### Post
 **Admin**<br>
-[According to the Internet Administration Act, the owner of this account is currently under restriction. All activities and functions will be automatically suspended and taken over by the Administration Bureau. Attempting to crack or evade this restriction via irregular connection will be treated as obstructing public service. The Administration Bureau will reserve the right to intervene]
+\[According to the Internet Administration Act, the owner of this account is currently under restriction. All activities and functions will be automatically suspended and taken over by the Administration Bureau. Attempting to crack or evade this restriction via irregular connection will be treated as obstructing public service. The Administration Bureau will reserve the right to intervene\]
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="n2201"/>[#022] ???
@@ -1420,7 +1422,7 @@ Anyone want to tell me the details\~
 
 **WhiteEYE**<br>
 OMGGGG my waifu is backkkk! No waifu no laifu QAQ <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Paper**<br>
 Jesus second comment and already someone is banned. This must be some kind of world record LOLOLOL
@@ -1462,7 +1464,7 @@ Yeah\~ thank you, cute girl (Paw Hug)
 
 **VardoR**<br>
 (Pounce) I miss you so much\~\~ <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **C_H_U**<br>
 Dude, have some self\-conscious. She's a cute girl; you're a fat smelly nerd. You're not going to get the same treatment XD
@@ -1495,7 +1497,7 @@ How was it in the bureau??
 
 **NEKO#ΦωΦ**<br>
 The food's pretty tasty actually lolol<br>
-and TBH it's a bit cleaner than NEKO's room d(`Φ∀Φ)b
+and TBH it's a bit cleaner than NEKO's room d(\`Φ∀Φ)b
 
 **NEKOSAIKOU**<br>
 What the.... ROFL
@@ -1559,7 +1561,7 @@ If you were in custody another day I might go riot at the Administration Bureau 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2401"/>[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- [Project Wo]
+## <a id="n2401"/>[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1570,7 +1572,7 @@ If you were in custody another day I might go riot at the Administration Bureau 
 Ladies and germs, even though a lot has happened, nothing can stand between us and video games!<br>
 Thaaaaat's right! NEKO stream, back in business \\(Φˋ口ˊΦ)/ !!!
 
-The game we are streaming today is [Project Wo]\~<br>
+The game we are streaming today is \[Project Wo\]\~<br>
 It's a side\-scrolling adventure game where you have to solve puzzles while dodging attacks from the green creature Wo!<br>
 Special thanks to "Macaca" for the recommendation(\*Φ∀Φ)\~<3
 
@@ -1591,7 +1593,7 @@ NEKO\*\~\\(ΦωΦ)/\~\*
 **HandsomeYi**<br>
 NKEO I love you <br>
 ヽ(Φ∀Φ )人(Φ∀Φ)人( Φ∀Φ)ﾉ <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Uxi**<br>
 \*\~\\(ΦдΦ)/\~\*
@@ -1603,12 +1605,12 @@ Legend has it that this game's producer has a nice head of hair
 What kind of useless fun fact is this XDDD
 
 **NEKO#ΦωΦ**<br>
-Ooohhhh\~ the opening music's pretty good (\*´∀`)\~<3 <br>
+Ooohhhh\~ the opening music's pretty good (\*´∀\`)\~<3 <br>
 Excellent work, developers
 
 **noneXenon**<br>
 That's an abnormal amount of praise coming from NEKO. Wait, is this spon... <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Pooooon**<br>
 Game gives off a really nice feel<3<3<3
@@ -1624,7 +1626,7 @@ Super hard AI XD
 
 **Krab**<br>
 Died 18 times already LOL <br>
-[User is now banned.]
+\[User is now banned.\]
 
 **CHanatsuka**<br>
 On your right!
@@ -1762,7 +1764,7 @@ Ah, she ran away lolol
 Bye Bye\~\~
 
 **NEKO#ΦωΦ**<br>
-[Stream Ends]
+\[Stream Ends\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1799,7 +1801,7 @@ NEKO\#ΦωΦ<3<3
 
 **WhiteEYE**<br>
 You finally discover your actual height number??? <br>
-[User is now banned]
+\[User is now banned\]
 
 **Go55ip**<br>
 Can you smell what NEKO is cooking\~\~\~ I smell gossip!<br>
@@ -1858,21 +1860,21 @@ NEKO\~\~\~<3<3<3
 
 **Watch_Burn**<br>
 Wait, live composing? 4 real? I would seriously laugh my a\*\* off if you fail<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **w_Rosabel_w**<br>
 NEKO's hand\-drawn title card!! It has been a while since we saw one!! I demand MOAR!!
 
 **maplewing**<br>
 NEKO are you literally banning people with your foot<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **NekoSamurai**<br>
 Super panic mode XDDDDD
 
 **DogBark**<br>
 Say, why did you delete that super mega thingy post? Any followup?<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Hulujam**<br>
 Wait a sec lol, why did this guy get banned as well
@@ -1897,7 +1899,7 @@ MEOW Meow\~ Nyan Nyan\~ I'm hungry feed me Meow meow meow meow MEOW\~\~\~ σ(Φ�
 
 **TunaLee**<br>
 What are these gibberish\-filled lyrics LOL<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **KirinKiraKira**<br>
 The bans are on FIRE today!!! So are the cat sounds XD
@@ -1945,7 +1947,7 @@ Then watch all of it at least 10 times!!!!!!
 **Hulujam**<br>
 Dude, that's some serious dedication. <br>
 I get tired of them after like the second time<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **DogBark**<br>
 The ban hammer is hitting as hard as ever today
@@ -1984,11 +1986,11 @@ The owner has a pretty nice taste
 
 **Noposa**<br>
 NEKO\~\~\~ Underaged drinking is illegal ya know<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Rabbitdora**<br>
 Isn't NEKO already in her 20s???<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **maplewing**<br>
 Cccccccombo XDDD
@@ -2067,7 +2069,7 @@ I thought NEKO would never participate in an event like this LOL Looks like I ha
 
 **WhiteEYE**<br>
 NEKO always throws in random mixtapes whenever she's performing live. She has no respect at all for other performers and the audience who bought tickets<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **MYMYM**<br>
 This line\-up is getting more and more stacked!!! I'm going to skip work to watch this. NEKO 4 life!!!!
@@ -2078,7 +2080,7 @@ Decision: Mixed responses from audience<br>
 P.S.: Event website not included in post<br>
 This unit still appreciates **@NEKO\#ΦωΦ** for agreeing to perform on ROBO\_Radio\_LIVE：)
 
-[ROBO\_Radio\_LIVE]
+\[ROBO\_Radio\_LIVE\]
 
 **NEKO#ΦωΦ**<br>
 What do you mean "Mixed responses"!!!!! \\(Φˋ口ˊΦ)/<br>
@@ -2100,7 +2102,7 @@ Poor ROBO, having to provide the URL himself XDDD Ticket purchased already!!
 
 **Cantspell**<br>
 I won't go even if you pay me. I would rather wait for ConneR sensei's next concert.<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **Poopytrap**<br>
 NEKO is my waifu ♡♡♡♡♡
@@ -2112,7 +2114,7 @@ I will prepare your favorite Snow White Nyan Special!! ALL!!YOU!!!CAN!!DRINK!!!!
 Nyan\~<br>
 **\#SnowWhiteNyanSpecialOnSaleNow**<br>
 **\#MilkIsCheapNowAnyway**<br>
-**\#Get20$DiscountOnDrinksWithROBO\_Radio\_LIVETickets**
+**\#Get20\$DiscountOnDrinksWithROBO\_Radio\_LIVETickets**
 
 **Shibawu**<br>
 King of Germs owner for the love of god can you stop imitating NEKO lololol. Have some self\-conscious about how old you are.<br>
@@ -2163,14 +2165,14 @@ Ladies and germs, you are witnessing someone who has too much money and decides 
 I expect no less from NEKO's fans; you guys are the craziest bunch out there XDDD
 
 **Arianaya**<br>
-q̷̀͟͠@͡͡!͘͜$̨̛Y̶͟T̷̸͠Ó҉͠͏8͝҉̡6͏͞7҉̶̵̸̡ś̴d̡̡͢͡͞x̵̷̕͞t̸̕r̡͠ļ̨̨͡f͢҉ḩ͠į̶ģ͢͝L͢҉̶͟t͘͡҉̷8̕͟6̢̛̛ý̷̷̷̸'͏̴̡̧̕
+q̷̀͟͠@͡͡!͘͜\$̨̛Y̶͟T̷̸͠Ó҉͠͏8͝҉̡6͏͞7҉̶̵̸̡ś̴d̡̡͢͡͞x̵̷̕͞t̸̕r̡͠ļ̨̨͡f͢҉ḩ͠į̶ģ͢͝L͢҉̶͟t͘͡҉̷8̕͟6̢̛̛ý̷̷̷̸'͏̴̡̧̕
 
 **Arianaya**<br>
 F\*\*\* why did my recommendation become garbled text!!
 
 **WhiteEYE**<br>
 I would love to dye NEKO's hair. I will use my two hands...<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **xxScarlexx**<br>
 I personally think Sasayaki's modern series are all pretty good<br>
@@ -2225,7 +2227,7 @@ The staff is so hot (Drools
 
 **DogBark**<br>
 Contact information of hot staff please<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **NekoSamurai**<br>
 WOW it's ICECREAMFLY but why did they change their drummer? It was previously an uncle why is it a young guy now.<br>
@@ -2235,7 +2237,7 @@ But the young guy had a decent showing too
 They said that he is a substitute for the day (\*ΦwΦ)
 
 **UltraKY**<br>
-Ooh the slender back of UV's female staff member ha, ha,ha my pants $̵̢́T̵̛͢͟^̀͞W̷̡̢͝E͏̵̛҉y̶̴͞g̶̡͡t̢͢͜y̵̕͜҉ó̴y̵̶̧̛͞7̢҉̀́͏?̵̀͜
+Ooh the slender back of UV's female staff member ha, ha,ha my pants \$̵̢́T̵̛͢͟^̀͞W̷̡̢͝E͏̵̛҉y̶̴͞g̶̡͡t̢͢͜y̵̕͜҉ó̴y̵̶̧̛͞7̢҉̀́͏?̵̀͜
 
 **Curo**<br>
 The garbled text on top could not have come at a better time<br>
@@ -2250,7 +2252,7 @@ This band is nice. I like this laid\-back atmosphere, feels very relaxed
 
 **Watch_Burn**<br>
 Agreed. This is the first time I ever felt relaxed in a NEKO stream<br>
-[User is now banned.]
+\[User is now banned.\]
 
 **NEKO#ΦωΦ**<br>
 NEKO has made a choice! I'm gonna go the knowledgeable/hipster route from now on σ(Φ∀Φ)σ

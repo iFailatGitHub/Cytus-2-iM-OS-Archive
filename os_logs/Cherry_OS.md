@@ -63,7 +63,7 @@ But I do have something important that I want to tell you. If you see this, plea
 
 ## <a id="chos002"/>[#002] Call\_Xenon\_702\_09\_03
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Xenon**<br>
 Hello.
@@ -118,7 +118,7 @@ Thanks. See you then.
 **Xenon**<br>
 See you.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -183,7 +183,7 @@ We three getting together just like the old days. Man, I miss those times.
 **Cherry**<br>
 I was fiddling around iM the other day, and I came across our chatting records. Wanna take a look?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -254,7 +254,7 @@ For your first song, I made a new chord for it. Give it a listen.<br>
 *[Sent at PM 09:24]*
 
 **S.J.**<br>
-[S.J. uploads a sound file]<br>
+\[S.J. uploads a sound file\]<br>
 *[Sent at PM 09:24]*
 
 **JOE**<br>
@@ -409,7 +409,7 @@ Ah, got customers. You guys can go on.
 
 *\[Door Closes\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -497,7 +497,7 @@ Pfft! But he's not a good singer though. His singing is so damn horrible. Hahaha
 **KAI**<br>
 Haha! You serious? Man, I want to hear it!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -622,7 +622,7 @@ What sorry? Now drink! I'm going to get all you boys so drunk that you forget ev
 **Xenon**<br>
 Wait, I really can't...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -739,7 +739,7 @@ Whether it's dangerous or not, let me help you. Take it as a small compensation 
 **Xenon**<br>
 ...Ok.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -823,7 +823,7 @@ Give me a minute. I'll go and get something inside.
 **Cherry**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -905,7 +905,7 @@ This is just like a spy movie.
 **Xenon**<br>
 This is not a movie though... stay cautious.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -948,7 +948,7 @@ Chris
 |**Cherry**|  8  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Chris**<br>
 Hello. This is Monophonic Entertainment. I'm Chris. How may I help you?
@@ -993,7 +993,7 @@ All in all, the performance is already scheduled. The company hosting the event 
 **Cherry**<br>
 ... Understood. Bye.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1005,7 +1005,7 @@ All in all, the performance is already scheduled. The company hosting the event 
 |**Cherry**|  9  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Cherry**<br>
 Hello, it's me.
@@ -1068,7 +1068,7 @@ Ok, ok. See ya you cream Puff.
 **Xenon**<br>
 ... Is this a thing? Why's everyone using this term?
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1099,7 +1099,7 @@ Location: Node 08 \- Quadrant III, 76th Street
 **Xenon**<br>
 Tch, still can't get anything...? As expected, it's quite difficult to do so without knowing the exact location and direction...
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **[Xenon-A.I.]**<br>
 *Rewind complete. Communication records that match criteria: 1.*
@@ -1142,7 +1142,7 @@ So you said you are going to investigate on your own, yet you brought a pair of 
 **Xenon**<br>
 ... Let's get going.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Cherry**<br>
 Ah\~ Ah\~ Ah\~ Test, Test.
@@ -1178,7 +1178,7 @@ Ok. My A.I. is performing the rewind now. May need some time.
 **Cherry**<br>
 ... Hey, did you remember that arcade right ahead? The one we used to visit a lot to play video games?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1260,7 +1260,7 @@ Oh! Great! Remember the feeling you have right now. Flex your diaphragm to slow 
 
 *\[Gunshot\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1313,7 +1313,7 @@ YEAH! Get her!
 **Cherry**<br>
 Interesting! Bring it on!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **[Arcade Shooter]**<br>
 *Time Over! Player1 Cherry WIN!*
@@ -1390,7 +1390,7 @@ WHAT!? I'm going to challenge again! Damnit!
 **Xenon**<br>
 ... *\*Sighs\**.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1459,7 +1459,7 @@ Yes, sir! Captain Xenon!
 **Xenon**<br>
 OK, OK, I get it. The pedestrians are staring at you, so get going.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1502,7 +1502,7 @@ Woah, it is really cold. Let's go up.
 **Xenon**<br>
 OK.
 
-*[→Signal switch to Cam\_Elevator\_02]*
+*\[→Signal switch to Cam\_Elevator\_02\]*
 
 **Xenon**<br>
 Are you ok? Feeling drunk?
@@ -1516,7 +1516,7 @@ You sure? You live on floor 48, right? You picked the top floor.
 **Cherry**<br>
 Be quiet and just come with me.
 
-*[→Signal switch to Cam\_Roof\_01]*
+*\[→Signal switch to Cam\_Roof\_01\]*
 
 **Xenon**<br>
 Why are we up here? I'm gonna freeze to death...
@@ -1577,7 +1577,7 @@ I didn't really organize it... I just told them that your birthday may be right 
 **Cherry**<br>
 See, I told you we can see it here, didn't I? The sunrise.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1699,7 +1699,7 @@ Come inside first.
 
 *\[Door Closes\]*
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Xenon**<br>
 ... Are you going to tell me what happened?
@@ -1769,7 +1769,7 @@ I still can't tell you everything now, but I will once I'm ready to do so...
 **Xenon**<br>
 It's ok. I'll be waiting.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1882,7 +1882,7 @@ So she really is your new...
 **Xenon**<br>
 Yeah Yeah\~ she is\~ now stop talking and get on.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1918,7 +1918,7 @@ So you really do come here by yourself for no reason...?
 **Cherry**<br>
 Yes. I come here to repent myself for leaving without ever saying "Sorry" to you...
 
-*[<<< Flashback <<*
+*\[<<< Flashback <<*
 
 ![chos2602.png](./attachments/chos2602.png)
 
@@ -1970,7 +1970,7 @@ You can't accept this, can you? The real me...
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1981,7 +1981,7 @@ You can't accept this, can you? The real me...
 |**Cherry**| 21  |
 
 ### Log Content
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 ![chos2701.png](./attachments/chos2701.png)
 
@@ -2075,7 +2075,7 @@ Strike while the iron is hot. Besides, we would stand out too much if we visit a
 
 *\[Engines On\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2159,7 +2159,7 @@ Even if you're a useless daddy, you're still the best daddy...
 **Luis**<br>
 ……Sherry……
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2238,7 +2238,7 @@ Look, it appears that they have a fixed travel path. Maybe it knows where to ent
 **Xenon**<br>
 Possible. Let's follow it and see.
 
-*[Switch signals to Cam 044]*
+*\[Switch signals to Cam 044\]*
 
 **Xenon**<br>
 Got it. It opens that small door there. We can crawl inside.
@@ -2279,7 +2279,7 @@ You carry something like that with you all the time...? Is that legal?
 **Cherry**<br>
 For self\-defense purposes... That door's closing; let's move!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2305,7 +2305,7 @@ Hey... there's light down there...
 **Xenon**<br>
 Shhhh! There's a person there!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Xenon**<br>
 Give me the gun.
@@ -2344,7 +2344,7 @@ F\*\*\* OFF!!
 
 *\[Pulse Pistol Fires\]*
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Cherry**<br>
 Are you alright !?
@@ -2356,7 +2356,7 @@ She's not moving... did you kill her?
 **Cherry**<br>
 B\*\*\*S\*\*\*! This thing doesn't have the power to kill even if it hits people...
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Xenon**<br>
 ...This... isn't this the hooded female in the picture!?<br>
@@ -2371,7 +2371,7 @@ It... and all this equipment... what in the world...?
 **Cherry**<br>
 Looks like your investigation doesn't end here.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2462,7 +2462,7 @@ The patient is not in a stable condition right now, so it might be a bit difficu
 **Cherry**<br>
 Please! Thank you!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2488,7 +2488,7 @@ Walk straight until you reached the end of the hallway, then turn left. You will
 **Cherry**<br>
 Thank you.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 **Jacob**<br>
 Oh, you're here.
@@ -2565,7 +2565,7 @@ No... nothing...
 **Cherry**<br>
 OK...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2578,7 +2578,7 @@ OK...
 ### Log Content
 *\[Ringtone\]*
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Cherry**<br>
 Hello?
@@ -2616,12 +2616,12 @@ Understood. I'll talk to him about it.
 **[???]**<br>
 *That's it. We will contact you again soon.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Cherry**<br>
 ...... 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2686,7 +2686,7 @@ Hmph! Interesting! Hey, bring that thing out! It's on me!
 **JOE**<br>
 Sighs... Then don't blame me for what's gonna happen next.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2707,7 +2707,7 @@ Whew...... Finally got the Ciber driver to send them away... Big sis, are you ev
 **JOE**<br>
 Hey! Big sis!?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **JOE**<br>
 You awake?
@@ -2788,7 +2788,7 @@ I'm so foolish... After all the things that happened, I still hoped that he'll t
 **JOE**<br>
 ... Get some sleep. Don't blame yourself... We're all living in guilt for our crimes...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2832,7 +2832,7 @@ Hmmm...? What is this? A note?
 **Cherry**<br>
 ......!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Cherry**<br>
 ... "That's more or less it. To be fair, if what Simon said was indeed true, then Big sis should already know about the Cafe and its business as well. Haha, what the hell is going on with Crystal PuNK? Why are there so many hidden identities in this band? Not to mention they are all somehow connected to one another..." 
@@ -2858,7 +2858,7 @@ Idiot... my life... has never been simple...
 **Cherry**<br>
 Idiot...... 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3002,7 +3002,7 @@ Oh, one more thing from Boss. He said that he has been trying his best regarding
 **Cherry**<br>
 ...... Understood.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3117,7 +3117,7 @@ Even so, I'm still going! That's it for now.
 **Luis**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3263,7 +3263,7 @@ Remember to watch the stream. I will use our songs to bring that stupid smile ba
 **JOE**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3362,7 +3362,7 @@ Tch...
 **Cherry**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3396,7 +3396,7 @@ Will we really reach Simon's cell by going down this way?
 **[Rald]**<br>
 *No need to worry, trust me. Later, there will be a brief moment with no signal. Therefore, you'll need to follow my instructions.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Cherry**<br>
 ... I'm curious. If you know the topography down here so well, why hire a gunman? Why don't you just do it yourself?
@@ -3415,7 +3415,7 @@ Will we really reach Simon's cell by going down this way?
 Hey? Hello...?
 
 **[Rald]**<br>
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 **Cherry**<br>
 ... Damnit, signal lost.
@@ -3442,7 +3442,7 @@ The password is incorrect!?
 **Cherry**<br>
 ... We're tricked.
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **[Drone]**<br>
 *Target acquired. Initiate termination process immediately.*
@@ -3477,7 +3477,7 @@ You bastard! How dare you trick me! Where the f\*\*\* am I at right now!?
 *As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
 Feels like your dear friends are in a pretty serious pinch. Allow me to take my leave first.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Explosion\]*
 
@@ -3540,7 +3540,7 @@ If I want to cause him harm, I would've already dragged him out of there. I woul
 **ConneR**<br>
 Chit\-chat time over. You don't have that worthless gun anymore. Follow me if you don't want to die. We still got one more person to rescue.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3589,7 +3589,7 @@ From now on, you guys will act according to my commands. Stay closely behind me.
 **ConneR**<br>
 At you command, Mediator.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **ConneR**<br>
 This is my first time taking this route. Underground tunnels like this one that used to transport goods have not been properly managed since The Decommission, yet the entire system and the drone production still continue to function normally. It's as if this is a dungeon of machines. Truly a magnificent sight.
@@ -3717,7 +3717,7 @@ You two lovebirds can save your squabble for later. We still got work to do. Mad
 **Hunter**<br>
 Yikes! Wait for me! Damn it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3779,7 +3779,7 @@ I don't want to admit this since I am quite confident in my abilities when it co
 **ConneR**<br>
 Thank you for your compliment.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 We haven't seen a single drone the whole time.
@@ -3857,7 +3857,7 @@ That's great!... Ah, authentication required.
 **Xenon**<br>
 Let me try.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Central System]**<br>
 *Authentication success. Welcome, OPCII\_1409\_II.*
@@ -3896,7 +3896,7 @@ Didn't think you're the type to go that far to help others...  I'm a bit surpris
 **ConneR**<br>
 *\*Chuckles\** I would be quite troubled if you decided to just casually treat me as "a good guy".
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3933,7 +3933,7 @@ MuV̶̢̨́≯̢҉̵p̴̧͘̕͡2̴̛́... KIL/̷̡̛͘|́̕ḑ̸... kill them s�
 Who, who's there!?
 
 **?̢͟҉͘͝?̀͜͞?̶̵?̸̶̨̛͘?̛͜҉**<br>
-A̴͜͟l̨̢͟y̸̕͘͠x̶̀̕i̶͏a̸̸̛... Ļ̴́̕͝u͢҉k͜͝͝a͏̛... I'a͟͞^̷̧̧̧̕≠͡҉̴ sorry... It was $̶̨́̀͘x̷̵҉̶̴ me... Damz҉̶̡̛è̶̡͠͞h̸̨̧̕6̸̛͜͟͏...
+A̴͜͟l̨̢͟y̸̕͘͠x̶̀̕i̶͏a̸̸̛... Ļ̴́̕͝u͢҉k͜͝͝a͏̛... I'a͟͞^̷̧̧̧̕≠͡҉̴ sorry... It was \$̶̨́̀͘x̷̵҉̶̴ me... Damz҉̶̡̛è̶̡͠͞h̸̨̧̕6̸̛͜͟͏...
 
 **Cherry**<br>
 ......?
@@ -3944,7 +3944,7 @@ S̵̴̴̨h̡͢e͟͢͠r̴̀r̨̕͟͡ý̨ ̢͏P̨͡a̸͘͝ú̵͘l҉͏̶̴̕i̶̶
 **Cherry**<br>
 Eh... ? What do... you want from me... ? NOO!!!
 
-[Signal≯̢҉̵p̴̧͘̕͡st]
+\[Signal≯̢҉̵p̴̧͘̕͡st\]
 
 [*(Click here to go back to the top)*](#toc)
 

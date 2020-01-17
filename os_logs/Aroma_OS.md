@@ -25,11 +25,11 @@
 - [[#023] cyTus\_Server08\_702\_07\_09](#aos023)
 - [[#024] Audio\_Arena\_702\_07\_27](#aos024)
 - [[#025] Audio\_ARC\_H\_702\_07\_28](#aos025)
-- [[#026] \]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1](#aos026)
+- [[#026] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1](#aos026)
 - [[#027] Audio\_Noah\_702\_08\_03](#aos027)
-- [[#028] \]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2](#aos028)
+- [[#028] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2](#aos028)
 - [[#029] Audio\_Noah\_702\_09\_01](#aos029)
-- [[#030] \]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3](#aos030)
+- [[#030] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3](#aos030)
 - [[#031] Cam\_Noah\_702\_09\_07](#aos031)
 - [[#032] Cam\_Noah\_693\_08\_09](#aos032)
 - [[#033] Cam\_ARC\_H\_694\_05\_12](#aos033)
@@ -76,7 +76,7 @@ Hey, where are you going? You are not in the shape to run around...
 **Bryan**<br>
 It's fine. Both of you didn't suffer severe injuries. Your sister is in the ICU. I'll take you there.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 ![aos0101.png](./attachments/aos0101.png)
 
@@ -149,7 +149,7 @@ We will think of other methods to save her. Please believe in us!
 **Noah**<br>
 ... I'll leave it to you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -232,7 +232,7 @@ Those two... I'll go catch them. Thank you!
 
 *\[Door Opens\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -408,7 +408,7 @@ Understood. Thank you so much.
 **Noah**<br>
 It's the least we can do.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -488,7 +488,7 @@ What did you just say!?
 **Daniel**<br>
 Tch...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -625,7 +625,7 @@ Sighs\~ Seriously, what's the point of having good test scores if you're going t
 **Clara**<br>
 ...... Ah, whatever\~ Forget it. Let's take Aroma on a tour of the Academy. Pretty sure that'll be more helpful than waiting here for that punk.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -647,7 +647,7 @@ I think she stayed in the music classroom after our previous music lesson ended.
 **Clara**<br>
 Got it. Thanks!
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[Door Opens\]*
 
@@ -732,7 +732,7 @@ Sure.
 **Daniel**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1001,7 +1001,7 @@ You girls go first. I'll be there in a minute.
 **Clara**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1078,7 +1078,7 @@ I don't care. You'll have to find a way to deal with him. That's it for now.
 **[Chris]**<br>
 *No, wait a sec...*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Helena**<br>
 What's wrong...? Are you still worried about your body? I believe that continuing to pursue your previous dream should help treat your memory loss as well.
@@ -1104,7 +1104,7 @@ Dumb child, no need to apologize... You don't have to force yourself to do this.
 **Aroma**<br>
 Thank you, sister.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1217,7 +1217,7 @@ Haha... OK.
 **Helena**<br>
 Thank you, Aroma...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1235,7 +1235,7 @@ For today's show, we invited a guest that packs a serious punch. So, let's sit t
 *\[Music\]*
 
 **[Narrator]**<br>
-*PAFF, 19 years old, a superstar of "Monophonic Entertainment". In the two years since her debut, she took over the music industry by storm with her beautiful voice and her gorgeous features. Her two albums so far have captured two consecutive [Best selling female artist] titles in the "Platinum Awards".  However, despite her immense popularity, she rarely talks or interacts with fans in front of the camera, thus earning her the nickname "The Mysterious Diva". What kind of private persona will she show us today?  Let us find out more about PAFF.*
+*PAFF, 19 years old, a superstar of "Monophonic Entertainment". In the two years since her debut, she took over the music industry by storm with her beautiful voice and her gorgeous features. Her two albums so far have captured two consecutive \[Best selling female artist\] titles in the "Platinum Awards".  However, despite her immense popularity, she rarely talks or interacts with fans in front of the camera, thus earning her the nickname "The Mysterious Diva". What kind of private persona will she show us today?  Let us find out more about PAFF.*
 
 **Host**<br>
 Before we welcome our guest, a quick reminder for our audiences: today's show will have a holographic live stream on iM as well\~ Fellow Puffers, connect to cyTus ASAP to have a close encounter with PAFF!<br>
@@ -1350,7 +1350,7 @@ Before we continue with the fan questions, we would like PAFF to give us a live 
 **Aroma**<br>
 Ah, okay...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1417,7 +1417,7 @@ Eh? Didn't you say you were hungry?
 **Helena**<br>
 ... Alright.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Music\]*
 
@@ -1467,7 +1467,7 @@ Aroma, leave most of the things to sis. I'll deal with them for you.
 **Aroma**<br>
 Understood.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1516,7 +1516,7 @@ They're almost done recording, right? Enough talking\~ NEKO's going inside. Bye\
 **Chris**<br>
 Hey... hey, wait a minute!
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 **Helena**<br>
 Good work, Aroma. You're in top form today.
@@ -1542,7 +1542,7 @@ Please.
 **Aroma**<br>
 Thanks for the good work.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **NEKO#ΦωΦ**<br>
 What!? Let NEKO go through!
@@ -1573,7 +1573,7 @@ Understood.
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Bodyguard T]**<br>
 *Sister Helena, the car is ready. The traffic is a bit busy right now. We could be cutting it a bit too close...*
@@ -1609,7 +1609,7 @@ Alright...
 
 ![aos1301.png](./attachments/aos1301.png)
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 **Helena**<br>
 Hello, NEKO. The recording today went very smoothly. Thank you for the song you wrote.
@@ -1635,7 +1635,7 @@ Ehehehe? Why\~? Ok then... You have to make that arrangement though! Deal?
 **Helena**<br>
 Yes yes\~ It's a deal. Then I shall take my leave as well.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1777,7 +1777,7 @@ Yeah yeah! None of your business! Hmph!
 **Chris**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1815,7 +1815,7 @@ Then find someone to explain this BS to me clearly!
 **Helena**<br>
 I think I'll go take a look. You should finish practicing the remaining parts.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 **NEKO#ΦωΦ**<br>
 I've had it with you people! Do you have any idea how many times this has happened!?
@@ -1888,7 +1888,7 @@ No need to worry. If anything happens, sister will handle it.
 **Aroma**<br>
 ... Got it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1914,7 +1914,7 @@ The schedule, remuneration, and event details are in the proposal.
 Hope Miss PAFF can perform at this event.<br>
 Awaiting your response.
 
-[Æsir\-MUSIC FESTIVAL Proposal]
+\[Æsir\-MUSIC FESTIVAL Proposal\]
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2062,7 +2062,7 @@ Button up, slowpoke. If something goes wrong, I'm coming for you. Here, Aroma, l
 **Aroma**<br>
 ... OK.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2183,7 +2183,7 @@ Aroma only has to focus on singing. You don't have to worry about random things.
 **Aroma**<br>
 OK...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2275,7 +2275,7 @@ Yes.
 
 ![aos1901.png](./attachments/aos1901.png)
 
-*[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*
+*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2372,7 +2372,7 @@ Hmm?
 **Aroma**<br>
 No... nothing at all.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2483,7 +2483,7 @@ I'll go wash my face. Aroma, take a rest.
 **Aroma**<br>
 ... OK.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2527,7 +2527,7 @@ Aroma, you can start.
 **Aroma**<br>
 OK.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[cyTus login\]*
 
@@ -2541,7 +2541,7 @@ Good afternoon everybody. This is PAFF. ^^
 
 ![aos2301.png](./attachments/aos2301.png)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Chris**<br>
 PAFF is starting to use emoticons now
@@ -2602,7 +2602,7 @@ Negative. Logout now. Your stabilizer has been sending out warnings nonstop.
 **PAFF-Official**<br>
 OK... I'll say goodbye to everyone.
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 **Aroma**<br>
 Everyone feels a bit disappointed...
@@ -2636,7 +2636,7 @@ Sister... I'm so scared... I can't remember anything before the memory loss... N
 Aroma...<br>
 I, it's ok. No need to be scared. I'll contact Noah ASAP. He'll think of a way to help you...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2741,7 +2741,7 @@ It has been fine recently...
 No, I can't let sister and others worry about me...<br>
 It's not that serious. I can do this...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Helena]**<br>
 Aroma... No, "Miss PAFF", it is time. Please come to the backstage for final preparations.<br>
@@ -2753,7 +2753,7 @@ Sister...
 **Aroma**<br>
 ... I'll be right there.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2808,11 +2808,11 @@ Don't overthink yourself. You need to rest. I'll apply some medication to make y
 **Aroma**<br>
 OK...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos026"/>[#026] ]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1
+## <a id="aos026"/>[#026] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2827,17 +2827,17 @@ Hmm... Still 8̶̧̀̕\~̶͢͞8̸̶͜@̧̡͏̡͡...
 *\[Guitar\]*
 
 **？？？**<br>
-Much better... No, t̴̵̴̷̨Q̨̕c҉͞͞F̵̢̛͡(̴͟x̢̛͢҉[̶̶̕͢ much... Argh, what \*̵̀̕͘͘9҉̸q̢̢҉̸?
+Much better... No, t̴̵̴̷̨Q̨̕c҉͞͞F̵̢̛͡(̴͟x̢̛͢҉\[̶̶̕͢ much... Argh, what \*̵̀̕͘͘9҉̸q̢̢҉̸?
 
 **？？？**<br>
-Hey, why \*̵̀̕͘͘9҉̸q̢̢҉̸ sulking like that? Che$̵̢͝͞"͘͜͜͡8̧͠҉͘ up!
+Hey, why \*̵̀̕͘͘9҉̸q̢̢҉̸ sulking like that? Che\$̵̢͝͞"͘͜͜͡8̧͠҉͘ up!
 
 **？？？**<br>
 Yikes! You sc'҉̷̛̛́r̷͘͢b͏̸̧͝Ǹ̵̕?͏҉͘/̨͠ me...<br>
 Umm... Thanks for the hard work. I've set up all the equipment.
 
 **？？？**<br>
-Haha, wh^̷͜͝҉3͘҉҉҉p̛͏̷̨2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴C̸̨̢̡ work? Thanks 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴\~ I'll [͏̴͢͟ś̨[̷̵̨̨͢Z̡̧͢͜͡ keyboard right away. Gimb͏̸̧͝Ǹ̵̕?͏҉͘ minute.
+Haha, wh^̷͜͝҉3͘҉҉҉p̛͏̷̨2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴C̸̨̢̡ work? Thanks 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴\~ I'll \[͏̴͢͟ś̨\[̷̵̨̨͢Z̡̧͢͜͡ keyboard right away. Gimb͏̸̧͝Ǹ̵̕?͏҉͘ minute.
 
 **？？？**<br>
 Sure... \\̶̶̷̀&̴̡̡͡\_҉̷͜͞;̸͢͞͝d̷̨̛́ restaurant today?
@@ -2846,7 +2846,7 @@ Sure... \\̶̶̷̀&̴̡̡͡\_҉̷͜͞;̸͢͞͝d̷̨̛́ restaurant today?
 X̴͟͟Ş͟͜͠\\͞҉͠P̨̛͢\\̷̵̨́'̡̛̛|͠͞ always. +̡͠͡!͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ water, washing ù҉Ś̵̵͟͞es, greeting customers, occasionall y\\͞҉͠P̨̛͢\\̷̵̨́\\͞҉͠P̨̛͢\\̷̵̨́ yelled at by the head chef. My god\~ my ears !͏̵̡͢͠2̶̨͜}̛̀͢҉ù҉Ś̵̵͟͞B̶̧҉ ringing.
 
 **？？？**<br>
-Ahaha... He really]̶҉̵͘͝?̵͡\-̸͏̧́̀ǹ̶҉x̶̢
+Ahaha... He really\]̶҉̵͘͝?̵͡\-̸͏̧́̀ǹ̶҉x̶̢
 
 **？？？**<br>
 You don'tą҉̴̛d̛̛E̶͟͞%͘͟͢͜͠ą҉̴̛d̛̛E̶͟͞う! How %͘͟͢͜͠ą҉̴̛d̛̛ you take today off! It was P̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴! You got p̡҉͘2̴̶̛͏͟ easy...
@@ -2858,10 +2858,10 @@ Sorry. I had other work k͢҉̡͝(̢͘҉̀d̸̶/̷̨D̨̢͘\\̴͘͟͢>̵͟k͢҉(
 Nah, it's fine. You did well... Oh, right! ą҉̴̛D̶̸̢̛̀&̨̛͠͝Ḿ͟͢͞͡/̸̡̨d̛̛E̶͟͞%͘͟͢͜͠ą҉̴̛D̶̸̢̛̀&̨̛͠͝Ḿ͟͢͞͡/̸̡̨ will both come to watch us perform! They ą҉̴̛D̶̸̢̛̀&̨̛͠͝ the restaurant today Ḿ͟͢͞͡/̸̡̨d̛̛E̶͟͞
 
 **？？？**<br>
-Yikes... The pressure f̨́͞]҉̸̸̀$̵̢͝͞\\̵̴̶͢q҉̴É͞͞ higher...
+Yikes... The pressure f̨́͞\]҉̸̸̀\$̵̢͝͞\\̵̴̶͢q҉̴É͞͞ higher...
 
 **？？？**<br>
-ǹ̶҉x̶̢2̴̶̸͞f̨́͞]҉̸̸̀\$̵̢͝͞\\̵̴̶͢q҉̴É͞͞ was originally going to come too, but her N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨ not getting any better. It took me quite the effort ų̸̡̨͞N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨ stay at home a̡͡x̴̵̛͝͠à̴͢͠ų̸̡̨͞.
+ǹ̶҉x̶̢2̴̶̸͞f̨́͞\]҉̸̸̀\$̵̢͝͞\\̵̴̶͢q҉̴É͞͞ was originally going to come too, but her N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨ not getting any better. It took me quite the effort ų̸̡̨͞N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨ stay at home a̡͡x̴̵̛͝͠à̴͢͠ų̸̡̨͞.
 
 **？？？**<br>
 I see... I hope É̢S̶҉̶̧P̶̵̡͢͠p̡҉͘2̴̶̛͏͟N̸̴̨͞z̵͢͝ś̨ can recover from her illness soon.
@@ -2870,11 +2870,11 @@ I see... I hope É̢S̶҉̶̧P̶̵̡͢͠p̡҉͘2̴̶̛͏͟N̸̴̨͞z̵͢͝ś̨
 ......
 
 **？？？**<br>
-Aww, come on\~ Why t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ long face! Even [͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ looks sad! e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́ good music with a 3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́
+Aww, come on\~ Why t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ long face! Even \[͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴ looks sad! e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́ good music with a 3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠y̶̷̷/̷͡8̵̴B̶̕͝͝9̵̛͘͢T͢"̵̷̨́
 
 **？？？**<br>
 I, I... I am G̀͜@̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟d̡̛҉x͘͟͝>̶̸xious.<br>
-After all, this is 7̷͏̨\\̷̷̨͜͝6̷̶̶̢̛e̴͢͜͝͞t̴̵̴̷̨]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠ćY̧͘)̷͘͢ district... If the ;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠ć is lukewarm, I'll feel a bit... @̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟rt.
+After all, this is 7̷͏̨\\̷̷̨͜͝6̷̶̶̢̛e̴͢͜͝͞t̴̵̴̷̨\]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠ćY̧͘)̷͘͢ district... If the ;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠ć is lukewarm, I'll feel a bit... @̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟rt.
 
 **？？？**<br>
 You little... We've perfork͢҉̡͝(̢͘҉̀d̸̶/̷̨h̶͢͝%͘͟͢͜͠/̷͡8̵̴B̶̕͝͝9̵̛͘͢\\̴͘͟͢ times already... Come, place your /̷̨h̶͢͝%͘͟͢͜͠/̷͡ here.
@@ -2883,18 +2883,18 @@ You little... We've perfork͢҉̡͝(̢͘҉̀d̸̶/̷̨h̶͢͝%͘͟͢͜͠/̷͡8̵
 Are we &̨̛͠͝Ḿ͟͢͞͡/̸̡̨d̛̛E̶͟͞ again? I don't want to...
 
 **？？？**<br>
-Shd̸̶/̷̨ it! This is a magic trick taught to me ]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠. If you ;̵͟͠'҉͘͝͝X̶̷́̀̕4̷f̨́͞]҉̸̸̀É͞͞Q҉̸̴̷ȩ̨̢͟d̡̛҉～ like this, the feeling of anxiousness f̨́͞]҉̸̸̀É͞͞Q҉̸̴̷appear. )̶̡v̷̛͞h̷̡̕͡ only taught this )̶̡v̷̛͞h̷̡̕͡th4̷f̨́͞]҉̸̸̀É͞͞Q҉̸̴̷ȩ̨̢͟, you, so far!
+Shd̸̶/̷̨ it! This is a magic trick taught to me \]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠. If you ;̵͟͠'҉͘͝͝X̶̷́̀̕4̷f̨́͞\]҉̸̸̀É͞͞Q҉̸̴̷ȩ̨̢͟d̡̛҉～ like this, the feeling of anxiousness f̨́͞\]҉̸̸̀É͞͞Q҉̸̴̷appear. )̶̡v̷̛͞h̷̡̕͡ only taught this )̶̡v̷̛͞h̷̡̕͡th4̷f̨́͞\]҉̸̸̀É͞͞Q҉̸̴̷ȩ̨̢͟, you, so far!
 
 **？？？**<br>
-Owow... That hurt f͝҉̢͞}̡́͜͡6̸̸͢͏w̨͏̶̷̶y̸̨̨t҉̷u҉͡X̴̛͏̸\`̷͠Ņ͏̧̕]̡̧̛͞\-̸̢̨̧҉!̶̢̨̕͠！! You X̴̛͏̸`̷͠Ņ͏̧̕\]̡̧̛͞\-̸̢̨̧҉!̶̢̨̕͠ force into it! My skull is 6̸̸͢͏w̨͏̶̷̶y̸̨̨t҉̷u҉͡X̴̛͏̸ crack!
+Owow... That hurt f͝҉̢͞}̡́͜͡6̸̸͢͏w̨͏̶̷̶y̸̨̨t҉̷u҉͡X̴̛͏̸\`̷͠Ņ͏̧̕\]̡̧̛͞\-̸̢̨̧҉!̶̢̨̕͠！! You X̴̛͏̸\`̷͠Ņ͏̧̕\]̡̧̛͞\-̸̢̨̧҉!̶̢̨̕͠ force into it! My skull is 6̸̸͢͏w̨͏̶̷̶y̸̨̨t҉̷u҉͡X̴̛͏̸ crack!
 
 **？？？**<br>
-Hahaha, blame yourself! If you get nervous R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟, how areP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕ stage? <br>
-Didn't 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏? That we are p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏ our songs p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠?
+Hahaha, blame yourself! If you get nervous R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟, how areP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕ stage? <br>
+Didn't 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝こP̶̵̡͢͠p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏? That we are p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏ our songs p̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠?
 
 **？？？**<br>
-Yes, the "music world"\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ g dreams... <br>
-t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ get [͏̴͢͟R̷̀̕ there. You are different than me. You shouldn't ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟d crappy place like this.
+Yes, the "music world"\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ g dreams... <br>
+t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ get \[͏̴͢͟R̷̀̕ there. You are different than me. You shouldn't ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟d crappy place like this.
 
 **？？？**<br>
 ...... What is that... You havep̡҉͘2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴&̴̡̡͡ there 2̴̶̛͏͟t̷̸̵͡k̷̢̡͜͜, t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴&̴̡̡͡.
@@ -2903,7 +2903,7 @@ t̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R�
 Huh?
 
 **？？？**<br>
-Noth@̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟... Oh, ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟ starting N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ gather. e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡  ready?<br>
+Noth@̸̵͏̸̴Q҉̸̴̷ȩ̨̢͟... Oh, ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟ starting N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ gather. e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡  ready?<br>
 Ah\~Ah\~, Mic test, mic test\~
 
 *\[Audience applauds\]*
@@ -2913,7 +2913,7 @@ Ah, just give me3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡o
 
 ![aos2601.png](./attachments/aos2601.png)
 
-*[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*
+*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2948,7 +2948,7 @@ The fans are all worried about you. Look at all these letters and gifts.
 I saw them.<br>
 Since I already arrived home, I need to report my status to everyone on iM.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -2999,7 +2999,7 @@ Ah, nothing...
 **Aroma**<br>
 Thank you.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -3048,11 +3048,11 @@ Hmm?
 **Aroma**<br>
 ... Nothing. I... I really like this song.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos028"/>[#028] ]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2
+## <a id="aos028"/>[#028] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3071,27 +3071,27 @@ Hahaha, told É̢S̶҉̶̧P̶̵̡͢͠ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&�
 We '̴̸̧͡2̨͘͢&҉̨̛҉3̵̢̕4̢̛̀̕^̵́S̶҉̶̧P̶̵̡͢͠ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ the first few songs, so we had the head |҉̡́@̴͞Y̵̛̕͟͝w̕͏҉͟p̵͜e҉͜҉\~ pack up the leftovers. He wasY̵̛̕͟͝w̕͏҉͟p̵͜e҉͜҉い, yelling things like "How dare '̴̸̧͡2̨͘͢&҉̨̛҉3̵̢̕4̢̛̀̕^̵́S̶҉̶̧P̶̵̡͢͠ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ my cooking! My c'̴̸̧͡2̨͘͢&҉̨̛҉3̵̢̕4̢̛̀̕^̵́S̶҉̶̧P̶̵̡͢͠ḩ͘͡͏̴e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡ be enjoyed right here!"...
 
 **？？？**<br>
-He got $̨̧́҉A̡҉̷̶Z̡̛͠\-͟͏̀;̨҉͠͡P̷̀͡ that he accidentally swiped away his chef ḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘. He really has ḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘! Haḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘!
+He got \$̨̧́҉A̡҉̷̶Z̡̛͠\-͟͏̀;̨҉͠͡P̷̀͡ that he accidentally swiped away his chef ḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘. He really has ḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘! Haḑ̕͜4̶͠+̷4̧҉{҉̢͟͏c̨͘!
 
 *\[Audience laughter\]*
 
 **？？？**<br>
-Haha, you &̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ś̨[̷̵̨̨͢ so...
+Haha, you &̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ś̨\[̷̵̨̨͢ so...
 
 **？？？**<br>
-If that's the case, we can't disappoint ]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠! Are you prept̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡?
+If that's the case, we can't disappoint \]̷͢;̢̛҉҉w̶͘̕͠͞)̶̡v̷̛͞h̷̡̕͡f̸̢̢͠! Are you prept̷̸̵͡k̷̢̡͜͜ḩ͘͡͏̴e͡?
 
 **？？？**<br>
 No problem...@̴;̢̧͟͡|͜͢҉̴́7͢͡。 begin.<br>
-... Our &̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ś̨[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́ towards &̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ś̨[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́.
+... Our &̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ś̨\[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́ towards &̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ś̨\[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́.
 
 **？？？**<br>
 ... Yes.
 
 **？？？**<br>
-Well then, here's @̸̧̧͜ẁ̧̨͟s̡̀͝]̸̧̢̨|̨͘'҉͏̨҉͟ song!
+Well then, here's @̸̧̧͜ẁ̧̨͟s̡̀͝\]̸̧̢̨|̨͘'҉͏̨҉͟ song!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Audience applauds\]*
 
@@ -3102,7 +3102,7 @@ Thank you Q̨̛͜͠͠g̵̷̡S̵͏̕͢=̷̶̧̀T̶̕͏2̢̀͢͢͠S͏̛͡҉̕≠͘
 It's 3̸҉{̷̷͠T̸̷̛͟P̷̶̵?̶͟X̴͘͘͞'̴̛̀͞E͜͏̷v̵̴͜q̕͘͠t̸́Ǹ was too good!
 
 **？？？**<br>
-k̷̷̴͝ḑ̡͜`̴̢5͡҉͝҉， Thanks\~
+k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉， Thanks\~
 
 **？？？**<br>
 Audience, please give k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉に applause k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉に partner k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉に as well! He wrote %̧́͠͏(̢́̀͘F̷̀̕!̵͢͠҉r̢>̵͟W͞k͢҉̡͝(̢͘҉̀d̸̶/̷̨ our k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉に!
@@ -3113,14 +3113,14 @@ Audience, please give k̷̷̴͝ḑ̡͜\`̴̢5͡҉͝҉に applause k̷̷̴͝ḑ͜
 EH? Ummm... Ha, hahaha...
 
 **？？？**<br>
-Hoho\~ Look at him, he's emba'̢͘͞p͏̀(̨̀͡`̡͏͏̸̛,̶҉̛͢Ǹ̵͠͞ His entire face H̢́҉X͏̀͝͏̨H̶͞
+Hoho\~ Look at him, he's emba'̢͘͞p͏̀(̨̀͡\`̡͏͏̸̛,̶҉̛͢Ǹ̵͠͞ His entire face H̢́҉X͏̀͝͏̨H̶͞
 
 *\[Audience laughter\]*
 
 ![aos2801.png](./attachments/aos2801.png)
 
 **？？？**<br>
-Well then, we've M̴͜͞y͟҉̸7̷̡͘͡D̕>̵̧̀͘͠}̧̀̕҉>̛́ songs and received g̛̛͘͟͞M̴͜͞y͟҉̸7̷̡͘͡D̕>̵̧̀͘͠}̧̀̕҉>̛́M̛͘5̴̨̀Z̷]̵̢͘͡4̵̧͞͞...<br>
+Well then, we've M̴͜͞y͟҉̸7̷̡͘͡D̕>̵̧̀͘͠}̧̀̕҉>̛́ songs and received g̛̛͘͟͞M̴͜͞y͟҉̸7̷̡͘͡D̕>̵̧̀͘͠}̧̀̕҉>̛́M̛͘5̴̨̀Z̷\]̵̢͘͡4̵̧͞͞...<br>
  M̴͜͞y͟҉̸7̷̡͘͡D̕ it for our p͏͏̀͜U͢G̀̀Y̵̨͞͏,̡͘ę̷́ḑ͘r̴̴͟͡2̛͞\#̷̛͝͠d̡̡̡͜͡3̸҉{̷̷͠T̸̷̛͟P̷̶̵ everybody!
 
 *\[Audience laughter\]*
@@ -3132,14 +3132,14 @@ What 8̶́̕s̵̷̴̷̸,̶̢͢/̸̨M̷͞҉S̸̴͜͟>̵͢C̴̨e̸̛2 two songs!
 Pfft...
 
 **？？？**<br>
-x̴̵̛͝͠à̴͢͠ų̸̡̨͞N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨\~̨̀́"͘͜͜͡\$̵̢͝͞\\̵̴̶͢q҉̴9̵̛́͜=̷́͜͞w͏͜͡b̡̧́̕̕;̵͟͠'҉͘͝͝！not as [͏̴͢͟R̷̀̕z̵͢͝ś̨[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́C̸̨̢̡T҉͘͘\\̴̷̧͘\_҉̷͜͞;̸͢͞͝d̷̨̛́C̸̨̢̡T҉͘͘\\̴̷̧͘Ḑ̶͘̕, right?
+x̴̵̛͝͠à̴͢͠ų̸̡̨͞N͏̀͡r̷҉̀k̶̛͝)̶̡̕\$̶҉'͘͢^̷̨͟҉̛X̸̛@̵͟͞͠G̴̛̛͢,̴͘͘͢n̶̨\~̨̀́"͘͜͜͡\$̵̢͝͞\\̵̴̶͢q҉̴9̵̛́͜=̷́͜͞w͏͜͡b̡̧́̕̕;̵͟͠'҉͘͝͝！not as \[͏̴͢͟R̷̀̕z̵͢͝ś̨\[̷̵̨̨͢Z̡̧͢͜͡\_҉̷͜͞;̸͢͞͝d̷̨̛́C̸̨̢̡T҉͘͘\\̴̷̧͘\_҉̷͜͞;̸͢͞͝d̷̨̛́C̸̨̢̡T҉͘͘\\̴̷̧͘Ḑ̶͘̕, right?
 
 **？？？**<br>
 I guess... so.
 
 **？？？**<br>
-Gues"̵̷̨́ừ̴̧́[̶̢͠͏̀m̡͜͜G̸̵̢͜͞x̢̢̀́Y̶̨̛͘n҉̨͝?̸M̷̴̴ doubts\~<br>
-Then I'll ask N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡[͏̴͢͟R̷̀̕z̵͢͝ś̨ guys wantC҉̵͜8̧͠҉͘Ş͟͜͠\\͞҉͠+̡͠͡!͏̵̡͢͠2̶̨͜ sing?
+Gues"̵̷̨́ừ̴̧́\[̶̢͠͏̀m̡͜͜G̸̵̢͜͞x̢̢̀́Y̶̨̛͘n҉̨͝?̸M̷̴̴ doubts\~<br>
+Then I'll ask N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡\[͏̴͢͟R̷̀̕z̵͢͝ś̨ guys wantC҉̵͜8̧͠҉͘Ş͟͜͠\\͞҉͠+̡͠͡!͏̵̡͢͠2̶̨͜ sing?
 
 **？？？**<br>
 YES!
@@ -3155,13 +3155,13 @@ Hahaha...
 
 **？？？**<br>
 Can't &̴̢̛v̶̡̡̛͞=̶͢͟҉̸à̸͏<br>
-If that'%̧́͠͏(̢́̀͘F̷̀̕!̵͢͠҉r̢>̵͟W͞k͢҉̡͝(̢͘҉̀d̸̶/̷̨h̶͢͝%͘͟͢͜͠ą҉̴̛D̶̸̢̛̀&̨̛͠͝y̸̨̨t҉̷u҉͡X̴̛͏̸`̷͠, everyone!?
+If that'%̧́͠͏(̢́̀͘F̷̀̕!̵͢͠҉r̢>̵͟W͞k͢҉̡͝(̢͘҉̀d̸̶/̷̨h̶͢͝%͘͟͢͜͠ą҉̴̛D̶̸̢̛̀&̨̛͠͝y̸̨̨t҉̷u҉͡X̴̛͏̸\`̷͠, everyone!?
 
 *\[Audience applauds\]*
 
 *\[Music\]*
 
-*[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*
+*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3299,11 +3299,11 @@ Sister...
 **Aroma**<br>
 What... just what am I... 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos030"/>[#030] ]́/̸̨͠\-͟͢E̸\_.($̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3
+## <a id="aos030"/>[#030] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3311,35 +3311,35 @@ What... just what am I...
 
 ### Log Content
 **？？？**<br>
-5̴͘͜D͏̷͏"̶͢͞...... Ų͠t͠şR̸̀Z̸̶͘leave first. I want to go to@҉̷̨T̡́ shopping strip... Sor%̨͞`̶b̶.̶̀͜e̸F̴̕̕ escort you home.
+5̴͘͜D͏̷͏"̶͢͞...... Ų͠t͠şR̸̀Z̸̶͘leave first. I want to go to@҉̷̨T̡́ shopping strip... Sor%̨͞\`̶b̶.̶̀͜e̸F̴̕̕ escort you home.
 
 **？？？**<br>
-\#҉&͜3̨̛́?͘͝T̴҉̕s̨Z̶about it. Our performance today was a great success! "r͝$̧}̵̕͞ happier!
+\#҉&͜3̨̛́?͘͝T̴҉̕s̨Z̶about it. Our performance today was a great success! "r͝\$̧}̵̕͞ happier!
 
 **？？？**<br>
 Haha... Can e͟%̶̡͟\#̧͝h͝|́͘%͝ dinner Ǵ̢̛͜͟S̷̡̨̛͜)̢͜͝z̨͜͢͜ tomorrow? We might want to review Á̧̕̕͏Y̶͘U̵̧͘͟...<br>
 Ah, not that yours >̷̀\#̛͠?̧ wrong. It's mostly \\͞҉͠+̡͠͡!͏̵̡͢͠2̶̨͜ me.
 
 **？？？**<br>
-Here you go again\~ If it's tomorrow, ,̷,͜͝[̨g̵!̡̕\`̢}̸͜ until I get off work. {̧́͟;̴̸̵͝\~̷̢̀͘͜r̢̢H̸͟͝,̷,͜͝[̨g̵!̡̕\`̢}̸͜s̷̡̕͜b̴̧̧͢͜Z҉̨ too late?
+Here you go again\~ If it's tomorrow, ,̷,͜͝\[̨g̵!̡̕\`̢}̸͜ until I get off work. {̧́͟;̴̸̵͝\~̷̢̀͘͜r̢̢H̸͟͝,̷,͜͝\[̨g̵!̡̕\`̢}̸͜s̷̡̕͜b̴̧̧͢͜Z҉̨ too late?
 
 **？？？**<br>
 Not at all. I'll wait for you.
 
 **？？？**<br>
-Gotc n̶͟͏Z̀̕͠)̶́͞͡͞:̨͢k̶͡͡.̧͟҉҉K̸̀͏orro[҉a͝9̷̶̛ then. A̴̡͘R̴͜t͏̵bye!
+Gotc n̶͟͏Z̀̕͠)̶́͞͡͞:̨͢k̶͡͡.̧͟҉҉K̸̀͏orro\[҉a͝9̷̶̛ then. A̴̡͘R̴͜t͏̵bye!
 
-*[Signal Switches]*
-
-*\[Footsteps\]*
-
-**？？？**<br>
-Good. }̕͠҉̵͝E͏҉X҉͏̵̨^̷̡̡͟͠?̴̶̧̨`̴̨͘͝͞t̕͡͠͞\-̷̵͘ go back9͏y̢͟5̵̀͢r̷͝"̕)̡͞]̴̧ Hnnnggg... Dang, this keyboard is heavy.
+*\[Signal Switches\]*
 
 *\[Footsteps\]*
 
 **？？？**<br>
-F͠ǹ̶҉x̶̢2̴̶̸͞a̴̕͘͜a̡͡sang a few [̷́҉y̴͞$͡͡H̛ many songs. It's getting really late... x̴̵̛͝͠à̴͢͠x̴̵̛͝͠à̴͢͠ probably already asleep?
+Good. }̕͠҉̵͝E͏҉X҉͏̵̨^̷̡̡͟͠?̴̶̧̨\`̴̨͘͝͞t̕͡͠͞\-̷̵͘ go back9͏y̢͟5̵̀͢r̷͝"̕)̡͞\]̴̧ Hnnnggg... Dang, this keyboard is heavy.
+
+*\[Footsteps\]*
+
+**？？？**<br>
+F͠ǹ̶҉x̶̢2̴̶̸͞a̴̕͘͜a̡͡sang a few \[̷́҉y̴͞\$͡͡H̛ many songs. It's getting really late... x̴̵̛͝͠à̴͢͠x̴̵̛͝͠à̴͢͠ probably already asleep?
 
 *\[Footsteps\]*
 
@@ -3351,7 +3351,7 @@ F͠ǹ̶҉x̶̢2̴̶̸͞a̴̕͘͜a̡͡sang a few [̷́҉y̴͞$͡͡H̛ many songs
 **？？？**<br>
 ... It can't be...
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[Hurried Footsteps\]*
 
@@ -3369,7 +3369,7 @@ Damnit...
 ......
 
 **？？？**<br>
-W, who t͘͠,̷,͜͝[̨g̵!̡̕ you? What p̡҉͘2̴̶̛͏͟t̷̸̵͡ want!?
+W, who t͘͠,̷,͜͝\[̨g̵!̡̕ you? What p̡҉͘2̴̶̛͏͟t̷̸̵͡ want!?
 
 **？？？**<br>
 Don't come near me!
@@ -3392,7 +3392,7 @@ You're not getting away!
 **？？？**<br>
 AHH2҉҉n4́͡b̢͘7̛͡͡3̷̛͘>̡͠g͞8!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3467,7 +3467,7 @@ Noah, do something!!
 **Noah**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3523,7 +3523,7 @@ Sister is not coming home tonight, so I can stay up a bit later. However, it's a
 **Aroma**<br>
 Goodnight\~
 
-*[Call ends]*
+*\[Call ends\]*
 
 **Aroma**<br>
 Yawns\~ Tuner\-san, set the alarm clock. I'm going to bed.
@@ -3613,7 +3613,7 @@ You should've realized for a while now, right? Compare to Helena... I rather... 
 **Aroma**<br>
 No...... AHHHHHH!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

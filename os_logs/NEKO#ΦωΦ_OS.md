@@ -89,7 +89,7 @@ You... it's all thanks to them that the evidence I provided could actually influ
 **Xenon**<br>
 ... Ah, we should stop chatting here.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Xenon**<br>
 Hey. Over here.
@@ -137,7 +137,7 @@ Come on\~ tell me what's going on\~
 **Xenon**<br>
 You are so noisy... I'll tell you once we leave here. There's a s\*\*\* ton of people at the main entrance ready to engulf you. Keep your head down.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -290,7 +290,7 @@ I have to go. I need to return to A.R.C. later.
 **Cherry**<br>
 Eh? Oh, got it. Goodbye...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -352,7 +352,7 @@ Mu\~ NEKO would never do something that dangerous, ok!? Let's go home! Stop stan
 **Yukiko**<br>
 OK, we get it\~ you must be dead tired, right? Let's go.
 
-*[Signal Switch]*
+*\[Signal Switch\]*
 
 **NEKO#ΦωΦ**<br>
 Tada\~ the long\-awaited! NEKO cooking time\~\~<br>
@@ -388,7 +388,7 @@ Silence! All of you, do not get in my way! How dare they mistreat NEKO! NEKO wil
 **Kouhei**<br>
 Don't force yourself.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Kenta**<br>
 Thanks for the meal!
@@ -450,7 +450,7 @@ I also think you two would make a really cute couple. *\*Chuckles\**
 **NEKO#ΦωΦ**<br>
 Wha... why is Sis Yukiko saying this too\~ NEKO is going to go take a shower!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -489,7 +489,7 @@ No, Nein, Non! You can only come in AFTER I'm done cleaning!
 **Kenta**<br>
 Don't know. Big sister has been acting really weird lately.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 So this is where you stream?
@@ -602,7 +602,7 @@ Shut it. I had a bet with him. If I don't take it back to him this time, he will
 **NEKO#ΦωΦ**<br>
 Eheh\~\~\~!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -672,7 +672,7 @@ W,w,w, wait a sec\~ Are you alright...? You can barely stand...
 **NEKO#ΦωΦ**<br>
 ... Anyway, let's get inside first. You're gonna catch a cold if you keep standing in the rain like this.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -720,7 +720,7 @@ Ah, got it! Excuse me!
 **NEKO#ΦωΦ**<br>
 Don't take too long in there though. NEKO needs to take a shower as well.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -855,7 +855,7 @@ I, is that so...?
 **NEKO#ΦωΦ**<br>
 Ah, they're back. Make sure you hide yourself carefully. My little brother is a HUGE\~ fan of yours. If he finds out you're hiding here, he's gonna cause a big ruckus!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -904,7 +904,7 @@ Done. This post is certainly going to create quite the discussion\~
 **NEKO#ΦωΦ**<br>
 Hoho, yesss\~ The fans are starting to get hyped!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **NEKO#ΦωΦ**<br>
 ......
@@ -966,7 +966,7 @@ Ah, big brother Xenon; was big sister watching this when I came in?
 **NEKO#ΦωΦ**<br>
 WAHHHHH!! Stop stop stop!! I told you not to play it! The MeowBot really is broken! Ahahahaha! Big sister is going to get it fixed tomorrow!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1073,7 +1073,7 @@ Oh, right! Now they are not at home, come to the bathroom with NEKO.
 **PAFF**<br>
 Eh?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **NEKO#ΦωΦ**<br>
 Tada! Look, NEKO bought this!
@@ -1094,7 +1094,7 @@ In addition, how will you be able to confirm the things you said if you stay at 
 **PAFF**<br>
 Okay...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **NEKO#ΦωΦ**<br>
 Aroma\-chan's hair is so soft... So you had black hair originally?
@@ -1121,7 +1121,7 @@ So pretty\~ With that plus a simple face mask, I can guarantee that nobody will 
 **PAFF**<br>
 T, thank you\~
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1166,7 +1166,7 @@ What do you think!? A very kind person, right!
 **Linda**<br>
 Yeah, totally different than you. Let's get inside first.
 
-*[»»» Fast Forward 30 minutes»»»]*
+*\[»»» Fast Forward 30 minutes»»»\]*
 
 **Kenta**<br>
 Mom! I'm full! I want to play video games!
@@ -1285,7 +1285,7 @@ Umm, O, okay! Kouhei, come over here...
 **NEKO#ΦωΦ**<br>
 Arrggghhhh\~ This is so embarrassing\~ Dumb daddy! Stupid smelly feet!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1380,7 +1380,7 @@ Haha...... Idiot, you're on the verge of bursting into tears, yet you're still t
 **Linda**<br>
 Merry Christmas.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1519,7 +1519,7 @@ Sorry. I really couldn't handle cats...
 .....<br>
 I, I know that. What? Why are you saying this out of nowhere? Ahahaha...
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 *\[Door Closes\]*
 
@@ -1542,7 +1542,7 @@ Come on\~ Be careful, ok! NEKO feel like I can't cover this up anymore...
 **PAFF**<br>
 I get it... sorry.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1646,7 +1646,7 @@ NEKO, are you alright!?
 **Kouhei**<br>
 Hey! ......?
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 *\[Door Closes\]*
 
@@ -1711,7 +1711,7 @@ Gotcha. We should both rest early. Good night.
 **PAFF**<br>
 Good night.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1814,7 +1814,7 @@ Pretty ironic, isn't it? After all, they are the most superior existence of thei
 **ConneR**<br>
 The Crystal Ants in this case are probably the last surviving batch in the entire world. Even now, they have no clue of the dire situation and continue to refer to themselves as kings in this tiny box... How cute. *\*Chuckles\**\~
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Class Bell\]*
 
@@ -1876,7 +1876,7 @@ NEKO, let's go!
 **NEKO#ΦωΦ**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2064,7 +2064,7 @@ About the Æsir incident, so you do have some secrets you're hiding after all, r
 **ConneR**<br>
 *\*Chuckles\** Let's find a place so we can talk about that in detail.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2167,7 +2167,7 @@ Yeah... Because it really is something very serious. NEKO has no idea who I shou
 **NEKO#ΦωΦ**<br>
 Umm... Let NEKO organize myself a bit...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2304,7 +2304,7 @@ Okay... Waaaaaa\~ Thank you guys so much!
 **Linda**<br>
 Okay okay, stop faking it. You're gonna spill the drink!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2450,7 +2450,7 @@ That girl just now, don't you think she looks a lot like PAFF!?
 Dude, you serious?<br>
 Stop dreaming, you cream Puff
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2483,7 +2483,7 @@ If there's anything you need help with, just let me know. Be more careful though
 **NEKO#ΦωΦ**<br>
 Okay. NEKO understands that. Bye.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **PAFF**<br>
 Did I trouble your friend...?
@@ -2641,7 +2641,7 @@ That's okay! At least we still have hope. Let's fight together! NEKO will absolu
 **PAFF**<br>
 NEKO... Thank you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2704,7 +2704,7 @@ Ara, thank you\~ Then pardon me for the intrusion.
 **Linda**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Jacky**<br>
 ... PAFF did indeed perform here in the past. It was a few years ago when she just made her debut. She was still very shy... but her singing was fantastic.
@@ -2786,7 +2786,7 @@ Oh, gotcha. I'll leave it to you then\~
 **Linda**<br>
 ... She's definitely up to something.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2854,7 +2854,7 @@ All in all, I took a picture first. Do you know this woman?<br>
 *[Sent at PM 03:49]*
 
 **Linda**<br>
-[Linda has sent a photo.]<br>
+\[Linda has sent a photo.\]<br>
 *[Sent at PM 03:49]*
 
 **NEKO#ΦωΦ**<br>
@@ -2943,7 +2943,7 @@ I'm just about to go there right now. Bug off.
 **Clara**<br>
 The whole class graduated without a hitch. Your attendance rate also just barely passed the requirement. It's something worthy of celebration\~ Come on, be happier!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Daniel**<br>
 Sidenote, why did you come all the way to my home just to fetch me? Isn't your home closer to the venue?
@@ -3076,7 +3076,7 @@ You've grown taller again.
 
 *\[Footsteps\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3211,7 +3211,7 @@ Yes... Goodnight.
 **PAFF**<br>
 But... Why did I...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3282,7 +3282,7 @@ Hey, not bad at all! I didn't know you had this in you.
 **Hayato**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3418,7 +3418,7 @@ If you truly want to apologize, pray for her safety. Then, apologize to her dire
 **Clara**<br>
 ...... Okay!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3496,7 +3496,7 @@ Why are you just standing there!? Go after them, you blockhead!
 **Hayato**<br>
 ......Ah! Okay!
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 ![nos2605.png](./attachments/nos2605.png)
 
@@ -3523,7 +3523,7 @@ Quick, take a picture!
 **NEKO#ΦωΦ**<br>
 Oh god, oh no! This is bad! This is really, really bad!
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **PAFF**<br>
 Huff... Puff...
@@ -3558,7 +3558,7 @@ We're pretty close to my home. For now, let's return home first!
 **PAFF**<br>
 Okay...!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3692,7 +3692,7 @@ Understood... We'll be in your care.
 **NEKO#ΦωΦ**<br>
 NEKO will go down there with you as soon as I finish this drink!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3824,7 +3824,7 @@ Alright, now go... Remember, you are NOT allowed to come back before you find th
 **Hayato**<br>
 ... Thank you so much!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3980,7 +3980,7 @@ Hey... why are you crying?
 **PAFF**<br>
 No... I'm really happy... Thank you, Hayato.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **NEKO#ΦωΦ**<br>
 ... Such a nice atmosphere. Those two... they were definitely a c\-c\-c...... couple in the past, right?
@@ -3991,7 +3991,7 @@ No... I'm really happy... Thank you, Hayato.
 **NEKO#ΦωΦ**<br>
 ...... W\-w\-wwhhat are you talking about! Don't play it! Stupid Meowbot! You're absolutely going in the trash!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4122,7 +4122,7 @@ Haha... Come, let's go help your grandma out, shall we?
 **NEKO#ΦωΦ**<br>
 Yes!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4193,7 +4193,7 @@ They were here just a minute ago...
 **NEKO#ΦωΦ**<br>
 ...... Eh!? EHHHHHHH\~\~\~!?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **NEKO#ΦωΦ**<br>
 N, nothing! Not here either. They're nowhere to be found!!
@@ -4218,7 +4218,7 @@ Kaori!? Kaori!!
 **NEKO#ΦωΦ**<br>
 Aroma\-chan!?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 ... Eh? What happened to me?
@@ -4240,7 +4240,7 @@ I know where they are. Come with me.
 **NEKO#ΦωΦ**<br>
 F\-For real?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **PAFF**<br>
 Huff... Puff... Found them! The bags really are here. Some homeless person took them.
@@ -4284,7 +4284,7 @@ However... that organization is a bit dangerous. Are you sure you want to go?
 **NEKO#ΦωΦ**<br>
 ... Um, Hello? Aroma\-chan? Intern Paparazzi guy? Can you guys, um, explain things a bit to NEKO? NEKO's brain is gonna explode with all the information you guys just spewed...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4320,7 +4320,7 @@ Damnit, how on earth did they find that entrance!? Security team A, team B, repo
 
 ![cpos2801.png](./attachments/cpos2801.png)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 ...... Are you thinking what I'm thinking?
@@ -4334,7 +4334,7 @@ Don't tell me, you guys are going... Is that really a good idea?
 **Hayato**<br>
 Right! We should do what Nora told us and hide here. It's safer that way, isn't it?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Parts moving\]*
 
@@ -4360,7 +4360,7 @@ You three, stay here. Hayato, watch the door closely.
 **NEKO#ΦωΦ**<br>
 Xenon!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Explosion\]*
 
@@ -4432,7 +4432,7 @@ No need to be afraid. We're all here.
 **NEKO#ΦωΦ**<br>
 NEKO... is someone that can't do anything either...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4448,7 +4448,7 @@ NEKO... is someone that can't do anything either...
 **Hayato**<br>
 Who would call...? NEKO!?
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Hayato**<br>
 NEKO! Where are you?
@@ -4530,9 +4530,9 @@ Of course! We'll always be!
 **[NEKO#ΦωΦ]**<br>
 *Hehe... thanks. Then, NEKO's gotta go since I'm almost home. Bye\-bye\~*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Door Knock\]*
 
@@ -4568,7 +4568,7 @@ You silly child... you must be tired, right?
 **NEKO#ΦωΦ**<br>
 ... 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4703,7 +4703,7 @@ You're clearly not of any use. No need to say that crap to me. I've heard enough
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4770,7 +4770,7 @@ If you still insist on pulling that trigger, then at least... let me finish... t
 
 *\[Consecutive Gunshots\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Holding umbrella\]*
 
@@ -4841,7 +4841,7 @@ NEKO may not be... for something this big... no even for something small, NEKO m
 **NEKO#ΦωΦ**<br>
 Okay all done\~ Don't move for now. NEKO already contacted Brother Kai to take you to his place. He'll definitely be able to pick ya up.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **NEKO#ΦωΦ**<br>
 Yahooo!! NEKO's here! Brother Kai, thank you. Is Xenon alright?
@@ -4884,12 +4884,12 @@ Oh, yea... thanks. If you didn't find him. Don't know what woulda happened...
 **NEKO#ΦωΦ**<br>
 No probs～～well, let's leave him alone. Let him be. Xenon, we're heading out, kk?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

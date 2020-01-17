@@ -1,47 +1,47 @@
 # ROBO_Head iM Posts
 ## <a id="toc"/>List of Posts
 - [[#001] cyTus annual traffic report](#r0101)
-- [[#002] [Repost] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence](#r0201)
-- [[#003] [Announcement] ROBO\_Radio standing by](#r0301)
-- [[#004] [Repost] A.R.C press conference: AI research will prioritize emotional communication](#r0401)
-- [[#005] [Share] The reason why cyTus server is placed in the skies](#r0501)
-- [[#006] [Share] The purpose behind the establishment of A.R.C](#r0601)
-- [[#007] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#r0701)
-- [[#008] [Announcement] ROBO\_Radio standing by](#r0801)
-- [[#009] [Announcement] Article removed for unknown reason](#r0901)
-- [[#010] [Respond] Æsir event](#r1001)
-- [[#011] [Record] Æsir\-FEST remaining files](#r1101)
-- [[#012] [Share] The security of the cyTus server](#r1201)
-- [[#013] [Repost] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#r1301)
-- [[#014] [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#r1401)
+- [[#002] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence](#r0201)
+- [[#003] \[Announcement\] ROBO\_Radio standing by](#r0301)
+- [[#004] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication](#r0401)
+- [[#005] \[Share\] The reason why cyTus server is placed in the skies](#r0501)
+- [[#006] \[Share\] The purpose behind the establishment of A.R.C](#r0601)
+- [[#007] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#r0701)
+- [[#008] \[Announcement\] ROBO\_Radio standing by](#r0801)
+- [[#009] \[Announcement\] Article removed for unknown reason](#r0901)
+- [[#010] \[Respond\] Æsir event](#r1001)
+- [[#011] \[Record\] Æsir\-FEST remaining files](#r1101)
+- [[#012] \[Share\] The security of the cyTus server](#r1201)
+- [[#013] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#r1301)
+- [[#014] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#r1401)
 - [[#015] Æsir\-FEST memory block corrupted ](#r1501)
-- [[#016] [Announcement] ROBO\_Radio standing by](#r1601)
-- [[#017] [Repost] Dr. ConneR will share progress of AI research on the web](#r1701)
-- [[#018] [Repost] Concert accident? Singer collapsed on stage](#r1801)
+- [[#016] \[Announcement\] ROBO\_Radio standing by](#r1601)
+- [[#017] \[Repost\] Dr. ConneR will share progress of AI research on the web](#r1701)
+- [[#018] \[Repost\] Concert accident? Singer collapsed on stage](#r1801)
 - [[#019] Æsir\-FEST corrupted data recovery progress......15% ](#r1901)
-- [[#020] [Repost] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt ](#r2001)
-- [[#021] [Share] What extremely long connection times does to the brain](#r2101)
-- [[#022] [Repost] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection](#r2201)
+- [[#020] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt ](#r2001)
+- [[#021] \[Share\] What extremely long connection times does to the brain](#r2101)
+- [[#022] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection](#r2201)
 - [[#023] Æsir\-FEST corrupted data recovery progress......80% ](#r2301)
 - [[#024] Æsir\-FEST corrupted data recovery progress......100% ](#r2401)
-- [[#025] [Repost] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen](#r2501)
-- [[#026] [Repost] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau](#r2601)
+- [[#025] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen](#r2501)
+- [[#026] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau](#r2601)
 - [[#027] Æsir event internet search results](#r2701)
-- [[#028] [Repost] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges](#r2801)
-- [[#029] [Repost] Acquittal declared? Live coverage of famous streamer exiting the LED](#r2901)
-- [[#030] [Repost] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse](#r3001)
-- [[#031] [Excerpt] Travel Guide to All Nodes: Node 03, Part.1](#r3101)
-- [[#032] [Repost] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#r3201)
-- [[#033] [Repost] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.](#r3301)
-- [[#034] [Repost] Explaining the decision behind the contract termination of PAFF](#r3401)
-- [[#035] [Repost] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods](#r3501)
-- [[#036] [Repost] Research regarding the recreated technology of drones and its subsequent application to society](#r3601)
-- [[#037] [Repost] Looking back at major riots in history](#r3701)
-- [[#038] [Announcement] ROBO\_Radio\_LIVE event confirmation](#r3801)
+- [[#028] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges](#r2801)
+- [[#029] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED](#r2901)
+- [[#030] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse](#r3001)
+- [[#031] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1](#r3101)
+- [[#032] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#r3201)
+- [[#033] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.](#r3301)
+- [[#034] \[Repost\] Explaining the decision behind the contract termination of PAFF](#r3401)
+- [[#035] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods](#r3501)
+- [[#036] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society](#r3601)
+- [[#037] \[Repost\] Looking back at major riots in history](#r3701)
+- [[#038] \[Announcement\] ROBO\_Radio\_LIVE event confirmation](#r3801)
 - [[#039] ROBO\_Radio\_LIVE starts now!](#r3901)
 - [[#040] ROBO\_Radio\_LIVE statistics analysis](#r4001)
-- [[#041] [Repost] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.](#r4101)
-- [[#042] [Repost] Law enforcement department blitz operation success, 40 human trafficking suspects arrested](#r4201)
+- [[#041] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.](#r4101)
+- [[#042] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested](#r4201)
 - [[#043] Paranormal: Bug collection](#r4301)
 
 ## <a id="r0101"/>[#001] cyTus annual traffic report
@@ -53,8 +53,9 @@
 
 ### Post
 **ROBO_Head**<br>
-[Data Analysis][ARC][Share]<br>
-> According to official data from A.R.C., the cyTus virtual city has over 200 million registered users and over 180 million active users daily, a 23% increase compared to last year. Mega SNS blocks have also reached the number of 37000. To handle this increasing need for connection, A.R.C. and the Nodes are scheduling for a massive hardware update. <br>
+\[Data Analysis\]\[ARC\]\[Share\]<br>
+> According to official data from A.R.C., the cyTus virtual city has over 200 million registered users and over 180 million active users daily, a 23% increase compared to last year. Mega SNS blocks have also reached the number of 37000. To handle this increasing need for connection, A.R.C. and the Nodes are scheduling for a massive hardware update. 
+
 (Data and article excerpt from Node 08 Administration Bureau)
 
 ![r0101.png](./attachments/r0101.png)
@@ -96,7 +97,7 @@ FML
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0201"/>[#002] [Repost] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
+## <a id="r0201"/>[#002] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
 ### Unlocked Charts
 |        Song        |Character|Diff.|Level|
 |--------------------|:-------:|:---:|:---:|
@@ -104,9 +105,10 @@ FML
 
 ### Post
 **ROBO_Head**<br>
-[Technology][News][ARC][A.I.]<br>
-> The Institute of Ancient Ruin Civilization (A.R.C.) announced at their routine dinner party that they will be releasing an interactive software that allows the public to simulate exploration in the forbidden areas. This software is available for download at the A.R.C. official site. In addition, A.R.C. is scheduled to make a huge announcement at an upcoming press conference. Inside sources told us that the topic of this announcement will be on AI and its interaction with human emotions. <br>
-[Article excerpted from Node News Network]
+\[Technology\]\[News\]\[ARC\]\[A.I.\]<br>
+> The Institute of Ancient Ruin Civilization (A.R.C.) announced at their routine dinner party that they will be releasing an interactive software that allows the public to simulate exploration in the forbidden areas. This software is available for download at the A.R.C. official site. In addition, A.R.C. is scheduled to make a huge announcement at an upcoming press conference. Inside sources told us that the topic of this announcement will be on AI and its interaction with human emotions. 
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **ROBO_Head**<br>
 P.S: A.R.C. 200th Anniversary next year.<br>
@@ -165,7 +167,7 @@ All this talk is making me believe that A.R.C. is some kind of real\-life god
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0301"/>[#003] [Announcement] ROBO\_Radio standing by
+## <a id="r0301"/>[#003] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -229,7 +231,7 @@ It's QQueen actually \*head scratch\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0401"/>[#004] [Repost] A.R.C press conference: AI research will prioritize emotional communication
+## <a id="r0401"/>[#004] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -242,10 +244,11 @@ It's QQueen actually \*head scratch\*
 
 ### Post
 **ROBO_Head**<br>
-[Technology][News][ARC][A.I.]<br>
+\[Technology\]\[News\]\[ARC\]\[A.I.\]<br>
 > In an emergency press conference this morning, the Institute of Ancient Ruin Civilization (A.R.C.) announced that an AI research project is scheduled to be launched very soon. This project is a milestone, as it focuses on something very near and dear to human nature: emotional communication.<br>
-> One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do. A.R.C. has invited highly acclaimed scholar Colin Neumann Jr. to lead the project.<br>
-[Article excerpt from Node News Network]
+> One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do. A.R.C. has invited highly acclaimed scholar Colin Neumann Jr. to lead the project.
+
+\[Article excerpt from Node News Network\]
 
 ![r0401.png](./attachments/r0401.png)
 ### Replies
@@ -281,7 +284,7 @@ All hail Sensei!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0501"/>[#005] [Share] The reason why cyTus server is placed in the skies
+## <a id="r0501"/>[#005] \[Share\] The reason why cyTus server is placed in the skies
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -294,10 +297,11 @@ All hail Sensei!!!!
 
 ### Post
 **ROBO_Head**<br>
-[Hardware][Popular Science][Show]<br>
+\[Hardware\]\[Popular Science\]\[Show\]<br>
 > Do you know why the cyTus server is placed in the skies? It's because the energy required to power the server is immense. With specialized solar panels covering the entire server, solar power can be effectively used to charge the server. Its location in the Stratosphere also means that turbulence doesn't really harm the architecture. The cool temperature in the lower portion of the Stratosphere, around 216K (\-57°C), also means that it's much easier to dissipate heat. <br>
-> That's it for today's fun fact. We'll see you tomorrow at the same time. Byebye\~\~\~<br>
-[Soundbite excerpted from Neo Channel 8's morning show "Breakfast With Popular Science"]
+> That's it for today's fun fact. We'll see you tomorrow at the same time. Byebye\~\~\~
+
+\[Soundbite excerpted from Neo Channel 8's morning show "Breakfast With Popular Science"\]
 ### Replies
 **ROBO_Head**<br>
 P.S: cyTus server exact same coordinate as A.R.C. headquarters.
@@ -364,7 +368,7 @@ A world with no internet might as well be dead
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0601"/>[#006] [Share] The purpose behind the establishment of A.R.C
+## <a id="r0601"/>[#006] \[Share\] The purpose behind the establishment of A.R.C
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -377,10 +381,11 @@ A world with no internet might as well be dead
 
 ### Post
 **ROBO_Head**<br>
-[Knowledge][Technology][ARC]<br>
+\[Knowledge\]\[Technology\]\[ARC\]<br>
 > The A.R.C. was established two centuries ago. It is dedicated to the excavation, recovery, development and recreation of past technologies and provides said technology for all humans to use equally. <br>
-> Of all the technology, the one that affects humans the most is certainly the creation and application of imitation Bio\-neural networks. It led to a massive increase in the amount of data transferred and a much\-improved internet using experience. <br>
-[Article excerpted from Node 08 Administration Bureau document "Foundation and Construction of City"]
+> Of all the technology, the one that affects humans the most is certainly the creation and application of imitation Bio\-neural networks. It led to a massive increase in the amount of data transferred and a much\-improved internet using experience. 
+
+\[Article excerpted from Node 08 Administration Bureau document "Foundation and Construction of City"\]
 
 ![r0601.png](./attachments/r0601.png)
 ### Replies
@@ -414,7 +419,7 @@ So no comment on everything else besides technology... LOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0701"/>[#007] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="r0701"/>[#007] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -422,11 +427,12 @@ So no comment on everything else besides technology... LOL
 
 ### Post
 **ROBO_Head**<br>
-[News][Entertainment][PAFF]<br>
+\[News\]\[Entertainment\]\[PAFF\]<br>
 > PAFF, a diva who enjoyed immense popularity across all Nodes, was harassed by a hardcore male fan at her promotion concert today. This male fan ran passed the security and screamed directly at PAFF. Fearing that PAFF will be harmed, security immediately apprehended the man. PAFF, while shaken, did not suffer any physical harm. <br>
 > <br>
-> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
-[Article excerpted from Node News Network: Entertainment]
+> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
+
+\[Article excerpted from Node News Network: Entertainment\]
 
 ![r0701.png](./attachments/r0701.png)
 ### Replies
@@ -479,7 +485,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0801"/>[#008] [Announcement] ROBO\_Radio standing by
+## <a id="r0801"/>[#008] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -492,7 +498,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0901"/>[#009] [Announcement] Article removed for unknown reason
+## <a id="r0901"/>[#009] \[Announcement\] Article removed for unknown reason
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -550,7 +556,7 @@ I really thought there was something wrong with me how did the post disappeared 
 **@ROBO\_Head** sent the complaint already XDDD
 
 **ROBO_Head**<br>
-Affirmative. ：$
+Affirmative. ：\$
 
 **Ange3Lina**<br>
 Wasn't PAFF part of the performance too?
@@ -563,7 +569,7 @@ So is Æsir\-FEST a real thing or not...I mean even those connected told complet
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1001"/>[#010] [Respond] Æsir event
+## <a id="r1001"/>[#010] \[Respond\] Æsir event
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -613,7 +619,7 @@ I hate when files get corrupted @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1101"/>[#011] [Record] Æsir\-FEST remaining files
+## <a id="r1101"/>[#011] \[Record\] Æsir\-FEST remaining files
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -631,7 +637,8 @@ Record: Æsir\-FEST information extracted from memory block of 6 months ago. <br
 > Guest list: <br>
 > The New Generation's Diva: PAFF<br>
 > The Electronic Machine DJ: ROBO\_Head<br>
-> ......
+> ......<br>
+
 ### Replies
 **ROBO_Head**<br>
 Search result for other related files: None. ：/
@@ -674,7 +681,7 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1201"/>[#012] [Share] The security of the cyTus server
+## <a id="r1201"/>[#012] \[Share\] The security of the cyTus server
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -687,9 +694,10 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 
 ### Post
 **ROBO_Head**<br>
-[Knowledge][Technology][cyTus]<br>
-> The security system for the cyTus server is very tight. It is basically a giant military fortress in the sky. A.R.C. not only has the air force protecting it; even A.R.C. employees must go through multiple levels of security checks before entering the building. <br>
-[Article excerpted from A.R.C. annual security report]
+\[Knowledge\]\[Technology\]\[cyTus\]<br>
+> The security system for the cyTus server is very tight. It is basically a giant military fortress in the sky. A.R.C. not only has the air force protecting it; even A.R.C. employees must go through multiple levels of security checks before entering the building. 
+
+\[Article excerpted from A.R.C. annual security report\]
 ### Replies
 **ROBO_Head**<br>
 Record: Natural accidents since cyTus is launched: 0;<br>
@@ -734,7 +742,7 @@ So there are still human failures, why not make it fully automatic?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1301"/>[#013] [Repost] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
+## <a id="r1301"/>[#013] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -747,14 +755,15 @@ So there are still human failures, why not make it fully automatic?
 
 ### Post
 **ROBO_Head**<br>
-[Stream][Game][NEKO]<br>
+\[Stream\]\[Game\]\[NEKO\]<br>
 > Today playing the latest action gameㄟ(ΦωΦ)ㄏ！！<br>
-> 「SAW of EDEN (SOE)」
+> 「SAW of EDEN (SOE)」<br>
+
 
 ![n1001.png](./attachments/n1001.png)
 ### Replies
 **NEKO#ΦωΦ**<br>
-EHH!!  d(`Φ∀Φ)b
+EHH!!  d(\`Φ∀Φ)b
 
 **Cybel_Mach**<br>
 Eh so ROBO\_head plays games too !!! XD
@@ -788,7 +797,7 @@ You CANT tell them to change it back into a card game  lololol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1401"/>[#014] [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="r1401"/>[#014] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -796,11 +805,12 @@ You CANT tell them to change it back into a card game  lololol
 
 ### Post
 **ROBO_Head**<br>
-[Technology][News][ARC][A.I.]<br>
+\[Technology\]\[News\]\[ARC\]\[A.I.\]<br>
 > Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
 > Dr. Neumann is perhaps more well known by his other name, ConneR. A renowned virtual composer on the internet, he is also an archaeologist with a deep knowledge regarding instruments of the past. <br>
-> To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.<br>
-[Article excerpted from Node News Network]
+> To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.
+
+\[Article excerpted from Node News Network\]
 
 ![r1401.png](./attachments/r1401.png)
 ### Replies
@@ -857,11 +867,11 @@ Objective: Reproduce complete memory of event<br>
 Decision: Launch recovery...initializing...
 ### Replies
 **System**<br>
-[User is busy now, comments are temporarily disabled]
+\[User is busy now, comments are temporarily disabled\]
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1601"/>[#016] [Announcement] ROBO\_Radio standing by
+## <a id="r1601"/>[#016] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -912,7 +922,7 @@ We're getting off topic lol, ROBO\_Radio for life!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1701"/>[#017] [Repost] Dr. ConneR will share progress of AI research on the web
+## <a id="r1701"/>[#017] \[Repost\] Dr. ConneR will share progress of AI research on the web
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -926,9 +936,10 @@ We're getting off topic lol, ROBO\_Radio for life!!
 
 ### Post
 **ROBO_Head**<br>
-[Technology][News][ARC][A.I.][ConneR]<br>
-> In order to show the public the beauty of technology advancements, A.R.C.'s Dr. Colin Neumann Jr. will share the research progress on social media. People who are interested in the project can now visit @ConneR\-x\-ARC to ask questions. Dr. Neumann will answer the questions and explain the progress of the research himself. He may even share some behind\-the\-scenes info with us. <br>
-[Article excerpted from Node News Network] 
+\[Technology\]\[News\]\[ARC\]\[A.I.\]\[ConneR\]<br>
+> In order to show the public the beauty of technology advancements, A.R.C.'s Dr. Colin Neumann Jr. will share the research progress on social media. People who are interested in the project can now visit @ConneR\-x\-ARC to ask questions. Dr. Neumann will answer the questions and explain the progress of the research himself. He may even share some behind\-the\-scenes info with us. 
+
+\[Article excerpted from Node News Network\] 
 ### Replies
 **ConneR**<br>
 　Thank you for sharing. Hope there is a chance for us to learn from each other in a different field. 
@@ -953,7 +964,7 @@ you got something?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1801"/>[#018] [Repost] Concert accident? Singer collapsed on stage
+## <a id="r1801"/>[#018] \[Repost\] Concert accident? Singer collapsed on stage
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -966,10 +977,11 @@ you got something?
 
 ### Post
 **ROBO_Head**<br>
-[News][Entertainment][PAFF]<br>
+\[News\]\[Entertainment\]\[PAFF\]<br>
 > PAFF, the music diva who was harassed by a male fan a while ago, had another incident. At the end of a three\-hour physical concert at Node 08, she fainted on stage while singing the encore song "Gravity". The singer's sudden collapse had the audience in utter shock. Her agency immediately called off the concert and arranged her for an emergency medical checkup. Many worried fans followed the singer to the hospital and waited outside, hoping for the best.<br>
-> PAFF's agent, Helena, stated: "PAFF is now awake. Her physical conditions are very stable with no major issues. However, to ensure that she is 100% fine, she will be be staying at the hospital for a few more days to do a detailed checkup." <br>
-[Article excerpted from Node News Network, Breaking]
+> PAFF's agent, Helena, stated: "PAFF is now awake. Her physical conditions are very stable with no major issues. However, to ensure that she is 100% fine, she will be be staying at the hospital for a few more days to do a detailed checkup." 
+
+\[Article excerpted from Node News Network, Breaking\]
 
 ![r1801.png](./attachments/r1801.png)
 ### Replies
@@ -1085,7 +1097,7 @@ Still can't figure out why it's corrupted??
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2001"/>[#020] [Repost] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
+## <a id="r2001"/>[#020] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1098,11 +1110,12 @@ Still can't figure out why it's corrupted??
 
 ### Post
 **ROBO_Head**<br>
-[News][Technology][Prosthetics]<br>
+\[News\]\[Technology\]\[Prosthetics\]<br>
 > Another accident caused by illegal prosthetics, this time in Node 08's Quadrant III industrial area. A man suddenly went berserk at work. The pistons in his prosthetic right arm began to move on their own, attacking nearby colleagues and security guards that arrived on site to stop him. The accident left one dead and twelve injured.<br>
 > <br>
-> According to the official investigation, the man's prosthetic arm was purchased from the black market and is an illegally produced, defective product. The neural chips in the arm cause brain damage to the user. The chips may also experience short\-circuits and overcharge when the user's emotions are unstable. Node 08 Administration Bureau's medical committee urges the public to only use officially approved, safe prosthetics to prevent similar incidents from happening again. <br>
-[Article excerpted from Node News Network]
+> According to the official investigation, the man's prosthetic arm was purchased from the black market and is an illegally produced, defective product. The neural chips in the arm cause brain damage to the user. The chips may also experience short\-circuits and overcharge when the user's emotions are unstable. Node 08 Administration Bureau's medical committee urges the public to only use officially approved, safe prosthetics to prevent similar incidents from happening again. 
+
+\[Article excerpted from Node News Network\]
 
 ![r2001.png](./attachments/r2001.png)
 ### Replies
@@ -1150,7 +1163,7 @@ Well that's two more workers screwed XDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2101"/>[#021] [Share] What extremely long connection times does to the brain
+## <a id="r2101"/>[#021] \[Share\] What extremely long connection times does to the brain
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1158,10 +1171,11 @@ Well that's two more workers screwed XDD
 
 ### Post
 **ROBO_Head**<br>
-[Medical][Internet]<br>
+\[Medical\]\[Internet\]<br>
 > Fellow online service users, Node United Hospital would like to call your attention to an issue. Last month, thousands of users approached us having suffered symptoms of dizziness, auditory hallucinations and cognitive disorders. All these patients shared one thing: they all had extremely long connection times of over 48 hours before the symptoms surfaced.<br>
-> Thomas Snow, VS of Virtual Psychiatry at Node United Hospital, stated: "In terms of connection times, we recommend setting the cap at 8\~12 hours to avoid physical discomfort. If you feel discomfort after disconnecting, please report via the remote medical service and do a basic self\-check."<br>
-[Article excerpted from Node 08 Administration Bureau's medical committee]
+> Thomas Snow, VS of Virtual Psychiatry at Node United Hospital, stated: "In terms of connection times, we recommend setting the cap at 8\~12 hours to avoid physical discomfort. If you feel discomfort after disconnecting, please report via the remote medical service and do a basic self\-check."
+
+\[Article excerpted from Node 08 Administration Bureau's medical committee\]
 ### Replies
 **ROBO_Head**<br>
 Average hours per week for this Unit: 140 hours<br>
@@ -1181,7 +1195,7 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2201"/>[#022] [Repost] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
+## <a id="r2201"/>[#022] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1196,12 +1210,13 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 ### Post
 **ROBO_Head**<br>
-[News][Social][Emergency]<br>
+\[News\]\[Social\]\[Emergency\]<br>
 > According to the information this reporter received before the deadline, famous streamer NEKO's recent stream, which attracted an audience of nearly 80,000, suffered a large\-scale malicious connection attack moments after the stream started. The attack caused hundreds of thousands of people to experience temporary memory loss, an unprecedented disaster. <br>
 > Some witnesses point out that before the victims become unconscious, they all received a mysterious call. Upon accepting the call, all victims suffer symptoms like epileptic seizure, severe headache, foaming at the mouth and fainting. <br>
 > Node 08 United Hospital's director of Virtual Psychiatry stated:" We have requested specialized hospital beds from A.R.C. for those with severe symptoms. Other patients will have their symptoms eased by a medical wave deployed remotely. Due to a large number of patients, it may take a while for the wave to take effect. Please wait patiently."<br>
-> Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation.<br>
-[Article excerpted from Node News Network]
+> Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation.
+
+\[Article excerpted from Node News Network\]
 
 ![r2201.png](./attachments/r2201.png)
 ### Replies
@@ -1406,7 +1421,7 @@ What if Æsir is the perpetrator himself...\*runs away\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2501"/>[#025] [Repost] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
+## <a id="r2501"/>[#025] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1414,11 +1429,12 @@ What if Æsir is the perpetrator himself...\*runs away\*
 
 ### Post
 **ROBO_Head**<br>
-[Æsir][Breaking][News][ARC][Administration Bureau]<br>
+\[Æsir\]\[Breaking\]\[News\]\[ARC\]\[Administration Bureau\]<br>
 > The mysterious musician Æsir, who made a high\-profile concert announcement half\-a\-year ago, was exposed by famous internet DJ ROBO\_Head for the suspicious use of illegal methods to erase the memories of all connected users. However, the actual method and purpose of these actions are still unclear. Earlier today, we received some inside news from the law enforcement department of the Administration Bureau. The Bureau has initiated the investigation, and there is a possibility that this incident is related to the "streamer hacked" incident that occurred at the end of last month.<br>
 > <br>
-> Regarding this issue, the spokesperson for the Bureau stated that if the actual situation indeed matched the rumors and that the users' memories were erased, this will be the largest internet terrorist attack since Node 08 was established. "We are facing a unique situation never seen before. This is a brand\-new type of enemy, using a brand\-new method of attack." Davis, A.R.C.'s minister of internet security, also released an announcement earlier today, stating that they will be working together with the Bureau to locate the culprit and uncover the truth...<br>
-[Article excerpted from Node News Network]
+> Regarding this issue, the spokesperson for the Bureau stated that if the actual situation indeed matched the rumors and that the users' memories were erased, this will be the largest internet terrorist attack since Node 08 was established. "We are facing a unique situation never seen before. This is a brand\-new type of enemy, using a brand\-new method of attack." Davis, A.R.C.'s minister of internet security, also released an announcement earlier today, stating that they will be working together with the Bureau to locate the culprit and uncover the truth...
+
+\[Article excerpted from Node News Network\]
 
 ![r2501.png](./attachments/r2501.png)
 ### Replies
@@ -1504,7 +1520,7 @@ Dude she is already super famous. Didn't you see how many people were connected 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2601"/>[#026] [Repost] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
+## <a id="r2601"/>[#026] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1512,12 +1528,13 @@ Dude she is already super famous. Didn't you see how many people were connected 
 
 ### Post
 **ROBO_Head**<br>
-[News][Administration Bureau][Unmanned Drones][Social Issues]<br>
+\[News\]\[Administration Bureau\]\[Unmanned Drones\]\[Social Issues\]<br>
 > Yesterday, in the middle of the night, a law enforcement drone performing its routine patrol at Node 08 Quadrant I's automatic area accidentally attacked a civilian household in the area. A model LE\-117 Striker drone that belongs to the Node 08 Administration Bureau suddenly lost control and launched shock blast grenades at a civilian building.  The law enforcement agent who was controlling the drone remotely via a virtual connection also suffered minor damage to his brain when the error occurred. The good news is that the Administration Bureau instantly reacted and shut down the drone's battery, therefore no further damage was caused.<br>
 > <br>
 > This accident is the fifth incident since Node 08 was established where law enforcement drones accidentally harm/kill innocent civilians. Of the 5 incidents, the most noteworthy is the first, which occurred on December 9th, 680 N.A.\-: Cross Node transport system administrator Carly Pauline was accidentally involved in a gunfight between law enforcement agents and armed robbers on her way home from work. Back then, the technology for controlling drones was not mastered by humans yet, and the unfamiliarity with the technology led to tragedy. A model LE\-110 Striker accidentally unloaded its riot control machine guns against Carly Pauline, severely injuring her. She died from heavy blood loss before she made it to the hospital. This incident prompted the Administration Bureau to establish a rule stating that human remote controls are mandatory for any drone operations. However, it has been years since the rule was established, yet drone\-related accidents still happen...<br>
-> <br>
-[Article excerpted from Node News Network]
+> 
+
+\[Article excerpted from Node News Network\]
 
 ![r2601.png](./attachments/r2601.png)
 ### Replies
@@ -1588,11 +1605,11 @@ Search Keywords: Æsir, memory loss, NEKO, hack, terrorist attack<br>
 Relevance: High<br>
 Time spread: Past month<br>
 Community preference ranking, from high to low:<br>
-1. [Æsir\-FEST] [Internet terrorist attack incidents]<br>
-2. [Memory loss] [Æsir\-FEST]<br>
-3. [Streamer] [NEKO] [[Æsir event accomplices] [or mastermind] <br>
-4. [NEKO] [Hacking incident] [Cooked\-up by herself]<br>
-5. [Æsir] [Non\-human] [Might be A.I.]
+1. \[Æsir\-FEST\] \[Internet terrorist attack incidents\]<br>
+2. \[Memory loss\] \[Æsir\-FEST\]<br>
+3. \[Streamer\] \[NEKO\] \[\[Æsir event accomplices\] \[or mastermind\] <br>
+4. \[NEKO\] \[Hacking incident\] \[Cooked\-up by herself\]<br>
+5. \[Æsir\] \[Non\-human\] \[Might be A.I.\]
 ### Replies
 **ROBO_Head**<br>
 Decision: This unit level of agreement with community preference: 37%
@@ -1682,7 +1699,7 @@ But I feel like NEKO was probably framed!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2801"/>[#028] [Repost] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
+## <a id="r2801"/>[#028] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1690,11 +1707,12 @@ But I feel like NEKO was probably framed!!
 
 ### Post
 **ROBO_Head**<br>
-[News][Administration Bureau][NEKO][Æsir]<br>
+\[News\]\[Administration Bureau\]\[NEKO\]\[Æsir\]<br>
 > The stream hack incident that created quite the buzz a while ago just experienced a dramatic development today. Streamer NEKO\#ΦωΦ, who was marked by the Administration Bureau due to her suspected involvement, was acquitted of all charges and released this afternoon. After contacting the Law Enforcement Department (LED), this reporter was able to receive a quick confirmation of this news.<br>
 > <br>
-> This reporter also managed to get some exclusive information. According to an anonymous source inside LED, in the past few days, they've been receiving physical evidence that is very favorable for NEKO. The evidence is sufficient enough that the LED officers and the Bureau believe that NEKO is not the main culprit behind the large\-scale hacking incident. To prevent public opinion from shifting, the procedures have been cleared and her release has been granted as quickly as possible. <br>
-[Article excerpted from Node News Network]
+> This reporter also managed to get some exclusive information. According to an anonymous source inside LED, in the past few days, they've been receiving physical evidence that is very favorable for NEKO. The evidence is sufficient enough that the LED officers and the Bureau believe that NEKO is not the main culprit behind the large\-scale hacking incident. To prevent public opinion from shifting, the procedures have been cleared and her release has been granted as quickly as possible. 
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **ROBO_Head**<br>
 Investigation result compare with this unit's decision: Match<br>
@@ -1754,7 +1772,7 @@ Good thing that the innocent wasn't wrongly accused in the end \*prays\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2901"/>[#029] [Repost] Acquittal declared? Live coverage of famous streamer exiting the LED
+## <a id="r2901"/>[#029] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1762,13 +1780,14 @@ Good thing that the innocent wasn't wrongly accused in the end \*prays\*
 
 ### Post
 **ROBO_Head**<br>
-[Exclusive][Xenon][NEKO][Cherry]<br>
+\[Exclusive\]\[Xenon\]\[NEKO\]\[Cherry\]<br>
 > Famous streamer NEKO\#ΦωΦ, who was brought in for investigation by the LED due to her involvement with a hacking incident that affected thousands, was acquitted of all charges yesterday morning and has been escorted home by friends.<br>
 > <br>
 > However, according to this reporter's actual on\-site observation, the friends that came to pick her up turned out to be the also internet\-famous one\-man band leader Xenon and the recent darling of Monophonic Entertainment, Cherry PuNK's lead vocalist Cherry. Xenon and NEKO have had very intimate interactions on iM. In fact, many fans have already suspected that the two were dating. However, this time, Xenon brought along his ex\-girlfriend from the Crystal PuNK days as well. The three appears to get along with each other very well too. This reporter was extremely confused and had no idea what they were up to. Upon exiting the LED, NEKO's expression seemed very relaxed. After a quick chatter with Xenon and Cherry, she left in a car. <br>
 > <br>
-> Is Xenon really so charming to the point that he can get away with two\-timing? Or did Xenon, real name Simon Jackson, utilized his powers at A.R.C. to rescue his precious girlfriend? For more behind\-the\-scenes information on this case, please follow 08 Daily.<br>
-[Article excerpted from 08 Daily]
+> Is Xenon really so charming to the point that he can get away with two\-timing? Or did Xenon, real name Simon Jackson, utilized his powers at A.R.C. to rescue his precious girlfriend? For more behind\-the\-scenes information on this case, please follow 08 Daily.
+
+\[Article excerpted from 08 Daily\]
 
 ![r2901.png](./attachments/r2901.png)
 ### Replies
@@ -1822,7 +1841,7 @@ Isn't ROBO somewhat contributing to the spread of this report by writing this po
 
 **CyberLord**<br>
 Lies based on facts are the scariest<br>
-( ﾉД`)( ﾉД`)( ﾉД`)
+( ﾉД\`)( ﾉД\`)( ﾉД\`)
 
 **Dreamer**<br>
 Xenon and Cherry was a really infamous couple in the world of underground bands in the past\~\~<br>
@@ -1830,7 +1849,7 @@ It's a dream so don't PM me
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3001"/>[#030] [Repost] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
+## <a id="r3001"/>[#030] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1838,13 +1857,14 @@ It's a dream so don't PM me
 
 ### Post
 **ROBO_Head**<br>
-[News][Gang][Social][Ando]<br>
+\[News\]\[Gang\]\[Social\]\[Ando\]<br>
 > Since the middle of last year, the law enforcement department (LED) of the Administration Bureau has launched a series of operations titled "Node 08 gang purge". These operations focus on rounding up illegal gang members and eliminating locations where gang activities are rampant. As of this month, 78 listed locations across all 4 quadrants of Node 08 have been targeted for compulsory criminal search. 55 members from major gangs such as the Ando Gang and the Baro Brotherhood have been found liable for the violation of the Organized Crime Act, Electronic Narcotics Prohibition Act, Criminal Intimidation and Extortion Prevention Act, and more. Also found in the criminal searches are 129 suspects who are involved in other criminal cases, hundreds of doses of electronic narcotics, 11 standard\-issue law enforcement rifles, and 50 pulse rifle magazines. <br>
 > <br>
 > During these operations, over 90 percent of the Ando Gang's leadership core has been arrested. Their funds have been blocked as well. The entire organization has been fatally crippled due to the lack of any leadership. Originated from Node03, this notoriously violent gang that once ruled over the Node 08 underworld as its largest gang is now nothing more than a mere name. <br>
 > <br>
-> According to the head of Quadrant II's LED, working in tandem with the Administration Bureau's "Node 08 gang purge" operations is just a small part of a bigger picture. The regulations for Cross\-Node traveling is set to loosen in the near future, so more people are expected to visit the Nodes. In addition to rounding up the gangs in each region, other illegal activities, such as smuggling, that harm the civilians' safety will also be investigated and punished according to the law when found. The goal is to improve security and create a positive image for the city. <br>
-[Article excerpted from Node News Network]
+> According to the head of Quadrant II's LED, working in tandem with the Administration Bureau's "Node 08 gang purge" operations is just a small part of a bigger picture. The regulations for Cross\-Node traveling is set to loosen in the near future, so more people are expected to visit the Nodes. In addition to rounding up the gangs in each region, other illegal activities, such as smuggling, that harm the civilians' safety will also be investigated and punished according to the law when found. The goal is to improve security and create a positive image for the city. 
+
+\[Article excerpted from Node News Network\]
 
 ![r3001.png](./attachments/r3001.png)
 ### Replies
@@ -1899,7 +1919,7 @@ Bye bye you POS (Hand Wave
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3101"/>[#031] [Excerpt] Travel Guide to All Nodes: Node 03, Part.1
+## <a id="r3101"/>[#031] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1907,7 +1927,7 @@ Bye bye you POS (Hand Wave
 
 ### Post
 **ROBO_Head**<br>
-[Show][Travel][Node 03]<br>
+\[Show\]\[Travel\]\[Node 03\]<br>
 > Half\-an\-Earth away from Node 08,  the unique Node 03 stands, oozing its mysterious eastern flavors. <br>
 > <br>
 > Tourist: "It's very common here to walk down an old street thinking nothing will happen, only to make a turn and find yourself in front of a glass curtain wall building. I find this contrast to be quite charming."<br>
@@ -1916,14 +1936,15 @@ Bye bye you POS (Hand Wave
 > <br>
 > Tourist: "The best feature of this city is probably the food! On top of that, many unique tasting delicacies can only be found at the outskirts of the slums. Compare to us at Node 08, the issue here may be the large gap between the rich and the poor. The Administration Bureau here doesn't seem to properly take care of the poor fellows."<br>
 > <br>
-> [>>>Fast Foward>>>]<br>
+> \[>>>Fast Foward>>>\]<br>
 > <br>
 > The downtown area of Node 03 is the home of illegal gangs. Many major underground organizations got the start in their early days by trading resources in the grey area of the law. Before the Administration Bureau and A.R.C. could establish and refine their systems, these gangs have already established rules of their own. At the peak of their powers, over 30% of the residents of Node 03 were involved in gang\-related activities/businesses one way or another. Anyone who dared to resist will likely end up in a sewer somewhere, dead. <br>
 > <br>
 > Node 03 resident: "In my high school class, over half of my classmates once participated in gang activities. Of these people, only a small percentage of them were forced to do so. Others view this as a very common way of life and don't find anything wrong with it. When I mention this to my friends from other Nodes, they all find it to be utterly shocking."<br>
 > <br>
-> The gangs are so widespread that the Administration Bureau is simply overwhelmed by this issue. Many anonymous sources even point out that the Node 03 Administration Bureau is basically under the control of the gangs. <br>
-[Article excerpted from the show "Travel Guide to All Nodes"]
+> The gangs are so widespread that the Administration Bureau is simply overwhelmed by this issue. Many anonymous sources even point out that the Node 03 Administration Bureau is basically under the control of the gangs. 
+
+\[Article excerpted from the show "Travel Guide to All Nodes"\]
 
 ![r3101.png](./attachments/r3101.png)
 ### Replies
@@ -1978,7 +1999,7 @@ Wanted to visit, but terrified...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3201"/>[#032] [Repost] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## <a id="r3201"/>[#032] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1986,11 +2007,12 @@ Wanted to visit, but terrified...
 
 ### Post
 **ROBO_Head**<br>
-[Announcement][PAFF][Missing]<br>
+\[Announcement\]\[PAFF\]\[Missing\]<br>
 > ... PAFF (Real name: Aroma White), an artist who is currently under contract with us, left the hospital she was resting at on the night of September 9th without notice and has been missing since. As of today, her agent, the agency, and other colleagues have been unable to make any kind of contact with her. <br>
 > <br>
-> Here, I would like to first thank all the fans and our friends in the media for your understanding. Monophonic Entertainment chose to not explain the actual situation to the public when the incident first broke out due to an attempt to protect the privacy and rights of our artists. We have tried our best to search and investigate, in hopes that PAFF can contact us herself and explain the situation. However, we haven't made any notable progress. We are in the same position as everyone is right now: we know the fact PAFF has gone missing for no reason, but we don't know any details. More investigation is still required...<br>
-[Article excerpted from Monophonic Entertainment's official statement]
+> Here, I would like to first thank all the fans and our friends in the media for your understanding. Monophonic Entertainment chose to not explain the actual situation to the public when the incident first broke out due to an attempt to protect the privacy and rights of our artists. We have tried our best to search and investigate, in hopes that PAFF can contact us herself and explain the situation. However, we haven't made any notable progress. We are in the same position as everyone is right now: we know the fact PAFF has gone missing for no reason, but we don't know any details. More investigation is still required...
+
+\[Article excerpted from Monophonic Entertainment's official statement\]
 ### Replies
 **ROBO_Head**<br>
 Analysis: Suburb area lacking in surveillance equipment, basic stealth disguise enough to avoid detection
@@ -2029,7 +2051,7 @@ Whatever let's blame Æsir for everything\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3301"/>[#033] [Repost] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
+## <a id="r3301"/>[#033] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2037,13 +2059,14 @@ Whatever let's blame Æsir for everything\~\~\~
 
 ### Post
 **ROBO_Head**<br>
-[News][Monophonic Entertainment][Riot][PAFF]<br>
+\[News\]\[Monophonic Entertainment\]\[Riot\]\[PAFF\]<br>
 > A protest broke out in Node 08's business district today. Angry fans surrounded Monophonic Entertainment's headquarters and a riot ensued. This protest is largely due to the fan dissatisfaction that has been building up since Monophonic's popular diva singer PAFF disappeared from the hospital she was resting in. Monophonic Entertainment's mishandling of the PAFF situation on top of the lackluster PR work they did afterward was what ultimately led to the chaos today. According to the drone analysis, there are thousands of protesters already on\-site and the number is still increasing. The building where Monophonic Entertainment is located has been sealed off for safety reasons. The company has also request security and other assistance from the Administration Bureau.<br>
 > <br>
 > According to our basic understanding of the situation, this protest is not headed by any specific organization or a thought leader. This protest was a result of an internet collaboration effort among fans using the hashtag **\#MonoWillPay**. Their main points of complaint are Monophonic Entertainment's insincere attitude towards handling the issues and their apparent hand\-washing of their artists to keep themselves clean. As of this moment, the entire protest has been relatively calm. No incidents of violence have been reported so far. Nonetheless, the Administration Bureau still deployed two squadrons of riot control drones around Monophonic Entertainment headquarters for security concerns.<br>
 > <br>
-> As of the publishing of this report, Monophonic Entertainment has yet to issue a statement regarding this protest. Rumor has it that several high\-level directors will be addressing the crowd directly to settle the disputes. However, at the same time, there's also a different voice on the internet. Some have wondered if this entire event was just incited by people with malicious intent. They call for fans to stay calm and be alert; do not let others take advantage of your passion. <br>
-[Article excerpted from Node News Network]
+> As of the publishing of this report, Monophonic Entertainment has yet to issue a statement regarding this protest. Rumor has it that several high\-level directors will be addressing the crowd directly to settle the disputes. However, at the same time, there's also a different voice on the internet. Some have wondered if this entire event was just incited by people with malicious intent. They call for fans to stay calm and be alert; do not let others take advantage of your passion. 
+
+\[Article excerpted from Node News Network\]
 
 ![r3301.png](./attachments/r3301.png)
 ### Replies
@@ -2090,7 +2113,7 @@ Maybe ask your boss and see if you can leave early to avoid the mob???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3401"/>[#034] [Repost] Explaining the decision behind the contract termination of PAFF
+## <a id="r3401"/>[#034] \[Repost\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2098,18 +2121,19 @@ Maybe ask your boss and see if you can leave early to avoid the mob???
 
 ### Post
 **ROBO_Head**<br>
-[Announcement][Monophonic Entertainment][PAFF][Contract Termination]<br>
+\[Announcement\]\[Monophonic Entertainment\]\[PAFF\]\[Contract Termination\]<br>
 > ... After Miss White went missing without notice, we have also tried our utmost to search for her and handle the losses. However, her action is indeed a violation of her contract and has already caused the company a substantial amount of damage, including property damage, other contract artists getting injured and more. In addition, it has led to the mistrust between fellow fans and the company, something neither of us wants to see happen. <br>
 > <br>
-> Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist...<br>
-[Article excerpted from Monophonic Entertainment's official statement]
+> Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist...
+
+\[Article excerpted from Monophonic Entertainment's official statement\]
 ### Replies
 **ROBO_Head**<br>
 Reason of termination, community preference ranking, from high to low:<br>
-1.[Evading responsibility] 52% <br>
-2.[Avoiding further damages] 41%<br>
-3.[Lack of experience/inability to handle incident] 5%<br>
-4.[A simple violation of contract] 2%
+1.\[Evading responsibility\] 52% <br>
+2.\[Avoiding further damages\] 41%<br>
+3.\[Lack of experience/inability to handle incident\] 5%<br>
+4.\[A simple violation of contract\] 2%
 
 **Rob_Oto**<br>
 Who cares about the reason... just tell me where the hell is PAFF??<br>
@@ -2139,7 +2163,7 @@ God, all these recent incidents are so confusing. I don't what's real and what's
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3501"/>[#035] [Repost] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
+## <a id="r3501"/>[#035] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2149,15 +2173,16 @@ God, all these recent incidents are so confusing. I don't what's real and what's
 
 ### Post
 **ROBO_Head**<br>
-[News][Administration Bureau][Monophonic Entertainment][Riot][PAFF]<br>
+\[News\]\[Administration Bureau\]\[Monophonic Entertainment\]\[Riot\]\[PAFF\]<br>
 > Following the incident a few days ago where angry fans surrounded Monophonic Entertainment Headquarters, a second riot erupted today. This one is largely believed to be related to Monophonic Entertainment's announcement of its contract termination with missing idol singer PAFF. Most fans viewed this as an act of evading responsibility, thus leading to today's incident. <br>
 > <br>
 > Earlier today, fans voluntarily gathered in front of the building once again. According to the analysis by the drone, the crowd this time expanded much faster than last time. This fast\-growing mob quickly jammed the entire traffic network around the site. The furious fans nearly caused the entire situation to go out of control. Fortunately, the Administration Bureau deployed squadrons of law enforcement agents and riot control drones in time to prevent the worst from happening. Using high\-velocity water streams, the agents were able to drive away the rioting crowd and arrest 12 suspects for excessive behavior, finally putting an end to the riot. <br>
 > <br>
 > Monophonic Entertainment later issued a statement regarding this incident. In addition to thanking the Administration Bureau for their timely and efficient help, they also expressed their grief for the actions of the rioting fans. They also restated their point, that Monophonic Entertainment has communicated with PAFF's agent, Helena White, about all the details regarding the contract termination. The two sides reached a peaceful and mutual agreement before the decision was made public. It was not an attempt to evade responsibility, which is what many people outside of the company have suspected. <br>
 > <br>
-> During the suppression, several dozen citizens got injured, mostly due to slipping on the wet surface. Even though no significant injuries were filed, this is still one of the larger physical protests in recent years. The Administration Bureau has treated this issue with extra care. According to several sources, the Bureau plans to form a special investigation team to research countermeasures. On top of that, since the iM system was used as a platform to organize such activities, the Bureau also plans to involve A.R.C., the administrators of the virtual city cyTus, into the discussions to prevent similar incidents from occurring again.<br>
-[Article excerpted from Node News Network]
+> During the suppression, several dozen citizens got injured, mostly due to slipping on the wet surface. Even though no significant injuries were filed, this is still one of the larger physical protests in recent years. The Administration Bureau has treated this issue with extra care. According to several sources, the Bureau plans to form a special investigation team to research countermeasures. On top of that, since the iM system was used as a platform to organize such activities, the Bureau also plans to involve A.R.C., the administrators of the virtual city cyTus, into the discussions to prevent similar incidents from occurring again.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **ROBO_Head**<br>
 Decision: Possibility of another protest within a week: 42%
@@ -2216,7 +2241,7 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3601"/>[#036] [Repost] Research regarding the recreated technology of drones and its subsequent application to society
+## <a id="r3601"/>[#036] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2224,7 +2249,7 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 
 ### Post
 **ROBO_Head**<br>
-[Excerpt][Document][Colin Neumann Jr.][Drones]<br>
+\[Excerpt\]\[Document\]\[Colin Neumann Jr.\]\[Drones\]<br>
 > The Drone is a type of mobile machinery that is equipped with a UI that's shared with the human brain. Originally, they were automatic tools used by the Architects for architecture, excavation, security and other purposes. After "The Decommission" and the disappearance of the Architects, humans founded A.R.C. to recreate and analyze the technology left behind. Due to how widely applicable and convenient the drones are, they are widely used in many fields, especially in areas where it's too risky for humans to venture ourselves.<br>
 > <br>
 > To explain in a level understandable by the general public, not only can these drones be remotely controlled through a shared UI with the human brain, they can also operate on their own by algorithms inputted in advance. The algorithms can be written so that these drones will follow a certain set of principles when they operate. Unfortunately, humans have yet to fully grasp the algorithms used by the drones. This shortcoming led to many accidents (Including the model LE\-110 Striker human assault incident that occurred in 680 N.A.). On top of that, even when remotely controlled via the shared UI by a human, incidents where the drone frankly ignored the pilot's directions and acted on its own were still fairly commonplace. In some large\-scale simulations, the connection error rate even reached a staggering 3%. Of course, as you may have guessed, this number is nowhere to be seen on A.R.C.'s research conclusions.<br>
@@ -2233,7 +2258,8 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 >  <br>
 > It has been two hundred years since humans attempt to gain control over technologies we simply can't grasp. In the face of potential threats and unknown risks, we are unable to give up our innermost greed. We chose to seal them off, in hopes that one day we can truly uncover the secrets behind them. I can't say that this isn't a showcase of arrogant courage, but at the same time, the sheer lack of wisdom in this decision is also painfully noticeable. To those who made this decision, you have my sincere condolences.
 
-[Article excerpted from Dr. Colin Neumann Jr.'s publications in the open academic network]
+
+\[Article excerpted from Dr. Colin Neumann Jr.'s publications in the open academic network\]
 
 ![r3601.png](./attachments/r3601.png)
 ### Replies
@@ -2273,7 +2299,7 @@ All set to write a research paper on drones\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3701"/>[#037] [Repost] Looking back at major riots in history
+## <a id="r3701"/>[#037] \[Repost\] Looking back at major riots in history
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2281,7 +2307,7 @@ All set to write a research paper on drones\~
 
 ### Post
 **ROBO_Head**<br>
-[Riot][Monophonic Entertainment][Social Commentary][Show]<br>
+\[Riot\]\[Monophonic Entertainment\]\[Social Commentary\]\[Show\]<br>
 > Welcome back to Blitz Newsline, the place where we provide news on the latest news. I'm your host, Jay. Alright, the Monophonic Entertainment riot incident that caused quite the ruckus these days has finally come to an end after the Administration Bureau interfered. This is a riot that escalated from a street protest, a rare sight in recent years. What kind of meaning does this represent? Our history expert Sid is here to answer the question. Hello, Sid!<br>
 > <br>
 > Thank you, Jay. As everyone may know, Node 08 has had dozens of street riots just like this one throughout history. Most of them occurred around 200 to 100 years ago. Judging by the records, that time period was when the Architects just disappear and humans were starting to attempt to survive on their own.<br>
@@ -2294,8 +2320,9 @@ All set to write a research paper on drones\~
 > <br>
 > Indeed, mostly because the Administration Bureau's policies gradually matured and the technology products under their control also increased. Take Node 08 for example; the last time we had such a major riot was 23 years ago. Back then, the reason for that was to protest the high taxes. That incident concluded after the law enforcement agents arrested the leader of the rioters. What I want to say is, if an idol can create an incident of this magnitude, we need to discuss whether or not...<br>
 > <br>
-> Stop right there, Sid. We don't need to delve that deep into tiny details; the ratings are dropping. Yu, after we returned from commercials we'll talk more about your Architect report and your hot wife. Stay tuned!<br>
-[Soundbite excerpted from Neo Channel 8's late\-night show "Blitz Newsline"]
+> Stop right there, Sid. We don't need to delve that deep into tiny details; the ratings are dropping. Yu, after we returned from commercials we'll talk more about your Architect report and your hot wife. Stay tuned!
+
+\[Soundbite excerpted from Neo Channel 8's late\-night show "Blitz Newsline"\]
 
 ![r3701.png](./attachments/r3701.png)
 ### Replies
@@ -2313,7 +2340,7 @@ You can tell Sid wants to talk, but the host is trying his best to not let him t
 To be honest, it is pretty stupid to have a riot over something this insignificant
 
 **lrrllrrl**<br>
-Just my two cents, but I feel like the number of angry folks has decreased a lot recently. People are starting to think calmly about what they should do. That [FindingPAFF] website is a pretty good example
+Just my two cents, but I feel like the number of angry folks has decreased a lot recently. People are starting to think calmly about what they should do. That \[FindingPAFF\] website is a pretty good example
 
 **ConneR**<br>
 As you all may observe, the constant repeat of such foolish actions is the perfect showcase of human nature. We are the same as we are two hundred years ago. When we lost our direction, we humans will recklessly fly around in the darkness like headless flies. In order to fulfill our diminishing and selfish greed and desires, we still choose to resort to violence, threats, and force. A sad, neverending vicious cycle.
@@ -2330,7 +2357,7 @@ Very well. Then the first thing we should do is to make sure worthless garbage l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3801"/>[#038] [Announcement] ROBO\_Radio\_LIVE event confirmation
+## <a id="r3801"/>[#038] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2341,7 +2368,7 @@ Very well. Then the first thing we should do is to make sure worthless garbage l
 The first ROBO\_Radio\_LIVE will be held in the cyTus virtual space. Several new songs set to be revealed. Invited guests NEKO\#ΦωΦ and Cherry will be on stage as well. We welcome everyone to join us ：)
 
 For ticket purchases and details on the event, please visit the customized website<br>
-[ROBO\_Radio\_LIVE]
+\[ROBO\_Radio\_LIVE\]
 
 ![h0801.png](./attachments/h0801.png)
 ### Replies
@@ -2570,7 +2597,7 @@ Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4101"/>[#041] [Repost] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
+## <a id="r4101"/>[#041] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2578,15 +2605,16 @@ Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once
 
 ### Post
 **ROBO_Head**<br>
-[News][Node03][Explosion][Fire][Accident][Administration Bureau]<br>
+\[News\]\[Node03\]\[Explosion\]\[Fire\]\[Accident\]\[Administration Bureau\]<br>
 > Last night, a series of chained explosions occurred in Node 03, Quadrant IV. It is suspected that a leak in the local pipeline system has resulted in at least 30 major explosions. The flames quickly engulfed the dozens of buildings nearby. Estimated casualties currently sit at 20 dead and 300+ injured. In order to prevent further accidents, Node 03's Administration Bureau has cut off the energy pipelines and electric power supply within a radius of several kilometers around the area.<br>
 > <br>
 > The epicenter of this disaster is Node 03, Quadrant IV's Genmu Boulevard. The explosions first began with several key buildings and following the explosions, a massive firestorm erupted.  From the images taken by the airborne surveillance cameras, we can see that the buildings were immediately swallowed by the inferno and created a mountain of thick smoke. Large squads of firefighting drones reached the accident site 90 seconds after the initial explosion. They started launching fire extinguishing bombs and firing high\-pressure water streams to keep the fire under control.<br>
 > <br>
 > The rescue workers themselves have reported multiple casualties due to the explosion and the subsequent fire. This includes 6 firefighters, 2 law enforcement agents and 5 possible researchers who were found wearing lab coats.<br>
 > <br>
-> According to the neighborhood, it appears that the power supply experienced some unstableness earlier today. The Administration Bureau's initial speculation is that a crack in the energy transport pipelines caused the accident. The Bureau has issued an emergency evacuation order to civilians who live within Quadrant IV's 203 \~ 903 areas. The head of the security council, Ryu Minatsuki, has also announced that the distribution centers will be opened to the civilians as temporary shelters. Rumors of an inner conflict between the Node 03 Administration Bureau and the gang organizations have been running rampant in recent years. It is yet to be determined if this series of explosions has something to do with gang violence and revenge seeking. The law enforcement department has already launched the investigation. <br>
-[Article excerpted from Node News Network]
+> According to the neighborhood, it appears that the power supply experienced some unstableness earlier today. The Administration Bureau's initial speculation is that a crack in the energy transport pipelines caused the accident. The Bureau has issued an emergency evacuation order to civilians who live within Quadrant IV's 203 \~ 903 areas. The head of the security council, Ryu Minatsuki, has also announced that the distribution centers will be opened to the civilians as temporary shelters. Rumors of an inner conflict between the Node 03 Administration Bureau and the gang organizations have been running rampant in recent years. It is yet to be determined if this series of explosions has something to do with gang violence and revenge seeking. The law enforcement department has already launched the investigation. 
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **ROBO_Head**<br>
 Search: Energy pipeline design charts<br>
@@ -2669,7 +2697,7 @@ Dude, don't jinx us LOLOLOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4201"/>[#042] [Repost] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
+## <a id="r4201"/>[#042] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2677,13 +2705,14 @@ Dude, don't jinx us LOLOLOL
 
 ### Post
 **ROBO_Head**<br>
-[News][Administration Bureau][Law Enforcement Department][Human Trafficking][Pedophile][Cleanup Blitz]<br>
+\[News\]\[Administration Bureau\]\[Law Enforcement Department\]\[Human Trafficking\]\[Pedophile\]\[Cleanup Blitz\]<br>
 > In an attempt to stop cross\-Node human trafficking and online sex crimes which target young children, after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles were among the criminals arrested. What's even more horrifying was that among the human trafficking group suspects, retired law enforcement agents and multiple minor gang members were also part of them.<br>
 > <br>
 > Davis, the head of A.R.C's internet security department who assisted the Administration Bureau in this operation, also stated that the human trafficking groups use the black market and encrypted internet connections for things like information trades and contraband transactions. However, under the assistance of A.R.C., the Administration Bureau was able to get their hands on a large amount of evidence, which allowed them to strike preemptively and crack this case.<br>
 > <br>
-> While the Node 08 Administration Bureau is carrying out the aforementioned operation, four other cities, Node 03, 11, 18, 47 are also launching their own investigations. As the spearhead of this operation, Node 08's law enforcement department stated during the press conference that they apprehended around 40 suspects. All suspects are currently going through interrogation.<br>
-[Article excerpted from Node News Network]
+> While the Node 08 Administration Bureau is carrying out the aforementioned operation, four other cities, Node 03, 11, 18, 47 are also launching their own investigations. As the spearhead of this operation, Node 08's law enforcement department stated during the press conference that they apprehended around 40 suspects. All suspects are currently going through interrogation.
+
+\[Article excerpted from Node News Network\]
 ### Replies
 **ROBO_Head**<br>
 Analysis: This month's internet crime W̸͟͡\#͏̡i̷̵͢͝͞t͢͝y̸̵̕͜i͝͏5̷͘͜͠͝6̶͝7̸̶͞͏̛H̵̀͞͞F̷́͝D̴͘͢8̛͟͟7̶͝0̴̷̧̛͠1̨͠҉̸͠
@@ -2780,7 +2809,7 @@ I keep losing when I play video games +1
 I keep failing whenever I confess through text messages +1
 
 **beeeeeeeeee**<br>
-My S̛̀́̕͢E͏̶̛T̷͜͠4̴̧̛͟͠3̨͝7̴̕͢u̴̕͞8̛͡͡i̸̸͜k͏̶y̡҉̡͏t͟͠ẃ̶e̸̡̧T͏̷̧È҉T͏̶͝҉̛q͏̶͏u̶̷̢̕j̷̵y͡҉̶̢͟g҉̢̕͝h̶̀̕k̶J̵̡̡͘g̕͡t̵͞h̷͏͡,̷̧̧͘͢j̵̡̡͢l҉̕͠͡P̷͝͝͞(̷͏̧͡ų̴̵͢i̶͠͏̕;̡l̴͟͠͏o̵̧̢͢͝i̧͘͞͡͡;͝͝͏̷9̨̀͟͢3́̕͞6̸҉̴̨́4̶̀͞$̢̨ +1
+My S̛̀́̕͢E͏̶̛T̷͜͠4̴̧̛͟͠3̨͝7̴̕͢u̴̕͞8̛͡͡i̸̸͜k͏̶y̡҉̡͏t͟͠ẃ̶e̸̡̧T͏̷̧È҉T͏̶͝҉̛q͏̶͏u̶̷̢̕j̷̵y͡҉̶̢͟g҉̢̕͝h̶̀̕k̶J̵̡̡͘g̕͡t̵͞h̷͏͡,̷̧̧͘͢j̵̡̡͢l҉̕͠͡P̷͝͝͞(̷͏̧͡ų̴̵͢i̶͠͏̕;̡l̴͟͠͏o̵̧̢͢͝i̧͘͞͡͡;͝͝͏̷9̨̀͟͢3́̕͞6̸҉̴̨́4̶̀͞\$̢̨ +1
 
 **Hulujam**<br>
 My lottery tickets all become worthless duds +1

@@ -1,11 +1,11 @@
 # Cherry iM Posts
 ## <a id="toc"/>List of Posts
 - [[#001] 《Cherry PuNK》New Official Account](#h0101)
-- [[#002] [Announcement] Additional Event Announcement](#h0201)
+- [[#002] \[Announcement\] Additional Event Announcement](#h0201)
 - [[#003] Thank you to everyone who came yesterday](#h0301)
 - [[#004] The corner of the city](#h0401)
 - [[#005] Regarding recent rumors](#h0501)
-- [[#006] [Announcement] A thank you to fans and others for the support](#h0601)
+- [[#006] \[Announcement\] A thank you to fans and others for the support](#h0601)
 - [[#007] Thank you to everyone for your concerns](#h0701)
 - [[#008] ROBO\_Radio\_LIVE performance announcement](#h0801)
 
@@ -99,7 +99,7 @@ They're two sides of the same coin, no point arguing
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0201"/>[#002] [Announcement] Additional Event Announcement
+## <a id="h0201"/>[#002] \[Announcement\] Additional Event Announcement
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -107,7 +107,7 @@ They're two sides of the same coin, no point arguing
 
 ### Post
 **CherryPuNK**<br>
-[Announcement]<br>
+\[Announcement\]<br>
 This week, the "Floor 108 Opening Celebration Event" held at Quadrant III's Tower 054 has invited Cherry PuNK for a special performance. Come and celebrate this occasion with us! (The event is completely free!)
 
 Time: 702/09/15 PM 03:00 \~ PM 04:30
@@ -174,7 +174,7 @@ Don't pay attention to the haters, Cherry fight! I will be there in the front ro
 YEAHHHHH! New song QQ
 
 **KiwaHu**<br>
-Will Cherry be singing Crystal PuNK's songs this time? Heard it last time, been wanting to hear it live again since >\_
+Will Cherry be singing Crystal PuNK's songs this time? Heard it last time, been wanting to hear it live again since >\_<
 
 **CherryPuNK**<br>
 Yes, she said that she will at least sing "Still"<br>
@@ -320,7 +320,7 @@ Haven't seen Xenon a lot these days
 Probably dealing with the AEsir case
 
 **xxScarlexx**<br>
-That case was so freaky. Tend to stay away from chip surfing now``
+That case was so freaky. Tend to stay away from chip surfing now\`\`
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -526,7 +526,7 @@ Wow Cherry backing up Xenon in her own statement
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0601"/>[#006] [Announcement] A thank you to fans and others for the support
+## <a id="h0601"/>[#006] \[Announcement\] A thank you to fans and others for the support
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -534,7 +534,7 @@ Wow Cherry backing up Xenon in her own statement
 
 ### Post
 **CherryPuNK**<br>
-[Announcement]<br>
+\[Announcement\]<br>
 Hello everyone<br>
 We have an emergency announcement to make<br>
 Earlier today, our lead voaclist Cherry was entering the Monophonic Entertainment headquarters building when she was accidently caught in the violent actions of the protesters.<br>
@@ -725,7 +725,7 @@ I hope I can spend this time together with all of you<br>
 Thank you
 
 For more details, please visit the event website:<br>
-[ROBO\_Radio\_LIVE]
+\[ROBO\_Radio\_LIVE\]
 
 Cherry
 

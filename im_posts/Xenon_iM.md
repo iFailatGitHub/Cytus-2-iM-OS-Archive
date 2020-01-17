@@ -2,9 +2,9 @@
 ## <a id="toc"/>List of Posts
 - [[#001] Returning to the skies.](#x0101)
 - [[#002] Preparing broadcast for new song.](#x0201)
-- [[#003] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#x0301)
+- [[#003] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#x0301)
 - [[#004] About Æsir\-FEST.](#x0401)
-- [[#005] [Ticket Request] One in physical area A for 7th PAFFCON.](#x0501)
+- [[#005] \[Ticket Request\] One in physical area A for 7th PAFFCON.](#x0501)
 - [[#006] About Xenon and this iM account.](#x0601)
 - [[#007] About the optic guitar.](#x0701)
 - [[#008] My band members.](#x0801)
@@ -114,7 +114,7 @@ SOLO is awesome!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0301"/>[#003] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="x0301"/>[#003] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -127,7 +127,8 @@ SOLO is awesome!!
 
 ### Post
 **Xenon**<br>
-> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
+\> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
+
 Personally, I really like PAFF, but even I won't go creating a commotion like this.
 
 ![r0701.png](./attachments/r0701.png)
@@ -243,7 +244,7 @@ Node03: Just according to Keikaku!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0501"/>[#005] [Ticket Request] One in physical area A for 7th PAFFCON.
+## <a id="x0501"/>[#005] \[Ticket Request\] One in physical area A for 7th PAFFCON.
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1045,7 +1046,7 @@ This personal account has always existed for the sole purpose of sharing music. 
 This situation might still continue for a while. To the people who have been supporting and looking forward to my music, I can only apologize from the bottom of my heart...
 
 A special promotional shoutout here for **@ROBO\_Head** and his upcoming event <br>
-[ROBO\_Radio\_LIVE]<br>
+\[ROBO\_Radio\_LIVE\]<br>
 Seeing so many friends in the music industry participate in this event does make me a bit envious, since I couldn't join them. Unfortunately, I just couldn't find the time to prepare a performance. What a shame.<br>
 Still, a sincere thank you for the invitation. <br>
 Wish the event a great success.

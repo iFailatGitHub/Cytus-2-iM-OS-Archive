@@ -1,31 +1,31 @@
 # PAFF iM Posts
 ## <a id="toc"/>List of Posts
 - [[#001] New Song Released.](#p0101)
-- [[#002] [Announcement] Connect to major platforms now!](#p0201)
+- [[#002] \[Announcement\] Connect to major platforms now!](#p0201)
 - [[#003] Thank you.](#p0301)
 - [[#004] Thank you for the support!](#p0401)
-- [[#005] [Announcement] 7th PAFFCON, ticket sales begin](#p0501)
-- [[#006] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#p0601)
+- [[#005] \[Announcement\] 7th PAFFCON, ticket sales begin](#p0501)
+- [[#006] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#p0601)
 - [[#007] 7th PAFFCON, sold out](#p0701)
 - [[#008] Want to chat with everybody.](#p0801)
-- [[#009] [Repost] Newest fall catalog ft. collaboration with PAFF](#p0901)
+- [[#009] \[Repost\] Newest fall catalog ft. collaboration with PAFF](#p0901)
 - [[#010] Good afternoon everyone, This is PAFF. ^^](#p1001)
 - [[#011] At the backstage.](#p1101)
 - [[#012] PAFF\-Official on Air.](#p1201)
-- [[#013] [Emergency Announcement]](#p1301)
-- [[#014] [Announcement] PAFF is now awake, everything is fine.](#p1401)
+- [[#013] \[Emergency Announcement\]](#p1301)
+- [[#014] \[Announcement\] PAFF is now awake, everything is fine.](#p1401)
 - [[#015] Going back home, sorry for making everybody worried.](#p1501)
-- [[#016] [Announcement] Public schedule put on hold](#p1601)
+- [[#016] \[Announcement\] Public schedule put on hold](#p1601)
 - [[#017] Please give PAFF all your support!](#p1701)
 - [[#018] Check up.](#p1801)
-- [[#019] [Announcement] Premium collection now underway!](#p1901)
-- [[#020] [Announcement] Activities suspended and rest](#p2001)
-- [[#021] [Announcement] Regarding《Around the Nodes》concert tour refunds](#p2101)
-- [[#022] [Announcement] Tower 054 celebration event guest revealed](#p2201)
-- [[#023] [Announcement] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#p2301)
+- [[#019] \[Announcement\] Premium collection now underway!](#p1901)
+- [[#020] \[Announcement\] Activities suspended and rest](#p2001)
+- [[#021] \[Announcement\] Regarding《Around the Nodes》concert tour refunds](#p2101)
+- [[#022] \[Announcement\] Tower 054 celebration event guest revealed](#p2201)
+- [[#023] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#p2301)
 - [[#024] I am very sorry to everyone](#p2401)
-- [[#025] [Announcement] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides](#p2501)
-- [[#026] [Annoucement] Explaining the decision behind the contract termination of PAFF](#p2601)
+- [[#025] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides](#p2501)
+- [[#026] \[Annoucement\] Explaining the decision behind the contract termination of PAFF](#p2601)
 
 ## <a id="p0101"/>[#001] New Song Released.
 ### Unlocked Charts
@@ -106,7 +106,7 @@ BOUGHT!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0201"/>[#002] [Announcement] Connect to major platforms now!
+## <a id="p0201"/>[#002] \[Announcement\] Connect to major platforms now!
 ### Unlocked Charts
 |   Song   |Character|Diff.|Level|
 |----------|:-------:|:---:|:---:|
@@ -294,7 +294,7 @@ The composers that help make the music this time are also very good. The music m
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0501"/>[#005] [Announcement] 7th PAFFCON, ticket sales begin
+## <a id="p0501"/>[#005] \[Announcement\] 7th PAFFCON, ticket sales begin
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -361,7 +361,7 @@ PAFF give me strength! Please let me get one!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0601"/>[#006] [Repost] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="p0601"/>[#006] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -374,7 +374,8 @@ PAFF give me strength! Please let me get one!
 
 ### Post
 **PAFF-Official**<br>
-> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."<br>
+\> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
+
 Fellow little Puffs please keep your emotions in check. Don't injure yourselves and please follow the rules!
 
 ![r0701.png](./attachments/r0701.png)
@@ -594,7 +595,7 @@ Everyone, thank you. ^^
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0901"/>[#009] [Repost] Newest fall catalog ft. collaboration with PAFF
+## <a id="p0901"/>[#009] \[Repost\] Newest fall catalog ft. collaboration with PAFF
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -608,8 +609,9 @@ Everyone, thank you. ^^
 
 ### Post
 **PAFF-Official**<br>
-> For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant\-garde elements creates a colorful and unique autumn listing. <br>
-> Available on both physical and virtual storefronts! Dress\-switch now and experience the latest fashion!<br>
+\> For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant\-garde elements creates a colorful and unique autumn listing. <br>
+> Available on both physical and virtual storefronts! Dress\-switch now and experience the latest fashion!
+
 PAFF and 9Tan Design's collab autumn clothes are now available\~ This time, PAFF also performs the sponsored theme "Fireflies", please don't forget to listen!
 
 ![p0901.png](./attachments/p0901.png)
@@ -848,7 +850,7 @@ Look forward to seeing PAFF!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1301"/>[#013] [Emergency Announcement]
+## <a id="p1301"/>[#013] \[Emergency Announcement\]
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -984,7 +986,7 @@ We should all pray...pray that PAFF will be alright<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1401"/>[#014] [Announcement] PAFF is now awake, everything is fine.
+## <a id="p1401"/>[#014] \[Announcement\] PAFF is now awake, everything is fine.
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1223,7 +1225,7 @@ Good work for both you and Sis! We will always support you!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1601"/>[#016] [Announcement] Public schedule put on hold
+## <a id="p1601"/>[#016] \[Announcement\] Public schedule put on hold
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1481,7 +1483,7 @@ PAFF you're on your way<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1901"/>[#019] [Announcement] Premium collection now underway!
+## <a id="p1901"/>[#019] \[Announcement\] Premium collection now underway!
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1550,7 +1552,7 @@ We can only wait and see
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2001"/>[#020] [Announcement] Activities suspended and rest
+## <a id="p2001"/>[#020] \[Announcement\] Activities suspended and rest
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1645,7 +1647,7 @@ Puffs let's go to Mono Music to figure out what the hell is up!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2101"/>[#021] [Announcement] Regarding《Around the Nodes》concert tour refunds
+## <a id="p2101"/>[#021] \[Announcement\] Regarding《Around the Nodes》concert tour refunds
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1746,7 +1748,7 @@ Don't really want to support Mono's events from now on. SkyEkho might be the bet
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2201"/>[#022] [Announcement] Tower 054 celebration event guest revealed
+## <a id="p2201"/>[#022] \[Announcement\] Tower 054 celebration event guest revealed
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1832,7 +1834,7 @@ Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2301"/>[#023] [Announcement] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## <a id="p2301"/>[#023] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2021,7 +2023,7 @@ What happened PAFF >"< Why are you making everyone so worried
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2501"/>[#025] [Announcement] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
+## <a id="p2501"/>[#025] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2110,7 +2112,7 @@ I combined the two hashtags so we can kill two birds with one stone. I'm a geniu
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2601"/>[#026] [Annoucement] Explaining the decision behind the contract termination of PAFF
+## <a id="p2601"/>[#026] \[Annoucement\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
 |Character|Level|
 |---------|:---:|

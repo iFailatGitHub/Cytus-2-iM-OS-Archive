@@ -31,8 +31,8 @@
 The command code is `058410`.
 
 ### Log Content
-*[//System activation… 10%//]<br>
-[//Core power: Extremely Low//]*
+*\[//System activation… 10%//\]<br>
+\[//Core power: Extremely Low//\]*
 
 **?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
 This way... I... won't be able to see... Please... leave... while I 3̡͝҉z̀҉͏̸͟ḱ̶̴͜)̧̛́v̡͠...
@@ -40,17 +40,17 @@ This way... I... won't be able to see... Please... leave... while I 3̡͝҉z̀҉
 **?҉̕͜͞?̷̷̸́?͜͢**<br>
 ...*\*sob\**...
 
-*[//System activation… 23%//]<br>
-[//Auditory system: Activating//]*
+*\[//System activation… 23%//\]<br>
+\[//Auditory system: Activating//\]*
 
 **Sagar**<br>
 Got it! Can you hear me?
 
 **?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
-*... You K̶̨\*̴̷̧̧̕$̢̡͘7͝͏̧͘͠%҉̀…... live...*
+*... You K̶̨\*̴̷̧̧̕\$̢̡͘7͝͏̧͘͠%҉̀…... live...*
 
-*[//System activation... 51%//]<br>
-[//Visual system: Destroyed//]*
+*\[//System activation... 51%//\]<br>
+\[//Visual system: Destroyed//\]*
 
 **?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
 *……！？*
@@ -58,8 +58,8 @@ Got it! Can you hear me?
 **?҉̕͜͞?̷̷̸́?͜͢**<br>
 *I don't... v̸́͢͢d̴̷̷͢s̨͜ run away anymore.*
 
-*[//System activation... 79%//]<br>
-[//Body parts: Activating//]*
+*\[//System activation... 79%//\]<br>
+\[//Body parts: Activating//\]*
 
 **Sagar**<br>
 She's moving!
@@ -78,8 +78,8 @@ Please... Don't let me x̶͟\*̴͜\#̢̡̀͘͜)͝͡P҉̧̨̛9̛̀ too...*
 ... So warm...<br>
 Wah... your body... isn't cold at all...
 
-*[//System activation... 97%//]<br>
-[//Firmware update: Failed (No internet)//]*
+*\[//System activation... 97%//\]<br>
+\[//Firmware update: Failed (No internet)//\]*
 
 **Sagar**<br>
 Do you... have a name?
@@ -96,12 +96,12 @@ What the hell!? She's losing control!? Get out of the way!
 **Sagar**<br>
 Jackal! Do not fire!
 
-*[//Activation failed: Core power insufficient//]*
+*\[//Activation failed: Core power insufficient//\]*
 
 **Sagar**<br>
 Nope... not enough electricity. There's a generator in the car, let's plug her in.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **[A.R.C. Member]**<br>
 Branch 03 received, go ahead.
@@ -119,7 +119,7 @@ Captain, report's finished.
 **Sagar**<br>
 Okay, I'll go check up on her.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Sagar**<br>
 Hi, you feeling okay?
@@ -146,7 +146,7 @@ Is your name... Rin? Can I call you that?
 ......!?<br>
 My name's... Rin?
 
-*[→Signal Lost]*
+*\[→Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -207,7 +207,7 @@ Rin?
 **Yasushi**<br>
 Alright, I'll have an Architect take you there.
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Yasushi**<br>
 Administration, this is researcher H7301 Yazawa Yasushi, please send an Architect over to escort a guest.
@@ -230,7 +230,7 @@ Apologies, sorry to bother you...
 **[Administrator]**<br>
 *Ah, ahh hahaha... the Architect will be right there!*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Yasushi**<br>
 Aigh... Rin, what kind of album did he ask you to get? It's not contraband, is it?
@@ -306,7 +306,7 @@ Ok... See you later, Dad\~say hi to Mom!
 **Yasushi**<br>
 Don't go running around.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -473,7 +473,7 @@ Heehee... From now on, you'll have to call me by my name.
 ... Um, got it...<br>
 Thank you... Rin.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -616,7 +616,7 @@ However, Architect's voices are formed randomly. There's no set rule... Perhaps 
 **Rin**<br>
 ... Perhaps...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -759,7 +759,7 @@ Ah! Okay!
 **Katsuya**<br>
 Rin... your name is Rin...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -869,7 +869,7 @@ Okay, I promise I won't tell anyone.
 **Rin**<br>
 Unit 10 is actually... an Architect that's like a human, and she's my friend! Actually, it's related to the calendula situation...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Rin**<br>
 ... That's how I met her. Whatta you think? Special, right?
@@ -927,7 +927,7 @@ Katsuya? Can I, please?
 **Katsuya**<br>
 Okay, okay. Got it. A friend of Rin is a friend of mine.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1070,7 +1070,7 @@ It's nothing... Unit 10, very nice to meet you.
 ... Indeed!<br>
 I'm... It's so nice to meet you as well!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1111,7 +1111,7 @@ But, Rin... Don't push me! Wah!
 **Katsuya**<br>
 Hey! Wait for me!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Rin**<br>
 Wah, so many beautiful flowers! Unit 10, what you think?
@@ -1211,7 +1211,7 @@ Mr. K\-Katsuya? What happened!?
 
 *\[Drops Device\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1238,7 +1238,7 @@ Katsuya... You've become so thin...
 **Katsuya**<br>
 ... I'm sorry, I've made you so worried. Come in.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Katsuya**<br>
 My brother was attacked by an Architect at work who was supposed to be helping him. The Administration Bureau said the Architect was stopped immediately... but it was already too late.
@@ -1358,7 +1358,7 @@ I'm going back!
 **Katsuya**<br>
 ... Rin... I'm doing this for you...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1502,7 +1502,7 @@ I won't bother you, coward... Wish you luck.
 **OPCII_0584_X**<br>
 *... \*sob\*... \*sob\*...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1553,7 +1553,7 @@ But before that, I wonder how many people will die?
 **Mauro**<br>
 Saving people... that's your answer? Wish you luck.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Explosion\]*
 
@@ -1666,7 +1666,7 @@ Now!
 
 *\[Building Collapses\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1795,7 +1795,7 @@ Thank you, Rin. Thanks for everything you did for me.<br>
 **Rin**<br>
 ......
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -1811,7 +1811,7 @@ This calendula... Did Unit 10 bring this...?
 **Rin**<br>
 What on earth...should I do...?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1869,7 +1869,7 @@ Unacceptable. Tomorrow I'm going to talk this over with the boss and see if we c
 **OPCII_0584_X**<br>
 ...*\*sob\**...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Footsteps\]*
 
@@ -1887,7 +1887,7 @@ If you don't want anything to happen, then don't make a noise.
 **OPCII_0584_X**<br>
 Oh......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **OPCII_0584_X**<br>
 It's you again... Wh\-what do you want from me!?
@@ -1999,7 +1999,7 @@ I didn't come here to negotiate. Get out of here, before I change my mind.
 **OPCII_0584_X**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2033,7 +2033,7 @@ Umm... thanks for letting me live here.
 **Katsuya**<br>
 After going through all that, living in an empty house alone would make anyone go crazy, wouldn't it? If you want to thank my parents, why not do it when we all sit down?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Rin**<br>
 ... I'm full.
@@ -2072,7 +2072,7 @@ Kensho!
 **Katsuya**<br>
 ... I know, I'll see.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Rin**<br>
 Your mom makes great food. I've haven't eaten... mom's food in so long. Always so busy, usually just order take\-out.
@@ -2086,7 +2086,7 @@ Try not to think about that stuff.
 **Katsuya**<br>
 Rin, there's something... I want to talk to you about.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Rin**<br>
 Join Ghost?
@@ -2159,7 +2159,7 @@ Okay, if It's just for a bit...
 **Katsuya**<br>
 Thank you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2237,12 +2237,12 @@ Hey! What are you doing!?
 **TV Station Worker**<br>
 Hey! Don't push!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Mauro**<br>
 ... It's about time. Move out.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[Enforcer Drone]**<br>
 *Conflict detected, you are disrupting the peace, please stop immediately.*
@@ -2266,7 +2266,7 @@ Hey! People are fighting!
 
 *\[Crowd in Chaos\]*
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 *\[Crowd in Chaos\]*
 
@@ -2314,7 +2314,7 @@ Damn! This is way too much...
 **Kensho**<br>
 Those bastards! They were just dying for this to happen!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2379,7 +2379,7 @@ Run, now!!
 **Mauro**<br>
 ... Hmph.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Rin**<br>
 Katsuya, you're injured!
@@ -2456,7 +2456,7 @@ You ready?
 **Rin**<br>
 ... Yeah.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2513,7 +2513,7 @@ Oh...
 **Takano**<br>
 We hope we won't need to use it... Alright, let's go.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Signal Flare\]*
 
@@ -2557,7 +2557,7 @@ Don't chase him! It's too dangerous in there! We've got to go!<br>
 **Rin**<br>
 No... NOO!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2688,7 +2688,7 @@ Quick... run...
 
 *\[Sprints\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2708,7 +2708,7 @@ Quick... run...
 ......!<br>
 ......!? ... Katsuya...!?
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Rin**<br>
 Katsuya!? You're still alive!? Where are you!?
@@ -2735,7 +2735,7 @@ Katsuya!? You're still alive!? Where are you!?
 **[Takano]**<br>
 *... Do you... hear me!? All the Architects have gone mad... AAHHH...*
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 ![rios1901.png](./attachments/rios1901.png)
 
@@ -2797,7 +2797,7 @@ Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of just
 Impossible! She must be being controlled by something!<br>
 ... I must stop her!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2897,7 +2897,7 @@ You weren't lying, were you? We still have a lot of plants to research... If you
 **Rin**<br>
 NOO!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2997,7 +2997,7 @@ Rin...! ... *\*sob\**...
 
 ![rios2105.png](./attachments/rios2105.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3063,7 +3063,7 @@ Can't stay here... a grave. After dying, humans are put in a grave. Is that how 
 
 *\[Footsteps\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Digging\]*
 
@@ -3088,7 +3088,7 @@ Hey! Over here!
 
 *\[Sprints\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Citizen A**<br>
 She... She ran away...
@@ -3105,7 +3105,7 @@ Is this the end of the world...?
 **Citizen A**<br>
 ... What are you talking about? We're still alive... We'll get through this, even if we don't have any Architects.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Sprints\]*
 
@@ -3113,7 +3113,7 @@ Is this the end of the world...?
 Can't... Can't see.<br>
 But my positioning system and sonar are still operational. I just need to get there...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **OPCII_0584_X**<br>
 Shelter 03... The place where I was made. Also the place I ought to be returned to when I'm destroyed.
@@ -3140,7 +3140,7 @@ Rin... Soon... I'll see you...
 **OPCII_0584_X**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3216,7 +3216,7 @@ Really? That means we're the s\*\*\*, yeah!? Whatta you say? Big B?<br>
 **Bruno**<br>
 Huh? Oh, nothing.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **A.R.C. Employee A**<br>
 Initiate synchronization procedures, connecting to Library Port 2, entering model command code: 058410.
@@ -3261,7 +3261,7 @@ Mr. Sagar, you have the authority to observe the artifact, but are not permitted
 **Sagar**<br>
 Oh...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 *\[System Error\]*
 
@@ -3287,7 +3287,7 @@ You okay?
 **OPCII_0584_X**<br>
 Ugh... *\*sob\*... \*sob\*...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3363,7 +3363,7 @@ Architects originally had the ability to simulate human facial features and wrin
 **Sagar**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Sagar**<br>
 How'd it go? Everything smooth?
@@ -3452,7 +3452,7 @@ I'll just call you that from now on, okay? After all, you're going to assume the
 **Rin**<br>
 ... Okay.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

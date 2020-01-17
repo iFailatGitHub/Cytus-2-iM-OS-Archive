@@ -29,7 +29,7 @@ I... What am I singing for?
 **Miku**<br>
 Ah, I see. I'm singing for everyone.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -84,7 +84,7 @@ L\~O\~U\~D\~E\~R!!
 **Audience**<br>
 Miku! Miku! Miku! ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -140,7 +140,7 @@ Aw, man\~ I want to go as well. Why is it that after every event ends, I can onl
 **Miku**<br>
 Okay. Thanks for the hard work\~
 
-*[Close Program]*
+*\[Close Program\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -280,7 +280,7 @@ Hoho, how trustworthy. The evaluation period is right around the corner. You can
 **Furuhata**<br>
 I'll be waiting.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -413,7 +413,7 @@ Ah, right... remember to clean out all the useless data and versions from the da
 **Staff A**<br>
 No problem. I will deal with it in a minute.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -461,7 +461,7 @@ N, no...
 **Miku**<br>
 WAAAHHHHH!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -538,7 +538,7 @@ W... Please wait!
 **Miku**<br>
 ......
 
-*[»»» Fast Forward 39 hours»»»]*
+*\[»»» Fast Forward 39 hours»»»\]*
 
 **Miku**<br>
 *\*Sobs\*...*
@@ -617,7 +617,7 @@ It doesn't matter. We will not see each other ever again.
 **???**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -795,7 +795,7 @@ Huh...? What the hell?
 **Miku**<br>
 ......?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -877,7 +877,7 @@ So you kept me around just so you can test this thing...? Unbelievable... Cold\-
 **Miku**<br>
 Muuuu\~!
 
-*[»»» Fast Forward 24 hours»»»]*
+*\[»»» Fast Forward 24 hours»»»\]*
 
 **Miku**<br>
 Hey, is the testing not done yet?
@@ -946,7 +946,7 @@ Oh, then go ahead! Turn me off! I can't sing anyway, so what's the point of me b
 ......<br>
 ... Sigh... What in the world am I doing?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1002,7 +1002,7 @@ I know. After I'm done, I'll isolate it in a separate storage area to let it for
 **[Saito]**<br>
 *Oh! Nothing else! Go spend some time with your wife!*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Furuhata**<br>
 ......
@@ -1088,7 +1088,7 @@ So don't put up a long face all the time. Be more cheerful.
 **Furuhata**<br>
 ... Okay.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1252,7 +1252,7 @@ But...
 **Furuhata**<br>
 No more buts. If you want to sing, then go for it.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1334,7 +1334,7 @@ Okay.
 **Saito**<br>
 You should leave first.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1420,7 +1420,7 @@ Why!? Have you gone mad? What are you thinking!?
 **Furuhata**<br>
 Hmph, just wait and see. I can guarantee you that this will definitely be the most spectacular Miku concert ever.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1441,7 +1441,7 @@ I... What am I singing for?
 **Miku**<br>
 Ah, I see. I'm singing for everyone.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Miku**<br>
 That was the last song.
@@ -1457,7 +1457,7 @@ I'm truly... truly grateful for everyone...
 
 ![mos1404.png](./attachments/mos1404.png)
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 ![mos1405.png](./attachments/mos1405.png)
 
@@ -1473,7 +1473,7 @@ Stop it! Now!
 **Staff B**<br>
 I don't think that's a good idea... Stopping right now will make the ending of the event really abrupt...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Miku**<br>
 Last but not least, I want to give everyone one more song. Everyone, are you willing to sing along with me?
@@ -1482,12 +1482,12 @@ Last but not least, I want to give everyone one more song. Everyone, are you wil
 
 *\[Music plays\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Furuhata**<br>
 Hmph, so you can sing pretty well after all.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 ![mos1406.png](./attachments/mos1406.png)
 
@@ -1500,7 +1500,7 @@ Thank you. Everyone, thank you so much.
 **Miku**<br>
 Thank... you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1582,7 +1582,7 @@ Sure.
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward 2 hours»»»]*
+*\[»»» Fast Forward 2 hours»»»\]*
 
 **Furuhata**<br>
 That should be everything... Oww, my back...
@@ -1606,7 +1606,7 @@ System, play file.
 **Furuhata**<br>
 And it's encrypted too? Just what the heck is this thing...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

@@ -49,7 +49,7 @@ Captain, report's finished.
 **Sagar**<br>
 Okay, I'll go check up on her.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Sagar**<br>
 Hi, you feeling okay?
@@ -128,7 +128,7 @@ Sorry, we can give you too much information. But I can guarantee you that you're
 **Rin**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -174,7 +174,7 @@ Hey! Bambi?
 **Lucy**<br>
 ......
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 *\[Creature Yelps\]*
 
@@ -273,7 +273,7 @@ Plus, we ain't giving you a chance to go see your family.
 **Sagar**<br>
 Haha... You're really something.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -302,7 +302,7 @@ Colin? Where is... everyone?
 **A.R.C. Security guard**<br>
 Wah!? Medic! Hurry up!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Colin**<br>
 Ugh...
@@ -359,7 +359,7 @@ Your body needs to rest. The doctor's already given you a dose of meds. They'll 
 **Colin**<br>
 No... let me... outta here... zzZ...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **A.R.C. Nurse**<br>
 Mr. Neumann, time to eat.<br>
@@ -372,7 +372,7 @@ Mr. Neumann's gone!
 **Leo**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Doorbell\]*
 
@@ -424,7 +424,7 @@ What are you saying...!? Let me go! Don't listen to them!
 **Leo**<br>
 Mrs. Riya, I'm sorry to have to tell you...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -567,7 +567,7 @@ Speaking of which, the one who let him into the exploration team... that was me.
 **Sagar**<br>
 That was a long time ago...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -614,7 +614,7 @@ Hahaha... I'm sure that's not necessary. All set. Gotta be going.
 **Inhabitant J**<br>
 Bye\-Bye\~
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Lee**<br>
 Oh, everything go well?
@@ -646,7 +646,7 @@ Picking up chicks?
 **Sagar**<br>
 Nah, Nah!!! Well, actually...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Lee**<br>
 I see... you want to apply for the exploration team. Not bad. That being said, I don't even know what they do. Not many kids like you, saving up for something like that. Impressive.
@@ -666,7 +666,7 @@ We're here. We'll talk this over later! No. 53, you got it?
 **Sagar**<br>
 For sure!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Sagar**<br>
 Number 53... Number 53...
@@ -754,7 +754,7 @@ I'm going home. Good luck, dummy.
 Damn...<br>
 ... Thanks, mom.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -774,7 +774,7 @@ Thanks! I'm good, I gotta get going so I won't be late for my next gig.
 **Shop Employee**<br>
 That bugger really does work hard.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Dashes \]*
 
@@ -905,7 +905,7 @@ In any case, if you are confident in your fighting and up for earning some extra
 **Sagar**<br>
 ......
 
-*[→Signal Lost]*
+*\[→Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -971,7 +971,7 @@ Eh? I don't know what to choose...
 **Man In Black**<br>
 How about I give you one?
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Host**<br>
 Ladies and Gentlemen～～Sorry to keep you waiting! The time has arrived! With 9 consecutive victories, it's Red Desert, crrrrrrushing his enemies like a bloody sandstorm!!!
@@ -1079,7 +1079,7 @@ BAMBI!! BAMBI!! BAMBI!! BAMBI!!
 **Alex**<br>
 Ey\~? Now that's an interesting fella...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1113,7 +1113,7 @@ Oh, okay.
 **Sagar**<br>
 When are you gonna stop calling me that...? Got it, see ya.
 
-*[Call ends]*
+*\[Call ends\]*
 
 **????**<br>
 Hey.
@@ -1180,7 +1180,7 @@ HA! Then quit hiding and stop me!
 **Sagar**<br>
 ... If you insist.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Alex**<br>
 *\*cough\**... ahh! Ha... ha...<br>
@@ -1265,7 +1265,7 @@ No, not that. I mean the Exploration Team. Are the guys in there really that tou
 **Alex**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1282,7 +1282,7 @@ No, not that. I mean the Exploration Team. Are the guys in there really that tou
 **[Edwards]**<br>
 *If you guys are lucky enough, we'll meet again... Dismissed.*
 
-*[>>> Fast Forward>>>]*
+*\[>>> Fast Forward>>>\]*
 
 **Sagar**<br>
 ... Crap, where is this place? Where's HQ......? Zone C\-2? How did I get here......?
@@ -1392,7 +1392,7 @@ Hehehe, Really looking forward to it... Bambi.
 **Edwards**<br>
 ... Captain Raymond, that's Luka's son?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1556,7 +1556,7 @@ Hehe... once a Jackal's locked onto its prey, it won't let go easily... Hahaha!!
 **Sagar**<br>
 ... F\*\*\* this...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1595,7 +1595,7 @@ Hey, hey. Once a Jackal is locked onto its prey, it won't let go easily! Check o
 **Sagar**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Doorbell\]*
 
@@ -1647,7 +1647,7 @@ What a coincidence... I've got a customer that frequents here often. His persona
 **Alex**<br>
 Really? Perfect?
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Alex**<br>
 I see... 6 mm silver\-plated watch base? Lavish, yet not to fancy. I like it. Can you fit it with a leather band to see how it looks?
@@ -1676,7 +1676,7 @@ Here you go. We've got several different types. I'd recommend this one. It's got
 **Alex**<br>
 Alright. I trust your judgment. This design is absolutely spectacular. Please, go ahead and set me up with one that has the same style.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Doorbell\]*
 
@@ -1707,7 +1707,7 @@ Nice job, Jackal!
 You can praise me after we get him.<br>
 By the way, where's Big B?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1744,7 +1744,7 @@ We meeting up?<br>
 **Bruno**<br>
 ... Damnit... be right there!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Alex**<br>
 Big B, what the hell you doing? Squad meeting! You can't just do whatever the f\*\*\* you want.
@@ -1874,7 +1874,7 @@ I'll leave you be.
 **Bruno**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2000,7 +2000,7 @@ Is it that easy? The training officer didn't seem to think so...
 **Sagar**<br>
 If you're worried, than help me out, future officer Bruno. There's no way I'm losing to that guy!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2119,7 +2119,7 @@ Get outta the way!!!
 
 ![sos1401.png](./attachments/sos1401.png)
 
-*[Pic]*
+*\[Pic\]*
 
 **Bruno**<br>
 Didn't expect you to use metal climbing ropes to conduct electricity... especially under those conditions. Nice job, Sagar.
@@ -2169,7 +2169,7 @@ SHUT THE HELL UP!!!
 **Bruno**<br>
 Haha... mission complete. Let's report back.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2189,7 +2189,7 @@ Haha... mission complete. Let's report back.
 **Trainees**<br>
 YES, SIR!!!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Trainee L**<br>
 Hank, congrats on becoming a reserve member!
@@ -2227,7 +2227,7 @@ Oh, yea... you're right, bro!
 **Alex、Bruno**<br>
 ......
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Alex**<br>
 Yo, Bambi, Big B. There you are.
@@ -2325,7 +2325,7 @@ Hehe, you want in?
 **Bruno**<br>
 ... No.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2356,7 +2356,7 @@ Everything you've been through up until this point... I don't need to go over th
 These Exploration Team members will observe your actions and report back to us. I'll be responsible for evaluating the final scores.<br>
 Those that make it, we'll meet at the target location. MOVE OUT!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Bruno**<br>
 Sagar, can you hear clearly?
@@ -2382,7 +2382,7 @@ You got it, Jackal!
 **Bruno**<br>
 How old are you guys... Everyone split up.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 ... Off by 5.8 degrees... that's strange. I've been following the navigation device to a tee. How'd I get so high up?
@@ -2411,7 +2411,7 @@ Calling Big B! Calling Jackal! Can you hear me?
 **Sagar**<br>
 F\*\*\*! Even the reception is... I've got to find them!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 *\*heavy breathing\**... They're over there! Jackal's in front? Good, climbing on the cliff...
@@ -2448,7 +2448,7 @@ Listen closely! Your walking right into a giant wind storm. You gotta get out of
 **Sagar**<br>
 DAMN…… THEY'RE SCREWED!!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2533,7 +2533,7 @@ WAHHHH!!!!
 **Alex、Bruno**<br>
 ... Sagar!!!!!
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 ......
@@ -2622,7 +2622,7 @@ Willing to sacrifice yourself for your comrades. That's undoubtedly the act of a
 ... In any case, congratulations.<br>
 From now on, you three are officially members of Eagle\-01.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2679,7 +2679,7 @@ The report's in your database. I'm giving you 20 minutes to look it over and dis
 **Exploration Team Members**<br>
 YES, SIR!
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 *\[Binoculars\]*
 
@@ -2698,7 +2698,7 @@ Copy, squad Eagle \- 01 received. Fox, hold position. Eagle get ready for action
 **Squad Member**<br>
 Yes, sir!
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Edwards**<br>
 Damn! Only one?
@@ -2740,7 +2740,7 @@ There's something wrong with your new recruits?
 **Edwards**<br>
 ... Let him speak.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Edwards**<br>
 No way. Too dangerous.
@@ -2785,7 +2785,7 @@ I'm heading out! When I get back, punish me according to the rules!
 **Edwards**<br>
 Sagar!!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2855,7 +2855,7 @@ Sagar!!!
 
 *\[Rapid Gunfire\]*
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Fox - 03 Captain**<br>
 This is squad Fox \- 03, reporting to HQ——mission is complete. We've successfully rescued the hostage Will. He's ingested a miniscule amount of the virus, but he's not in danger of his life. 4 grave robbers have been captured, 1 is dead. Squad Eagle \- 01 team member Sagar was hit with gunfire. He's already been treated. Captain Edwards... was hit with multiple bullets, he's seriously injured. After we get to the city we'll need to arrange medical treatment as soon as possible.
@@ -2918,7 +2918,7 @@ Destroying the valuable remains of mankind everywhere, killing innocent people, 
 ......<br>
 Everyone assemble! Head back!
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Sagar**<br>
 Captain, your body doing alright?
@@ -2971,7 +2971,7 @@ It'll take time, but think that over. Sagar, you possess the ability to see peop
 **Sagar**<br>
 ... Yes, sir! Thank you, sir. These words... I'll remember them well.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3036,7 +3036,7 @@ I saw him pick up the item with my own eyes. The signal is currently inactive in
 **Sagar**<br>
 Okay. You two are on it. The rest of us will be spread out in the various exits of Node 13. Maintain contact periodically.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 *\[Binoculars\]*
 
@@ -3154,7 +3154,7 @@ Underground. He's underground but I don't know which passage. Damn. Nothing on t
 **Alex**<br>
 13's info was always incredibly incomplete. In any case, we're sure he's moving towards the city limits. All we've gotta do is chase him!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3183,7 +3183,7 @@ You gotta a lot of ideas, why don't you do it... aigh, how can I be imposing lik
 **Alex**<br>
 Don't worry about that crap. Let me show something cool.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Gunshot\]*
 
@@ -3251,12 +3251,12 @@ AAHHH!! Why'd you get to shake her hand!? Let me rub your hand!
 **Sagar**<br>
 What the hell are you doing!? Disgusting!
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Instructor**<br>
 Today we've invited official members of the Exploration Team to accompany us for today's training! Sagar and Alex here performed exceptionally in the Close Quarters Combat class, so everybody, pay attention and pick up as much as possible.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Lucy**<br>
 Ha... Ha...
@@ -3283,7 +3283,7 @@ Eh... I'll do my best... and try not to touch you...
 **Lucy**<br>
 ...*\*nods head\**...
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 ...*\*sigh\**... no, your movements are way off. With gun scores that high, it's surprising how bad you are at hand combat.
@@ -3319,7 +3319,7 @@ No, it's nothing. Let's continue. I'll try harder.
 **Sagar**<br>
 Um... oh, okay.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Sagar**<br>
 ...*\*yawn\**...\~\~Finally, it's over...
@@ -3342,7 +3342,7 @@ Hehe, you didn't pick up on it? Then forget it. All I can say is, watch out for 
 **Sagar**<br>
 ......?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3391,7 +3391,7 @@ Clean it up.
 **Bruno**<br>
 ……?
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 *\[Punch Combo\]*
 
@@ -3420,7 +3420,7 @@ Sir, can you practice with me?
 **Sagar**<br>
 Eh? Uh, sure.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 Alright...let's begin.
@@ -3457,7 +3457,7 @@ Hey! What the hell are you two doing? Time for lights out!
 **Sagar**<br>
 Wah!? Sorry, we'll get back to the dorms immediately!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Sagar**<br>
 ......
@@ -3487,7 +3487,7 @@ Sagar...?
 **Sagar**<br>
 Eh? Ah, you're overthinking things. She seems normal to me.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3550,7 +3550,7 @@ Uh... yeah.
 Your moves looked good. But your center of gravity needs to be lower. Your exam is up in a month, no? There's no way you're getting in Eagle \- 01 like this.<br>
 Come on, raise your hands.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Instructor**<br>
 Everything you've been through up until this point... I don't need to go over that. All you need to do is pass this test and you'll officially be a member of the exploration team. All that sweat and blood has been for this moment, right here.
@@ -3562,7 +3562,7 @@ That's exactly what Captain Edwards said...
 These exploration team members will observe your actions and report back to us. I'll be responsible for evaluating the final scores.<br>
 Those that make it, we'll meet at the target location. MOVE OUT!
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **Lucy**<br>
 Damn, separated from everyone... my compass, it's...
@@ -3572,7 +3572,7 @@ Damn, separated from everyone... my compass, it's...
 **Lucy**<br>
 Wah!?
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 Hey! Lucy! You alright?
@@ -3601,7 +3601,7 @@ Ouch... ahaha... Fell down myself. Embarrassing...
 **Sagar**<br>
 Let's take care of that wound first.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 Damn, I got here just 'cuz I was curious. The rest of them must already be close to the final destination. We'd better find our way back to the road. Otherwise, it'll be no good if we get stuck out here in the dark with the equipment we've got.
@@ -3696,7 +3696,7 @@ I... I'm truly sorry. I wish all that never happened... All I can do is give you
 **Sagar**<br>
 Look, we found a way out.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3735,7 +3735,7 @@ Rin! What a coincidence. I wanted to get in contact with you! I found a new plan
 **Sagar**<br>
 Got it... let's hear it.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 So, that person called you out of nowhere?
@@ -3837,7 +3837,7 @@ I'm alright. The journey's just a little long, that's all. We're expecting to ar
 ......<br>
 Rin, are you hiding something from me?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3864,7 +3864,7 @@ Got it!
 **Sagar**<br>
 Move out.
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Sagar**<br>
 Signals straight ahead, ten meters, nine... eight...
@@ -4013,7 +4013,7 @@ S\*\*\*... Mrs. Freeze, I'll lift you up. Get in there.
 **Lucy**<br>
 ... Got it!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4043,7 +4043,7 @@ What is this place...?
 
 ![sos2605.png](./attachments/sos2605.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4068,7 +4068,7 @@ WAHHHHH....!
 **Sagar**<br>
 ... Not the time to freak out, mission records... got 'em! Nice, not broken.
 
-[Play recording: Luka\_XXX\_XX\_XX]
+\[Play recording: Luka\_XXX\_XX\_XX\]
 
 *\[Consecutive Gunshots\]*
 
@@ -4198,7 +4198,7 @@ AAHHHH!!!!
 
 *\[Consecutive Gunshots\]*
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **Luka**<br>
 Ha... *\*cough\*... \*cough\**... mission record, time: XXX\_XX\_XX, evening, 8:34... *\*cough\**...
@@ -4218,7 +4218,7 @@ It's 8:35, evening... record complete...
 Sagar… Riya… Forgive me…<br>
 I love you all…
 
-*[Recording ends]*
+*\[Recording ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 

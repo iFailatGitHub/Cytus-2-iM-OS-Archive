@@ -79,7 +79,7 @@ Record:<br>
 Entry\_1<br>
 According to the scan by the drone, there seems to be a large structure beneath this area. If my speculations are correct, the key to figuring out the mystery behind father's artifact is very likely to be here. <br>
 The environment is in great condition.<br>
-[Detection: Descent device activated]<br>
+\[Detection: Descent device activated\]<br>
 I found a stable location to install the descent device on the edge of the crack.
 
 Entry\_2<br>
@@ -143,7 +143,7 @@ Treatment: Sedative injection. Dosage: 35%
 Alright, let him take a little nap.<br>
 He may still have severe emotional reactions. Turn up the sensibility on the medical drones. I'll have two groups guarding the door in turns.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -235,7 +235,7 @@ Farewell, young fowls.
 
 *\[Electronic Door\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -335,7 +335,7 @@ Oh, and please put the handcuffs back on. You're putting me in a very awkward si
 
 *\[Electronic Door\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -404,7 +404,7 @@ Eh? It should be fine... but you're lucky to recover your sight. Are you just go
 **ConneR**<br>
 It's more of an issue of principle. I have my doubts about a world viewed through the eye of a machine. Therefore, I'd rather not use it.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -415,7 +415,7 @@ It's more of an issue of principle. I have my doubts about a world viewed throug
 |**ConneR**|  5  |
 
 ### Log Content
-[Data partially damaged due to external force]<br>
+\[Data partially damaged due to external force\]<br>
 Excavation Log 7011214<br>
 Location: Ruins N13A448<br>
 Depth: \-41 Meters below sea level<br>
@@ -427,19 +427,19 @@ Entry\_1<br>
 After a descent of around 50 minutes, I reached the bottom of the Ruins. Just like the drone scan, there is indeed a very large space down here. I'm walking along a straight passageway that should be heading towards the center of the structure. 
 
 Entry\_2<br>
-Movement at the pillar in the corner ahead of me. The thing seems to run towards the side passageway after discovering me. I'm pursuing it! [Detection: Sonar device activated]
+Movement at the pillar in the corner ahead of me. The thing seems to run towards the side passageway after discovering me. I'm pursuing it! \[Detection: Sonar device activated\]
 
 Entry\_3<br>
 Damnit! I lost it. I'm certain it ran this way... Wait a second, the sonar detected something... UGH! My eye! Bastard.... How is it possible? Why is that thing here?... <br>
-[Detection: User fires pistol]<br>
+\[Detection: User fires pistol\]<br>
 ... Come on! That the best you got!...<br>
-[Detection: User fires pistol]<br>
-[Detection: User fires pistol]<br>
-[Detection: User fires pistol]<br>
+\[Detection: User fires pistol\]<br>
+\[Detection: User fires pistol\]<br>
+\[Detection: User fires pistol\]<br>
 ...  AHHHHHHH MY ARM! You god forsaken... <br>
-[Diary is interrupted due to unknown reasons]
+\[Diary is interrupted due to unknown reasons\]
 
-[Recording device is damaged due to blunt force]
+\[Recording device is damaged due to blunt force\]
 
 Time of interruption: 701\_1214\_0637
 
@@ -483,7 +483,7 @@ Sir is... he's fine, but I think you might have to take a look yourself.
 **ConneR**<br>
 What's the matter?
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **ConneR**<br>
 ... Father?
@@ -525,7 +525,7 @@ Master...
 **ConneR**<br>
 ... I'm fine. Let me take a look at father's workshop...
 
-*[»»» Fast Forward »»» ]*
+*\[»»» Fast Forward »»» \]*
 
 *\[Door Opens\]*
 
@@ -543,7 +543,7 @@ It's the Neumann family chip...
 
 *\[Opens Envelope\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -659,7 +659,7 @@ Ah... that... I'm sorry, that is beyond my security level. If Dr. Neumann has an
 **ConneR**<br>
 Understood. Thank you.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -768,7 +768,7 @@ Good. Then about the contract and future preparations, contact me when everythin
 **Maggie**<br>
 Thank you Sensei! We'll arrange everything as soon as possible. Look forward to working with you!
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -848,7 +848,7 @@ I hope so. If there aren't any more problems, I will leave now.
 **ConneR**<br>
 Of course. It's a great pleasure meeting you.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -952,7 +952,7 @@ Whatever, before the job is done I'll be here every day. You better prepare more
 
 *\[Doorbell\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1042,7 +1042,7 @@ If I'm in the right mood.
 **Xenon**<br>
 I would appreciate that.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1180,7 +1180,7 @@ Indeed. "Conditions", "Rules", "Protocols". Having such arrogant limitations on 
 Pardon me, I've strayed a bit too far. All in all, I'm not the "mastermind" behind Library's connection errors. On a side note, I'm not the "Anonymous" who has been sending you mail either.<br>
 Instead of wasting time on an old man like me, there are more important matters that you should be dealing with, Mr. Simon Jackson. 
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1250,7 +1250,7 @@ Glad to hear that. Hope you guys can find the person behind all this soon.
 **Mark**<br>
 Thank you for your cooperation. 
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1365,7 +1365,7 @@ You can also bring your data with you there while you're at it.
 **ConneR**<br>
 Thank you so much. I really appreciate your help.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1385,7 +1385,7 @@ In the restricted zone maybe? Go down the hallway 'til you reach the end, then t
 **ConneR**<br>
 Understood. Thank you for the assistance. 
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 *\[Electronic Door\]*
 
@@ -1504,7 +1504,7 @@ U, Understood. I'll try my best!
 
 *\[Electronic Door\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1515,9 +1515,9 @@ U, Understood. I'll try my best!
 |**ConneR**| 22  |
 
 ### Log Content
-*[Recording from wiretapped watch begins]*
+*\[Recording from wiretapped watch begins\]*
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Sagar**<br>
 Frequency 107.83, Captain Sagar. Please identify yourself.
@@ -1643,12 +1643,12 @@ Remember to contact me if something happens with Doc's request; don't take any a
 **Rin**<br>
 OK, I get it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 **Rin**<br>
 ... I'll be waiting for you.
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1786,7 +1786,7 @@ OK. Bye\-bye.
 
 *\[Electronic Door\]*
 
-*[Replay Ends]*
+*\[Replay Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1969,7 +1969,7 @@ Your bail is granted under my application. If you do anything remotely suspiciou
 **ConneR**<br>
 Yes\~, Yes\~, I get that.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1994,7 +1994,7 @@ We were only able to reach here by following the coordinates... Hey, stop wander
 **ConneR**<br>
 Yes Sir\~
 
-*[Signal Switches]*
+*\[Signal Switches\]*
 
 *\[Walking Down The Stairs\]*
 
@@ -2063,7 +2063,7 @@ I can try... However, it functions by connecting to cyTus. The signal here is no
 **[Xenon A.I.]**<br>
 *Rewind Starts*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Xenon A.I.]**<br>
 *Rewind Complete*
@@ -2098,7 +2098,7 @@ Ohhhh\~ Scary\~
 **Xenon**<br>
 ... Let's talk about this outside.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2217,7 +2217,7 @@ Looks like I have no business here anymore. May I go back?
 **Xenon**<br>
 ... I'll make sure everything is okay.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2287,7 +2287,7 @@ You'll have to wait for me here for a while.
 **Sagar**<br>
 Of course.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Grace**<br>
 Master...! *\*Cries\**...
@@ -2373,7 +2373,7 @@ Father... If you haven't gone completely insane... then you truly left me someth
 
 ![cos3701.png](./attachments/cos3701.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2493,7 +2493,7 @@ I will find a seller for you. You will receive what you requested very soon. I'l
 **ConneR**<br>
 I'll let you handle this, successor. As with this Martini, put it on the tab for now.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2529,7 +2529,7 @@ Trespassers in area C, the underground passages. Send additional agents and dron
 **Xenon**<br>
 ......?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Knock\]*
 
@@ -2666,7 +2666,7 @@ Feels like your dear friends are in a pretty serious pinch. Allow me to take my 
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2732,7 +2732,7 @@ What about you?
 **ConneR**<br>
 I'll figure out a way to sneak into Node 13 from there. I'm currently a criminal after all.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2818,7 +2818,7 @@ It's alright. Mentally ill, eh...? Perhaps that is the case. After that incident
 Nevertheless, from those messy researches and relics of his, I was able to figure out some clues. At the very least, I am certain that he is definitely not mentally ill.<br>
 In order for you to better understand this, let me tell you about his story. That "truth" that has been ingrained in his vision and passed down to me...
 
-*[»»» Fast Forward 15 minutes»»»]*
+*\[»»» Fast Forward 15 minutes»»»\]*
 
 **Xenon**<br>
 ......!
@@ -2872,7 +2872,7 @@ Apologies, I tend to do that unintentionally when I'm interacting with you. Afte
 **Xenon**<br>
 ......?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2922,7 +2922,7 @@ Young lad! Accompany her downstairs and help treat her wounds. I'll take care of
 **ConneR**<br>
 Ah! ... Got it!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3099,7 +3099,7 @@ I look forward to our partnership. Let's start from zero... Partners?
 **ConneR**<br>
 ... Partners.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3235,7 +3235,7 @@ No... that's not what I meant. Don't mind me. Shark... I think I'll just keep ca
 **Sasha**<br>
 Whatever you prefer.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3281,7 +3281,7 @@ Yes. I won't commit the same mistake again, father.
 **ConneR**<br>
 I'll go right away!
 
-*[»»» Fast Forward 2 hours»»»]*
+*\[»»» Fast Forward 2 hours»»»\]*
 
 **ConneR**<br>
 Father, mother, good morning.
@@ -3385,12 +3385,12 @@ Colin Neumann Jr. The person who inherited my name will definitely not stop here
 **Colin**<br>
 He is my hope... I earnestly look forward to the arrival of that day.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **ConneR**<br>
 ... I will, father.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3401,7 +3401,7 @@ He is my hope... I earnestly look forward to the arrival of that day.
 |**ConneR**| 36  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **[Sasha]**<br>
 *R? Check your account.*
@@ -3488,7 +3488,7 @@ Well, I have an excellent teacher after all.
 **ConneR**<br>
 Of course, partner. Thanks.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3578,7 +3578,7 @@ It's okay. He is definitely very sad too... *\*Sobs\**...
 **Raymond**<br>
 All in all, my sincere condolences, Riya... If there's anything you need, please contact me. The exploration team will try their absolute best to help.
 
-*[»»» Fast Forward 5 minutes»»»]*
+*\[»»» Fast Forward 5 minutes»»»\]*
 
 *\[Footsteps\]*
 
@@ -3623,7 +3623,7 @@ Farewell... son of Luka.
 
 *\[Eagle Screech\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3656,7 +3656,7 @@ No... They didn't see my face. All the folks here know that I'm Colin's son. As 
 **Sasha**<br>
 Idiot! You got hit with their bullet. The moment they dug it out, your cover will be blown! Grab on to me! I won't let you die, and I won't let you get captured either!
 
-*[««« Rewind 15 hours«««]*
+*\[««« Rewind 15 hours«««\]*
 
 **Sasha**<br>
 Are you ready?
@@ -3721,7 +3721,7 @@ After all, Sasha never asked anything about my private life either. Naturally, a
 **Sasha**<br>
 ... Don't be full of yourself, rookie. Compare to me, you should worry about your own a\*\* first.
 
-*[»»» Fast Forward 20 hours»»»]*
+*\[»»» Fast Forward 20 hours»»»\]*
 
 **ConneR**<br>
 ......
@@ -3775,7 +3775,7 @@ You lost too much blood. Take a rest.
 **Sasha**<br>
 ... Thank you. You were really cool back there.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3912,7 +3912,7 @@ I'll leave it to you, Sasha.
 **Sasha**<br>
 Yes. Then I'll be taking my leave.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3942,7 +3942,7 @@ Here, order anything you want. I trust your taste in food.
 **ConneR**<br>
 Then I shall proceed with my orders. Waiter, please...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Sasha**<br>
 This is delicious! I've been here so many times, yet I never thought of this combination. I expect no less from you.
@@ -3985,7 +3985,7 @@ Haha, you have a point. However, I've spent my whole life figuring out other peo
 **Sasha**<br>
 Fufufu... you drank too much.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **ConneR**<br>
 Ugh... cough cough...
@@ -4023,7 +4023,7 @@ Ah...! I'm so sorry! What the hell is wrong with me... Please forget it. I'm dru
 
 ![cos5101.png](./attachments/cos5101.png)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **ConneR**<br>
 ... Can't fall asleep?
@@ -4077,7 +4077,7 @@ What's the matter?
 **Sasha**<br>
 ... Nothing. After all, this is a s\*\*\*hole world where justice doesn't exist anywhere... We can only do what we each believe is the right thing to do.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4226,7 +4226,7 @@ Alyxia! Grace! Get the f\*\*\* over here!
 **ConneR**<br>
 Father's... hope...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4246,7 +4246,7 @@ The female seller is an important witness. She has lots of vital information. Af
 **Agent B**<br>
 Yes, Captain!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Member A**<br>
 The goods?
@@ -4307,7 +4307,7 @@ Cuffs on. I'll take care of the 2nd floor.
 **Agent B**<br>
 Got it.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Sprinting\]*
 
@@ -4336,7 +4336,7 @@ Don't move!
 
 *\[Gunshots\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Sasha**<br>
 ... Cap... tain...
@@ -4354,7 +4354,7 @@ No... I...
 **Agent A**<br>
 Bill! Stop! Captain said we need her alive... She's hurt. Let's patch her up first. She definitely has valuable information on her.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Agent C**<br>
 Reporting back to Administration Bureau Headquarters. This is Squad 3. The transaction disruption was a success. We've arrested 6 criminals on site. 1 male criminal escaped. We suspect that he has the data. We're currently expanding the search area. We also couldn't track the hacker who decrpyted the data remotely. He cleaned his connection trails completely...
@@ -4409,7 +4409,7 @@ You don't want to talk? So you're with them after all? We'll have a lot more tim
 **Sasha**<br>
 Argh!!!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4436,7 +4436,7 @@ Another year has passed. I am extremely blessed to be given the honor to delieve
 
 ![cos5401.png](./attachments/cos5401.png)
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Student A**<br>
 Zoe is so amazing. Every year her speech is so touching. I expect no less from "Miss Academy"!
@@ -4474,7 +4474,7 @@ Haha, it's not like we won't ever see each other. It's my dream, even though it'
 **Student B**<br>
 Do it! You have all of our blessings!
 
-*[→File Switches: 687\_03\_25]*
+*\[→File Switches: 687\_03\_25\]*
 
 **Zoe**<br>
 Wahh!!
@@ -4493,7 +4493,7 @@ Don't think your grades mean anything here. If you get last place here, you're g
 **Zoe**<br>
 *\*heavy breathing\*.......!*
 
-*[→File Switches: 687\_12\_10]*
+*\[→File Switches: 687\_12\_10\]*
 
 **Zoe**<br>
 Trainee S6870939, Zoe Watson reporting.
@@ -4530,7 +4530,7 @@ The current Administartion Bureau... Let's just say there's a lot of red tape in
 **Zoe**<br>
 "Infiltration Plan"...?
 
-*[→File Switches: 689\_08\_06]*
+*\[→File Switches: 689\_08\_06\]*
 
 **Zoe**<br>
 Coral! Get up! Get up!
@@ -4564,7 +4564,7 @@ To go f\*\*\* himself...
 **Zoe**<br>
 Coral！！
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4715,7 +4715,7 @@ But I guess I'm not as rational as I consider myself to be. After spending some 
 **ConneR**<br>
 It was when we were both students...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4791,7 +4791,7 @@ Useless! All of them are a bunch of useless hacks!
 **ConneR**<br>
 What exactly... am I doing all this for...?
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **[Tutorial System]**<br>
 *687, Year J, first exam final score ranking announcement:<br>
@@ -4811,7 +4811,7 @@ As expected, first place belongs to "Miss Academy" again.
 **ConneR**<br>
 Whatever, what's the point of me working so hard... This is stupid...
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **[Tutorial System]**<br>
 *Year J model student representative Zoe Watson, please come to the stage for your speech.*
@@ -4829,7 +4829,7 @@ Another year has passed. I am extremely blessed to be given the honor to delieve
 **ConneR**<br>
 ... Beautiful.
 
-*[→File Switches]*
+*\[→File Switches\]*
 
 **[Tutorial System]**<br>
 *688, Year K, first exam final score ranking announcement:<br>
@@ -4845,7 +4845,7 @@ Well, she suspended her studies. I heard that when she's still here, no one can 
 **ConneR**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4947,7 +4947,7 @@ The justice and peace I dream about are nowhere to be seen.
 **ConneR**<br>
 "Deserted" and "Desolate" are words created to describe that place.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4958,7 +4958,7 @@ The justice and peace I dream about are nowhere to be seen.
 |**ConneR**| 42  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **[Xenon]**<br>
 *Hello?*
@@ -5058,7 +5058,7 @@ Ah, one more thing.
 **ConneR**<br>
 Your account got frozen, right? I'll send you one later. Feel free to use the money in there however you desire. With the garbage equipment you two have right now, I can't imagine that you'll be much of any help.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5087,7 +5087,7 @@ Mr. Neumann, the customer in booth no.5 would like to treat you to a Martini. Wo
 **ConneR**<br>
 ... Of course I would.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Waiter**<br>
 Excuse me, Sir. Your martini.
@@ -5111,7 +5111,7 @@ Three olives... Placing the memory unit under the glass, is it? You're still as 
 **ConneR**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5140,7 +5140,7 @@ And you're as beautiful as you always have been.
 **Sasha**<br>
 *\*Chuckles\** Thank you. Come on in.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **ConneR**<br>
 This is your home?
@@ -5192,7 +5192,7 @@ That depends on what the thing it is. I owe you a favor for the peaceful life I 
 All in all, hear me out first. I'll tell you the information I gathered and my speculations. I believe you'll definitely be interested.<br>
 First, your research regarding Node 13's regional dialect should be much thorough than mine, correct? There are some data I would like you to take a look at.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5351,7 +5351,7 @@ How nostalgic, we're partners in crime again.
 
 *\[High Five\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5526,7 +5526,7 @@ Indeed. Therefore, will you be willing to accompany me?
 **Sasha**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5579,7 +5579,7 @@ R!? I'll stop right...
 Don't stop! <br>
 I haven't......!?!?
 
-*[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵]hes]*
+*\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]*
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
 2501 w̨̡X҉̵͡͏͏R̵̕04, Unit4̶R͏̕҉̕͞X̷̕.
@@ -5588,23 +5588,23 @@ I haven't......!?!?
 ...... Yes, please issue the command.
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
-,̶B́͏͘K̨҉y̴̴͏X̴̴͘,̸̡̨̀;̀̀͢B̵̕=̀̕͟͟+̸̀͠z͏͏B̵͘proceed to the next stage. Bef$̷̶3̨́t͏̨̛͟[͏̛t̨̢̨X̧̡͞͡b̷͝2̀͢z̨͘͜9̧͘͡\_̢̢̨
+,̶B́͏͘K̨҉y̴̴͏X̴̴͘,̸̡̨̀;̀̀͢B̵̕=̀̕͟͟+̸̀͠z͏͏B̵͘proceed to the next stage. Bef\$̷̶3̨́t͏̨̛͟\[͏̛t̨̢̨X̧̡͞͡b̷͝2̀͢z̨͘͜9̧͘͡\_̢̢̨
 
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 ......?
 
-*[>>> FastE҉̴͠҉D̸̛͟͞>>>]*
+*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 Install... Are we not going to the main\\̡̡͟d̸̀̕͢͡\*̵͏̴̧͞\_̸̴͟͡k̸8҉̴̵́̕\_̴̕͝͞Ķ̷͝t̷́͟? Why isn't this done through a system announcement?
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
-We've been observing you guys for more than a year. We determined that you twoq̧͡҉̷X̵̢͘͝8̡]̸̧́̕͟M̨̛͏̵̧ R̵̵̕͟X̸̵̧͘͘3̷̧̛̕͏q̴͝͏̧/̵͞/̸̢̕5̧͟͡fulfill the qualifications. Next, we will be usingņ̷̡͟͠t͘͠g̷̸͡͠͠[͢҉̵͞2̴̀͟`̵̧͟medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained3̢̕͜͢'̶̧̀4̴̶K̵̢̀̕D̷̷K̛͟͏̸͡ų̨̡̛u̴͝, as well as attempt to analyze said information. 
+We've been observing you guys for more than a year. We determined that you twoq̧͡҉̷X̵̢͘͝8̡\]̸̧́̕͟M̨̛͏̵̧ R̵̵̕͟X̸̵̧͘͘3̷̧̛̕͏q̴͝͏̧/̵͞/̸̢̕5̧͟͡fulfill the qualifications. Next, we will be usingņ̷̡͟͠t͘͠g̷̸͡͠͠\[͢҉̵͞2̴̀͟\`̵̧͟medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained3̢̕͜͢'̶̧̀4̴̶K̵̢̀̕D̷̷K̛͟͏̸͡ų̨̡̛u̴͝, as well as attempt to analyze said information. 
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 ... You guys?
 
-*[>>> FastE҉̴͠҉D̸̛͟͞>>>]*
+*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 ......! This...... N̵̨̛v̕h͏̴̴̧w͏҉̴w͡͞?̡̀......
@@ -5612,10 +5612,10 @@ We've been observing you guys for more than a year. We determined that you twoq�
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 ......EEK! ...... No......NO!
 
-*[>>> FastE҉̴͠҉D̸̛͟͞>>>]*
+*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
-How was it? 3̵́͘͝t̸̸͠͏͢[̵̛͢t̛́X̷̷̡͝b́̀2̴comments?
+How was it? 3̵́͘͝t̸̸͠͏͢\[̵̛͢t̛́X̷̷̡͝b́̀2̴comments?
 
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 Hmmm... Ugh...
@@ -5627,19 +5627,19 @@ Hmmm... Ugh...
 ... I\-I... can't... seem to...
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
-She must(̴͟͟͢>̴͘͢͟͝?̸̛(̶̵̵ý̶͘͢{̸̕͝͡͝$̶̀R̷̨͡͠T̴̸synchronization immediately!
+She must(̴͟͟͢>̴͘͢͟͝?̸̛(̶̵̵ý̶͘͢{̸̕͝͡͝\$̶̀R̷̨͡͠T̴̸synchronization immediately!
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
 What a shame... Let her go.
 
-*[>>> FastE҉̴͠҉D̸̛͟͞>>>]*
+*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
 
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 I'm sorry. Your name is Ivy, right? You can\*̸̨͢҉͏;͏̸̶́̀:̵̢͞Y̶̵̢͠l͏̸k̷̢̀̕͜a̢͜͠͝.
 
 ![cos6301.png](./attachments/cos6301.png)
 
-*[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵]hes]*
+*\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]*
 
 **ConneR**<br>
 Huuuhhh! Ha! Ha... Ha...
@@ -5680,7 +5680,7 @@ Sorry, I got to do a quick investigation first...
 **Sasha**<br>
 ......?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[News Clip]**<br>
 *... Tower, a serious accident occurred. Due to a suspected mistake of the on\-site construction staff, a fence cracked and broke off, causing a five\-year old girl named Vivian Rose to almost fall off the platform. Fortunately, a mysterious female came to her rescue...*
@@ -5701,7 +5701,7 @@ Sorry, I got to do a quick investigation first...
 ......<br>
 Is that you...? Architect.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5865,7 +5865,7 @@ Well then, Auf Wiedersehen… partner.
 **Sasha**<br>
 ... We shall meet again someday. 
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

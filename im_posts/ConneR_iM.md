@@ -8,10 +8,10 @@
 - [[#006] An era with no roots](#c0601)
 - [[#007] Yet another advisor position](#c0701)
 - [[#008] The Cello](#c0801)
-- [[#009] [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#c0901)
+- [[#009] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#c0901)
 - [[#010] What is Archaeology](#c1001)
 - [[#011] Treasures of the Past](#c1101)
-- [[#012] [Repost] A.R.C looking for professional Ruins explorer](#c1201)
+- [[#012] \[Repost\] A.R.C looking for professional Ruins explorer](#c1201)
 - [[#013] The Saxophone](#c1301)
 - [[#014] The sincerest instance, right here, right now](#c1401)
 - [[#016] The truth of this world](#c1601)
@@ -369,7 +369,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0901"/>[#009] [Repost] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="c0901"/>[#009] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -377,9 +377,10 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 ### Post
 **ConneR**<br>
-> Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
+\> Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
 > Dr. Neumann is perhaps more well known by his other name, ConneR. A renowned virtual composer on the internet, he is also an archaeologist with a deep knowledge regarding instruments of the past. <br>
-> To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.
+> To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.<br>
+
 ### Replies
 **ConneR**<br>
 　Thank you. I hope to make good use of this opportunity to interact with A.R.C. I believe that I can be of great help in terms of archaeology and ancient documents. <br>
@@ -399,7 +400,7 @@ Has A.R.C. finally acknowledge Sensei's superiority lol
 
 **WhiteEYE33**<br>
 Nah must be bribed by money. <br>
-[User is now banned]
+\[User is now banned\]
 
 **RaiKiyumi**<br>
 No wonder my dad said that his company is expecting someone important!
@@ -497,7 +498,7 @@ Master Colin is our only hope
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1201"/>[#012] [Repost] A.R.C looking for professional Ruins explorer
+## <a id="c1201"/>[#012] \[Repost\] A.R.C looking for professional Ruins explorer
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -505,14 +506,15 @@ Master Colin is our only hope
 
 ### Post
 **ConneR**<br>
-> Do you have a dream? Do you want to visit Ruins all across the world?<br>
+\> Do you have a dream? Do you want to visit Ruins all across the world?<br>
 > <br>
 > No matter how long it takes, no matter how far it is, there is still something that must be completed. A job that leaves an everlasting mark in history<br>
 > <br>
 > Recreate the glories of the past. A job that connects past and present.<br>
 > <br>
 > Ruins explorers recruiting **@ARC\_Recruit**<br>
-> A.R.C., create a better future
+> A.R.C., create a better future<br>
+
 ### Replies
 **ConneR**<br>
 　You people think this is some kind of self\-gratification; such ignorant and selfish minds. Really don't want to repost this but I can't stand it anymore. 
@@ -531,7 +533,7 @@ Dr.ConneR is really devoted to archaeology. Other scholars of the same field don
 
 **White3Y3**<br>
 Did you lose at Dare? Come on don't be a sore loser <br>
-[User is now banned]
+\[User is now banned\]
 
 **Amberclove**<br>
 Dude are you stupid or what...
@@ -831,10 +833,8 @@ If it was me, I would probably burn these ants with a magnifying glass, I think?
 A max\-level, full\-screen taunt lul
 
 **Amberclove**<br>
-By the holy light! 
-<br>
-Mom came in and ask why I was on my knees
-<br>
+By the holy light! <br>
+Mom came in and ask why I was on my knees<br>
 I told her I just witnessed the mother of all sic burns
 
 **DiiR**<br>
@@ -1005,7 +1005,7 @@ Thank you so much! I look forward to meeting you!
 
 ### Post
 **ConneR**<br>
-Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞ If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
+Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸\[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞\[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟\[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞ If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
 J̨͞)̵͡͡\*̸̴̶̨\_͏̀͢H͢͢҉̛7́͝͠y̡̨͝͡g͜f̡̧̡͘̕t̶̵͠d̸̶͘͏r͢͠͡͞Ú̵̕͟T̴́͜͟Y͏͟K̡͡͝H̡̢B̧͘͟͠͠:̢̨j҉͡͏̵̀g̵̨̢͟y̨̡̕̕͜t̶̀7̷̶́̀6̢̧͠҉̧5̸̡́͘͠r͟͢͜3͡͏̕͢4̧^̷̸̴͢͢ḩ̷͠͡j̸͞҉ that one day, people who have a rebellious nature like myself J̧́͠Ơ̷H͘͟͝U͞҉̡̢͢O͏͡(̢̢͝͞7̡̕͢͡͝d̛͠r͘͢e̷͘͟5̵͘͟6̀͡҉͟i̸̢̕͟t̶͘v͏̴̸Ơ͢:̡̀́͢͠J҉̴͜N̵͏̶̵͠B͘͜҉̡I͘͟Ĺ̷͏H̸͘U̵̧͘V̵̢͘̕͢Y̧̢͠F͏҉̧͟T̡͠͏̡d̡̛̀r͝5̨͘͝͡e҉͢4̨̀f̡8̢́6̵̨̀G̛͘͟͝͝&͝(̶̕͡͏H̀͏҉P̀͝U̡̕͜͟I҉͢N҉̴́͘͟B͏̀̀͞J̕͝Ų̀͡Í̶͘͢͟Y̶̢Ḑ̡̀͞7̴̴͜8̴̢͝҉9͘͏҉̶i̸j͘͟͏̢͘h̴̕n̡͢͞͠b̀͏h̛́m̨͏̡H̴͝Ģ͢͟ heritage. 
 
 ![c2201.png](./attachments/c2201.png)
@@ -1020,7 +1020,7 @@ Sensei, excuse me, but most of the post I see is garbled text
 I can't read what sensei wrote QAQ
 
 **ConneR**<br>
-I attempted J̷͜H̷̕\_̸̨͡)̧̡̢(̛͟͟͢͝ó̕o͘͞0͘҉͜g͏͝͝8̴͟͢҉f̧͠͡͏̴7̴́͘͟͠d̢̛͜6̧҉f̀͜͠ţ̕͢͝v̧̛́̕ư̶h̵͜͡i̸͟͜p̴̛͡j̡͘o̢̨͘̕n̢j̧҉́b́̕͟h̷̕M̨̢̀͘͝L҉̢͢͢ŅU҉&̕͞͠͝\*̵̵̡͏(̶͡͏͡b̷̶̡̛͝v͏̷͜g̡̢̧͘͜c̵͡҉f̢͠҉̀͠ţ̢͘̕͠d̶͠͡É̴̴͘͡$̵͡͏͝%̵́͝f́͘̕͞6̷́͘t̸̀͟u̴͏̡͢y̢̢̛̕̕b̶́̕͜ì̴̴͘͝ņ́ǫ̵̕͜͞k͏̧͟p̛̀́҉i̵̕̕J̴̢͢8̴̸̶͘9͏̛7̴̷̷6̷̨͝f́͜5̷̴͝҉u͏t͞҉v̵̧͠Y̴̧U̧̢B̴̴̷Į̸͘͟͠K̶̴̶̨Ḿ͏̕Ớ̧̧̛l̨̨j͝h̢̡̛͜҉g̷̛͏t̶́̕͢͟y͠͏c̵̷͟͢f̶͜҉d̸̡r̸͠6̴̧̧͠3̴̢ foolish. m̢̢̛̕ķ̶̀͘͜j̷́͡͝͏n͝҉̨h̶̛͞҉͘G͢͢f́͜8̡̛͟͜5̸́́̕͞6͢͏͘͢e҉͏̵͢͢4̵̡d̷̀͞f̸̢̀̀6̸̨̕t̨̡͝͠y̷͠U̕͏̢͟͝H̵̶͘̕͘I̢͜J͞)̸̢̕\-̵̵̧9̸҉͟͜͝0̸͜h̡́͡8̛͜ǵ̸̨͢͡7̢̨͘͡4̸͠͠͏͡4̨̧̀5̀́e̡͢
+I attempted J̷͜H̷̕\_̸̨͡)̧̡̢(̛͟͟͢͝ó̕o͘͞0͘҉͜g͏͝͝8̴͟͢҉f̧͠͡͏̴7̴́͘͟͠d̢̛͜6̧҉f̀͜͠ţ̕͢͝v̧̛́̕ư̶h̵͜͡i̸͟͜p̴̛͡j̡͘o̢̨͘̕n̢j̧҉́b́̕͟h̷̕M̨̢̀͘͝L҉̢͢͢ŅU҉&̕͞͠͝\*̵̵̡͏(̶͡͏͡b̷̶̡̛͝v͏̷͜g̡̢̧͘͜c̵͡҉f̢͠҉̀͠ţ̢͘̕͠d̶͠͡É̴̴͘͡\$̵͡͏͝%̵́͝f́͘̕͞6̷́͘t̸̀͟u̴͏̡͢y̢̢̛̕̕b̶́̕͜ì̴̴͘͝ņ́ǫ̵̕͜͞k͏̧͟p̛̀́҉i̵̕̕J̴̢͢8̴̸̶͘9͏̛7̴̷̷6̷̨͝f́͜5̷̴͝҉u͏t͞҉v̵̧͠Y̴̧U̧̢B̴̴̷Į̸͘͟͠K̶̴̶̨Ḿ͏̕Ớ̧̧̛l̨̨j͝h̢̡̛͜҉g̷̛͏t̶́̕͢͟y͠͏c̵̷͟͢f̶͜҉d̸̡r̸͠6̴̧̧͠3̴̢ foolish. m̢̢̛̕ķ̶̀͘͜j̷́͡͝͏n͝҉̨h̶̛͞҉͘G͢͢f́͜8̡̛͟͜5̸́́̕͞6͢͏͘͢e҉͏̵͢͢4̵̡d̷̀͞f̸̢̀̀6̸̨̕t̨̡͝͠y̷͠U̕͏̢͟͝H̵̶͘̕͘I̢͜J͞)̸̢̕\-̵̵̧9̸҉͟͜͝0̸͜h̡́͡8̛͜ǵ̸̨͢͡7̢̨͘͡4̸͠͠͏͡4̨̧̀5̀́e̡͢
 
 **HWJones**<br>
 Even the reply has become garbled OMGGGG

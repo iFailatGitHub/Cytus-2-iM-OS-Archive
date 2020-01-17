@@ -61,7 +61,7 @@ You're way too young to be calling yourself "yours truly"... alright then, let's
 **JOE**<br>
 No probs!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Ehhh... do this here...
@@ -72,7 +72,7 @@ Seems a bit different from what I taught you?
 **JOE**<br>
 Ah, it's this string...
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Uhhhh...
@@ -86,17 +86,17 @@ Nah pops, I got this!
 **Saxon**<br>
 ... Then try again.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Saxon**<br>
 That's right, just like this. Don't stop, keep going.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Saxon**<br>
 Your fingers are too stiff. Don't forget: sway your body, feel the music.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Hehe, hehehehe...
@@ -104,7 +104,7 @@ Hehe, hehehehe...
 **Saxon**<br>
 Yes, smile. Music is like good wine. You need to enjoy it with ease and to the fullest. Only then can you truly perform music with soul.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Whew, I finished! Yeah!
@@ -139,7 +139,7 @@ If you're really that godly, then show me! Come on, come on...
 **JOE**<br>
 YEAH! Love ya so much, pops! Here, now hurry!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -243,7 +243,7 @@ Arf! Arf!
 **JOE**<br>
 Stupid dog...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -323,7 +323,7 @@ Alright, alright, you stingy old man.
 **Saxon**<br>
 Finish your drink quickly. Once you're done washing the cup, come find me in the basement.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -415,7 +415,7 @@ You little brat... Zark's gonna get diarrhea if you give him this stuff.
 **Zark**<br>
 Arf?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -536,7 +536,7 @@ HA! Interesting!
 Hoho\~ this way, we keep the cargo intact, nobody gets hurt, and I make some quick dough.<br>
 Haha! I'm such a genius!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -609,7 +609,7 @@ He didn't mention anything about this to me. What happened?
 **Luo**<br>
 Well, it's like this...
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Luo**<br>
 Those two love to compete with each other, too much actually. Sometimes the mood in the gang just gets really awkward when those two are at it. Even I was having a little trouble dealing with them...<br>
@@ -665,7 +665,7 @@ Arf, arf!, ARF!
 **Saxon**<br>
 No need to worry, Zark... I'm ok.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -769,7 +769,7 @@ You little... I'm serious. Give it a go. Use the skills I taught you and show th
 Ok, ok. To be honest, I've already started forming the band online.<br>
 Also what's with the "One does not simply..." thing? What have you been reading these days?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -892,7 +892,7 @@ He's totally gonna be the next big thing!<br>
 *[Sent at PM 08:44]*
 
 **JOE**<br>
-[JOE has shared a link.]<br>
+\[JOE has shared a link.\]<br>
 *[Sent at PM 08:45]*
 
 **Cherry**<br>
@@ -1009,7 +1009,7 @@ Umm, nothing... I hope everyone likes it!
 
 *\[Crowd screams and applauds\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1092,7 +1092,7 @@ Nothing. Remember to call your mother if you're going to stay out late at night.
 **JOE**<br>
 Got it. See ya pops!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1242,7 +1242,7 @@ What accident?
 **Angus**<br>
 Smart kid.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1267,7 +1267,7 @@ Um... are you ok? You spewed a crap ton of blood...
 **Hunter**<br>
 Shut up. I'll go clean up my wounds. You clean up the crate and the cargo inside.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Good, the outside is now squeaky clean. Next, the cargo inside...
@@ -1295,7 +1295,7 @@ Water...
 **JOE**<br>
 Oh! Gimme a sec.
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **JOE**<br>
 Here, drink it.
@@ -1385,7 +1385,7 @@ They are arriving in ten minutes. I need to prep the cargo. You better lay there
 **JOE**<br>
 Ugh...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1518,7 +1518,7 @@ If I have the chance. Farewell, King of Germs.
 **JOE**<br>
 F\*\*\* you. Goodbye!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **Zark**<br>
 Arf!
@@ -1532,7 +1532,7 @@ Arf!
 **JOE**<br>
 ... Wrong drink, taste so bitter.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1582,7 +1582,7 @@ Yeah...
 **Saxon**<br>
 ... Come up here. Pops will treat you to a drink.
 
-*[→Signal switch to Cam\_Cafe\_01]*
+*\[→Signal switch to Cam\_Cafe\_01\]*
 
 **JOE**<br>
 ... They are all good people and are serious about making a splash in the music world... Perhaps I'm the only one who treated it as just something fun. Whatever, it's all over now. I'll probably never see them again, ever.
@@ -1657,7 +1657,7 @@ What... entrust...
 **Saxon**<br>
 ... Knocked out already? Too young, too young.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1801,7 +1801,7 @@ Of course I will. Why did this pop up all of a sudden?
 **Saxon**<br>
 .... Wait till the day I pour you my last glass of booze, then we can talk about it.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1913,7 +1913,7 @@ You mean your mixed juices? No thanks. JOE, stay alert. Don't let UNCLE down.
 **JOE**<br>
 Yawn... Got it. Stop worrying about me.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1968,7 +1968,7 @@ Huh? Calm down will ya, how about a drink first...
 **Wang**<br>
 STOP MESSING AROUND! QUICK!
 
-*[»»» Fast Forward »»»]*
+*\[»»» Fast Forward »»»\]*
 
 **News**<br>
 ... Law enforcement agents ambushed several criminal organization strongholds late last night, uncovering dozens of firearms and criminal evidence. Dozens were arrested. According to the info, included in the arrested criminals are several key figures of Node 08's notorious Ando gang...
@@ -2060,7 +2060,7 @@ No need to be nervous. I can turn that info into an eternal secret. Today, I'm o
 **Diego**<br>
 A brand\-new order... or something like that.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2203,7 +2203,7 @@ Of course! I'm beginning to like you even more, boy!
 **Zark**<br>
 Arooo...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2214,7 +2214,7 @@ Arooo...
 |**JOE**  | 18  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **JOE**<br>
 ... Hello.
@@ -2297,7 +2297,7 @@ That's all there is. See you in three days.
 **JOE**<br>
 ... Bye.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2440,7 +2440,7 @@ It's probably not gonna be the last time though?
 **Xenon**<br>
 Probably.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2451,7 +2451,7 @@ Probably.
 |**JOE**  | 20  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **JOE**<br>
 Hello, brother Fang? Gimme a sec, I'm cleaning a glass...
@@ -2572,7 +2572,7 @@ Boy, I've been in the gang business since I was 15. It's been decades. Yet you'r
 **Diego**<br>
 No need for that. Go play with your dog.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2630,7 +2630,7 @@ A request from the buyer. Looks like we have ourselves a serious sicko. Stop yap
 **JOE**<br>
 ......
 
-*[→Signal switch to Cam\_B1\_01]]*
+*\[→Signal switch to Cam\_B1\_01\]\]*
 
 **Hunter**<br>
 We should wait a moment. The buyer should be coming anytime... ARGH!
@@ -2744,7 +2744,7 @@ It's s\*\*\* you made; deal with it yourself.
 **Angus**<br>
 Just find a random place and bury it. Hurry up.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2866,7 +2866,7 @@ Hoho, lemme take a look. Heard from folks that Node 03 is where all the cute gal
 **Hayato**<br>
 ...... Kaori......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2987,7 +2987,7 @@ The devil... will never be satisfied with just one finger. Once you fall into it
 
 *\[Doorbell\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3142,7 +3142,7 @@ However, you must promise me one thing: make the right decision, one that you tr
 **Xenon**<br>
 Yes, I will. I promise you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3173,7 +3173,7 @@ Simon, what I'm about to tell you is everything that I have done here, in this v
 **JOE**<br>
 ... This thing started all the way back with pops...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **JOE**<br>
 ... And just like that, all the transactions take place here. Even until now, this cafe is still offering the same services, operating among the gangs...
@@ -3296,7 +3296,7 @@ Are you saying that big sis is...?
 **Xenon**<br>
 ... Here's my personal view on all this...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3343,7 +3343,7 @@ What's wrong? Your face has "nervous" written all over it.
 No, why would you ask that? There aren't any transactions lately, right?<br>
 Give me a Tequila.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Glass slides\]*
 
@@ -3458,7 +3458,7 @@ Adios...
 **JOE**<br>
 Zark... please, give me courage... please...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3585,7 +3585,7 @@ Keep it somewhere safe! It's a free gift from me. Whatever you want to do with i
 **JOE**<br>
 Simon...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3681,7 +3681,7 @@ Who... are you exactly?
 **[cyTus System]**<br>
 *Rald has logged out of the block*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3729,7 +3729,7 @@ Quiet! Got company!
 **JOE**<br>
 !? Oh crap...
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **Agent B**<br>
 You're hallucinating, aren't you? Must be because you drank too much last night.
@@ -3802,7 +3802,7 @@ Who knows if you're bulls\*\*\*ing us? Before we confirm your identity, stay her
 **JOE**<br>
 Sorry 'bout that, mate. Haha... I'm thirsty. Do you have booze?
 
-*[→Signal Switch]*
+*\[→Signal Switch\]*
 
 **Cherry**<br>
 Is he going to be alright...?<br>
@@ -3810,7 +3810,7 @@ Sorry... Leave Simon up to me.
 
 *\[Footsteps\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3966,7 +3966,7 @@ Whew\~ Sighs... ha, haha, hahaha!
 **JOE**<br>
 ... That guy... turns out he's not that hard to handle.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4053,7 +4053,7 @@ Aroma\-chan! Where are you going!? Wait for me!
 **JOE**<br>
 Hey! NEKO!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **JOE**<br>
 That's... how is that... that can't be right...
@@ -4114,7 +4114,7 @@ Hello!?
 **JOE**<br>
 Simon!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4179,7 +4179,7 @@ Ahh... my brain is still in complete chaos. All in all, you should calm down and
 **[Xenon]**<br>
 *You're the one that should calm down. What happened exactly?*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **JOE**<br>
 ... That's pretty much it. Oh, and both of them rushed out of my shop just now.
@@ -4200,12 +4200,12 @@ What are you talking about? We're all related through "Crystal PuNK", right? If 
 **[Xenon]**<br>
 *Okay, okay, you win... Alright, I get it. Then that's it for now. Also, thanks.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **JOE**<br>
 Sigh...... I need a drink...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4349,7 +4349,7 @@ S\*\*\*head!?
 **Fang**<br>
 ... It's you?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4520,7 +4520,7 @@ However, the purer the idea, the harder it is to implement. I hope you can walk 
 Don't worry, I won't screw up this time...<br>
 Let me handle it.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

@@ -75,7 +75,7 @@ Yeah. This is platform B. We've discovered a malfunctioning proxy robot. It seem
 **Cleaner B**<br>
 Eh? HEY!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[ROBO_Head]**<br>
 *Inputting activity planning...<br>
@@ -120,7 +120,7 @@ Memory unit reset error. Please select other files for troubleshooting.*
 **[ROBO_Head]**<br>
 *Begin replay.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -144,7 +144,7 @@ Memory unit reset error. Please select other files for troubleshooting.*
 
 **[Nora]**<br>
 *...... Don't reply like this.<br>
-Can you hear my voice? [ROBO\_Head].*
+Can you hear my voice? \[ROBO\_Head\].*
 
 **[ROBO_Head]**<br>
 *......*
@@ -184,7 +184,7 @@ It's okay; you can hear it directly from me, ROBO.*
 **[Nora]**<br>
 *The name of that person is...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -229,7 +229,7 @@ Noah! I'm sorry, I have a bit too much stuff. Can you give me a hand here?
 **Noah**<br>
 Ok...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Noah**<br>
 Being insulted like that... How come you're not angry about it at all!?
@@ -356,7 +356,7 @@ Noah, you're a young man with great potential. You shouldn't go on this mad jour
 **Noah**<br>
 Director...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -432,7 +432,7 @@ However, I do sincerely hope... that our next meeting will be one where we are t
 Don't get yourself killed. Node 03 isn't exactly kind to big city folks like you. <br>
 I look forward to your growth, Mr. Phoenix. *\*Chuckles\**...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -485,7 +485,7 @@ Thank you. Since they made a compromise... you guys, take off your masks.
 **Lam**<br>
 Of course. We would like you to clear the security check first. This way, please.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Ryu**<br>
 ... So you're Phoenix?
@@ -593,12 +593,12 @@ Do you have a name for your organization?
 Is that what you care about...? Nothing particular comes to mind right now.
 
 **Ryu**<br>
-Phoenix... [Kyuu Hou Kai], that shall be your name. We will be a combo of the "Dragon" and the "Phoenix"!
+Phoenix... \[Kyuu Hou Kai\], that shall be your name. We will be a combo of the "Dragon" and the "Phoenix"!
 
 **Phoenix**<br>
 Whatever you please.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -670,7 +670,7 @@ Besides, I...*
 **[Nora]**<br>
 *I myself... was born in an environment just like this.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -757,7 +757,7 @@ No... I would never dare...
 **Mogura Member A**<br>
 Very well. The transaction is complete. Go home; your wife is still waiting for you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -869,7 +869,7 @@ Discard 009 and other failed ones to the forbidden area. Tomorrow, we'll restart
 **Member A**<br>
 Okay...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -942,7 +942,7 @@ Let's go back. There's another batch tomorrow we need to dump. By the time of ou
 **Member I**<br>
 ... I'll be fine.
 
-*[»»» Fast Forward 23 Hours»»»]*
+*\[»»» Fast Forward 23 Hours»»»\]*
 
 *\[Engines turned off\]*
 
@@ -982,7 +982,7 @@ One of them is still alive!? It's... 009 from yesterday!
 **Member A**<br>
 Leave her out my a\*\*! Take her back to Phoenix! There's no way someone's still alive after being exposed to the virus for such a long time. She could have immunity!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1069,7 +1069,7 @@ If Nora still nervous, this unit, will give Nora, applause too.*
 *The light... Okay.<br>
 Then I'll... start from my name, one of the first things Phoenix gave me.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1109,7 +1109,7 @@ Absolutely true! We made our trip the exact night of the experiment. After almos
 Th... This child is very important! Register her to Central Lab right away! She looks very weak... A team, B team, prepare life support, NOW!<br>
 You two, come with me. We need to go get Kim. The necrosis on her legs must be treated immediately, or it would spread to her entire body and that would be too late! This child must survive no matter what!
 
-*[»»» Fast Forward 18 Hours»»»]*
+*\[»»» Fast Forward 18 Hours»»»\]*
 
 **Phoenix**<br>
 What is her situation?
@@ -1151,7 +1151,7 @@ Nora...?
 **Phoenix**<br>
 It means "The ninth children" in an ancient language. It also has the meaning of "Honor". She will bring light to human civilization!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1238,7 +1238,7 @@ Stop spacing out. Proceed with the preparations.
 **Member I**<br>
 Ah! Yes, sir!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Door Opens\]*
 
@@ -1287,7 +1287,7 @@ Actually, this is already the third time this has happened. Starting next week, 
 **Member I**<br>
 Got it...
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1371,7 +1371,7 @@ Besides, I'm also quite curious about why you are so persistent about her...
 **Lam**<br>
 Nora... so she has a name? Whatever, take me to her.
 
-*[→Signal Switch to Nora'sRoom]*
+*\[→Signal Switch to Nora'sRoom\]*
 
 **Lam**<br>
 She is the one?
@@ -1433,7 +1433,7 @@ All in all, you heard what the boss said. Another year of losing money and this 
 **Phoenix**<br>
 ... Understood.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1487,7 +1487,7 @@ It really is incredible. You're truly a child prodigy!
 **Member I**<br>
 Not a problem!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *Hmm... Everything's more or less functioning normally. There are some places that can use some minor tweaking... Thank you for helping me out with the tests.*
@@ -1567,7 +1567,7 @@ Ah... Yes sir! I'm sorry!
 **[Nora]**<br>
 *......*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1707,7 +1707,7 @@ However, you are not allowed to leave the Central Lab area. Understand?
 
 *\[Nora Emotion\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1788,7 +1788,7 @@ Can't help it then. We'll play again tomorrow!
 **[Nora]**<br>
 *Sure. I will not lose!*
 
-*[→Signal Switch to Nora'sRoom]*
+*\[→Signal Switch to Nora'sRoom\]*
 
 **Phoenix**<br>
 The setting is complete. You can enter the silent chamber now.
@@ -1816,7 +1816,7 @@ Sure. Can you go on your own?
 **[Nora]**<br>
 *Yes.*
 
-*[→Signal Switch to CLab06]*
+*\[→Signal Switch to CLab06\]*
 
 **[Nora]**<br>
 *Water bottle water bottle...*
@@ -1865,7 +1865,7 @@ Nora!
 **Member D, Member I**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1973,7 +1973,7 @@ I used to operate in that lab. I know the way to sneak inside... I have a plan..
 **Member A, Member B**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2083,7 +2083,7 @@ It's not me! Director, please believe me! It's really not me who stole it!
 **Phoenix**<br>
 ... I personally don't believe you have the nerves to do such a thing.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2181,7 +2181,7 @@ Put on the mask first!<br>
 ......<br>
 So he got away... Good on him.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Phoenix**<br>
 Nora! Cough cough... Are you alright?
@@ -2198,7 +2198,7 @@ Ah, right. The virus doesn't affect you... Thank goodness. About your accusation
 **Phoenix**<br>
 ......!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2301,7 +2301,7 @@ I think, what I saw...*
 **[Nora]**<br>
 *... is "Chaos".*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2347,7 +2347,7 @@ You can look at it that way... All\-knowing eye, I shall be in your care.
 **Nora**<br>
 ...... (Nods)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Prints document\]*
 
@@ -2395,7 +2395,7 @@ Yes. A few days ago, there was an unauthorized copy of the files. However, due t
 **Nora**<br>
 ...... (Nods)
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Nora**<br>
 ...... (Hands out document)
@@ -2458,7 +2458,7 @@ Nora, get some rest. Don't look at the aftermaths of your fortune telling. Also,
 **[Nora]**<br>
 *... Got it...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2513,7 +2513,7 @@ Ha, if I'm not satisfied I'll add more money naturally. Now, stop the nonsense a
 **Phoenix**<br>
 ... Nora, you can start.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Zhang**<br>
 Ehehehe, this one's top quality. That innocent look and that thicc a\*\*, hoho... Ooh, and her feisty little sister looks pretty tasty too...<br>
@@ -2592,7 +2592,7 @@ No problem! No problem!
 **Lam**<br>
 Then please, leave.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Phoenix**<br>
 Nora, can you stand?
@@ -2625,7 +2625,7 @@ You guys don't give a damn as long as you get the money, don't you? Stop making 
 **Lam**<br>
 ... The dragon's reverse scale is not something to toy with. This is my first and final warning. You better behave yourself.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2697,7 +2697,7 @@ ROBO\_Head \- Unit 02.*
 **[ROBO_Head]**<br>
 *Understood. This unit, be in your care as well.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2771,7 +2771,7 @@ Phoenix, follow the contract. Or are you worried that once this bastard gets you
 **[Nora]**<br>
 *... Understood... I'll take a look now.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Huang**<br>
 Is that all? Plenty of results, but only a few of them are actually useful.<br>
@@ -2850,7 +2850,7 @@ Looks like "The Eye of Horus" is indeed trustworthy. I will come back next time.
 **Phoenix**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2951,7 +2951,7 @@ Therefore, this unit, not defective product that should be discarded.*
 
 **[Nora]**<br>
 *... Maybe we should shut you down first. It's necessary that we do a complete diagnosis of your core system. <br>
-Activate shutdown command. Enter voiceprint password: [NORA].*
+Activate shutdown command. Enter voiceprint password: \[NORA\].*
 
 **[ROBO_Head]**<br>
 *... Creator voiceprint command, verification success.<br>
@@ -2969,7 +2969,7 @@ Maybe we can solve this issue by resetting the system... But if I do that, ROBO'
 **[Nora]**<br>
 *... No, the way he is now should be just fine.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3116,7 +3116,7 @@ Nora, please explain, this condition.*
 **[Nora]**<br>
 *... "Happiness", I believe.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3223,7 +3223,7 @@ Really!? Thank you so much...!
 **[Nora]**<br>
 *......*
 
-*[»»» Fast Forward 5 Minutes»»»]*
+*\[»»» Fast Forward 5 Minutes»»»\]*
 
 **[Nora]**<br>
 *... Ugh... Argh...*
@@ -3287,7 +3287,7 @@ Node 08!?
 **[Nora]**<br>
 *Yes... This is the most... I was able to see...*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3313,7 +3313,7 @@ I've never met another person here before. You...
 **？？？**<br>
 ......
 
-*[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost]*
+*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3470,7 +3470,7 @@ Maybe I just want to tell you, that death... does not erase a person's trace fro
 **[ROBO_Head]**<br>
 *......*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3630,7 +3630,7 @@ ARGH!
 UGH!!
 
 **[Nora]**<br>
-*STOP IT! [NORA] !!*
+*STOP IT! \[NORA\] !!*
 
 **[ROBO_Head]**<br>
 *... Creator... voiceprint command... verification... success.<br>
@@ -3638,7 +3638,7 @@ Nora, goodbye...*
 
 *\[ROBO_Head Shutdown\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[ROBO_Head Start-Up\]*
 
@@ -3661,7 +3661,7 @@ Detect multiple physical damages on hardware.*
 **[Nora]**<br>
 *No... Only uncle Lam and Kim... That's not the point. The Mogura people will discover this immediately... We need to run away, fast! Let's go back to Kyuu Hou Kai first! Phoenix is still there!*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3693,7 +3693,7 @@ Ahah, Manson's dead... Mogura only wants to dispose of ROBO\_Head. The bigger pr
 **Phoenix**<br>
 Regardless of what happened, I will not let any one of you be in danger. Those two groups will definitely clash with each other first outside. We'll use that opportunity to get away.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Hurried Footsteps\]*
 
@@ -3733,7 +3733,7 @@ Huh!? What kind of stupid BS are you talking about!? That stinkin robot destroye
 **Phoenix**<br>
 UGH! Run!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Hurried Footsteps\]*
 
@@ -3788,7 +3788,7 @@ Have you taken a look at yourself?<br>
 *...... Phoenix......*
 
 **Phoenix**<br>
-Nora, your real name is...... [Shizuka Shiino]. Your birthday is 690 N.A., November 11th... When you reach Node 08, find a person by the name of "Noah Black". He was my subordinate when I was working at A.R.C. Take this new identity and go live a new life. I'm sure he will help you settle everything down...
+Nora, your real name is...... \[Shizuka Shiino\]. Your birthday is 690 N.A., November 11th... When you reach Node 08, find a person by the name of "Noah Black". He was my subordinate when I was working at A.R.C. Take this new identity and go live a new life. I'm sure he will help you settle everything down...
 
 **[Nora]**<br>
 *...... Phoenix! No! Nora is my name! I......*
@@ -3817,7 +3817,7 @@ I'm sorry... I was never a good father...
 
 *\[Gunshot\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3883,7 +3883,7 @@ Director is dead! His final wish is for me to see you guys off safely!! So F\*\*
 **Member I**<br>
 Farewell, you big stinkin robot...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Platform Announcement]**<br>
 *Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line.*
@@ -3901,7 +3901,7 @@ Farewell, you big stinkin robot...
 
 **[Nora]**<br>
 *...... I'm sorry......<br>
-[Nora].*
+\[Nora\].*
 
 **[ROBO_Head]**<br>
 *... Creator voiceprint command, verification success.<br>
@@ -3909,7 +3909,7 @@ Nora, goodbye.*
 
 *\[ROBO_Head Shutdown\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *Activate offline recording mode.*
@@ -3951,7 +3951,7 @@ Nora, goodbye.*
 **[Nora]**<br>
 *.... Goodbye, ROBO\_Head.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 

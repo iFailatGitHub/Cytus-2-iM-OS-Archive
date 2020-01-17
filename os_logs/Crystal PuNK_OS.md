@@ -191,7 +191,7 @@ NEKO? Oh, that famous cyTuber.
 **KAI**<br>
 We're here. Come on in. I must warn you though, it's really dirty inside. You guys might have to clean it up a bit.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -232,7 +232,7 @@ So you really started cleaning... Even the clean freak part of you didn't change
 **Cherry**<br>
 Let me help out too.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **KAI**<br>
 Whew\~ That's more than enough, right? Didn't think this equipment and instruments are still able to function.
@@ -243,9 +243,9 @@ Where's Simon?
 **KAI**<br>
 He said he's going outside to make a phone call, so he took my phone and ran outside.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Xenon**<br>
 It's me.
@@ -320,9 +320,9 @@ That's it for now. I will contact you again. Be careful yourself. Don't get into
 **[NEKO]**<br>
 *... You be careful yourself too. Bye\-bye.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -331,7 +331,7 @@ That's it for now. I will contact you again. Be careful yourself. Don't get into
 **[NEKO]**<br>
 *... You be careful yourself too. Bye\-bye.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 *\[Door Opens\]*
 
@@ -447,7 +447,7 @@ Why are you giving me that perverted look...?
 **KAI**<br>
 Hehe... Bye\~
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -466,7 +466,7 @@ Hehe... Bye\~
 **Xenon**<br>
 Let me answer it.
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Xenon**<br>
 Hello?
@@ -566,12 +566,12 @@ Are you for real? You're not taking this seriously...
 **[Rald]**<br>
 *Your account got frozen, right? I'll send you one later. Feel free to use the money in there however you desire. With the garbage equipment you two have right now, I can't imagine that you'll be much of any help.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Xenon**<br>
 ... And here I thought he can't get more self\-centered than he already was.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -657,7 +657,7 @@ You guys have been really tense these days. A bit of relaxation won't hurt.
 **Xenon**<br>
 Yeah. You're right.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Performance\]*
 
@@ -735,7 +735,7 @@ JOE, stop chitchatting. Your rhythm is off.
 **Cherry**<br>
 Hahahaha! Hahaha!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -768,7 +768,7 @@ But... I have a bad feeling about this.
 **Cherry**<br>
 My mom... was a victim of a drone malfunction too...
 
-*[→File Switches: Luis\_681\_01\_08]*
+*\[→File Switches: Luis\_681\_01\_08\]*
 
 *\[Singing\]*
 
@@ -830,7 +830,7 @@ Hmm... mommy needs to take care of me... then I'll be a singer when I grow up! M
 **Carly**<br>
 Hahaha, can you really do it? Alright then, let's begin!
 
-*[→File Switches: St68\_681\_12\_09]*
+*\[→File Switches: St68\_681\_12\_09\]*
 
 **[Luis]**<br>
 *Carly, I'm getting off work soon. Where are you now?*
@@ -907,7 +907,7 @@ Ah... the cake...
 **[Luis]**<br>
 *Carly！ ？ Carly！ ！ ！ *
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1086,7 +1086,7 @@ If, like your music, you can use this ability to help more people, perhaps it's 
 **Xenon**<br>
 See, all within the center circle. This counts as a passing grade, right?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1118,7 +1118,7 @@ Sherry, we're leaving.
 **Bureau Supervisor**<br>
 Luis!
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Cherry**<br>
 Daddy... is mommy not coming back?
@@ -1132,7 +1132,7 @@ Mommy... *\*sobs\*...*
 **Luis**<br>
 Yes. Mommy... is gone to become a star singer.
 
-*[→Signal Switches: Baro\_683\_02\_15 ]*
+*\[→Signal Switches: Baro\_683\_02\_15 \]*
 
 **Angus**<br>
 Capo... Is it really okay for us to be doing this kind of transaction? If Ando or Cafe's geezer caught wind of this...
@@ -1164,7 +1164,7 @@ And those civilians who enjoy their pitiful fortunes and the upper class who enj
 **Diego**<br>
 That's right. Angus, listen up. It doesn't matter if it takes ten years, or even twenty years. We must climb to the top and destroy the gray balance and Cafe's system. Only by doing that will we ever have the opportunity to bring about change.
 
-*[→Signal Switches: Baro\_689\_08\_16]*
+*\[→Signal Switches: Baro\_689\_08\_16\]*
 
 **Diego**<br>
 And that's the content of this transaction. Do you understand?
@@ -1244,7 +1244,7 @@ Think about it yourself. Even if we exclude this case, I feel like the fact that
 **Luis**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1292,7 +1292,7 @@ Sherry, daddy... has something to tell you.
 **Cherry**<br>
 ......?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Cherry**<br>
 ......<br>
@@ -1337,7 +1337,7 @@ I... I'm not as strong as father thinks. I don't really have anyone I can talk t
 **Cherry**<br>
 I want to see the world father described, the world I've never seen before. I... I want to help father out.
 
-*[→File Switches: Port51\_689\_08\_30]*
+*\[→File Switches: Port51\_689\_08\_30\]*
 
 *\[Pulse Pistol Shot\]*
 
@@ -1369,7 +1369,7 @@ Little girl, are you hurt? You did great. Good job.
 **Cherry**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1502,7 +1502,7 @@ No doubt about it. I see that we still have a mutual understanding of the situat
 **Ryu**<br>
 Got any good ideas?
 
-*[→Switch to tapping signal]*
+*\[→Switch to tapping signal\]*
 
 **[Diego]**<br>
 *Based on my experience, snuffing out the sparks in time before the fire spreads out is the only way to control and utilize flames.*
@@ -1517,7 +1517,7 @@ I already have a perfect plan in place. First, we'll start with the Kyubo Medica
 **Member D**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1702,7 +1702,7 @@ Get down!!!
 
 *\[Explosion\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1799,14 +1799,14 @@ Simon! Now!
 **Xenon**<br>
 So even children this small aren't spared... No matter who's behind this, they've gone too far.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Explosion\]*
 
 **Xenon**<br>
 It's coming from upstairs... gotta move fast.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 ... There's a lot of them. Sherry, cover me. I'm going to finish them all off in one go. Since they're the same model, their encryption should be the same set as well.
@@ -1857,7 +1857,7 @@ Hide! NOW!
 
 *\[Machine Gun\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1883,7 +1883,7 @@ I said that I was going to finish them all off in one go, right? Rather than was
 **Xenon**<br>
 At least both of us didn't show our faces. Can't complain about that. Better get out of here before anyone notices us...
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Xenon**<br>
 I've already contacted NEKO and told her we'll meet up someday later. Let's go back first. We caused a pretty major commotion. It's best that we go back into hiding for now.
@@ -1931,7 +1931,7 @@ Partner?
 
 ![cpos1301.png](./attachments/cpos1301.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1944,7 +1944,7 @@ Partner?
 ### Log Content
 *\[Ringtone\]*
 
-*[Call starts]*
+*\[Call starts\]*
 
 **[Rald]**<br>
 *It's me, Miss Pauline. How are you two doing in 03 these days? Haven't caused any major commotions, I presume?*
@@ -2048,12 +2048,12 @@ What else do you need to investigate there?
 *Still to be determined... or more like I hope my hypothesis is correct because this is the one path closest to the truth. Be it for you guys, for me, or for humanity as a whole.<br>
 Apologies, Miss Pauline, but I have to go now.*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 **Cherry**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2110,7 +2110,7 @@ The certificate is here.
 **Store Clerk**<br>
 ... I don't know what you're talking about. I am just a store clerk of this second\-hand bookstore. Here, enter that door and walk to the end.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **Cherry**<br>
 ...Found it. This book? Wow, an actual paper book...<br>
@@ -2178,7 +2178,7 @@ Yes. Please forgive my manners. This way please.
 **Cherry**<br>
 ... Thank you. Let's go, Simon.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2263,7 +2263,7 @@ If it does affect, you won't help...?
 Sherry.<br>
 Nora, the reason I want to clear this incident up is not for myself. I believe that hiding behind all the things we have experienced so far, there lies a secret which will affect the entire world…
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *I see...You believe that if you don't reveal these secrets, the dangers that come with it may end up impacting all humans.*
@@ -2360,7 +2360,7 @@ Chief!
 **Member D**<br>
 ... Yes, Chief.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2431,7 +2431,7 @@ Eh? Eh? What is going on!?
 **[Nora]**<br>
 *... I'll start explaining from the parts I know.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *And that is more or less what happened. Therefore, it is confirmed that Miss Kaori Minamiya's brain contains both hers and Miss Aroma White's memory right now. At the same time, the body of Kaori Minamiya also possesses natural traits of "The Eye of Horus" ability, to begin with.*
@@ -2476,7 +2476,7 @@ I... I'll give it a try!
 **NEKO#ΦωΦ**<br>
 ......
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **PAFF**<br>
 ......
@@ -2514,7 +2514,7 @@ Ughhhh…… WAAAAHHHHH!!!NOOO!!!NOO!!
 **Hayato**<br>
 KAORI!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2640,7 +2640,7 @@ Thank you, Nora.
 **NEKO#ΦωΦ**<br>
 Ah! NEKO felt the same way at first too! But Iemme tell you guys, Nora\-chan, she's... uhh, oh yeah! Ropohead's here too. It's quicker if you hear it directly from him!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2776,7 +2776,7 @@ Ah, yes! Please relay to those two that I'll take good care of their families!
 
 *\[Engine Starts\]*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[Nora]**<br>
 *... Miss Pauline?*
@@ -2803,7 +2803,7 @@ Ah, yes! Please relay to those two that I'll take good care of their families!
 ……<br>
 Understood...... Thank you.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2825,7 +2825,7 @@ Oh, I'm feeling pretty good.
 **[Nora]**<br>
 *Great, I'll escort you back to your room.*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *... It seems like your condition is much better than mine. Although you haven't fully mastered the ability yet, your body is rather stable despite the virus activity in your body being 15% higher than mine.*
@@ -2936,7 +2936,7 @@ Ehhh...? She left right after she said it... So Nora\-chan still really wants to
 **NEKO#ΦωΦ**<br>
 Okay then! We're definitely gonna think of a way to let Nora remember the joys of making music!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3028,7 +3028,7 @@ Speaking of which, where is him? I haven't seen him for a while now.
 **NEKO#ΦωΦ**<br>
 Whatever, bet he's sitting in some random corner fiddling with his device all by himself again.
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[Xenon A.I.]**<br>
 *... Connection failed. Retry searching for the terminal.*
@@ -3105,7 +3105,7 @@ Same goes for you too, Nora. It would be great if you can continue making music.
 *......<br>
 We focus on the task ahead for now.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3116,7 +3116,7 @@ We focus on the task ahead for now.*
 |**Crystal PuNK**| 18  |
 
 ### Log Content
-*[→Audio\_???\_695\_10\_26]*
+*\[→Audio\_???\_695\_10\_26\]*
 
 **Zhang**<br>
 Hahaha! Eat and drink all you want! It's my treat! If you see it, I'll pay for it!
@@ -3187,7 +3187,7 @@ Did you steal the item we requested from him?
 **Angus**<br>
 That's not for me to decide.
 
-*[→Cam\_Xenon's\_695\_10\_26]*
+*\[→Cam\_Xenon's\_695\_10\_26\]*
 
 **Xenon**<br>
 Sherry? Why are you here all of a sudden?<br>
@@ -3198,7 +3198,7 @@ Sherry? Why are you here all of a sudden?<br>
 
 ![chos2401.png](./attachments/chos2401.png)
 
-*[→Audio\_StudioB\_696\_05\_10]*
+*\[→Audio\_StudioB\_696\_05\_10\]*
 
 **KAI**<br>
 Okay. That felt really good. A quick break first. We'll continue afterward.
@@ -3208,7 +3208,7 @@ Okay. That felt really good. A quick break first. We'll continue afterward.
 **Cherry**<br>
 Ah, let me answer the phone.
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Cherry**<br>
 ... No way...
@@ -3219,7 +3219,7 @@ What's wrong?
 **Cherry**<br>
 My father, he...!
 
-*[→Audio\_Hospital01\_696\_05\_10]*
+*\[→Audio\_Hospital01\_696\_05\_10\]*
 
 **Cherry**<br>
 Father! What happened!?
@@ -3245,7 +3245,7 @@ Really!? Are you willing to undergo a blood transfusion checkup...
 **Xenon**<br>
 Whatever! Let's get on it!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3263,7 +3263,7 @@ Whatever! Let's get on it!
 ... Where is this...? Oh, yeah. I'm at Kyuu Hou Kai. <br>
 ... Dreamed about those things again...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 *\[Singing\]*
 
@@ -3420,7 +3420,7 @@ WHAT!?
 **Cherry**<br>
 What's happening!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3436,7 +3436,7 @@ What's happening!?
 **JOE**<br>
 Wait a sec, I'm coming, I'm coming!
 
-*[Call Starts]*
+*\[Call Starts\]*
 
 **JOE**<br>
 Whoo, out of...*\*breathes\**... Hello?
@@ -3494,11 +3494,11 @@ UWAAHHH!!
 **[Xenon]**<br>
 *JOE!!!*
 
-*[Call Ends]*
+*\[Call Ends\]*
 
 ![cpos2403.png](./attachments/cpos2403.png)
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3582,7 +3582,7 @@ Don't say that. Since we're already in the same boat now, let us help out! This 
 **Cherry**<br>
 You're welcome. Speaking of which, where's Nora?
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **[Nora]**<br>
 *Apologies, for asking to use your eyes at this time of the night.*
@@ -3677,7 +3677,7 @@ Yes... If I think carefully about it... That's right! It's the same sensation I 
 **Nora**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3688,7 +3688,7 @@ Yes... If I think carefully about it... That's right! It's the same sensation I 
 |**Crystal PuNK**| 20  |
 
 ### Log Content
-*[Call Starts]*
+*\[Call Starts\]*
 
 **Cherry**<br>
 Who is this? How did you know this number?
@@ -3762,9 +3762,9 @@ Haha, how trustworthy. Then we'll be asking for your help once the time arrives.
 **Cherry**<br>
 Gotcha. We'll be in touch.
 
-*[Call Ends]*
+*\[Call Ends\]*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3878,7 +3878,7 @@ For real!? That's great news!
 **[Nora]**<br>
 *Don't get your hopes up too high. All I did was take your genes and adjusted them according to theories and formulas. Whether or not this has any actual effect is still to be determined.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4047,7 +4047,7 @@ You three, stay here. Hayato, watch the door closely.
 **NEKO#ΦωΦ**<br>
 Xenon!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4095,7 +4095,7 @@ Chief...!?
 **[Nora]**<br>
 *Go, now!*
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Machine Gun\]*
 
@@ -4173,7 +4173,7 @@ Robohead, one more time. You ready?
 **[ROBO_Head]**<br>
 *Affirmative.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4313,7 +4313,7 @@ Sherry...
 **[Nora]**<br>
 *Please rest assured. We will rescue her with all the resources at our disposal. In the entirety of Node 03, this is the place with the most advanced medical technology.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4478,7 +4478,7 @@ Not at all.
 
 *\[Door Opens\]*
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Xenon**<br>
 ......
@@ -4495,7 +4495,7 @@ Sorry, this is all my fault.
 What is happening?<br>
 Hey!?
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4593,7 +4593,7 @@ All of you, come with me!
 **Kyuu Hou Kai Member**<br>
 ... Yes, sir!
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4725,7 +4725,7 @@ Sherry...?
 **Xenon**<br>
 ......
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4744,7 +4744,7 @@ The power is restored...!?
 **Member D**<br>
 Quick! We need to get there as fast as possible!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 **PAFF**<br>
 The power is back!
@@ -4752,7 +4752,7 @@ The power is back!
 **NEKO#ΦωΦ**<br>
 Sis Cherry!
 
-*[→Signal Switches]*
+*\[→Signal Switches\]*
 
 *\[Door Opens\]*
 
@@ -4788,7 +4788,7 @@ OUT! We're doing an emergency operation on her.
 **NEKO#ΦωΦ**<br>
 Sis Cherry! Sis Cherry! No...! Waaaahh...
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **Member D**<br>
 ......
@@ -4846,7 +4846,7 @@ Nora...?
 **Member D**<br>
 Chief, what are you talking about...?
 
-*[»»» Fast Forward»»»]*
+*\[»»» Fast Forward»»»\]*
 
 **[Nora]**<br>
 *... And that was how things went. It was me who failed to make an immediate decision.*
@@ -4887,7 +4887,7 @@ Hey! NEKO!
 **[Nora]**<br>
 *Just as Miss Asakura said, this place indeed can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. *
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -4950,7 +4950,7 @@ Got some stuff I wanna talk to you about too<br>
 Anyway, shoot me a message will ya we're all worried about you<br>
 *[Sent at AM 01:30]*
 
-*[JOE is offline]*<br>
+*\[JOE is offline\]*<br>
 
 
 [*(Click here to go back to the top)*](#toc)
@@ -5091,7 +5091,7 @@ You've spent the majority of your life trying to save the people around you, yet
 
 *\[Guitar\]*
 
-*[»»»Fast Forward»»»]*
+*\[»»»Fast Forward»»»\]*
 
 **ConneR**<br>
 This truly is a wonderful piece. You can hear the elegant and exquisite flow of emotions. If Miss Pauline could hear it once more, she'd definitely be moved, wouldn't she?
@@ -5146,7 +5146,7 @@ No. Get the hell out of here.
 **ConneR**<br>
 ... What a shame. Okay then, see you again soon... Maybe.
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -5237,7 +5237,7 @@ Good. If that's the case, I might just have a chance to help Miss PAFF while she
 **[Nora]**<br>
 *It's time.*
 
-*[Signal Lost]*
+*\[Signal Lost\]*
 
 [*(Click here to go back to the top)*](#toc)
 
