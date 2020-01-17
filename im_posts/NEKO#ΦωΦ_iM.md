@@ -1827,7 +1827,7 @@ Read the post goddamnit
 Oops, my bad. Not that kind of spoiler. **\#MonoWillPay**
 
 **KirinKiraKira**<br>
-UGH! All this suspense is killing me >"
+UGH! All this suspense is killing me >"<
 
 **DoToro**<br>
 PM!

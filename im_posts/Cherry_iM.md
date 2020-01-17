@@ -551,7 +551,7 @@ we will let her address everyone herself<br>
 Keyboard\_LUMY
 ### Replies
 **CherryMyLife**<br>
-Cherry, get well soon >"
+Cherry, get well soon >"<
 
 **CHanatsuka**<br>
 F\*\*\*! Enough of this BS! Can we find out who did it?

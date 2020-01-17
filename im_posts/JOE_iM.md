@@ -16,10 +16,14 @@
 
 ### Post
 **JOEZ Cafe**<br>
-Purchase a drink at JOEZ Café now and check\-in on iM to get the tomato\-flavored craft beer for free!<br>
-The latest fresh fruit beer \-\- YAMAMETO<br>
-Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece<br>
-Served in a wacky\-shaped bottle, it will impact your senses both taste\-wise and visual\-wise.<br>
+Purchase a drink at JOEZ Café now and check\-in on iM to get the tomato\-flavored craft beer for free!
+<br>
+The latest fresh fruit beer \-\- YAMAMETO
+<br>
+Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece
+<br>
+Served in a wacky\-shaped bottle, it will impact your senses both taste\-wise and visual\-wise.
+<br>
 Check\-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
 
 ![j0101.png](./attachments/j0101.png)
@@ -321,7 +325,7 @@ How do you play it? Do you swing it like a baseball bat and try to knock the bal
 
 **JOEZ Cafe**<br>
 You can't swing the cue\~ you have to aim carefully and poke your stick at the right hole<br>
->///
+\>///<
 
 **Pinevalley**<br>
 Innuendos galore ROFL

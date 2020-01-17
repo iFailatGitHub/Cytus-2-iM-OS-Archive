@@ -46,7 +46,7 @@ Reporting \*raise hand\*
 
 **T.Goldwell**<br>
 Reporting +1 !!<br>
-I am feeling pumped >"
+I am feeling pumped >"<
 
 **Amberclove**<br>
 I was single five years ago. I'm now married and have kids...\*weeps\*
@@ -225,7 +225,7 @@ Excellent
 　I believe that I can also learn a lot from you. I look forward to interacting with you more. 
 
 **RaiKiyumi**<br>
-OMG a meeting between two master class musicians >////
+OMG a meeting between two master class musicians >////<
 
 **CozyCaty**<br>
 I'm also a huge fan of ROBO\_Head
@@ -831,8 +831,10 @@ If it was me, I would probably burn these ants with a magnifying glass, I think?
 A max\-level, full\-screen taunt lul
 
 **Amberclove**<br>
-By the holy light! <br>
-Mom came in and ask why I was on my knees<br>
+By the holy light! 
+<br>
+Mom came in and ask why I was on my knees
+<br>
 I told her I just witnessed the mother of all sic burns
 
 **DiiR**<br>

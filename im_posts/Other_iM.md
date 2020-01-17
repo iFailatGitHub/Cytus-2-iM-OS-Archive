@@ -1124,7 +1124,7 @@ I'm here as well!
 ### Post
 **iluvpuf**<br>
 Monophonic's handling of this case is so infuriating. We don't want refunds; we want to know PAFF's current situation and whether or not she is OK! <br>
-I contacted Sis Helena a few times too and got no response at all. God all this anxiety is getting on my nerves, can't even eat properly now>"
+I contacted Sis Helena a few times too and got no response at all. God all this anxiety is getting on my nerves, can't even eat properly now>"<
 ### Replies
 **SancTityKnight**<br>
 Yeah I'm worried sick<br>
@@ -4117,7 +4117,7 @@ Young child, this is just how the world is, cruel and heartless. Get used to it
 So there are still fanboys who speak up for him LMFAO
 
 **Curo**<br>
-I prefer Cherry. The cool beauty big sister type is the best. Please step on me >////
+I prefer Cherry. The cool beauty big sister type is the best. Please step on me >////<
 
 **TunaLee**<br>
 Stop treating this crap like it's amusing dumba\*\* <br>

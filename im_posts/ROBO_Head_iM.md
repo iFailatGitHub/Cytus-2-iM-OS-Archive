@@ -475,7 +475,7 @@ Maybe some kind of curse \*shudders\*
 Stuff like this freak me out. God know who will be the next victim
 
 **KarenMayako**<br>
-Best wishes for PAFF, hope she is not frightened >"
+Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1228,7 +1228,7 @@ Thank you Robo\_head, my family can now rest assured after hearing that
 Is it me, or is it really unsafe now...should I cut down on the connection time?
 
 **Ange3Lina**<br>
-Life already sucks and now we can't do anything >"
+Life already sucks and now we can't do anything >"<
 
 **Hash**<br>
 **\#NEKOwillbeFINE**
@@ -1285,7 +1285,7 @@ Connections to Æsir\-FEST at end of timestamp 0<br>
 Speculation: Outside influence cause millions of participants experience error and lost connection. Can't confirm if event continued, need complete data to confirm...recovering ：（
 ### Replies
 **Cybel_Mach**<br>
-Finally some progress, I want the truth >"
+Finally some progress, I want the truth >"<
 
 **Popo**<br>
 The truth is some attention seeking prick got stage fright and ran away
@@ -1529,7 +1529,7 @@ I remember that 680 N.A. incident. It was a really big deal when I was a child<b
 My parents forbade me to go out too late because of that incident
 
 **ARCist**<br>
-The place I work is right next to a relay patrol station for the agents. There's a boatload of drones coming in and out of the station every day >"
+The place I work is right next to a relay patrol station for the agents. There's a boatload of drones coming in and out of the station every day >"<
 
 **TunaLee**<br>
 Scared.jpg

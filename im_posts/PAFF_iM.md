@@ -210,7 +210,7 @@ F\*\*\* off you noob!!
 PAFF SAIKOU!
 
 **CandiceNaoko**<br>
-PAFF please post some more. Want to talk with you >///
+PAFF please post some more. Want to talk with you >///<
 
 **An0nym0us**<br>
 Agreed. Usually it's the admins posting
