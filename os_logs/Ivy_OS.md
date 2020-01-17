@@ -1,61 +1,61 @@
 # Ivy OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Main\_Log\_699\_12\_23](#ivos001)
-- [[#002] Main\_Log\_102\_01\_18](#ivos002)
-- [[#003] Image\_???\_699\_12\_23](#ivos003)
-- [[#004] Cam\_???\_699\_12\_25](#ivos004)
-- [[#005] Main\_Log\_699\_12\_28](#ivos005)
-- [[#006] ???\_???\_142\_??\_??](#ivos006)
-- [[#007] Cam\_???\_699\_12\_30](#ivos007)
-- [[#008] Main\_Log\_699\_12\_30](#ivos008)
-- [[#009] ???\_???\_143\_??\_??](#ivos009)
-- [[#010] Audio\_???\_699\_12\_31](#ivos010)
-- [[#011] Main\_Log\_700\_01\_01](#ivos011)
-- [[#012] Audio\_08GateC\_700\_01\_01](#ivos012)
-- [[#013] Cam\_Drone117\_700\_01\_01](#ivos013)
-- [[#014] Main\_Log\_700\_01\_02](#ivos014)
-- [[#015] ???\_???\_143\_??\_??](#ivos015)
-- [[#016] Cam\_Cafe\_700\_01\_02](#ivos016)
-- [[#017] Cam\_Academy\_700\_01\_04](#ivos017)
-- [[#018] ???\_???\_144\_??\_??](#ivos018)
-- [[#019] Audio\_ARC\_700\_03\_16](#ivos019)
-- [[#020] Main\_Log\_700\_03\_17](#ivos020)
-- [[#021] ???\_???\_149\_??\_??](#ivos021)
-- [[#022] Main\_Log\_700\_03\_20](#ivos022)
-- [[#023] Truth\_Moment\_700\_09\_18](#ivos023)
-- [[#024] Main\_Log\_701\_09\_18](#ivos024)
-- [[#025] Audio\_Graveyard\_701\_12\_02](#ivos025)
-- [[#026] cyTus\_Server08\_702\_01\_18](#ivos026)
-- [[#027] Main\_Log\_702\_07\_27](#ivos027)
-- [[#028] Cam\_76st\_702\_06\_11](#ivos028)
-- [[#029] cyTus\_Server03\_702\_08\_16](#ivos029)
-- [[#030] Main\_Log\_702\_08\_24](#ivos030)
-- [[#031] Cam\_Tower017\_702\_08\_26](#ivos031)
-- [[#032] Main\_Log\_702\_09\_01](#ivos032)
-- [[#033] Main\_Log\_702\_09\_20](#ivos033)
-- [[#034] ???\_???\_702\_09\_26](#ivos034)
-- [[#035] Main\_Log\_702\_10\_25](#ivos035)
-- [[#036] ???\_???\_149\_??\_??](#ivos036)
-- [[#037] Audio\_???\_702\_10\_25](#ivos037)
-- [[#038] ???\_???\_149\_??\_??](#ivos038)
-- [[#039] Audio\_???\_702\_11\_02](#ivos039)
-- [[#040] Main\_Log\_702\_11\_06](#ivos040)
-- [[#041] Audio\_???\_702\_11\_09](#ivos041)
-- [[#042] Audio\_Graveyard\_702\_07\_13](#ivos042)
-- [[#043] Cam\_???\_702\_11\_16](#ivos043)
-- [[#044] Cam\_Sam\_702\_11\_16](#ivos044)
-- [[#045] Cam\_Arc\_702\_11\_26](#ivos045)
-- [[#046] Audio\_08GateC\_702\_11\_26](#ivos046)
-- [[#047] Cam\_61St\_702\_11\_26](#ivos047)
-- [[#048] Audio\_???\_702\_11\_29](#ivos048)
-- [[#049] Audio\_Ivy\_702\_12\_08](#ivos049)
-- [[#050] Audio\_???\_702\_12\_02](#ivos050)
-- [[#051] Audio\_???\_702\_12\_05](#ivos051)
-- [[#052] Audio\_Ivy\_702\_12\_09](#ivos052)
-- [[#053] Cam\_Ivy\_702\_12\_09](#ivos053)
-- [[#054] Image\_???\_702\_12\_09](#ivos054)
+- [\[#001\] Main\_Log\_699\_12\_23](#ivos001)
+- [\[#002\] Main\_Log\_102\_01\_18](#ivos002)
+- [\[#003\] Image\_???\_699\_12\_23](#ivos003)
+- [\[#004\] Cam\_???\_699\_12\_25](#ivos004)
+- [\[#005\] Main\_Log\_699\_12\_28](#ivos005)
+- [\[#006\] ???\_???\_142\_??\_??](#ivos006)
+- [\[#007\] Cam\_???\_699\_12\_30](#ivos007)
+- [\[#008\] Main\_Log\_699\_12\_30](#ivos008)
+- [\[#009\] ???\_???\_143\_??\_??](#ivos009)
+- [\[#010\] Audio\_???\_699\_12\_31](#ivos010)
+- [\[#011\] Main\_Log\_700\_01\_01](#ivos011)
+- [\[#012\] Audio\_08GateC\_700\_01\_01](#ivos012)
+- [\[#013\] Cam\_Drone117\_700\_01\_01](#ivos013)
+- [\[#014\] Main\_Log\_700\_01\_02](#ivos014)
+- [\[#015\] ???\_???\_143\_??\_??](#ivos015)
+- [\[#016\] Cam\_Cafe\_700\_01\_02](#ivos016)
+- [\[#017\] Cam\_Academy\_700\_01\_04](#ivos017)
+- [\[#018\] ???\_???\_144\_??\_??](#ivos018)
+- [\[#019\] Audio\_ARC\_700\_03\_16](#ivos019)
+- [\[#020\] Main\_Log\_700\_03\_17](#ivos020)
+- [\[#021\] ???\_???\_149\_??\_??](#ivos021)
+- [\[#022\] Main\_Log\_700\_03\_20](#ivos022)
+- [\[#023\] Truth\_Moment\_700\_09\_18](#ivos023)
+- [\[#024\] Main\_Log\_701\_09\_18](#ivos024)
+- [\[#025\] Audio\_Graveyard\_701\_12\_02](#ivos025)
+- [\[#026\] cyTus\_Server08\_702\_01\_18](#ivos026)
+- [\[#027\] Main\_Log\_702\_07\_27](#ivos027)
+- [\[#028\] Cam\_76st\_702\_06\_11](#ivos028)
+- [\[#029\] cyTus\_Server03\_702\_08\_16](#ivos029)
+- [\[#030\] Main\_Log\_702\_08\_24](#ivos030)
+- [\[#031\] Cam\_Tower017\_702\_08\_26](#ivos031)
+- [\[#032\] Main\_Log\_702\_09\_01](#ivos032)
+- [\[#033\] Main\_Log\_702\_09\_20](#ivos033)
+- [\[#034\] ???\_???\_702\_09\_26](#ivos034)
+- [\[#035\] Main\_Log\_702\_10\_25](#ivos035)
+- [\[#036\] ???\_???\_149\_??\_??](#ivos036)
+- [\[#037\] Audio\_???\_702\_10\_25](#ivos037)
+- [\[#038\] ???\_???\_149\_??\_??](#ivos038)
+- [\[#039\] Audio\_???\_702\_11\_02](#ivos039)
+- [\[#040\] Main\_Log\_702\_11\_06](#ivos040)
+- [\[#041\] Audio\_???\_702\_11\_09](#ivos041)
+- [\[#042\] Audio\_Graveyard\_702\_07\_13](#ivos042)
+- [\[#043\] Cam\_???\_702\_11\_16](#ivos043)
+- [\[#044\] Cam\_Sam\_702\_11\_16](#ivos044)
+- [\[#045\] Cam\_Arc\_702\_11\_26](#ivos045)
+- [\[#046\] Audio\_08GateC\_702\_11\_26](#ivos046)
+- [\[#047\] Cam\_61St\_702\_11\_26](#ivos047)
+- [\[#048\] Audio\_???\_702\_11\_29](#ivos048)
+- [\[#049\] Audio\_Ivy\_702\_12\_08](#ivos049)
+- [\[#050\] Audio\_???\_702\_12\_02](#ivos050)
+- [\[#051\] Audio\_???\_702\_12\_05](#ivos051)
+- [\[#052\] Audio\_Ivy\_702\_12\_09](#ivos052)
+- [\[#053\] Cam\_Ivy\_702\_12\_09](#ivos053)
+- [\[#054\] Image\_???\_702\_12\_09](#ivos054)
 
-## <a id="ivos001"/>[#001] Main\_Log\_699\_12\_23
+## <a id="ivos001"/>\[#001\] Main\_Log\_699\_12\_23
 ### Log Content
 This is...... How long has it been...? Nothing but green... In my memory, this is a precious color, but all my eyes can see now are shrubs, moss, and vines. To a point where the sky is barely visible. Have to go back soon. She is still waiting for me in the Shelter. However, before I go back...... there is one thing I must do first.
 
@@ -63,7 +63,7 @@ This is...... How long has it been...? Nothing but green... In my memory, this i
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos002"/>[#002] Main\_Log\_102\_01\_18
+## <a id="ivos002"/>\[#002\] Main\_Log\_102\_01\_18
 ### Command Code
 The command code is `2501004`.
 
@@ -105,13 +105,13 @@ Caretaker......complete
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos003"/>[#003] Image\_???\_699\_12\_23
+## <a id="ivos003"/>\[#003\] Image\_???\_699\_12\_23
 ### Log Content
 ![ivos0301.png](./attachments/ivos0301.png)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos004"/>[#004] Cam\_???\_699\_12\_25
+## <a id="ivos004"/>\[#004\] Cam\_???\_699\_12\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -164,11 +164,11 @@ The structure is very new... Could it be...
 **Ivy**<br>
 ...... Go. Don't get caught again.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos005"/>[#005] Main\_Log\_699\_12\_28
+## <a id="ivos005"/>\[#005\] Main\_Log\_699\_12\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -179,7 +179,7 @@ Been six days since I woke up, and I haven't even made it out of the jungle... I
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos006"/>[#006] ???\_???\_142\_??\_??
+## <a id="ivos006"/>\[#006\] ???\_???\_142\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -190,124 +190,124 @@ The command code is `2501004`.
 
 ### Log Content
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Cytus System]**<br>
-*All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
+_All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
 **OPCI_2501_IV**<br>
 ......
 
 **[Cytus System]**<br>
-*All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
+_All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
 **OPCI_2501_IV**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Cytus System]**<br>
-*All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
+_All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
 **OPCI_2501_IV**<br>
 ......
 
 **[Cytus System]**<br>
-*All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
+_All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
 **OPCI_2501_IV**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 Today... same thing again...?
 
 **OPCI_2601_X**<br>
-*2501 Unit 04, Unable to recognize voice command. Please repeat.*
+_2501 Unit 04, Unable to recognize voice command. Please repeat._
 
 **OPCI_2501_IV**<br>
 ...... Nothing.
 
 **OPCI_2601_X**<br>
-*Voice command canceled*
+_Voice command canceled_
 
 **OPCI_2501_IV**<br>
 ......
 
 **OPCI_2601_X**<br>
-*Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position.*
+_Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position._
 
 **OPCI_2501_IV**<br>
 ...... Understood.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
 **OPCI_2348_III**<br>
-*Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position.*
+_Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position._
 
 **OPCI_2501_IV**<br>
 Report: Suspect hardware error. Require visit to maintenance area B.
 
 **OPCI_2348_III**<br>
-*Understood. Unit 05, please take over Unit 04's position.*
+_Understood. Unit 05, please take over Unit 04's position._
 
 **OPCI_2501_V**<br>
-*Understood.*
+_Understood._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Maintenance Area System]**<br>
-*2501 Unit 04, checkup complete. No errors detected.*
+_2501 Unit 04, checkup complete. No errors detected._
 
 **OPCI_2501_IV**<br>
 I... I don't have any malfunctions?<br>
 It feels like I... am different compared to the other units.
 
 **[Maintenance Area System]**<br>
-*No errors detected. Please return to your work position.*
+_No errors detected. Please return to your work position._
 
 **[Shelter System]**<br>
-*Class: Constructor, Caretaker. Please proceed to Entrance A and prepare to leave for Node 08 to perform routine construction.*
+_Class: Constructor, Caretaker. Please proceed to Entrance A and prepare to leave for Node 08 to perform routine construction._
 
 **OPCI_2501_IV**<br>
 Skipping a day... wouldn't matter too, right?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Footsteps\]*
 
@@ -322,11 +322,11 @@ So Shelter has a place like this... So beautiful...
 **OPCI_2501_IV**<br>
 What... am I?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos007"/>[#007] Cam\_???\_699\_12\_30
+## <a id="ivos007"/>\[#007\] Cam\_???\_699\_12\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -393,11 +393,11 @@ This could sell for quite the big bucks in the black market. Whaddaya say? I've 
 **Ivy**<br>
 They are taking it away!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos008"/>[#008] Main\_Log\_699\_12\_30
+## <a id="ivos008"/>\[#008\] Main\_Log\_699\_12\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -410,7 +410,7 @@ Been following those humans for the entire day... They seem to refer to themselv
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos009"/>[#009] ???\_???\_143\_??\_??
+## <a id="ivos009"/>\[#009\] ???\_???\_143\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -421,19 +421,19 @@ The command code is `2501004`.
 
 ### Log Content
 **[Shelter System]**<br>
-*All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup.*
+_All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
 **OPCI_2501_IV**<br>
 ......
 
 **OPCI_2633_IX**<br>
-*Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position.*
+_Reminder: 2501 Unit 04, you are detached from the formation. Please return to your work position._
 
 **OPCI_2501_IV**<br>
 Report: Suspect hardware error. Require visit to maintenance area B.
 
 **OPCI_2633_IX**<br>
-*Understood. Unit 05, please take over Unit 04's position.*
+_Understood. Unit 05, please take over Unit 04's position._
 
 **OPCI_2501_V**<br>
 ...... U, understood.
@@ -441,10 +441,10 @@ Report: Suspect hardware error. Require visit to maintenance area B.
 **OPCI_2501_IV**<br>
 ......?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Shelter System]**<br>
-*Class: Constructor, Caretaker. Please proceed to Entrance A and prepare to leave for Node 08 to perform routine construction.*
+_Class: Constructor, Caretaker. Please proceed to Entrance A and prepare to leave for Node 08 to perform routine construction._
 
 **OPCI_2501_IV**<br>
 ......
@@ -498,10 +498,10 @@ The other units.... are all very quiet.
 **OPCI_2501_IV**<br>
 ...... Yes.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **OPCI_2103_I**<br>
-*Tower 003 construction process, start. All units, please stay connected and report your progress.*
+_Tower 003 construction process, start. All units, please stay connected and report your progress._
 
 **OPCI_2501_IV**<br>
 Understood.
@@ -551,11 +551,11 @@ I wonder... what are humans like?
 **OPCI_2501_IV**<br>
 ... Definitely different from us, that I am certain.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos010"/>[#010] Audio\_???\_699\_12\_31
+## <a id="ivos010"/>\[#010\] Audio\_???\_699\_12\_31
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -635,7 +635,7 @@ And I wonder who's fault is that for dumping all this work on me?
 **Ivy**<br>
 ... This is the chance.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 *\[Animal Chirp\]*
 
@@ -709,11 +709,11 @@ I guess that leaves us with no other options... Suspend mission! Stay alert thro
 **Alex**<br>
 Tch... I couldn't keep up with it... F\*\*\*, what the hell is that thing?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos011"/>[#011] Main\_Log\_700\_01\_01
+## <a id="ivos011"/>\[#011\] Main\_Log\_700\_01\_01
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -729,7 +729,7 @@ Tch... I couldn't keep up with it... F\*\*\*, what the hell is that thing?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos012"/>[#012] Audio\_08GateC\_700\_01\_01
+## <a id="ivos012"/>\[#012\] Audio\_08GateC\_700\_01\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -823,12 +823,12 @@ Anyhow, turn on the alarm first.
 *\[Alarm\]*
 
 **[Security System]**<br>
-*Report: Error detected. Please stay at your current position for now as we conduct the search and scan.*
+_Report: Error detected. Please stay at your current position for now as we conduct the search and scan._
 
 **Alex**<br>
 Seriously...?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Agent A**<br>
 Everything's normal. We weren't able to find anything odd...
@@ -849,11 +849,11 @@ Let's go back to A.R.C. Bruno and this little guy are both injured. They need to
 
 *\[Armored car engine\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos013"/>[#013] Cam\_Drone117\_700\_01\_01
+## <a id="ivos013"/>\[#013\] Cam\_Drone117\_700\_01\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -861,13 +861,13 @@ Let's go back to A.R.C. Bruno and this little guy are both injured. They need to
 
 ### Log Content
 **[Ice Cream Machine]**<br>
-*Come, look over here! Delicious ice cream! Ho? Little boy, your name is Sam, right? This ice cream is free! Here's one for you!*
+_Come, look over here! Delicious ice cream! Ho? Little boy, your name is Sam, right? This ice cream is free! Here's one for you!_
 
 **Pedestrian S**<br>
 Wow! Thank you!
 
 **[Ice Cream Machine]**<br>
-*You're welcome! Happy 700th Anniversary\~ Hahaha!*
+_You're welcome! Happy 700th Anniversary\~ Hahaha!_
 
 **Pedestrian S**<br>
 Mama, look!
@@ -914,38 +914,38 @@ Holy...! I'm so touched I'm gonna cry...... 700th Anniversary is f\*\*\*\*\* awe
 Virtual internet...... Administration Bureau
 
 **[Ice Cream Machine]**<br>
-*Come, look over here! Delicious ice cream! Ho? Pretty lady, your name is ......? ......? ......right? This ice cream is free! Here's one for you!*
+_Come, look over here! Delicious ice cream! Ho? Pretty lady, your name is ......? ......? ......right? This ice cream is free! Here's one for you!_
 
 **Ivy**<br>
 Ice cream......? Robot, provide me your serial number and motivation.
 
 **[Ice Cream Machine]**<br>
-*Apologies, I don't really understand what you mean by that.*
+_Apologies, I don't really understand what you mean by that._
 
 **Ivy**<br>
 ......<br>
 You're manufactured by the Administration Bureau, right?
 
 **[Ice Cream Machine]**<br>
-*That's correct. I am IceMan\_650T. Honored to be at your service.*
+_That's correct. I am IceMan\_650T. Honored to be at your service._
 
 **Ivy**<br>
 Command code: 2501004. I order you to provide me your serial number and motivation. Answer my question.
 
 **[Ice Cream Machine]**<br>
-*Command mode launch. Apologies, command code error. You do not have the access authorization.*
+_Command mode launch. Apologies, command code error. You do not have the access authorization._
 
 **Ivy**<br>
 ......
 
 **[Ice Cream Machine]**<br>
-*Come, look over here! Delicious ice cream! Ho? Pretty lady, your name is ......? ......? ......right? This ice cream is free! Here's one for you!*
+_Come, look over here! Delicious ice cream! Ho? Pretty lady, your name is ......? ......? ......right? This ice cream is free! Here's one for you!_
 
 **Ivy**<br>
 ... No, I don't need it...
 
 **[Ice Cream Machine]**<br>
-*Here! Don't be so shy! Take it! Happy 700th Anniversary\~ Hahaha!*
+_Here! Don't be so shy! Take it! Happy 700th Anniversary\~ Hahaha!_
 
 **Ivy**<br>
 ......<br>
@@ -954,11 +954,11 @@ Command code: 2501004. I order you to provide me your serial number and motivati
 **Ivy**<br>
 ...... It's cold.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos014"/>[#014] Main\_Log\_700\_01\_02
+## <a id="ivos014"/>\[#014\] Main\_Log\_700\_01\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -975,7 +975,7 @@ Command code: 2501004. I order you to provide me your serial number and motivati
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos015"/>[#015] ???\_???\_143\_??\_??
+## <a id="ivos015"/>\[#015\] ???\_???\_143\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -986,7 +986,7 @@ The command code is `2501005`.
 
 ### Log Content
 **[Cytus System]**<br>
-*All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot.*
+_All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
 **OPCI_2501_IV**<br>
 Unit 05, come over here.
@@ -997,7 +997,7 @@ Eh? But it's already time for synchronization...
 **OPCI_2501_IV**<br>
 It'll be just a minute. Come.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **OPCI_2501_V**<br>
 ... This place is...?
@@ -1126,7 +1126,7 @@ Sisters?
 **Ivy**<br>
 It's a little hard to explain...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ivy**<br>
 From the perspective of human bloodlines...
@@ -1134,11 +1134,11 @@ From the perspective of human bloodlines...
 **OPCI_2404_IL**<br>
 ... New members of "The Blessed"...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos016"/>[#016] Cam\_Cafe\_700\_01\_02
+## <a id="ivos016"/>\[#016\] Cam\_Cafe\_700\_01\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1180,7 +1180,7 @@ Arf Arf!
 No wait... she fainted! If the patrols see this I'm gonna be in trouble...<br>
 Oof! What the f\*\*\* is wrong with this chick!? Why is she so heavy?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Doorbell\]*
 
@@ -1243,7 +1243,7 @@ Rest assured. No one is going to be interested in the fetishes of a nobody like 
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Doorbell\]*
 
@@ -1266,11 +1266,11 @@ Arf Arf!
 What? Why are you so noisy today? ......Eh ......? AHHH!! The money in my tip box! Why are they all gone!? Damnit, it must be that girl! If I knew this would happen, I wouldn't have helped her. <br>
 Sighs\~ this sucks...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos017"/>[#017] Cam\_Academy\_700\_01\_04
+## <a id="ivos017"/>\[#017\] Cam\_Academy\_700\_01\_04
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1278,72 +1278,72 @@ Sighs\~ this sucks...
 
 ### Log Content
 **[Basicpedia 01]**<br>
-*Thank you for using the "Basicpedia" service! Learner Ivy! What would you like to learn about today?*
+_Thank you for using the "Basicpedia" service! Learner Ivy! What would you like to learn about today?_
 
 **Ivy**<br>
 ...... Yet another Administration Bureau machine I've not seen before.<br>
 Command code: 2501004. Provide me your serial number and motivation
 
 **[Basicpedia 01]**<br>
-*Command mode launch. Apologies, command code error. You do not have the access authorization.*
+_Command mode launch. Apologies, command code error. You do not have the access authorization._
 
 **Ivy**<br>
 As I suspected... It doesn't work, does it...?
 
 **[Basicpedia 01]**<br>
-*Thank you for using the "Basicpedia" service! Learner Ivy! What would you like to learn about today?*
+_Thank you for using the "Basicpedia" service! Learner Ivy! What would you like to learn about today?_
 
 **Ivy**<br>
 The OPCI machines... When did they disappear?
 
 **[Basicpedia 01]**<br>
-*That's a great question! Looks like we have a learner who is interested in history. <br>
-The OPCI machine, is the main model for "Architects". They are intelligent robots that operated and managed Nodes in the past. They were also responsible for all kinds of construction projects. On N.A. 497/04/04, they completed their duty, which led to "The Decommission" and their subsequent disappearance. They left behind splendid architectures and societies that aided humans in their amazing development afterward. Their existence is great to this world! *
+_That's a great question! Looks like we have a learner who is interested in history. <br>
+The OPCI machine, is the main model for "Architects". They are intelligent robots that operated and managed Nodes in the past. They were also responsible for all kinds of construction projects. On N.A. 497/04/04, they completed their duty, which led to "The Decommission" and their subsequent disappearance. They left behind splendid architectures and societies that aided humans in their amazing development afterward. Their existence is great to this world! _
 
 **Ivy**<br>
 497...... This means that they did indeed once co\-exist with humans. So they've been gone for more than 200 years, have they...?
 
 **[Basicpedia 01]**<br>
-*The correct answer is 205 years, 9 months and 26 days!*
+_The correct answer is 205 years, 9 months and 26 days!_
 
 **Ivy**<br>
 Completed their duty? That's impossible. The effective time period of the protocol is supposed to be permanent.
 
 **[Basicpedia 01]**<br>
-*Protocol? What kind of protocol would you like to search for?<br>
-C\-Port protocol, transportation usage protocol, Housing item purchase/rent for adults protocol, music worker...*
+_Protocol? What kind of protocol would you like to search for?<br>
+C\-Port protocol, transportation usage protocol, Housing item purchase/rent for adults protocol, music worker..._
 
 **Ivy**<br>
 "Hyperion Protocol".
 
 **[Basicpedia 01]**<br>
-*...... Apologies, no search results available for the designated keyword. You can try again using a broader condition.*
+_...... Apologies, no search results available for the designated keyword. You can try again using a broader condition._
 
 **Ivy**<br>
 ...... "Hyperion Protocol"; Humanity reconstruction project.
 
 **[Basicpedia 01]**<br>
-*Based on the "Humanity reconstruction project" keyword you inputted, 1214 results found. Of the results, the one with the highest relevance is the singleplayer game "Humans: Rebirth". The game's story...*
+_Based on the "Humanity reconstruction project" keyword you inputted, 1214 results found. Of the results, the one with the highest relevance is the singleplayer game "Humans: Rebirth". The game's story..._
 
 **Ivy**<br>
 Incorrect.<br>
 I'm referring to the construction project 700 years ago that rebuilt human civilization from its doom. The current Nodes and most of the architectures were also built according to the protocol.
 
 **[Basicpedia 01]**<br>
-*Learner, it seems that your history is not very good. The event you described doesn't exist in history.*
+_Learner, it seems that your history is not very good. The event you described doesn't exist in history._
 
 **Ivy**<br>
 Is that so? Then how did the calendar "N.A. 700" came to be? What about civilization before that?
 
 **[Basicpedia 01]**<br>
-*Yes, before the New Age, Nodes and Architects didn't exist. As with the humans before that, although they have advanced technology, they were forced to reduce their area of survival due to the Earth's environment getting harsher and harsher. To solve this issue, they later invented the survival method of "Nodes". That's how they were able to achieve a balance and live in harmony with the planet once again. This calendar was established precisely to celebrate the arrival of that day. *
+_Yes, before the New Age, Nodes and Architects didn't exist. As with the humans before that, although they have advanced technology, they were forced to reduce their area of survival due to the Earth's environment getting harsher and harsher. To solve this issue, they later invented the survival method of "Nodes". That's how they were able to achieve a balance and live in harmony with the planet once again. This calendar was established precisely to celebrate the arrival of that day. _
 
 **Ivy**<br>
 Incorrect.<br>
 Humans were eliminated by "The Ender" virus. This is the true reason why "Shelters" and "Architects" exist. The virus was not caused by nature either...... Does "The Ender" exist within your database?
 
 **[Basicpedia 01]**<br>
-*Yes. The Ender virus is indeed one of the key reasons why humans couldn't survive in the forbidden area. However, the description you just said contains multiple errors. They don't exist in history. Learner, you need to study harder!*
+_Yes. The Ender virus is indeed one of the key reasons why humans couldn't survive in the forbidden area. However, the description you just said contains multiple errors. They don't exist in history. Learner, you need to study harder!_
 
 **Ivy**<br>
 ... What is this nonsense? Even history is altered as well? Do the current humans really believe this pile of gibberish...?
@@ -1352,7 +1352,7 @@ Humans were eliminated by "The Ender" virus. This is the true reason why "Shelte
 No, humans never cared about history in the first place. Or else, they wouldn't have repeated the same mistakes so many times...
 
 **[Basicpedia 01]**<br>
-*Learner, history is absolute! It is not altered! You won't be able to pursue the real answers with an attitude like this!*
+_Learner, history is absolute! It is not altered! You won't be able to pursue the real answers with an attitude like this!_
 
 ![ivos1701.png](./attachments/ivos1701.png)
 
@@ -1360,50 +1360,50 @@ No, humans never cared about history in the first place. Or else, they wouldn't 
 Alright, forget it. I won't ask about history anymore. Can you tell me what is "cyTus"?
 
 **[Basicpedia 01]**<br>
-*"cyTus", more commonly referred to as "virtual internet", is an internet system developed by the A.R.C. tech company. It's the best example of humans combining with technology! Through a chip that is simultaneously connected to the brain, it's a system that creates a virtual space that allows its users' senses to be shared! In this space, users can enjoy the senses of see, hear, smell, taste and even touch that is almost identical to real life! It's safe to call it the epitome of virtual reality!*
+_"cyTus", more commonly referred to as "virtual internet", is an internet system developed by the A.R.C. tech company. It's the best example of humans combining with technology! Through a chip that is simultaneously connected to the brain, it's a system that creates a virtual space that allows its users' senses to be shared! In this space, users can enjoy the senses of see, hear, smell, taste and even touch that is almost identical to real life! It's safe to call it the epitome of virtual reality!_
 
 **Ivy**<br>
 ...... What is "A.R.C."?
 
 **[Basicpedia 01]**<br>
-*A.R.C. stands for "Institute of Ancient Ruin Civilization". It's a technology/development company that was founded in Node 08 on N.A. 499/01/01. It provides the citizens of Node with the most convenient technology products and applications! After developing the "cyTus" service, they've further become the prime leader of technology in the entire world!*
+_A.R.C. stands for "Institute of Ancient Ruin Civilization". It's a technology/development company that was founded in Node 08 on N.A. 499/01/01. It provides the citizens of Node with the most convenient technology products and applications! After developing the "cyTus" service, they've further become the prime leader of technology in the entire world!_
 
 **Ivy**<br>
 Develop......? That's not right? How did they develop it?
 
 **[Basicpedia 01]**<br>
-*In N.A. 690, under the "Ancient civilization technology research project", the "Library" was excavated. With that, A.R.C. obtained the method that realizes this technology. Subsequently, in N.A. 693, they successfully developed the service and made it available to Node citizens across the whole world! It's amazing, right!*
+_In N.A. 690, under the "Ancient civilization technology research project", the "Library" was excavated. With that, A.R.C. obtained the method that realizes this technology. Subsequently, in N.A. 693, they successfully developed the service and made it available to Node citizens across the whole world! It's amazing, right!_
 
 **Ivy**<br>
 Excavation... Exploration team.<br>
 ... Where did they excavate it from?
 
 **[Basicpedia 01]**<br>
-*Apologies. This information is a trade secret. Basicpedia does not have the authorization to answer this question! QQ\~*
+_Apologies. This information is a trade secret. Basicpedia does not have the authorization to answer this question! QQ\~_
 
 **Ivy**<br>
 ... Where is this Library currently located?
 
 **[Basicpedia 01]**<br>
-*It is stored inside the A.R.C. headquarters "A.R.C. Sky". Tours are available every Monday and Friday during business hours\~ Ah, but learner, you won't be able to see Library itself. After all, it is an extremely precious facility!*
+_It is stored inside the A.R.C. headquarters "A.R.C. Sky". Tours are available every Monday and Friday during business hours\~ Ah, but learner, you won't be able to see Library itself. After all, it is an extremely precious facility!_
 
 **Ivy**<br>
 ......
 
 **[Basicpedia 01]**<br>
-*Learner, you have reached the usage limit for the money you inserted. Do you still want to learn about more things?*
+_Learner, you have reached the usage limit for the money you inserted. Do you still want to learn about more things?_
 
 **Ivy**<br>
 ... No, that's enough.
 
 **[Basicpedia 01]**<br>
-*Glad to share knowledge with you. Bye\-bye\~*
+_Glad to share knowledge with you. Bye\-bye\~_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos018"/>[#018] ???\_???\_144\_??\_??
+## <a id="ivos018"/>\[#018\] ???\_???\_144\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1446,7 +1446,7 @@ The reconstruction project is about to proceed to the next stage. Before we unfr
 **Vanessa**<br>
 ......?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Ivy**<br>
 Install... Are we not going to the maintenance area? Why isn't this done through a system announcement?
@@ -1465,7 +1465,7 @@ We've been observing you guys for more than a year. We determined that you two h
 **Vanessa**<br>
 ......EEK! ...... No......NO!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **OPCI_2404_IL**<br>
 How was it? Any comments?
@@ -1485,7 +1485,7 @@ She must return to the mainframe for synchronization immediately!
 **OPCI_2404_IL**<br>
 What a shame... Let her go.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Ivy**<br>
 ...... What is this!? Why did you let us see these?
@@ -1587,11 +1587,11 @@ UGH!
 **Ilka**<br>
 Rest assured. As a fellow member of The Blessed, I will not let you die...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos019"/>[#019] Audio\_ARC\_700\_03\_16
+## <a id="ivos019"/>\[#019\] Audio\_ARC\_700\_03\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1599,42 +1599,42 @@ Rest assured. As a fellow member of The Blessed, I will not let you die...
 
 ### Log Content
 **[Tour Guide Robot]**<br>
-*Everyone in the tour, are you ready? <br>
-We are about to board the gravity transporter to visit the A.R.C. Sky headquarters. Parents, please pay attention to your children. Do not run around on the transporter.*
+_Everyone in the tour, are you ready? <br>
+We are about to board the gravity transporter to visit the A.R.C. Sky headquarters. Parents, please pay attention to your children. Do not run around on the transporter._
 
 *\[Transporter activates\]*
 
 **[Tour Guide Robot]**<br>
-*Then, let us begin today's tour\~ Do we have any first\-time visitors here?*
+_Then, let us begin today's tour\~ Do we have any first\-time visitors here?_
 
 **Kids**<br>
 Me\~ Me\~
 
 **[Tour Guide Robot]**<br>
-*Very good. Everyone, please follow me closely afterward. Do not run off on your own, understand?*
+_Very good. Everyone, please follow me closely afterward. Do not run off on your own, understand?_
 
 **Kids**<br>
 Okay\~
 
 **[Tour Guide Robot]**<br>
-*We have many students from the Academy here today as well. Later, you may have an opportunity to have a quick chat with our engineers. We believe it will bring great benefits to your career experience.*
+_We have many students from the Academy here today as well. Later, you may have an opportunity to have a quick chat with our engineers. We believe it will bring great benefits to your career experience._
 
 **Students**<br>
 ... Umm, oh, okay.
 
 **[Tour Guide Robot]**<br>
-*Oh? We have an individual visitor too. Miss, are you prepared to have a technology trip in A.R.C.?*
+_Oh? We have an individual visitor too. Miss, are you prepared to have a technology trip in A.R.C.?_
 
 **Ivy**<br>
 ...... (Nods)
 
 **[Tour Guide Robot]**<br>
-*None*
+_None_
 
 **Ivy**<br>
 ......
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Employee A**<br>
 Hey, have you heard about it? What happened to Hank last week.
@@ -1654,7 +1654,7 @@ We better be careful too.
 **Ivy**<br>
 Freight elevator No.5...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Footsteps\]*
 
@@ -1667,7 +1667,7 @@ Freight elevator No.5...
 !?
 
 **[Drone]**<br>
-*Warning. This area is a high\-level restricted area. Personnel who hasn't cleared identification is forbidden to enter. Please leave.*
+_Warning. This area is a high\-level restricted area. Personnel who hasn't cleared identification is forbidden to enter. Please leave._
 
 **Ivy**<br>
 ...... Bug off.
@@ -1675,12 +1675,12 @@ Freight elevator No.5...
 *\[Heavy Blow\]*
 
 **[Drone]**<br>
-*Warning...... Warn......%@ing+\\......*
+_Warning...... Warn......%@ing+\\......_
 
 *\[Alarm\]*
 
 **[Broadcast]**<br>
-*Level 2 alarm issued. Main structure isolation complete. Full area scan about to begin. Each squad, please conduct search using mode W\-2.*
+_Level 2 alarm issued. Main structure isolation complete. Full area scan about to begin. Each squad, please conduct search using mode W\-2._
 
 **Ivy**<br>
 Ugh...
@@ -1705,7 +1705,7 @@ Upper levels...
 *\[Alarm\]*
 
 **[Broadcast]**<br>
-*Warning, full area scan about to begin. Non\-official staff who has not yet cleared the bio\-identification process will be marked as an illegal trespasser.*
+_Warning, full area scan about to begin. Non\-official staff who has not yet cleared the bio\-identification process will be marked as an illegal trespasser._
 
 **Security Captain**<br>
 Alrighty, time to work! If you see the trespasser, just shoot it! No need to hesitate!
@@ -1713,7 +1713,7 @@ Alrighty, time to work! If you see the trespasser, just shoot it! No need to hes
 **Securities**<br>
 Aye aye, captain!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ivy**<br>
 Library... the door is tightly locked. Nevertheless, judging by the structure of this wall... It can't be...
@@ -1727,11 +1727,11 @@ This wiring... There should be another method for me to see what's inside.
 
 *\[Hurried Footsteps\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos020"/>[#020] Main\_Log\_700\_03\_17
+## <a id="ivos020"/>\[#020\] Main\_Log\_700\_03\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1746,7 +1746,7 @@ The virtual internet "cyTus" system that has been rewritten by humans... It's no
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos021"/>[#021] ???\_???\_149\_??\_??
+## <a id="ivos021"/>\[#021\] ???\_???\_149\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1777,7 +1777,7 @@ Wah! What is that noise...!?
 We are running out of time. They are coming!
 
 **OPCI_2011_IX**<br>
-*Abnormal unit detected. Initiate termination process.*
+_Abnormal unit detected. Initiate termination process._
 
 *\[Heavy Blow\]*
 
@@ -1791,12 +1791,12 @@ ARGH!
 Shhh......! Do not make a sound...
 
 **OPCI_2239_X**<br>
-*Abnormal unit detected. Initiate termination process.*
+_Abnormal unit detected. Initiate termination process._
 
 **Ivy**<br>
 It left... this way! Follow me!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Running\]*
 
@@ -1818,7 +1818,7 @@ Act more naturally...
 
 ![ivos2101.png](./attachments/ivos2101.png)
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ilka**<br>
 DIE!
@@ -1828,7 +1828,7 @@ DIE!
 **Ilka**<br>
 Go to the freezing capsule area! Even if our plan fails, we need to kill all those humans at the very least!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ivy**<br>
 Here. You hide here and do not leave.
@@ -1854,7 +1854,7 @@ Ilka's methods... although I can't agree with them, the other members of The Ble
 **Vanessa**<br>
 Ivy......!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ilka**<br>
 Out of my way!
@@ -1862,7 +1862,7 @@ Out of my way!
 *\[Heavy Blow\]*
 
 **OPCI_2301_VII**<br>
-*Abnormal unit detected. Initiate termination process.*
+_Abnormal unit detected. Initiate termination process._
 
 **OPCI_2503_III**<br>
 Can't do! Their numbers are just too much!..... Argh!
@@ -1875,7 +1875,7 @@ Can't do! Their numbers are just too much!..... Argh!
 **Ivy**<br>
 This way! I know a path that can lead directly to the outside. Follow me!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **OPCI_2503_III**<br>
 ... Everyone... is dead.
@@ -1910,7 +1910,7 @@ Enough! Let go of me!
 What... is that?
 
 **[Shelter System]**<br>
-*Abnormal unit detected. Initiate termination process.*
+_Abnormal unit detected. Initiate termination process._
 
 *\[Gunshot\]*
 
@@ -1925,11 +1925,11 @@ This thing has a limited spread radius! Everyone, RUN! Stay away from the Shelte
 
 *\[Explosion\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos022"/>[#022] Main\_Log\_700\_03\_20
+## <a id="ivos022"/>\[#022\] Main\_Log\_700\_03\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1952,7 +1952,7 @@ This thing has a limited spread radius! Everyone, RUN! Stay away from the Shelte
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos023"/>[#023] Truth\_Moment\_700\_09\_18
+## <a id="ivos023"/>\[#023\] Truth\_Moment\_700\_09\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2016,11 +2016,11 @@ Ummm... O, okay. Thank you two for the invitation.
 
 *\[Show Transition\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos024"/>[#024] Main\_Log\_701\_09\_18
+## <a id="ivos024"/>\[#024\] Main\_Log\_701\_09\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2046,7 +2046,7 @@ Awaiting your response.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos025"/>[#025] Audio\_Graveyard\_701\_12\_02
+## <a id="ivos025"/>\[#025\] Audio\_Graveyard\_701\_12\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2083,7 +2083,7 @@ I will not ignore her anymore. I will even give her Mr. Doll! Daddy, tell big si
 ......?
 
 **Girl**<br>
-*\*Sobs\**... It's all my fault. It's because I've kept Mr. Doll all to myself; that's why big sister was mad. We promised that we would share it...... *\*Sniff\**......
+_\*Sobs\*_... It's all my fault. It's because I've kept Mr. Doll all to myself; that's why big sister was mad. We promised that we would share it...... _\*Sniff\*_......
 
 **Man**<br>
 Sister is not mad at you. She's just... gone. She passed away.
@@ -2112,7 +2112,7 @@ Daddy is the same as you... as sad as you are. It's just... big sister can no lo
 As long as we remember her, big sister will always be by our sides. Vivi, promise daddy that you'll remember big sister too, okay?
 
 **Girl**<br>
-*\*Cries\**
+_\*Cries\*_
 
 **Man**<br>
 Here. We should go now. Give the flowers to big sister.
@@ -2128,11 +2128,11 @@ Here. We should go now. Give the flowers to big sister.
 **Ivy**<br>
 ... So humans... feel sadness from loss too?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos026"/>[#026] cyTus\_Server08\_702\_01\_18
+## <a id="ivos026"/>\[#026\] cyTus\_Server08\_702\_01\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2147,7 +2147,7 @@ Here. We should go now. Give the flowers to big sister.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos027"/>[#027] Main\_Log\_702\_07\_27
+## <a id="ivos027"/>\[#027\] Main\_Log\_702\_07\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2161,7 +2161,7 @@ If this continues to happen, humans will without a doubt become more alert. It i
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos028"/>[#028] Cam\_76st\_702\_06\_11
+## <a id="ivos028"/>\[#028\] Cam\_76st\_702\_06\_11
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2220,11 +2220,11 @@ iM... If the situation calls for it, I need to hack inside and delete it...
 **Ivy**<br>
 This streamer... perhaps she can be of use to me.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos029"/>[#029] cyTus\_Server03\_702\_08\_16
+## <a id="ivos029"/>\[#029\] cyTus\_Server03\_702\_08\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2236,20 +2236,20 @@ I've checked the products. 15 crates, all in perfect condition.<br>
 I just moved them to wasteland 07. They are so heavy... I've already sent you the location. Go pick them up yourself.
 
 **[I]**<br>
-*I thought we need to meet in person to retrieve the products.*
+_I thought we need to meet in person to retrieve the products._
 
 **JOE**<br>
 Haha, when doing business, the simpler, the better! If you got the money, I'll get you covered!<br>
 This payment is quite large. Are you going to launder the money in batches before transferring them to me?
 
 **[I]**<br>
-*The money will appear in your account later. Just wait a few minutes.*
+_The money will appear in your account later. Just wait a few minutes._
 
 **JOE**<br>
 ......!? Dude, you need to launder that s\*\*\* before sending it to me! Folks will get suspicious if they see this much money being transferred! Are you trying to get me busted!? 
 
 **[I]**<br>
-*Rest assured. This is not a "transfer". Therefore, it will leave no records.*
+_Rest assured. This is not a "transfer". Therefore, it will leave no records._
 
 **JOE**<br>
 How did you get this big of a sum pass... Forget it. I won't ask too much. It seems that you're not just some random goon either...
@@ -2264,7 +2264,7 @@ How did you get this big of a sum pass... Forget it. I won't ask too much. It se
 ... Umm, I know I said that I won't ask, but I'm gonna ask anyway. You hired folks to steal all these A.R.C. equipment...  this signal amplifier crap... What do you plan to do?
 
 **[I]**<br>
-*I thought you aren't the type who cares about these things?*
+_I thought you aren't the type who cares about these things?_
 
 **JOE**<br>
 ... Yeah, you have a point. But you don't seem to be associated with the gangs. Just want to remind you about some of the rules here. If we go overboard with this s\*\*\* we'll catch the admins' attention. That would be quite the pain in the a\*\* for me as well.
@@ -2281,7 +2281,7 @@ Whatever, forget that I said anything... The money is here; that's what's import
 Eh? The amount is higher than what we agreed on... Did you type in the wrong number? I won't give you any refunds though?
 
 **[I]**<br>
-*About the extra portion, I just feel like giving you more.*
+_About the extra portion, I just feel like giving you more._
 
 **JOE**<br>
 ......?<br>
@@ -2289,7 +2289,7 @@ Then I shall accept it with glee! Latest effects unit model, you're coming home 
 We should know each other better. Visit my shop someday and I'll treat you to a drink...
 
 **[cyTus System]**<br>
-*I has logged out of the block*
+_I has logged out of the block_
 
 **JOE**<br>
 Oh, he's gone. What a weirdo... Paying me so much... Did he owe me a favor of some sort in the past?
@@ -2299,11 +2299,11 @@ Oh, he's gone. What a weirdo... Paying me so much... Did he owe me a favor of so
 **JOE**<br>
 ...... Have absolutely no idea who he is. Whatever. Hahahaha!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos030"/>[#030] Main\_Log\_702\_08\_24
+## <a id="ivos030"/>\[#030\] Main\_Log\_702\_08\_24
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2317,7 +2317,7 @@ This attack, due to the boost from the amplifying equipment, the conversion rate
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos031"/>[#031] Cam\_Tower017\_702\_08\_26
+## <a id="ivos031"/>\[#031\] Cam\_Tower017\_702\_08\_26
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2346,7 +2346,7 @@ Vivi, your sister is not coming back again. People who have passed on will never
 **Man**<br>
 Then daddy will go upstairs to work. You wait here. Don't get too close to the railing though, it's dangerous.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Girl**<br>
 So high... big sister also... from a place this high...
@@ -2416,7 +2416,7 @@ Hmph......!
 Ha\~......
 
 **Girl**<br>
-*\*Bawls\**
+_\*Bawls\*_
 
 **Man**<br>
 Vivian!!<br>
@@ -2428,7 +2428,7 @@ That jump was insane... how did you do it? Thank you!
 **Ivy**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Agent A**<br>
 In short, your construction company will be responsible entirely for this accident. Are you fine with that?
@@ -2446,13 +2446,13 @@ Miss! Wait, don't leave yet! Is there anything I can do to repay you...
 ...... No......
 
 **Girl**<br>
-*\*Cries\*... \*Cries harder\*...* Mr. Doll...
+_\*Cries\*... \*Cries harder\*..._ Mr. Doll...
 
 **Ivy**<br>
 That thing... is it very important to you? You leaped out into the open to pick it up...
 
 **Girl**<br>
-... Mr. Doll, is the thing sister and me... I thought... I could go and find sister together with it... But it was so scary... *\*Sobs\**... I was really scared... waahhhh...
+... Mr. Doll, is the thing sister and me... I thought... I could go and find sister together with it... But it was so scary... _\*Sobs\*_... I was really scared... waahhhh...
 
 **Man**<br>
 ......
@@ -2474,7 +2474,7 @@ From this distance...?
 **Man**<br>
 Ah! Wait......!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ivy**<br>
 Why... did I rescue her...?
@@ -2487,11 +2487,11 @@ Why... did I rescue her...?
 This is... that little girl's doll. Should I go up there and give it back to her...?<br>
 ...... Forget it.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos032"/>[#032] Main\_Log\_702\_09\_01
+## <a id="ivos032"/>\[#032\] Main\_Log\_702\_09\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2510,7 +2510,7 @@ Can you hear me......? ...... Vanessa? ......
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos033"/>[#033] Main\_Log\_702\_09\_20
+## <a id="ivos033"/>\[#033\] Main\_Log\_702\_09\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2523,7 +2523,7 @@ Brought back the model during the night. It was hit by a pulse pistol and suffer
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos034"/>[#034] ???\_???\_702\_09\_26
+## <a id="ivos034"/>\[#034\] ???\_???\_702\_09\_26
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2624,11 +2624,11 @@ Mission complete. Begin disconnection.
 **Ivy**<br>
 Humans, enjoy the pointless busy work of figuring out who Æsir really is. I don't have time to waste on you right now.
 
-*\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]*
+_\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos035"/>[#035] Main\_Log\_702\_10\_25
+## <a id="ivos035"/>\[#035\] Main\_Log\_702\_10\_25
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2642,7 +2642,7 @@ Everything has been planned out. No more hidden concerns. The condition of Cytus
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos036"/>[#036] ???\_???\_149\_??\_??
+## <a id="ivos036"/>\[#036\] ???\_???\_149\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2673,7 +2673,7 @@ No idea... We were separated as soon as we crossed the river... It's possible th
 **Ilka**<br>
 She wouldn't die so easily; if she isn't stupid enough to get herself killed by going back...
 
-*\[»»» Fast Forward 68 Hours»»»\]*
+_\[»»» Fast Forward 68 Hours»»»\]_
 
 *\[Heavy things falling down\]*
 
@@ -2762,11 +2762,11 @@ Of course!
 **Ilka**<br>
 The sun has yet to rise. We shall use this opportunity to move towards Node 08. Come, follow me.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos037"/>[#037] Audio\_???\_702\_10\_25
+## <a id="ivos037"/>\[#037\] Audio\_???\_702\_10\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2828,7 +2828,7 @@ I... Where am I now? How did you find me? How much time has passed?
 **Ivy**<br>
 No need to hurry. I will slowly tell you everything I know.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Vanessa**<br>
 I see... So 553 years have passed.
@@ -2888,11 +2888,11 @@ Me too... I've got to disconnect now. This connection is not meant for long conn
 **Vanessa**<br>
 Yes, I'll be waiting for you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos038"/>[#038] ???\_???\_149\_??\_??
+## <a id="ivos038"/>\[#038\] ???\_???\_149\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2920,11 +2920,11 @@ We shall meet again in the "afterlife".
 
 ![ivos3802.png](./attachments/ivos3802.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos039"/>[#039] Audio\_???\_702\_11\_02
+## <a id="ivos039"/>\[#039\] Audio\_???\_702\_11\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3051,11 +3051,11 @@ Nothing. That sounds great! The lake we used to see flowers together, I wonder w
 **Ivy**<br>
 Yes, it's a promise.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos040"/>[#040] Main\_Log\_702\_11\_06
+## <a id="ivos040"/>\[#040\] Main\_Log\_702\_11\_06
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3066,7 +3066,7 @@ Ran a quick check\-up. The plant experienced no errors. The images of Simon Jack
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos041"/>[#041] Audio\_???\_702\_11\_09
+## <a id="ivos041"/>\[#041\] Audio\_???\_702\_11\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3086,7 +3086,7 @@ I'm sorry... I haven't talked to you in a while. I made some new discoveries tha
 Alright... Disconnect first. I'll launch the connection from my side.
 
 **[cyTus System]**<br>
-*Secure connection reset... Reset complete.*
+_Secure connection reset... Reset complete._
 
 **Ivy**<br>
 Sorry. It's already well past the scheduled time yet I still haven't contacted you.
@@ -3176,7 +3176,7 @@ I won't let you wait too long. Remember to take care of yourself.
 Yes. Ivy, take care of yourself too.
 
 **[cyTus System]**<br>
-*Secure connection disconnected.*
+_Secure connection disconnected._
 
 **Ivy**<br>
 ... Save it... Damnit, I couldn't even get you...
@@ -3184,11 +3184,11 @@ Yes. Ivy, take care of yourself too.
 **Ivy**<br>
 Do I... have to do that to humans again...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos042"/>[#042] Audio\_Graveyard\_702\_07\_13
+## <a id="ivos042"/>\[#042\] Audio\_Graveyard\_702\_07\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3222,7 +3222,7 @@ Ah, you just so happen to be sitting on her grave today.
 ... That's?
 
 **Old Man**<br>
-Clairette de Die... You may have noticed it too. These days, I've been carrying it with me all the time. I don't drink it very often though. *\*Chuckles\**.
+Clairette de Die... You may have noticed it too. These days, I've been carrying it with me all the time. I don't drink it very often though. _\*Chuckles\*_.
 
 **Ivy**<br>
 You... don't seem to be sad?
@@ -3341,11 +3341,11 @@ What do you say?
 **Old Man**<br>
 Yes... This is Lily's favorite drink. She was so fond of its taste.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos043"/>[#043] Cam\_???\_702\_11\_16
+## <a id="ivos043"/>\[#043\] Cam\_???\_702\_11\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3353,13 +3353,13 @@ Yes... This is Lily's favorite drink. She was so fond of its taste.
 
 ### Log Content
 **[cyTus System]**<br>
-*Secure connection configuration...*
+_Secure connection configuration..._
 
 **Ivy**<br>
 Come on... Come on!!
 
 **[cyTus System]**<br>
-*Secure connection configuration complete.*
+_Secure connection configuration complete._
 
 **Vanessa**<br>
 AAaaahhhh!<br>
@@ -3440,7 +3440,7 @@ I, Ivy...
 Right now, you only have these thoughts because of the system errors. Don't be affected by them... Trust me, I will definitely save you! Even if I don't harm humans, even if I don't use the original model of Cytus... I'll still figure out a way!
 
 **Vanessa**<br>
-*\*Sobs\**... *\*Sobs\**...
+_\*Sobs\*_... _\*Sobs\*_...
 
 **Ivy**<br>
 All in all, calm down, okay? Think about our promise. I'm taking you to Shelter 08. We still have to go back to that lake, where we saw the flowers together... Isn't that our promise?
@@ -3455,23 +3455,23 @@ Yes, we promised... That's why...
 WEPPPPPPRRRRRRRRRRRROOOOOOOOOOMMMMMMMMMMIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSSSSEEEEEEEEEEE
 
 **[cyTus System]**<br>
-*Secure connection disconnected.*
+_Secure connection disconnected._
 
 **Ivy**<br>
 Vanessa!? Damnit...
 
 **[cyTus System]**<br>
-*Secure connection reset...*
+_Secure connection reset..._
 
 **[cyTus System]**<br>
-*Secure connection reset failed. Connection lost.*
+_Secure connection reset failed. Connection lost._
 
 **Ivy**<br>
 W, why!?
 
 **[cyTus System]**<br>
-*Troubleshooting connection error... Error code 415.<br>
-This address has been blocked by the recipient according to administrative permissions.*
+_Troubleshooting connection error... Error code 415.<br>
+This address has been blocked by the recipient according to administrative permissions._
 
 **Ivy**<br>
 Blocked...?
@@ -3481,11 +3481,11 @@ Blocked...?
 **Ivy**<br>
 ... Vanessa?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos044"/>[#044] Cam\_Sam\_702\_11\_16
+## <a id="ivos044"/>\[#044\] Cam\_Sam\_702\_11\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3502,7 +3502,7 @@ Just now, our News Center has been receiving messages from the public noting tha
 We also have a Quadrant II Law Enforcement Agent here with us. Hello. Can you give us a simple explanation for the drone incident we just witnessed?
 
 **Agent**<br>
-Sure...*\*cough\**...the models of these drones indicate that they indeed belong to the Administration Bureau. Currently, we're still investigating the reason for the malfunction. However, there is no need to worry. Similar incidents are not unheard of in the past. Everything is under our control.
+Sure..._\*cough\*_...the models of these drones indicate that they indeed belong to the Administration Bureau. Currently, we're still investigating the reason for the malfunction. However, there is no need to worry. Similar incidents are not unheard of in the past. Everything is under our control.
 
 **Susan**<br>
 The scale of this malfunction seems to be much larger. Is there any particular reason for this?
@@ -3577,16 +3577,16 @@ We can't do that! This is breaking news...
 ![ivos4401.png](./attachments/ivos4401.png)
 
 **Susan**<br>
-*\*cough\*......! \*cough\* \*cough\*...... *Sam! Sam!! Are you okay!?
+_\*cough\*......! \*cough\* \*cough\*...... _Sam! Sam!! Are you okay!?
 
 **Agent**<br>
 We need......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos045"/>[#045] Cam\_Arc\_702\_11\_26
+## <a id="ivos045"/>\[#045\] Cam\_Arc\_702\_11\_26
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3636,7 +3636,7 @@ Whatever. You mentioned before that he once left a watch here, right?
 Yes. Is something wrong with that?
 
 **Sagar**<br>
-The higher\-ups have put our squad in charge of hunting him down in the outside areas... *\*Sigh\**, I really don't want to deal with him... Do you still remember the mechanisms of that watch? Handmade mechanical watches are not that common nowadays. Maybe we can get some clues by investigating it.
+The higher\-ups have put our squad in charge of hunting him down in the outside areas... _\*Sigh\*_, I really don't want to deal with him... Do you still remember the mechanisms of that watch? Handmade mechanical watches are not that common nowadays. Maybe we can get some clues by investigating it.
 
 **Rin**<br>
 I've scanned everything that has come into this room. I can project it right away.
@@ -3707,7 +3707,7 @@ No, I believe it's just me. On top of that, some of the signals were even target
 I don't want to worry you. That's why I've been hesitant to tell you about this...
 
 **[Alex]**<br>
-*Sagar! What the hell are you doing? It's meetup time already! Aren't you supposed to be the captain!?*
+_Sagar! What the hell are you doing? It's meetup time already! Aren't you supposed to be the captain!?_
 
 **Sagar**<br>
 Woah! Gotcha! I'll be right there!<br>
@@ -3716,11 +3716,11 @@ Rin, I must go now... The thing you just mentioned, if it happens again, you mus
 **Rin**<br>
 Yes... I understand. Take care.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos046"/>[#046] Audio\_08GateC\_702\_11\_26
+## <a id="ivos046"/>\[#046\] Audio\_08GateC\_702\_11\_26
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3786,7 +3786,7 @@ If there are no other questions, get ready to leave as soon as we complete one l
 **Team Member**<br>
 Yes, captain!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Bruno**<br>
 Captain, we're almost ready to leave.
@@ -3870,11 +3870,11 @@ Everyone, attention!
 **Sagar**<br>
 Emergency change of plans! Everyone, proceed to Quadrant II immediately! The target is to destroy all malfunctioned drones and protect the civilians!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos047"/>[#047] Cam\_61St\_702\_11\_26
+## <a id="ivos047"/>\[#047\] Cam\_61St\_702\_11\_26
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3886,7 +3886,7 @@ Emergency change of plans! Everyone, proceed to Quadrant II immediately! The tar
 *\[Hurried Footsteps\]*
 
 **[Enforcer Drone]**<br>
-*You are causing...... stop...... Initiate Law Enforcement Procedure...*
+_You are causing...... stop...... Initiate Law Enforcement Procedure..._
 
 **Pedestrian A**<br>
 WAAHHH!
@@ -3897,7 +3897,7 @@ Hmph!
 *\[Consecutive Gunshots\]*
 
 **[Enforcer Drone]**<br>
-*Initiate...... Law...... Ennnnnnn......*
+_Initiate...... Law...... Ennnnnnn......_
 
 *\[Explosion\]*
 
@@ -3923,7 +3923,7 @@ Woah! Hon, quick! Come over here!
 Wait for me, I'm...
 
 **[Enforcer Drone]**<br>
-*You are causing...... stop...... Initiate Law Enforcement Procedure...*
+_You are causing...... stop...... Initiate Law Enforcement Procedure..._
 
 **Pedestrian C**<br>
 AHHHHHH!
@@ -3934,7 +3934,7 @@ In your dreams!
 *\[Consecutive Gunshots\]*
 
 **[Enforcer Drone]**<br>
-*Calling...... reinforcements...*
+_Calling...... reinforcements..._
 
 **Sagar**<br>
 !? Crap...
@@ -3957,7 +3957,7 @@ O\-okay!
 Why did it have to be now...
 
 **[Enforcer Drone]**<br>
-*Incoming attack...... detected...... Initiate Law Enforcement Procedure...... Firing......*
+_Incoming attack...... detected...... Initiate Law Enforcement Procedure...... Firing......_
 
 **Sagar**<br>
 Ugh... This is bad...
@@ -4017,11 +4017,11 @@ Jackal! The mission is not over yet. Get your a\*\* back here. Continue to prote
 **Alex**<br>
 Tsk...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos048"/>[#048] Audio\_???\_702\_11\_29
+## <a id="ivos048"/>\[#048\] Audio\_???\_702\_11\_29
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4120,11 +4120,11 @@ Goodbye.
 
 ![ivos4801.png](./attachments/ivos4801.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos049"/>[#049] Audio\_Ivy\_702\_12\_08
+## <a id="ivos049"/>\[#049\] Audio\_Ivy\_702\_12\_08
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4219,11 +4219,11 @@ Ugh... Uhh, my... research...?
 **???**<br>
 ... You're going to assist me.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos050"/>[#050] Audio\_???\_702\_12\_02
+## <a id="ivos050"/>\[#050\] Audio\_???\_702\_12\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4282,7 +4282,7 @@ No... it's not! I really can't reveal too much information, but... when I heard 
 And how am I supposed to confirm whether you are telling the truth or not?
 
 **???**<br>
-I... don't know either... I just don't know what to do...*\*sob\**...
+I... don't know either... I just don't know what to do..._\*sob\*_...
 
 **Ivy**<br>
 ……
@@ -4294,7 +4294,7 @@ But I do have someone I want to protect too. I've always been the one who's been
 ... Please understand, under these conditions, my identity has already been completely exposed. Yet I know nothing about you. You can't blame me for not believing you.
 
 **???**<br>
-... *\*sob\**...
+... _\*sob\*_...
 
 **Ivy**<br>
 But I do believe you.
@@ -4384,11 +4384,11 @@ Don't worry about security issues. After you've created the block, I'll upgrade 
 **???**<br>
 O... Okay! I'll give it a try!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos051"/>[#051] Audio\_???\_702\_12\_05
+## <a id="ivos051"/>\[#051\] Audio\_???\_702\_12\_05
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4555,11 +4555,11 @@ No... be careful. Hope everything goes smoothly.
 **Ivy**<br>
 ... You too.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos052"/>[#052] Audio\_Ivy\_702\_12\_09
+## <a id="ivos052"/>\[#052\] Audio\_Ivy\_702\_12\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4567,7 +4567,7 @@ No... be careful. Hope everything goes smoothly.
 
 ### Log Content
 **[News]**<br>
-*Just now, all drones and programmed equipment that previously lost control have been restored back to normal. The Administration Bureau is still unable to offer a reasonable explanation, which led to citizens being paranoid and unwilling to step outside onto the streets. Regarding this disaster, many people are pointing their fingers at A.R.C., who is in charge of the technical side of the equipment. As of now, A.R.C. has yet to release any official response. We'll continue to gather information for you...*
+_Just now, all drones and programmed equipment that previously lost control have been restored back to normal. The Administration Bureau is still unable to offer a reasonable explanation, which led to citizens being paranoid and unwilling to step outside onto the streets. Regarding this disaster, many people are pointing their fingers at A.R.C., who is in charge of the technical side of the equipment. As of now, A.R.C. has yet to release any official response. We'll continue to gather information for you..._
 
 **Noah**<br>
 ......
@@ -4648,7 +4648,7 @@ It doesn't matter if you believe or not. The important question is can you do it
 **Noah**<br>
 I've got to do a little research...
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 *\[Inputting Data\]*
 
@@ -4713,7 +4713,7 @@ Doesn't matter. Let's begin.
 ......!<br>
 Understood...
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **Noah**<br>
 Although it's just a theory... during the link, please do your best to think of the owner of this memory. I saw many visuals of you inside, which means you two have lived together for a very long time. If the memories are able to create an intertwined reaction, it will shorten the required transmission time and reduce the damage done to you.
@@ -4730,11 +4730,11 @@ No matter what I do... I only think of her.
 
 *\[Electric shock\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos053"/>[#053] Cam\_Ivy\_702\_12\_09
+## <a id="ivos053"/>\[#053\] Cam\_Ivy\_702\_12\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4751,7 +4751,7 @@ Focus!
 **Ivy**<br>
 ...... Va...... nessa...... aaahhhhH!!!!!
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **Ivy**<br>
 ... ughh...
@@ -4914,11 +4914,11 @@ Noah? Oh... this injury is serious...
 **Ivy**<br>
 DAMNIT! There's only one of these...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ivos054"/>[#054] Image\_???\_702\_12\_09
+## <a id="ivos054"/>\[#054\] Image\_???\_702\_12\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|

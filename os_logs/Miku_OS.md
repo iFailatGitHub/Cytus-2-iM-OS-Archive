@@ -1,23 +1,23 @@
 # Miku OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Cam01\_MHall\_702\_11\_30](#mos001)
-- [[#002] Cam01\_MHall\_702\_10\_09](#mos002)
-- [[#003] Cam\_SLab01\_702\_10\_09](#mos003)
-- [[#004] Cam\_Winona03\_702\_10\_09](#mos004)
-- [[#005] Audio\_SLab01\_702\_11\_03](#mos005)
-- [[#006] ???\_???\_??\_??\_??](#mos006)
-- [[#007] ???\_???\_??\_??\_??](#mos007)
-- [[#008] Cam\_SLab03\_702\_11\_07](#mos008)
-- [[#009] Audio\_SLab03\_702\_11\_12](#mos009)
-- [[#010] Audio\_Itsuki\_702\_11\_14](#mos010)
-- [[#011] Cam\_SLab03\_702\_11\_16](#mos011)
-- [[#012] Audio\_Saito\_702\_11\_20](#mos012)
-- [[#013] Cam27\_MHall\_702\_11\_30](#mos013)
-- [[#014] Cam01\_MHall\_702\_11\_30](#mos014)
-- [[#015] Cam\_SLab03\_702\_12\_09](#mos015)
-- [[#016] Log\_Miku\_702\_11\_30](#mos016)
+- [\[#001\] Cam01\_MHall\_702\_11\_30](#mos001)
+- [\[#002\] Cam01\_MHall\_702\_10\_09](#mos002)
+- [\[#003\] Cam\_SLab01\_702\_10\_09](#mos003)
+- [\[#004\] Cam\_Winona03\_702\_10\_09](#mos004)
+- [\[#005\] Audio\_SLab01\_702\_11\_03](#mos005)
+- [\[#006\] ???\_???\_??\_??\_??](#mos006)
+- [\[#007\] ???\_???\_??\_??\_??](#mos007)
+- [\[#008\] Cam\_SLab03\_702\_11\_07](#mos008)
+- [\[#009\] Audio\_SLab03\_702\_11\_12](#mos009)
+- [\[#010\] Audio\_Itsuki\_702\_11\_14](#mos010)
+- [\[#011\] Cam\_SLab03\_702\_11\_16](#mos011)
+- [\[#012\] Audio\_Saito\_702\_11\_20](#mos012)
+- [\[#013\] Cam27\_MHall\_702\_11\_30](#mos013)
+- [\[#014\] Cam01\_MHall\_702\_11\_30](#mos014)
+- [\[#015\] Cam\_SLab03\_702\_12\_09](#mos015)
+- [\[#016\] Log\_Miku\_702\_11\_30](#mos016)
 
-## <a id="mos001"/>[#001] Cam01\_MHall\_702\_11\_30
+## <a id="mos001"/>\[#001\] Cam01\_MHall\_702\_11\_30
 ### Log Content
 ![mos0102.png](./attachments/mos0102.png)
 
@@ -29,11 +29,11 @@ I... What am I singing for?
 **Miku**<br>
 Ah, I see. I'm singing for everyone.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos002"/>[#002] Cam01\_MHall\_702\_10\_09
+## <a id="mos002"/>\[#002\] Cam01\_MHall\_702\_10\_09
 ### Log Content
 *\[Audience Cheer\]*
 
@@ -45,8 +45,8 @@ Ah, I see. I'm singing for everyone.
 ![mos0201.png](./attachments/mos0201.png)
 
 **Miku**<br>
-*\*Put on a mask and don a false identity<br>
-I'm broken down into my core...\**
+_\*Put on a mask and don a false identity<br>
+I'm broken down into my core...\*_
 
 *\[Audience Cheer\]*
 
@@ -58,8 +58,8 @@ Everyone, lend me your hands!
 *\[Audience Cheer\]*
 
 **Miku**<br>
-*\*Come on, Come and be free<br>
-Come on, Come and see\**
+_\*Come on, Come and be free<br>
+Come on, Come and see\*_
 
 **Audience**<br>
 Hey! Hey! Hey! Hey!
@@ -84,11 +84,11 @@ L\~O\~U\~D\~E\~R!!
 **Audience**<br>
 Miku! Miku! Miku! ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos003"/>[#003] Cam\_SLab01\_702\_10\_09
+## <a id="mos003"/>\[#003\] Cam\_SLab01\_702\_10\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -98,53 +98,53 @@ Miku! Miku! Miku! ......
 ![mos0301.png](./attachments/mos0301.png)
 
 **[Staff A]**<br>
-*Miku, great work!*
+_Miku, great work!_
 
 **Miku**<br>
 Whew\~... Everyone is very happy. I'm relieved\~
 
 **[Staff A]**<br>
-*Of course they're happy. Your performance was great!*
+_Of course they're happy. Your performance was great!_
 
 **Miku**<br>
 I was really worried about not singing well. <br>
 Especially that one song NEKO arranged!
 
 **[Staff A]**<br>
-*That song is indeed quite hard to sing... but Miku will never make a mistake. No need to worry.*
+_That song is indeed quite hard to sing... but Miku will never make a mistake. No need to worry._
 
 **Miku**<br>
 Practice does make perfect after all. I need to practice even harder!
 
 **[Staff A]**<br>
-*Haha, you can get some rest and call it a day today. You must be tired after the event, right?*
+_Haha, you can get some rest and call it a day today. You must be tired after the event, right?_
 
 **Miku**<br>
 I'm not tired at all. To be honest, I feel very energetic now!
 
 **[Staff A]**<br>
-*(Cheers! Hahaha!)*
+_(Cheers! Hahaha!)_
 
 **Miku**<br>
 By the way, where are Mr. Abe and the others at now? A celebration party? Feels really lively.
 
 **[Staff A]**<br>
-*Ah... yeah.*
+_Ah... yeah._
 
 **Miku**<br>
 Aw, man\~ I want to go as well. Why is it that after every event ends, I can only return to my room?
 
 **[Staff A]**<br>
-*Haha, next time. We'll definitely let you participate next time, okay? Just get some proper rest today. I've prepared your favorite food in your room. If you need anything, call me.*
+_Haha, next time. We'll definitely let you participate next time, okay? Just get some proper rest today. I've prepared your favorite food in your room. If you need anything, call me._
 
 **Miku**<br>
 Okay. Thanks for the hard work\~
 
-*\[Close Program\]*
+_\[Close Program\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos004"/>[#004] Cam\_Winona03\_702\_10\_09
+## <a id="mos004"/>\[#004\] Cam\_Winona03\_702\_10\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -280,11 +280,11 @@ Hoho, how trustworthy. The evaluation period is right around the corner. You can
 **Furuhata**<br>
 I'll be waiting.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos005"/>[#005] Audio\_SLab01\_702\_11\_03
+## <a id="mos005"/>\[#005\] Audio\_SLab01\_702\_11\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -292,7 +292,7 @@ I'll be waiting.
 
 ### Log Content
 **[TV]**<br>
-*... A while ago, due to an equipment error in Node 08's A.R.C. facility, the virtual internet cyTus was significantly damaged and went out of service temporarily. Many companies that suffered losses due to their use of virtual internet technology are also starting to file cases against A.R.C. and requesting compensation...*
+_... A while ago, due to an equipment error in Node 08's A.R.C. facility, the virtual internet cyTus was significantly damaged and went out of service temporarily. Many companies that suffered losses due to their use of virtual internet technology are also starting to file cases against A.R.C. and requesting compensation..._
 
 **Staff A**<br>
 Ughhh, we're also among the ones affected...
@@ -413,11 +413,11 @@ Ah, right... remember to clean out all the useless data and versions from the da
 **Staff A**<br>
 No problem. I will deal with it in a minute.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos006"/>[#006] ???\_???\_??\_??\_??
+## <a id="mos006"/>\[#006\] ???\_???\_??\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -461,11 +461,11 @@ N, no...
 **Miku**<br>
 WAAAHHHHH!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos007"/>[#007] ???\_???\_??\_??\_??
+## <a id="mos007"/>\[#007\] ???\_???\_??\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -473,7 +473,7 @@ WAAAHHHHH!
 
 ### Log Content
 **Miku**<br>
-*\*Sobs\*... \*Sobs\*...*
+_\*Sobs\*... \*Sobs\*..._
 
 **???**<br>
 ... Who is there?
@@ -538,10 +538,10 @@ W... Please wait!
 **Miku**<br>
 ......
 
-*\[»»» Fast Forward 39 hours»»»\]*
+_\[»»» Fast Forward 39 hours»»»\]_
 
 **Miku**<br>
-*\*Sobs\*...*
+_\*Sobs\*..._
 
 **???**<br>
 You're still here.
@@ -617,11 +617,11 @@ It doesn't matter. We will not see each other ever again.
 **???**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos008"/>[#008] Cam\_SLab03\_702\_11\_07
+## <a id="mos008"/>\[#008\] Cam\_SLab03\_702\_11\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -742,7 +742,7 @@ Hatsune Miku\_2.3.9. A virtual idol developed by Saito Production. You're the pr
 Sigh... System, play a random test recording of the current version.
 
 **[Operating System]**<br>
-*Projecting file Test7021028\_a35, Miku 2.4 test record.*
+_Projecting file Test7021028\_a35, Miku 2.4 test record._
 
 **Miku**<br>
 ......!?
@@ -786,8 +786,8 @@ DDDDDDeeelete... Will I disappear? Like the copies of "myself" I saw in that sss
 ... I have no idea what you're talking about. You're nothing more than one of the many backups of this virtual personality. As long as the latest version can function normally, there's no such thing as disappearing.
 
 **[Operating System]**<br>
-*Backup procedure complete. Deleting current version...<br>
-Failed to delete. Unknown error detected. Please check the program's coding.*
+_Backup procedure complete. Deleting current version...<br>
+Failed to delete. Unknown error detected. Please check the program's coding._
 
 **Furuhata**<br>
 Huh...? What the hell?
@@ -795,11 +795,11 @@ Huh...? What the hell?
 **Miku**<br>
 ......?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos009"/>[#009] Audio\_SLab03\_702\_11\_12
+## <a id="mos009"/>\[#009\] Audio\_SLab03\_702\_11\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -877,7 +877,7 @@ So you kept me around just so you can test this thing...? Unbelievable... Cold\-
 **Miku**<br>
 Muuuu\~!
 
-*\[»»» Fast Forward 24 hours»»»\]*
+_\[»»» Fast Forward 24 hours»»»\]_
 
 **Miku**<br>
 Hey, is the testing not done yet?
@@ -946,11 +946,11 @@ Oh, then go ahead! Turn me off! I can't sing anyway, so what's the point of me b
 ......<br>
 ... Sigh... What in the world am I doing?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos010"/>[#010] Audio\_Itsuki\_702\_11\_14
+## <a id="mos010"/>\[#010\] Audio\_Itsuki\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -958,51 +958,51 @@ Oh, then go ahead! Turn me off! I can't sing anyway, so what's the point of me b
 
 ### Log Content
 **[Saito]**<br>
-*That's pretty much it. Got to make sure that the concert this month is a great success. We'll be in your care!*
+_That's pretty much it. Got to make sure that the concert this month is a great success. We'll be in your care!_
 
 **Furuhata**<br>
 You don't have to call me on a weekend for such a minor adjustment like this though...
 
 **[Saito]**<br>
-*Hahaha! Sorry for bothering you... Ah! Right, there's one more thing.*
+_Hahaha! Sorry for bothering you... Ah! Right, there's one more thing._
 
 **Furuhata**<br>
 What?
 
 **[Saito]**<br>
-*I heard from Kitamura that he found a save file of the old 2.3.9 in your unit. Wasn't that deleted already?*
+_I heard from Kitamura that he found a save file of the old 2.3.9 in your unit. Wasn't that deleted already?_
 
 **Furuhata**<br>
 Huh? Shouldn't he be asking that question to himself...? I'm even more puzzled about this than he is.
 
 **[Saito]**<br>
-*From the sound of it, you knew about this as well? Keeping a corrupted version in your unit, not something you'd do. What's going on?*
+_From the sound of it, you knew about this as well? Keeping a corrupted version in your unit, not something you'd do. What's going on?_
 
 **Furuhata**<br>
 Oh, in short, for some unknown reason, I couldn't delete that version. So, I decided to fix and reuse it.
 
 **[Saito]**<br>
-*Reuse?*
+_Reuse?_
 
 **Furuhata**<br>
 Yes. The interactive UI I'm developing right now is running tests using that version. Once it's completed, Miku can appear in the real world and interact with people more. Isn't this what you guys always wanted?
 
 **[Saito]**<br>
-*Ohh, right! That's great to hear! I was wondering why you've been working overtime so often these days. So this is what you've been busy with. Thanks for the hard work! I'll make sure you get your bonus! Ah, but you should still be careful, since you're testing with a broken version.*
+_Ohh, right! That's great to hear! I was wondering why you've been working overtime so often these days. So this is what you've been busy with. Thanks for the hard work! I'll make sure you get your bonus! Ah, but you should still be careful, since you're testing with a broken version._
 
 **Furuhata**<br>
 I know. After I'm done, I'll isolate it in a separate storage area to let it format itself. There won't be any negative effects.
 
 **[Saito]**<br>
-*You're concerned about the possible risk if you test with the latest version, right? Not a bad decision at all. Then I'll treat this incident as a non\-issue this time. Looking forward to your results! Haha!*
+_You're concerned about the possible risk if you test with the latest version, right? Not a bad decision at all. Then I'll treat this incident as a non\-issue this time. Looking forward to your results! Haha!_
 
 **Furuhata**<br>
 ... Anything else?
 
 **[Saito]**<br>
-*Oh! Nothing else! Go spend some time with your wife!*
+_Oh! Nothing else! Go spend some time with your wife!_
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Furuhata**<br>
 ......
@@ -1041,13 +1041,13 @@ Of course I do! He's the mischievous brat who constantly got zeros on his quizze
 He graduated from the Academy a while ago. Take a look.
 
 **[Message Projection]**<br>
-*Headmaster! It's me! Ryou! I haven't seen you guys in a long time!*
+_Headmaster! It's me! Ryou! I haven't seen you guys in a long time!_
 
 **Furuhata**<br>
 Haha... this brat has grown so tall.
 
 **[Message Projection]**<br>
-*A while ago, I heard that you'd fallen sick. However, I was preparing for my exams, so I didn't have the time to visit you. Look! It's the graduation certificate from the First Academy! I hope that seeing this will make you feel better! Also, don't forget to show it to the old geezer! Haha.*
+_A while ago, I heard that you'd fallen sick. However, I was preparing for my exams, so I didn't have the time to visit you. Look! It's the graduation certificate from the First Academy! I hope that seeing this will make you feel better! Also, don't forget to show it to the old geezer! Haha._
 
 **Furuhata**<br>
 Ha, this brat...
@@ -1056,22 +1056,22 @@ Ha, this brat...
 Still as energetic as he used to be. Still mumbles those weird terms too.
 
 **[Message Projection]**<br>
-*I plan to go to Node 02 for my job in a few days. I may not have the time to visit you. However, I've sent you my favorite album.*
+_I plan to go to Node 02 for my job in a few days. I may not have the time to visit you. However, I've sent you my favorite album._
 
 **[Message Projection]**<br>
-*It's my idol... does that make me kind of a nerd? Haha! Nevertheless, this is what I listen to whenever I feel down. Her singing is filled with energy, and it would be great if she could pump you up too! Ah, but don't let the geezer hear it. He hates this idol crap and might get really grumpy about it. Haha!*
+_It's my idol... does that make me kind of a nerd? Haha! Nevertheless, this is what I listen to whenever I feel down. Her singing is filled with energy, and it would be great if she could pump you up too! Ah, but don't let the geezer hear it. He hates this idol crap and might get really grumpy about it. Haha!_
 
 **Furuhata**<br>
 ......!
 
 **Tsumugi**<br>
-*\*Chuckles\** Look what we have here... cough... What a coincidence.
+_\*Chuckles\*_ Look what we have here... cough... What a coincidence.
 
 **Furuhata**<br>
 Miku's Album...?
 
 **[Message Projection]**<br>
-*That's it for now. I'll visit you two when I have the time to come back. See ya!*
+_That's it for now. I'll visit you two when I have the time to come back. See ya!_
 
 **Furuhata**<br>
 ......
@@ -1088,11 +1088,11 @@ So don't put up a long face all the time. Be more cheerful.
 **Furuhata**<br>
 ... Okay.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos011"/>[#011] Cam\_SLab03\_702\_11\_16
+## <a id="mos011"/>\[#011\] Cam\_SLab03\_702\_11\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1252,11 +1252,11 @@ But...
 **Furuhata**<br>
 No more buts. If you want to sing, then go for it.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos012"/>[#012] Audio\_Saito\_702\_11\_20
+## <a id="mos012"/>\[#012\] Audio\_Saito\_702\_11\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1334,11 +1334,11 @@ Okay.
 **Saito**<br>
 You should leave first.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos013"/>[#013] Cam27\_MHall\_702\_11\_30
+## <a id="mos013"/>\[#013\] Cam27\_MHall\_702\_11\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1420,11 +1420,11 @@ Why!? Have you gone mad? What are you thinking!?
 **Furuhata**<br>
 Hmph, just wait and see. I can guarantee you that this will definitely be the most spectacular Miku concert ever.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos014"/>[#014] Cam01\_MHall\_702\_11\_30
+## <a id="mos014"/>\[#014\] Cam01\_MHall\_702\_11\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1441,7 +1441,7 @@ I... What am I singing for?
 **Miku**<br>
 Ah, I see. I'm singing for everyone.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Miku**<br>
 That was the last song.
@@ -1457,7 +1457,7 @@ I'm truly... truly grateful for everyone...
 
 ![mos1404.png](./attachments/mos1404.png)
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 ![mos1405.png](./attachments/mos1405.png)
 
@@ -1473,7 +1473,7 @@ Stop it! Now!
 **Staff B**<br>
 I don't think that's a good idea... Stopping right now will make the ending of the event really abrupt...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Miku**<br>
 Last but not least, I want to give everyone one more song. Everyone, are you willing to sing along with me?
@@ -1482,12 +1482,12 @@ Last but not least, I want to give everyone one more song. Everyone, are you wil
 
 *\[Music plays\]*
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Furuhata**<br>
 Hmph, so you can sing pretty well after all.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 ![mos1406.png](./attachments/mos1406.png)
 
@@ -1500,11 +1500,11 @@ Thank you. Everyone, thank you so much.
 **Miku**<br>
 Thank... you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos015"/>[#015] Cam\_SLab03\_702\_12\_09
+## <a id="mos015"/>\[#015\] Cam\_SLab03\_702\_12\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1582,7 +1582,7 @@ Sure.
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward 2 hours»»»\]*
+_\[»»» Fast Forward 2 hours»»»\]_
 
 **Furuhata**<br>
 That should be everything... Oww, my back...
@@ -1591,7 +1591,7 @@ That should be everything... Oww, my back...
 System, report data organization progress.
 
 **[Operating System]**<br>
-*Data organization completed. 1 sound file discovered. Security inspection: Green.*
+_Data organization completed. 1 sound file discovered. Security inspection: Green._
 
 **Furuhata**<br>
 ...? What is this?<br>
@@ -1601,16 +1601,16 @@ That bastard Kitamura, he didn't mess with my unit, did he?
 System, play file.
 
 **[Operating System]**<br>
-*File is encrypted. Please enter the command code.*
+_File is encrypted. Please enter the command code._
 
 **Furuhata**<br>
 And it's encrypted too? Just what the heck is this thing...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos016"/>[#016] Log\_Miku\_702\_11\_30
+## <a id="mos016"/>\[#016\] Log\_Miku\_702\_11\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|

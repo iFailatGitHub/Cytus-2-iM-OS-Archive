@@ -1,23 +1,23 @@
 # Xenon iM Posts
 ## <a id="toc"/>List of Posts
-- [[#001] Returning to the skies.](#x0101)
-- [[#002] Preparing broadcast for new song.](#x0201)
-- [[#003] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#x0301)
-- [[#004] About Æsir\-FEST.](#x0401)
-- [[#005] \[Ticket Request\] One in physical area A for 7th PAFFCON.](#x0501)
-- [[#006] About Xenon and this iM account.](#x0601)
-- [[#007] About the optic guitar.](#x0701)
-- [[#008] My band members.](#x0801)
-- [[#009] Pray for PAFF.](#x0901)
-- [[#010] Teaser for new song "Black Hole".](#x1001)
-- [[#011] Virtual space performance is very successful. ](#x1101)
-- [[#012] Please Calm Down.](#x1201)
-- [[#013] Some things must be stated clearly](#x1301)
-- [[#014] Listen, all of you](#x1401)
-- [[#015] It felt like forever since I last picked up the guitar.](#x1501)
-- [[#016] 　　　　　　　　　　](#x1601)
+- [\[#001\] Returning to the skies.](#x0101)
+- [\[#002\] Preparing broadcast for new song.](#x0201)
+- [\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#x0301)
+- [\[#004\] About Æsir\-FEST.](#x0401)
+- [\[#005\] \[Ticket Request\] One in physical area A for 7th PAFFCON.](#x0501)
+- [\[#006\] About Xenon and this iM account.](#x0601)
+- [\[#007\] About the optic guitar.](#x0701)
+- [\[#008\] My band members.](#x0801)
+- [\[#009\] Pray for PAFF.](#x0901)
+- [\[#010\] Teaser for new song "Black Hole".](#x1001)
+- [\[#011\] Virtual space performance is very successful. ](#x1101)
+- [\[#012\] Please Calm Down.](#x1201)
+- [\[#013\] Some things must be stated clearly](#x1301)
+- [\[#014\] Listen, all of you](#x1401)
+- [\[#015\] It felt like forever since I last picked up the guitar.](#x1501)
+- [\[#016\] 　　　　　　　　　　](#x1601)
 
-## <a id="x0101"/>[#001] Returning to the skies.
+## <a id="x0101"/>\[#001\] Returning to the skies.
 ### Post
 **Xenon**<br>
 Was originally planning to stay on the surface for only half a year, but the IT at the Node Administration Bureau needs more help, so I had to stay for several more months before finally getting everything on track.
@@ -61,7 +61,7 @@ More music from Xenon, yeah. GL on the job! \\x/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0201"/>[#002] Preparing broadcast for new song.
+## <a id="x0201"/>\[#002\] Preparing broadcast for new song.
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -114,7 +114,7 @@ SOLO is awesome!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0301"/>[#003] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="x0301"/>\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -127,7 +127,7 @@ SOLO is awesome!!
 
 ### Post
 **Xenon**<br>
-\> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
+> PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
 
 Personally, I really like PAFF, but even I won't go creating a commotion like this.
 
@@ -180,7 +180,7 @@ PM.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0401"/>[#004] About Æsir\-FEST.
+## <a id="x0401"/>\[#004\] About Æsir\-FEST.
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -244,7 +244,7 @@ Node03: Just according to Keikaku!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0501"/>[#005] \[Ticket Request\] One in physical area A for 7th PAFFCON.
+## <a id="x0501"/>\[#005\] \[Ticket Request\] One in physical area A for 7th PAFFCON.
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -312,7 +312,7 @@ NEKO\#ΦωΦ's mixtape logic this Unit can't analyze.：l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0601"/>[#006] About Xenon and this iM account.
+## <a id="x0601"/>\[#006\] About Xenon and this iM account.
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -381,7 +381,7 @@ Xenon I love you!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0701"/>[#007] About the optic guitar.
+## <a id="x0701"/>\[#007\] About the optic guitar.
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -459,7 +459,7 @@ JOE close that JOEZ Cafe and make a comeback!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0801"/>[#008] My band members.
+## <a id="x0801"/>\[#008\] My band members.
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -539,7 +539,7 @@ You made the other members stand out too much!!! lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0901"/>[#009] Pray for PAFF.
+## <a id="x0901"/>\[#009\] Pray for PAFF.
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -549,7 +549,9 @@ You made the other members stand out too much!!! lol
 **Xenon**<br>
 Although I've heard that PAFF was not feeling well, collapsing during the Encore song is serious business. 
 
-I hope she will be alright. Really want to stay on the surface, but need to return to the A.R.C. for work. <br>
+I hope she will be alright. Really want to stay on the surface, but need to return to the A.R.C. for work. 
+
+<br>
 **\#PrayForPAFF**
 ### Replies
 **pufluv**<br>
@@ -615,7 +617,7 @@ Sounds reliable but both identities sound so gross... (Φ  ωΦ)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1001"/>[#010] Teaser for new song "Black Hole".
+## <a id="x1001"/>\[#010\] Teaser for new song "Black Hole".
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -680,7 +682,7 @@ YAAASSSSSSS!!! \\x/\\x/\\x/\\x/\\x/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1101"/>[#011] Virtual space performance is very successful. 
+## <a id="x1101"/>\[#011\] Virtual space performance is very successful. 
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -759,7 +761,7 @@ The new song is really good!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1201"/>[#012] Please Calm Down.
+## <a id="x1201"/>\[#012\] Please Calm Down.
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -782,7 +784,11 @@ Due to the non\-disclosure agreement, this is as much as I can say on iM.
 
 Both technology and the internet are, in essence, things created to give humans a better life. However, if they are abused for the wrong purposes, they can become a double\-edged sword.
 
-The purpose of this post is not to appease everyone, but in the hopes that at least the people around me can have more reasonable opinions when it comes to treating the victims of these incidents. We don't want them to suffer any secondary injuries because of the internet. Also please stop tagging this account.
+The purpose of this post is not to appease everyone, but in the hopes that at least the people around me can have more reasonable opinions when it comes to treating the victims of these incidents. We don't want them to suffer any secondary injuries because of the internet. 
+
+
+
+Also please stop tagging this account.
 ### Replies
 **TreeNoAlice**<br>
 Xenon you're such a great guy. Fight!
@@ -857,7 +863,7 @@ Someone send help. It's only been days, but the lack of NEKO streams are killing
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1301"/>[#013] Some things must be stated clearly
+## <a id="x1301"/>\[#013\] Some things must be stated clearly
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -944,7 +950,7 @@ Should we boycott these terrible reports（￣へ￣）
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1401"/>[#014] Listen, all of you
+## <a id="x1401"/>\[#014\] Listen, all of you
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1033,7 +1039,7 @@ You shouldn’t take retards who trust info from stupid gossip magazines serious
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1501"/>[#015] It felt like forever since I last picked up the guitar.
+## <a id="x1501"/>\[#015\] It felt like forever since I last picked up the guitar.
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1095,7 +1101,7 @@ Thanks. I will if I have the time.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1601"/>[#016] 　　　　　　　　　　
+## <a id="x1601"/>\[#016\] 　　　　　　　　　　
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|

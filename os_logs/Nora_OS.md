@@ -1,40 +1,40 @@
 # Nora OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Audio\_Trans\_08\_698\_06\_04](#noos001)
-- [[#002] Cam\_Robo\_697\_04\_06\_1](#noos002)
-- [[#003] Cam\_ARC\_688\_09\_02](#noos003)
-- [[#004] Audio\_ABO03\_688\_12\_06](#noos004)
-- [[#005] Audio\_Butsudou\_690\_11\_20](#noos005)
-- [[#006] Cam\_Robo\_697\_04\_06\_2](#noos006)
-- [[#007] Audio\_ShinShenSt\_691\_01\_15](#noos007)
-- [[#008] Audio\_KyuuLab\_691\_01\_23](#noos008)
-- [[#009] Audio\_???\_691\_01\_23](#noos009)
-- [[#010] Cam\_Robo\_697\_04\_06\_03](#noos010)
-- [[#011] Cam\_KyuuLab\_691\_01\_25](#noos011)
-- [[#012] Audio\_Nora\_694\_03\_08](#noos012)
-- [[#013] Audio\_Butsudou\_694\_09\_08](#noos013)
-- [[#014] Cam\_Nora\_695\_03\_03](#noos014)
-- [[#015] Audio\_Nora\_695\_03\_16](#noos015)
-- [[#016] Cam\_CLab06\_695\_04\_02](#noos016)
-- [[#017] Audio\_Dash\_695\_05\_03](#noos017)
-- [[#018] Audio\_KyuuLab\_695\_05\_08\_1](#noos018)
-- [[#019] Audio\_KyuuLab\_695\_05\_08\_2](#noos019)
-- [[#020] Cam\_Robo\_697\_04\_06\_4](#noos020)
-- [[#021] Cam\_Butsudou\_697\_03\_02](#noos021)
-- [[#022] Audio\_Butsudou\_697\_03\_14](#noos022)
-- [[#023] Audio\_Robo\_697\_04\_06\_5](#noos023)
-- [[#024] Audio\_Butsudou\_698\_04\_13](#noos024)
-- [[#025] Cam\_Nora\_698\_04\_13](#noos025)
-- [[#026] Cam\_Nora\_698\_04\_28](#noos026)
-- [[#027] Cam\_Butsudou\_698\_05\_28](#noos027)
-- [[#028] ?͜͠͝?͝҉̢͜͏?̶̀](#noos028)
-- [[#029] Cam\_Nora\_698\_05\_29](#noos029)
-- [[#030] Log\_Phoenix\_698\_06\_01](#noos030)
-- [[#031] Cam\_Butsudou\_698\_06\_02](#noos031)
-- [[#032] Cam\_KyuuLab\_698\_06\_02](#noos032)
-- [[#033] Cam\_Robo\_698\_06\_02](#noos033)
+- [\[#001\] Audio\_Trans\_08\_698\_06\_04](#noos001)
+- [\[#002\] Cam\_Robo\_697\_04\_06\_1](#noos002)
+- [\[#003\] Cam\_ARC\_688\_09\_02](#noos003)
+- [\[#004\] Audio\_ABO03\_688\_12\_06](#noos004)
+- [\[#005\] Audio\_Butsudou\_690\_11\_20](#noos005)
+- [\[#006\] Cam\_Robo\_697\_04\_06\_2](#noos006)
+- [\[#007\] Audio\_ShinShenSt\_691\_01\_15](#noos007)
+- [\[#008\] Audio\_KyuuLab\_691\_01\_23](#noos008)
+- [\[#009\] Audio\_???\_691\_01\_23](#noos009)
+- [\[#010\] Cam\_Robo\_697\_04\_06\_03](#noos010)
+- [\[#011\] Cam\_KyuuLab\_691\_01\_25](#noos011)
+- [\[#012\] Audio\_Nora\_694\_03\_08](#noos012)
+- [\[#013\] Audio\_Butsudou\_694\_09\_08](#noos013)
+- [\[#014\] Cam\_Nora\_695\_03\_03](#noos014)
+- [\[#015\] Audio\_Nora\_695\_03\_16](#noos015)
+- [\[#016\] Cam\_CLab06\_695\_04\_02](#noos016)
+- [\[#017\] Audio\_Dash\_695\_05\_03](#noos017)
+- [\[#018\] Audio\_KyuuLab\_695\_05\_08\_1](#noos018)
+- [\[#019\] Audio\_KyuuLab\_695\_05\_08\_2](#noos019)
+- [\[#020\] Cam\_Robo\_697\_04\_06\_4](#noos020)
+- [\[#021\] Cam\_Butsudou\_697\_03\_02](#noos021)
+- [\[#022\] Audio\_Butsudou\_697\_03\_14](#noos022)
+- [\[#023\] Audio\_Robo\_697\_04\_06\_5](#noos023)
+- [\[#024\] Audio\_Butsudou\_698\_04\_13](#noos024)
+- [\[#025\] Cam\_Nora\_698\_04\_13](#noos025)
+- [\[#026\] Cam\_Nora\_698\_04\_28](#noos026)
+- [\[#027\] Cam\_Butsudou\_698\_05\_28](#noos027)
+- [\[#028\] ?͜͠͝?͝҉̢͜͏?̶̀](#noos028)
+- [\[#029\] Cam\_Nora\_698\_05\_29](#noos029)
+- [\[#030\] Log\_Phoenix\_698\_06\_01](#noos030)
+- [\[#031\] Cam\_Butsudou\_698\_06\_02](#noos031)
+- [\[#032\] Cam\_KyuuLab\_698\_06\_02](#noos032)
+- [\[#033\] Cam\_Robo\_698\_06\_02](#noos033)
 
-## <a id="noos001"/>[#001] Audio\_Trans\_08\_698\_06\_04
+## <a id="noos001"/>\[#001\] Audio\_Trans\_08\_698\_06\_04
 ### Log Content
 **Cleaner A**<br>
 Sir... Sir...?
@@ -42,23 +42,23 @@ Sir... Sir...?
 *\[ROBO_Head  Start-Up\]*
 
 **[ROBO_Head]**<br>
-*This unit, start\-up, success. Running self\-diagnostics... incomplete.<br>
-Detect multiple physical damages on hardware.*
+_This unit, start\-up, success. Running self\-diagnostics... incomplete.<br>
+Detect multiple physical damages on hardware._
 
 **Cleaner B**<br>
 What the heck? A proxy robot?<br>
 This train has already ended service for the day. Please leave the carriage. We need to clean up.
 
 **[ROBO_Head]**<br>
-*......<br>
-Question: This location... coordinates... ?*
+_......<br>
+Question: This location... coordinates... ?_
 
 **Cleaner A**<br>
 Huh? This is Node 08. Where are you connected to? Can you hear us, owner of this robot? Please get this thing moving.
 
 **[ROBO_Head]**<br>
-*......<br>
-Where is Nora?*
+_......<br>
+Where is Nora?_
 
 **Cleaner B**<br>
 Huh? What? Is it broken?<br>
@@ -68,130 +68,130 @@ What should we do? Contact the station staff?
 Yeah. This is platform B. We've discovered a malfunctioning proxy robot. It seems to be disconnected from its owner. We are having trouble dealing with it. Please send someone over to help...
 
 **[ROBO_Head]**<br>
-*Apologies.*
+_Apologies._
 
 *\[Footsteps\]*
 
 **Cleaner B**<br>
 Eh? HEY!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **[ROBO_Head]**<br>
-*Inputting activity planning...<br>
-Operation/Action denied; reasoning: conflict with supreme command.*
+_Inputting activity planning...<br>
+Operation/Action denied; reasoning: conflict with supreme command._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Inputting activity planning...<br>
-Operation/Action denied; reasoning: conflict with supreme command.*
+_Inputting activity planning...<br>
+Operation/Action denied; reasoning: conflict with supreme command._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Loading Local.log...... 100%<br>
+_Loading Local.log...... 100%<br>
 Previous Shutdown: 698/06/02<br>
 23:16:50'23"<br>
 During shutdown, one video message recorded:<br>
-Cam\_Robo\_698\_06\_02*
+Cam\_Robo\_698\_06\_02_
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Play video: Cam\_Robo\_697\_04\_06\_01*
+_Play video: Cam\_Robo\_697\_04\_06\_01_
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Replay invalid.<br>
-Memory unit reset error. Please select other files for troubleshooting.*
+_Replay invalid.<br>
+Memory unit reset error. Please select other files for troubleshooting._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Play video: Cam\_Robo\_697\_04\_06\_01*
+_Play video: Cam\_Robo\_697\_04\_06\_01_
 
 **[ROBO_Head]**<br>
-*Begin replay.*
+_Begin replay._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos002"/>[#002] Cam\_Robo\_697\_04\_06\_1
+## <a id="noos002"/>\[#002\] Cam\_Robo\_697\_04\_06\_1
 ### Log Content
 *\[ROBO_Head Start-Up\]*
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*This unit, start up, success. Self\-diagnostics complete.*
+_This unit, start up, success. Self\-diagnostics complete._
 
 **[Nora]**<br>
-*Unit 02, can you hear my voice?*
+_Unit 02, can you hear my voice?_
 
 ![noos0201.png](./attachments/noos0201.png)
 
 **[ROBO_Head]**<br>
-*This unit, condition: available to accept commands. Command requested.*
+_This unit, condition: available to accept commands. Command requested._
 
 **[Nora]**<br>
-*...... Don't reply like this.<br>
-Can you hear my voice? \[ROBO\_Head\].*
+_...... Don't reply like this.<br>
+Can you hear my voice? \[ROBO\_Head\]._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*I can. This unit. can hear your voice.*
+_I can. This unit. can hear your voice._
 
 **[Nora]**<br>
-*Good. ROBO...... I'll call you ROBO then.<br>
-Can you describe your own identity first?*
+_Good. ROBO...... I'll call you ROBO then.<br>
+Can you describe your own identity first?_
 
 **[ROBO_Head]**<br>
-*This unit, fully automatic robot with artificial intelligence system equipped, identification code "ROBO\_Head \- Unit 02".*
+_This unit, fully automatic robot with artificial intelligence system equipped, identification code "ROBO\_Head \- Unit 02"._
 
 **[Nora]**<br>
-*Great! The system is functioning properly.<br>
-Hello ROBO, I am the person who created you. You can call me Nora.*
+_Great! The system is functioning properly.<br>
+Hello ROBO, I am the person who created you. You can call me Nora._
 
 **[ROBO_Head]**<br>
-*Affirmative \-Nora\-<br>
-According to memory data, this unit, created, to, protect Nora.*
+_Affirmative \-Nora\-<br>
+According to memory data, this unit, created, to, protect Nora._
 
 **[Nora]**<br>
-*Not just me... There's another person I want you to protect as well. Don't let him get injured no matter the circumstances.*
+_Not just me... There's another person I want you to protect as well. Don't let him get injured no matter the circumstances._
 
 *\[Loading Sounds\]*
 
 **[ROBO_Head]**<br>
-*Searching database... Search failed.<br>
+_Searching database... Search failed.<br>
 Decision: Insufficient information<br>
-Nora, please provide additional information, of second target to protect.*
+Nora, please provide additional information, of second target to protect._
 
 **[Nora]**<br>
-*His information is top secret and therefore not registered in the database... That's why you didn't know.<br>
-It's okay; you can hear it directly from me, ROBO.*
+_His information is top secret and therefore not registered in the database... That's why you didn't know.<br>
+It's okay; you can hear it directly from me, ROBO._
 
 **[Nora]**<br>
-*The name of that person is...*
+_The name of that person is..._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos003"/>[#003] Cam\_ARC\_688\_09\_02
+## <a id="noos003"/>\[#003\] Cam\_ARC\_688\_09\_02
 ### Log Content
 **[Leo]**<br>
-*Phoenix, based on the aforementioned reasons, you are relieved of your position as Director of the A.R.C. technology department, effective immediately. You can go clear out your office now.*
+_Phoenix, based on the aforementioned reasons, you are relieved of your position as Director of the A.R.C. technology department, effective immediately. You can go clear out your office now._
 
 **Noah**<br>
 Fellow committee members! Please wait! This is too...
@@ -200,7 +200,7 @@ Fellow committee members! Please wait! This is too...
 Noah, it's okay.
 
 **[Leo]**<br>
-*... The meeting is now over.*
+_... The meeting is now over._
 
 *\[Door Opens\]*
 
@@ -229,7 +229,7 @@ Noah! I'm sorry, I have a bit too much stuff. Can you give me a hand here?
 **Noah**<br>
 Ok...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Noah**<br>
 Being insulted like that... How come you're not angry about it at all!?
@@ -260,7 +260,7 @@ Haha, you're still too young, Noah. How old are you this year? 24?
 Just turned 24...
 
 **Phoenix**<br>
-*\*Chuckles\**, Several mistakes you made there. First of all, this is not the most resource\-rich place in the world. What you see is merely the surface. Secondly, if you really think I have nowhere to go once I leave here, you're seriously underestimating me.
+_\*Chuckles\*_, Several mistakes you made there. First of all, this is not the most resource\-rich place in the world. What you see is merely the surface. Secondly, if you really think I have nowhere to go once I leave here, you're seriously underestimating me.
 
 **Noah**<br>
 I would never... Director is the one person I worship the most on my career path as a researcher!<br>
@@ -356,11 +356,11 @@ Noah, you're a young man with great potential. You shouldn't go on this mad jour
 **Noah**<br>
 Director...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos004"/>[#004] Audio\_ABO03\_688\_12\_06
+## <a id="noos004"/>\[#004\] Audio\_ABO03\_688\_12\_06
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -430,13 +430,13 @@ However, I do sincerely hope... that our next meeting will be one where we are t
 
 **Lam**<br>
 Don't get yourself killed. Node 03 isn't exactly kind to big city folks like you. <br>
-I look forward to your growth, Mr. Phoenix. *\*Chuckles\**...
+I look forward to your growth, Mr. Phoenix. _\*Chuckles\*_...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos005"/>[#005] Audio\_Butsudou\_690\_11\_20
+## <a id="noos005"/>\[#005\] Audio\_Butsudou\_690\_11\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -465,7 +465,7 @@ We are a team. Without them, we couldn't complete the projects you people are in
 ... You don't want to annoy me.
 
 **[Ryu]**<br>
-*Manson, it's fine. Let them in.*
+_Manson, it's fine. Let them in._
 
 **Lam**<br>
 ......
@@ -485,7 +485,7 @@ Thank you. Since they made a compromise... you guys, take off your masks.
 **Lam**<br>
 Of course. We would like you to clear the security check first. This way, please.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Ryu**<br>
 ... So you're Phoenix?
@@ -539,7 +539,7 @@ A random male sample we seized from the downtown area. This is how he originally
 ......
 
 **Phoenix**<br>
-*\*Chuckles\**, I surely didn't expect such a dumb question to come from someone as smart as you.<br>
+_\*Chuckles\*_, I surely didn't expect such a dumb question to come from someone as smart as you.<br>
 However, it's about time we conclude this demonstration.
 
 *\[Gunshot\]*
@@ -565,7 +565,7 @@ Ho? This is another one of our merchandises, but compare to a perfect human repl
 *\[Applaud\]*
 
 **Ryu**<br>
-*\*Chuckles\**... Hahahaha! Excellent! You're quite the man!
+_\*Chuckles\*_... Hahahaha! Excellent! You're quite the man!
 
 **Lam**<br>
 ......
@@ -598,11 +598,11 @@ Phoenix... \[Kyuu Hou Kai\], that shall be your name. We will be a combo of the 
 **Phoenix**<br>
 Whatever you please.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos006"/>[#006] Cam\_Robo\_697\_04\_06\_2
+## <a id="noos006"/>\[#006\] Cam\_Robo\_697\_04\_06\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -610,71 +610,71 @@ Whatever you please.
 
 ### Log Content
 **[Nora]**<br>
-*I want to test your comprehensive ability... Can you explain to me what you just heard? ROBO.*
+_I want to test your comprehensive ability... Can you explain to me what you just heard? ROBO._
 
 **[ROBO_Head]**<br>
-*Nora wants, this unit, protect Nora and Phoenix, from any injury, no matter the circumstances.*
+_Nora wants, this unit, protect Nora and Phoenix, from any injury, no matter the circumstances._
 
 **[Nora]**<br>
-*You are correct. Looks like the cognitive system is functioning normally...*
+_You are correct. Looks like the cognitive system is functioning normally..._
 
 **[ROBO_Head]**<br>
-*Would like Nora, to allow this unit, to ask question.*
+_Would like Nora, to allow this unit, to ask question._
 
 **[Nora]**<br>
-*Sure.*
+_Sure._
 
 **[ROBO_Head]**<br>
-*This unit wants to know, Nora and Phoenix, enemy, who are they.<br>
-Who wants, to hurt, Nora and Phoenix?*
+_This unit wants to know, Nora and Phoenix, enemy, who are they.<br>
+Who wants, to hurt, Nora and Phoenix?_
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Nora doesn't want to answer, this unit, will not ask.*
+_Nora doesn't want to answer, this unit, will not ask._
 
 **[Nora]**<br>
-*... No. This is something I should tell you.<br>
-I want you to protect us from the grasps of Mogura, Kyuu Hou Kai and other organizations.*
+_... No. This is something I should tell you.<br>
+I want you to protect us from the grasps of Mogura, Kyuu Hou Kai and other organizations._
 
 **[ROBO_Head]**<br>
-*Question, Mogura, provide Phoenix with resources; Kyuu Hou Kai, Phoenix's organization. Why, enemy?<br>
-This unit, does not comprehend.*
+_Question, Mogura, provide Phoenix with resources; Kyuu Hou Kai, Phoenix's organization. Why, enemy?<br>
+This unit, does not comprehend._
 
 **[Nora]**<br>
-*... I'm not sure whether you can understand this or not...*
+_... I'm not sure whether you can understand this or not..._
 
 ![noos0601.png](./attachments/noos0601.png)
 
 **[Nora]**<br>
-*In this world, there are a lot of bad things; things that make people really, really sad... These organizations are using these bad things to obtain resources in order to achieve an even larger goal. Both Mogura and Kyuu Hou Kai are organizations like that as well*
+_In this world, there are a lot of bad things; things that make people really, really sad... These organizations are using these bad things to obtain resources in order to achieve an even larger goal. Both Mogura and Kyuu Hou Kai are organizations like that as well_
 
 **[ROBO_Head]**<br>
-*Judgment base on received information so far, Phoenix, person like that, as well.*
+_Judgment base on received information so far, Phoenix, person like that, as well._
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*This unit, decision, Nora, doesn't like them.<br>
-Leaving them, benefits to both physical and mental. This unit, willing to assist, in proposed action.*
+_This unit, decision, Nora, doesn't like them.<br>
+Leaving them, benefits to both physical and mental. This unit, willing to assist, in proposed action._
 
 **[Nora]**<br>
-*... I can't leave here. Don't think about it anymore...<br>
-Besides, I...*
+_... I can't leave here. Don't think about it anymore...<br>
+Besides, I..._
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[Nora]**<br>
-*I myself... was born in an environment just like this.*
+_I myself... was born in an environment just like this._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos007"/>[#007] Audio\_ShinShenSt\_691\_01\_15
+## <a id="noos007"/>\[#007\] Audio\_ShinShenSt\_691\_01\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -757,11 +757,11 @@ No... I would never dare...
 **Mogura Member A**<br>
 Very well. The transaction is complete. Go home; your wife is still waiting for you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos008"/>[#008] Audio\_KyuuLab\_691\_01\_23
+## <a id="noos008"/>\[#008\] Audio\_KyuuLab\_691\_01\_23
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -869,11 +869,11 @@ Discard 009 and other failed ones to the forbidden area. Tomorrow, we'll restart
 **Member A**<br>
 Okay...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos009"/>[#009] Audio\_???\_691\_01\_23
+## <a id="noos009"/>\[#009\] Audio\_???\_691\_01\_23
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -942,7 +942,7 @@ Let's go back. There's another batch tomorrow we need to dump. By the time of ou
 **Member I**<br>
 ... I'll be fine.
 
-*\[»»» Fast Forward 23 Hours»»»\]*
+_\[»»» Fast Forward 23 Hours»»»\]_
 
 *\[Engines turned off\]*
 
@@ -982,11 +982,11 @@ One of them is still alive!? It's... 009 from yesterday!
 **Member A**<br>
 Leave her out my a\*\*! Take her back to Phoenix! There's no way someone's still alive after being exposed to the virus for such a long time. She could have immunity!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos010"/>[#010] Cam\_Robo\_697\_04\_06\_03
+## <a id="noos010"/>\[#010\] Cam\_Robo\_697\_04\_06\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -994,86 +994,86 @@ Leave her out my a\*\*! Take her back to Phoenix! There's no way someone's still
 
 ### Log Content
 **[Nora]**<br>
-*That child... was me.*
+_That child... was me._
 
 **[ROBO_Head]**<br>
-*Searching database... Search complete.<br>
+_Searching database... Search complete.<br>
 Summary on "The Ender" virus in forbidden area: Mortality rate 99.97%. No record of complete recovery.<br>
-Nora survived, please explain, reason.*
+Nora survived, please explain, reason._
 
 **[Nora]**<br>
-*I don't really know why... But Phoenix often said that I am special.<br>
-Phoenix allowed me to live here because of that as well.*
+_I don't really know why... But Phoenix often said that I am special.<br>
+Phoenix allowed me to live here because of that as well._
 
 **[ROBO_Head]**<br>
-*Nora, how do you view, Phoenix?*
+_Nora, how do you view, Phoenix?_
 
 **[Nora]**<br>
-*... Without him, I would've already been eaten by wild beasts. He gave me food, clothes, a place to live and he is very kind to me too... This wheelchair is also something he made for me. I am very thankful to him.*
+_... Without him, I would've already been eaten by wild beasts. He gave me food, clothes, a place to live and he is very kind to me too... This wheelchair is also something he made for me. I am very thankful to him._
 
 **[ROBO_Head]**<br>
-*Nora's replay, delay of 2.375 seconds. <br>
+_Nora's replay, delay of 2.375 seconds. <br>
 This unit, determine, this delay, sign of hesitation.<br>
-May I ask for additional information, reason, of hesitation?*
+May I ask for additional information, reason, of hesitation?_
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*If Nora doesn't want to answer, this unit, will stop questioning.*
+_If Nora doesn't want to answer, this unit, will stop questioning._
 
 **[Nora]**<br>
-*Thank you, ROBO.<br>
-Is there anything else you would like to know?*
+_Thank you, ROBO.<br>
+Is there anything else you would like to know?_
 
 **[ROBO_Head]**<br>
-*This unit, want to know more, about Nora.*
+_This unit, want to know more, about Nora._
 
 **[Nora]**<br>
-*So it's easier for you to protect me?*
+_So it's easier for you to protect me?_
 
 **[ROBO_Head]**<br>
-*Negative.<br>
-This unit, only wants to know.*
+_Negative.<br>
+This unit, only wants to know._
 
 **[Nora]**<br>
-*Only... wants to know?*
+_Only... wants to know?_
 
 **[ROBO_Head]**<br>
-*Affirmative.*
+_Affirmative._
 
 **[Nora]**<br>
-*... You really are special yourself too.<br>
-But I... It's not often that I get to talk so much... I don't know where to begin...*
+_... You really are special yourself too.<br>
+But I... It's not often that I get to talk so much... I don't know where to begin..._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 *\[Music\]*
 
 ![noos1001.png](./attachments/noos1001.png)
 
 **[Nora]**<br>
-*Wow! ROBO...?*
+_Wow! ROBO...?_
 
 **[ROBO_Head]**<br>
-*Data shows: After music, lighting and applaud from audience, signs of nervousness in human emotion, can be soothed.<br>
-If Nora still nervous, this unit, will give Nora, applause too.*
+_Data shows: After music, lighting and applaud from audience, signs of nervousness in human emotion, can be soothed.<br>
+If Nora still nervous, this unit, will give Nora, applause too._
 
 *\[Metal banging\]*
 
 **[Nora]**<br>
-*... Haha.*
+_... Haha._
 
 **[Nora]**<br>
-*The light... Okay.<br>
-Then I'll... start from my name, one of the first things Phoenix gave me.*
+_The light... Okay.<br>
+Then I'll... start from my name, one of the first things Phoenix gave me._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos011"/>[#011] Cam\_KyuuLab\_691\_01\_25
+## <a id="noos011"/>\[#011\] Cam\_KyuuLab\_691\_01\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1109,7 +1109,7 @@ Absolutely true! We made our trip the exact night of the experiment. After almos
 Th... This child is very important! Register her to Central Lab right away! She looks very weak... A team, B team, prepare life support, NOW!<br>
 You two, come with me. We need to go get Kim. The necrosis on her legs must be treated immediately, or it would spread to her entire body and that would be too late! This child must survive no matter what!
 
-*\[»»» Fast Forward 18 Hours»»»\]*
+_\[»»» Fast Forward 18 Hours»»»\]_
 
 **Phoenix**<br>
 What is her situation?
@@ -1151,11 +1151,11 @@ Nora...?
 **Phoenix**<br>
 It means "The ninth children" in an ancient language. It also has the meaning of "Honor". She will bring light to human civilization!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos012"/>[#012] Audio\_Nora\_694\_03\_08
+## <a id="noos012"/>\[#012\] Audio\_Nora\_694\_03\_08
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1238,7 +1238,7 @@ Stop spacing out. Proceed with the preparations.
 **Member I**<br>
 Ah! Yes, sir!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -1287,11 +1287,11 @@ Actually, this is already the third time this has happened. Starting next week, 
 **Member I**<br>
 Got it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos013"/>[#013] Audio\_Butsudou\_694\_09\_08
+## <a id="noos013"/>\[#013\] Audio\_Butsudou\_694\_09\_08
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1371,7 +1371,7 @@ Besides, I'm also quite curious about why you are so persistent about her...
 **Lam**<br>
 Nora... so she has a name? Whatever, take me to her.
 
-*\[→Signal Switch to Nora'sRoom\]*
+_\[→Signal Switch to Nora'sRoom\]_
 
 **Lam**<br>
 She is the one?
@@ -1433,11 +1433,11 @@ All in all, you heard what the boss said. Another year of losing money and this 
 **Phoenix**<br>
 ... Understood.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos014"/>[#014] Cam\_Nora\_695\_03\_03
+## <a id="noos014"/>\[#014\] Cam\_Nora\_695\_03\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1450,13 +1450,13 @@ All in all, you heard what the boss said. Another year of losing money and this 
 Nora, get ready for your scan... Nora? Where are you\~?
 
 **[Nora]**<br>
-*Ichiro.*
+_Ichiro._
 
 **Member I**<br>
 Yikes!? Who's calling me!?
 
 **[Nora]**<br>
-*... I'm Nora. Looks like it's a success. I'm behind the shelf.*
+_... I'm Nora. Looks like it's a success. I'm behind the shelf._
 
 ![noos1401.png](./attachments/noos1401.png)
 
@@ -1464,64 +1464,64 @@ Yikes!? Who's calling me!?
 Nora!? This machine... did you make this?
 
 **[Nora]**<br>
-*Yes. The name is "ROBO\_Head". It's a bit like... a translator, I guess? This way, I'm able to talk.*
+_Yes. The name is "ROBO\_Head". It's a bit like... a translator, I guess? This way, I'm able to talk._
 
 **Member I**<br>
 Wow... So this is your voice?
 
 **[Nora]**<br>
-*It's a simulation of my voiceprint. I don't know how to talk to begin with, so I have no clue whether this is my voice or not.*
+_It's a simulation of my voiceprint. I don't know how to talk to begin with, so I have no clue whether this is my voice or not._
 
 **Member I**<br>
 That's incredible! We're finally able to hear you talk... How did you do that?
 
 **[Nora]**<br>
-*A.R.C. announced the cyTus technology a while ago. I wrote a program with its protocol. It can directly translate what I want to speak via virtual connection.*
+_A.R.C. announced the cyTus technology a while ago. I wrote a program with its protocol. It can directly translate what I want to speak via virtual connection._
 
 **Member I**<br>
 It really is incredible. You're truly a child prodigy!
 
 **[Nora]**<br>
-*There are still some functions I would like to test out. Do you mind helping me out a little bit?*
+_There are still some functions I would like to test out. Do you mind helping me out a little bit?_
 
 **Member I**<br>
 Not a problem!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*Hmm... Everything's more or less functioning normally. There are some places that can use some minor tweaking... Thank you for helping me out with the tests.*
+_Hmm... Everything's more or less functioning normally. There are some places that can use some minor tweaking... Thank you for helping me out with the tests._
 
 **Member I**<br>
 This is awesome! We need to tell director ASAP!
 
 **[Nora]**<br>
-*Wait!*
+_Wait!_
 
 **Member I**<br>
 Eh?
 
 **[Nora]**<br>
-*... Still not prepared... about what to tell him...*
+_... Still not prepared... about what to tell him..._
 
 **Member I**<br>
 How come? You're speaking very fluently! On top of that, your speech doesn't sound like a child at all!
 
 **[Nora]**<br>
-*That's not the problem...<br>
-Children... How do they talk? I don't know, because all I have around me is you guys.*
+_That's not the problem...<br>
+Children... How do they talk? I don't know, because all I have around me is you guys._
 
 **Member I**<br>
 Ah... sorry.
 
 **[Nora]**<br>
-*Why are you apologizing?*
+_Why are you apologizing?_
 
 **Member I**<br>
 Umm, nothing. It's just that... when I hear those words coming directly from you, I feel sorry for the kind of life we put you through...
 
 **[Nora]**<br>
-*I've never had a different life before. Ichiro, you don't have to be sorry.*
+_I've never had a different life before. Ichiro, you don't have to be sorry._
 
 **Member I**<br>
 ......
@@ -1535,7 +1535,7 @@ Ichiro, we asked you to pick up Nora. Why are you taking so long? Everyone's bee
 Ah! Director! Look! Nora is amazing. She made this machine by herself. She is now able to speak!
 
 **[Nora]**<br>
-*......*
+_......_
 
 **Phoenix**<br>
 ......?
@@ -1544,19 +1544,19 @@ Ah! Director! Look! Nora is amazing. She made this machine by herself. She is no
 What's wrong? Nora! Show it to director!
 
 **[Nora]**<br>
-*... H, Hello, I'm Nora...*
+_... H, Hello, I'm Nora..._
 
 **Phoenix**<br>
 ......
 
 **[Nora]**<br>
-*... Ummm...*
+_... Ummm..._
 
 **Phoenix**<br>
 ... Did you make this with the cyTus technology? Very impressive. You're able to master the programming language I taught you in a very short time.
 
 **[Nora]**<br>
-*Thank you...*
+_Thank you..._
 
 **Phoenix**<br>
 Take her to do the scan. We are already having a serious delay.
@@ -1565,13 +1565,13 @@ Take her to do the scan. We are already having a serious delay.
 Ah... Yes sir! I'm sorry!
 
 **[Nora]**<br>
-*......*
+_......_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos015"/>[#015] Audio\_Nora\_695\_03\_16
+## <a id="noos015"/>\[#015\] Audio\_Nora\_695\_03\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1586,44 +1586,44 @@ Ah... Yes sir! I'm sorry!
 Nora, are you composing? It's time for your meal.
 
 **[Nora]**<br>
-*Thank you.<br>
-I've improved ROBO's function. Can you help me test it again?*
+_Thank you.<br>
+I've improved ROBO's function. Can you help me test it again?_
 
 **Member I**<br>
 Oh! Of course! What kind of function?
 
 **[Nora]**<br>
-*A function to express emotion. Turns out a synthetic voice is still not nearly enough. Right now, it should be able to display some simple emotions.*
+_A function to express emotion. Turns out a synthetic voice is still not nearly enough. Right now, it should be able to display some simple emotions._
 
 **Member I**<br>
 That sounds pretty cool. Let's give it a shot right away!
 
 **[Nora]**<br>
-*......*
+_......_
 
 **Member I**<br>
 ......
 
 **[Nora]**<br>
-*What do you think?*
+_What do you think?_
 
 **Member I**<br>
 Eh? It has already begun? Hmm... the face on the screen didn't change at all.
 
 **[Nora]**<br>
-*Eh...?*
+_Eh...?_
 
 **Member I**<br>
 Nora, you have no emotion on your face right now either. Moreover, I don't think I've ever seen you express any emotion before...
 
 **[Nora]**<br>
-*... I don't know what I should do.*
+_... I don't know what I should do._
 
 **Member I**<br>
 How come? It's really simple. You think about some things you like, then feel it with your heart... Umm, what am I talking about? Now even I am confused.
 
 **[Nora]**<br>
-*What I like...*
+_What I like..._
 
 *\[Nora Emotion\]*
 
@@ -1631,14 +1631,14 @@ How come? It's really simple. You think about some things you like, then feel it
 Oh! The face changed... Eh? It's a crying face. What did you just think about?
 
 **[Nora]**<br>
-*Eh? Nothing. All in all, it seems like a success. Thank you.<br>
-... Oh right... You've been the one to deliver my meals to me lately. Where's Phoenix?*
+_Eh? Nothing. All in all, it seems like a success. Thank you.<br>
+... Oh right... You've been the one to deliver my meals to me lately. Where's Phoenix?_
 
 **Member I**<br>
 Director has been quite busy these days. Besides analyzing the data from the previous scan, I've heard that the Ravens are doing this major project at Lab 03 right now. He's been going there to offer assistance too.
 
 **[Nora]**<br>
-*I see...*
+_I see..._
 
 *\[Nora Emotion\]*
 
@@ -1646,19 +1646,19 @@ Director has been quite busy these days. Besides analyzing the data from the pre
 Ah! The face became a crying face again. What's the matter? Are you feeling down?
 
 **[Nora]**<br>
-*Not really. I was just thinking... I wasn't able to talk to him properly the first time. I haven't seen him a lot after that incident.*
+_Not really. I was just thinking... I wasn't able to talk to him properly the first time. I haven't seen him a lot after that incident._
 
 **Member I**<br>
 ......
 
 **[Nora]**<br>
-*Does he dislike me...?*
+_Does he dislike me...?_
 
 **Member I**<br>
 Not at all! Director cares about you more than anybody else!
 
 **[Nora]**<br>
-*That's because I am a very important research subject...*
+_That's because I am a very important research subject..._
 
 *\[Door Opens\]*
 
@@ -1675,7 +1675,7 @@ OK...
 Nora, this is for you. Here, come and take a seat.
 
 **[Nora]**<br>
-*......?*
+_......?_
 
 **Phoenix**<br>
 Good. Now, try and connect ROBO\_Head's other port to this one here.
@@ -1683,19 +1683,19 @@ Good. Now, try and connect ROBO\_Head's other port to this one here.
 *\[Wheelchair activated\]*
 
 **[Nora]**<br>
-*Wow! It moved!*
+_Wow! It moved!_
 
 **Phoenix**<br>
 This is a wheelchair that can be controlled via virtual connection. This way, you're able to move freely. You are no longer restricted inside this room.
 
 **[Nora]**<br>
-*Phoenix... Did you make this?*
+_Phoenix... Did you make this?_
 
 **Phoenix**<br>
 Yes. Since you're able to speak now, I shouldn't continue limiting your actions.
 
 **[Nora]**<br>
-*...... Thank you!*
+_...... Thank you!_
 
 *\[Nora Emotion\]*
 
@@ -1703,15 +1703,15 @@ Yes. Since you're able to speak now, I shouldn't continue limiting your actions.
 However, you are not allowed to leave the Central Lab area. Understand?
 
 **[Nora]**<br>
-*Got it!*
+_Got it!_
 
 *\[Nora Emotion\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos016"/>[#016] Cam\_CLab06\_695\_04\_02
+## <a id="noos016"/>\[#016\] Cam\_CLab06\_695\_04\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1721,7 +1721,7 @@ However, you are not allowed to leave the Central Lab area. Understand?
 ![noos1601.png](./attachments/noos1601.png)
 
 **[Nora]**<br>
-*Hahaha! Ichiro, you are so dumb!*
+_Hahaha! Ichiro, you are so dumb!_
 
 *\[Nora Emotion\]*
 
@@ -1735,7 +1735,7 @@ How are you feeling right now after being utterly destroyed by a five\-year\-old
 Shut up! If you're so good, why don't you challenge her! She is definitely not your average five\-year\-old...
 
 **[Nora]**<br>
-*If so, how about we stop playing chess and switch to a game that relies solely on luck? That way, it's fair to everybody.*
+_If so, how about we stop playing chess and switch to a game that relies solely on luck? That way, it's fair to everybody._
 
 **Member D**<br>
 Ho? Not a bad idea. Lemme find one.
@@ -1747,21 +1747,21 @@ If it's only about luck then I won't lose!
 That I can't disagree with... your luck scares me sometimes... I can never understand why someone as dumb as you ever got a job in this place.
 
 **[Nora]**<br>
-*Haha, that's mean.*
+_Haha, that's mean._
 
 **Member I**<br>
 Damnit...<br>
 Oh, right! Have you heard Nora's new song? It's really dope!
 
 **[Nora]**<br>
-*That song's still unfinished...*
+_That song's still unfinished..._
 
 **Member D**<br>
 Then show it to me after you've finished it. I am looking forward to it a lot.<br>
 Nora is truly amazing. She can compose music AND she is knowledgeable in mechanical engineering.
 
 **[Nora]**<br>
-*Both mechanical engineering and programming are taught to me by Phoenix. I hope I can grow up to be someone like him. If I can be a musician as a side gig, even better.*
+_Both mechanical engineering and programming are taught to me by Phoenix. I hope I can grow up to be someone like him. If I can be a musician as a side gig, even better._
 
 *\[Nora Emotion\]*
 
@@ -1778,7 +1778,7 @@ Ah... that's right! Nora's going to be even more amazing after she grows up!
 Hey, break time's over. Get back to work. Nora, you're sleeping in the silent chamber tonight. You should rest early.
 
 **[Nora]**<br>
-*... OK.*
+_... OK._
 
 *\[Nora Emotion\]*
 
@@ -1786,40 +1786,40 @@ Hey, break time's over. Get back to work. Nora, you're sleeping in the silent ch
 Can't help it then. We'll play again tomorrow!
 
 **[Nora]**<br>
-*Sure. I will not lose!*
+_Sure. I will not lose!_
 
-*\[→Signal Switch to Nora'sRoom\]*
+_\[→Signal Switch to Nora'sRoom\]_
 
 **Phoenix**<br>
 The setting is complete. You can enter the silent chamber now.
 
 **[Nora]**<br>
-*It's really hard to sleep in this. It's cramped and dark inside...*
+_It's really hard to sleep in this. It's cramped and dark inside..._
 
 **Phoenix**<br>
 I know. This is all to stabilize your symptoms of nosebleed and epilepsy that occasionally occur during your sleep. Just hang in there. Do you still get nightmares these days?
 
 **[Nora]**<br>
-*Uh\-huh... I still do sometimes, but they are a lot less scary now.*
+_Uh\-huh... I still do sometimes, but they are a lot less scary now._
 
 **Phoenix**<br>
 Try and see if you can remember the contents of your dream. It is also helpful for our research. Maybe we can discover something from your dreams.<br>
 Alright, time for you to sleep.
 
 **[Nora]**<br>
-*OK, understood.<br>
-I want to drink some water before I sleep... Ah, I left my water bottle in the break room. can I go get it?*
+_OK, understood.<br>
+I want to drink some water before I sleep... Ah, I left my water bottle in the break room. can I go get it?_
 
 **Phoenix**<br>
 Sure. Can you go on your own?
 
 **[Nora]**<br>
-*Yes.*
+_Yes._
 
-*\[→Signal Switch to CLab06\]*
+_\[→Signal Switch to CLab06\]_
 
 **[Nora]**<br>
-*Water bottle water bottle...*
+_Water bottle water bottle..._
 
 **Member I**<br>
 Poor Nora... I don't know what to reply after hearing that.
@@ -1843,7 +1843,7 @@ Don't you have even some feelings for her!?
 We only have a few months left. Judging by our current progress, there's a very high chance that she'll be scrapped...
 
 **[Nora]**<br>
-*... Scrapped!?*
+_... Scrapped!?_
 
 **Member D**<br>
 I don't want to as well... We've already tried our best. After all, she is nothing more than a mere test specimen...
@@ -1854,22 +1854,22 @@ I don't want to as well... We've already tried our best. After all, she is nothi
 !?
 
 **[Nora]**<br>
-*... I'm here... to get my water bottle.*
+_... I'm here... to get my water bottle._
 
 **Member I**<br>
 Nora!
 
 **[Nora]**<br>
-*I'm going to bed now! Goodnight.*
+_I'm going to bed now! Goodnight._
 
 **Member D, Member I**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos017"/>[#017] Audio\_Dash\_695\_05\_03
+## <a id="noos017"/>\[#017\] Audio\_Dash\_695\_05\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1973,11 +1973,11 @@ I used to operate in that lab. I know the way to sneak inside... I have a plan..
 **Member A, Member B**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos018"/>[#018] Audio\_KyuuLab\_695\_05\_08\_1
+## <a id="noos018"/>\[#018\] Audio\_KyuuLab\_695\_05\_08\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2083,11 +2083,11 @@ It's not me! Director, please believe me! It's really not me who stole it!
 **Phoenix**<br>
 ... I personally don't believe you have the nerves to do such a thing.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos019"/>[#019] Audio\_KyuuLab\_695\_05\_08\_2
+## <a id="noos019"/>\[#019\] Audio\_KyuuLab\_695\_05\_08\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2095,13 +2095,13 @@ It's not me! Director, please believe me! It's really not me who stole it!
 
 ### Log Content
 **[Nora]**<br>
-*Ichiro's not the thief.*
+_Ichiro's not the thief._
 
 **Phoenix**<br>
 Nora!? Didn't I tell you not to leave Central Lab?
 
 **[Nora]**<br>
-*The culprit is Kim.*
+_The culprit is Kim._
 
 **Everyone**<br>
 ......
@@ -2110,15 +2110,15 @@ Nora!? Didn't I tell you not to leave Central Lab?
 What kind of bulls\*\*\* are you mumbling about, you stinkin brat!? Do you want me to break your two arms as well!?
 
 **[Nora]**<br>
-*May 3rd, 09:45 P.M.<br>
-At the parking lot of Lab 06, you told your team members to steal the items, then fake the evidence to frame Ichiro. The dashboard camera on one of the parked cars has a recording of that conversation. The license plate number of said car is PY \- 5644.*
+_May 3rd, 09:45 P.M.<br>
+At the parking lot of Lab 06, you told your team members to steal the items, then fake the evidence to frame Ichiro. The dashboard camera on one of the parked cars has a recording of that conversation. The license plate number of said car is PY \- 5644._
 
 **Kim**<br>
 ......!
 
 **[Nora]**<br>
-*May 6th, 10:08 P.M.<br>
-You met up with a Hou Sang Tong member in area 15 of the downtown area. The transaction was done with cash. The surveillance camera of a barbeque shop at the alley entrance caught you on tape. A total of 9.81 million in cash is still hidden in an abandoned basement located on Shin\-Shen street, Quadrant III.*
+_May 6th, 10:08 P.M.<br>
+You met up with a Hou Sang Tong member in area 15 of the downtown area. The transaction was done with cash. The surveillance camera of a barbeque shop at the alley entrance caught you on tape. A total of 9.81 million in cash is still hidden in an abandoned basement located on Shin\-Shen street, Quadrant III._
 
 **Phoenix**<br>
 ......
@@ -2133,7 +2133,7 @@ Nonsense...
 F\*\*\* ...... All of you, FREEZE!
 
 **[Nora]**<br>
-*Ahh!*
+_Ahh!_
 
 **Phoenix**<br>
 Let her go!
@@ -2153,7 +2153,7 @@ HEY! What if you accidentally hit Nora!?
 I don't care.
 
 **[Nora]**<br>
-*Cough cough!... I'm fine.*
+_Cough cough!... I'm fine._
 
 **Lam**<br>
 Kim! Surrender yourself. You messed with Mogura's business; losing a hand is going to be the least of your worries today!
@@ -2169,9 +2169,9 @@ Is that... The Ender!? Where did he...
 *\[System Warning\]*
 
 **[Lab System]**<br>
-*Warning: High virus concentration level detected. Danger level: A<br>
+_Warning: High virus concentration level detected. Danger level: A<br>
 All gates set to lock down.<br>
-All personnel, please remain at your spot and protect yourself with the prevention equipment. *
+All personnel, please remain at your spot and protect yourself with the prevention equipment. _
 
 **Phoenix**<br>
 Don't let him get away!
@@ -2181,28 +2181,28 @@ Put on the mask first!<br>
 ......<br>
 So he got away... Good on him.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Phoenix**<br>
 Nora! Cough cough... Are you alright?
 
 **[Nora]**<br>
-*Yes...*
+_Yes..._
 
 **Phoenix**<br>
 Ah, right. The virus doesn't affect you... Thank goodness. About your accusations of Kim back there, how did you know those things?
 
 **[Nora]**<br>
-*My dreams at night... I followed your words and tried very hard to remember my dreams. I discovered that those are not dreams. They are all events recorded by machines. They actually happened...*
+_My dreams at night... I followed your words and tried very hard to remember my dreams. I discovered that those are not dreams. They are all events recorded by machines. They actually happened..._
 
 **Phoenix**<br>
 ......!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos020"/>[#020] Cam\_Robo\_697\_04\_06\_4
+## <a id="noos020"/>\[#020\] Cam\_Robo\_697\_04\_06\_4
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2210,102 +2210,102 @@ Ah, right. The virus doesn't affect you... Thank goodness. About your accusation
 
 ### Log Content
 **[ROBO_Head]**<br>
-*Update database: Nora has ability to read digital information through brain.<br>
-Source: Unknown.*
+_Update database: Nora has ability to read digital information through brain.<br>
+Source: Unknown._
 
 **[Nora]**<br>
-*Yes... I don't know where those images come from as well. After that incident, I gained the ability to see those images even when I'm not sleeping. As long as I focus my mind, I can see them.<br>
-Phoenix said, that this ability is also a gift from god.*
+_Yes... I don't know where those images come from as well. After that incident, I gained the ability to see those images even when I'm not sleeping. As long as I focus my mind, I can see them.<br>
+Phoenix said, that this ability is also a gift from god._
 
 **[ROBO_Head]**<br>
-*Update database: Phoenix, has religious beliefs.*
+_Update database: Phoenix, has religious beliefs._
 
 **[Nora]**<br>
-*No. He only believes in one god, the god by the name of "Knowledge".*
+_No. He only believes in one god, the god by the name of "Knowledge"._
 
 **[ROBO_Head]**<br>
-*Not found, in database,  god with name "Knowledge" across all existing religions<br>
-Update database...*
+_Not found, in database,  god with name "Knowledge" across all existing religions<br>
+Update database..._
 
 **[Nora]**<br>
-*Umm, that's not what I meant... He believes that when humans obtain knowledge, we'll be able to understand Him, stand next to Him, walk the world with Him. We can even become gods ourselves.*
+_Umm, that's not what I meant... He believes that when humans obtain knowledge, we'll be able to understand Him, stand next to Him, walk the world with Him. We can even become gods ourselves._
 
 **[ROBO_Head]**<br>
-*This unit, don't understand.*
+_This unit, don't understand._
 
 **[Nora]**<br>
-*It's fine... All in all, besides studying the virus, Phoenix also started studying this ability of mine.<br>
-However, Mogura also requested me to start doing business for them.*
+_It's fine... All in all, besides studying the virus, Phoenix also started studying this ability of mine.<br>
+However, Mogura also requested me to start doing business for them._
 
 **[ROBO_Head]**<br>
-*This unit, want to know, what kind of business.*
+_This unit, want to know, what kind of business._
 
 **[Nora]**<br>
-*... Fortune telling.<br>
-ROBO, do you know what this means?*
+_... Fortune telling.<br>
+ROBO, do you know what this means?_
 
 *\[Loading sounds\]*
 
 **[ROBO_Head]**<br>
-*Fortune telling, use of supernatural methods, to predict future, seek the truth.*
+_Fortune telling, use of supernatural methods, to predict future, seek the truth._
 
 **[Nora]**<br>
-*Exactly. "The Eye of Horus", otherwise known as the All\-knowing eye. This ability started to spread across Node 03 under this very name. It even spread to other places. Even though I can't see the future, as long as it's information recorded by either a surveillance camera or some other equipment, I am able to read it.<br>
-They pay large sums of money to Mogura, and Mogura will grant them a meeting with me. I will then help them obtain the information they need... This is a very useful service to people in this world.*
+_Exactly. "The Eye of Horus", otherwise known as the All\-knowing eye. This ability started to spread across Node 03 under this very name. It even spread to other places. Even though I can't see the future, as long as it's information recorded by either a surveillance camera or some other equipment, I am able to read it.<br>
+They pay large sums of money to Mogura, and Mogura will grant them a meeting with me. I will then help them obtain the information they need... This is a very useful service to people in this world._
 
 **[ROBO_Head]**<br>
-*Phoenix, agreed with this?*
+_Phoenix, agreed with this?_
 
 **[Nora]**<br>
-*I don't know... but he doesn't get the final saying in this situation anyway. Mogura gave him immense pressure. We must create profits for them for us to not face the fate of being discarded. We have no choice but to obey their demands.*
+_I don't know... but he doesn't get the final saying in this situation anyway. Mogura gave him immense pressure. We must create profits for them for us to not face the fate of being discarded. We have no choice but to obey their demands._
 
 *\[Probe sound\]*
 
 **[ROBO_Head]**<br>
-*Nora, this unit detected, your breathing slowed down, heart rate changed, oxygen consumption increased, cause decreased energy conversion efficiency.*
+_Nora, this unit detected, your breathing slowed down, heart rate changed, oxygen consumption increased, cause decreased energy conversion efficiency._
 
 **[Nora]**<br>
-*......*
+_......_
 
 ![noos2001.png](./attachments/noos2001.png)
 
 **[ROBO_Head]**<br>
-*This unit, decision, Nora experienced change in emotion. Mostly possible option, sadness, possibility 93.725%<br>
-Suggest Nora, take notice.*
+_This unit, decision, Nora experienced change in emotion. Mostly possible option, sadness, possibility 93.725%<br>
+Suggest Nora, take notice._
 
 **[Nora]**<br>
-*...... Thank you.<br>
-However, this is nothing special. In fact, after every fortune telling session, I always feel like this.*
+_...... Thank you.<br>
+However, this is nothing special. In fact, after every fortune telling session, I always feel like this._
 
 **[ROBO_Head]**<br>
-*Record: Fortune telling, negative influence to Nora's body.<br>
-Nora, during fortune telling, what, do you see?*
+_Record: Fortune telling, negative influence to Nora's body.<br>
+Nora, during fortune telling, what, do you see?_
 
 **[Nora]**<br>
-*... Phoenix told me, that what I see is the real side of humans, the truth of this world. I have to accept them.*
+_... Phoenix told me, that what I see is the real side of humans, the truth of this world. I have to accept them._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[Nora]**<br>
-*ROBO...?*
+_ROBO...?_
 
 **[ROBO_Head]**<br>
-*Nora feeling down.<br>
-This unit, decision, negative influence from images witnessed.*
+_Nora feeling down.<br>
+This unit, decision, negative influence from images witnessed._
 
 **[Nora]**<br>
-*... You're right on point, ROBO.<br>
-I think, what I saw...*
+_... You're right on point, ROBO.<br>
+I think, what I saw..._
 
 **[Nora]**<br>
-*... is "Chaos".*
+_... is "Chaos"._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos021"/>[#021] Cam\_Butsudou\_697\_03\_02
+## <a id="noos021"/>\[#021\] Cam\_Butsudou\_697\_03\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2347,7 +2347,7 @@ You can look at it that way... All\-knowing eye, I shall be in your care.
 **Nora**<br>
 ...... (Nods)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Prints document\]*
 
@@ -2395,7 +2395,7 @@ Yes. A few days ago, there was an unauthorized copy of the files. However, due t
 **Nora**<br>
 ...... (Nods)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Nora**<br>
 ...... (Hands out document)
@@ -2417,7 +2417,7 @@ Nothing serious. Just some... family business. Rest assured, it's business that 
 My time should be almost up, right? Thank you very much for your help.
 
 **[Nora]**<br>
-*......*
+_......_
 
 **Diego**<br>
 In the future, Baro's going to require your help. We have our roots here. We will definitely carry on Mogura's soul in Node 08 and create even greater benefits.
@@ -2428,13 +2428,13 @@ Certainly. I have great expectations for you. Don't let me down.
 *\[Door Opens\]*
 
 **Nora**<br>
-... *\*Sobs\**...
+... _\*Sobs\*_...
 
 **Phoenix**<br>
 Nora? Why are you crying?
 
 **[Nora]**<br>
-*Out of curiosity, I took another look with my ability... That Liang, just now, he's already...*
+_Out of curiosity, I took another look with my ability... That Liang, just now, he's already..._
 
 **Phoenix**<br>
 ... Already dead, right?
@@ -2443,26 +2443,26 @@ Nora? Why are you crying?
 ... It appears that this Diego guy already has several people he's suspecting under watch. He orders the execution of the target the moment he knows the truth.
 
 **[Nora]**<br>
-*... Why?*
+_... Why?_
 
 **Phoenix**<br>
 Probably to use Liang's treason as a way to frame Baro's boss and seize this opportunity to take over the entire gang.
 
 **[Nora]**<br>
-*It's all my fault...\*Sobs\*...*
+_It's all my fault...\*Sobs\*..._
 
 **Phoenix**<br>
 ... You shouldn't think like that. Even without you, these people are going to die someday. As long as we're mortal, we cannot escape death. Whether we're good or evil, our end will always be the same.<br>
 Nora, get some rest. Don't look at the aftermaths of your fortune telling. Also, in times where you are not in this booth, don't use your ability.
 
 **[Nora]**<br>
-*... Got it...*
+_... Got it..._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos022"/>[#022] Audio\_Butsudou\_697\_03\_14
+## <a id="noos022"/>\[#022\] Audio\_Butsudou\_697\_03\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2513,7 +2513,7 @@ Ha, if I'm not satisfied I'll add more money naturally. Now, stop the nonsense a
 **Phoenix**<br>
 ... Nora, you can start.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Zhang**<br>
 Ehehehe, this one's top quality. That innocent look and that thicc a\*\*, hoho... Ooh, and her feisty little sister looks pretty tasty too...<br>
@@ -2554,7 +2554,7 @@ You motherf\*\*\*\*\*...
 Argh!
 
 **[Nora]**<br>
-*……Phoenix……！*
+_……Phoenix……！_
 
 **Zhang**<br>
 You hear that? The next shot will be through the head of that brat.
@@ -2592,7 +2592,7 @@ No problem! No problem!
 **Lam**<br>
 Then please, leave.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Phoenix**<br>
 Nora, can you stand?
@@ -2604,7 +2604,7 @@ Nora, can you stand?
 Here, I'll carry you. We'll return to the silent chamber.
 
 **[Nora]**<br>
-*... Phoenix... your leg...*
+_... Phoenix... your leg..._
 
 **Phoenix**<br>
 This is a minor injury. No big deal.
@@ -2625,11 +2625,11 @@ You guys don't give a damn as long as you get the money, don't you? Stop making 
 **Lam**<br>
 ... The dragon's reverse scale is not something to toy with. This is my first and final warning. You better behave yourself.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos023"/>[#023] Audio\_Robo\_697\_04\_06\_5
+## <a id="noos023"/>\[#023\] Audio\_Robo\_697\_04\_06\_5
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2637,71 +2637,71 @@ You guys don't give a damn as long as you get the money, don't you? Stop making 
 
 ### Log Content
 **[Nora]**<br>
-*Even though after that incident where Phoenix got injured, Mogura sent us a lot of their bodyguards, I still wanted to be protected by someone I can trust.*
+_Even though after that incident where Phoenix got injured, Mogura sent us a lot of their bodyguards, I still wanted to be protected by someone I can trust._
 
 **[ROBO_Head]**<br>
-*Therefore, this unit, was created. Understood.*
+_Therefore, this unit, was created. Understood._
 
 **[Nora]**<br>
-*Yes... I don't want Phoenix to be injured again...<br>
-ROBO, you may not realize this, but you're really strong. Your body was painstakingly crafted by me. In an emergency, it will definitely come in handy.*
+_Yes... I don't want Phoenix to be injured again...<br>
+ROBO, you may not realize this, but you're really strong. Your body was painstakingly crafted by me. In an emergency, it will definitely come in handy._
 
 **[ROBO_Head]**<br>
-*Fortune telling, massive decrease in Nora and Phoenix's safety parameters. This unit, suggestion, stop participating, in said event.*
+_Fortune telling, massive decrease in Nora and Phoenix's safety parameters. This unit, suggestion, stop participating, in said event._
 
 **[Nora]**<br>
-*We can't.<br>
-The contract does not allow us to do this.*
+_We can't.<br>
+The contract does not allow us to do this._
 
 **[ROBO_Head]**<br>
-*Decision: This contract, conditions, unfair.<br>
-Suggestion: Renegotiation*
+_Decision: This contract, conditions, unfair.<br>
+Suggestion: Renegotiation_
 
 **[Nora]**<br>
-*... Looks like there's still a lot for you to learn, ROBO.*
+_... Looks like there's still a lot for you to learn, ROBO._
 
 **[ROBO_Head]**<br>
-*This unit, don't understand.*
+_This unit, don't understand._
 
 **[Nora]**<br>
-*ROBO, I want you to have the ability to distinguish between right and wrong. That's why I spent so much time on setting your moral values, which I did so by recalibrating the data on "Unit 01". I hope that when you make decisions, you can make a reasonable and fair judgment. However, most things in this world are neither reasonable nor fair...*
+_ROBO, I want you to have the ability to distinguish between right and wrong. That's why I spent so much time on setting your moral values, which I did so by recalibrating the data on "Unit 01". I hope that when you make decisions, you can make a reasonable and fair judgment. However, most things in this world are neither reasonable nor fair..._
 
 **[ROBO_Head]**<br>
-*If so, should base on statistical average, to produce accurate decision results.<br>
-This unit, suggestion: recalibrating the parameters.*
+_If so, should base on statistical average, to produce accurate decision results.<br>
+This unit, suggestion: recalibrating the parameters._
 
 **[Nora]**<br>
-*No. I want to know what kind of decision you will make in this cruel environment. Therefore, it is crucial that you have a kind and considerate heart.*
+_No. I want to know what kind of decision you will make in this cruel environment. Therefore, it is crucial that you have a kind and considerate heart._
 
 **[ROBO_Head]**<br>
-*This unit, doesn't have the organ "Heart".*
+_This unit, doesn't have the organ "Heart"._
 
 **[Nora]**<br>
-*Haha... That was just a metaphor. ROBO, you're so funny!*
+_Haha... That was just a metaphor. ROBO, you're so funny!_
 
 **[ROBO_Head]**<br>
-*Nora, feeling happy. Update humor logistics.*
+_Nora, feeling happy. Update humor logistics._
 
 **[Nora]**<br>
-*I feel so relaxed when I'm talking to you... I haven't felt like this in a very long time...<br>
-When was the last time I laughed out loud? Ever since I learned that I was an item that could be discarded at any moment...*
+_I feel so relaxed when I'm talking to you... I haven't felt like this in a very long time...<br>
+When was the last time I laughed out loud? Ever since I learned that I was an item that could be discarded at any moment..._
 
 **[ROBO_Head]**<br>
-*Nora, human, not item. Different from, this unit.*
+_Nora, human, not item. Different from, this unit._
 
 **[Nora]**<br>
-*Thank you, but don't worry. I will not discard you.<br>
+_Thank you, but don't worry. I will not discard you.<br>
 From now on, I shall be in your care, <br>
-ROBO\_Head \- Unit 02.*
+ROBO\_Head \- Unit 02._
 
 **[ROBO_Head]**<br>
-*Understood. This unit, be in your care as well.*
+_Understood. This unit, be in your care as well._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos024"/>[#024] Audio\_Butsudou\_698\_04\_13
+## <a id="noos024"/>\[#024\] Audio\_Butsudou\_698\_04\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2736,11 +2736,11 @@ Hoho, right now, I am Hou Sang Tong's leading researcher. You guys can't touch m
 Got a couple more bodyguards, it seems? And what's that big tin can doing here? Are you guys THAT afraid of getting killed? Hehehe...
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Greetings, Mr. Huang, Mr. Kim. This unit is ROBO\_Head\- Unit 02.<br>
-Please ask your question. This unit is responsible for organizing Nora's fortune telling results and presenting them to you.*
+_Greetings, Mr. Huang, Mr. Kim. This unit is ROBO\_Head\- Unit 02.<br>
+Please ask your question. This unit is responsible for organizing Nora's fortune telling results and presenting them to you._
 
 **Kim**<br>
 Hmph, so it even has an audio system... You're really using this pile of scrap metal as a bodyguard? Phoenix, is your brain alright? Did you get lead poisoning or some random crap?
@@ -2769,9 +2769,9 @@ Phoenix, follow the contract. Or are you worried that once this bastard gets you
 ......
 
 **[Nora]**<br>
-*... Understood... I'll take a look now.*
+_... Understood... I'll take a look now._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Huang**<br>
 Is that all? Plenty of results, but only a few of them are actually useful.<br>
@@ -2800,7 +2800,7 @@ B\-U\-T, under "The Eye of Horus", these files should all be accessible to her.
 You have no idea? Then I wonder if Nora has any idea? You should be able to see them, right? Then why don't you show us?
 
 **[Nora]**<br>
-*...... I......*
+_...... I......_
 
 **Phoenix**<br>
 ......
@@ -2813,10 +2813,10 @@ Hey, don't let me say if for the third time. Follow the "contract"...
 *\[Prints document\]*
 
 **[ROBO_Head]**<br>
-*Fortune telling report, organize complete.*
+_Fortune telling report, organize complete._
 
 **[Nora]**<br>
-*... Eh!?*
+_... Eh!?_
 
 **Phoenix**<br>
 ......!
@@ -2831,7 +2831,7 @@ Now this is more like it. Kim, take a look.
 ... This does indeed look like Phoenix's handiwork. Hahaha! I see. I see! With this, it will be much easier for me to make that... hehe!
 
 **[ROBO_Head]**<br>
-*Time is up. Thank you for using the service of the All\-knowing eye. The exit is at the rear right.*
+_Time is up. Thank you for using the service of the All\-knowing eye. The exit is at the rear right._
 
 **Kim**<br>
 Muhahahah! Phoenix! Prepare to meet your end! The secret of The Ender is now mine!
@@ -2845,16 +2845,16 @@ Looks like "The Eye of Horus" is indeed trustworthy. I will come back next time.
 *\[Door Opens\]*
 
 **[Nora]**<br>
-*ROBO……*
+_ROBO……_
 
 **Phoenix**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos025"/>[#025] Cam\_Nora\_698\_04\_13
+## <a id="noos025"/>\[#025\] Cam\_Nora\_698\_04\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2862,87 +2862,87 @@ Looks like "The Eye of Horus" is indeed trustworthy. I will come back next time.
 
 ### Log Content
 **[Nora]**<br>
-*ROBO, why did you lie? You even made a fake report.*
+_ROBO, why did you lie? You even made a fake report._
 
 **[ROBO_Head]**<br>
-*This unit, decision, Nora and Phoenix's life threatened.*
+_This unit, decision, Nora and Phoenix's life threatened._
 
 **[Nora]**<br>
-*... Weird. I don't remember inputting this kind of logistics in your settings. Don't move, I'll perform a basic troubleshoot for you.*
+_... Weird. I don't remember inputting this kind of logistics in your settings. Don't move, I'll perform a basic troubleshoot for you._
 
 *\[Removing parts\]*
 
 **[ROBO_Head]**<br>
-*Nora, this unit, wants to ask question.*
+_Nora, this unit, wants to ask question._
 
 **[Nora]**<br>
-*ROBO really likes to ask questions... What do you want to ask?*
+_ROBO really likes to ask questions... What do you want to ask?_
 
 **[ROBO_Head]**<br>
-*Data shows: Lying is an action that's against moral principles. Not a positive thing. In serious cases, lying will result in a criminal trial.<br>
+_Data shows: Lying is an action that's against moral principles. Not a positive thing. In serious cases, lying will result in a criminal trial.<br>
 Conflict with Nora's previously mentioned moral values. <br>
-Please explain, reason.*
+Please explain, reason._
 
 **[Nora]**<br>
-*I'm not sure myself either... However, if you didn't produce that fake report, the situation would've become more dangerous for us, without a doubt.<br>
-In reality, you saved us. Thank you, ROBO.*
+_I'm not sure myself either... However, if you didn't produce that fake report, the situation would've become more dangerous for us, without a doubt.<br>
+In reality, you saved us. Thank you, ROBO._
 
 **[Nora]**<br>
-*... Right, if we can categorize this incident as a method of "protection", we can then explain your motives...*
+_... Right, if we can categorize this incident as a method of "protection", we can then explain your motives..._
 
 **[ROBO_Head]**<br>
-*This unit, don't have such cognitive preconditions.<br>
+_This unit, don't have such cognitive preconditions.<br>
 Loading Local.log...... 100%<br>
-Record shows, at moment, all core systems operating normally.*
+Record shows, at moment, all core systems operating normally._
 
 **[Nora]**<br>
-*Is that so... Then the only explanation is that you did so because of your instincts.<br>
-But, artificial intelligence shouldn't have any ambiguity in their thought process. How were you able to create "instincts"...*
+_Is that so... Then the only explanation is that you did so because of your instincts.<br>
+But, artificial intelligence shouldn't have any ambiguity in their thought process. How were you able to create "instincts"..._
 
 *\[Types on keyboard\]*
 
 **[ROBO_Head]**<br>
-*... Nora.*
+_... Nora._
 
 **[Nora]**<br>
-*What's the matter?*
+_What's the matter?_
 
 **[ROBO_Head]**<br>
-*This unit, lied to humans. Executed actions that don't conform to system settings.<br>
+_This unit, lied to humans. Executed actions that don't conform to system settings.<br>
 Decision: This unit, has malfunction that can't be fixed through self\-diagnostics.<br>
-Is this unit, defective product, that should be discarded?*
+Is this unit, defective product, that should be discarded?_
 
 **[Nora]**<br>
-*Of course not... Besides, lying is not that bad. Take Ichiro for example. He often makes mistakes and he lies to Phoenix too... Despite all that, he is still very kind to me. He is a good person.<br>
-Ah, don't tell that to Phoenix though. If you do, Ichiro's gonna get punished.*
+_Of course not... Besides, lying is not that bad. Take Ichiro for example. He often makes mistakes and he lies to Phoenix too... Despite all that, he is still very kind to me. He is a good person.<br>
+Ah, don't tell that to Phoenix though. If you do, Ichiro's gonna get punished._
 
 **[ROBO_Head]**<br>
-*Not telling Phoenix, does that count as lying?*
+_Not telling Phoenix, does that count as lying?_
 
 **[Nora]**<br>
-*It doesn't. You just preferred not to say. It will be fine.*
+_It doesn't. You just preferred not to say. It will be fine._
 
 **[ROBO_Head]**<br>
-*This unit, understand.<br>
-Therefore, this unit, not defective product that should be discarded.*
+_This unit, understand.<br>
+Therefore, this unit, not defective product that should be discarded._
 
 **[Nora]**<br>
-*I said before that I will not discard you, right? It's a promise I made.*
+_I said before that I will not discard you, right? It's a promise I made._
 
 **[ROBO_Head]**<br>
-*But, Nora don't know as well, why this unit, told a lie.*
+_But, Nora don't know as well, why this unit, told a lie._
 
 **[Nora]**<br>
-*That's true... I still have no idea.*
+_That's true... I still have no idea._
 
 **[ROBO_Head]**<br>
-*Then, this unit would like Nora to tell me one thing.*
+_Then, this unit would like Nora to tell me one thing._
 
 **[Nora]**<br>
-*What?*
+_What?_
 
 **[ROBO_Head]**<br>
-*This unit, what am I?*
+_This unit, what am I?_
 
 **Nora**<br>
 ......
@@ -2950,30 +2950,30 @@ Therefore, this unit, not defective product that should be discarded.*
 ![noos2501.png](./attachments/noos2501.png)
 
 **[Nora]**<br>
-*... Maybe we should shut you down first. It's necessary that we do a complete diagnosis of your core system. <br>
-Activate shutdown command. Enter voiceprint password: \[NORA\].*
+_... Maybe we should shut you down first. It's necessary that we do a complete diagnosis of your core system. <br>
+Activate shutdown command. Enter voiceprint password: \[NORA\]._
 
 **[ROBO_Head]**<br>
-*... Creator voiceprint command, verification success.<br>
-Nora, goodbye.*
+_... Creator voiceprint command, verification success.<br>
+Nora, goodbye._
 
 *\[ROBO_Head Shutdown\]*
 
 **[Nora]**<br>
-*Having self\-consciousness will lead to conflict and clashes with self\-awareness. Did the system, after self\-learning... achieved personal growth? If I just leave him alone, it could lead to even more problems.<br>
-Maybe we can solve this issue by resetting the system... But if I do that, ROBO's memory...*
+_Having self\-consciousness will lead to conflict and clashes with self\-awareness. Did the system, after self\-learning... achieved personal growth? If I just leave him alone, it could lead to even more problems.<br>
+Maybe we can solve this issue by resetting the system... But if I do that, ROBO's memory..._
 
 **Nora**<br>
 ......
 
 **[Nora]**<br>
-*... No, the way he is now should be just fine.*
+_... No, the way he is now should be just fine._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos026"/>[#026] Cam\_Nora\_698\_04\_28
+## <a id="noos026"/>\[#026\] Cam\_Nora\_698\_04\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2986,141 +2986,141 @@ Maybe we can solve this issue by resetting the system... But if I do that, ROBO'
 Nora, how are you feeling now? Better?
 
 **[Nora]**<br>
-*Much better.*
+_Much better._
 
 **[ROBO_Head]**<br>
-*After physical and medical treatment, immune system functioning normally. <br>
-Temperature lowered to 36.824 degrees. Recovery process: going well.*
+_After physical and medical treatment, immune system functioning normally. <br>
+Temperature lowered to 36.824 degrees. Recovery process: going well._
 
 **Phoenix**<br>
 Good to hear that. Nora's not afraid of The Ender, yet she fell prey to a small flu virus. You have no idea how much panic the team was in when that news broke out.
 
 **[Nora]**<br>
-*... I'm sorry...*
+_... I'm sorry..._
 
 **Phoenix**<br>
 No need to apologize. Just so happens that there are no fortune telling requests this week. If any comes in, I'll try my best to push it back for you. Take your time and rest well.
 
 **[Nora]**<br>
-*Got it. Thank you.*
+_Got it. Thank you._
 
 **Phoenix**<br>
 I'll not disturb you anymore.<br>
 ROBO, take good care of her.
 
 **[ROBO_Head]**<br>
-*Message accepted, Phoenix.*
+_Message accepted, Phoenix._
 
 *\[Door Opens\]*
 
 ![noos2601.png](./attachments/noos2601.png)
 
 **[Nora]**<br>
-*Phoenix worries way too much... This is just a small cold. Nothing serious.<br>
-ROBO, you don't have to watch over me all the time too. It's pretty boring, right?*
+_Phoenix worries way too much... This is just a small cold. Nothing serious.<br>
+ROBO, you don't have to watch over me all the time too. It's pretty boring, right?_
 
 **[ROBO_Head]**<br>
-*This unit, don't understand, definition of "boring".<br>
-Decision: This unit, not equipped, with logistics of said human emotion.*
+_This unit, don't understand, definition of "boring".<br>
+Decision: This unit, not equipped, with logistics of said human emotion._
 
 **[Nora]**<br>
-*You do though. Sometimes, when you're not doing anything, your screen will display some random icons or your body will perform some meaningless actions. That's what we call "bored".<br>
-You can go to the workshop to compose your music. I'll be just fine on my own.*
+_You do though. Sometimes, when you're not doing anything, your screen will display some random icons or your body will perform some meaningless actions. That's what we call "bored".<br>
+You can go to the workshop to compose your music. I'll be just fine on my own._
 
 **[ROBO_Head]**<br>
-*This unit, judgment, Nora, not yet fully recovered. May need assistance from this unit any time.<br>
-In addition...*
+_This unit, judgment, Nora, not yet fully recovered. May need assistance from this unit any time.<br>
+In addition..._
 
 **[Nora]**<br>
-*Hmm?*
+_Hmm?_
 
 **[ROBO_Head]**<br>
-*Data shows: when having a conversation partner, human body will recover faster.<br>
-According to a document from 684 N.A., researcher compared a sample size of 500 patients infected with the cold to normal cold patients. These 500 patients all have a conversation partner. He observed a 28% decrease in recovery time. Difference is significant.*
+_Data shows: when having a conversation partner, human body will recover faster.<br>
+According to a document from 684 N.A., researcher compared a sample size of 500 patients infected with the cold to normal cold patients. These 500 patients all have a conversation partner. He observed a 28% decrease in recovery time. Difference is significant._
 
 **[Nora]**<br>
-*You're talking about the paper written by Jones Walker, right? Although his speculation did indeed correlate with the experiment results, it felt way too forced. He was not able to come up with a scientific theory to back his explanation.<br>
-If Phoenix is here, he'll definitely say that what he's doing is essentially praying. The researcher is praying desperately that the truth is exactly as he has hoped.*
+_You're talking about the paper written by Jones Walker, right? Although his speculation did indeed correlate with the experiment results, it felt way too forced. He was not able to come up with a scientific theory to back his explanation.<br>
+If Phoenix is here, he'll definitely say that what he's doing is essentially praying. The researcher is praying desperately that the truth is exactly as he has hoped._
 
 **[ROBO_Head]**<br>
-*Phoenix's point of view, this unit agrees.<br>
+_Phoenix's point of view, this unit agrees.<br>
 Nora, this unit's creator and target of protection. This unit, want to accelerate Nora's recovery.<br>
-Decision: Stay by Nora's side until she fully recovers.*
+Decision: Stay by Nora's side until she fully recovers._
 
 **Nora**<br>
 ......
 
 **[ROBO_Head]**<br>
-*... Is, this decision, weird?*
+_... Is, this decision, weird?_
 
 **[Nora]**<br>
-*Yep, it is weird.<br>
-Nevertheless, I feel like the way ROBO is right now is just fine.*
+_Yep, it is weird.<br>
+Nevertheless, I feel like the way ROBO is right now is just fine._
 
 **[ROBO_Head]**<br>
-*This unit, will follow Nora's instructions.<br>
+_This unit, will follow Nora's instructions.<br>
 After Nora recovered, this unit, suggest Nora pay more notice to her health conditions. Excluding the flu factor, overall health parameters, 7% decrease compared to last week. <br>
-Downward trend quite obvious.*
+Downward trend quite obvious._
 
 **[Nora]**<br>
-*... Thank you for the consideration, ROBO. I will do just that.<br>
-If you don't mind, can you do me a favor?*
+_... Thank you for the consideration, ROBO. I will do just that.<br>
+If you don't mind, can you do me a favor?_
 
 **[ROBO_Head]**<br>
-*Of course.*
+_Of course._
 
 **[Nora]**<br>
-*I want to listen to some music. Can you play it for me?*
+_I want to listen to some music. Can you play it for me?_
 
 **[ROBO_Head]**<br>
-*Command accepted. Commence operation.<br>
-This unit, searching music that helps body recuperate, 7,902,005 results found...*
+_Command accepted. Commence operation.<br>
+This unit, searching music that helps body recuperate, 7,902,005 results found..._
 
 **[Nora]**<br>
-*You don't have to search.<br>
-Can you play《Jakarta PROGRESSION》for me?*
+_You don't have to search.<br>
+Can you play《Jakarta PROGRESSION》for me?_
 
 **[ROBO_Head]**<br>
-*This unit, does not recommend.《Jakarta PROGRESSION》vibrant style, complicated rhythms. Not suitable for patient to recuperate.*
+_This unit, does not recommend.《Jakarta PROGRESSION》vibrant style, complicated rhythms. Not suitable for patient to recuperate._
 
 **[Nora]**<br>
-*It's fine. I like that song, and I want to listen to it now.*
+_It's fine. I like that song, and I want to listen to it now._
 
 **[ROBO_Head]**<br>
-*Got it. Will follow Nora's instruction.*
+_Got it. Will follow Nora's instruction._
 
 *\[Music\]*
 
 **[ROBO_Head]**<br>
-*Thank you to Nora for liking this unit's first musical composition.*
+_Thank you to Nora for liking this unit's first musical composition._
 
 **[Nora]**<br>
-*You're welcome. I also have to thank ROBO for creating such wonderful music.*
+_You're welcome. I also have to thank ROBO for creating such wonderful music._
 
 *\[ROBO_Head shaking his head\]*
 
 **[Nora]**<br>
-*Woah! ROBO, what are you doing?*
+_Woah! ROBO, what are you doing?_
 
 **[ROBO_Head]**<br>
-*Self\-diagnostics...... 100%<br>
+_Self\-diagnostics...... 100%<br>
 ... This unit currently in irregular state, analysis, unavailable. Signal velocity and energy conversion efficiency, operating stably at 125% of usual capacity.<br>
-Nora, please explain, this condition.*
+Nora, please explain, this condition._
 
 **[Nora]**<br>
-*Haha, I can understand that feeling. It's probably...*
+_Haha, I can understand that feeling. It's probably..._
 
 **Nora**<br>
 ......
 
 **[Nora]**<br>
-*... "Happiness", I believe.*
+_... "Happiness", I believe._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos027"/>[#027] Cam\_Butsudou\_698\_05\_28
+## <a id="noos027"/>\[#027\] Cam\_Butsudou\_698\_05\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3133,8 +3133,8 @@ Nora, please explain, this condition.*
 Go in.
 
 **[ROBO_Head]**<br>
-*Mr. Kusu Hayato. Greetings.<br>
-You have, one minute.*
+_Mr. Kusu Hayato. Greetings.<br>
+You have, one minute._
 
 **Lam**<br>
 This is the first time I see someone buying just one minute.
@@ -3144,75 +3144,75 @@ This is all I can afford...<br>
 So the fortune telling is done using this robot...?
 
 **[ROBO_Head]**<br>
-*This unit, a proxy agent. This one here, the one you are going to talk to.*
+_This unit, a proxy agent. This one here, the one you are going to talk to._
 
 **Hayato**<br>
 ... So this little girl... is "The Eye of Horus"?
 
 **[Nora]**<br>
-*......*
+_......_
 
 **[ROBO_Head]**<br>
-*Timer start. Please ask your question.*
+_Timer start. Please ask your question._
 
 **Hayato**<br>
 I... A very important friend of mine went missing. I want to know where she is. No matter the result, please tell me! Her name is "Kaori Minamiya". This is her photo... The last time I saw her was four years ago on the night of April 25th. We were performing on Wolong Street...
 
 **[ROBO_Head]**<br>
-*Message received.*
+_Message received._
 
 **[Nora]**<br>
-*......*
+_......_
 
 **Hayato**<br>
 ......
 
 **[Nora]**<br>
-*...... Ugh... She's... not here...*
+_...... Ugh... She's... not here..._
 
 **Hayato**<br>
 ......
 
 **[Nora]**<br>
-*......!?*
+_......!?_
 
 **Hayato**<br>
 Hey!? Are you alright!? Your nose is bleeding!
 
 **[ROBO_Head]**<br>
-*Time is up. Thank you for using the service of the All\-knowing eye. The exit is at the rear right.*
+_Time is up. Thank you for using the service of the All\-knowing eye. The exit is at the rear right._
 
 **Hayato**<br>
 Eh...? I haven't gotten anything...
 
 **[Nora]**<br>
-*Huff... Puff...*
+_Huff... Puff..._
 
 **Lam**<br>
 Alright. This is your one minute.
 
 **[Nora]**<br>
-*W... wait a second. I'm willing... to see a bit more for this young man.*
+_W... wait a second. I'm willing... to see a bit more for this young man._
 
 **[ROBO_Head]**<br>
-*Reminder: Customer funds insufficient.*
+_Reminder: Customer funds insufficient._
 
 **[Nora]**<br>
-*It's okay.*
+_It's okay._
 
 **[ROBO_Head]**<br>
-*Warning: Level of ability use reaching Nora's critical point.*
+_Warning: Level of ability use reaching Nora's critical point._
 
 **[Nora]**<br>
-*ROBO, it's okay...<br>
+_ROBO, it's okay...<br>
 This person... is different from the other people who came to get their fortune told.<br>
-I want to help him... Besides, just now...*
+I want to help him... Besides, just now..._
 
 **[ROBO_Head]**<br>
-*If Nora said so, this unit understand.*
+_If Nora said so, this unit understand._
 
 **[Nora]**<br>
-*Are you okay with it? Uncle Lam.*
+_Are you okay with it? Uncle Lam._
 
 **Lam**<br>
 ... Whatever you please.
@@ -3221,22 +3221,22 @@ I want to help him... Besides, just now...*
 Really!? Thank you so much...!
 
 **[Nora]**<br>
-*......*
+_......_
 
-*\[»»» Fast Forward 5 Minutes»»»\]*
+_\[»»» Fast Forward 5 Minutes»»»\]_
 
 **[Nora]**<br>
-*... Ugh... Argh...*
+_... Ugh... Argh..._
 
 **Hayato**<br>
 Hey! Forget about it! You look really pale!<br>
 I'm fine now! You can stop looking!
 
 **[ROBO_Head]**<br>
-*Warning: Level of ability use exceeding Nora's limit. Please stop immediately!*
+_Warning: Level of ability use exceeding Nora's limit. Please stop immediately!_
 
 **[Nora]**<br>
-*Just... a little more...*
+_Just... a little more..._
 
 *\[Things knocked down\]*
 
@@ -3256,42 +3256,42 @@ I'll check her out. You sit there and wait.<br>
 ... Is she alright?
 
 **[ROBO_Head]**<br>
-*Situation: Life\-threatening conditions, negative. Consciousness, clouded.*
+_Situation: Life\-threatening conditions, negative. Consciousness, clouded._
 
 **[Nora]**<br>
-*Umm... I'm fine.<br>
-Mr. Kusu...*
+_Umm... I'm fine.<br>
+Mr. Kusu..._
 
 **Hayato**<br>
 Ah, yes!
 
 **[Nora]**<br>
-*This person you're looking for... who is she...?*
+_This person you're looking for... who is she...?_
 
 **Hayato**<br>
 Eh? She's my childhood friend. We grew up together. She's a very normal girl...<br>
 Did you see anything? What are the results!?
 
 **[Nora]**<br>
-*Apologies... This fortune telling process is very different from anything I've experienced before... The things I saw were very limited. Nevertheless, I can tell you, that she's still alive at this moment.*
+_Apologies... This fortune telling process is very different from anything I've experienced before... The things I saw were very limited. Nevertheless, I can tell you, that she's still alive at this moment._
 
 **Hayato**<br>
 ... For real!? Thank goodness!
 
 **[Nora]**<br>
-*... Node 08. She is right there...*
+_... Node 08. She is right there..._
 
 **Hayato**<br>
 Node 08!?
 
 **[Nora]**<br>
-*Yes... This is the most... I was able to see...*
+_Yes... This is the most... I was able to see..._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos028"/>[#028] ?͜͠͝?͝҉̢͜͏?̶̀
+## <a id="noos028"/>\[#028\] ?͜͠͝?͝҉̢͜͏?̶̀
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3305,7 +3305,7 @@ Ummm... Ughv̶̫}͚̖̪\*̴̼̘̙͔v͖̦̫̞͍̻̗6͖͚̼̙́\-̢̰...
 Who... are you...?
 
 **？？？**<br>
-*\*Sobs\**...
+_\*Sobs\*_...
 
 **Nora**<br>
 I've never met another person here before. You...
@@ -3313,11 +3313,11 @@ I've never met another person here before. You...
 **？？？**<br>
 ......
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos029"/>[#029] Cam\_Nora\_698\_05\_29
+## <a id="noos029"/>\[#029\] Cam\_Nora\_698\_05\_29
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3325,156 +3325,156 @@ I've never met another person here before. You...
 
 ### Log Content
 **[Nora]**<br>
-*Umm...*
+_Umm..._
 
 **[ROBO_Head]**<br>
-*Observation: Nora has awakened. Proceed with follow\-up diagnosis.<br>
-Nora, question. How many fingers do you see?*
+_Observation: Nora has awakened. Proceed with follow\-up diagnosis.<br>
+Nora, question. How many fingers do you see?_
 
 **[Nora]**<br>
-*... Two. By the way, you're not even a medical robot. What the heck are you doing? Haha... I'm fine... Ugh!*
+_... Two. By the way, you're not even a medical robot. What the heck are you doing? Haha... I'm fine... Ugh!_
 
 **[ROBO_Head]**<br>
-*Consciousness normal. Intracranial pressure, still too high.<br>
+_Consciousness normal. Intracranial pressure, still too high.<br>
 Decision: rest required.<br>
-Nora, please close your eyes. This unit will activate the silent chamber isolation system...*
+Nora, please close your eyes. This unit will activate the silent chamber isolation system..._
 
 **[Nora]**<br>
-*Wait a minute...*
+_Wait a minute..._
 
 **[ROBO_Head]**<br>
-*Nora's physical condition, at critical point. Rest required...*
+_Nora's physical condition, at critical point. Rest required..._
 
 **[Nora]**<br>
-*It's okay... Please, ROBO...<br>
-Can you... talk with me for a bit?*
+_It's okay... Please, ROBO...<br>
+Can you... talk with me for a bit?_
 
 **[ROBO_Head]**<br>
-*... Instruction received, Nora.*
+_... Instruction received, Nora._
 
 *\[ROBO_Head sits down\]*
 
 **[Nora]**<br>
-*Back then... I fainted while using my ability, right?*
+_Back then... I fainted while using my ability, right?_
 
 **[ROBO_Head]**<br>
-*Affirmative.<br>
-Nora, lost consciousness back there. Similar symptoms as previous incidents. However, cranial nerves suffered extremely severe pressures. Exceeded past critical points. If not for Phoenix's emergency treatment, could be life\-threatening.*
+_Affirmative.<br>
+Nora, lost consciousness back there. Similar symptoms as previous incidents. However, cranial nerves suffered extremely severe pressures. Exceeded past critical points. If not for Phoenix's emergency treatment, could be life\-threatening._
 
 **[Nora]**<br>
-*No, this time... it's very different from anything I've experienced...*
+_No, this time... it's very different from anything I've experienced..._
 
 **[ROBO_Head]**<br>
-*Please describe in detail.*
+_Please describe in detail._
 
 **[Nora]**<br>
-*I... I haven't even told Phoenix about this either. Sometimes, when I'm using my ability, I'll see the following scenery... It's like I dived into a deep, deep ocean. It was really dark around me, with the exception of some bizarre lights flowing around. There's usually nothing in that space... but not this time. I saw...*
+_I... I haven't even told Phoenix about this either. Sometimes, when I'm using my ability, I'll see the following scenery... It's like I dived into a deep, deep ocean. It was really dark around me, with the exception of some bizarre lights flowing around. There's usually nothing in that space... but not this time. I saw..._
 
 **[ROBO_Head]**<br>
-*Nora saw, what?*
+_Nora saw, what?_
 
 **[Nora]**<br>
-*... A person... crying...*
+_... A person... crying..._
 
 **[ROBO_Head]**<br>
-*Nora's description, multiple logical fallacies detected. Possible explanation: dreams or hallucinations.<br>
-High intracranial pressure often leads to dizziness and cognitive disorder for humans. This unit, decision, Nora's condition, 99% match with this description.*
+_Nora's description, multiple logical fallacies detected. Possible explanation: dreams or hallucinations.<br>
+High intracranial pressure often leads to dizziness and cognitive disorder for humans. This unit, decision, Nora's condition, 99% match with this description._
 
 **[Nora]**<br>
-*I see...*
+_I see..._
 
 **[ROBO_Head]**<br>
-*This unit, strong suggestion: This unit, decision, Nora is no longer suitable to perform fortune telling. Should quit immediately.*
+_This unit, strong suggestion: This unit, decision, Nora is no longer suitable to perform fortune telling. Should quit immediately._
 
 **[Nora]**<br>
-*......<br>
-ROBO... Are you... angry?*
+_......<br>
+ROBO... Are you... angry?_
 
 **[ROBO_Head]**<br>
-*... Decision unavailable.*
+_... Decision unavailable._
 
 **[Nora]**<br>
-*You have emotions. I know that very well.*
+_You have emotions. I know that very well._
 
 **[ROBO_Head]**<br>
-*... Nora is fully aware of the dangers her conditions possess, yet still continues to use her ability beyond the critical point. This unit's main purpose is to protect Nora's life from potential dangers. Yet Nora constantly indulged in actions that go against said purpose.<br>
-This unit, can't understand.*
+_... Nora is fully aware of the dangers her conditions possess, yet still continues to use her ability beyond the critical point. This unit's main purpose is to protect Nora's life from potential dangers. Yet Nora constantly indulged in actions that go against said purpose.<br>
+This unit, can't understand._
 
 **Nora**<br>
 ......
 
 **[Nora]**<br>
-*ROBO, do you know where people will go after they died?*
+_ROBO, do you know where people will go after they died?_
 
 *\[Loading Sounds\]*
 
 **[ROBO_Head]**<br>
-*From scientific angle, after human dies, the body will be disintegrated into nutrients. Will then supply other creatures within the soil with resources to live.<br>
-This is, part of the cosmic energy cycle.*
+_From scientific angle, after human dies, the body will be disintegrated into nutrients. Will then supply other creatures within the soil with resources to live.<br>
+This is, part of the cosmic energy cycle._
 
 **[Nora]**<br>
-*You're referring to the physical body, but the physical body does not represent humans as a whole.*
+_You're referring to the physical body, but the physical body does not represent humans as a whole._
 
 **[ROBO_Head]**<br>
-*The other part Nora mentioned, according to data, speculate to be human consciousness. However, as of now, humans yet to discover storage unit for consciousness within human body. Preservation, difficult.*
+_The other part Nora mentioned, according to data, speculate to be human consciousness. However, as of now, humans yet to discover storage unit for consciousness within human body. Preservation, difficult._
 
 **[Nora]**<br>
-*Perhaps, but I have this feeling... That the answer... is not too far away from me.*
+_Perhaps, but I have this feeling... That the answer... is not too far away from me._
 
 **[ROBO_Head]**<br>
-*This unit, don't really understand, what Nora wants to express.*
+_This unit, don't really understand, what Nora wants to express._
 
 **[Nora]**<br>
-*I'm sorry... I don't really understand myself too...<br>
-Maybe I just want to tell you, that death... does not erase a person's trace from the world completely. People can "live" in other forms, not just physically.*
+_I'm sorry... I don't really understand myself too...<br>
+Maybe I just want to tell you, that death... does not erase a person's trace from the world completely. People can "live" in other forms, not just physically._
 
 **[Nora]**<br>
-*The spirit, the mind, the memories... All of them are proof of a person's existence...*
+_The spirit, the mind, the memories... All of them are proof of a person's existence..._
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 **[Nora]**<br>
-*Haha... What am I mumbling about? Bunch of nonsense... I must be really exhausted.*
+_Haha... What am I mumbling about? Bunch of nonsense... I must be really exhausted._
 
 **[ROBO_Head]**<br>
-*This unit, activate silent chamber for Nora...*
+_This unit, activate silent chamber for Nora..._
 
 **[Nora]**<br>
-*Sorry, but just a few more minutes...*
+_Sorry, but just a few more minutes..._
 
 **[ROBO_Head]**<br>
-*......!*
+_......!_
 
 **Nora**<br>
 ...... (Nods)
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 ![noos2901.png](./attachments/noos2901.png)
 
 **[Nora]**<br>
-*As I expected, you can understand what I meant, ROBO... I'm so glad that I have you by my side.*
+_As I expected, you can understand what I meant, ROBO... I'm so glad that I have you by my side._
 
 **[ROBO_Head]**<br>
-*... Nora, please enjoy your sleep.*
+_... Nora, please enjoy your sleep._
 
 *\[Silent chamber activated\]*
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
 *\[ROBO_Head emotion\]*
 
 **[ROBO_Head]**<br>
-*......*
+_......_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos030"/>[#030] Log\_Phoenix\_698\_06\_01
+## <a id="noos030"/>\[#030\] Log\_Phoenix\_698\_06\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3503,7 +3503,7 @@ Save date of log: 698\_0601\_2703
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos031"/>[#031] Cam\_Butsudou\_698\_06\_02
+## <a id="noos031"/>\[#031\] Cam\_Butsudou\_698\_06\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3519,8 +3519,8 @@ Save date of log: 698\_0601\_2703
 I said I would come back.
 
 **[ROBO_Head]**<br>
-*Mr. Huang. Greetings.<br>
-You have 20 seconds. Please ask your question.*
+_Mr. Huang. Greetings.<br>
+You have 20 seconds. Please ask your question._
 
 **Lam**<br>
 ... So you only bought 20 seconds? I didn't know that Hou Sang Tong is already this poor, Mr. Huang.
@@ -3549,7 +3549,7 @@ Boss!
 Arghhhh!
 
 **[Nora]**<br>
-*ROBO!*
+_ROBO!_
 
 **Lam**<br>
 ... What... did you do...
@@ -3569,7 +3569,7 @@ No problemo!<br>
 ... Don't hate me, Nora. It's Phoenix who caused all of this. If you want to hate someone, hate him. Hehehe!
 
 **[Nora]**<br>
-*Let me go! ROBO! Wake up!*
+_Let me go! ROBO! Wake up!_
 
 **Kim**<br>
 It's useless. This baby here is armed with EMP Armor\-piercing rounds! He is now nothing more than a pile of scrap metal, haha!
@@ -3608,16 +3608,16 @@ Did you forget... what happened to you the last time you utter those words?
 *\[Loads Gun\]*
 
 **[ROBO_Head]**<br>
-*Detect...... Nora...... Danger......!!*
+_Detect...... Nora...... Danger......!!_
 
 **Lam**<br>
 !?
 
 **[ROBO_Head]**<br>
-*Detect...... Nora...... Danger......!!*
+_Detect...... Nora...... Danger......!!_
 
 **[Nora]**<br>
-*ROBO! NO!*
+_ROBO! NO!_
 
 *\[Heavy Blow\]*
 
@@ -3630,42 +3630,42 @@ ARGH!
 UGH!!
 
 **[Nora]**<br>
-*STOP IT! \[NORA\] !!*
+_STOP IT! \[NORA\] !!_
 
 **[ROBO_Head]**<br>
-*... Creator... voiceprint command... verification... success.<br>
-Nora, goodbye...*
+_... Creator... voiceprint command... verification... success.<br>
+Nora, goodbye..._
 
 *\[ROBO_Head Shutdown\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[ROBO_Head Start-Up\]*
 
 **[ROBO_Head]**<br>
-*This unit, start\-up, success. Running self\-diagnostics... complete.<br>
-Detect multiple physical damages on hardware.*
+_This unit, start\-up, success. Running self\-diagnostics... complete.<br>
+Detect multiple physical damages on hardware._
 
 **Nora**<br>
 ......
 
 **[ROBO_Head]**<br>
-*Analyzing situation... Unable to comprehend.*
+_Analyzing situation... Unable to comprehend._
 
 **[Nora]**<br>
-*Kill... ROBO... killed someone.*
+_Kill... ROBO... killed someone._
 
 **[ROBO_Head]**<br>
-*... Everyone. here?*
+_... Everyone. here?_
 
 **[Nora]**<br>
-*No... Only uncle Lam and Kim... That's not the point. The Mogura people will discover this immediately... We need to run away, fast! Let's go back to Kyuu Hou Kai first! Phoenix is still there!*
+_No... Only uncle Lam and Kim... That's not the point. The Mogura people will discover this immediately... We need to run away, fast! Let's go back to Kyuu Hou Kai first! Phoenix is still there!_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos032"/>[#032] Cam\_KyuuLab\_698\_06\_02
+## <a id="noos032"/>\[#032\] Cam\_KyuuLab\_698\_06\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3673,16 +3673,16 @@ Detect multiple physical damages on hardware.*
 
 ### Log Content
 **[Nora]**<br>
-*Phoenix! I...*
+_Phoenix! I..._
 
 **Phoenix**<br>
 No need to talk! I've already received the report. Quick, come with me! Both the Mogura and Hou Sang Tong people are coming towards here.
 
 **[Nora]**<br>
-*I'm sorry... It's all because of me...*
+_I'm sorry... It's all because of me..._
 
 **[ROBO_Head]**<br>
-*Responsibility, all on this unit. Did not execute protect command correctly.*
+_Responsibility, all on this unit. Did not execute protect command correctly._
 
 **Phoenix**<br>
 Ahah, Manson's dead... Mogura only wants to dispose of ROBO\_Head. The bigger problem is with the Hou Sang Tong people. They could destroy the entire Lab and kill everybody...
@@ -3693,7 +3693,7 @@ Ahah, Manson's dead... Mogura only wants to dispose of ROBO\_Head. The bigger pr
 **Phoenix**<br>
 Regardless of what happened, I will not let any one of you be in danger. Those two groups will definitely clash with each other first outside. We'll use that opportunity to get away.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Hurried Footsteps\]*
 
@@ -3717,7 +3717,7 @@ So you survived... Kim, you're indeed a cockroach with how goddamn hard it is to
 ROBO, take Nora with you and run first...
 
 **[ROBO_Head]**<br>
-*... Understood.*
+_... Understood._
 
 **Kim**<br>
 All of you, stay the f\*\*\* why you are! You are all gonna die here!
@@ -3733,7 +3733,7 @@ Huh!? What kind of stupid BS are you talking about!? That stinkin robot destroye
 **Phoenix**<br>
 UGH! Run!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Hurried Footsteps\]*
 
@@ -3741,7 +3741,7 @@ UGH! Run!
 Ha...! Ha......!
 
 **[ROBO_Head]**<br>
-*Phoenix, gunshot wound in abdomen region. Potential damage to organs. Should apply emergency treatment right away.*
+_Phoenix, gunshot wound in abdomen region. Potential damage to organs. Should apply emergency treatment right away._
 
 **Phoenix**<br>
 Shut up... Keep running.
@@ -3755,7 +3755,7 @@ Director! Nora! Get on the boat!
 Ugh......! Ichiro, start the boat!
 
 **[Nora]**<br>
-*...... Phoenix?*
+_...... Phoenix?_
 
 ![noos3201.png](./attachments/noos3201.png)
 
@@ -3778,20 +3778,20 @@ If you take me with you... you aren't getting very far away. Kim is harder to ki
 ......
 
 **[ROBO_Head]**<br>
-*Let this unit... deal with Kim.*
+_Let this unit... deal with Kim._
 
 **Phoenix**<br>
 Have you taken a look at yourself?<br>
 ... ROBO, you are not created as a weapon to kill... Those EMP Armor\-piercing rounds Kim has, you've witnessed its power, haven't you? That thing's gonna tear you apart in seconds.
 
 **[Nora]**<br>
-*...... Phoenix......*
+_...... Phoenix......_
 
 **Phoenix**<br>
 Nora, your real name is...... \[Shizuka Shiino\]. Your birthday is 690 N.A., November 11th... When you reach Node 08, find a person by the name of "Noah Black". He was my subordinate when I was working at A.R.C. Take this new identity and go live a new life. I'm sure he will help you settle everything down...
 
 **[Nora]**<br>
-*...... Phoenix! No! Nora is my name! I......*
+_...... Phoenix! No! Nora is my name! I......_
 
 **Phoenix**<br>
 ... I... am not someone who's worthy of respect... The crimes I committed are too many to even properly count... However, after you came into my life... I finally realized... how despicable I used to be. I thought I can justify my actions by using "science" as a solid reasoning... but science was nothing more than an excuse I created so I don't have to accept what a horrible person I have become... It was thanks to you that I was finally able to remember the true purpose of my research... We humans have the power of "knowledge". That's why it's our duty to make the world a better place....... I've always wanted to let you live in a world like that... Now, it's up to you to create that world yourself...
@@ -3810,18 +3810,18 @@ I... ARGGGGHHHHHH!!!!
 *\[Speedboat Engine\]*
 
 **[Nora]**<br>
-*Phoenix！！！*
+_Phoenix！！！_
 
 **Phoenix**<br>
 I'm sorry... I was never a good father...
 
 *\[Gunshot\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="noos033"/>[#033] Cam\_Robo\_698\_06\_02
+## <a id="noos033"/>\[#033\] Cam\_Robo\_698\_06\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3836,20 +3836,20 @@ Here, the ticket and the clearance pass are all here. Your Node 08 citizen ID sh
 Ah! But no matter what happens, don't let the law enforcement agents find out that you're an artificial intelligence; or else the security check process is gonna get really complicated!
 
 **[Nora]**<br>
-*... How about you, Ichiro?*
+_... How about you, Ichiro?_
 
 **Member I**<br>
 Me? No, we only have tickets for you two. I'm not going.
 
 **[Nora]**<br>
-*You're staying here? You should leave with us!*
+_You're staying here? You should leave with us!_
 
 **Member I**<br>
 I still need to take care of my grandmother. I can't just leave her here and go somewhere else.<br>
 Besides, you don't need to worry. Mogura and Kyuu Hou Kai will definitely be victorious! The Hou Sang Tong people are no match for them!
 
 **[Nora]**<br>
-*... You assisted us in our escape. Mogura will not forgive you for that...*
+_... You assisted us in our escape. Mogura will not forgive you for that..._
 
 **Member I**<br>
 ... Umm... Well... Where there's a will, there's always a way! Haha, don't worry about me!
@@ -3861,7 +3861,7 @@ Besides, you don't need to worry. Mogura and Kyuu Hou Kai will definitely be vic
 Alright. Mogura has informed the entire Administration Bureau. People will catch up with us anytime now. You better get moving!
 
 **[Nora]**<br>
-*But...*
+_But..._
 
 **Member I**<br>
 JUST LEAVE YOU BASTARDS...!!
@@ -3874,84 +3874,84 @@ Director is dead! His final wish is for me to see you guys off safely!! So F\*\*
 
 
 **[Nora]**<br>
-*Ichiro...*
+_Ichiro..._
 
 **[ROBO_Head]**<br>
-*This unit, understands. Ichiro, goodbye.<br>
-...... Thank you.*
+_This unit, understands. Ichiro, goodbye.<br>
+...... Thank you._
 
 **Member I**<br>
 Farewell, you big stinkin robot...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Platform Announcement]**<br>
-*Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line.*
+_Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line._
 
 *\[Train arrives\]*
 
 **[ROBO_Head]**<br>
-*Train has arrived. We, board now.*
+_Train has arrived. We, board now._
 
 **[Nora]**<br>
-*Ok...*
+_Ok..._
 
 **Nora**<br>
 ......
 
 **[Nora]**<br>
-*...... I'm sorry......<br>
-\[Nora\].*
+_...... I'm sorry......<br>
+\[Nora\]._
 
 **[ROBO_Head]**<br>
-*... Creator voiceprint command, verification success.<br>
-Nora, goodbye.*
+_... Creator voiceprint command, verification success.<br>
+Nora, goodbye._
 
 *\[ROBO_Head Shutdown\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*Activate offline recording mode.*
+_Activate offline recording mode._
 
 ![noos3302.png](./attachments/noos3302.png)
 
 **[Nora]**<br>
-*ROBO, when you see this message, it means you've already arrived at Node 08. I'm sorry... I couldn't go there with you.*
+_ROBO, when you see this message, it means you've already arrived at Node 08. I'm sorry... I couldn't go there with you._
 
 **[Nora]**<br>
-*As long as you are with me, Mogura will definitely follow us there as well, no matter where we hide... The folks at Mogura want to dispose of you. You'll never be truly safe with them constantly chasing you.*
+_As long as you are with me, Mogura will definitely follow us there as well, no matter where we hide... The folks at Mogura want to dispose of you. You'll never be truly safe with them constantly chasing you._
 
 **[Nora]**<br>
-*I, on the other hand, still have a lot of value to them. I am very certain that they won't harm me. Therefore, I decide to stay here and use my ability as a bargaining chip to persuade them to no longer hold you responsible for what you did.*
+_I, on the other hand, still have a lot of value to them. I am very certain that they won't harm me. Therefore, I decide to stay here and use my ability as a bargaining chip to persuade them to no longer hold you responsible for what you did._
 
 **[Nora]**<br>
-*Ever since I created you, so many things have happened... We created music together. We talked with each other. We played games... Whether it was the good or the bad, you were always there by my side. The time I spent with you... was truly some of the happiest times in my life. Thank you.*
+_Ever since I created you, so many things have happened... We created music together. We talked with each other. We played games... Whether it was the good or the bad, you were always there by my side. The time I spent with you... was truly some of the happiest times in my life. Thank you._
 
 **[Nora]**<br>
-*ROBO, you are a very special existence... Much more than just a simple A.I. You have your own emotions, your own soul that was birthed from the database that is me——Nora.*
+_ROBO, you are a very special existence... Much more than just a simple A.I. You have your own emotions, your own soul that was birthed from the database that is me——Nora._
 
 **[Nora]**<br>
-*Do you remember what I told you before? The spirit, the mind, the memories... All of them are proof that a "human" once existed. Therefore, for someone who inherited all of the above from me, you are the proof of my existence.*
+_Do you remember what I told you before? The spirit, the mind, the memories... All of them are proof that a "human" once existed. Therefore, for someone who inherited all of the above from me, you are the proof of my existence._
 
 **[Nora]**<br>
-*So, please, go pursue "your own" freedom and dreams... If you do that, it's like you're pursuing my freedom and my dreams.*
+_So, please, go pursue "your own" freedom and dreams... If you do that, it's like you're pursuing my freedom and my dreams._
 
 **[Nora]**<br>
-*I have reconfigured your supreme command. From now on, protecting me is no longer your reason to live. I also forbid you from returning to Node 03.*
+_I have reconfigured your supreme command. From now on, protecting me is no longer your reason to live. I also forbid you from returning to Node 03._
 
 **[Nora]**<br>
-*On behalf of me, experience more happy things. Let more people hear our music. Learn even more things... Go live a life that you've yearned for. This is something you deserve.*
+_On behalf of me, experience more happy things. Let more people hear our music. Learn even more things... Go live a life that you've yearned for. This is something you deserve._
 
 *\[Platform announcement\]*
 
 **[Platform Announcement]**<br>
-*The train is about to depart. For passengers who haven't board the train, please proceed to take other trains. Thank you for your cooperation*
+_The train is about to depart. For passengers who haven't board the train, please proceed to take other trains. Thank you for your cooperation_
 
 **[Nora]**<br>
-*.... Goodbye, ROBO\_Head.*
+_.... Goodbye, ROBO\_Head._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

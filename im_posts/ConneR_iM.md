@@ -1,31 +1,33 @@
 # ConneR iM Posts
 ## <a id="toc"/>List of Posts
-- [[#001] Reset](#c0101)
-- [[#002] New Instrument](#c0201)
-- [[#003] People from bio\-prosthetic companies may all need a prosthetic brain](#c0301)
-- [[#004] Border of the North Concert](#c0401)
-- [[#005] Met an old friend in a new place](#c0501)
-- [[#006] An era with no roots](#c0601)
-- [[#007] Yet another advisor position](#c0701)
-- [[#008] The Cello](#c0801)
-- [[#009] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#c0901)
-- [[#010] What is Archaeology](#c1001)
-- [[#011] Treasures of the Past](#c1101)
-- [[#012] \[Repost\] A.R.C looking for professional Ruins explorer](#c1201)
-- [[#013] The Saxophone](#c1301)
-- [[#014] The sincerest instance, right here, right now](#c1401)
-- [[#016] The truth of this world](#c1601)
-- [[#017] Emptiness](#c1701)
-- [[#018] Those long lost memories](#c1801)
-- [[#019] Let me tell everyone a quick anecdote](#c1901)
-- [[#020] Overlords](#c2001)
-- [[#021] Lecture at the Academy](#c2101)
-- [[#022] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝](#c2201)
+- [\[#001\] Reset](#c0101)
+- [\[#002\] New Instrument](#c0201)
+- [\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain](#c0301)
+- [\[#004\] Border of the North Concert](#c0401)
+- [\[#005\] Met an old friend in a new place](#c0501)
+- [\[#006\] An era with no roots](#c0601)
+- [\[#007\] Yet another advisor position](#c0701)
+- [\[#008\] The Cello](#c0801)
+- [\[#009\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#c0901)
+- [\[#010\] What is Archaeology](#c1001)
+- [\[#011\] Treasures of the Past](#c1101)
+- [\[#012\] \[Repost\] A.R.C looking for professional Ruins explorer](#c1201)
+- [\[#013\] The Saxophone](#c1301)
+- [\[#014\] The sincerest instance, right here, right now](#c1401)
+- [\[#016\] The truth of this world](#c1601)
+- [\[#017\] Emptiness](#c1701)
+- [\[#018\] Those long lost memories](#c1801)
+- [\[#019\] Let me tell everyone a quick anecdote](#c1901)
+- [\[#020\] Overlords](#c2001)
+- [\[#021\] Lecture at the Academy](#c2101)
+- [\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝](#c2201)
 
-## <a id="c0101"/>[#001] Reset
+## <a id="c0101"/>\[#001\] Reset
 ### Post
 **ConneR**<br>
-　Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
+　Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
+
+　Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
 
 　L'essentiel n'est pas de vivre, mais de bien vivre.
 ### Replies
@@ -65,7 +67,7 @@ Looking forward to more music\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0201"/>[#002] New Instrument
+## <a id="c0201"/>\[#002\] New Instrument
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -73,7 +75,9 @@ Looking forward to more music\~\~\~
 
 ### Post
 **ConneR**<br>
-　Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition. 
+　Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 
+
+　The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition. 
 
 ![c0201.png](./attachments/c0201.png)
 ### Replies
@@ -97,7 +101,7 @@ Awesome new master \\oo/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0301"/>[#003] People from bio\-prosthetic companies may all need a prosthetic brain
+## <a id="c0301"/>\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -154,7 +158,7 @@ They recently had a complete management change; must still be dealing with the a
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0401"/>[#004] Border of the North Concert
+## <a id="c0401"/>\[#004\] Border of the North Concert
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -201,7 +205,7 @@ Excellent
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0501"/>[#005] Met an old friend in a new place
+## <a id="c0501"/>\[#005\] Met an old friend in a new place
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -215,7 +219,9 @@ Excellent
 
 ### Post
 **ConneR**<br>
-　In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place. 
+　In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. 
+
+　Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place. 
 ### Replies
 **ROBO_Head**<br>
 **@ConneR** Doctor's research in instruments, classical music and ancient civilizations, worthy for this Unit to learn. ：D
@@ -259,7 +265,7 @@ Not enough people know how to appreciate art
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0601"/>[#006] An era with no roots
+## <a id="c0601"/>\[#006\] An era with no roots
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -269,7 +275,9 @@ Not enough people know how to appreciate art
 **ConneR**<br>
 　This era, I believe is one that lost its roots.
 
-　A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music. Even more helpless, is that the public has lost its praise and appreciation for the timelessness and beauty of classical music. Affected by the fancy mixing and vulgar lyrics, people now care more about the gossip of musicians rather than their actual music.
+　A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music.  
+
+　Even more helpless, is that the public has lost its praise and appreciation for the timelessness and beauty of classical music. Affected by the fancy mixing and vulgar lyrics, people now care more about the gossip of musicians rather than their actual music.
 
 　Pains me greatly witnessing this. 
 ### Replies
@@ -301,7 +309,7 @@ Sensei\~ the era is different. Just today in the academy, I was really angered b
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0701"/>[#007] Yet another advisor position
+## <a id="c0701"/>\[#007\] Yet another advisor position
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -343,7 +351,7 @@ Go ahead, make your guess.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0801"/>[#008] The Cello
+## <a id="c0801"/>\[#008\] The Cello
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -351,7 +359,11 @@ Go ahead, make your guess.
 
 ### Post
 **ConneR**<br>
-　The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. With modern technology, they are many ways to simulate a good low\-pitch string instrument. However, the Cello, which is created with top quality lumber and delicate crafts, can give out a very clear and deep tone. A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior. 
+　The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. 
+
+　With modern technology, they are many ways to simulate a good low\-pitch string instrument. However, the Cello, which is created with top quality lumber and delicate crafts, can give out a very clear and deep tone. 
+
+　A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior. 
 
 ![c0801.png](./attachments/c0801.png)
 ### Replies
@@ -369,7 +381,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0901"/>[#009] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="c0901"/>\[#009\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -377,7 +389,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 ### Post
 **ConneR**<br>
-\> Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
+> Announced several days ago, the AI emotion training project has invited several senior scholars to participate in the research. One of the scholars is A.R.C.'s senior advisor and archaeologist Colin Neumann Jr., who is named the head of the project. <br>
 > Dr. Neumann is perhaps more well known by his other name, ConneR. A renowned virtual composer on the internet, he is also an archaeologist with a deep knowledge regarding instruments of the past. <br>
 > To fulfill the educational purpose of the project, Dr. Neumann will be posting regular updates of the project on the internet. Hopefully, everyone gets a sneak peek into the wonders of Artificial Intelligence research.<br>
 
@@ -425,7 +437,7 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1001"/>[#010] What is Archaeology
+## <a id="c1001"/>\[#010\] What is Archaeology
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -435,7 +447,9 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 **ConneR**<br>
 　The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.
 
-　People who devoted themselves to archaeology, are not shovel\-wielding, hole\-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds. They, are people who pursue the truth. 
+　People who devoted themselves to archaeology, are not shovel\-wielding, hole\-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds.  
+
+　They, are people who pursue the truth. 
 ### Replies
 **GemFeather**<br>
 Great argument!
@@ -457,7 +471,7 @@ Thank you Sensei for giving your point of view. I learned a lot!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1101"/>[#011] Treasures of the Past
+## <a id="c1101"/>\[#011\] Treasures of the Past
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -465,7 +479,9 @@ Thank you Sensei for giving your point of view. I learned a lot!
 
 ### Post
 **ConneR**<br>
-　In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. Music that wonderful once existed yet we have no way to listen to it now, what a pity.
+　In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 
+
+　Music that wonderful once existed yet we have no way to listen to it now, what a pity.
 
 ![c1101.png](./attachments/c1101.png)
 ### Replies
@@ -498,7 +514,7 @@ Master Colin is our only hope
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1201"/>[#012] \[Repost\] A.R.C looking for professional Ruins explorer
+## <a id="c1201"/>\[#012\] \[Repost\] A.R.C looking for professional Ruins explorer
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -506,7 +522,7 @@ Master Colin is our only hope
 
 ### Post
 **ConneR**<br>
-\> Do you have a dream? Do you want to visit Ruins all across the world?<br>
+> Do you have a dream? Do you want to visit Ruins all across the world?<br>
 > <br>
 > No matter how long it takes, no matter how far it is, there is still something that must be completed. A job that leaves an everlasting mark in history<br>
 > <br>
@@ -552,7 +568,7 @@ I applied. Hope we can change them from the inside.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1301"/>[#013] The Saxophone
+## <a id="c1301"/>\[#013\] The Saxophone
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -560,7 +576,9 @@ I applied. Hope we can change them from the inside.
 
 ### Post
 **ConneR**<br>
-　Due to Node 13's unique historical background, it has quite the collection of well\-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own. 
+　Due to Node 13's unique historical background, it has quite the collection of well\-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. 
+
+　The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own. 
 
 ![c1301.png](./attachments/c1301.png)
 ### Replies
@@ -594,7 +612,7 @@ I feel that Node13 is the perfect place to forget all the annoying stuff in live
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1401"/>[#014] The sincerest instance, right here, right now
+## <a id="c1401"/>\[#014\] The sincerest instance, right here, right now
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -651,7 +669,9 @@ Is there a holo\-recreation? QQ
 Too bad Sensei insists on live performances only. It would be a blessing for us fans outside of Node08 if there are virtual seats available
 
 **ConneR**<br>
-Fellow music lovers, thank you for the appreciation. If you can enjoy classical music, you already have better taste than the majority of the public. In the future, I will bring my live performances to an even higher level for everyone to enjoy. My performances do not have virtual seats, nor are there holographic recreations. Please come to the concert in person and experience the music with your own ears.
+Fellow music lovers, thank you for the appreciation. If you can enjoy classical music, you already have better taste than the majority of the public. In the future, I will bring my live performances to an even higher level for everyone to enjoy.
+
+    My performances do not have virtual seats, nor are there holographic recreations. Please come to the concert in person and experience the music with your own ears.
 
 **Amberclove**<br>
 To all the staff tonight, and the all\-important performer, we offer you our highest respect \*bows\*
@@ -664,7 +684,7 @@ I can't wait for the next performance to be here!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1601"/>[#016] The truth of this world
+## <a id="c1601"/>\[#016\] The truth of this world
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -712,7 +732,7 @@ Follow Sensei\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1701"/>[#017] Emptiness
+## <a id="c1701"/>\[#017\] Emptiness
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -720,7 +740,9 @@ Follow Sensei\~\~\~
 
 ### Post
 **ConneR**<br>
-People of the modern age seem to be overly focused on pursuing the shallow surface. They often only care about what they see, or more likely, what they want to see. Never once did they think about the context and reasons beneath the surface. My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in\-person.
+People of the modern age seem to be overly focused on pursuing the shallow surface. They often only care about what they see, or more likely, what they want to see. Never once did they think about the context and reasons beneath the surface.
+
+    My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in\-person.
 ### Replies
 **Amberclove**<br>
 Is Sensei taking a shot at the recent incidents?
@@ -761,7 +783,7 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1801"/>[#018] Those long lost memories
+## <a id="c1801"/>\[#018\] Those long lost memories
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -769,7 +791,9 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 
 ### Post
 **ConneR**<br>
-Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself. Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well\-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un\-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
+Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself.
+
+    Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well\-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un\-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
 
 ![c1801.png](./attachments/c1801.png)
 ### Replies
@@ -810,7 +834,7 @@ DENIED
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1901"/>[#019] Let me tell everyone a quick anecdote
+## <a id="c1901"/>\[#019\] Let me tell everyone a quick anecdote
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -818,7 +842,11 @@ DENIED
 
 ### Post
 **ConneR**<br>
-　A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. Have a guess; how did the gardener deal with this fallen apple? He didn't pick up the apple and throw it away. He also didn't wash away the ants with the water hose he was holding. All he did was stand up, and walk away. Yeah, who cares.
+　A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. 
+
+　Have a guess; how did the gardener deal with this fallen apple? He didn't pick up the apple and throw it away. He also didn't wash away the ants with the water hose he was holding. All he did was stand up, and walk away. 
+
+　Yeah, who cares.
 ### Replies
 **RaiKiyumi**<br>
 Holy cow!!! ConneR Sensei is freaking awesome XDDDDD
@@ -857,7 +885,7 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2001"/>[#020] Overlords
+## <a id="c2001"/>\[#020\] Overlords
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -865,8 +893,15 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 
 ### Post
 **ConneR**<br>
-Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade\-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self\-declared superiority, couldn't conquer them after all. Certainly, drones are not creatures. They are just simple, inorganic structures. However, "intelligence" itself is no longer a privilege exclusive only to living creatures. Sounds, visuals, sensations, memories, wisdom, and even the soul are all things that we once thought to be so vague that they were considered ethereal. In this era, however, they can all be interpreted as a combination of countless electronic signals. Humans can no longer claim that we are the one and only "intelligent" mind in this world. Some people may have doubts about my claims, saying that I was being nothing more than a scaremonger. To those people, I present this: based on the data I obtained, the connection yield rate for the shared UI has yet to show any noteworthy improvement to this day. In fact, the rates have been getting worse. I find that to be the best warning for this situation. For two hundred years, we thought we were the masters of the drones. However, in reality, there is a possibility that humans are the puny insects fed and raised inside the secured area, all while we presumptuously believe ourselves to be the overlords of this planet. <br>
- <br> The real overlords are far from just an ancient relic in the history books, I sincerely believe that.  
+Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. 
+
+        It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade\-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self\-declared superiority, couldn't conquer them after all.
+
+        Certainly, drones are not creatures. They are just simple, inorganic structures. However, "intelligence" itself is no longer a privilege exclusive only to living creatures. Sounds, visuals, sensations, memories, wisdom, and even the soul are all things that we once thought to be so vague that they were considered ethereal. In this era, however, they can all be interpreted as a combination of countless electronic signals. Humans can no longer claim that we are the one and only "intelligent" mind in this world.
+
+        Some people may have doubts about my claims, saying that I was being nothing more than a scaremonger. To those people, I present this: based on the data I obtained, the connection yield rate for the shared UI has yet to show any noteworthy improvement to this day. In fact, the rates have been getting worse. I find that to be the best warning for this situation. For two hundred years, we thought we were the masters of the drones. However, in reality, there is a possibility that humans are the puny insects fed and raised inside the secured area, all while we presumptuously believe ourselves to be the overlords of this planet. <br>
+ <br>
+        The real overlords are far from just an ancient relic in the history books, I sincerely believe that.  
 ### Replies
 **Amberclove**<br>
 Sensei, your papers give me goosebumps, the scared kind...
@@ -936,7 +971,7 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2101"/>[#021] Lecture at the Academy
+## <a id="c2101"/>\[#021\] Lecture at the Academy
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -944,7 +979,11 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 
 ### Post
 **ConneR**<br>
-I hinted about this a while ago. Today, I'm here to make an official announcement. Because of an invitation from A.R.C., I will be giving lectures at the Academy in my spare time of heading the research project. The topics will be the correct attitude and mental fortitude for archeological excavation. I will also mention my new viewpoints on researches about ancient civilizations. Since it's in the Academy, I won't delve into overly minute details. Nevertheless, I will reveal many unimaginable things that you won't believe exists. You don't want to miss it. This series of lectures will be available to the public. Anyone can sit in on them. However, I truly hope that there will be other intellectuals present to have a proper discussion with me.
+I hinted about this a while ago. Today, I'm here to make an official announcement.
+
+    Because of an invitation from A.R.C., I will be giving lectures at the Academy in my spare time of heading the research project. The topics will be the correct attitude and mental fortitude for archeological excavation. I will also mention my new viewpoints on researches about ancient civilizations. Since it's in the Academy, I won't delve into overly minute details. Nevertheless, I will reveal many unimaginable things that you won't believe exists. You don't want to miss it.
+
+    This series of lectures will be available to the public. Anyone can sit in on them. However, I truly hope that there will be other intellectuals present to have a proper discussion with me.
 
 ![c2101.png](./attachments/c2101.png)
 ### Replies
@@ -959,7 +998,9 @@ Man, how lazy can you be?<br>
 Those who are slothful do not have the right to pursue the truth (In Sensei's tone)
 
 **ConneR**<br>
-Extra note here. A.R.C. originally provided me with a pre\-determined handout. They wanted me to give my lecture according to that handout. That file was categorized as spam by my firewall program and deleted alongside other malicious emails. Therefore, I will be using my own material to give the lecture. In addition, please don't bring any mobile devices or recording equipment to my lectures. I will not prepare any visual aid or handouts for my presentation either. What I'm going to tell you requires no notes; all you need are your ears to hear me talk and your heart to feel my words. I guarantee that you will gain a lot by simply doing what I said.
+Extra note here. A.R.C. originally provided me with a pre\-determined handout. They wanted me to give my lecture according to that handout. That file was categorized as spam by my firewall program and deleted alongside other malicious emails. Therefore, I will be using my own material to give the lecture.
+
+    In addition, please don't bring any mobile devices or recording equipment to my lectures. I will not prepare any visual aid or handouts for my presentation either. What I'm going to tell you requires no notes; all you need are your ears to hear me talk and your heart to feel my words. I guarantee that you will gain a lot by simply doing what I said.
 
 **DiiR**<br>
 Hahaha ConneR sensei's firewall program matches his own personality XDDD
@@ -995,7 +1036,7 @@ Thank you so much! I look forward to meeting you!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2201"/>[#022] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
+## <a id="c2201"/>\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1005,7 +1046,9 @@ Thank you so much! I look forward to meeting you!
 
 ### Post
 **ConneR**<br>
-Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸\[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞\[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟\[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞ If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
+Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸\[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞\[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟\[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞
+
+   If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
 J̨͞)̵͡͡\*̸̴̶̨\_͏̀͢H͢͢҉̛7́͝͠y̡̨͝͡g͜f̡̧̡͘̕t̶̵͠d̸̶͘͏r͢͠͡͞Ú̵̕͟T̴́͜͟Y͏͟K̡͡͝H̡̢B̧͘͟͠͠:̢̨j҉͡͏̵̀g̵̨̢͟y̨̡̕̕͜t̶̀7̷̶́̀6̢̧͠҉̧5̸̡́͘͠r͟͢͜3͡͏̕͢4̧^̷̸̴͢͢ḩ̷͠͡j̸͞҉ that one day, people who have a rebellious nature like myself J̧́͠Ơ̷H͘͟͝U͞҉̡̢͢O͏͡(̢̢͝͞7̡̕͢͡͝d̛͠r͘͢e̷͘͟5̵͘͟6̀͡҉͟i̸̢̕͟t̶͘v͏̴̸Ơ͢:̡̀́͢͠J҉̴͜N̵͏̶̵͠B͘͜҉̡I͘͟Ĺ̷͏H̸͘U̵̧͘V̵̢͘̕͢Y̧̢͠F͏҉̧͟T̡͠͏̡d̡̛̀r͝5̨͘͝͡e҉͢4̨̀f̡8̢́6̵̨̀G̛͘͟͝͝&͝(̶̕͡͏H̀͏҉P̀͝U̡̕͜͟I҉͢N҉̴́͘͟B͏̀̀͞J̕͝Ų̀͡Í̶͘͢͟Y̶̢Ḑ̡̀͞7̴̴͜8̴̢͝҉9͘͏҉̶i̸j͘͟͏̢͘h̴̕n̡͢͞͠b̀͏h̛́m̨͏̡H̴͝Ģ͢͟ heritage. 
 
 ![c2201.png](./attachments/c2201.png)

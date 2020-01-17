@@ -1,48 +1,48 @@
 # JOE OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Cam\_Cafe\_684\_08\_28](#jos001)
-- [[#002] Cam\_Cafe\_687\_02\_27](#jos002)
-- [[#003] Audio\_Cafe\_690\_01\_13](#jos003)
-- [[#004] Audio\_Cafe\_691\_08\_12](#jos004)
-- [[#005] Cam\_124St\_691\_08\_12](#jos005)
-- [[#006] Audio\_Cafe\_691\_08\_15](#jos006)
-- [[#007] Cam\_Cafe\_692\_10\_21](#jos007)
-- [[#008] Message\_Group\_693\_05\_25](#jos008)
-- [[#009] Cam\_Velvet\_693\_08\_28](#jos009)
-- [[#010] Cam\_Velvet\_693\_08\_28](#jos010)
-- [[#011] Image\_Hotpot\_693\_09\_01](#jos011)
-- [[#012] Audio\_Cafe\_694\_04\_27](#jos012)
-- [[#013] Cam\_Base\_694\_04\_27](#jos013)
-- [[#014] Audio\_37St\_696\_07\_05](#jos014)
-- [[#015] Audio\_Base\_696\_07\_13](#jos015)
-- [[#016] Cam\_Hospital04\_697\_04\_14](#jos016)
-- [[#017] Image\_Graveyard\_697\_04\_16](#jos017)
-- [[#018] Audio\_Cafe\_697\_06\_07](#jos018)
-- [[#019] Log\_System\_697\_08\_12](#jos019)
-- [[#020] Audio\_Cafe\_697\_08\_19](#jos020)
-- [[#021] Cam\_Cafe\_697\_08\_19](#jos021)
-- [[#022] Call\_Fang\_698\_02\_12](#jos022)
-- [[#023] Cam\_Cafe\_698\_09\_09](#jos023)
-- [[#024] Call\_Diego\_701\_06\_25](#jos024)
-- [[#025] Mail\_Diego\_701\_06\_25](#jos025)
-- [[#026] Cam\_Cafe\_701\_06\_28](#jos026)
-- [[#027] Image\_Zark\_700\_02\_20](#jos027)
-- [[#028] Cam\_Cafe\_702\_10\_01](#jos028)
-- [[#029] Cam\_DragonSt\_693\_06\_03](#jos029)
-- [[#030] Cam\_Cafe\_702\_08\_18](#jos030)
-- [[#031] Audio\_Graveyard\_702\_09\_29](#jos031)
-- [[#032] Audio\_Base\_702\_09\_30](#jos032)
-- [[#033] Audio\_Cafe\_702\_10\_19](#jos033)
-- [[#034] cyTus\_Server03\_702\_11\_03](#jos034)
-- [[#035] cyTus\_Server03\_702\_11\_06](#jos035)
-- [[#036] Cam\_CArea\_702\_11\_08](#jos036)
-- [[#037] Audio\_St91\_702\_11\_10](#jos037)
-- [[#038] Audio\_Cafe\_702\_11\_17](#jos038)
-- [[#039] Audio\_Cafe\_702\_11\_17](#jos039)
-- [[#040] Audio\_Baro\_702\_12\_21\_1](#jos040)
-- [[#041] Audio\_Baro\_702\_12\_21\_2](#jos041)
+- [\[#001\] Cam\_Cafe\_684\_08\_28](#jos001)
+- [\[#002\] Cam\_Cafe\_687\_02\_27](#jos002)
+- [\[#003\] Audio\_Cafe\_690\_01\_13](#jos003)
+- [\[#004\] Audio\_Cafe\_691\_08\_12](#jos004)
+- [\[#005\] Cam\_124St\_691\_08\_12](#jos005)
+- [\[#006\] Audio\_Cafe\_691\_08\_15](#jos006)
+- [\[#007\] Cam\_Cafe\_692\_10\_21](#jos007)
+- [\[#008\] Message\_Group\_693\_05\_25](#jos008)
+- [\[#009\] Cam\_Velvet\_693\_08\_28](#jos009)
+- [\[#010\] Cam\_Velvet\_693\_08\_28](#jos010)
+- [\[#011\] Image\_Hotpot\_693\_09\_01](#jos011)
+- [\[#012\] Audio\_Cafe\_694\_04\_27](#jos012)
+- [\[#013\] Cam\_Base\_694\_04\_27](#jos013)
+- [\[#014\] Audio\_37St\_696\_07\_05](#jos014)
+- [\[#015\] Audio\_Base\_696\_07\_13](#jos015)
+- [\[#016\] Cam\_Hospital04\_697\_04\_14](#jos016)
+- [\[#017\] Image\_Graveyard\_697\_04\_16](#jos017)
+- [\[#018\] Audio\_Cafe\_697\_06\_07](#jos018)
+- [\[#019\] Log\_System\_697\_08\_12](#jos019)
+- [\[#020\] Audio\_Cafe\_697\_08\_19](#jos020)
+- [\[#021\] Cam\_Cafe\_697\_08\_19](#jos021)
+- [\[#022\] Call\_Fang\_698\_02\_12](#jos022)
+- [\[#023\] Cam\_Cafe\_698\_09\_09](#jos023)
+- [\[#024\] Call\_Diego\_701\_06\_25](#jos024)
+- [\[#025\] Mail\_Diego\_701\_06\_25](#jos025)
+- [\[#026\] Cam\_Cafe\_701\_06\_28](#jos026)
+- [\[#027\] Image\_Zark\_700\_02\_20](#jos027)
+- [\[#028\] Cam\_Cafe\_702\_10\_01](#jos028)
+- [\[#029\] Cam\_DragonSt\_693\_06\_03](#jos029)
+- [\[#030\] Cam\_Cafe\_702\_08\_18](#jos030)
+- [\[#031\] Audio\_Graveyard\_702\_09\_29](#jos031)
+- [\[#032\] Audio\_Base\_702\_09\_30](#jos032)
+- [\[#033\] Audio\_Cafe\_702\_10\_19](#jos033)
+- [\[#034\] cyTus\_Server03\_702\_11\_03](#jos034)
+- [\[#035\] cyTus\_Server03\_702\_11\_06](#jos035)
+- [\[#036\] Cam\_CArea\_702\_11\_08](#jos036)
+- [\[#037\] Audio\_St91\_702\_11\_10](#jos037)
+- [\[#038\] Audio\_Cafe\_702\_11\_17](#jos038)
+- [\[#039\] Audio\_Cafe\_702\_11\_17](#jos039)
+- [\[#040\] Audio\_Baro\_702\_12\_21\_1](#jos040)
+- [\[#041\] Audio\_Baro\_702\_12\_21\_2](#jos041)
 
-## <a id="jos001"/>[#001] Cam\_Cafe\_684\_08\_28
+## <a id="jos001"/>\[#001\] Cam\_Cafe\_684\_08\_28
 ### Log Content
 **JOE**<br>
 Look! I have everything set up!
@@ -61,7 +61,7 @@ You're way too young to be calling yourself "yours truly"... alright then, let's
 **JOE**<br>
 No probs!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Ehhh... do this here...
@@ -72,7 +72,7 @@ Seems a bit different from what I taught you?
 **JOE**<br>
 Ah, it's this string...
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Uhhhh...
@@ -86,17 +86,17 @@ Nah pops, I got this!
 **Saxon**<br>
 ... Then try again.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Saxon**<br>
 That's right, just like this. Don't stop, keep going.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Saxon**<br>
 Your fingers are too stiff. Don't forget: sway your body, feel the music.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Hehe, hehehehe...
@@ -104,7 +104,7 @@ Hehe, hehehehe...
 **Saxon**<br>
 Yes, smile. Music is like good wine. You need to enjoy it with ease and to the fullest. Only then can you truly perform music with soul.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Whew, I finished! Yeah!
@@ -139,11 +139,11 @@ If you're really that godly, then show me! Come on, come on...
 **JOE**<br>
 YEAH! Love ya so much, pops! Here, now hurry!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos002"/>[#002] Cam\_Cafe\_687\_02\_27
+## <a id="jos002"/>\[#002\] Cam\_Cafe\_687\_02\_27
 ### Log Content
 **JOE**<br>
 Look over there. It's that dog.
@@ -243,11 +243,11 @@ Arf! Arf!
 **JOE**<br>
 Stupid dog...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos003"/>[#003] Audio\_Cafe\_690\_01\_13
+## <a id="jos003"/>\[#003\] Audio\_Cafe\_690\_01\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -323,11 +323,11 @@ Alright, alright, you stingy old man.
 **Saxon**<br>
 Finish your drink quickly. Once you're done washing the cup, come find me in the basement.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos004"/>[#004] Audio\_Cafe\_691\_08\_12
+## <a id="jos004"/>\[#004\] Audio\_Cafe\_691\_08\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -415,11 +415,11 @@ You little brat... Zark's gonna get diarrhea if you give him this stuff.
 **Zark**<br>
 Arf?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos005"/>[#005] Cam\_124St\_691\_08\_12
+## <a id="jos005"/>\[#005\] Cam\_124St\_691\_08\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -484,7 +484,7 @@ You guys don't know? This is an AR shooter that's all the rage on cyTus these da
 Hey! You really think a child's game like this can...
 
 **[Game notification]**<br>
-*Headshot! First Blood!*
+_Headshot! First Blood!_
 
 **Fang**<br>
 Ahahaha! Holy S\*\*\*! His head exploded! The effects are sick!
@@ -500,7 +500,7 @@ I've cranked up the immersion to max. If you get hit consecutively, you're gonna
 Hmph! Nonsense!
 
 **[Game notification]**<br>
-*Headshot!*
+_Headshot!_
 
 **Fang**<br>
 That's two points for me. If I win, you better shut your damn mouth for now on.
@@ -536,11 +536,11 @@ HA! Interesting!
 Hoho\~ this way, we keep the cargo intact, nobody gets hurt, and I make some quick dough.<br>
 Haha! I'm such a genius!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos006"/>[#006] Audio\_Cafe\_691\_08\_15
+## <a id="jos006"/>\[#006\] Audio\_Cafe\_691\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -609,7 +609,7 @@ He didn't mention anything about this to me. What happened?
 **Luo**<br>
 Well, it's like this...
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Luo**<br>
 Those two love to compete with each other, too much actually. Sometimes the mood in the gang just gets really awkward when those two are at it. Even I was having a little trouble dealing with them...<br>
@@ -654,10 +654,10 @@ Ah! Ugh...
 *\[Glass Shatters\]*
 
 **Saxon**<br>
-*\*Huff\**, *\*Puff\**... My chest...
+_\*Huff\*_, _\*Puff\*_... My chest...
 
 **Saxon**<br>
-*\*Huff\**...... *\*Puff\**...... Damnit, what's going on...
+_\*Huff\*_...... _\*Puff\*_...... Damnit, what's going on...
 
 **Zark**<br>
 Arf, arf!, ARF!
@@ -665,11 +665,11 @@ Arf, arf!, ARF!
 **Saxon**<br>
 No need to worry, Zark... I'm ok.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos007"/>[#007] Cam\_Cafe\_692\_10\_21
+## <a id="jos007"/>\[#007\] Cam\_Cafe\_692\_10\_21
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -714,7 +714,7 @@ Hahaha.
 
 **Saxon**<br>
 If not for the injury to my ear, I may still be playing music now...<br>
-Now, all I can do is teach a little retard how to play BASS... *\*Sighs\** man, how life can change.
+Now, all I can do is teach a little retard how to play BASS... _\*Sighs\*_ man, how life can change.
 
 **JOE**<br>
 If not for the arrow I took in the knee, I am still an adventurer\~<br>
@@ -769,11 +769,11 @@ You little... I'm serious. Give it a go. Use the skills I taught you and show th
 Ok, ok. To be honest, I've already started forming the band online.<br>
 Also what's with the "One does not simply..." thing? What have you been reading these days?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos008"/>[#008] Message\_Group\_693\_05\_25
+## <a id="jos008"/>\[#008\] Message\_Group\_693\_05\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -930,7 +930,7 @@ Can someone else be the leader instead... please...<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos009"/>[#009] Cam\_Velvet\_693\_08\_28
+## <a id="jos009"/>\[#009\] Cam\_Velvet\_693\_08\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1009,11 +1009,11 @@ Umm, nothing... I hope everyone likes it!
 
 *\[Crowd screams and applauds\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos010"/>[#010] Cam\_Velvet\_693\_08\_28
+## <a id="jos010"/>\[#010\] Cam\_Velvet\_693\_08\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1092,11 +1092,11 @@ Nothing. Remember to call your mother if you're going to stay out late at night.
 **JOE**<br>
 Got it. See ya pops!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos011"/>[#011] Image\_Hotpot\_693\_09\_01
+## <a id="jos011"/>\[#011\] Image\_Hotpot\_693\_09\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1110,7 +1110,7 @@ Location: Node 08 \- Hot Pot Restaurant
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos012"/>[#012] Audio\_Cafe\_694\_04\_27
+## <a id="jos012"/>\[#012\] Audio\_Cafe\_694\_04\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1242,11 +1242,11 @@ What accident?
 **Angus**<br>
 Smart kid.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos013"/>[#013] Cam\_Base\_694\_04\_27
+## <a id="jos013"/>\[#013\] Cam\_Base\_694\_04\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1267,7 +1267,7 @@ Um... are you ok? You spewed a crap ton of blood...
 **Hunter**<br>
 Shut up. I'll go clean up my wounds. You clean up the crate and the cargo inside.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Good, the outside is now squeaky clean. Next, the cargo inside...
@@ -1295,19 +1295,19 @@ Water...
 **JOE**<br>
 Oh! Gimme a sec.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **JOE**<br>
 Here, drink it.
 
 **Young Girl**<br>
-...... Gulp... *\*Cough! Cough cough!\**
+...... Gulp... _\*Cough! Cough cough!\*_
 
 **JOE**<br>
 Slow down, slow down girl. Take it easy!
 
 **Young Girl**<br>
-... *\*Cough cough\**... tha...
+... _\*Cough cough\*_... tha...
 
 **JOE**<br>
 What did you say?
@@ -1385,11 +1385,11 @@ They are arriving in ten minutes. I need to prep the cargo. You better lay there
 **JOE**<br>
 Ugh...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos014"/>[#014] Audio\_37St\_696\_07\_05
+## <a id="jos014"/>\[#014\] Audio\_37St\_696\_07\_05
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1518,7 +1518,7 @@ If I have the chance. Farewell, King of Germs.
 **JOE**<br>
 F\*\*\* you. Goodbye!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Zark**<br>
 Arf!
@@ -1532,11 +1532,11 @@ Arf!
 **JOE**<br>
 ... Wrong drink, taste so bitter.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos015"/>[#015] Audio\_Base\_696\_07\_13
+## <a id="jos015"/>\[#015\] Audio\_Base\_696\_07\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1582,7 +1582,7 @@ Yeah...
 **Saxon**<br>
 ... Come up here. Pops will treat you to a drink.
 
-*\[→Signal switch to Cam\_Cafe\_01\]*
+_\[→Signal switch to Cam\_Cafe\_01\]_
 
 **JOE**<br>
 ... They are all good people and are serious about making a splash in the music world... Perhaps I'm the only one who treated it as just something fun. Whatever, it's all over now. I'll probably never see them again, ever.
@@ -1634,7 +1634,7 @@ Yeah...
 *\[Cheers\]*
 
 **JOE**<br>
-*\*Gulp!\* \*Sniff\* \*Sobs\**......
+_\*Gulp!\* \*Sniff\* \*Sobs\*_......
 
 **Saxon**<br>
 Oh? So you're the type who cries when drunk?
@@ -1646,7 +1646,7 @@ I wanted to cry back when I was talking with KAI about this. I don't want him to
 Who told you that crying means you're a sissy? Crying is what turns you into a man. So go ahead and cry. Remember, tears and laughs are the best ingredients for any good music.
 
 **JOE**<br>
-*\*Sobs!\** Shut it... old man! *\*Sobs\**...
+_\*Sobs!\*_ Shut it... old man! _\*Sobs\*_...
 
 **Saxon**<br>
 Man, if you can't hold your liquor well, how can I entrust this shop to you?
@@ -1657,11 +1657,11 @@ What... entrust...
 **Saxon**<br>
 ... Knocked out already? Too young, too young.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos016"/>[#016] Cam\_Hospital04\_697\_04\_14
+## <a id="jos016"/>\[#016\] Cam\_Hospital04\_697\_04\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1801,11 +1801,11 @@ Of course I will. Why did this pop up all of a sudden?
 **Saxon**<br>
 .... Wait till the day I pour you my last glass of booze, then we can talk about it.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos017"/>[#017] Image\_Graveyard\_697\_04\_16
+## <a id="jos017"/>\[#017\] Image\_Graveyard\_697\_04\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1819,7 +1819,7 @@ Location: Node 08 \- Cemetery
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos018"/>[#018] Audio\_Cafe\_697\_06\_07
+## <a id="jos018"/>\[#018\] Audio\_Cafe\_697\_06\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1913,11 +1913,11 @@ You mean your mixed juices? No thanks. JOE, stay alert. Don't let UNCLE down.
 **JOE**<br>
 Yawn... Got it. Stop worrying about me.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos019"/>[#019] Log\_System\_697\_08\_12
+## <a id="jos019"/>\[#019\] Log\_System\_697\_08\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1944,7 +1944,7 @@ Registered save time: 697\_0812\_0236
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos020"/>[#020] Audio\_Cafe\_697\_08\_19
+## <a id="jos020"/>\[#020\] Audio\_Cafe\_697\_08\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1968,7 +1968,7 @@ Huh? Calm down will ya, how about a drink first...
 **Wang**<br>
 STOP MESSING AROUND! QUICK!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **News**<br>
 ... Law enforcement agents ambushed several criminal organization strongholds late last night, uncovering dozens of firearms and criminal evidence. Dozens were arrested. According to the info, included in the arrested criminals are several key figures of Node 08's notorious Ando gang...
@@ -2060,11 +2060,11 @@ No need to be nervous. I can turn that info into an eternal secret. Today, I'm o
 **Diego**<br>
 A brand\-new order... or something like that.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos021"/>[#021] Cam\_Cafe\_697\_08\_19
+## <a id="jos021"/>\[#021\] Cam\_Cafe\_697\_08\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2203,18 +2203,18 @@ Of course! I'm beginning to like you even more, boy!
 **Zark**<br>
 Arooo...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos022"/>[#022] Call\_Fang\_698\_02\_12
+## <a id="jos022"/>\[#022\] Call\_Fang\_698\_02\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 18  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **JOE**<br>
 ... Hello.
@@ -2297,11 +2297,11 @@ That's all there is. See you in three days.
 **JOE**<br>
 ... Bye.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos023"/>[#023] Cam\_Cafe\_698\_09\_09
+## <a id="jos023"/>\[#023\] Cam\_Cafe\_698\_09\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2440,18 +2440,18 @@ It's probably not gonna be the last time though?
 **Xenon**<br>
 Probably.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos024"/>[#024] Call\_Diego\_701\_06\_25
+## <a id="jos024"/>\[#024\] Call\_Diego\_701\_06\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 20  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **JOE**<br>
 Hello, brother Fang? Gimme a sec, I'm cleaning a glass...
@@ -2572,11 +2572,11 @@ Boy, I've been in the gang business since I was 15. It's been decades. Yet you'r
 **Diego**<br>
 No need for that. Go play with your dog.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos025"/>[#025] Mail\_Diego\_701\_06\_25
+## <a id="jos025"/>\[#025\] Mail\_Diego\_701\_06\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2594,14 +2594,14 @@ D.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos026"/>[#026] Cam\_Cafe\_701\_06\_28
+## <a id="jos026"/>\[#026\] Cam\_Cafe\_701\_06\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 22  |
 
 ### Log Content
-*Engines turned off*
+_Engines turned off_
 
 **Hunter**<br>
 The cargo is here. Come help.
@@ -2630,7 +2630,7 @@ A request from the buyer. Looks like we have ourselves a serious sicko. Stop yap
 **JOE**<br>
 ......
 
-*\[→Signal switch to Cam\_B1\_01\]\]*
+_\[→Signal switch to Cam\_B1\_01\]\]_
 
 **Hunter**<br>
 We should wait a moment. The buyer should be coming anytime... ARGH!
@@ -2744,11 +2744,11 @@ It's s\*\*\* you made; deal with it yourself.
 **Angus**<br>
 Just find a random place and bury it. Hurry up.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos027"/>[#027] Image\_Zark\_700\_02\_20
+## <a id="jos027"/>\[#027\] Image\_Zark\_700\_02\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2762,7 +2762,7 @@ Location: JOEZ Cafe
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos028"/>[#028] Cam\_Cafe\_702\_10\_01
+## <a id="jos028"/>\[#028\] Cam\_Cafe\_702\_10\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2795,13 +2795,13 @@ Nah, where do you think this is? It's 08, any type of people can be found here.<
 But cold saké... indeed not an order you see every day.
 
 **Hayato**<br>
-Back home we call this "Yukihie", refreshes the brain quite well... *\*Gulp!\**
+Back home we call this "Yukihie", refreshes the brain quite well... _\*Gulp!\*_
 
 **JOE**<br>
 Yukihie, I see...
 
 **Hayato**<br>
-*\*Gulp!\**
+_\*Gulp!\*_
 
 **JOE**<br>
 Jasus, slow down. If you get drunk so fast, I'm gonna be the one carrying your limp body outside.<br>
@@ -2814,7 +2814,7 @@ I'm... not exactly the type who's good at chatting.
 Haha, it's fine. I'm JOE, and you are?
 
 **Hayato**<br>
-Hayato... *\*Gulp!\**
+Hayato... _\*Gulp!\*_
 
 **JOE**<br>
 Did you get dumped?
@@ -2832,14 +2832,14 @@ I'm... looking for a female.
 Girlfriend?
 
 **Hayato**<br>
-More or less my childhood friend, been missing for years already... *\*Gulp!\**
+More or less my childhood friend, been missing for years already... _\*Gulp!\*_
 
 **JOE**<br>
 For years... could it be that she already... ah, I'm sorry.
 
 **Hayato**<br>
 No need to be...I gave up a long time ago too. In Node 03, missing people usually stay missing forever. It's practically a part of everyday life.<br>
-However, for some unknown reason, I just always have this feeling that she is right here in Node 08. A very powerful feeling too...*\*Gulp!\**
+However, for some unknown reason, I just always have this feeling that she is right here in Node 08. A very powerful feeling too..._\*Gulp!\*_
 
 **JOE**<br>
 ... If you're looking for someone, maybe you've come to the right location.<br>
@@ -2866,11 +2866,11 @@ Hoho, lemme take a look. Heard from folks that Node 03 is where all the cute gal
 **Hayato**<br>
 ...... Kaori......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos029"/>[#029] Cam\_DragonSt\_693\_06\_03
+## <a id="jos029"/>\[#029\] Cam\_DragonSt\_693\_06\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2884,7 +2884,7 @@ Location: Node 03 \- Wolong St.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos030"/>[#030] Cam\_Cafe\_702\_08\_18
+## <a id="jos030"/>\[#030\] Cam\_Cafe\_702\_08\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2915,7 +2915,7 @@ Hey, you can't even hold your glass properly. Take a break.
 ......
 
 **JOE**<br>
-Zark... *\*sniff sniff\**...
+Zark... _\*sniff sniff\*_...
 
 **Xenon**<br>
 ... I miss him as well, but his time is already up. Can't do anything about that.
@@ -2927,7 +2927,7 @@ Zark... *\*sniff sniff\**...
 What?
 
 **JOE**<br>
-Those bastards...*\*sniff sniff\**, sorry...
+Those bastards..._\*sniff sniff\*_, sorry...
 
 **Xenon**<br>
 ......
@@ -2987,11 +2987,11 @@ The devil... will never be satisfied with just one finger. Once you fall into it
 
 *\[Doorbell\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos031"/>[#031] Audio\_Graveyard\_702\_09\_29
+## <a id="jos031"/>\[#031\] Audio\_Graveyard\_702\_09\_29
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3142,11 +3142,11 @@ However, you must promise me one thing: make the right decision, one that you tr
 **Xenon**<br>
 Yes, I will. I promise you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos032"/>[#032] Audio\_Base\_702\_09\_30
+## <a id="jos032"/>\[#032\] Audio\_Base\_702\_09\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3173,7 +3173,7 @@ Simon, what I'm about to tell you is everything that I have done here, in this v
 **JOE**<br>
 ... This thing started all the way back with pops...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **JOE**<br>
 ... And just like that, all the transactions take place here. Even until now, this cafe is still offering the same services, operating among the gangs...
@@ -3296,11 +3296,11 @@ Are you saying that big sis is...?
 **Xenon**<br>
 ... Here's my personal view on all this...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos033"/>[#033] Audio\_Cafe\_702\_10\_19
+## <a id="jos033"/>\[#033\] Audio\_Cafe\_702\_10\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3308,7 +3308,7 @@ Are you saying that big sis is...?
 
 ### Log Content
 **[News]**<br>
-*...after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles are among the criminals arrested...*
+_...after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles are among the criminals arrested..._
 
 **JOE**<br>
 Ha... The case is solved... Nice one, Simon!
@@ -3343,7 +3343,7 @@ What's wrong? Your face has "nervous" written all over it.
 No, why would you ask that? There aren't any transactions lately, right?<br>
 Give me a Tequila.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Glass slides\]*
 
@@ -3458,11 +3458,11 @@ Adios...
 **JOE**<br>
 Zark... please, give me courage... please...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos034"/>[#034] cyTus\_Server03\_702\_11\_03
+## <a id="jos034"/>\[#034\] cyTus\_Server03\_702\_11\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3473,47 +3473,47 @@ Zark... please, give me courage... please...
 Greetings, Mr. R. I found you a seller.
 
 **[Rald]**<br>
-*Hello, successor. It's not like this is the first time we exchanged information. Why do you have to be so formal?*
+_Hello, successor. It's not like this is the first time we exchanged information. Why do you have to be so formal?_
 
 **JOE**<br>
 You are my customer. This is a job... The seller wants information regarding the secret passageways in Node 08's outskirt areas. As long as you can provide it, this transaction will be a done deal.<br>
 I would like you to include my handling fees as well.
 
 **[Rald]**<br>
-*The secret passageways in the outskirt areas... That is highly\-classified stuff that both the light and shadow sides of society are pursuing...  Bringing up such a request, and willing to provide me information... The seller is unquestionably related to the Administration Bureau. Young lad, I hope you realize that you're walking on extremely thin ice.*
+_The secret passageways in the outskirt areas... That is highly\-classified stuff that both the light and shadow sides of society are pursuing...  Bringing up such a request, and willing to provide me information... The seller is unquestionably related to the Administration Bureau. Young lad, I hope you realize that you're walking on extremely thin ice._
 
 **JOE**<br>
 I have my connections... No need for you to be concerned.
 
 **[Rald]**<br>
-*Hoho... Quick reminder, successor. When Saxon was still around, this was not how you people do business.*
+_Hoho... Quick reminder, successor. When Saxon was still around, this was not how you people do business._
 
 **JOE**<br>
 I do things my way. You just haven't understood me well enough.
 
 **[Rald]**<br>
-*This is where you are wrong. About you, I definitely know plenty...<br>
-Sparing other unrelated details, at the very least, I am very well aware of your relationship with Simon Jackson.*
+_This is where you are wrong. About you, I definitely know plenty...<br>
+Sparing other unrelated details, at the very least, I am very well aware of your relationship with Simon Jackson._
 
 **JOE**<br>
 ......!
 
 **[Rald]**<br>
-*No need to be shocked. On the day I requested the transaction, I mentioned his name. For an instant, you hesitated. That's why I decided to look into it...<br>
-Band name's Crystal PuNK, right? Still too young, but the music is quite good. You can feel the power.*
+_No need to be shocked. On the day I requested the transaction, I mentioned his name. For an instant, you hesitated. That's why I decided to look into it...<br>
+Band name's Crystal PuNK, right? Still too young, but the music is quite good. You can feel the power._
 
 **JOE**<br>
 ... So what? What is there to hide about this?
 
 **[Rald]**<br>
-*Then perhaps you should try to hide it. If someone wants to harm your friend, you are his biggest weakness.<br>
-Oh, or are you the one who's most aware of this?*
+_Then perhaps you should try to hide it. If someone wants to harm your friend, you are his biggest weakness.<br>
+Oh, or are you the one who's most aware of this?_
 
 **JOE**<br>
 ......
 
 **[Rald]**<br>
-*Whatever. I've already sent the information the seller requested to you. The handling fees are transferred to your account as well. You take a look. This dark web travels a long way to the server at Node 03. The signal is so pathetic that every time I use it, I'm worried about an error occurring.*
+_Whatever. I've already sent the information the seller requested to you. The handling fees are transferred to your account as well. You take a look. This dark web travels a long way to the server at Node 03. The signal is so pathetic that every time I use it, I'm worried about an error occurring._
 
 *\[File transfer\]*
 
@@ -3523,45 +3523,45 @@ Everything is fine. I will now send you the info you requested.
 *\[File transfer\]*
 
 **[Rald]**<br>
-*Got it. Let me take a look... perfect. Even has footage of that guy's arrest. <br>
-It was certainly the right choice to approach you for this deal.*
+_Got it. Let me take a look... perfect. Even has footage of that guy's arrest. <br>
+It was certainly the right choice to approach you for this deal._
 
 **JOE**<br>
 Arrest...
 
 **[Rald]**<br>
-*......*
+_......_
 
 **[Rald]**<br>
-*One more question.<br>
-Did you know that he is Æsir? Or, he kept you in the dark too and you didn't notice it at all throughout all these years?*
+_One more question.<br>
+Did you know that he is Æsir? Or, he kept you in the dark too and you didn't notice it at all throughout all these years?_
 
 **JOE**<br>
 ... Simon is indeed a phenomenal hacker. However, he is definitely not that Æsir person. The admins got the wrong guy.
 
 **[Rald]**<br>
-*Ho?*
+_Ho?_
 
 **JOE**<br>
 You seem to be investigating the Æsir incident as well, right? No matter what you want to do, I for one is certain that Simon is innocent. He will be released by the admins in no time.
 
 **[Rald]**<br>
-*Then I have some bad news for you.<br>
-From what I've heard, the Æsir incident has caused immense pressure to the admins. On top of that, the civilian riots a while ago have made them incredibly nervous. Therefore, they plan to make him plead guilty as soon as possible.*
+_Then I have some bad news for you.<br>
+From what I've heard, the Æsir incident has caused immense pressure to the admins. On top of that, the civilian riots a while ago have made them incredibly nervous. Therefore, they plan to make him plead guilty as soon as possible._
 
 **JOE**<br>
 That's bulls\*\*\*. They can't...
 
 **[Rald]**<br>
-*Young lad, You should know very well about the methods they use to doom a person... Hide the truth, force a conviction, manipulate the public... In the end, the gates of hell will be opened to him.<br>
-When it comes to these sort of things, the admins are even more brutal than the gangs. And that, is the end that awaits Simon Jackson.*
+_Young lad, You should know very well about the methods they use to doom a person... Hide the truth, force a conviction, manipulate the public... In the end, the gates of hell will be opened to him.<br>
+When it comes to these sort of things, the admins are even more brutal than the gangs. And that, is the end that awaits Simon Jackson._
 
 **JOE**<br>
 ......
 
 **[Rald]**<br>
-*... Despite that, you seem to firmly believe that "Simon Jackson = Æsir " is a lie.<br>
-If so, accept this! You will have a use for it.*
+_... Despite that, you seem to firmly believe that "Simon Jackson = Æsir " is a lie.<br>
+If so, accept this! You will have a use for it._
 
 *\[File transfer\]*
 
@@ -3573,11 +3573,11 @@ What the hell... An encrypted file...
 Why are you giving me this stuff?
 
 **[Rald]**<br>
-*In order to break the power of lies, one must only rely on the truth.<br>
-Keep it somewhere safe! It's a free gift from me. Whatever you want to do with it, I will not interfere, successor...*
+_In order to break the power of lies, one must only rely on the truth.<br>
+Keep it somewhere safe! It's a free gift from me. Whatever you want to do with it, I will not interfere, successor..._
 
 **[cyTus System]**<br>
-*Rald has logged out of the block*
+_Rald has logged out of the block_
 
 **JOE**<br>
 ......
@@ -3585,11 +3585,11 @@ Keep it somewhere safe! It's a free gift from me. Whatever you want to do with i
 **JOE**<br>
 Simon...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos035"/>[#035] cyTus\_Server03\_702\_11\_06
+## <a id="jos035"/>\[#035\] cyTus\_Server03\_702\_11\_06
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3597,95 +3597,95 @@ Simon...
 
 ### Log Content
 **[cyTus System]**<br>
-*Rald has logged in to the block*
+_Rald has logged in to the block_
 
 **JOE**<br>
 R, what do you need this time?
 
 **[Rald]**<br>
-*Good morning, successor. The things I'm doing this time is a bit more... dynamic. I'm going to need some helpers and preparations in advance. Therefore, I would like to request your service.*
+_Good morning, successor. The things I'm doing this time is a bit more... dynamic. I'm going to need some helpers and preparations in advance. Therefore, I would like to request your service._
 
 **JOE**<br>
 Dynamic...?
 
 **[Rald]**<br>
-*Indeed. This time, we're doing a "jailbreak" operation, to rescue a certain "old friend" from the advanced restricted area.*
+_Indeed. This time, we're doing a "jailbreak" operation, to rescue a certain "old friend" from the advanced restricted area._
 
 **JOE**<br>
 ......!
 
 **[Rald]**<br>
-*Here's the detailed proposal. Basically, we need one person who would listen to my commands and physically infiltrate the location. As with the list of people who needs to be paid off in advance, I've placed it in the attached files. You're an expert regarding this part, aren't you? You may have to shoulder the load here. Special attention is required for here, here and here; we'll need a gunman who is experienced in dealing with drones to get past those sections.*
+_Here's the detailed proposal. Basically, we need one person who would listen to my commands and physically infiltrate the location. As with the list of people who needs to be paid off in advance, I've placed it in the attached files. You're an expert regarding this part, aren't you? You may have to shoulder the load here. Special attention is required for here, here and here; we'll need a gunman who is experienced in dealing with drones to get past those sections._
 
 **JOE**<br>
 ... This...
 
 **[Rald]**<br>
-*What's the matter? Is there a part that you're particularly familiar with?*
+_What's the matter? Is there a part that you're particularly familiar with?_
 
 **JOE**<br>
 ... No, nothing.
 
 **[Rald]**<br>
-*\*Chuckles\* I know what you are thinking. However, I hope that you can distribute this request while keeping the criminal we're rescuing anonymous.*
+_\*Chuckles\* I know what you are thinking. However, I hope that you can distribute this request while keeping the criminal we're rescuing anonymous._
 
 **JOE**<br>
 Why?
 
 **[Rald]**<br>
-*Why...? Hmm... because it would be more interesting that way.*
+_Why...? Hmm... because it would be more interesting that way._
 
 **JOE**<br>
 ......
 
 **[Rald]**<br>
-*Regarding the rewards, I've just handled your portion and the down payment. They should be deposited to your account in a few days. Here.*
+_Regarding the rewards, I've just handled your portion and the down payment. They should be deposited to your account in a few days. Here._
 
 **JOE**<br>
 ...! That's a lot!
 
 **[Rald]**<br>
-*I said before, this operation is more dynamic. I have no intention of letting this plan fail, as it would cause serious harm to my reputation.*
+_I said before, this operation is more dynamic. I have no intention of letting this plan fail, as it would cause serious harm to my reputation._
 
 **JOE**<br>
 Understood... No problem with the people on the list too. They are all folks who have connections with the organization.<br>
 Dude, you're indeed amazing... The fact that you can investigate and provide all these details has made my job so much easier too.
 
 **[Rald]**<br>
-*\*Chuckles\* Flattering me won't get you any additional benefits though. Well then, I shall take my leave. I am quite excited about the resumes we will receive for this request. Goodbye.*
+_\*Chuckles\* Flattering me won't get you any additional benefits though. Well then, I shall take my leave. I am quite excited about the resumes we will receive for this request. Goodbye._
 
 **JOE**<br>
 Wait!
 
 **[Rald]**<br>
-*Hmm?*
+_Hmm?_
 
 **JOE**<br>
 Why... are you rescuing him? Will he be safe?
 
 **[Rald]**<br>
-*Rest assured. My future operations require his ability. I will not let him be harmed. However, it's still ultimately up to him to decide whether he wants to place himself in harm's way or not.*
+_Rest assured. My future operations require his ability. I will not let him be harmed. However, it's still ultimately up to him to decide whether he wants to place himself in harm's way or not._
 
 **JOE**<br>
 Who... are you exactly?
 
 **[Rald]**<br>
-*We've had so many transactions, yet you still can't guess my identity? We even met each other in person several times. It seems that I've overestimated you a bit, successor.*
+_We've had so many transactions, yet you still can't guess my identity? We even met each other in person several times. It seems that I've overestimated you a bit, successor._
 
 **JOE**<br>
 ... Nevermind. Forget I ever asked.
 
 **[Rald]**<br>
-*\*Chuckles\* I'm just a musician who's a bit... old\-fashioned.*
+_\*Chuckles\* I'm just a musician who's a bit... old\-fashioned._
 
 **[cyTus System]**<br>
-*Rald has logged out of the block*
+_Rald has logged out of the block_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos036"/>[#036] Cam\_CArea\_702\_11\_08
+## <a id="jos036"/>\[#036\] Cam\_CArea\_702\_11\_08
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3729,7 +3729,7 @@ Quiet! Got company!
 **JOE**<br>
 !? Oh crap...
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 **Agent B**<br>
 You're hallucinating, aren't you? Must be because you drank too much last night.
@@ -3802,7 +3802,7 @@ Who knows if you're bulls\*\*\*ing us? Before we confirm your identity, stay her
 **JOE**<br>
 Sorry 'bout that, mate. Haha... I'm thirsty. Do you have booze?
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 **Cherry**<br>
 Is he going to be alright...?<br>
@@ -3810,11 +3810,11 @@ Sorry... Leave Simon up to me.
 
 *\[Footsteps\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos037"/>[#037] Audio\_St91\_702\_11\_10
+## <a id="jos037"/>\[#037\] Audio\_St91\_702\_11\_10
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3827,8 +3827,8 @@ Sorry... Leave Simon up to me.
 You f\*\*\*ing piece of s\*\*\* machine! The cards you dealt me were totally rigged! You really think I can't tell such clear bulls\*\*\*!?
 
 **[Drone]**<br>
-*Gambling comes with its own risk. Customer, please control your emotions! <br>
-If your numbers exceed the standard, this unit will activate "cleanup mode" and eradicate any dangerous targets!*
+_Gambling comes with its own risk. Customer, please control your emotions! <br>
+If your numbers exceed the standard, this unit will activate "cleanup mode" and eradicate any dangerous targets!_
 
 **Hunter**<br>
 Tch... I'm not coming to this goddamn place again!
@@ -3966,11 +3966,11 @@ Whew\~ Sighs... ha, haha, hahaha!
 **JOE**<br>
 ... That guy... turns out he's not that hard to handle.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos038"/>[#038] Audio\_Cafe\_702\_11\_17
+## <a id="jos038"/>\[#038\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4053,7 +4053,7 @@ Aroma\-chan! Where are you going!? Wait for me!
 **JOE**<br>
 Hey! NEKO!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **JOE**<br>
 That's... how is that... that can't be right...
@@ -4064,7 +4064,7 @@ That's... how is that... that can't be right...
 NEKO!? How did it go? Where's PAFF?
 
 **NEKO#ΦωΦ**<br>
-She was so fast. NEKO couldn't catch up to her... *\*Huff\*... \*Puff\**
+She was so fast. NEKO couldn't catch up to her... _\*Huff\*... \*Puff\*_
 
 **JOE**<br>
 Those names she just mentioned, I think I know who they are.
@@ -4109,16 +4109,16 @@ What the hell? Who would call at this time...<br>
 Hello!?
 
 **[???]**<br>
-*JOE, it's me.*
+_JOE, it's me._
 
 **JOE**<br>
 Simon!?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos039"/>[#039] Audio\_Cafe\_702\_11\_17
+## <a id="jos039"/>\[#039\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4132,84 +4132,84 @@ What the hell? Who would call at this time...<br>
 Hello!?
 
 **[???]**<br>
-*JOE, it's me.*
+_JOE, it's me._
 
 **JOE**<br>
 Simon!?
 
 **[Xenon]**<br>
-*Is everything fine on your side?*
+_Is everything fine on your side?_
 
 **JOE**<br>
 NOPE! Nothing is fine here! So many things have happened! My brain is having trouble comprehending everything!<br>
 Besides, shouldn't I be the one asking you? Where are you now? Is this call secure?
 
 **[Xenon]**<br>
-*Yes. I'm calling from Sherry's communication device with encryption. Have you seen the news?*
+_Yes. I'm calling from Sherry's communication device with encryption. Have you seen the news?_
 
 **JOE**<br>
 ......?<br>
 No... I'll watch it now.
 
 **[TV]**<br>
-*... Just now, we've also been gradually receiving news regarding the drones' attacks on the cities. Due to the extreme chaos at the site, the number of casualties and other details are still unknown...*
+_... Just now, we've also been gradually receiving news regarding the drones' attacks on the cities. Due to the extreme chaos at the site, the number of casualties and other details are still unknown..._
 
 **JOE**<br>
 Yikes... That seems really bad. Rest assured though. The location in the news is quite a distance from here. From the looks of it, it shouldn't be anything serious.
 
 **[Xenon]**<br>
-*Good to hear.*
+_Good to hear._
 
 **JOE**<br>
 Ah, now's not the time to talk about that!<br>
 I just experienced something that's actually a big deal!
 
 **[Xenon]**<br>
-*... What is it?*
+_... What is it?_
 
 **JOE**<br>
 PAFF and NEKO...
 
 **[Xenon]**<br>
-*PAFF and NEKO??*
+_PAFF and NEKO??_
 
 **JOE**<br>
 Ahh... my brain is still in complete chaos. All in all, you should calm down and listen to me!
 
 **[Xenon]**<br>
-*You're the one that should calm down. What happened exactly?*
+_You're the one that should calm down. What happened exactly?_
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **JOE**<br>
 ... That's pretty much it. Oh, and both of them rushed out of my shop just now.
 
 **[Xenon]**<br>
-*......<br>
-Understood. However, this encrypted call won't last too long. Sherry and I are at a really bizarre underground facility right now. We're about to be on our way to Node 03. I'll contact you again once we arrived in Node 03. I'll contact NEKO too.*
+_......<br>
+Understood. However, this encrypted call won't last too long. Sherry and I are at a really bizarre underground facility right now. We're about to be on our way to Node 03. I'll contact you again once we arrived in Node 03. I'll contact NEKO too._
 
 **JOE**<br>
 Gotcha! Ah, one more thing. Once you get there, go find KAI first. I told him about this. He'll probably figure out a way to get you guys a place to stay for a short while.
 
 **[Xenon]**<br>
-*... Don't get unrelated people involved in this stuff, will you...*
+_... Don't get unrelated people involved in this stuff, will you..._
 
 **JOE**<br>
 What are you talking about? We're all related through "Crystal PuNK", right? If there's trouble, of course we'll help each other out!
 
 **[Xenon]**<br>
-*Okay, okay, you win... Alright, I get it. Then that's it for now. Also, thanks.*
+_Okay, okay, you win... Alright, I get it. Then that's it for now. Also, thanks._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **JOE**<br>
 Sigh...... I need a drink...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos040"/>[#040] Audio\_Baro\_702\_12\_21\_1
+## <a id="jos040"/>\[#040\] Audio\_Baro\_702\_12\_21\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4315,7 +4315,7 @@ Yeah, I am threatening you f\*\*\*s! You got a problem!?
 ... Hunter! They're our elders...
 
 **Hunter**<br>
-*\*spit\**...! So what? What the hell is there to discuss with the boss of a has\-been gang like that? You think just cuz Diego died, you are free to leave? Bulls\*\*\*! If you wanna live longer, you better listen and listen good!
+_\*spit\*_...! So what? What the hell is there to discuss with the boss of a has\-been gang like that? You think just cuz Diego died, you are free to leave? Bulls\*\*\*! If you wanna live longer, you better listen and listen good!
 
 **Fang**<br>
 ……
@@ -4349,11 +4349,11 @@ S\*\*\*head!?
 **Fang**<br>
 ... It's you?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos041"/>[#041] Audio\_Baro\_702\_12\_21\_2
+## <a id="jos041"/>\[#041\] Audio\_Baro\_702\_12\_21\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4463,7 +4463,7 @@ Brother Fang, the admin operation that arrested the remaining Ando members reall
 Getting rid of all obstacles just for your ideals, not even caring if it's your own people... I don't want to see my friends living in a world like that.
 
 **Zheng**<br>
-*\*Chuckles\**, everyone can see it clearly. Eh…well then, whatta you wanna do? Successor of Café.
+_\*Chuckles\*_, everyone can see it clearly. Eh…well then, whatta you wanna do? Successor of Café.
 
 **JOE**<br>
 Brother Zheng, Brother Feng, and all who are here. I, Joe Miller, swear upon Pops' name, that the Café will help everyone maintain order, and bring things back to the way Pops envisioned. However, I can't do it myself... please!
@@ -4520,7 +4520,7 @@ However, the purer the idea, the harder it is to implement. I hope you can walk 
 Don't worry, I won't screw up this time...<br>
 Let me handle it.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

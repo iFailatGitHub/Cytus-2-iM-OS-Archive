@@ -1,37 +1,37 @@
 # Neko OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Cam\_Park03\_689\_06\_13](#naos001)
-- [[#002] Audio\_Shiraishi\_690\_08\_12](#naos002)
-- [[#003] Cam\_Class\_I\-6\_696\_12\_01](#naos003)
-- [[#004] Audio\_St07\_697\_01\_08](#naos004)
-- [[#005] Cam\_Dash\_697\_06\_07](#naos005)
-- [[#006] Cam\_NL\_697\_11\_16](#naos006)
-- [[#007] Audio\_NL\_698\_07\_07](#naos007)
-- [[#008] Audio\_Asakura\_698\_08\_15](#naos008)
-- [[#009] Audio\_Arcade\_698\_08\_15](#naos009)
-- [[#010] Cam\_Velvet\_698\_10\_06](#naos010)
-- [[#011] Cam\_76St\_698\_11\_02](#naos011)
-- [[#012] Audio\_Velvet\_698\_11\_19](#naos012)
-- [[#013] Audio\_Neko\_698\_11\_24](#naos013)
-- [[#014] Cam\_Asakura\_698\_12\_18](#naos014)
-- [[#015] Audio\_Arcade\_698\_12\_18](#naos015)
-- [[#016] Cam\_Studio\_698\_12\_18](#naos016)
-- [[#017] Audio\_Mono\_698\_12\_19](#naos017)
-- [[#018] Audio\_Mono\_698\_12\_28](#naos018)
-- [[#019] Audio\_Mono\_699\_04\_12](#naos019)
-- [[#020] Cam\_Shiraishi\_699\_04\_20](#naos020)
-- [[#021] Call\_Linda\_699\_02\_25](#naos021)
-- [[#022] Audio\_Neko\_699\_05\_01](#naos022)
-- [[#023] Cam\_Asakura\_699\_05\_18](#naos023)
-- [[#024] Audio\_Studio\_699\_05\_19](#naos024)
-- [[#025] Cam\_Dash\_699\_05\_20\_1](#naos025)
-- [[#026] Cam\_Dash\_699\_05\_20\_2](#naos026)
-- [[#027] Audio\_Studio\_699\_06\_03](#naos027)
-- [[#028] Cam\_Asakura\_701\_09\_28](#naos028)
-- [[#029] Cam\_76st\_702\_06\_11](#naos029)
-- [[#030] Cam\_NL\_702\_08\_19](#naos030)
+- [\[#001\] Cam\_Park03\_689\_06\_13](#naos001)
+- [\[#002\] Audio\_Shiraishi\_690\_08\_12](#naos002)
+- [\[#003\] Cam\_Class\_I\-6\_696\_12\_01](#naos003)
+- [\[#004\] Audio\_St07\_697\_01\_08](#naos004)
+- [\[#005\] Cam\_Dash\_697\_06\_07](#naos005)
+- [\[#006\] Cam\_NL\_697\_11\_16](#naos006)
+- [\[#007\] Audio\_NL\_698\_07\_07](#naos007)
+- [\[#008\] Audio\_Asakura\_698\_08\_15](#naos008)
+- [\[#009\] Audio\_Arcade\_698\_08\_15](#naos009)
+- [\[#010\] Cam\_Velvet\_698\_10\_06](#naos010)
+- [\[#011\] Cam\_76St\_698\_11\_02](#naos011)
+- [\[#012\] Audio\_Velvet\_698\_11\_19](#naos012)
+- [\[#013\] Audio\_Neko\_698\_11\_24](#naos013)
+- [\[#014\] Cam\_Asakura\_698\_12\_18](#naos014)
+- [\[#015\] Audio\_Arcade\_698\_12\_18](#naos015)
+- [\[#016\] Cam\_Studio\_698\_12\_18](#naos016)
+- [\[#017\] Audio\_Mono\_698\_12\_19](#naos017)
+- [\[#018\] Audio\_Mono\_698\_12\_28](#naos018)
+- [\[#019\] Audio\_Mono\_699\_04\_12](#naos019)
+- [\[#020\] Cam\_Shiraishi\_699\_04\_20](#naos020)
+- [\[#021\] Call\_Linda\_699\_02\_25](#naos021)
+- [\[#022\] Audio\_Neko\_699\_05\_01](#naos022)
+- [\[#023\] Cam\_Asakura\_699\_05\_18](#naos023)
+- [\[#024\] Audio\_Studio\_699\_05\_19](#naos024)
+- [\[#025\] Cam\_Dash\_699\_05\_20\_1](#naos025)
+- [\[#026\] Cam\_Dash\_699\_05\_20\_2](#naos026)
+- [\[#027\] Audio\_Studio\_699\_06\_03](#naos027)
+- [\[#028\] Cam\_Asakura\_701\_09\_28](#naos028)
+- [\[#029\] Cam\_76st\_702\_06\_11](#naos029)
+- [\[#030\] Cam\_NL\_702\_08\_19](#naos030)
 
-## <a id="naos001"/>[#001] Cam\_Park03\_689\_06\_13
+## <a id="naos001"/>\[#001\] Cam\_Park03\_689\_06\_13
 ### Log Content
 **Neko**<br>
 Papa, look!
@@ -80,7 +80,7 @@ NEKO, do you want to try making it? I can let you use the cutting knife today.
 **Neko**<br>
 Really!? I want to try!!
 
-*\[→Signal Switch to Asakura's\]*
+_\[→Signal Switch to Asakura's\]_
 
 *\[Door Opens\]*
 
@@ -108,7 +108,7 @@ Here, ma. Let me help you.
 **Mayu**<br>
 Thank you, Kouhei. It's good to have you here.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Kouhei**<br>
 Saku, today... that Node 08 company called again. I was thinking...
@@ -160,11 +160,11 @@ Kouhei, I don't know what your imagination of happiness is, but that's all just 
 **Neko**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos002"/>[#002] Audio\_Shiraishi\_690\_08\_12
+## <a id="naos002"/>\[#002\] Audio\_Shiraishi\_690\_08\_12
 ### Log Content
 **Saku**<br>
 NEKO? Come over here. Daddy and mommy have something to tell you.
@@ -231,7 +231,7 @@ No... This is not picking toys. This time, you have to pick one.
 **Neko**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 ......
@@ -275,16 +275,16 @@ Then... when you're with daddy, be a good child, ok?
 ...... OK.
 
 **Saku**<br>
-*\*Cries\*...*
+_\*Cries\*..._
 
 **Kouhei**<br>
 NEKO... I'm sorry... Thank you!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos003"/>[#003] Cam\_Class\_I\-6\_696\_12\_01
+## <a id="naos003"/>\[#003\] Cam\_Class\_I\-6\_696\_12\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -318,7 +318,7 @@ Yeah. Besides, I think that girl is kinda scary.
 **Neko**<br>
 Aww, come on. Don't act like that\~ NEKO's gonna ask her!
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 **Neko**<br>
 Lin\~da\~chan! I\~ found\~ you!
@@ -428,11 +428,11 @@ It's Node 08's best Live House!
 **Neko**<br>
 You bet!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos004"/>[#004] Audio\_St07\_697\_01\_08
+## <a id="naos004"/>\[#004\] Audio\_St07\_697\_01\_08
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -491,7 +491,7 @@ We've arrived at your home.
 **Neko**<br>
 Uh\-huh. See ya tonight\~ Buh\-bye\~
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 *\[Door Opens\]*
 
@@ -530,7 +530,7 @@ NEKO learned my skills directly from mommy, of course I'm good at this! Here, fi
 **Kouhei**<br>
 Yes, ma'am\~
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Cutting\]*
 
@@ -567,11 +567,11 @@ Got it. Be careful, and don't forget to call me if anything happens.
 **Neko**<br>
 Ahhhh! Daddy what are you doing!? Fire! The fire!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos005"/>[#005] Cam\_Dash\_697\_06\_07
+## <a id="naos005"/>\[#005\] Cam\_Dash\_697\_06\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -699,7 +699,7 @@ Ummm... No, I didn't. NEKO, don't just blurt out things!
 **Yukiko**<br>
 Haha... You two are so close to each other.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Kouhei**<br>
 We're here. This is the place, right?<br>
@@ -725,11 +725,11 @@ She seems to like you a lot.
 **Yukiko**<br>
 Thank goodness...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos006"/>[#006] Cam\_NL\_697\_11\_16
+## <a id="naos006"/>\[#006\] Cam\_NL\_697\_11\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -800,7 +800,7 @@ Arghhh! Stupid daddy! Smelly Feet! Big dumb liar...
 **Neko**<br>
 ... W, what are you looking at? Go watch TV in the living room yourself. NEKO's gonna go back to sleep.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Glass shatters\]*
 
@@ -809,13 +809,13 @@ YIKES!?<br>
 What, what happened?
 
 **Kenta**<br>
-*\*Sobs\*... \*Cries\*\~\~*
+_\*Sobs\*... \*Cries\*\~\~_
 
 **Neko**<br>
 ... Did you break the glass because you're trying to drink water? Are you hurt!?<br>
 Oh god oh dear... D, don't cry...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 ![naos0601.png](./attachments/naos0601.png)
 
@@ -831,13 +831,13 @@ Thank goodness, you're not hurt...<br>
 Man\~ Guess I can't just leave you alone. If you want something, just tell big sister, got it? If anything happens to you, it would cause a boatload of trouble!
 
 **Kenta**<br>
-... *\*Sniff\**... (Nods)
+... _\*Sniff\*_... (Nods)
 
 **Neko**<br>
 Ahhhh, come on, stop crying. You're a boy, aren't you?
 
 **Kenta**<br>
-... *\*Sniff sniff\**... (Nods)
+... _\*Sniff sniff\*_... (Nods)
 
 **Neko**<br>
 Uwaaa... What a pain in the neck...... B, but, he's so adorable...<br>
@@ -846,7 +846,7 @@ Ah! Video games! Do you like video games? Big sister has a lot of fun games!
 **Kenta**<br>
 ... Yes...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 Ah, you have to jump here! That's it, that's it!
@@ -895,11 +895,11 @@ Kouhei, I...
 **Kouhei**<br>
 No need to worry. She just so happens to be at that age. Give her some time.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos007"/>[#007] Audio\_NL\_698\_07\_07
+## <a id="naos007"/>\[#007\] Audio\_NL\_698\_07\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -915,11 +915,11 @@ I'm home.
 ......
 
 **[Message]**<br>
-*Didn't you say that you'll be home at six???
+_Didn't you say that you'll be home at six???
 
 Dinner is in the fridge, NEKO will be sleeping first. Do not disturb
 
-NEKO\#Φˋ︿ˊΦ*
+NEKO\#Φˋ︿ˊΦ_
 
 **Kouhei**<br>
 ......
@@ -1041,11 +1041,11 @@ Do whatever you please. That's all I have to say. NEKO's gonna sleep now.
 **Neko**<br>
 NEKO is so dumb for coming to Node 08 with daddy...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos008"/>[#008] Audio\_Asakura\_698\_08\_15
+## <a id="naos008"/>\[#008\] Audio\_Asakura\_698\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1071,7 +1071,7 @@ Oh... I see.
 **Yukiko**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Knock\]*
 
@@ -1093,7 +1093,7 @@ Okay. We'll wait for you, then we can start.
 **Neko**<br>
 ... Sis Yukiko is a good person... It'll be alright... Just act normally...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Kenta**<br>
 Ah, big sister, it's time to eat!
@@ -1139,7 +1139,7 @@ That's mommy's recipe! How can you just give it away to some random stranger!?
 N, NEKO?
 
 **Neko**<br>
-Mommy's meat stew... it... it's the only way NEKO can still be connected to mommy... *\*Sniff\*...*
+Mommy's meat stew... it... it's the only way NEKO can still be connected to mommy... _\*Sniff\*..._
 
 **Neko**<br>
 You...... you...... Who gave you the right to cook this dish!?
@@ -1169,16 +1169,16 @@ NEKO! Where are you going? Get back here!
 Uwaaaaaa... big sister is mad...
 
 **Yukiko**<br>
-It's alright, Kenta, it will be alright... Kouhei, you should calm down too. I'm the one to blame. I didn't know this dish meant so much to her... *\*Sobs\*... \*Cries\*...*
+It's alright, Kenta, it will be alright... Kouhei, you should calm down too. I'm the one to blame. I didn't know this dish meant so much to her... _\*Sobs\*... \*Cries\*..._
 
 **Kouhei**<br>
 ...... Yukiko......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos009"/>[#009] Audio\_Arcade\_698\_08\_15
+## <a id="naos009"/>\[#009\] Audio\_Arcade\_698\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1186,12 +1186,12 @@ It's alright, Kenta, it will be alright... Kouhei, you should calm down too. I'm
 
 ### Log Content
 **Neko**<br>
-*\*Sniffs\**
+_\*Sniffs\*_
 
 *\[Gunshot\]*
 
 **[Arcade Shooter]**<br>
-*Player Aub WIN!*
+_Player Aub WIN!_
 
 **Pedestrian A**<br>
 Hahaha! You suck!
@@ -1199,10 +1199,10 @@ Hahaha! You suck!
 **Pedestrian B**<br>
 Damnit! Another match!
 
-*\[»»» Fast Forward 30 Minutes»»»\]*
+_\[»»» Fast Forward 30 Minutes»»»\]_
 
 **[Arcade Shooter]**<br>
-*Player Aub WIN!*
+_Player Aub WIN!_
 
 **Pedestrian A**<br>
 Ha, the result's not gonna change no matter how many times we play!
@@ -1237,7 +1237,7 @@ Eek! Let go of me!!
 **Pedestrian A**<br>
 Get over here!
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 *\[Things crashing\]*
 
@@ -1298,7 +1298,7 @@ Whew...<br>
 Are you alright?
 
 **Neko**<br>
-*\*Sniff\*...*
+_\*Sniff\*..._
 
 **Xenon**<br>
 It's dangerous for a child to wander around alone this late...
@@ -1316,16 +1316,16 @@ When have I ever asked for your help? Nosy idiot... Taunting people when you can
 ......
 
 **Neko**<br>
-Go away! NEKO's going home! *\*Sniffs\*...*
+Go away! NEKO's going home! _\*Sniffs\*..._
 
 **Xenon**<br>
 ……NEKO？
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos010"/>[#010] Cam\_Velvet\_698\_10\_06
+## <a id="naos010"/>\[#010\] Cam\_Velvet\_698\_10\_06
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1356,7 +1356,7 @@ Woah\~ All stuff NEKO likes! I expect no less from Linda\-chan!
 **Linda**<br>
 Haha, let's finish this quickly, or else we're gonna miss the performance.
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 **Linda**<br>
 All the bands in the lineup today are ones we've never seen before. I'm so hyped!
@@ -1388,7 +1388,7 @@ WOW...!
 
 ![naos1001.png](./attachments/naos1001.png)
 
-*\[»»» Fast Forward 2 Hours»»»\]*
+_\[»»» Fast Forward 2 Hours»»»\]_
 
 **Neko**<br>
 Waaaaaa! I'm so glad that I decided to come to this performance! NEKO is so satisfied!!
@@ -1458,11 +1458,11 @@ Thank you, Linda\-chan. I'm so grateful to know you! Lend me your clothes, NEKO 
 Haha, stop it. Your fake crying is so bad.<br>
 Let's go.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos011"/>[#011] Cam\_76St\_698\_11\_02
+## <a id="naos011"/>\[#011\] Cam\_76St\_698\_11\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1491,7 +1491,7 @@ Poor little fella... Wanna eat this?
 **Cat**<br>
 Meow...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cat**<br>
 Meow\~
@@ -1580,7 +1580,7 @@ Don't move! Stand still and let me scan you.
 *\[ID Scan\]*
 
 **[Scanner]**<br>
-*Unable to detect target. Please scan again.*
+_Unable to detect target. Please scan again._
 
 **Agent**<br>
 Eh? Sir, please stand still!
@@ -1588,11 +1588,11 @@ Eh? Sir, please stand still!
 **Xenon**<br>
 I am standing still. That thing's broken, isn't it?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos012"/>[#012] Audio\_Velvet\_698\_11\_19
+## <a id="naos012"/>\[#012\] Audio\_Velvet\_698\_11\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1600,11 +1600,11 @@ I am standing still. That thing's broken, isn't it?
 
 ### Log Content
 **[Xenon-V]**<br>
-*That's it for tonight's performance! Thank you for coming!*
+_That's it for tonight's performance! Thank you for coming!_
 
 *\[Audience cheers\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Linda**<br>
 Xenon was so cool! That performance was so good!
@@ -1630,7 +1630,7 @@ Alright... be careful yourself. If you wander around outside past midnight, dron
 **Neko**<br>
 I know, I know\~
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 Hi, milk.
@@ -1729,11 +1729,11 @@ No worries, I won't! NEKO is very good at keeping secrets\~ Oh, and NEKO won't s
 **Xenon**<br>
 Aren't you spilling it right now...?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos013"/>[#013] Audio\_Neko\_698\_11\_24
+## <a id="naos013"/>\[#013\] Audio\_Neko\_698\_11\_24
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1784,7 +1784,7 @@ A bar? Are you sure that's okay...?
 **Xenon**<br>
 Rest assured, the owner is a good person, I think.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 Nah\~ are we not there yet? NEKO's feet are aching...
@@ -1878,11 +1878,11 @@ Wait here. I'll go bring him out here.
 **Neko**<br>
 Hmph! Always treating NEKO like a child...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos014"/>[#014] Cam\_Asakura\_698\_12\_18
+## <a id="naos014"/>\[#014\] Cam\_Asakura\_698\_12\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2041,11 +2041,11 @@ But, for the sake of defending me, you choose to lose NEKO... lose your only fam
 **Kouhei**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos015"/>[#015] Audio\_Arcade\_698\_12\_18
+## <a id="naos015"/>\[#015\] Audio\_Arcade\_698\_12\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2056,48 +2056,48 @@ But, for the sake of defending me, you choose to lose NEKO... lose your only fam
 Are you sure that you can't...?
 
 **[Linda]**<br>
-*Sorry... I really can't help you out today...*
+_Sorry... I really can't help you out today..._
 
 **Neko**<br>
 Ah\~\~ Not just today. NEKO might be without a place to live from now on...
 
 **[Linda]**<br>
-*Eh? What happened?*
+_Eh? What happened?_
 
 **Neko**<br>
 Got kicked out by daddy... No, NEKO ran away.
 
 **[Linda]**<br>
-*What!? Why!?*
+_What!? Why!?_
 
 **Neko**<br>
 Well... all in all, NEKO will figure out a way. Thanks.
 
 **[Linda]**<br>
-*The more I hear, the more concerned I get! Where are you now? The Game Center?*
+_The more I hear, the more concerned I get! Where are you now? The Game Center?_
 
 **Neko**<br>
 Uh\-huh... Don't worry about it! NEKO will be alright!
 
 **[Linda]**<br>
-*Linda! Are you on the phone with NEKO? Her family just called; where is she now?*
+_Linda! Are you on the phone with NEKO? Her family just called; where is she now?_
 
 **Neko**<br>
 Wah! Is that your mom? Don't tell them where NEKO is no matter what! That's it! Bye\-bye!
 
 **[Linda]**<br>
-*Ah, wa...*
+_Ah, wa..._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Neko**<br>
 ... What should I do now? The rain is pouring... so I can't go outside either.<br>
 Forget about it. Guess I'll play a few rounds first...
 
-*\[»»» Fast Forward to A.M. 01:41:28»»»\]*
+_\[»»» Fast Forward to A.M. 01:41:28»»»\]_
 
 **[Arcade Shooter]**<br>
-*Player NEKO\#ΦωΦ WIN! NEW RECORD!*
+_Player NEKO\#ΦωΦ WIN! NEW RECORD!_
 
 **Neko**<br>
 Yeah! Another new record!
@@ -2124,7 +2124,7 @@ Have you forgotten what I told you before? Go home.
 ... I'm not messing with you. The drones' patrol routes will reach here later. If you're still here by that time, things are going to get messy.
 
 **Neko**<br>
-*... \*Choking up\*...*
+_... \*Choking up\*..._
 
 **Xenon**<br>
 Ummm... Are you crying?
@@ -2147,10 +2147,10 @@ Are you scared!?
 **Xenon**<br>
 ... Fine, just one.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Arcade Shooter]**<br>
-*Player NEKO\#ΦωΦ WIN! NEW RECORD!*
+_Player NEKO\#ΦωΦ WIN! NEW RECORD!_
 
 **Neko**<br>
 NOICE!
@@ -2195,11 +2195,11 @@ The drones' patrol routes will reach here later, right?
 **Xenon**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos016"/>[#016] Cam\_Studio\_698\_12\_18
+## <a id="naos016"/>\[#016\] Cam\_Studio\_698\_12\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2263,7 +2263,7 @@ You wanna have a quick Jam?
 **Neko**<br>
 Absolutely! Bring it!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 ![naos1601.png](./attachments/naos1601.png)
 
@@ -2299,7 +2299,7 @@ Does it have something to do with them opposing your music interests?
 **Neko**<br>
 No... Actually...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 I see... Therefore, you suspected that Yukiko only got close to your father for his money?
@@ -2356,11 +2356,11 @@ Ah! Look! "Monophonic Entertainment" is looking for music arrangers! Isn't this 
 **Xenon**<br>
 Not listening at all...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos017"/>[#017] Audio\_Mono\_698\_12\_19
+## <a id="naos017"/>\[#017\] Audio\_Mono\_698\_12\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2370,7 +2370,7 @@ Not listening at all...
 *\[Notification\]*
 
 **[PC]**<br>
-*Chris Pinkman, you have a new voice mail.*
+_Chris Pinkman, you have a new voice mail._
 
 **Chris**<br>
 Another one? It has been so busy since we announced the public audition...<br>
@@ -2381,14 +2381,14 @@ Lemme see... Neko Asakura, 17 years old... What a weird name.... Hoho! She is cu
 Play voice mail.
 
 **[PC]**<br>
-*Playing audio attachment from Neko Asakura.*
+_Playing audio attachment from Neko Asakura._
 
 **[Neko]**<br>
-*Hello hello\~ This is NEKO. NE, KO\~ NEKO saw on iM that you guys are recruiting arrangers, right? NEKO is interested! Listen to NEKO's work! Then reply to NEKO!<br>
-OVER!*
+_Hello hello\~ This is NEKO. NE, KO\~ NEKO saw on iM that you guys are recruiting arrangers, right? NEKO is interested! Listen to NEKO's work! Then reply to NEKO!<br>
+OVER!_
 
 **[PC]**<br>
-*Replay complete.*
+_Replay complete._
 
 **Chris**<br>
 ......<br>
@@ -2397,14 +2397,14 @@ Hmm, huh? That's it? Where's the work?
 *\[Notification\]*
 
 **[PC]**<br>
-*Chris Pinkman, you have a new voice mail.<br>
-Playing audio attachment from Neko Asakura.*
+_Chris Pinkman, you have a new voice mail.<br>
+Playing audio attachment from Neko Asakura._
 
 **[Neko]**<br>
-*Hello hello\~ NEKO again! NEKO forgot to attach the work! Ahahaha! Gimme a minute! OVER!*
+_Hello hello\~ NEKO again! NEKO forgot to attach the work! Ahahaha! Gimme a minute! OVER!_
 
 **[PC]**<br>
-*Replay complete.*
+_Replay complete._
 
 **Chris**<br>
 ......
@@ -2415,14 +2415,14 @@ So.... where the heck is the work? Also what's with the OVER thing...
 *\[Notification\]*
 
 **[PC]**<br>
-*Chris Pinkman, you have a new voice mail.*
+_Chris Pinkman, you have a new voice mail._
 
 **Chris**<br>
 ......
 
 **[PC]**<br>
-*Playing audio file:<br>
-《Sunday\_Night\_Blue\_Demo》*
+_Playing audio file:<br>
+《Sunday\_Night\_Blue\_Demo》_
 
 *\[Music\]*
 
@@ -2432,11 +2432,11 @@ So.... where the heck is the work? Also what's with the OVER thing...
 **Chris**<br>
 Wait a second... Hehehe, I just thought of a great group... Better go ask sis Helena now!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos018"/>[#018] Audio\_Mono\_698\_12\_28
+## <a id="naos018"/>\[#018\] Audio\_Mono\_698\_12\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2513,88 +2513,88 @@ NEKO want a ice caramel macchiato, light ice. No mixing though, or you drink it 
 ......<br>
 OK......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos019"/>[#019] Audio\_Mono\_699\_04\_12
+## <a id="naos019"/>\[#019\] Audio\_Mono\_699\_04\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**Neko** | 15  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **[Neko]**<br>
-*Hi hi, NEKO here\~*
+_Hi hi, NEKO here\~_
 
 **Chris**<br>
 What "HI hi"? You messed up big time! You need to delete that post on iM right away!
 
 **[Neko]**<br>
-*Eh\~? What's the deal this time...*
+_Eh\~? What's the deal this time..._
 
 **Chris**<br>
 About the collab single with company T a while ago, they haven't even announced it yet. Why did you post it on your own iM already!?
 
 **[Neko]**<br>
-*Eh\~? I can't? That's a collab song with NEKO, isn't it? Why can't NEKO post it?*
+_Eh\~? I can't? That's a collab song with NEKO, isn't it? Why can't NEKO post it?_
 
 **Chris**<br>
 Idiot! That collab song has a contract! We are required to cooperate with the promotion schedule. What makes you think you can just go off\-track like that?
 
 **[Neko]**<br>
-*Muuu\~ but deleting something already posted feels really weird...*
+_Muuu\~ but deleting something already posted feels really weird..._
 
 **Chris**<br>
 That's your problem... In short, delete it now, before things get really messy!
 
 **[Neko]**<br>
-*Ok, ok. Then exactly when can I post it?*
+_Ok, ok. Then exactly when can I post it?_
 
 **Chris**<br>
 We send you the promotion schedule whenever we have a meeting. You didn't read any of them, did you?
 
 **[Neko]**<br>
-*What a pain in the neck... Why are there so many weird rules in the company? NEKO made that song...*
+_What a pain in the neck... Why are there so many weird rules in the company? NEKO made that song..._
 
 **Chris**<br>
 What's weird about that... Speaking of iM, I advise you stop gossiping about other artists on it. You didn't even keep them anonymous...
 
 **[Neko]**<br>
-*NEKO did not do that!*
+_NEKO did not do that!_
 
 **Chris**<br>
 But you totally did! Some artists are already filing complaints to us. If it's company information, try your best to not leak it. Please keep yourself under control online as well. Have you forgotten about the previous plagiarizing incident... 
 
 **[Neko]**<br>
-*Haaa!? Isn't he the one who plagiarized NEKO!? NEKO's Demo was composed last year; he just announced it earlier! The incident was a thing because too many people don't know what the hell they are talking about!<br>
-Besides, if we get to the bottom of this, we got our materials from the same sample pack. Plagiarism my a\*\*...*
+_Haaa!? Isn't he the one who plagiarized NEKO!? NEKO's Demo was composed last year; he just announced it earlier! The incident was a thing because too many people don't know what the hell they are talking about!<br>
+Besides, if we get to the bottom of this, we got our materials from the same sample pack. Plagiarism my a\*\*..._
 
 **Chris**<br>
 You can't expect an average person to know that, can you...?<br>
 Regardless, pay more attention to what you do. If this keeps happening, it makes it hard for me to promote you...
 
 **[Neko]**<br>
-*NEKO don't really give a damn about that promotion stuff. It's not like NEKO actually want to be an artist or something. As long as I get the money for my music, I'll be fine.*
+_NEKO don't really give a damn about that promotion stuff. It's not like NEKO actually want to be an artist or something. As long as I get the money for my music, I'll be fine._
 
 **Chris**<br>
 ......
 
 **[Neko]**<br>
-*If you don't have anything else to say, NEKO will go back to work. I'm arranging PAFF's song now; need to focus! Byebye\~*
+_If you don't have anything else to say, NEKO will go back to work. I'm arranging PAFF's song now; need to focus! Byebye\~_
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Chris**<br>
 ... Sighs\~ how troublesome...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos020"/>[#020] Cam\_Shiraishi\_699\_04\_20
+## <a id="naos020"/>\[#020\] Cam\_Shiraishi\_699\_04\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2632,11 +2632,11 @@ We're just about to eat dinner. Need to cook your share now.
 What's wrong? Why are you standing still at the door? Go wash your hands.
 
 **Neko**<br>
-*... \*Cries\**... Uwaaaaaa\~ Mommy! Grandma! NEKO miss you so much!
+_... \*Cries\*_... Uwaaaaaa\~ Mommy! Grandma! NEKO miss you so much!
 
 ![naos2001.png](./attachments/naos2001.png)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 ... Then NEKO kicked him in the balls and yelled, "Who you calling midget!?". Then got yanked outside! Then I got saved by this random weird person!
@@ -2724,7 +2724,7 @@ NEKO, people don't change that easily. At the very least, the daddy I knew won't
 Hmm... NEKO don't really understand...
 
 **Saku**<br>
-*\*Chuckles\**\~ Simply put, just keep one thing in mind. Whether it's daddy or mommy, our love for you will never change; because no matter what happens, you are the one person that is most worthy of our devotion.
+_\*Chuckles\*_\~ Simply put, just keep one thing in mind. Whether it's daddy or mommy, our love for you will never change; because no matter what happens, you are the one person that is most worthy of our devotion.
 
 **Neko**<br>
 ......
@@ -2754,139 +2754,139 @@ All in all, this will always be your home. Mommy will help you keep your room sh
 **Neko**<br>
 Hmm... Thank you, mommy.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos021"/>[#021] Call\_Linda\_699\_02\_25
+## <a id="naos021"/>\[#021\] Call\_Linda\_699\_02\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**Neko** | 17  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **[Linda]**<br>
-*Hello, NEKO? What's the matter?*
+_Hello, NEKO? What's the matter?_
 
 **Neko**<br>
 Lin\~da\~Chuwan\~\~\~
 
 **[Linda]**<br>
-*... An argument with your family again?*
+_... An argument with your family again?_
 
 **Neko**<br>
 Nope! By the way, why did you start the conversation with the presumption that NEKO is going to complain about things!?
 
 **[Linda]**<br>
-*Am I wrong?*
+_Am I wrong?_
 
 **Neko**<br>
 Ehh... Well, you're right. It's about the company...
 
 **[Linda]**<br>
-*Lemme guess; Miss super idol did something again, didn't she?*
+_Lemme guess; Miss super idol did something again, didn't she?_
 
 **Neko**<br>
 No kidding! Today, we bumped into each other when taking the elevator. She didn't apologize to NEKO at all! She is so arrogant! NEKO is still hurting even now!
 
 **[Linda]**<br>
-*Woah, everything alright?*
+_Woah, everything alright?_
 
 **Neko**<br>
 No problemo\~ NEKO has a very hard head!
 
 **[Linda]**<br>
-*Umm, I was concerned about PAFF.*
+_Umm, I was concerned about PAFF._
 
 **Neko**<br>
 Lin\~da\~Chii\~\~\~ You're so mean!
 
 **[Linda]**<br>
-*Ahaha, so she didn't say sorry at all?*
+_Ahaha, so she didn't say sorry at all?_
 
 **Neko**<br>
 I think she turned around to look at me... but then she walked away in a hurry. Sis Helena is very nice to me though. She's a really good person!
 
 **[Linda]**<br>
-*Then that's not too bad. I mean, it's not uncommon for artists to have eccentric personalities, right? Without the help of their agents, it's hard for them to communicate with people... Just imagine me in the past; that's more or less it.*
+_Then that's not too bad. I mean, it's not uncommon for artists to have eccentric personalities, right? Without the help of their agents, it's hard for them to communicate with people... Just imagine me in the past; that's more or less it._
 
 **Neko**<br>
 Ahaha, that's true. Linda\-chan used to not talk to other people at all.
 
 **[Linda]**<br>
-*You, on the other hand, love to talk to other people, whether it's back then or right now.*
+_You, on the other hand, love to talk to other people, whether it's back then or right now._
 
 **Neko**<br>
 That's how we became super BFFs! Teehee\~
 
 **[Linda]**<br>
-*Teehee my a\*\*.<br>
-Say, this is just my opinion, but judging from your many complaints, collaborating with her is exhausting and the company isn't exactly friendly. Why don't you just quit this thing altogether?*
+_Teehee my a\*\*.<br>
+Say, this is just my opinion, but judging from your many complaints, collaborating with her is exhausting and the company isn't exactly friendly. Why don't you just quit this thing altogether?_
 
 **Neko**<br>
 I thought about it... but sis Helena is really nice to NEKO. PAFF... even though I have problems with her, I can't deny that her singing is truly amazing.<br>
 It's really hard to find a top\-level vocalist. So many people think they're good, but all they know how to do is show off some fancy crap with no substance!
 
 **[Linda]**<br>
-*That I can understand... PAFF's singing is just... breathtaking. It's like she's singing right into my soul and feelings.*
+_That I can understand... PAFF's singing is just... breathtaking. It's like she's singing right into my soul and feelings._
 
 **Neko**<br>
 The vicious Linda\-chan complimented a pop singer!? Is NEKO dreaming right now!?
 
 **[Linda]**<br>
-*...... Then how about I give you a slap to wake you up? I was concerned that you'll force yourself through the job despite not enjoying it! *
+_...... Then how about I give you a slap to wake you up? I was concerned that you'll force yourself through the job despite not enjoying it! _
 
 **Neko**<br>
 Teehee.
 
 **[Linda]**<br>
-*Teehee my a\*\*.*
+_Teehee my a\*\*._
 
 **Neko**<br>
 Rest assured, Linda\-chan. Even if I leave Mono, NEKO can feed myself with my music wherever I go. Besides, I also got to know a lot of great musicians and be friends with them! I'll be fine.<br>
 Nevertheless, before that happens, NEKO's name will appear on PAFF's album first. Guhehehehe...
 
 **[Linda]**<br>
-*Haha, you're laughing like a perverted old man again.<br>
-I'm so envious of you for knowing your path already. I'm also at the time where I need to consider my next step. I can't rely on part\-time jobs for my whole life...*
+_Haha, you're laughing like a perverted old man again.<br>
+I'm so envious of you for knowing your path already. I'm also at the time where I need to consider my next step. I can't rely on part\-time jobs for my whole life..._
 
 **Neko**<br>
 If it's Linda\-chan, a band perhaps? Become an uber\-popular lead singer! Collab with NEKO! Release a platinum EP!<br>
 Muhahaha, what a perfect plan\~
 
 **[Linda]**<br>
-*I don't have PAFF's talent.<br>
-In addition, it's not like I have to do everything myself. To me, simply watching performances is more than enough to satisfy me.*
+_I don't have PAFF's talent.<br>
+In addition, it's not like I have to do everything myself. To me, simply watching performances is more than enough to satisfy me._
 
 **Neko**<br>
 Hoho...
 
 **[Linda]**<br>
-*But still, thanks for the suggestion, NEKO. I'll think about it... Maybe there is something I can do in that industry.*
+_But still, thanks for the suggestion, NEKO. I'll think about it... Maybe there is something I can do in that industry._
 
 **Neko**<br>
 There definitely will be! Fight, Linda\-chan!
 
 **[Linda]**<br>
-*... Haha, whenever I chat with you, I feel like my mood always lightens up.*
+_... Haha, whenever I chat with you, I feel like my mood always lightens up._
 
 **Neko**<br>
 ... Same thing for NEKO. I don't feel so mad anymore.
 
 **[Linda]**<br>
-*Good to hear that.<br>
-I have a morning shift tomorrow. Gotta sleep first. Goodnight!*
+_Good to hear that.<br>
+I have a morning shift tomorrow. Gotta sleep first. Goodnight!_
 
 **Neko**<br>
 Gotcha. NEKO's gonna sleep too. Goodnight\~
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos022"/>[#022] Audio\_Neko\_699\_05\_01
+## <a id="naos022"/>\[#022\] Audio\_Neko\_699\_05\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2899,7 +2899,7 @@ Gotcha. NEKO's gonna sleep too. Goodnight\~
 NEKO will no longer do anything for a s\*\*\*hole company like yours! I will never be your ghost producer ever again! I look like a fool!<br>
 I've already paid for the liquidated damages, so that's it! Goodbye!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 UGH! I'm so mad! Trash Company!!<br>
@@ -3009,7 +3009,7 @@ My ex\-husband was the worst kind of partner... Even until now, both Kenta and I
 I was ready to accept that this is going to be my life. There's no way to escape and I would have to raise Kenta all by myself... Yet your father is willing to try his best to help us... He even gave us a proper "family", something I never even bothered to dream about...
 
 **Yukiko**<br>
-I am truly... truly grateful... *\*Sniffs\*...*
+I am truly... truly grateful... _\*Sniffs\*..._
 
 **Neko**<br>
 Sis Yukiko...
@@ -3043,11 +3043,11 @@ W, we'll see about that... I have to go now, bye\-bye.
 **Neko**<br>
 Mom... NEKO can't decide...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos023"/>[#023] Cam\_Asakura\_699\_05\_18
+## <a id="naos023"/>\[#023\] Cam\_Asakura\_699\_05\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3155,11 +3155,11 @@ Ugh... please... don't...
 **Kenta**<br>
 WAHHHHHH\~\~
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos024"/>[#024] Audio\_Studio\_699\_05\_19
+## <a id="naos024"/>\[#024\] Audio\_Studio\_699\_05\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3184,7 +3184,7 @@ NEKO......？
 **Xenon**<br>
 Woah!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 You awake?
@@ -3220,7 +3220,7 @@ Ah! I have to call home ASAP! Lend me your phone!
 **Xenon**<br>
 Hey...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 Ok... Uh\-huh... NEKO is fine...<br>
@@ -3283,11 +3283,11 @@ But, I don't want to drag you into all this...
 **Xenon**<br>
 No need to worry. Just hear me out first. To be honest, I don't have to do anything at all.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos025"/>[#025] Cam\_Dash\_699\_05\_20\_1
+## <a id="naos025"/>\[#025\] Cam\_Dash\_699\_05\_20\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3328,7 +3328,7 @@ For willing to stand up for Yukiko... Also, sorry for yelling at you back then.
 Ha!? N, NEKO's not doing this for anybody else! I'm just doing this because I'm mad about being kidnapped!<br>
 E, enough! Get moving! Go kick their butts!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 Daddy, can you hear me? NEKO will be telling you the controls from here.<br>
@@ -3337,24 +3337,24 @@ Daddy? Dad?... AH! Crap... He forgot his earbuds...
 *\[Door Opens\]*
 
 **[Man A]**<br>
-*Hmm? Mister, is there something you want? We are already closed for the day...*
+_Hmm? Mister, is there something you want? We are already closed for the day..._
 
 **[Kouhei]**<br>
-*...... You... you guys, are the ones who were threatening Yukiko, right?*
+_...... You... you guys, are the ones who were threatening Yukiko, right?_
 
 **[Man B]**<br>
-*... Huh? Who the f\*\*\* are you? Aha! Could it be that you're her current husband?*
+_... Huh? Who the f\*\*\* are you? Aha! Could it be that you're her current husband?_
 
 **[Man C]**<br>
-*Are you here to pay her debts for her? Then you better bring enough. The money that woman owed us is no small number...*
+_Are you here to pay her debts for her? Then you better bring enough. The money that woman owed us is no small number..._
 
 **[Kouhei]**<br>
-*I, I warn you guys... leave her alone. We will not pay this wretched illegal company a single cent anymore!*
+_I, I warn you guys... leave her alone. We will not pay this wretched illegal company a single cent anymore!_
 
 *\[Flips switch\]*
 
 **[Kouhei]**<br>
-*...... Eh?*
+_...... Eh?_
 
 **Neko**<br>
 Daddy you idiot! You pressed the wrong one! Ah! Look out!
@@ -3362,83 +3362,83 @@ Daddy you idiot! You pressed the wrong one! Ah! Look out!
 *\[Heavy Blow\]*
 
 **[Kouhei]**<br>
-*Argh!*
+_Argh!_
 
 **[Man A]**<br>
-*You want a death wish, old geezer!?*
+_You want a death wish, old geezer!?_
 
 **[Man B]**<br>
-*Old man, if you want to mess with us, I advise you come prepared. Looks like you're gonna have to pay the price with your blood and organs!*
+_Old man, if you want to mess with us, I advise you come prepared. Looks like you're gonna have to pay the price with your blood and organs!_
 
 **Neko**<br>
 This is bad... Should probably inform...
 
 **[Kouhei]**<br>
-*ALL OF YOU, FREEZE!*
+_ALL OF YOU, FREEZE!_
 
 *\[Flips switch\]*
 
 *\[Glass explodes\]*
 
 **[Man C]**<br>
-*......! What!? What is going on...!?*
+_......! What!? What is going on...!?_
 
 *\[Flips switch\]*
 
 **[Man B]**<br>
-*UGH! My head! My head is so hot! It's burning!*
+_UGH! My head! My head is so hot! It's burning!_
 
 **[Man A]**<br>
-*URGHHH! AAHHHH!*
+_URGHHH! AAHHHH!_
 
 **[Man C]**<br>
-*WAAAAHHHHHH!!*
+_WAAAAHHHHHH!!_
 
 **[Kouhei]**<br>
-*You people... you all implanted the cyTus chip, right? If you dare move a finger, I will blow your brains out!*
+_You people... you all implanted the cyTus chip, right? If you dare move a finger, I will blow your brains out!_
 
 **[Kouhei]**<br>
-*"X"... As fellow cybercriminals, that name should ring a bell, right?*
+_"X"... As fellow cybercriminals, that name should ring a bell, right?_
 
 **[Man B]**<br>
-*......!?*
+_......!?_
 
 **[Kouhei]**<br>
-*Exactly. I am X. <br>
-I was already retired from this stuff... but you people crossed the line by messing with my family. I had no choice but to take matters into my own hands again.*
+_Exactly. I am X. <br>
+I was already retired from this stuff... but you people crossed the line by messing with my family. I had no choice but to take matters into my own hands again._
 
 **[Man C]**<br>
-*Impossible... You're that... legendary hacker...*
+_Impossible... You're that... legendary hacker..._
 
 **[Kouhei]**<br>
-*I just destroyed all your transaction networks. Your names, addresses, lifestyles, family and friend information are all in my hands now...*
+_I just destroyed all your transaction networks. Your names, addresses, lifestyles, family and friend information are all in my hands now..._
 
 **[Man B]**<br>
-*Please stop! My head... it's throbbing... I'm gonna die!*
+_Please stop! My head... it's throbbing... I'm gonna die!_
 
 **[Kouhei]**<br>
-*Your heads must be burning, right? Did you realize that the cyTus chip model you guys implanted has an overcharge loophole? I can split your heads in half whenever I feel like it. It could be when you eating, sleeping or even when you're taking a s\*\*\*. If you have the balls to get the chips removed, I have plenty of other methods to torment you people.*
+_Your heads must be burning, right? Did you realize that the cyTus chip model you guys implanted has an overcharge loophole? I can split your heads in half whenever I feel like it. It could be when you eating, sleeping or even when you're taking a s\*\*\*. If you have the balls to get the chips removed, I have plenty of other methods to torment you people._
 
 **[Man B]**<br>
-*Eek\~ We, we understood! We apologize! We didn't know that you are X...*
+_Eek\~ We, we understood! We apologize! We didn't know that you are X..._
 
 **[Kouhei]**<br>
-*Leave my dear daughter and family alone! <br>
-You worthless sacks of s\*\*\*!!*
+_Leave my dear daughter and family alone! <br>
+You worthless sacks of s\*\*\*!!_
 
 ![naos2501.png](./attachments/naos2501.png)
 
 **[Man C]**<br>
-*U... Understood! We are very sorry!!*
+_U... Understood! We are very sorry!!_
 
 **Neko**<br>
 Daddy...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos026"/>[#026] Cam\_Dash\_699\_05\_20\_2
+## <a id="naos026"/>\[#026\] Cam\_Dash\_699\_05\_20\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3488,7 +3488,7 @@ No big deal; it's just a small scratch... Compare to that, there's a more import
 **Neko**<br>
 ...... Ha?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Neko**<br>
 Nah! Aren't we almost home? Is it really ok for you to not go to the hospital!?<br>
@@ -3497,7 +3497,7 @@ You said something about going to a more important place... then you just grabbe
 **Kouhei**<br>
 No need to panic. You'll know very soon.
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 *\[Door Opens\]*
 
@@ -3524,7 +3524,7 @@ Happy birthday, NEKO!
 Big sister, Happy birthday!
 
 **Neko**<br>
-*... \*Sniffs\*...*
+_... \*Sniffs\*..._
 
 ![naos2601.png](./attachments/naos2601.png)
 
@@ -3576,16 +3576,16 @@ Big sister...
 NEKO also promise... that I will not make you guys worry anymore. I'm sorry...
 
 **Yukiko**<br>
-NEKO... Thank you! Thank you so much! *\*Sobs\*......*
+NEKO... Thank you! Thank you so much! _\*Sobs\*......_
 
 **Neko**<br>
-*...\*Sniffs\*... *Alright! That's enough crying! It's a bad omen to cry on someone else's birthday party! Let's blow out the candles!
+_...\*Sniffs\*... _Alright! That's enough crying! It's a bad omen to cry on someone else's birthday party! Let's blow out the candles!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos027"/>[#027] Audio\_Studio\_699\_06\_03
+## <a id="naos027"/>\[#027\] Audio\_Studio\_699\_06\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3707,30 +3707,30 @@ Come on in; we need to finish the remaining sections.
 **Neko**<br>
 You did help NEKO out... At least let NEKO say thank you...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos028"/>[#028] Cam\_Asakura\_701\_09\_28
+## <a id="naos028"/>\[#028\] Cam\_Asakura\_701\_09\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**Neko** | 23  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Neko**<br>
 Linda\-chan! NEKO hasn't heard your voice in ages! I miss you so much!
 
 **[Linda]**<br>
-*Still exaggerating things as always. Didn't we just meet up last week?*
+_Still exaggerating things as always. Didn't we just meet up last week?_
 
 **Neko**<br>
 Eh\~ So cold! NEKO missed you for real! Ah, right; how was it? Did the interview go well?
 
 **[Linda]**<br>
-*I got accepted! I'll be working at Under Velvet starting next week.*
+_I got accepted! I'll be working at Under Velvet starting next week._
 
 **Neko**<br>
 WOW! Congratulations! I'm so happy for you! Linda\-chan will be working in the administration department, right? Then we'll get to see so many free performances!
@@ -3738,93 +3738,93 @@ WOW! Congratulations! I'm so happy for you! Linda\-chan will be working in the a
 ![naos2801.png](./attachments/naos2801.png)
 
 **[Linda]**<br>
-*What else do you think I applied for a job there for? Haha. Shouldn't be too hard to get free performances. However, judging by how busy you are these days, do you even have time to come?*
+_What else do you think I applied for a job there for? Haha. Shouldn't be too hard to get free performances. However, judging by how busy you are these days, do you even have time to come?_
 
 **Neko**<br>
 No worries. It's not like NEKO wants to stream every day either! It's quite an exhausting thing! And you have to come up with topics to talk about!<br>
 By the way, why don't Linda\-chan come watch NEKO's stream? NEKO feels so lonely...
 
 **[Linda]**<br>
-*You know perfectly well that I'm not interested in this kind of internet culture, right? Music is really all I need in my life. Besides, when it comes to performances, nothing beats a live one, doesn't it?*
+_You know perfectly well that I'm not interested in this kind of internet culture, right? Music is really all I need in my life. Besides, when it comes to performances, nothing beats a live one, doesn't it?_
 
 **Neko**<br>
 Ummm... Linda\-chan has become an adult\~
 
 **[Linda]**<br>
-*More like you never grew up? 151...*
+_More like you never grew up? 151..._
 
 **Neko**<br>
 Boo boo! Wrong\~! I'm 155 now! NEKO is still in her growth period! I will keep growing taller! Linda\-chan is so mean!
 
 **[Linda]**<br>
-*Hahaha, how old are you now? Reality's brutal, but you gotta accept it\~<br>
-Speaking of music, haven't seen you perform for a while now. I miss your last performance; you know, the one where you played songs on the UV stage.*
+_Hahaha, how old are you now? Reality's brutal, but you gotta accept it\~<br>
+Speaking of music, haven't seen you perform for a while now. I miss your last performance; you know, the one where you played songs on the UV stage._
 
 **Neko**<br>
 That's because NEKO has been getting virtual LIVE cases these days. I even turned down a super big invitation not too long ago!
 
 **[Linda]**<br>
-*Virtual ones, eh...*
+_Virtual ones, eh..._
 
 **Neko**<br>
 Virtual LIVES are pretty awesome\~ You can perform at home, and the audience doesn't have to leave theirs to watch you perform either.
 
 **[Linda]**<br>
-*You do have a point, but I still prefer physical performances. That's why I applied for this job... Speaking of my job, there's a famous band from Node 54 coming this week. I'm a bit nervous\~ Really hope everything can go smoothly...*
+_You do have a point, but I still prefer physical performances. That's why I applied for this job... Speaking of my job, there's a famous band from Node 54 coming this week. I'm a bit nervous\~ Really hope everything can go smoothly..._
 
 **Neko**<br>
 Linda\-chan is very capable; everything's gonna be a\-ok! Teehee\~
 
 **[Linda]**<br>
-*Teehee my a\*\*... Why did you decline that super big invitation though?*
+_Teehee my a\*\*... Why did you decline that super big invitation though?_
 
 **Neko**<br>
 It's that Æsir guy. He's holding this mega music festival and he invited NEKO to perform. Although NEKO is very interested...
 
 **[Linda]**<br>
-*Æsir!? That's a fantastic honor! Why did you turn it down?*
+_Æsir!? That's a fantastic honor! Why did you turn it down?_
 
 **Neko**<br>
 Because he invited a boatload of Mono's artists... and he invited PAFF too! NEKO has ZERO intention to be on the same stage with PAFF! Besides, I am 99.99% sure she'll sing the songs NEKO arranged, which makes me even more p\*\*\*ed off!
 
 **[Linda]**<br>
-*Oh... I see. If that's the case, then I can understand. You've been complaining to me about that for so many years now...*
+_Oh... I see. If that's the case, then I can understand. You've been complaining to me about that for so many years now..._
 
 **Neko**<br>
 Ah, but it appears that "Cherry PuNK" is also invited! NEKO really wants to be on stage together with Cherry...
 
 **[Linda]**<br>
-*Indeed. I was so touched when I saw the news of Cherry's comeback! Ah...but there's a bad news. Last week, I caught wind of the news that they are on the verge of being signed by Mono...*
+_Indeed. I was so touched when I saw the news of Cherry's comeback! Ah...but there's a bad news. Last week, I caught wind of the news that they are on the verge of being signed by Mono..._
 
 **Neko**<br>
 EHHHHH!? You serious? NOOOOOO! Cherry, don't join Mono! They will squeeze you until you have no value left then trash you! That makes NEKO so conflicted\~ Should I boycott their music or not!?
 
 **[Linda]**<br>
-*You're exaggerating things again... Personally, I don't really mind...*
+_You're exaggerating things again... Personally, I don't really mind..._
 
 **Neko**<br>
 Sigh\~ So\~\~ annoying! Eh, when should we meet up again next time? My fans have told NEKO about this delicious ramen shop...
 
 **[Linda]**<br>
-*Hahaha, you shouldn't be asking me. You should be asking yourself. When will you be free, you busy little kitten\~?*
+_Hahaha, you shouldn't be asking me. You should be asking yourself. When will you be free, you busy little kitten\~?_
 
 **Neko**<br>
 Ummm... Next Thursday, 07:00 PM! At the main entrance of UV!
 
 **[Linda]**<br>
-*No problem, see you then!<br>
-That's it for now. I gotta prepare for work. Good luck with tonight's stream.*
+_No problem, see you then!<br>
+That's it for now. I gotta prepare for work. Good luck with tonight's stream._
 
 **Neko**<br>
 OK! Bye\-bye, Linda\-chan\~
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos029"/>[#029] Cam\_76st\_702\_06\_11
+## <a id="naos029"/>\[#029\] Cam\_76st\_702\_06\_11
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3927,11 +3927,11 @@ O, okay. Thank you!
 **Neko**<br>
 Hawawa... Got recognized again... Is this how it feels like to be an idol? Man\~ I'm gonna have to put on disguises when I go out in the future...
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos030"/>[#030] Cam\_NL\_702\_08\_19
+## <a id="naos030"/>\[#030\] Cam\_NL\_702\_08\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3962,7 +3962,7 @@ Hasn't that DJ gone dark for a long time now
 
 **Audience**<br>
 Signing up right now. NEKO my waifu<br>
-*\[User is now banned.\]*
+_\[User is now banned.\]_
 
 **Neko**<br>
 NEKO is looking forward to this myself as well!
@@ -3995,12 +3995,12 @@ Why are you people taking screenshots!? Prepare your butts for the big moment!
 
 ![naos3002.png](./attachments/naos3002.png)
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Neko**<br>
 Hello\~? Who are you?
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

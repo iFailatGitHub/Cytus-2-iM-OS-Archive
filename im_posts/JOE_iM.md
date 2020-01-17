@@ -1,29 +1,40 @@
 # JOE iM Posts
-## <a id="toc"/>List of Posts
-- [[#001] Yo, yo check this out\~ a new event!!](#j0101)
-- [[#002] WTF!?](#j0201)
-- [[#003] OHHH\~\~\~\~\~\~ my beloved one](#j0301)
-- [[#004] King of Germs owner has had enough!!!](#j0401)
-- [[#005] I welcome everyone to come and try out the billiards table!!](#j0501)
-- [[#006] Super\-popular streamer in shop right now!!!](#j0601)
-- [[#007] What kind of nonsense BS are they spewing](#j0701)
 
-## <a id="j0101"/>[#001] Yo, yo check this out\~ a new event!!
+## <a id="toc"/>List of Posts
+
+- [\[#001\] Yo, yo check this out\~ a new event!!](#j0101)
+- [\[#002\] WTF!?](#j0201)
+- [\[#003\] OHHH\~\~\~\~\~\~ my beloved one](#j0301)
+- [\[#004\] King of Germs owner has had enough!!!](#j0401)
+- [\[#005\] I welcome everyone to come and try out the billiards table!!](#j0501)
+- [\[#006\] Super\-popular streamer in shop right now!!!](#j0601)
+- [\[#007\] What kind of nonsense BS are they spewing](#j0701)
+
+## <a id="j0101"/>\[#001\] Yo, yo check this out\~ a new event!!
+
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 34  |
+
+| Character     | Level |
+| ------------- |:-----:|
+| **ROBO_Head** | 34    |
 
 ### Post
+
 **JOEZ Cafe**<br>
-Purchase a drink at JOEZ Café now and check\-in on iM to get the tomato\-flavored craft beer for free!<br>
-The latest fresh fruit beer \-\- YAMAMETO<br>
-Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece<br>
-Served in a wacky\-shaped bottle, it will impact your senses both taste\-wise and visual\-wise.<br>
+Purchase a drink at JOEZ Café now and check\-in on iM to get the tomato\-flavored craft beer for free!
+<br>
+The latest fresh fruit beer \-\- YAMAMETO
+<br>
+Famous brewer Yamoto Ongoro utilizes the most advanced brewing techniques to create this masterpiece
+<br>
+Served in a wacky\-shaped bottle, it will impact your senses both taste\-wise and visual\-wise.
+<br>
 Check\-in right now and you get one whole bottle! Only the King of Germs owner of JOEZ Café can be this wild!
 
 ![j0101.png](./attachments/j0101.png)
+
 ### Replies
+
 **StuffyMouth**<br>
 It all sounds pretty awesome in the beginning<br>
 but what's with the King of Germs owner at the end?? LOL
@@ -62,13 +73,16 @@ Owner don't feed us ketchup water and pretend it's a drink (・3・)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0201"/>[#002] WTF!?
+## <a id="j0201"/>\[#002\] WTF!?
+
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 37  |
+
+| Character     | Level |
+| ------------- |:-----:|
+| **ROBO_Head** | 37    |
 
 ### Post
+
 **JOEZ Cafe**<br>
 JASUS christ\~<br>
 What, do law and order not exist anymore?<br>
@@ -80,7 +94,9 @@ My shop doesn't sell either of those, so if you guys want to fight, keep it outs
 
 Whatever, rather than whine about this online<br>
 should probably notify the admins first...
+
 ### Replies
+
 **foreheadless**<br>
 Show us a photo\~ or even better, show us a recording! lul
 
@@ -127,13 +143,16 @@ Wait, what? What happened????
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0301"/>[#003] OHHH\~\~\~\~\~\~ my beloved one
+## <a id="j0301"/>\[#003\] OHHH\~\~\~\~\~\~ my beloved one
+
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 38  |
+
+| Character     | Level |
+| ------------- |:-----:|
+| **ROBO_Head** | 38    |
 
 ### Post
+
 **JOEZ Cafe**<br>
 Once upon a time<br>
 I failed to cherish you<br>
@@ -163,7 +182,9 @@ Does anyone here wants to JAM with me!?!? I am single and lonely and I need frie
 **\#IgnoreTheHaters**
 
 ![j0301.png](./attachments/j0301.png)
+
 ### Replies
+
 **Xenon**<br>
 What the heck are you smoking to write something like this...?
 
@@ -211,13 +232,16 @@ I can already imagine Xenon rolling his eyes so hard that he can see inside his 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0401"/>[#004] King of Germs owner has had enough!!!
+## <a id="j0401"/>\[#004\] King of Germs owner has had enough!!!
+
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 42  |
+
+| Character | Level |
+| --------- |:-----:|
+| **PAFF**  | 42    |
 
 ### Post
+
 **JOEZ Cafe**<br>
 You bunch of freakin idiots!!!<br>
 Protest here, riot there, and now you are hosting f\*\*\*\*\* mortal kombat in my shop!<br>
@@ -239,7 +263,9 @@ I welcome everyone to come and play with it (?
 **\#ComeTryItOut**
 
 ![j0401.png](./attachments/j0401.png)
+
 ### Replies
+
 **noneXenon**<br>
 **\#Sponsored** lolol
 
@@ -287,13 +313,16 @@ Xenon is completely speechless XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0501"/>[#005] I welcome everyone to come and try out the billiards table!!
+## <a id="j0501"/>\[#005\] I welcome everyone to come and try out the billiards table!!
+
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 42  |
+
+| Character    | Level |
+| ------------ |:-----:|
+| **NEKO#ΦωΦ** | 42    |
 
 ### Post
+
 **JOEZ Cafe**<br>
 A while ago, I got someone to upgrade the firmware of the old billiards table<br>
 Now we have even more awesome modes for everyone to have fun with\~\~
@@ -308,7 +337,9 @@ You get to drink all the milk you want for the day!!!
 **\#ManOfMyWords**<br>
 **\#FeelFreeToChallengeTheHighscore**<br>
 **\#NoFreeCocktails!**
+
 ### Replies
+
 **CyberLord**<br>
 I went and gave it a go the day before yesterday. It was a lot harder than I imagined.<br>
 The owner is really, really good
@@ -321,7 +352,8 @@ How do you play it? Do you swing it like a baseball bat and try to knock the bal
 
 **JOEZ Cafe**<br>
 You can't swing the cue\~ you have to aim carefully and poke your stick at the right hole<br>
->///<
+
+\>///<
 
 **Pinevalley**<br>
 Innuendos galore ROFL
@@ -360,13 +392,16 @@ Billiards god of Quadrant III...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0601"/>[#006] Super\-popular streamer in shop right now!!!
+## <a id="j0601"/>\[#006\] Super\-popular streamer in shop right now!!!
+
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 45  |
+
+| Character    | Level |
+| ------------ |:-----:|
+| **NEKO#ΦωΦ** | 45    |
 
 ### Post
+
 **JOEZ Cafe**<br>
 Haha thank you to **@NEKO\#ΦωΦ** for visiting the shop!!<br>
 You are so much easier to chat to than that helmet\-wearing nerd!!<br>
@@ -377,7 +412,9 @@ Come visit me again soon!!!!!
 **\#GlassContainsOnlyMilkAndThreeCubsOfSugar**
 
 ![j0601.png](./attachments/j0601.png)
+
 ### Replies
+
 **STANley**<br>
 The truth is all hidden in the Tags XDDDD
 
@@ -417,20 +454,25 @@ I shall disown you as a friend for thirty seconds, starting... now!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0701"/>[#007] What kind of nonsense BS are they spewing
+## <a id="j0701"/>\[#007\] What kind of nonsense BS are they spewing
+
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 51  |
+
+| Character    | Level |
+| ------------ |:-----:|
+| **NEKO#ΦωΦ** | 51    |
 
 ### Post
+
 **JOE**<br>
 Haven't been this p\*\*\*ed off in a long time! My uncle always told me that paparazzi is a job for losers; today I finally get what he meant by that!! I've known Simon since the days of CP. His sense of justice and his dedication to his principles are simply unrivaled. I mean, this dude doesn't even drink booze in my shop! He orders milk all the time! Why the f\*\*\* would anyone think he is an internet terrorist??
 
 Here's also a shoutout to all the damn reporters who want gossip on him. I sincerely invite you to check him out in my shop (Minimum order required). You can look at him while he's helping more people, trying to solve the case, and drinking milk. You'll realize that every word I said about him is absolutely true.
 
 JOE OUT (Drops Mic)
+
 ### Replies
+
 **NEKO#ΦωΦ**<br>
 Right on the point Uncle JOE !(ΦωΦ)!<br>
 Xenon really working very hard to help everyone address the problems (ΦωΦ)/
@@ -476,4 +518,3 @@ NEKO mostly rely on her fans online to make money. She really doesn't have to gi
 Why isn't it "King of Germs OUT"???
 
 [*(Click here to go back to the top)*](#toc)
-

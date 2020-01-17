@@ -1,39 +1,39 @@
 # NEKO#ΦωΦ iM Posts
 ## <a id="toc"/>List of Posts
-- [[#001] NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」](#n0101)
-- [[#002] NEKO's never seen something so stupid (ŏωŏ)](#n0201)
-- [[#003] Highly acclaimed musician new song announcement!](#n0301)
-- [[#004] Requesting crowdfunding to buy Meowbots!](#n0401)
-- [[#005] NEKO\#(ΦωΦ) chatting time](#n0501)
-- [[#006] NEKO\#(ΦωΦ) chatting time](#n0601)
-- [[#007] MEOW](#n0701)
-- [[#008] NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」](#n0801)
-- [[#009] 00 000 011 10 11 1000 11](#n0901)
-- [[#010] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#n1001)
-- [[#011] Z Z Z Z Z](#n1101)
-- [[#012] NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」](#n1201)
-- [[#013] HAHA fall you bastard! Sick move](#n1301)
-- [[#014] NEKO\#ΦωΦ streaming time \-「Explosion」](#n1401)
-- [[#015] NEKO\#ΦωΦ chatting time](#n1501)
-- [[#016] Had A dream (ΦωΦ)w](#n1601)
-- [[#017] NEKO\#ΦωΦ streaming time \-「Stewrica」](#n1701)
-- [[#018] \[Repost\] After half year hiatus, comeback from Aesir?](#n1801)
-- [[#019] Anyone have Æsir's new song meow ΦωΦ?](#n1901)
-- [[#021] \*\*\*System Announcement\*\*\*](#n2101)
-- [[#022] ???](#n2201)
-- [[#023] Nyaann\~ Long time no see everyone (ΦωΦ)](#n2301)
-- [[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]](#n2401)
-- [[#025] Long Time No See!! Chatting time!!](#n2501)
-- [[#026] SUPER MEGA GIGA NEWS!!!](#n2601)
-- [[#027] NEKO\#ΦωΦ streaming time \- Live Composing!!!](#n2701)
-- [[#028] NEKO\#ΦωΦ's chatting time](#n2801)
-- [[#029] Streaming at JOEZ Cafe today\~(\*Φ∀Φ)](#n2901)
-- [[#030] Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~](#n3001)
-- [[#031] NEKO's\~ super question time!! \\ΦωΦ)/](#n3101)
-- [[#032] Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ](#n3201)
-- [[#033] Having some crappy luck recently](#n3301)
+- [\[#001\] NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」](#n0101)
+- [\[#002\] NEKO's never seen something so stupid (ŏωŏ)](#n0201)
+- [\[#003\] Highly acclaimed musician new song announcement!](#n0301)
+- [\[#004\] Requesting crowdfunding to buy Meowbots!](#n0401)
+- [\[#005\] NEKO\#(ΦωΦ) chatting time](#n0501)
+- [\[#006\] NEKO\#(ΦωΦ) chatting time](#n0601)
+- [\[#007\] MEOW](#n0701)
+- [\[#008\] NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」](#n0801)
+- [\[#009\] 00 000 011 10 11 1000 11](#n0901)
+- [\[#010\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#n1001)
+- [\[#011\] Z Z Z Z Z](#n1101)
+- [\[#012\] NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」](#n1201)
+- [\[#013\] HAHA fall you bastard! Sick move](#n1301)
+- [\[#014\] NEKO\#ΦωΦ streaming time \-「Explosion」](#n1401)
+- [\[#015\] NEKO\#ΦωΦ chatting time](#n1501)
+- [\[#016\] Had A dream (ΦωΦ)w](#n1601)
+- [\[#017\] NEKO\#ΦωΦ streaming time \-「Stewrica」](#n1701)
+- [\[#018\] \[Repost\] After half year hiatus, comeback from Aesir?](#n1801)
+- [\[#019\] Anyone have Æsir's new song meow ΦωΦ?](#n1901)
+- [\[#021\] \*\*\*System Announcement\*\*\*](#n2101)
+- [\[#022\] ???](#n2201)
+- [\[#023\] Nyaann\~ Long time no see everyone (ΦωΦ)](#n2301)
+- [\[#024\] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]](#n2401)
+- [\[#025\] Long Time No See!! Chatting time!!](#n2501)
+- [\[#026\] SUPER MEGA GIGA NEWS!!!](#n2601)
+- [\[#027\] NEKO\#ΦωΦ streaming time \- Live Composing!!!](#n2701)
+- [\[#028\] NEKO\#ΦωΦ's chatting time](#n2801)
+- [\[#029\] Streaming at JOEZ Cafe today\~(\*Φ∀Φ)](#n2901)
+- [\[#030\] Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~](#n3001)
+- [\[#031\] NEKO's\~ super question time!! \\ΦωΦ)/](#n3101)
+- [\[#032\] Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ](#n3201)
+- [\[#033\] Having some crappy luck recently](#n3301)
 
-## <a id="n0101"/>[#001] NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」
+## <a id="n0101"/>\[#001\] NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」
 ### Unlocked Charts
 |      Song      |Character|Diff.|Level|
 |----------------|:-------:|:---:|:---:|
@@ -100,7 +100,7 @@ So it is actually sponsored content lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0201"/>[#002] NEKO's never seen something so stupid (ŏωŏ)
+## <a id="n0201"/>\[#002\] NEKO's never seen something so stupid (ŏωŏ)
 ### Unlocked Charts
 |    Song     |Character|Diff.|Level|
 |-------------|:-------:|:---:|:---:|
@@ -176,7 +176,7 @@ The whole thing ended after Robohead's performance, the crowd went on a complete
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0301"/>[#003] Highly acclaimed musician new song announcement!
+## <a id="n0301"/>\[#003\] Highly acclaimed musician new song announcement!
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -233,7 +233,7 @@ Dude keep your d\*\*\* in your pants!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0401"/>[#004] Requesting crowdfunding to buy Meowbots!
+## <a id="n0401"/>\[#004\] Requesting crowdfunding to buy Meowbots!
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -247,7 +247,7 @@ Dude keep your d\*\*\* in your pants!!!
 
 ### Post
 **NEKO#ΦωΦ**<br>
-\> ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...
+> ... One can imagine that in the future, AI will no longer be just a combination of random personalities. It can have its own identity and the ability to understand human nature. AI can assist humans in fields like social welfare, medical care and even more minor things like taking care of pets; all things that the existing AI can't do...
 
 I'm ready to buy a dozen MeowBots \~\~\~<br>
 ヽ(∀Φ )人(Φ∀Φ)人( Φ∀Φ)人(Φ∀Φ )人(Φ∀Φ)人( Φ∀)ﾉ<br>
@@ -320,7 +320,7 @@ Feels like they will be scratching the backs of MeowBot (\*Φ∀Φ)\~♥
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0501"/>[#005] NEKO\#(ΦωΦ) chatting time
+## <a id="n0501"/>\[#005\] NEKO\#(ΦωΦ) chatting time
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -393,7 +393,7 @@ Is she speech\-impaired or what? During my time at Mono I never heard her say a 
 
 **NEKO#ΦωΦ**<br>
 I bet her singing voice is completely synthesized <br>
-((((( ΦдΦ )))))
+(((((     ΦдΦ      )))))
 
 **w_Rosabel_w**<br>
 There was a rumor that PAFF was only there for her looks; the singing is actually done by someone else lol
@@ -430,7 +430,7 @@ NEKO's gonna play with MeowBot now (  ΦˋдˊΦ)=3 Hmpf
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0601"/>[#006] NEKO\#(ΦωΦ) chatting time
+## <a id="n0601"/>\[#006\] NEKO\#(ΦωΦ) chatting time
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -501,7 +501,7 @@ Teehee (
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0701"/>[#007] MEOW
+## <a id="n0701"/>\[#007\] MEOW
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -557,7 +557,7 @@ SOMEONE'S OFF (Φ皿Φﾒ)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0801"/>[#008] NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」
+## <a id="n0801"/>\[#008\] NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -639,7 +639,7 @@ Hmpf you want to challenge, well NEKO will accept it (Φ皿Φ)！！！
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n0901"/>[#009] 00 000 011 10 11 1000 11
+## <a id="n0901"/>\[#009\] 00 000 011 10 11 1000 11
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -689,7 +689,7 @@ So even Robobrain can't figure it out (   ΦωΦ) hehe
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1001"/>[#010] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
+## <a id="n1001"/>\[#010\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -759,7 +759,7 @@ Yep there are no games too hard for NEKO (ΦˋωˊΦ)=3
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1101"/>[#011] Z Z Z Z Z
+## <a id="n1101"/>\[#011\] Z Z Z Z Z
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -773,6 +773,9 @@ Yep there are no games too hard for NEKO (ΦˋωˊΦ)=3
 ### Post
 **NEKO#ΦωΦ**<br>
 Z Z Z Z Z Z Z 
+
+
+
 ### Replies
 **K1ssK1tty**<br>
 E E E E E E E
@@ -816,7 +819,7 @@ D D D D D D D
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1201"/>[#012] NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」
+## <a id="n1201"/>\[#012\] NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -907,7 +910,7 @@ Denied on the very first date  Σ(ΦДΦ；≡；ΦдΦ)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1301"/>[#013] HAHA fall you bastard! Sick move
+## <a id="n1301"/>\[#013\] HAHA fall you bastard! Sick move
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -974,7 +977,7 @@ So it's all a game...trollolololol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1401"/>[#014] NEKO\#ΦωΦ streaming time \-「Explosion」
+## <a id="n1401"/>\[#014\] NEKO\#ΦωΦ streaming time \-「Explosion」
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1048,7 +1051,7 @@ Time to go to bed
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1501"/>[#015] NEKO\#ΦωΦ chatting time
+## <a id="n1501"/>\[#015\] NEKO\#ΦωΦ chatting time
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1130,7 +1133,7 @@ Can you give the Bass back to me first?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1601"/>[#016] Had A dream (ΦωΦ)w
+## <a id="n1601"/>\[#016\] Had A dream (ΦωΦ)w
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1179,7 +1182,7 @@ It's only a dream though ΦωΦ
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1701"/>[#017] NEKO\#ΦωΦ streaming time \-「Stewrica」
+## <a id="n1701"/>\[#017\] NEKO\#ΦωΦ streaming time \-「Stewrica」
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1262,7 +1265,7 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1801"/>[#018] \[Repost\] After half year hiatus, comeback from Aesir?
+## <a id="n1801"/>\[#018\] \[Repost\] After half year hiatus, comeback from Aesir?
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1276,7 +1279,7 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 
 ### Post
 **NEKO#ΦωΦ**<br>
-\> ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....
+> ... Regarding Æsir, who disappeared half a year ago, countless questions were raised among fans. In addition, the news of his comeback came from a very mysterious source, adding more uncertainty to his return....
 
 Not good news to read when I just woke up (╬ΦдΦ)<br>
 No one will give a damn about his comeback if he didn't give an explanation (ΦωΦ)!<br>
@@ -1310,7 +1313,7 @@ Awesome!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n1901"/>[#019] Anyone have Æsir's new song meow ΦωΦ?
+## <a id="n1901"/>\[#019\] Anyone have Æsir's new song meow ΦωΦ?
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1373,7 +1376,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2101"/>[#021] \*\*\*System Announcement\*\*\*
+## <a id="n2101"/>\[#021\] \*\*\*System Announcement\*\*\*
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1384,7 +1387,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 \[According to the Internet Administration Act, the owner of this account is currently under restriction. All activities and functions will be automatically suspended and taken over by the Administration Bureau. Attempting to crack or evade this restriction via irregular connection will be treated as obstructing public service. The Administration Bureau will reserve the right to intervene\]
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2201"/>[#022] ???
+## <a id="n2201"/>\[#022\] ???
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1397,7 +1400,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 　
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2301"/>[#023] Nyaann\~ Long time no see everyone (ΦωΦ)
+## <a id="n2301"/>\[#023\] Nyaann\~ Long time no see everyone (ΦωΦ)
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1561,7 +1564,7 @@ If you were in custody another day I might go riot at the Administration Bureau 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2401"/>[#024] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]
+## <a id="n2401"/>\[#024\] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1654,7 +1657,7 @@ Really hope RG can publish a game as cool as this too (Φ∀Φ)σ
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2501"/>[#025] Long Time No See!! Chatting time!!
+## <a id="n2501"/>\[#025\] Long Time No See!! Chatting time!!
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1768,7 +1771,7 @@ Bye Bye\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2601"/>[#026] SUPER MEGA GIGA NEWS!!!
+## <a id="n2601"/>\[#026\] SUPER MEGA GIGA NEWS!!!
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1839,7 +1842,7 @@ PM pls!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2701"/>[#027] NEKO\#ΦωΦ streaming time \- Live Composing!!!
+## <a id="n2701"/>\[#027\] NEKO\#ΦωΦ streaming time \- Live Composing!!!
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1912,7 +1915,7 @@ Excited\~\~ NEKO's music is the best <3
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2801"/>[#028] NEKO\#ΦωΦ's chatting time
+## <a id="n2801"/>\[#028\] NEKO\#ΦωΦ's chatting time
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1967,7 +1970,7 @@ Even I'm getting a bit bored streaming here all the time\~ Let's go play outside
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n2901"/>[#029] Streaming at JOEZ Cafe today\~(\*Φ∀Φ)
+## <a id="n2901"/>\[#029\] Streaming at JOEZ Cafe today\~(\*Φ∀Φ)
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -2041,7 +2044,7 @@ Hahaha thanks a lot for the visit!!!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n3001"/>[#030] Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~
+## <a id="n3001"/>\[#030\] Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -2132,7 +2135,7 @@ I warn you guys!! All of you have to be there!!! No matter what!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n3101"/>[#031] NEKO's\~ super question time!! \\ΦωΦ)/
+## <a id="n3101"/>\[#031\] NEKO's\~ super question time!! \\ΦωΦ)/
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -2198,7 +2201,7 @@ Looking forward to seeing the result<3<3<3
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n3201"/>[#032] Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
+## <a id="n3201"/>\[#032\] Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -2268,7 +2271,7 @@ The young drummer's shy smile is so adorable ❤
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="n3301"/>[#033] Having some crappy luck recently
+## <a id="n3301"/>\[#033\] Having some crappy luck recently
 ### Requirements
 | Character  |Level|
 |------------|:---:|

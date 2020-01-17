@@ -1,50 +1,50 @@
 # ROBO_Head iM Posts
 ## <a id="toc"/>List of Posts
-- [[#001] cyTus annual traffic report](#r0101)
-- [[#002] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence](#r0201)
-- [[#003] \[Announcement\] ROBO\_Radio standing by](#r0301)
-- [[#004] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication](#r0401)
-- [[#005] \[Share\] The reason why cyTus server is placed in the skies](#r0501)
-- [[#006] \[Share\] The purpose behind the establishment of A.R.C](#r0601)
-- [[#007] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#r0701)
-- [[#008] \[Announcement\] ROBO\_Radio standing by](#r0801)
-- [[#009] \[Announcement\] Article removed for unknown reason](#r0901)
-- [[#010] \[Respond\] Æsir event](#r1001)
-- [[#011] \[Record\] Æsir\-FEST remaining files](#r1101)
-- [[#012] \[Share\] The security of the cyTus server](#r1201)
-- [[#013] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#r1301)
-- [[#014] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#r1401)
-- [[#015] Æsir\-FEST memory block corrupted ](#r1501)
-- [[#016] \[Announcement\] ROBO\_Radio standing by](#r1601)
-- [[#017] \[Repost\] Dr. ConneR will share progress of AI research on the web](#r1701)
-- [[#018] \[Repost\] Concert accident? Singer collapsed on stage](#r1801)
-- [[#019] Æsir\-FEST corrupted data recovery progress......15% ](#r1901)
-- [[#020] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt ](#r2001)
-- [[#021] \[Share\] What extremely long connection times does to the brain](#r2101)
-- [[#022] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection](#r2201)
-- [[#023] Æsir\-FEST corrupted data recovery progress......80% ](#r2301)
-- [[#024] Æsir\-FEST corrupted data recovery progress......100% ](#r2401)
-- [[#025] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen](#r2501)
-- [[#026] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau](#r2601)
-- [[#027] Æsir event internet search results](#r2701)
-- [[#028] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges](#r2801)
-- [[#029] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED](#r2901)
-- [[#030] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse](#r3001)
-- [[#031] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1](#r3101)
-- [[#032] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#r3201)
-- [[#033] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.](#r3301)
-- [[#034] \[Repost\] Explaining the decision behind the contract termination of PAFF](#r3401)
-- [[#035] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods](#r3501)
-- [[#036] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society](#r3601)
-- [[#037] \[Repost\] Looking back at major riots in history](#r3701)
-- [[#038] \[Announcement\] ROBO\_Radio\_LIVE event confirmation](#r3801)
-- [[#039] ROBO\_Radio\_LIVE starts now!](#r3901)
-- [[#040] ROBO\_Radio\_LIVE statistics analysis](#r4001)
-- [[#041] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.](#r4101)
-- [[#042] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested](#r4201)
-- [[#043] Paranormal: Bug collection](#r4301)
+- [\[#001\] cyTus annual traffic report](#r0101)
+- [\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence](#r0201)
+- [\[#003\] \[Announcement\] ROBO\_Radio standing by](#r0301)
+- [\[#004\] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication](#r0401)
+- [\[#005\] \[Share\] The reason why cyTus server is placed in the skies](#r0501)
+- [\[#006\] \[Share\] The purpose behind the establishment of A.R.C](#r0601)
+- [\[#007\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#r0701)
+- [\[#008\] \[Announcement\] ROBO\_Radio standing by](#r0801)
+- [\[#009\] \[Announcement\] Article removed for unknown reason](#r0901)
+- [\[#010\] \[Respond\] Æsir event](#r1001)
+- [\[#011\] \[Record\] Æsir\-FEST remaining files](#r1101)
+- [\[#012\] \[Share\] The security of the cyTus server](#r1201)
+- [\[#013\] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」](#r1301)
+- [\[#014\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project ](#r1401)
+- [\[#015\] Æsir\-FEST memory block corrupted ](#r1501)
+- [\[#016\] \[Announcement\] ROBO\_Radio standing by](#r1601)
+- [\[#017\] \[Repost\] Dr. ConneR will share progress of AI research on the web](#r1701)
+- [\[#018\] \[Repost\] Concert accident? Singer collapsed on stage](#r1801)
+- [\[#019\] Æsir\-FEST corrupted data recovery progress......15% ](#r1901)
+- [\[#020\] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt ](#r2001)
+- [\[#021\] \[Share\] What extremely long connection times does to the brain](#r2101)
+- [\[#022\] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection](#r2201)
+- [\[#023\] Æsir\-FEST corrupted data recovery progress......80% ](#r2301)
+- [\[#024\] Æsir\-FEST corrupted data recovery progress......100% ](#r2401)
+- [\[#025\] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen](#r2501)
+- [\[#026\] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau](#r2601)
+- [\[#027\] Æsir event internet search results](#r2701)
+- [\[#028\] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges](#r2801)
+- [\[#029\] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED](#r2901)
+- [\[#030\] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse](#r3001)
+- [\[#031\] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1](#r3101)
+- [\[#032\] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#r3201)
+- [\[#033\] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.](#r3301)
+- [\[#034\] \[Repost\] Explaining the decision behind the contract termination of PAFF](#r3401)
+- [\[#035\] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods](#r3501)
+- [\[#036\] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society](#r3601)
+- [\[#037\] \[Repost\] Looking back at major riots in history](#r3701)
+- [\[#038\] \[Announcement\] ROBO\_Radio\_LIVE event confirmation](#r3801)
+- [\[#039\] ROBO\_Radio\_LIVE starts now!](#r3901)
+- [\[#040\] ROBO\_Radio\_LIVE statistics analysis](#r4001)
+- [\[#041\] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.](#r4101)
+- [\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested](#r4201)
+- [\[#043\] Paranormal: Bug collection](#r4301)
 
-## <a id="r0101"/>[#001] cyTus annual traffic report
+## <a id="r0101"/>\[#001\] cyTus annual traffic report
 ### Unlocked Charts
 |     Song      |Character|Diff.|Level|
 |---------------|:-------:|:---:|:---:|
@@ -97,7 +97,7 @@ FML
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0201"/>[#002] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
+## <a id="r0201"/>\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
 ### Unlocked Charts
 |        Song        |Character|Diff.|Level|
 |--------------------|:-------:|:---:|:---:|
@@ -167,7 +167,7 @@ All this talk is making me believe that A.R.C. is some kind of real\-life god
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0301"/>[#003] \[Announcement\] ROBO\_Radio standing by
+## <a id="r0301"/>\[#003\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -231,7 +231,7 @@ It's QQueen actually \*head scratch\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0401"/>[#004] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
+## <a id="r0401"/>\[#004\] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -284,7 +284,7 @@ All hail Sensei!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0501"/>[#005] \[Share\] The reason why cyTus server is placed in the skies
+## <a id="r0501"/>\[#005\] \[Share\] The reason why cyTus server is placed in the skies
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -368,7 +368,7 @@ A world with no internet might as well be dead
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0601"/>[#006] \[Share\] The purpose behind the establishment of A.R.C
+## <a id="r0601"/>\[#006\] \[Share\] The purpose behind the establishment of A.R.C
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -419,7 +419,7 @@ So no comment on everything else besides technology... LOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0701"/>[#007] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="r0701"/>\[#007\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -485,7 +485,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0801"/>[#008] \[Announcement\] ROBO\_Radio standing by
+## <a id="r0801"/>\[#008\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -498,7 +498,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0901"/>[#009] \[Announcement\] Article removed for unknown reason
+## <a id="r0901"/>\[#009\] \[Announcement\] Article removed for unknown reason
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -569,7 +569,7 @@ So is Æsir\-FEST a real thing or not...I mean even those connected told complet
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1001"/>[#010] \[Respond\] Æsir event
+## <a id="r1001"/>\[#010\] \[Respond\] Æsir event
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -619,7 +619,7 @@ I hate when files get corrupted @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1101"/>[#011] \[Record\] Æsir\-FEST remaining files
+## <a id="r1101"/>\[#011\] \[Record\] Æsir\-FEST remaining files
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -681,7 +681,7 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1201"/>[#012] \[Share\] The security of the cyTus server
+## <a id="r1201"/>\[#012\] \[Share\] The security of the cyTus server
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -742,7 +742,7 @@ So there are still human failures, why not make it fully automatic?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1301"/>[#013] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
+## <a id="r1301"/>\[#013\] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -797,7 +797,7 @@ You CANT tell them to change it back into a card game  lololol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1401"/>[#014] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="r1401"/>\[#014\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -848,7 +848,7 @@ I think this project is very interesting, been following since the news came out
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1501"/>[#015] Æsir\-FEST memory block corrupted 
+## <a id="r1501"/>\[#015\] Æsir\-FEST memory block corrupted 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -871,7 +871,7 @@ Decision: Launch recovery...initializing...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1601"/>[#016] \[Announcement\] ROBO\_Radio standing by
+## <a id="r1601"/>\[#016\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -922,7 +922,7 @@ We're getting off topic lol, ROBO\_Radio for life!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1701"/>[#017] \[Repost\] Dr. ConneR will share progress of AI research on the web
+## <a id="r1701"/>\[#017\] \[Repost\] Dr. ConneR will share progress of AI research on the web
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -964,7 +964,7 @@ you got something?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1801"/>[#018] \[Repost\] Concert accident? Singer collapsed on stage
+## <a id="r1801"/>\[#018\] \[Repost\] Concert accident? Singer collapsed on stage
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1043,7 +1043,7 @@ Get well soon!!!!<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1901"/>[#019] Æsir\-FEST corrupted data recovery progress......15% 
+## <a id="r1901"/>\[#019\] Æsir\-FEST corrupted data recovery progress......15% 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1097,7 +1097,7 @@ Still can't figure out why it's corrupted??
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2001"/>[#020] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
+## <a id="r2001"/>\[#020\] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1163,7 +1163,7 @@ Well that's two more workers screwed XDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2101"/>[#021] \[Share\] What extremely long connection times does to the brain
+## <a id="r2101"/>\[#021\] \[Share\] What extremely long connection times does to the brain
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1195,7 +1195,7 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2201"/>[#022] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
+## <a id="r2201"/>\[#022\] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
 ### Requirements
 | Character  |Level|
 |------------|:---:|
@@ -1277,7 +1277,7 @@ Take care my man, use proxy connection it's less stressful for the brain
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2301"/>[#023] Æsir\-FEST corrupted data recovery progress......80% 
+## <a id="r2301"/>\[#023\] Æsir\-FEST corrupted data recovery progress......80% 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1338,7 +1338,7 @@ THE TRUTH! \*claps\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2401"/>[#024] Æsir\-FEST corrupted data recovery progress......100% 
+## <a id="r2401"/>\[#024\] Æsir\-FEST corrupted data recovery progress......100% 
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1421,7 +1421,7 @@ What if Æsir is the perpetrator himself...\*runs away\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2501"/>[#025] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
+## <a id="r2501"/>\[#025\] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1520,7 +1520,7 @@ Dude she is already super famous. Didn't you see how many people were connected 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2601"/>[#026] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
+## <a id="r2601"/>\[#026\] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1586,7 +1586,7 @@ Why did the admins allow these killing machines to run around freely???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2701"/>[#027] Æsir event internet search results
+## <a id="r2701"/>\[#027\] Æsir event internet search results
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1699,7 +1699,7 @@ But I feel like NEKO was probably framed!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2801"/>[#028] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
+## <a id="r2801"/>\[#028\] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1772,7 +1772,7 @@ Good thing that the innocent wasn't wrongly accused in the end \*prays\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2901"/>[#029] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
+## <a id="r2901"/>\[#029\] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1849,7 +1849,7 @@ It's a dream so don't PM me
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3001"/>[#030] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
+## <a id="r3001"/>\[#030\] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1919,7 +1919,7 @@ Bye bye you POS (Hand Wave
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3101"/>[#031] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
+## <a id="r3101"/>\[#031\] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1999,7 +1999,7 @@ Wanted to visit, but terrified...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3201"/>[#032] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## <a id="r3201"/>\[#032\] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2051,7 +2051,7 @@ Whatever let's blame Æsir for everything\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3301"/>[#033] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
+## <a id="r3301"/>\[#033\] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2113,7 +2113,7 @@ Maybe ask your boss and see if you can leave early to avoid the mob???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3401"/>[#034] \[Repost\] Explaining the decision behind the contract termination of PAFF
+## <a id="r3401"/>\[#034\] \[Repost\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2163,7 +2163,7 @@ God, all these recent incidents are so confusing. I don't what's real and what's
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3501"/>[#035] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
+## <a id="r3501"/>\[#035\] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2241,7 +2241,7 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3601"/>[#036] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
+## <a id="r3601"/>\[#036\] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2250,13 +2250,13 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 ### Post
 **ROBO_Head**<br>
 \[Excerpt\]\[Document\]\[Colin Neumann Jr.\]\[Drones\]<br>
-> The Drone is a type of mobile machinery that is equipped with a UI that's shared with the human brain. Originally, they were automatic tools used by the Architects for architecture, excavation, security and other purposes. After "The Decommission" and the disappearance of the Architects, humans founded A.R.C. to recreate and analyze the technology left behind. Due to how widely applicable and convenient the drones are, they are widely used in many fields, especially in areas where it's too risky for humans to venture ourselves.<br>
+>         The Drone is a type of mobile machinery that is equipped with a UI that's shared with the human brain. Originally, they were automatic tools used by the Architects for architecture, excavation, security and other purposes. After "The Decommission" and the disappearance of the Architects, humans founded A.R.C. to recreate and analyze the technology left behind. Due to how widely applicable and convenient the drones are, they are widely used in many fields, especially in areas where it's too risky for humans to venture ourselves.<br>
 > <br>
-> To explain in a level understandable by the general public, not only can these drones be remotely controlled through a shared UI with the human brain, they can also operate on their own by algorithms inputted in advance. The algorithms can be written so that these drones will follow a certain set of principles when they operate. Unfortunately, humans have yet to fully grasp the algorithms used by the drones. This shortcoming led to many accidents (Including the model LE\-110 Striker human assault incident that occurred in 680 N.A.). On top of that, even when remotely controlled via the shared UI by a human, incidents where the drone frankly ignored the pilot's directions and acted on its own were still fairly commonplace. In some large\-scale simulations, the connection error rate even reached a staggering 3%. Of course, as you may have guessed, this number is nowhere to be seen on A.R.C.'s research conclusions.<br>
+>         To explain in a level understandable by the general public, not only can these drones be remotely controlled through a shared UI with the human brain, they can also operate on their own by algorithms inputted in advance. The algorithms can be written so that these drones will follow a certain set of principles when they operate. Unfortunately, humans have yet to fully grasp the algorithms used by the drones. This shortcoming led to many accidents (Including the model LE\-110 Striker human assault incident that occurred in 680 N.A.). On top of that, even when remotely controlled via the shared UI by a human, incidents where the drone frankly ignored the pilot's directions and acted on its own were still fairly commonplace. In some large\-scale simulations, the connection error rate even reached a staggering 3%. Of course, as you may have guessed, this number is nowhere to be seen on A.R.C.'s research conclusions.<br>
 > <br>
-> From model LE\-112 to LE\-119, there are a total of eight drone models operating in the field right now. All of which are left behind by the Architects and each one has its own unique purpose. For example, large machinery and model LE\-115 drones often handle demolition duties during an excavation. Under human modifications, each model also has different add\-on equipment sets labeled A\~C. However, in exchange for the add\-ons, the connection yield rate has further diminished compare to the basic modules. As with the most primitive LE\-110s and LE\-111s, they have more units left behind than any other model. However, due to the constant string of accidents involving them, all units have been removed from field operations by the Administration Bureau. Currently, they are sealed indefinitely in a warehouse located in the forbidden area.<br>
+>         From model LE\-112 to LE\-119, there are a total of eight drone models operating in the field right now. All of which are left behind by the Architects and each one has its own unique purpose. For example, large machinery and model LE\-115 drones often handle demolition duties during an excavation. Under human modifications, each model also has different add\-on equipment sets labeled A\~C. However, in exchange for the add\-ons, the connection yield rate has further diminished compare to the basic modules. As with the most primitive LE\-110s and LE\-111s, they have more units left behind than any other model. However, due to the constant string of accidents involving them, all units have been removed from field operations by the Administration Bureau. Currently, they are sealed indefinitely in a warehouse located in the forbidden area.<br>
 >  <br>
-> It has been two hundred years since humans attempt to gain control over technologies we simply can't grasp. In the face of potential threats and unknown risks, we are unable to give up our innermost greed. We chose to seal them off, in hopes that one day we can truly uncover the secrets behind them. I can't say that this isn't a showcase of arrogant courage, but at the same time, the sheer lack of wisdom in this decision is also painfully noticeable. To those who made this decision, you have my sincere condolences.
+>         It has been two hundred years since humans attempt to gain control over technologies we simply can't grasp. In the face of potential threats and unknown risks, we are unable to give up our innermost greed. We chose to seal them off, in hopes that one day we can truly uncover the secrets behind them. I can't say that this isn't a showcase of arrogant courage, but at the same time, the sheer lack of wisdom in this decision is also painfully noticeable. To those who made this decision, you have my sincere condolences.
 
 
 \[Article excerpted from Dr. Colin Neumann Jr.'s publications in the open academic network\]
@@ -2278,7 +2278,8 @@ Look forward to seeing Poo Spraying Drones JK lol
 That second sentence sounds like something Dr. ConneR would say
 
 **ConneR**<br>
-Such nostalgic words.<br> Thank you to **@ROBO\_Head** for finding the most appropriate explanatory document regarding the topic of drones. However, the document is undoubtedly dated now. Please allow me to make some additions regarding the views I developed in recent years. 
+Such nostalgic words.<br>
+    Thank you to **@ROBO\_Head** for finding the most appropriate explanatory document regarding the topic of drones. However, the document is undoubtedly dated now. Please allow me to make some additions regarding the views I developed in recent years. 
 
 **ROBO_Head**<br>
 Decision: This document among 13652 related documents, level of representativeness  highest<br>
@@ -2299,7 +2300,7 @@ All set to write a research paper on drones\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3701"/>[#037] \[Repost\] Looking back at major riots in history
+## <a id="r3701"/>\[#037\] \[Repost\] Looking back at major riots in history
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2343,7 +2344,9 @@ To be honest, it is pretty stupid to have a riot over something this insignifica
 Just my two cents, but I feel like the number of angry folks has decreased a lot recently. People are starting to think calmly about what they should do. That \[FindingPAFF\] website is a pretty good example
 
 **ConneR**<br>
-As you all may observe, the constant repeat of such foolish actions is the perfect showcase of human nature. We are the same as we are two hundred years ago. When we lost our direction, we humans will recklessly fly around in the darkness like headless flies. In order to fulfill our diminishing and selfish greed and desires, we still choose to resort to violence, threats, and force. A sad, neverending vicious cycle.
+As you all may observe, the constant repeat of such foolish actions is the perfect showcase of human nature. We are the same as we are two hundred years ago. When we lost our direction, we humans will recklessly fly around in the darkness like headless flies. In order to fulfill our diminishing and selfish greed and desires, we still choose to resort to violence, threats, and force. 
+
+    A sad, neverending vicious cycle.
 
 **RaiKiyumi**<br>
 Trying to think of something to rebut sensei, yet couldn't even muster a word... I am sorry to be born a human
@@ -2357,7 +2360,7 @@ Very well. Then the first thing we should do is to make sure worthless garbage l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3801"/>[#038] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
+## <a id="r3801"/>\[#038\] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2426,7 +2429,7 @@ Bought ten tickets already! This performance is definitely what you call can't m
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3901"/>[#039] ROBO\_Radio\_LIVE starts now!
+## <a id="r3901"/>\[#039\] ROBO\_Radio\_LIVE starts now!
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2521,7 +2524,7 @@ Don't be stupid, ghosts don't exist in the virtual space... Even if they do they
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4001"/>[#040] ROBO\_Radio\_LIVE statistics analysis
+## <a id="r4001"/>\[#040\] ROBO\_Radio\_LIVE statistics analysis
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2597,7 +2600,7 @@ Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4101"/>[#041] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
+## <a id="r4101"/>\[#041\] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2697,7 +2700,7 @@ Dude, don't jinx us LOLOLOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4201"/>[#042] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
+## <a id="r4201"/>\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2765,7 +2768,7 @@ With somebody like Xenon at the helm are you really sure that's a wise decision?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4301"/>[#043] Paranormal: Bug collection
+## <a id="r4301"/>\[#043\] Paranormal: Bug collection
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|

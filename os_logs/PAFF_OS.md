@@ -1,69 +1,69 @@
 # PAFF OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Show\_693\_03\_16](#pos001)
-- [[#002] Cam\_Noah\_693\_03\_16](#pos002)
-- [[#003] Call\_Chris\_693\_03\_29](#pos003)
-- [[#004] Cam\_Noah\_693\_05\_11](#pos004)
-- [[#005] Cam\_Noah\_693\_06\_13](#pos005)
-- [[#006] Mail\_Chris\_693\_07\_02](#pos006)
-- [[#007] Cam\_Noah\_693\_08\_14](#pos007)
-- [[#008] Audio\_NMobile\_693\_08\_14](#pos008)
-- [[#009] Cam\_NDrivRec\_693\_08\_15](#pos009)
-- [[#010] Cam094\_ARC\_H\_694\_05\_15](#pos010)
-- [[#011] Cam\_TunerSan\_702\_09\_25](#pos011)
-- [[#012] Cam\_Hospital\_693\_08\_16](#pos012)
-- [[#013] cyTus\_Server 08\_702\_01\_18](#pos013)
-- [[#014] Audio\_Arena\_702\_07\_27](#pos014)
-- [[#015] Audio\_ARC\_H\_702\_07\_28](#pos015)
-- [[#016] Audio\_Noah\_702\_08\_03](#pos016)
-- [[#017] Audio\_Noah\_702\_09\_01](#pos017)
-- [[#018] Audio\_Noah\_702\_09\_09](#pos018)
-- [[#019] Cam\_Daily08\_702\_10\_18](#pos019)
-- [[#020] Audio\_Xmas\_688\_12\_24\_1](#pos020)
-- [[#021] Audio\_Xmas\_701\_12\_24](#pos021)
-- [[#022] Audio\_Xmas\_688\_12\_24\_2](#pos022)
-- [[#023] Audio\_Academy\_702\_10\_07](#pos023)
-- [[#024] Image\_Academy\_702\_10\_07](#pos024)
-- [[#025] Audio\_St07\_702\_10\_20](#pos025)
-- [[#026] Audio\_Asakura\_702\_10\_07](#pos026)
-- [[#027] Audio\_Daily08\_702\_10\_23](#pos027)
-- [[#028] Cam\_Fwy01\_693\_08\_15](#pos028)
-- [[#029] Audio\_Hospital\_694\_03\_28](#pos029)
-- [[#030] Audio\_Hospital\_694\_04\_20](#pos030)
-- [[#031] Audio\_Arc\_692\_08\_13](#pos031)
-- [[#032] Audio\_Arc\_692\_08\_20](#pos032)
-- [[#033] Cam\_ARC\_H\_694\_04\_30](#pos033)
-- [[#034] Cam\_ARC\_H\_694\_05\_12\_1](#pos034)
-- [[#035] Cam\_ARC\_H\_694\_05\_12\_2](#pos035)
-- [[#036] Audio\_ARC\_H\_694\_05\_15](#pos036)
-- [[#037] Audio\_Noah\_695\_06\_05](#pos037)
-- [[#038] Audio\_ARC\_H\_702\_07\_28](#pos038)
-- [[#039] Cam\_Noah\_702\_09\_09](#pos039)
-- [[#040] Audio\_Vicky\_702\_11\_14](#pos040)
-- [[#041] Cam\_Charity\_687\_05\_13](#pos041)
-- [[#042] Cam\_Feng\_689\_04\_03](#pos042)
-- [[#043] Audio\_Asakura\_702\_11\_14](#pos043)
-- [[#044] Audio\_St08\_702\_11\_14](#pos044)
-- [[#045] Cam\_Dash\_702\_11\_14](#pos045)
-- [[#046] Cam\_DragonSt\_694\_04\_25\_1](#pos046)
-- [[#047] Cam\_08Daily\_702\_11\_17](#pos047)
-- [[#048] Cam\_Dash\_702\_11\_14](#pos048)
-- [[#049] Audio\_Noah\_702\_11\_14](#pos049)
-- [[#050] Cam\_DragonSt\_694\_04\_25\_2](#pos050)
-- [[#051] Cam\_Dash\_702\_11\_17](#pos051)
-- [[#052] Audio\_Cafe\_702\_11\_17](#pos052)
-- [[#053] Cam\_DragonSt\_694\_04\_25\_3](#pos053)
-- [[#054] Image\_Base\_702\_11\_17](#pos054)
-- [[#055] Audio\_Cafe\_702\_11\_17](#pos055)
-- [[#056] Multi\_File\_P056](#pos056)
-- [[#057] Multi\_File\_P057](#pos057)
-- [[#058] ???\_???\_??\_??\_??](#pos058)
-- [[#059] Cam\_Ward\_702\_12\_14](#pos059)
-- [[#060] Audio\_Ward\_702\_12\_15](#pos060)
-- [[#061] Audio\_KyuuLab\_702\_12\_20\_1](#pos061)
-- [[#062] Audio\_KyuuLab\_702\_12\_20\_2](#pos062)
+- [\[#001\] Show\_693\_03\_16](#pos001)
+- [\[#002\] Cam\_Noah\_693\_03\_16](#pos002)
+- [\[#003\] Call\_Chris\_693\_03\_29](#pos003)
+- [\[#004\] Cam\_Noah\_693\_05\_11](#pos004)
+- [\[#005\] Cam\_Noah\_693\_06\_13](#pos005)
+- [\[#006\] Mail\_Chris\_693\_07\_02](#pos006)
+- [\[#007\] Cam\_Noah\_693\_08\_14](#pos007)
+- [\[#008\] Audio\_NMobile\_693\_08\_14](#pos008)
+- [\[#009\] Cam\_NDrivRec\_693\_08\_15](#pos009)
+- [\[#010\] Cam094\_ARC\_H\_694\_05\_15](#pos010)
+- [\[#011\] Cam\_TunerSan\_702\_09\_25](#pos011)
+- [\[#012\] Cam\_Hospital\_693\_08\_16](#pos012)
+- [\[#013\] cyTus\_Server 08\_702\_01\_18](#pos013)
+- [\[#014\] Audio\_Arena\_702\_07\_27](#pos014)
+- [\[#015\] Audio\_ARC\_H\_702\_07\_28](#pos015)
+- [\[#016\] Audio\_Noah\_702\_08\_03](#pos016)
+- [\[#017\] Audio\_Noah\_702\_09\_01](#pos017)
+- [\[#018\] Audio\_Noah\_702\_09\_09](#pos018)
+- [\[#019\] Cam\_Daily08\_702\_10\_18](#pos019)
+- [\[#020\] Audio\_Xmas\_688\_12\_24\_1](#pos020)
+- [\[#021\] Audio\_Xmas\_701\_12\_24](#pos021)
+- [\[#022\] Audio\_Xmas\_688\_12\_24\_2](#pos022)
+- [\[#023\] Audio\_Academy\_702\_10\_07](#pos023)
+- [\[#024\] Image\_Academy\_702\_10\_07](#pos024)
+- [\[#025\] Audio\_St07\_702\_10\_20](#pos025)
+- [\[#026\] Audio\_Asakura\_702\_10\_07](#pos026)
+- [\[#027\] Audio\_Daily08\_702\_10\_23](#pos027)
+- [\[#028\] Cam\_Fwy01\_693\_08\_15](#pos028)
+- [\[#029\] Audio\_Hospital\_694\_03\_28](#pos029)
+- [\[#030\] Audio\_Hospital\_694\_04\_20](#pos030)
+- [\[#031\] Audio\_Arc\_692\_08\_13](#pos031)
+- [\[#032\] Audio\_Arc\_692\_08\_20](#pos032)
+- [\[#033\] Cam\_ARC\_H\_694\_04\_30](#pos033)
+- [\[#034\] Cam\_ARC\_H\_694\_05\_12\_1](#pos034)
+- [\[#035\] Cam\_ARC\_H\_694\_05\_12\_2](#pos035)
+- [\[#036\] Audio\_ARC\_H\_694\_05\_15](#pos036)
+- [\[#037\] Audio\_Noah\_695\_06\_05](#pos037)
+- [\[#038\] Audio\_ARC\_H\_702\_07\_28](#pos038)
+- [\[#039\] Cam\_Noah\_702\_09\_09](#pos039)
+- [\[#040\] Audio\_Vicky\_702\_11\_14](#pos040)
+- [\[#041\] Cam\_Charity\_687\_05\_13](#pos041)
+- [\[#042\] Cam\_Feng\_689\_04\_03](#pos042)
+- [\[#043\] Audio\_Asakura\_702\_11\_14](#pos043)
+- [\[#044\] Audio\_St08\_702\_11\_14](#pos044)
+- [\[#045\] Cam\_Dash\_702\_11\_14](#pos045)
+- [\[#046\] Cam\_DragonSt\_694\_04\_25\_1](#pos046)
+- [\[#047\] Cam\_08Daily\_702\_11\_17](#pos047)
+- [\[#048\] Cam\_Dash\_702\_11\_14](#pos048)
+- [\[#049\] Audio\_Noah\_702\_11\_14](#pos049)
+- [\[#050\] Cam\_DragonSt\_694\_04\_25\_2](#pos050)
+- [\[#051\] Cam\_Dash\_702\_11\_17](#pos051)
+- [\[#052\] Audio\_Cafe\_702\_11\_17](#pos052)
+- [\[#053\] Cam\_DragonSt\_694\_04\_25\_3](#pos053)
+- [\[#054\] Image\_Base\_702\_11\_17](#pos054)
+- [\[#055\] Audio\_Cafe\_702\_11\_17](#pos055)
+- [\[#056\] Multi\_File\_P056](#pos056)
+- [\[#057\] Multi\_File\_P057](#pos057)
+- [\[#058\] ???\_???\_??\_??\_??](#pos058)
+- [\[#059\] Cam\_Ward\_702\_12\_14](#pos059)
+- [\[#060\] Audio\_Ward\_702\_12\_15](#pos060)
+- [\[#061\] Audio\_KyuuLab\_702\_12\_20\_1](#pos061)
+- [\[#062\] Audio\_KyuuLab\_702\_12\_20\_2](#pos062)
 
-## <a id="pos001"/>[#001] Show\_693\_03\_16
+## <a id="pos001"/>\[#001\] Show\_693\_03\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -132,7 +132,7 @@ How can I ever stand to ﬁght another day\*
 Holy...!<br>
 Are you serious...
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Audience**<br>
 ......\-
@@ -142,7 +142,7 @@ Are you serious...
 
 *\[Audience applauds\]*
 
-*\[Switch Signal\]*
+_\[Switch Signal\]_
 
 **Helena**<br>
 Aroma! Over here!
@@ -187,11 +187,11 @@ It's getting late. Let's go back.
 **PAFF**<br>
 OK!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos002"/>[#002] Cam\_Noah\_693\_03\_16
+## <a id="pos002"/>\[#002\] Cam\_Noah\_693\_03\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -219,7 +219,7 @@ Ah, Noah... sorry. You can use the bathroom now.
 ![pos0201.png](./attachments/pos0201.png)
 
 **Noah**<br>
-*\*Chuckles\** You don't have to be so cautious. We are living together after all. Just treat me like family.
+_\*Chuckles\*_ You don't have to be so cautious. We are living together after all. Just treat me like family.
 
 **PAFF**<br>
 Ok... thank you for letting me live together with you guys. It feels like I'm disturbing you two newlyweds though...
@@ -241,7 +241,7 @@ No. You must be exhausted after a whole day at the studio, aren't you? You get s
 Congratulations on second place. You were great!
 
 **[Tuner-san]**<br>
-*Congrats! Congrats*
+_Congrats! Congrats_
 
 **PAFF**<br>
 ......
@@ -276,7 +276,7 @@ The research department is not really busy these days due to that previous incid
 **Noah**<br>
 If you don't believe, check the clip. It's been spreading like wildfire online already.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Helena**<br>
 ... Another listen and it's still as amazing as the first time. You indeed have the best singing performance.
@@ -321,7 +321,7 @@ No, you were even more nervous than Aroma last night. You barely got any sleep, 
 I SAID, SIT, DOWN.
 
 **[Tuner-san]**<br>
-*Detects Anger Emotion*
+_Detects Anger Emotion_
 
 **PAFF**<br>
 In times like this, it's best you listen to sister...
@@ -329,11 +329,11 @@ In times like this, it's best you listen to sister...
 **Noah**<br>
 Haha... seems like that's the case.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos003"/>[#003] Call\_Chris\_693\_03\_29
+## <a id="pos003"/>\[#003\] Call\_Chris\_693\_03\_29
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -384,7 +384,7 @@ Our CEO thinks that with Miss White's appearance, elegance and performance trait
 **Helena**<br>
 Shush! Let me handle it.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Helena**<br>
 ... That's about it. Their plans are more transparent and clear. For safety concerns, I feel like they are the better choice.
@@ -425,7 +425,7 @@ Yes, ma'am! I have a feeling... that you will be a great agent.
 **Helena**<br>
 I am only a good sister. I will look forward to your reply.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **PAFF**<br>
 ... Is that the right thing to do? Shouldn't we be a little nicer...?
@@ -434,11 +434,11 @@ I am only a good sister. I will look forward to your reply.
 Idiot, how could I just hand you off to some random, out\-of\-nowhere small company like that?<br>
 This is a great opportunity for your dreams to come true. Let me handle it.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos004"/>[#004] Cam\_Noah\_693\_05\_11
+## <a id="pos004"/>\[#004\] Cam\_Noah\_693\_05\_11
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -454,7 +454,7 @@ I have the singing part nailed down already... but I'm still nervous... after I 
 ... Tuner\-san, project an audience for me.
 
 **[Tuner-san]**<br>
-*Audience projected*
+_Audience projected_
 
 **PAFF**<br>
 Wow... this is so realistic...<br>
@@ -462,7 +462,7 @@ H, hello everyone... My name is...
 
 ![pos0401.png](./attachments/pos0401.png)
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **PAFF**<br>
 Hello everyone! I'm Aroma! I, I'm f... fifteen...
@@ -471,7 +471,7 @@ Hello everyone! I'm Aroma! I, I'm f... fifteen...
 No good... still really nervous; my voice becomes weird... this is just a projection too...
 
 **[Tuner-san]**<br>
-*Fight on! Fight on!*
+_Fight on! Fight on!_
 
 **PAFF**<br>
 Yes... can't give up here. Sis Helena is working hard for me as well. I have to keep going... YIKES!?
@@ -540,11 +540,11 @@ You're welcome.
 **Noah**<br>
 ... I will be waiting for you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos005"/>[#005] Cam\_Noah\_693\_06\_13
+## <a id="pos005"/>\[#005\] Cam\_Noah\_693\_06\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -600,10 +600,10 @@ I'm going to go take a shower. If I listen to you talk anymore I feel like my ea
 **PAFF**<br>
 Sister, the floor is still a bit wet. Be careful.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Television]**<br>
-*... In the series of papers published by Dr. Neumann, his interpretation of ancient technology has been significantly different from A.R.C.'s previous theories, leading to heated discussions within the community. Rumor has it that some of Dr.Neumann's evidence came from non\-legal sources, making the papers and the doctor himself the topic of many controversies. However, voices that support his theories are gaining more and more ground in the industry...*
+_... In the series of papers published by Dr. Neumann, his interpretation of ancient technology has been significantly different from A.R.C.'s previous theories, leading to heated discussions within the community. Rumor has it that some of Dr.Neumann's evidence came from non\-legal sources, making the papers and the doctor himself the topic of many controversies. However, voices that support his theories are gaining more and more ground in the industry..._
 
 **Noah**<br>
 Haha, "significantly different"? How ignorant... they just don't have the balls to admit that "We are a bunch of idiots who are absurdly wrong about everything".
@@ -631,7 +631,7 @@ The "Old Humans" have much more superior technology than what we currently have.
 Yes. The Academy taught us about it.
 
 **[Tuner-san]**<br>
-*Aroma is a top student at the Academy! Her grades this year rank 3rd among all students!*
+_Aroma is a top student at the Academy! Her grades this year rank 3rd among all students!_
 
 **Noah**<br>
 Hoho? That's impressive.<br>
@@ -648,7 +648,7 @@ Correct! Due to the disappearance of the Architects, most of the Nodes' infrastr
 Wow... but the lecturers at the Academy don't seem to like him very much. They told us that he has many criminal records and is not someone we should aspire to be like...
 
 **Noah**<br>
-*\*Sighs\**... The lecturers at the Academy are probably hired by those stubborn geezers at A.R.C. too. Even your current curriculum has been altered a lot by the Administration Bureau. Did you know that before "The Decommission", the Academy itself was fully automatic, and lecturers were simply not required?
+_\*Sighs\*_... The lecturers at the Academy are probably hired by those stubborn geezers at A.R.C. too. Even your current curriculum has been altered a lot by the Administration Bureau. Did you know that before "The Decommission", the Academy itself was fully automatic, and lecturers were simply not required?
 
 **PAFF**<br>
 Eh? Really? They didn't teach us that...<br>
@@ -695,11 +695,11 @@ Seriously... Stopping instilling people with your random crap. That's why you ne
 **Noah**<br>
 No... it's ok. She is speaking the truth after all. Haha...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos006"/>[#006] Mail\_Chris\_693\_07\_02
+## <a id="pos006"/>\[#006\] Mail\_Chris\_693\_07\_02
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -737,7 +737,7 @@ Chris
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos007"/>[#007] Cam\_Noah\_693\_08\_14
+## <a id="pos007"/>\[#007\] Cam\_Noah\_693\_08\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -757,7 +757,7 @@ Aroma? I'm coming in?<br>
 Aroma?
 
 **[Tuner-san]**<br>
-*Aroma is feeling down. Aroma is feeling down...*
+_Aroma is feeling down. Aroma is feeling down..._
 
 **Helena**<br>
 ......
@@ -800,7 +800,7 @@ No\~... We're all grown\-ups now. This is weird...
 **Helena**<br>
 I've grown up too. No matter what, I will always be 8 years older than you. Come here. Don't think about anything and close your eyes.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 Hugging each other like this... it feels nostalgic.
@@ -864,14 +864,14 @@ Therefore, worry no more. For yourself and for everyone, sing; sing to your hear
 As for myself, as long as Aroma can stay happy forever, I will be plenty satisfied.
 
 **PAFF**<br>
-... Thank you, sister. Thank you so much... *\*Sobs\**...
+... Thank you, sister. Thank you so much... _\*Sobs\*_...
 
 **Helena**<br>
 Silly child, why are you crying? You call yourself a grown\-up, yet you're the same old crybaby...<br>
 It's alright. Enjoy singing and enjoy the stage. Bring power to everyone in the world! You can definitely do it.
 
 **[Tuner-san]**<br>
-*Fight on! Fight on!*
+_Fight on! Fight on!_
 
 **PAFF**<br>
 Yes... I will try my best.
@@ -885,13 +885,13 @@ Got it... I'll be there soon.
 *\[Door Opens\]*
 
 **PAFF**<br>
-Sister... *\*Sobs\*...*
+Sister... _\*Sobs\*..._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos008"/>[#008] Audio\_NMobile\_693\_08\_14
+## <a id="pos008"/>\[#008\] Audio\_NMobile\_693\_08\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -913,7 +913,7 @@ You're being considerate for once, good.<br>
 Those people at Mono really are a pain in the neck. It's truly exhausting to deal with them... Aroma, you must be hungry too, right? Don't go easy on his wallet.
 
 **[Tuner-san]**<br>
-*Hungry! Hungry!*
+_Hungry! Hungry!_
 
 **PAFF**<br>
 ...... Ok.
@@ -921,7 +921,7 @@ Those people at Mono really are a pain in the neck. It's truly exhausting to dea
 **Noah**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 ......
@@ -1024,7 +1024,7 @@ I don't know what options are there... Let me go get it.
 ... Got it. Then get me a glass of orange juice with extra ice.
 
 **[Tuner-san]**<br>
-*Note: Orange juice, more ice!*
+_Note: Orange juice, more ice!_
 
 **PAFF**<br>
 OK.
@@ -1037,11 +1037,11 @@ OK.
 **Noah**<br>
 ... Did I rush it? That's not good... Hehehe.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos009"/>[#009] Cam\_NDrivRec\_693\_08\_15
+## <a id="pos009"/>\[#009\] Cam\_NDrivRec\_693\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1066,7 +1066,7 @@ That I would enjoy singing and enjoy the stage. Bring power to everyone in the w
 That's right. We will always be there for you. Here, get in the car.
 
 **[Tuner-san]**<br>
-*Warning! This vehicle does not comply with the safety standards. Confirm to ride?*
+_Warning! This vehicle does not comply with the safety standards. Confirm to ride?_
 
 **Helena**<br>
 You still haven't fixed the seatbelt yet?
@@ -1082,7 +1082,7 @@ Aroma, you sit over there. I'll sit in the broken seat.
 Sister... isn't that dangerous?
 
 **[Tuner-san]**<br>
-*Danger! Danger!*
+_Danger! Danger!_
 
 **Helena**<br>
 Mono is just a short drive away, no big deal. Scoot over.
@@ -1096,7 +1096,7 @@ What? You got something to say? If something happens to me, blame yourself for b
 **Noah**<br>
 Stop jinxing yourself... Let's go.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Helena**<br>
 Don't you have to work today?
@@ -1122,19 +1122,19 @@ What's the matter? Are you still nervous?
 Ah, it's from Chris.
 
 **[Chris]**<br>
-*Hi\~ Just calling in for a quick reminder. Practice starts at 10.*
+_Hi\~ Just calling in for a quick reminder. Practice starts at 10._
 
 **Helena**<br>
 Got it. We are already on our way.
 
 **[Chris]**<br>
-*Is PAFF there?*
+_Is PAFF there?_
 
 **Helena**<br>
 She's right next to me. However, it seems like she's still a bit anxious...
 
 **[Chris]**<br>
-*Oh, I see. Can I talk to her for a bit?*
+_Oh, I see. Can I talk to her for a bit?_
 
 **Helena**<br>
 OK. Aroma, it's Chris.
@@ -1146,11 +1146,11 @@ AROMA！！！
 
 *\[Car Accident\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos010"/>[#010] Cam094\_ARC\_H\_694\_05\_15
+## <a id="pos010"/>\[#010\] Cam094\_ARC\_H\_694\_05\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1172,10 +1172,10 @@ Aroma!
 Director, the test is not...
 
 **[Noah]**<br>
-*It's fine. Let her in.*
+_It's fine. Let her in._
 
 **Helena**<br>
-Thank goodness! *\*Sobs\**......
+Thank goodness! _\*Sobs\*_......
 
 ![pos1001.png](./attachments/pos1001.png)
 
@@ -1204,7 +1204,7 @@ Aroma... is that...me? Who... am I?
 ......
 
 **[Noah]**<br>
-*... Helena, I'm sorry... There are still some examinations we need to perform. Please leave the room first.*
+_... Helena, I'm sorry... There are still some examinations we need to perform. Please leave the room first._
 
 **Helena**<br>
 ......
@@ -1222,13 +1222,13 @@ Mrs. Helena, please rest assured. At the very least, she can talk normally. Her 
 Noah... I believe you.
 
 **[Noah]**<br>
-*... I know. Leave it to me.*
+_... I know. Leave it to me._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos011"/>[#011] Cam\_TunerSan\_702\_09\_25
+## <a id="pos011"/>\[#011\] Cam\_TunerSan\_702\_09\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1236,13 +1236,13 @@ Noah... I believe you.
 
 ### Log Content
 **[News]**<br>
-*Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist. *
+_Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist. _
 
 **[Reporter]**<br>
-*Miss Helena, any thoughts regarding your missing sister? Do you feel sad?*
+_Miss Helena, any thoughts regarding your missing sister? Do you feel sad?_
 
 **[Helena]**<br>
-*We will not discuss anything that is not related to the contract here. Thank you.*
+_We will not discuss anything that is not related to the contract here. Thank you._
 
 ![pos1101.png](./attachments/pos1101.png)
 
@@ -1261,13 +1261,13 @@ Haha, that's how showbiz works anyway. So damn predictable.
 **PAFF**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 Cough... cough cough...
 
 **[Tuner-san]**<br>
-*Aroma has symptoms of a cold. Recommend visiting a doctor ASAP.*
+_Aroma has symptoms of a cold. Recommend visiting a doctor ASAP._
 
 **PAFF**<br>
 Can't keep going on like this... Need to find a place to...
@@ -1282,7 +1282,7 @@ But where can I go...? There's not even a single person I know who can...
 Tuner\-san, search for Iris's contact information.
 
 **[Tuner-san]**<br>
-*I'm sorry! No matching information in the contact list.*
+_I'm sorry! No matching information in the contact list._
 
 **PAFF**<br>
 Eh...? How's that possible?
@@ -1291,7 +1291,7 @@ Eh...? How's that possible?
 Search for the contact information of Iris Baker.
 
 **[Tuner-san]**<br>
-*I'm sorry! No matching information in the contact list.*
+_I'm sorry! No matching information in the contact list._
 
 **PAFF**<br>
 I definitely saved her info... No, right now, I don't even know whether the things I remembered and forgot are real or not...
@@ -1299,7 +1299,7 @@ I definitely saved her info... No, right now, I don't even know whether the thin
 **PAFF**<br>
 Just what should I do now...? 
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Advertisement Music\]*
 
@@ -1316,16 +1316,16 @@ It's NEKO's song...
 Tuner\-san, search for NEKO's contact information.
 
 **[Tuner-san]**<br>
-*Asakura Neko (朝倉 音心), address: Quadrant II, 07 street, No. 9\-2, 19F.*
+_Asakura Neko (朝倉 音心), address: Quadrant II, 07 street, No. 9\-2, 19F._
 
 **PAFF**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos012"/>[#012] Cam\_Hospital\_693\_08\_16
+## <a id="pos012"/>\[#012\] Cam\_Hospital\_693\_08\_16
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1372,12 +1372,12 @@ Hey, where are you going? You are not in the shape to run around...
 **Bryan**<br>
 It's fine. Both of you didn't suffer severe injuries. Your sister is in the ICU. I'll take you there.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 ![aos0101.png](./attachments/aos0101.png)
 
 **Helena**<br>
-...... No... this can't be... *\*Bawls\**!!!!
+...... No... this can't be... _\*Bawls\*_!!!!
 
 **Noah**<br>
 ......
@@ -1445,11 +1445,11 @@ We will think of other methods to save her. Please believe in us!
 **Noah**<br>
 ... I'll leave it to you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos013"/>[#013] cyTus\_Server 08\_702\_01\_18
+## <a id="pos013"/>\[#013\] cyTus\_Server 08\_702\_01\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1501,28 +1501,28 @@ Indeed, A part of this crowd is your most devoted fans. It seems that ROBO\_Head
 *\[System notification\]*
 
 **[Staff A]**<br>
-*Excuse me. Miss PAFF, it's about time.*
+_Excuse me. Miss PAFF, it's about time._
 
 **Helena**<br>
 Is the intro video playing already? How are the effects?
 
 **[Staff B]**<br>
-*Footage is playing normally. Light arrangement is confirmed as well. All set and ready to go.<br>
+_Footage is playing normally. Light arrangement is confirmed as well. All set and ready to go.<br>
 90 seconds until Miss PAFF takes the stage.<br>
-We are a professional virtual LIVE operation team. Please rest assured!*
+We are a professional virtual LIVE operation team. Please rest assured!_
 
 **Aroma**<br>
 Thanks for the hard work.
 
 **[Staff B]**<br>
-*Oh my god... Did you hear that!? PAFF just said "Thanks for the hard work" to me! I'm so touched! My profession switch to this is all worth it!*
+_Oh my god... Did you hear that!? PAFF just said "Thanks for the hard work" to me! I'm so touched! My profession switch to this is all worth it!_
 
 **Helena**<br>
 Hey, where's your professionalism?
 
 **[Staff A]**<br>
-*Ahem... Apologies for what just happened. He was too excited.<br>
-Miss PAFF, please stand inside the red circle. Once the video ends, we'll directly teleport you onto the stage.*
+_Ahem... Apologies for what just happened. He was too excited.<br>
+Miss PAFF, please stand inside the red circle. Once the video ends, we'll directly teleport you onto the stage._
 
 **Helena**<br>
 Got it. We'll be in your care.<br>
@@ -1537,11 +1537,11 @@ Yes.
 
 ![aos1901.png](./attachments/aos1901.png)
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos014"/>[#014] Audio\_Arena\_702\_07\_27
+## <a id="pos014"/>\[#014\] Audio\_Arena\_702\_07\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1583,7 +1583,7 @@ I'm feeling fine... No need to worry.
 Thank goodness. Even though the stabilizers have had fewer issues since Noah optimized them, I still don't want you to force yourself...
 
 **[Tuner-san]**<br>
-*Aroma's feeling well! Feeling well!*
+_Aroma's feeling well! Feeling well!_
 
 **Aroma**<br>
 See. No problem at all.
@@ -1618,7 +1618,7 @@ Understood.
 ... Hmm... Tuner\-san, play the accompanying music for me.
 
 **[Tuner-san]**<br>
-*《Gravity》instrumental, start!*
+_《Gravity》instrumental, start!_
 
 *\[Accompanying music\]*
 
@@ -1642,10 +1642,10 @@ It has been fine recently...
 No, I can't let sister and others worry about me...<br>
 It's not that serious. I can do this...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Helena]**<br>
-*Aroma... No, "Miss PAFF", it is time. Please come to the backstage for final preparations.*<br>
+_Aroma... No, "Miss PAFF", it is time. Please come to the backstage for final preparations._<br>
 The night of your 7th Anniversary is about to begin.
 
 **Aroma**<br>
@@ -1654,11 +1654,11 @@ Sister...
 **Aroma**<br>
 ... I'll be right there.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos015"/>[#015] Audio\_ARC\_H\_702\_07\_28
+## <a id="pos015"/>\[#015\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1672,48 +1672,48 @@ Sister...
 Are you awake? Director!
 
 **[Noah]**<br>
-*Aroma.*
+_Aroma._
 
 **Aroma**<br>
 Noah... Ugh... What happened to me?
 
 **[Noah]**<br>
-*You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body.*
+_You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body._
 
 **Aroma**<br>
 Where's sister...?
 
 **[Noah]**<br>
-*Resting in the room next door. Because of you, she barely had any rest for the past few days too.*
+_Resting in the room next door. Because of you, she barely had any rest for the past few days too._
 
 **Aroma**<br>
-*\*Sobs\**... *\*Sobs\**...
+_\*Sobs\*_... _\*Sobs\*_...
 
 **[Noah]**<br>
-*What's wrong...?*
+_What's wrong...?_
 
 **Aroma**<br>
-I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... *\*Sobs\**...
+I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... _\*Sobs\*_...
 
 **[Noah]**<br>
-*... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
-As with the company's events, I'll find a way to let Chris handle them.*
+_... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
+As with the company's events, I'll find a way to let Chris handle them._
 
 **Aroma**<br>
 I'm sorry... I made you guys worried again. I even caused everyone so much trouble...
 
 **[Noah]**<br>
-*No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
-Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep.*
+_No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
+Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep._
 
 **Aroma**<br>
 OK...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos016"/>[#016] Audio\_Noah\_702\_08\_03
+## <a id="pos016"/>\[#016\] Audio\_Noah\_702\_08\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1744,7 +1744,7 @@ The fans are all worried about you. Look at all these letters and gifts.
 I saw them.<br>
 Since I already arrived home, I need to report my status to everyone on iM.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -1756,7 +1756,7 @@ How are you doing? Do you feel any discomfort?
 I'm doing fine... My head doesn't hurt anymore.
 
 **[Tuner-san]**<br>
-*Time right now: 21:00. Medicine time! Medicine time!*
+_Time right now: 21:00. Medicine time! Medicine time!_
 
 **Helena**<br>
 Ah, I'll go prepare it for you. You like your water hot but not too hot, right?
@@ -1795,7 +1795,7 @@ Ah, nothing...
 **Aroma**<br>
 Thank you.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -1844,11 +1844,11 @@ Hmm?
 **Aroma**<br>
 ... Nothing. I... I really like this song.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos017"/>[#017] Audio\_Noah\_702\_09\_01
+## <a id="pos017"/>\[#017\] Audio\_Noah\_702\_09\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1926,7 +1926,7 @@ I SAID NO!!
 *\[Knocks over items\]*
 
 **[Tuner-san]**<br>
-*Item shattered. Please be careful.*
+_Item shattered. Please be careful._
 
 **Aroma**<br>
 ......
@@ -1953,7 +1953,7 @@ Stop asking! I don't know!
 ......
 
 **Aroma**<br>
-*Sobs*...
+_Sobs_...
 
 **Helena**<br>
 ......<br>
@@ -1982,11 +1982,11 @@ Sister...
 **Aroma**<br>
 What... just what am I... 
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos018"/>[#018] Audio\_Noah\_702\_09\_09
+## <a id="pos018"/>\[#018\] Audio\_Noah\_702\_09\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2021,7 +2021,7 @@ Aroma, good morning. Wake up!
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward 10 minutes »»»\]*
+_\[»»» Fast Forward 10 minutes »»»\]_
 
 **Noah**<br>
 ... The window is open. There are footprints on the grass but they are unable to be tracked. The bent grass has dewdrops on them, which means that she has been gone for a while now. On top of that, no other traces are found.<br>
@@ -2060,7 +2060,7 @@ It's my... it's all my fault. Last night, I shouldn't have said that... She must
 Helena... blaming yourself won't change anything. This was a decision we made back then. Therefore, we will face it together.
 
 **Helena**<br>
-...... You're right. I'm sorry, Noah. *\*Sobs\**...
+...... You're right. I'm sorry, Noah. _\*Sobs\*_...
 
 **Noah**<br>
 Alright, stop crying... There are still plenty of things we must do.<br>
@@ -2097,11 +2097,11 @@ Ahhhh... AHHHHH......
 **Noah**<br>
 I... can't repent my crimes like this, can't it...? All I did was bring even more suffering... I'm sorry...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos019"/>[#019] Cam\_Daily08\_702\_10\_18
+## <a id="pos019"/>\[#019\] Cam\_Daily08\_702\_10\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2151,8 +2151,8 @@ Eh!? For real? Where!?
 Take a look! This is the VOD of a NEKO stream on iM a while ago!
 
 **[Video]**<br>
-*Meow meow meow (ΦωΦ)/ I'm bored so let's stream\~<br>
-Heard that many of you are VERY\~ interested in NEKO's room aren't ya\~\~\~ (\*Φ∀Φ)*
+_Meow meow meow (ΦωΦ)/ I'm bored so let's stream\~<br>
+Heard that many of you are VERY\~ interested in NEKO's room aren't ya\~\~\~ (\*Φ∀Φ)_
 
 **Susan**<br>
 This clip... it's just a stream of her room though? Is something wrong with it?
@@ -2243,11 +2243,11 @@ Then a decision has been made! BUT, you better not cause me any trouble like you
 **Hayato**<br>
 U, understood!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos020"/>[#020] Audio\_Xmas\_688\_12\_24\_1
+## <a id="pos020"/>\[#020\] Audio\_Xmas\_688\_12\_24\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2287,7 +2287,7 @@ You should talk to the shop owner. We can handle the rest.
 **Helena**<br>
 No... I can't do that. This is not an excuse. I will focus on the job!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Staff B**<br>
 Little girl, you can't come in here.
@@ -2352,11 +2352,11 @@ What do you want to drink? Uncle will treat you.
 **PAFF**<br>
 Then... o, orange juice...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos021"/>[#021] Audio\_Xmas\_701\_12\_24
+## <a id="pos021"/>\[#021\] Audio\_Xmas\_701\_12\_24
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2374,7 +2374,7 @@ Sorry, I fell asleep...
 It's alright. If you're tired, feel free to rest some more.
 
 **[Tuner-san]**<br>
-*Notice: 10 minutes until performance\~ 10 minutes until performance\~*
+_Notice: 10 minutes until performance\~ 10 minutes until performance\~_
 
 **Helena**<br>
 Ah, looks like you're taking the stage soon.
@@ -2430,11 +2430,11 @@ Of course you can! Alright, time's up. Say hello to everybody\~
 **PAFF**<br>
 Okay.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos022"/>[#022] Audio\_Xmas\_688\_12\_24\_2
+## <a id="pos022"/>\[#022\] Audio\_Xmas\_688\_12\_24\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2503,7 +2503,7 @@ All in all, we can't just leave the stage empty like this. Got to figure out a w
 ......<br>
 During the promotion, we didn't specify what the secret event is going to be, did we?
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **PAFF**<br>
 ... Eh? Me?
@@ -2532,7 +2532,7 @@ Sir treated me to some orange juice. I want to help...
 **Helena**<br>
 Aroma......
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Customer A**<br>
 Why hasn't anything started! Where is the show?
@@ -2552,22 +2552,22 @@ Eh? A child?
 Hey! We want to see a sexy lady\~ When has this place become an art class for kids?
 
 **PAFF**<br>
-*\*All the store lights<br>
+_\*All the store lights<br>
 Shining so bright<br>
 Warm the chill in the air<br>
-Through their doors stream melodies of winter\**
+Through their doors stream melodies of winter\*_
 
 **Audience**<br>
 ......!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **PAFF**<br>
 ...... (Bows)
 
 *\[Audience Cheers\]*
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Customer A**<br>
 Wow\~ Tonight's show was incredible!
@@ -2602,11 +2602,11 @@ Good to hear that\~ Aroma, Merry Christmas.
 **PAFF**<br>
 Yes... Merry Christmas.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos023"/>[#023] Audio\_Academy\_702\_10\_07
+## <a id="pos023"/>\[#023\] Audio\_Academy\_702\_10\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2648,8 +2648,8 @@ Hey, isn't that NEKO outside?
 No kidding! It's the real deal! Is she going to stream here!? WOAH!
 
 **[Teaching Drone]**<br>
-*Warning! Suspicious activity noticed. Miss Neko Asakura, it is class time now. Please stop the ruckus.<br>
-Fellow students, please return to your classrooms and your seats...*
+_Warning! Suspicious activity noticed. Miss Neko Asakura, it is class time now. Please stop the ruckus.<br>
+Fellow students, please return to your classrooms and your seats..._
 
 **NEKO#ΦωΦ**<br>
 Everyone, check this out. This is the drone the Academy uses to manage students. All it does is act mad and give out warnings while running around in circles like this. Isn't it cute?
@@ -2668,12 +2668,12 @@ Hahaha! You guys are so passionate! Then come with NEKO!
 **PAFF**<br>
 I, incredible...
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 *\[System activate\]*
 
 **[Library System]**<br>
-*Greetings, user. The fully\-automatic search system is now ready. What information would you like to inquire today?*
+_Greetings, user. The fully\-automatic search system is now ready. What information would you like to inquire today?_
 
 **PAFF**<br>
 ......
@@ -2682,22 +2682,22 @@ I, incredible...
 I want to look up... the yearbook for this Academy's class of 685.
 
 **[Library System]**<br>
-*Searching... Complete.<br>
+_Searching... Complete.<br>
 One result found. Security level: normal.<br>
-Activating virtual projection for you now.*
+Activating virtual projection for you now._
 
 **PAFF**<br>
 ......
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **PAFF**<br>
 Found it. This is me...... And......<br>
 ...... Iris!
 
 **[Library System]**<br>
-*System confirmation...... Complete.<br>
-Target name: Iris Baker, this Academy's class of 685.*
+_System confirmation...... Complete.<br>
+Target name: Iris Baker, this Academy's class of 685._
 
 **PAFF**<br>
 Thank goodness. Iris is real... so is this part of my memory...
@@ -2706,8 +2706,8 @@ Thank goodness. Iris is real... so is this part of my memory...
 Umm, could you tell me Iris's phone number?
 
 **[Library System]**<br>
-*Action suspended. Apologies.<br>
-Warning: This system is under the restriction of Node 08 personal information law, Code R\-42\-1A. Unable to provide search for graduated students' personal information.*
+_Action suspended. Apologies.<br>
+Warning: This system is under the restriction of Node 08 personal information law, Code R\-42\-1A. Unable to provide search for graduated students' personal information._
 
 **PAFF**<br>
 Ah, so you can't tell me... Makes sense.<br>
@@ -2716,11 +2716,11 @@ Ah, so you can't tell me... Makes sense.<br>
 **PAFF**<br>
 ... At least I confirmed that I do indeed remember Iris.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos024"/>[#024] Image\_Academy\_702\_10\_07
+## <a id="pos024"/>\[#024\] Image\_Academy\_702\_10\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2731,7 +2731,7 @@ Ah, so you can't tell me... Makes sense.<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos025"/>[#025] Audio\_St07\_702\_10\_20
+## <a id="pos025"/>\[#025\] Audio\_St07\_702\_10\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2853,11 +2853,11 @@ Don't seem to catch a glimpse of PAFF in this one either...
 **Vicky**<br>
 That's fine. Take a few more photos. We'll bring them back and enlarge them. I'm absolutely not letting this exclusive report get away!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos026"/>[#026] Audio\_Asakura\_702\_10\_07
+## <a id="pos026"/>\[#026\] Audio\_Asakura\_702\_10\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2942,7 +2942,7 @@ Yes...
 *\[Eat snacks\]*
 
 **NEKO#ΦωΦ**<br>
-*\*Chewing\**... Setting these things aside, how did the search go? The one for your classmate's info.
+_\*Chewing\*_... Setting these things aside, how did the search go? The one for your classmate's info.
 
 **PAFF**<br>
 Ah... I wasn't able to find an address... but there is indeed a person named Iris. I was also able to remember her more clearly!
@@ -2954,7 +2954,7 @@ Really? Isn't that great!?
 Yes! I saved a few photographs and brought them out with me. All these classmates are people I remember. Tuner\-san!
 
 **[Tuner-san]**<br>
-*Project saved photo files.*
+_Project saved photo files._
 
 **NEKO#ΦωΦ**<br>
 Ho\~? Ah, so this is that Iris person? She's a really cute girl too...
@@ -2998,11 +2998,11 @@ Let's go and check out this road in the photo tomorrow. Maybe you can remember s
 **PAFF**<br>
 ... Okay!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos027"/>[#027] Audio\_Daily08\_702\_10\_23
+## <a id="pos027"/>\[#027\] Audio\_Daily08\_702\_10\_23
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3043,43 +3043,43 @@ Alright. I'm definitely going to get this Æsir special done tonight!
 Tax administration, isn't it? I've seen this routine way too many goddamn times. Our company's accounting records are perfectly normal. There is none of that undeclared tax bulls\*\*\*! So stop bothering us!
 
 **[N]**<br>
-*... Unfortunately, you're wrong. I am not someone from the Administration Bureau. You're MIss Vicky Russell from 08 Daily, right?*
+_... Unfortunately, you're wrong. I am not someone from the Administration Bureau. You're MIss Vicky Russell from 08 Daily, right?_
 
 **Vicky**<br>
 ... Who are you?
 
 **[N]**<br>
-*That's not important. It seems that you've been investigating the incident of the missing idol PAFF. On top of that, you've already gotten some clues, haven't you?*
+_That's not important. It seems that you've been investigating the incident of the missing idol PAFF. On top of that, you've already gotten some clues, haven't you?_
 
 **Vicky**<br>
 I have no idea what you're talking about. Besides, I am not obliged to disclose information to any random person, especially anonymous brats like you who pop out of nowhere.
 
 **[N]**<br>
-*Haha... I understand. Information is a precious commodity. You understand its immense value, of course, and will not give it up easily.*
+_Haha... I understand. Information is a precious commodity. You understand its immense value, of course, and will not give it up easily._
 
 **Vicky**<br>
 Oh, spare me that rubbish. What exactly do you want?
 
 **[N]**<br>
-*Then I'll be frank: I would like to buy the information on PAFF's whereabouts.*
+_Then I'll be frank: I would like to buy the information on PAFF's whereabouts._
 
 **Vicky**<br>
 You're her fan?
 
 **[N]**<br>
-*... I have to find her no matter what.*
+_... I have to find her no matter what._
 
 **Vicky**<br>
 Oh, I see. Then let me tell you, my answer is "NO"!
 
 **[N]**<br>
-*So you don't want to?*
+_So you don't want to?_
 
 **Vicky**<br>
 It's mega exclusive news that we're this close to getting. Why the hell would I want to give it up!?
 
 **[N]**<br>
-*Then, Miss Russell, allow me to make things clear... As a reward for the investigation, I can transfer a down payment of half\-a\-million dollars to your account within ten minutes.*
+_Then, Miss Russell, allow me to make things clear... As a reward for the investigation, I can transfer a down payment of half\-a\-million dollars to your account within ten minutes._
 
 *\[Crashing\]*
 
@@ -3087,49 +3087,49 @@ It's mega exclusive news that we're this close to getting. Why the hell would I 
 H... Half\-a\-million!?
 
 **[N]**<br>
-*In addition, I've prepared a final payment of 1.5 million. Once I confirmed that the information is accurate, you will receive it immediately.*
+_In addition, I've prepared a final payment of 1.5 million. Once I confirmed that the information is accurate, you will receive it immediately._
 
 **Vicky**<br>
 ... That's a lot of money...
 
 **[N]**<br>
-*I also know, that 08 Daily has very limited resources. The shortage of funds meant that you've struggled to get proper interviews... In order to compete with the big corporations, you had no choice but to make groundless accusations, blow things out of proportion and write sensational articles to get attention and revenue. Am I mistaken?*
+_I also know, that 08 Daily has very limited resources. The shortage of funds meant that you've struggled to get proper interviews... In order to compete with the big corporations, you had no choice but to make groundless accusations, blow things out of proportion and write sensational articles to get attention and revenue. Am I mistaken?_
 
 **Vicky**<br>
 You... How did you...
 
 **[N]**<br>
-*One just needs to read your previous columns and everything would be quite obvious... By letting me locate PAFF, your situation will improve as well. I believe this is a mutually beneficial transaction.*
+_One just needs to read your previous columns and everything would be quite obvious... By letting me locate PAFF, your situation will improve as well. I believe this is a mutually beneficial transaction._
 
 **Vicky**<br>
 But... I...
 
 **[N]**<br>
-*Don't hesitate, Miss Russell... I've seen your resume. You gave up a well\-paid position with Node News Network to join 08 Daily. You have a goal you want to pursue, right?*
+_Don't hesitate, Miss Russell... I've seen your resume. You gave up a well\-paid position with Node News Network to join 08 Daily. You have a goal you want to pursue, right?_
 
 **Vicky**<br>
 ......
 
 **[N]**<br>
-*Alright. Your reply is?*
+_Alright. Your reply is?_
 
 **Vicky**<br>
 ... I get it... You almost persuaded me...<br>
 BUT I REFUSE!
 
 **[N]**<br>
-*Miss Russell!? This is a once\-in\-a\-lifetime opportunity...*
+_Miss Russell!? This is a once\-in\-a\-lifetime opportunity..._
 
 **Vicky**<br>
 I almost forgot my pride as a journalist... You want information? That get off your lazy a\*\* and go find it yourself!
 
 *\[Hang Up\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos028"/>[#028] Cam\_Fwy01\_693\_08\_15
+## <a id="pos028"/>\[#028\] Cam\_Fwy01\_693\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3231,11 +3231,11 @@ Understood...
 **Rescue Team Captain**<br>
 Please... hang in there.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos029"/>[#029] Audio\_Hospital\_694\_03\_28
+## <a id="pos029"/>\[#029\] Audio\_Hospital\_694\_03\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3285,43 +3285,43 @@ Daniel!
 ... Sorry, someone ran into me just now. The preparations, they're all set, right?
 
 **[Researcher A]**<br>
-*Yes. One word from director and we can begin the operation at any time.*
+_Yes. One word from director and we can begin the operation at any time._
 
 **Noah**<br>
 Good, but stay alert. This operation must only be carried out in secret.
 
 **[Researcher A]**<br>
-*Understood. For our aspirations.*
+_Understood. For our aspirations._
 
 **Noah**<br>
 Arnold, this is no longer just for our aspirations anymore.<br>
 Aroma getting involved in this kind of thing... I can't accept it. I will save her no matter what. I still need to properly apologize to her...
 
 **[Researcher A]**<br>
-*Director...?*
+_Director...?_
 
 **Noah**<br>
 No, it's nothing... In short, I will leave this operation to you guys.
 
 **[Researcher A]**<br>
-*One more thing, about Helena...*
+_One more thing, about Helena..._
 
 **Noah**<br>
 I'll figure out a way to convince her.
 
 **[Researcher A]**<br>
-*She should be able to understand as well...*
+_She should be able to understand as well..._
 
 **Noah**<br>
 Yes. I won't allow anything to happen to Aroma again. We have to make sure she lives no matter what.
 
 **[Researcher A]**<br>
-*Absolutely!*
+_Absolutely!_
 
 **Noah**<br>
 Then that's it for now.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 *\[Door Opens\]*
 
@@ -3396,11 +3396,11 @@ This is none of your business! Now p\*\*\* off!
 **Noah**<br>
 I... I want to save her even more than you do...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos030"/>[#030] Audio\_Hospital\_694\_04\_20
+## <a id="pos030"/>\[#030\] Audio\_Hospital\_694\_04\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3437,7 +3437,7 @@ Are you f\*\*\*ing kidding me!? <br>
 You worthless piece of s\*\*\* doctor!
 
 **Helena**<br>
-*\*Sobs\*...*
+_\*Sobs\*..._
 
 *\[Punch\]*
 
@@ -3457,7 +3457,7 @@ JUST WHAT!?
 Eek! This... this is the CT scan... We were unable to remove the debris inside her brain. Post\-surgery cerebral compression has become even more severe. I'm afraid that... I'm sorry! I'm truly, truly sorry!
 
 **Helena**<br>
-*\*Sobs\**...... WAAAAAHHHHHHH!!
+_\*Sobs\*_...... WAAAAAHHHHHHH!!
 
 **Noah**<br>
 ......
@@ -3486,10 +3486,10 @@ Ah, the surgery just concluded. You can't...
 **Noah**<br>
 Shut your mouth. Helena, let's go.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Helena**<br>
-*\*Sobs\**... Aroma... Aroma...
+_\*Sobs\*_... Aroma... Aroma...
 
 **Noah**<br>
 ......
@@ -3513,13 +3513,13 @@ We still have one month. There's still time.
 This is our only option left. This time, trust me, okay? Please...
 
 **Helena**<br>
-Yes... please... please save her... *\*Sobs\**...
+Yes... please... please save her... _\*Sobs\*_...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos031"/>[#031] Audio\_Arc\_692\_08\_13
+## <a id="pos031"/>\[#031\] Audio\_Arc\_692\_08\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3574,7 +3574,7 @@ Y, yes, Sir!
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Noah**<br>
 The test species this time "Black Horn Ape", the complexity of its brain tissue is already very similar to humans. Now that the experiment is successful, I believe we've cleared the most difficult challenge... Here's the short\-term closing document for this project. Can you organize it for me? 
@@ -3627,11 +3627,11 @@ No problem. Thank you, director! I will definitely work extra hard!
 **Noah**<br>
 It'll be here soon... the "beacon" for humans...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos032"/>[#032] Audio\_Arc\_692\_08\_20
+## <a id="pos032"/>\[#032\] Audio\_Arc\_692\_08\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3639,13 +3639,13 @@ It'll be here soon... the "beacon" for humans...
 
 ### Log Content
 **[System]**<br>
-*Mr. Smith, sorry for the interruption. Mr. Noah Black from R&D department 01 requests a meeting. His emotion numbers have reached stage Red. I have excluded him according to the security regulations...*
+_Mr. Smith, sorry for the interruption. Mr. Noah Black from R&D department 01 requests a meeting. His emotion numbers have reached stage Red. I have excluded him according to the security regulations..._
 
 **Leo**<br>
 It's alright, Samantha. Let him in.
 
 **[System]**<br>
-*Yes, Mr. Smith.*
+_Yes, Mr. Smith._
 
 *\[Door Opens\]*
 
@@ -3717,7 +3717,7 @@ I... I understand.
 Excellent. Samantha, pour a glass for director too.
 
 **[System]**<br>
-*Yes, Mr. Smith.*
+_Yes, Mr. Smith._
 
 **Noah**<br>
 ... Thank you, Sir.
@@ -3741,7 +3741,7 @@ This is for the greater good of the company... Of course, your salary will incre
 Samantha.
 
 **[System]**<br>
-*Yes, Mr. Smith.*
+_Yes, Mr. Smith._
 
 *\[Projection\]*
 
@@ -3773,26 +3773,26 @@ I greatly appreciate the amazing contributions you've made for us, director. We'
 ... Samantha.
 
 **[System]**<br>
-*What is it, Mr. Smith?*
+_What is it, Mr. Smith?_
 
 **Leo**<br>
 Noah Black is a dangerous figure to A.R.C., and I don't want this "Ark" to encounter even the most insignificant of dangers.
 
 **[System]**<br>
-*Yes, Mr. Smith.<br>
-I've begun adjusting the privileges and projects of department "zero". In the future, both Noah Black and "zero" will be under proper control and operate as your pawns.*
+_Yes, Mr. Smith.<br>
+I've begun adjusting the privileges and projects of department "zero". In the future, both Noah Black and "zero" will be under proper control and operate as your pawns._
 
 **Leo**<br>
 Very good. A technology like you that completely surrenders to my commands is what humans truly need, Samantha.
 
 **[System]**<br>
-*Yes, Mr. Smith.*
+_Yes, Mr. Smith._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos033"/>[#033] Cam\_ARC\_H\_694\_04\_30
+## <a id="pos033"/>\[#033\] Cam\_ARC\_H\_694\_04\_30
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3823,71 +3823,71 @@ Alright! I knew we could do it!
 **Researcher U**<br>
 Begin formatting the memory of the "vessel".
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Noah**<br>
 Director, I really appreciate your help.
 
 **[Phoenix]**<br>
-*... I'm very interested in this project of yours too. Been a few years since we last met. You've become more like a director than I ever was.*
+_... I'm very interested in this project of yours too. Been a few years since we last met. You've become more like a director than I ever was._
 
 **Noah**<br>
 I still got much to learn... like what I'm doing now. It's all for the trivial goal of saving a family member. Compare to your grand aspirations...
 
 **[Phoenix]**<br>
-*Aspirations, eh... I've done way too many despicable and brutal things in order to achieve those. "Appearance Cloning"... such a disgraceful technology, yet it was just one of the many dirty tricks I used to climb to the top.<br>
-I had sealed this away for good...*
+_Aspirations, eh... I've done way too many despicable and brutal things in order to achieve those. "Appearance Cloning"... such a disgraceful technology, yet it was just one of the many dirty tricks I used to climb to the top.<br>
+I had sealed this away for good..._
 
 **Noah**<br>
 I had to ask so many time before you finally agree to help. You have my sincere gratitude...
 
 **[Phoenix]**<br>
-*Your resolve to save her somewhat resonated with me. However, keep this in mind. What you have here was obtained by sacrificing an innocent life. Its price...*
+_Your resolve to save her somewhat resonated with me. However, keep this in mind. What you have here was obtained by sacrificing an innocent life. Its price..._
 
 **Noah**<br>
 Yes... I know.
 
 **[Phoenix]**<br>
-*You... have truly changed.*
+_You... have truly changed._
 
 **Noah**<br>
 ......<br>
 Nevertheless... This girl, she really does look exactly the same... With your support, the transformation really removed every single trace of her previous appearance.
 
 **[Phoenix]**<br>
-*Your wife... will she accept this?*
+_Your wife... will she accept this?_
 
 **Noah**<br>
 She will accept it, and I will succeed.
 
 **[Phoenix]**<br>
-*Does having someone's appearance and memory make you "that" person?<br>
-It really is fragile, isn't it? What we humans consider our basis of existence...*
+_Does having someone's appearance and memory make you "that" person?<br>
+It really is fragile, isn't it? What we humans consider our basis of existence..._
 
 **Noah**<br>
 ......
 
 **[Phoenix]**<br>
-*However, this is also precisely why it's so precious. The fact that you're willing to break this moral framework for science shows that you've grown quite a bit yourself too.*
+_However, this is also precisely why it's so precious. The fact that you're willing to break this moral framework for science shows that you've grown quite a bit yourself too._
 
 **Noah**<br>
 ... I'm... I'm not what director described, in fact far from it.<br>
 Aroma... she's someone I truly treasured, yet I did that to her...
 
 **[Phoenix]**<br>
-*Regardless of what sins you believe you committed, what you're doing now, working so hard to let her live, is perhaps the only way for you to atone for your sins*
+_Regardless of what sins you believe you committed, what you're doing now, working so hard to let her live, is perhaps the only way for you to atone for your sins_
 
 **Noah**<br>
 The only way for me to atone for my sins... is it?
 
 **[Phoenix]**<br>
-*Yes, even if you can't receive forgiveness, you still do it.*
+_Yes, even if you can't receive forgiveness, you still do it._
 
 **Noah**<br>
 It feels like... director, you've changed as well.
 
 **[Phoenix]**<br>
-*... Maybe it's because I also have someone I care greatly about now, just like you.*
+_... Maybe it's because I also have someone I care greatly about now, just like you._
 
 **Noah**<br>
 ... Yes, I care greatly about her... and I care greatly about this family. I don't want to see anyone in grief anymore.
@@ -3896,7 +3896,7 @@ It feels like... director, you've changed as well.
 Memory formatting complete. Director! Everything is going smoothly so far!
 
 **[Phoenix]**<br>
-*These images... Are they the original memory of this girl?*
+_These images... Are they the original memory of this girl?_
 
 ![pos3301.png](./attachments/pos3301.png)
 
@@ -3904,7 +3904,7 @@ Memory formatting complete. Director! Everything is going smoothly so far!
 Yes. In this stage, we'll be formatting the memory of the vessel.
 
 **[Phoenix]**<br>
-*She was a very beautiful girl.*
+_She was a very beautiful girl._
 
 **Noah**<br>
 Yes, she was. But... sorry.
@@ -3924,22 +3924,22 @@ Yes, she was. But... sorry.
 ... This feels... a lot heavier than I imagined...
 
 **[Phoenix]**<br>
-*......*
+_......_
 
 **Noah**<br>
 ......
 
 **[Phoenix]**<br>
-*From now on, it'll be your time to shine. Go, save her.*
+_From now on, it'll be your time to shine. Go, save her._
 
 **Noah**<br>
 Aroma... this is going to hurt a bit. Please, bear with it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos034"/>[#034] Cam\_ARC\_H\_694\_05\_12\_1
+## <a id="pos034"/>\[#034\] Cam\_ARC\_H\_694\_05\_12\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3951,7 +3951,7 @@ Aroma... this is going to hurt a bit. Please, bear with it...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos035"/>[#035] Cam\_ARC\_H\_694\_05\_12\_2
+## <a id="pos035"/>\[#035\] Cam\_ARC\_H\_694\_05\_12\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3962,13 +3962,13 @@ Aroma... this is going to hurt a bit. Please, bear with it...
 Prepare awakening process. Status A, B, all clear.
 
 **[Noah]**<br>
-*... Activate.*
+_... Activate._
 
 **PAFF**<br>
 Ugh...
 
 **[Noah]**<br>
-*......*
+_......_
 
 **PAFF**<br>
 AAAAHHHHHHHHHH! ARRRRGGGHHHHHH!!
@@ -3991,58 +3991,58 @@ Director...
 Damnit, everything was going smoothly in the beginning too. Why did it...
 
 **[Helena]**<br>
-*Noah, enough! This is the sixth time already! I don't want to see that scene play out in front of me again...*
+_Noah, enough! This is the sixth time already! I don't want to see that scene play out in front of me again..._
 
 **[Noah]**<br>
-*………*
+_………_
 
 **[Helena]**<br>
-*Noah! Do you hear me? Let's stop... let it go...*
+_Noah! Do you hear me? Let's stop... let it go..._
 
 **[Noah]**<br>
-*Let it go......?*
+_Let it go......?_
 
 **[Helena]**<br>
-*......*
+_......_
 
 **[Noah]**<br>
-*Are you serious!!? <br>
-Aroma's body is already dead! There's already no turning back for us! This is our last chance to bring her back! EVER!*
+_Are you serious!!? <br>
+Aroma's body is already dead! There's already no turning back for us! This is our last chance to bring her back! EVER!_
 
 **[Helena]**<br>
-*………*
+_………_
 
 **[Noah]**<br>
-*I know very well that Aroma's memory has already been successfully transferred into the new body. Just a little bit more...*
+_I know very well that Aroma's memory has already been successfully transferred into the new body. Just a little bit more..._
 
 **[Helena]**<br>
-*Noah... you've gone mad...*
+_Noah... you've gone mad..._
 
 **[Noah]**<br>
-*I've gone mad... is it?*
+_I've gone mad... is it?_
 
 **[Researcher ]U**<br>
-*Helena, sorry, but would you mind leaving the room for now...?*
+_Helena, sorry, but would you mind leaving the room for now...?_
 
 **[Helena]**<br>
-*………*
+_………_
 
 *\[Door Opens\]*
 
 **[Noah]**<br>
-*... Reset the parameters. Let her body rest and recover. Prepare configuration No.7. We'll try again three days later.*
+_... Reset the parameters. Let her body rest and recover. Prepare configuration No.7. We'll try again three days later._
 
 **[Researcher ]U**<br>
-*Understood.*
+_Understood._
 
 **[Noah]**<br>
-*Aroma... come on... wake up... *
+_Aroma... come on... wake up... _
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos036"/>[#036] Audio\_ARC\_H\_694\_05\_15
+## <a id="pos036"/>\[#036\] Audio\_ARC\_H\_694\_05\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4064,10 +4064,10 @@ Aroma!
 Director, the test is not...
 
 **[Noah]**<br>
-*It's fine. Let her in.*
+_It's fine. Let her in._
 
 **Helena**<br>
-Thank goodness! *\*Sobs\**......
+Thank goodness! _\*Sobs\*_......
 
 **PAFF**<br>
 ...... Ummm......
@@ -4112,11 +4112,11 @@ Mrs. Helena, please rest assured. At the very least, she can talk normally. Her 
 Noah... I believe you.
 
 **[Noah]**<br>
-*... I know. Leave it to me.*
+_... I know. Leave it to me._
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
-*\[»»» Fast Forward 15 hours»»»\]*
+_\[»»» Fast Forward 15 hours»»»\]_
 
 **Researcher U**<br>
 Director, all tests are complete. Her nervous system is reacting normally. <br>
@@ -4184,11 +4184,11 @@ I need to calm down. Leave me alone. Please.
 
 *\[Door Opens\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos037"/>[#037] Audio\_Noah\_695\_06\_05
+## <a id="pos037"/>\[#037\] Audio\_Noah\_695\_06\_05
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4198,14 +4198,14 @@ I need to calm down. Leave me alone. Please.
 *\[Doorbell\]*
 
 **[Helena]**<br>
-*Who is it?*
+_Who is it?_
 
 **Iris**<br>
 Sis Helena, it's been a while. This is Iris.<br>
 We want to talk to Aroma. Is she home right now?
 
 **[Helena]**<br>
-*... One moment.*
+_... One moment._
 
 **Daniel**<br>
 ......
@@ -4300,7 +4300,7 @@ I see... what a shame.
 If possible, please tell Aroma...
 
 **Iris**<br>
-No matter what, we... will always be best friends... *\*Sobs\**...
+No matter what, we... will always be best friends... _\*Sobs\*_...
 
 **Helena**<br>
 ......
@@ -4322,11 +4322,11 @@ Don't think about it... I did the right thing.
 **Helena**<br>
 I have to... protect Aroma no matter the cost...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos038"/>[#038] Audio\_ARC\_H\_702\_07\_28
+## <a id="pos038"/>\[#038\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4334,7 +4334,7 @@ I have to... protect Aroma no matter the cost...
 
 ### Log Content
 **[TV]**<br>
-*... PAFF, the music diva who was harassed by a male fan a while ago, had another incident. At the end of a three\-hour physical concert at Node 08, she fainted on stage while singing the encore song "Gravity". The singer's sudden collapse had the audience in utter shock. Her agency immediately called off the concert and arranged her for an emergency medical checkup...*
+_... PAFF, the music diva who was harassed by a male fan a while ago, had another incident. At the end of a three\-hour physical concert at Node 08, she fainted on stage while singing the encore song "Gravity". The singer's sudden collapse had the audience in utter shock. Her agency immediately called off the concert and arranged her for an emergency medical checkup..._
 
 **Helena**<br>
 Noah! What is going on with Aroma!?
@@ -4375,7 +4375,7 @@ You look really pale and haggard. You've not slept well for the past few days, h
 **Helena**<br>
 It's okay... I still have to make a PR post on iM. I'll leave the things here to you.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **PAFF**<br>
 ......
@@ -4384,48 +4384,48 @@ It's okay... I still have to make a PR post on iM. I'll leave the things here to
 Are you awake? Director!
 
 **[Noah]**<br>
-*Aroma.*
+_Aroma._
 
 **PAFF**<br>
 Noah... Ugh... What happened to me?
 
 **[Noah]**<br>
-*You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body.*
+_You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body._
 
 **PAFF**<br>
 Where's sister...?
 
 **[Noah]**<br>
-*Resting in the room next door. Because of you, she barely had any rest for the past few days too.*
+_Resting in the room next door. Because of you, she barely had any rest for the past few days too._
 
 **PAFF**<br>
-*\*Sobs\**... *\*Sobs\**...
+_\*Sobs\*_... _\*Sobs\*_...
 
 **[Noah]**<br>
-*What's wrong...?*
+_What's wrong...?_
 
 **PAFF**<br>
-I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... *\*Sobs\**...
+I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... _\*Sobs\*_...
 
 **[Noah]**<br>
-*... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
-As with the company's events, I'll find a way to let Chris handle them.*
+_... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
+As with the company's events, I'll find a way to let Chris handle them._
 
 **PAFF**<br>
 I'm sorry... I made you guys worried again. I even caused everyone so much trouble...
 
 **[Noah]**<br>
-*No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
-Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep.*
+_No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
+Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep._
 
 **PAFF**<br>
 OK...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos039"/>[#039] Cam\_Noah\_702\_09\_09
+## <a id="pos039"/>\[#039\] Cam\_Noah\_702\_09\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4559,11 +4559,11 @@ Tell her. Tell her everything. Let her decide what she'll do herself... even if 
 **Noah**<br>
 ... I'll... consider it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos040"/>[#040] Audio\_Vicky\_702\_11\_14
+## <a id="pos040"/>\[#040\] Audio\_Vicky\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4593,7 +4593,7 @@ Quick, take a picture!
 **NEKO#ΦωΦ**<br>
 Oh god, oh no! This is bad! This is really, really bad!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Vicky**<br>
 Waah!
@@ -4629,7 +4629,7 @@ Hnngh... Ha!
 
 *\[Footsteps\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Vicky**<br>
 ......<br>
@@ -4692,11 +4692,11 @@ Don't mind me. All in all, setting aside my role as a journalist, I really want 
 **Hayato**<br>
 ... I... I grew up in Node 03, together with a girl named "Kaori"...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos041"/>[#041] Cam\_Charity\_687\_05\_13
+## <a id="pos041"/>\[#041\] Cam\_Charity\_687\_05\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4757,7 +4757,7 @@ Ah, right. Is your husband not here?
 **Tsumugi**<br>
 Same as always. Not taking one step outside his research room...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Little Boy A**<br>
 Big brother, give me one!
@@ -4838,7 +4838,7 @@ Ah, right. My name is Kaori. What's your name?
 **???**<br>
 I... I'm...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Feng**<br>
 ... Will this child... be willing to come with me?
@@ -4846,11 +4846,11 @@ I... I'm...
 **Tsumugi**<br>
 Rest assured, Mrs. Huang... Hayato is a good kid. He'll be more than happy to go with you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos042"/>[#042] Cam\_Feng\_689\_04\_03
+## <a id="pos042"/>\[#042\] Cam\_Feng\_689\_04\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -4860,7 +4860,7 @@ Rest assured, Mrs. Huang... Hayato is a good kid. He'll be more than happy to go
 *\[Singing\]*
 
 **Kaori**<br>
-*\*You and I. Just like butterflies, perfect hue and light.\**
+_\*You and I. Just like butterflies, perfect hue and light.\*_
 
 **Kaori**<br>
 ... Hayato? You're there, right?
@@ -4956,7 +4956,7 @@ Hehe, that's a secret. I'm starting. Hayato, get ready!
 Ah, o, okay!
 
 **Kaori**<br>
-*\*You and I. Just like butterflies, perfect hue and light.\**
+_\*You and I. Just like butterflies, perfect hue and light.\*_
 
 *\[Drum noise\]*
 
@@ -4978,7 +4978,7 @@ Aw, come on. It's okay!<br>
 Here, I'll start again. You just follow my movement and tap your feet to the beat. Get ready\~
 
 **Kaori**<br>
-*\*You and I. Just like butterflies, perfect hue and light.\**
+_\*You and I. Just like butterflies, perfect hue and light.\*_
 
 *\[Drum noise\]*
 
@@ -4986,7 +4986,7 @@ Here, I'll start again. You just follow my movement and tap your feet to the bea
 Much better. I'll keep going!
 
 **Kaori**<br>
-*\*Though it rains down our fate. Start up today.\**
+_\*Though it rains down our fate. Start up today.\*_
 
 *\[Drum noise\]*
 
@@ -5003,17 +5003,17 @@ Hehe, I made up my mind. Next time, we'll be singing on the streets for everyone
 You're exaggerating things again... haha.
 
 **Kaori**<br>
-*\*You and I. Just like butterflies, perfect hue and light.\**
+_\*You and I. Just like butterflies, perfect hue and light.\*_
 
 *\[Drum noise\]*
 
 ![pos4201.png](./attachments/pos4201.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos043"/>[#043] Audio\_Asakura\_702\_11\_14
+## <a id="pos043"/>\[#043\] Audio\_Asakura\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5077,7 +5077,7 @@ Umm, Yes... Apologies for disturbing you...
 **NEKO#ΦωΦ**<br>
 Sighhh\~ I knew this is gonna happen... Welp, can't help it then. Guys, just hear NEKO out first.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Kenta**<br>
 It's the real PAFF... the real PAFF...
@@ -5160,7 +5160,7 @@ Haha...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos044"/>[#044] Audio\_St08\_702\_11\_14
+## <a id="pos044"/>\[#044\] Audio\_St08\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5309,11 +5309,11 @@ Aroma\-chan, get in the car!!
 **PAFF**<br>
 Ah... U, understood!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos045"/>[#045] Cam\_Dash\_702\_11\_14
+## <a id="pos045"/>\[#045\] Cam\_Dash\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5384,11 +5384,11 @@ You... do know the directions, right?
 **???**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos046"/>[#046] Cam\_DragonSt\_694\_04\_25\_1
+## <a id="pos046"/>\[#046\] Cam\_DragonSt\_694\_04\_25\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5487,11 +5487,11 @@ Ah\~Ah\~, Mic test, mic test\~
 **Hayato**<br>
 Ah, just give me another second... sorry.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos047"/>[#047] Cam\_08Daily\_702\_11\_17
+## <a id="pos047"/>\[#047\] Cam\_08Daily\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5570,7 +5570,7 @@ Huh? That's strange. Who would come to the office at this time of the night?
 Maybe Susan? She might have forgotten the lens or something like that...
 
 **Vicky**<br>
-*\*Sigh\** With her, that's entirely possible. You go answer the door. I need to organize the information you just gave me.
+_\*Sigh\*_ With her, that's entirely possible. You go answer the door. I need to organize the information you just gave me.
 
 **Hayato**<br>
 Okay.
@@ -5611,11 +5611,11 @@ I finally get to see you again... Hayato!
 **Hayato**<br>
 ... Kao... ri?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos048"/>[#048] Cam\_Dash\_702\_11\_14
+## <a id="pos048"/>\[#048\] Cam\_Dash\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5681,7 +5681,7 @@ Everything...
 **Noah**<br>
 That's right. Maybe you'll come to despise me after hearing what I'm about to say, and I wouldn't mind it one bit. I had this coming...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 ......
@@ -5746,11 +5746,11 @@ We're home. Let's get inside first.
 **PAFF**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos049"/>[#049] Audio\_Noah\_702\_11\_14
+## <a id="pos049"/>\[#049\] Audio\_Noah\_702\_11\_14
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5771,7 +5771,7 @@ Sister...
 I'm sorry...! I'm so sorry!
 
 **PAFF**<br>
-... *\*Sniff\**...
+... _\*Sniff\*_...
 
 **Noah**<br>
 ......
@@ -5797,7 +5797,7 @@ Noah already told me quite a bit on our way here...
 **PAFF**<br>
 Okay. Thank you.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Closes\]*
 
@@ -5876,11 +5876,11 @@ I won't ask for anyone's forgiveness. I won't ask you to shoulder this guilt tog
 **Noah**<br>
 Okay...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos050"/>[#050] Cam\_DragonSt\_694\_04\_25\_2
+## <a id="pos050"/>\[#050\] Cam\_DragonSt\_694\_04\_25\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -5921,7 +5921,7 @@ Well then, here's our first song!
 
 ![pos5001.png](./attachments/pos5001.png)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Audience applauds\]*
 
@@ -5991,11 +5991,11 @@ If that's the case, tonight... we sing till we drop dead! How does that sound, e
 
 *\[Music\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos051"/>[#051] Cam\_Dash\_702\_11\_17
+## <a id="pos051"/>\[#051\] Cam\_Dash\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6089,7 +6089,7 @@ Sister...?
 Haha... Am I crying? I just felt like a weight was lifted off my chest...yet...I feel some sort of sadness...
 
 **Helena**<br>
-I always... always knew... that the real you was already gone that night... But once I admitted this, I had no idea what kind of feelings, or what identity I should take on when facing the current you... Even when you call me "sister", it just sounds so... unfamiliar... I... *\*Sobs\**...
+I always... always knew... that the real you was already gone that night... But once I admitted this, I had no idea what kind of feelings, or what identity I should take on when facing the current you... Even when you call me "sister", it just sounds so... unfamiliar... I... _\*Sobs\*_...
 
 **PAFF**<br>
 ... (Places hand on Helena)
@@ -6106,15 +6106,15 @@ No matter how many "me"s exist in this body; no matter where I go next, what hap
 *\[Parks car\]*
 
 **Helena**<br>
-*\*Sobs\*... \*Bawls\*...*
+_\*Sobs\*... \*Bawls\*..._
 
 ![pos5101.png](./attachments/pos5101.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos052"/>[#052] Audio\_Cafe\_702\_11\_17
+## <a id="pos052"/>\[#052\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6205,7 +6205,7 @@ Yes! Sister... I'm so glad; you're finally acting like the sister I always knew.
 **PAFF**<br>
 Yes.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Doorbell\]*
 
@@ -6245,7 +6245,7 @@ Understood... We'll be in your care.
 **NEKO#ΦωΦ**<br>
 NEKO will go down there with you as soon as I finish this drink!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -6273,11 +6273,11 @@ Understood.
 **PAFF**<br>
 ... Ughh... my head...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos053"/>[#053] Cam\_DragonSt\_694\_04\_25\_3
+## <a id="pos053"/>\[#053\] Cam\_DragonSt\_694\_04\_25\_3
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6303,7 +6303,7 @@ Not at all. I'll wait for you.
 **Kaori**<br>
 Gotcha. Bye\-bye!
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Footsteps\]*
 
@@ -6325,7 +6325,7 @@ Accidentally sang a few too many songs. It's getting really late... Mom's probab
 **Kaori**<br>
 ... No way...
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Hurried Footsteps\]*
 
@@ -6356,7 +6356,7 @@ UGH! You little b\*\*\*\*...
 *\[Hurried Footsteps\]*
 
 **Kaori**<br>
-*\*Huff\*... \*Puff\*... HELP!*
+_\*Huff\*... \*Puff\*... HELP!_
 
 **Hunter**<br>
 You're not getting away!
@@ -6366,11 +6366,11 @@ You're not getting away!
 **Kaori**<br>
 AHHHHHHHH!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos054"/>[#054] Image\_Base\_702\_11\_17
+## <a id="pos054"/>\[#054\] Image\_Base\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6381,7 +6381,7 @@ AHHHHHHHH!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos055"/>[#055] Audio\_Cafe\_702\_11\_17
+## <a id="pos055"/>\[#055\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6464,18 +6464,18 @@ Aroma\-chan! Where are you going!? Wait for me!
 **JOE**<br>
 Hey! NEKO!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **JOE**<br>
 That's... how is that... that can't be right...
 
-*Doorbell*
+_Doorbell_
 
 **JOE**<br>
 NEKO!? How did it go? Where's PAFF?
 
 **NEKO#ΦωΦ**<br>
-She was so fast. NEKO couldn't catch up to her... *\*Huff\*... \*Puff\**
+She was so fast. NEKO couldn't catch up to her... _\*Huff\*... \*Puff\*_
 
 **JOE**<br>
 Those names she just mentioned, I think I know who they are.
@@ -6525,11 +6525,11 @@ JOE, it's me.
 **JOE**<br>
 Simon!?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos056"/>[#056] Multi\_File\_P056
+## <a id="pos056"/>\[#056\] Multi\_File\_P056
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6566,18 +6566,18 @@ Do you remember... anything about Grandma Feng...?
 **Hayato**<br>
 Forget it. Don't think about it now! Since there's still a while before we get there, I guess I'll tell you about what happened during the time you were gone.
 
-*\[→Audio\_Feng's\_694\_05\_06\]*
+_\[→Audio\_Feng's\_694\_05\_06\]_
 
 **Agent**<br>
 We'll try our best to help you guys search for her. However, I hope you also realize that in Node 03, especially in this downtown area, people missing is a very common thing. You guys aren't civilians with a high offering level, so the Administration Bureau is probably not going to dedicate a lot of resources to this case.
 
 **Feng**<br>
-I understand. I'll leave it to you... *\*Sobs\**...
+I understand. I'll leave it to you... _\*Sobs\*_...
 
 **Agent**<br>
 Kaori... is a good girl. My daughter loves to listen to Hayato and her perform at the corner of the street every weekend.
 
-*\[→Audio\_Feng's\_694\_05\_10\]*
+_\[→Audio\_Feng's\_694\_05\_10\]_
 
 **Hayato**<br>
 Grandma! Why!? You don't have to do this!
@@ -6588,7 +6588,7 @@ I'm really sorry, Hayato. Only by selling this flower shop can we request more r
 **Hayato**<br>
 This shop is everything Grandma has worked for! It's a part of our family's memories... On top of that, your medical bills... I'll figure out a way to make more money! Please think about it again, okay!?
 
-*\[→Audio\_Downst\_698\_07\_01\]*
+_\[→Audio\_Downst\_698\_07\_01\]_
 
 **Hayato**<br>
 Only made this much today... Just as I thought, without Kaori, nobody wants to listen when it's just me...
@@ -6602,7 +6602,7 @@ I want to listen!
 **Yamada**<br>
 Haha, long time no see, old friend! Why did you stop going to the Academy all of a sudden? I was super lonely!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Hayato**<br>
 That's pretty much it. Now, the flower shop is no more. Grandma Feng suffered a brain stroke and has been in the hospital for years... I have to work hard to make more money, all the while I've been trying to search for Kaori. I really am exhausted...
@@ -6619,7 +6619,7 @@ Yikes! Sorry, my bad. That's right, no need to be so pessimistic. To be honest w
 **Hayato**<br>
 For real!?
 
-*\[→Audio\_???\_697\_12\_25\]*
+_\[→Audio\_???\_697\_12\_25\]_
 
 **Hayato**<br>
 Oyoy!? Are you really going to do this? Isn't this theft!?
@@ -6634,7 +6634,7 @@ Eh? You need the money, right? You think those pitiful coins you make from your 
 Ah, sorry. I really like your music. I really do. However, making money is a completely different matter. This is a major business deal, and you better not mess up. <br>
 Boys, time to work!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Yamada**<br>
 F\*\*\*! Oh crap oh crap oh crap! Run! Get your a\*\*es moving!
@@ -6645,7 +6645,7 @@ Hey! That friend of yours... he's still in the truck! They're taking him away!
 **Yamada**<br>
 Who gives a f\*\*\* about him!? Run for your damn lives first!
 
-*\[→Audio\_???\_697\_12\_25\]*
+_\[→Audio\_???\_697\_12\_25\]_
 
 *\[Door Opens\]*
 
@@ -6658,7 +6658,7 @@ Hey... there's a person inside!
 **Hayato**<br>
 Waah! Don't shoot me!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Member D**<br>
 Director, we caught the stealing rat. Our losses over these past few months were probably a result of his handiwork.
@@ -6666,18 +6666,18 @@ Director, we caught the stealing rat. Our losses over these past few months were
 **???**<br>
 Just one person?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos057"/>[#057] Multi\_File\_P057
+## <a id="pos057"/>\[#057\] Multi\_File\_P057
 ### Requirements
 |Character|Level|
 |---------|:---:|
 |**PAFF** | 72  |
 
 ### Log Content
-*\[→Audio\_???\_697\_12\_25\]*
+_\[→Audio\_???\_697\_12\_25\]_
 
 **Phoenix**<br>
 Just one person?
@@ -6707,7 +6707,7 @@ H\-Hayato... Hayato Kusu.
 ......<br>
 I think I've seen this name somewhere... Brat, come with me for a bit.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Phoenix**<br>
 As I expected. Your guardian, her name is Feng Huang, right?
@@ -6740,7 +6740,7 @@ But, this is an unstable project that is still in its experimental phase. Both t
 **Hayato**<br>
 ......!
 
-*\[→Audio\_???\_698\_03\_18\]*
+_\[→Audio\_???\_698\_03\_18\]_
 
 **Medical Staff**<br>
 I'm sorry. Your grandma's brain nerves were too badly damaged. The experiment has failed. However, it's not a complete failure either. We've successfully restored all her senses except vision. You can interact with her through this interface. Her thoughts will be presented to you through words and synthetic voices.
@@ -6753,15 +6753,15 @@ I must remind you... the experiment failed. If you activate it now, she will onl
 
 **Hayato**<br>
 ......!<br>
-... *\*Sobs\**...
+... _\*Sobs\*_...
 
-*\[»»» Fast Forward 30 minutes»»»\]*
+_\[»»» Fast Forward 30 minutes»»»\]_
 
 **Hayato**<br>
 I... I've made my decision...<br>
 Please activate it. However... before that, I would like the nurse to help me with something...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Feng]**<br>
 This is...? Where am I? It's so dark...
@@ -6770,7 +6770,7 @@ This is...? Where am I? It's so dark...
 Grandma! It's me, Hayato! Can you feel it? My hand.
 
 **[Feng]**<br>
-*Hayato...*
+_Hayato..._
 
 **Hayato**<br>
 ......
@@ -6784,13 +6784,13 @@ This... scent... Kaori?... Is it Kaori!? Where are you!?
 ......
 
 **[Kaori]**<br>
-*Grandma!*
+_Grandma!_
 
 **Nurse**<br>
 ...... (Holds hand)
 
 **[Feng]**<br>
-*Kaori! Hayato has found you? You're back? I... I can feel it... your hand...*
+_Kaori! Hayato has found you? You're back? I... I can feel it... your hand..._
 
 **Nurse**<br>
 ......
@@ -6799,13 +6799,13 @@ This... scent... Kaori?... Is it Kaori!? Where are you!?
 ... Grandma, Kaori has come back.
 
 **[Feng]**<br>
-*I knew it... You're a brave girl. You're still alive... I knew Hayato would definitely find you... Ah... thank you... thank the lord...*
+_I knew it... You're a brave girl. You're still alive... I knew Hayato would definitely find you... Ah... thank you... thank the lord..._
 
 **Hayato**<br>
 Yes. You don't need to worry anymore. You no longer have to cry yourself to sleep every night...
 
 **[Feng]**<br>
-*Good... Thank... goodness...*
+_Good... Thank... goodness..._
 
 **Hayato**<br>
 ......
@@ -6816,35 +6816,35 @@ The time... is up.
 **Hayato**<br>
 You can... finally, sleep with a smile. You can sleep with a smile, forever...  WAAAHHHHHH!!!! 
 
-*\[→Cam\_Grave\_702\_11\_23\]*
+_\[→Cam\_Grave\_702\_11\_23\]_
 
 **Hayato**<br>
 We're here, her grave.<br>
 After all that, I spent all my money just to meet with The Eye of Horus...
 
 **PAFF**<br>
-*\*Sniffs\*... \*Sniffs\*...*
+_\*Sniffs\*... \*Sniffs\*..._
 
 **Hayato**<br>
 ... Kaori?
 
 **PAFF**<br>
-*\*Sobs\**... I... I remember now. Why... Why did I forget... such an important person... Grandma Feng! WAAHHHHH!! *\*Bawls\**.
+_\*Sobs\*_... I... I remember now. Why... Why did I forget... such an important person... Grandma Feng! WAAHHHHH!! _\*Bawls\*_.
 
 **Hayato**<br>
 .....<br>
 So you remember? Thank goodness... You... you're indeed Kaori. Grandma always believed that you were still alive, even until the very end... Grandma, I wasn't lying. See, Kaori is here... I found her.
 
 **NEKO#ΦωΦ**<br>
-*\*Sniffs\**... NEKO will... leave you two alone for a while. Take your time.
+_\*Sniffs\*_... NEKO will... leave you two alone for a while. Take your time.
 
 ![pos5701.png](./attachments/pos5701.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos058"/>[#058] ???\_???\_??\_??\_??
+## <a id="pos058"/>\[#058\] ???\_???\_??\_??\_??
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -6948,11 +6948,11 @@ You've already seen the address. You should be able to recall it.
 Wha... That's...<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos059"/>[#059] Cam\_Ward\_702\_12\_14
+## <a id="pos059"/>\[#059\] Cam\_Ward\_702\_12\_14
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -6961,7 +6961,7 @@ Wha... That's...<br>
 
 ### Log Content
 **[Nora]**<br>
-*The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations.*
+_The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations._
 
 **NEKO#ΦωΦ**<br>
 Eh\~ NEKO wants to stay here with Sis Cherry though...<br>
@@ -6971,10 +6971,10 @@ Can't help it then; let's go to PAFF's room to play some games!
 Why are you so carefree about this whole thing...?
 
 **[Nora]**<br>
-*......<br>
-Alright. Everyone, leave the room so the treatment process can continue.*
+_......<br>
+Alright. Everyone, leave the room so the treatment process can continue._
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **NEKO#ΦωΦ**<br>
 Whew\~ It's finally over... That was so scary.
@@ -7120,11 +7120,11 @@ Did you do this? How did you...?
 ... I... I don't know either.<br>
 All I know is that we have to get there as fast as we can!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos060"/>[#060] Audio\_Ward\_702\_12\_15
+## <a id="pos060"/>\[#060\] Audio\_Ward\_702\_12\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -7143,28 +7143,28 @@ NEKO? Where are you going!?
 Hey! NEKO!
 
 **[Nora]**<br>
-*Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely.*
+_Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely._
 
 **[Nora]**<br>
-*Just as Miss Asakura said, this place can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. *
+_Just as Miss Asakura said, this place can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. _
 
 **PAFF**<br>
 Then Xenon...
 
 **[Nora]**<br>
-*I'll use my ability to figure out where he is. I really hope he won't do anything stupid...*
+_I'll use my ability to figure out where he is. I really hope he won't do anything stupid..._
 
 **PAFF**<br>
 Let me do it!
 
 **[Nora]**<br>
-*I already said; I'll figure out a way to continue the investigation. You guys are no longer required to run the risk of staying here.*
+_I already said; I'll figure out a way to continue the investigation. You guys are no longer required to run the risk of staying here._
 
 **PAFF**<br>
 Yes, we are.
 
 **[Nora]**<br>
-*Miss PAFF, I understand your feelings, but...*
+_Miss PAFF, I understand your feelings, but..._
 
 **PAFF**<br>
 Nora, you're... not by yourself anymore. We're all here, okay?
@@ -7183,18 +7183,18 @@ Xenon... the stupid things you just mentioned... Could he be...
 I'm afraid that he's on his way to track down Diego's whereabouts. With the state he is in right now, we can't expect him to make a sensible decision.
 
 **[Nora]**<br>
-*We have to locate him as soon as possible. The incident this time, I'm afraid it isn't as simple as he thinks.*
+_We have to locate him as soon as possible. The incident this time, I'm afraid it isn't as simple as he thinks._
 
 **PAFF**<br>
 I... I think I can use the surveillance cameras in the city to find his location.
 
 **[Nora]**<br>
-*You want to give it a shot? Judging by the time he left, the area he can cover has, at minimum, thousands of surveillance cameras in it. *
+_You want to give it a shot? Judging by the time he left, the area he can cover has, at minimum, thousands of surveillance cameras in it. _
 
 **PAFF**<br>
 Yes! I'll try my best.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 ......<br>
@@ -7213,30 +7213,30 @@ It seems that... I'm kept out of OS again. I can't use my ability...
 How come? Didn't you just use your ability to open the door?
 
 **[Nora]**<br>
-*......? Open the door...?<br>
-Speaking of which, how were you guys able to get here sooner than I did...*
+_......? Open the door...?<br>
+Speaking of which, how were you guys able to get here sooner than I did..._
 
 **PAFF**<br>
 Yes. We were stuck in the room back there. At first, I just wanted to take a look at the situation outside, but all the surveillance cameras in the facility stopped functioning. Just when I was about to give up, I saw that the backup power for the door lock was still functioning... Then the door opened itself.
 
 **[Nora]**<br>
-*......!!<br>
-I did remind you not to use your ability without informing me first... However, if you indeed accomplish such a feat, then this is a major discovery.*
+_......!!<br>
+I did remind you not to use your ability without informing me first... However, if you indeed accomplish such a feat, then this is a major discovery._
 
 **Hayato**<br>
 Nora, you can't do this?
 
 **[Nora]**<br>
-*The most I can do is read the information in OS. Miss PAFF, on the other hand, is able to manipulate the devices in its internet space. This shows a clear difference between our abilities.*
+_The most I can do is read the information in OS. Miss PAFF, on the other hand, is able to manipulate the devices in its internet space. This shows a clear difference between our abilities._
 
 **PAFF**<br>
 ......
 
 **[Nora]**<br>
-*Looks like more experiments and tests are necessary to figure out the details, including why you're suddenly unable to use your ability now.*
+_Looks like more experiments and tests are necessary to figure out the details, including why you're suddenly unable to use your ability now._
 
 **[Nora]**<br>
-*All in all, both of you should be exhausted. I am very thankful that you're still willing to stay here. Please get some rest. I must now go back to clean up this mess.*
+_All in all, both of you should be exhausted. I am very thankful that you're still willing to stay here. Please get some rest. I must now go back to clean up this mess._
 
 *\[Wheelchair moving\]*
 
@@ -7249,18 +7249,18 @@ Nora's expressions... they feel different than what they usually are.
 It was because she couldn't make the decision to sacrifice ROBO that led to... Although that was in no way her fault, she couldn't help but blame herself...
 
 **Hayato**<br>
-*\*Sniff\**... Never thought Miss Cherry would be gone just like that...
+_\*Sniff\*_... Never thought Miss Cherry would be gone just like that...
 
 *\[Ringtone\]*
 
 **Hayato**<br>
 Who would call...? NEKO!?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos061"/>[#061] Audio\_KyuuLab\_702\_12\_20\_1
+## <a id="pos061"/>\[#061\] Audio\_KyuuLab\_702\_12\_20\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -7270,130 +7270,130 @@ Who would call...? NEKO!?
 *\[Data Input\]*
 
 **[Nora]**<br>
-*...... As expected, the virus' activity in your body has begun to change. This is all new data that hasn't been recorded.*
+_...... As expected, the virus' activity in your body has begun to change. This is all new data that hasn't been recorded._
 
 **PAFF**<br>
 Is that... a good thing or a bad thing?
 
 **[Nora]**<br>
-*I'm unable to make a decision at this time. Your body is currently not showing any abnormalities, but the fact that we were able to observe this many unexpected phenomena is already far beyond my expectations.*
+_I'm unable to make a decision at this time. Your body is currently not showing any abnormalities, but the fact that we were able to observe this many unexpected phenomena is already far beyond my expectations._
 
 **PAFF**<br>
 ……
 
 **[Nora]**<br>
-*If you continue to use the ability, it may cause other growths or abnormalities in the virus. By that time, I'm afraid that my experience won't be of much help anymore. You will be on your own.*
+_If you continue to use the ability, it may cause other growths or abnormalities in the virus. By that time, I'm afraid that my experience won't be of much help anymore. You will be on your own._
 
 **PAFF**<br>
 Nora... I've already been here for a long time, yet I still feel like I have no idea what you're talking about. What exactly is this virus...?
 
 **[Nora]**<br>
-*That's normal. Humanity... including people like Phoenix and I, have researched this for decades and are still unable to come up with any results. It's very unlikely that ordinary people can understand it in such a short period of time. Forgive me, I've been burying myself in my research non\-stop and forgot to consider your feelings. I think I can try to explain some basic concepts.*
+_That's normal. Humanity... including people like Phoenix and I, have researched this for decades and are still unable to come up with any results. It's very unlikely that ordinary people can understand it in such a short period of time. Forgive me, I've been burying myself in my research non\-stop and forgot to consider your feelings. I think I can try to explain some basic concepts._
 
 **PAFF**<br>
 No need to apologize! Please.
 
 **[Nora]**<br>
-*Calling what's known as "The Ender" a virus is merely a habit of custom. Actually, this definition is not entirely correct. This misunderstanding was created by the people who first discovered it, which was based on the actions and symptoms that were observed. In reality, The Ender is entirely different from any other organism that is identified as a virus in nature. This was the biggest discovery of Phoenix's research.*
+_Calling what's known as "The Ender" a virus is merely a habit of custom. Actually, this definition is not entirely correct. This misunderstanding was created by the people who first discovered it, which was based on the actions and symptoms that were observed. In reality, The Ender is entirely different from any other organism that is identified as a virus in nature. This was the biggest discovery of Phoenix's research._
 
 **[Nora]**<br>
-*The formation of The Ender consists of unnatural elements. This allowed us to deduce that it is an artificial item. Categorizing it as a type of "nano\-organism" may be more accurate. Its internal structure is much more complicated than what modern science understands. That includes using signals similar to the virtual internet to link to each other and act as their primary mechanism of communication.*
+_The formation of The Ender consists of unnatural elements. This allowed us to deduce that it is an artificial item. Categorizing it as a type of "nano\-organism" may be more accurate. Its internal structure is much more complicated than what modern science understands. That includes using signals similar to the virtual internet to link to each other and act as their primary mechanism of communication._
 
 **PAFF**<br>
 Virtual internet...
 
 **[Nora]**<br>
-*That's right. We all know that this is something left behind by ancient civilization, I won't dive into too much detail. In conclusion, it's very likely that this is some sort of technology made by humans back then that was based on the virtual internet. However, this technology went out of control.*
+_That's right. We all know that this is something left behind by ancient civilization, I won't dive into too much detail. In conclusion, it's very likely that this is some sort of technology made by humans back then that was based on the virtual internet. However, this technology went out of control._
 
 **PAFF**<br>
 ……!<br>
 You're saying that humans of the ancient civilization...
 
 **[Nora]**<br>
-*Were destroyed when this runaway technology came back to bite them.*
+_Were destroyed when this runaway technology came back to bite them._
 
 **PAFF**<br>
 A disaster of this scale... weren't there any survivors?
 
 **[Nora]**<br>
-*I believe there are. People who weren't completely crippled—— there may even be people like us who were immune to the virus, were pretty much guaranteed to exist based on the size of the population at that time. However, that all occurred hundreds of years ago. It's almost impossible to confirm this. Nothing reliable there. Regarding this disaster and the subsequent terrifying situation humans were left in, I'm afraid only our ancestors would know.*
+_I believe there are. People who weren't completely crippled—— there may even be people like us who were immune to the virus, were pretty much guaranteed to exist based on the size of the population at that time. However, that all occurred hundreds of years ago. It's almost impossible to confirm this. Nothing reliable there. Regarding this disaster and the subsequent terrifying situation humans were left in, I'm afraid only our ancestors would know._
 
 **PAFF**<br>
 ... So, even to this day, it's difficult to find someone who's immune?
 
 **[Nora]**<br>
-*After Phoenix found me, he carried out countless research on my genes. He even researched my biological parents' genetic material, but came up with nothing. As I said, in terms of their definitions, The Ender and ordinary viruses are completely different.*
+_After Phoenix found me, he carried out countless research on my genes. He even researched my biological parents' genetic material, but came up with nothing. As I said, in terms of their definitions, The Ender and ordinary viruses are completely different._
 
 **[Nora]**<br>
-*The Ender... although it's hard to believe, I think that it has something resembling self\-consciousness, that it uses to "filter" their hosts. Yet their conditions, action patterns... and even their motives cannot be known due to a sheer lack of samples.*
+_The Ender... although it's hard to believe, I think that it has something resembling self\-consciousness, that it uses to "filter" their hosts. Yet their conditions, action patterns... and even their motives cannot be known due to a sheer lack of samples._
 
 **PAFF**<br>
 There's no way to understand it from a scientific perspective...?
 
 **[Nora]**<br>
-*Though I don't want to admit it... yes. With the current level of scientific expertise and the knowledge we have, we still can't understand it. It's just like the existence of the OS space. All I can say is that no matter how much we believe science and technology have progressed, it's nothing near what humans had during the days of the ancient civilization.*
+_Though I don't want to admit it... yes. With the current level of scientific expertise and the knowledge we have, we still can't understand it. It's just like the existence of the OS space. All I can say is that no matter how much we believe science and technology have progressed, it's nothing near what humans had during the days of the ancient civilization._
 
 **[Operating System]**<br>
-*Data analysis complete*
+_Data analysis complete_
 
 **[Nora]**<br>
-*The results are in. Look, as soon as it enters the brain, it's unable to be observed physically. All we can do is use these unique internal brain signals to determine The Ender's actions.*
+_The results are in. Look, as soon as it enters the brain, it's unable to be observed physically. All we can do is use these unique internal brain signals to determine The Ender's actions._
 
 **[Nora]**<br>
-*Looks like they're active again. What do you think? Should we try?*
+_Looks like they're active again. What do you think? Should we try?_
 
 **PAFF**<br>
 Of course! First, let's find where Xenon's gone to.
 
 **[Nora]**<br>
-*Well then, please begin.*
+_Well then, please begin._
 
 **PAFF**<br>
 ……<br>
 Success! I've connected to the surveillance devices in the city. The signal is very clear... eh? That's strange?
 
 **[Nora]**<br>
-*What is it?*
+_What is it?_
 
 **PAFF**<br>
 So many devices, they're all broken...? I can't get any visuals. It's like I'm being disrupted by something. It's just a few. The rest is fine.
 
 **[Nora]**<br>
-*……<br>
-Please give me the model number and location of those that have issues.*
+_……<br>
+Please give me the model number and location of those that have issues._
 
 **PAFF**<br>
 Got it!
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **[Nora]**<br>
-*I see...*
+_I see..._
 
 **PAFF**<br>
 Did you find anything?
 
 **[Nora]**<br>
-*I mapped those devices out... looks like they've malfunctioned in order, under particular conditions... some kind of moving entity——or person.*
+_I mapped those devices out... looks like they've malfunctioned in order, under particular conditions... some kind of moving entity——or person._
 
 **PAFF**<br>
 ......!
 
 **[Nora]**<br>
-*These devices' program has been altered. They've been attacked via their facial recognition functions. The only one who can do this... I would guess it's Mr. Jackson. He's giving away precisely what he hopes to hide. So long as we can organize the time and position of these malfunctioned devices, we'll be able to locate him.<br>
-... I just hope we're not too late.*
+_These devices' program has been altered. They've been attacked via their facial recognition functions. The only one who can do this... I would guess it's Mr. Jackson. He's giving away precisely what he hopes to hide. So long as we can organize the time and position of these malfunctioned devices, we'll be able to locate him.<br>
+... I just hope we're not too late._
 
 **PAFF**<br>
 Let's contact NEKO right away! She's in the city. We can tell her to check these places out.
 
 **[Nora]**<br>
-*Let's do that.*
+_Let's do that._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos062"/>[#062] Audio\_KyuuLab\_702\_12\_20\_2
+## <a id="pos062"/>\[#062\] Audio\_KyuuLab\_702\_12\_20\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -7404,7 +7404,7 @@ Let's contact NEKO right away! She's in the city. We can tell her to check these
 Chief!
 
 **[Nora]**<br>
-*Daigo, we're not done yet. Please wait...*
+_Daigo, we're not done yet. Please wait..._
 
 **Member D**<br>
 Sorry, Chief. But... please take a look!
@@ -7412,16 +7412,16 @@ Sorry, Chief. But... please take a look!
 **PAFF**<br>
 ......?
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **[Nora]**<br>
-*... Are we too late?*
+_... Are we too late?_
 
 **PAFF**<br>
 What happened?
 
 **[Nora]**<br>
-*Diego and his henchmen in 03, they're... dead, all of them. The news just came in.*
+_Diego and his henchmen in 03, they're... dead, all of them. The news just came in._
 
 **PAFF**<br>
 ......!<br>
@@ -7431,65 +7431,65 @@ Was it Xenon...?
 That guy!? All by himself?
 
 **[Nora]**<br>
-*No, it is very possible. Judging from our current information, the conditions are similar to those of the drone attack on the Kyubo Medical Center. With his abilities, be it blocking the alarm system, hacking into the drones, or destroying Baro's line of defense wouldn't be that difficult of a task.*
+_No, it is very possible. Judging from our current information, the conditions are similar to those of the drone attack on the Kyubo Medical Center. With his abilities, be it blocking the alarm system, hacking into the drones, or destroying Baro's line of defense wouldn't be that difficult of a task._
 
 **[Nora]**<br>
-*In any case, he's in a dangerous situation right now. Diego still has a lot of men in 03. Mogura's men may even use the Administration Bureau's resources to chase him down. Even though I don't think they could get to him before we do... Miss PAFF, please contact Miss Asakura as soon as possible.<br>
-... If he becomes a wanted criminal here as well, it's going to be a big problem.*
+_In any case, he's in a dangerous situation right now. Diego still has a lot of men in 03. Mogura's men may even use the Administration Bureau's resources to chase him down. Even though I don't think they could get to him before we do... Miss PAFF, please contact Miss Asakura as soon as possible.<br>
+... If he becomes a wanted criminal here as well, it's going to be a big problem._
 
 **PAFF**<br>
 O\-Okay!
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **PAFF**<br>
 Yeah... Uh\-huh... Okay, got it. NEKO, please be careful. If something happens you've got to let us know!
 
 **[Nora]**<br>
-*Daigo, send some people to follow Miss Asakura. Make sure nothing happens to them.*
+_Daigo, send some people to follow Miss Asakura. Make sure nothing happens to them._
 
 **Member D**<br>
 Chief, you don't want me to bring them back? That'd be safer...
 
 **[Nora]**<br>
-*They left of their own accord. After what happened... I don't want to force them to stay here.*
+_They left of their own accord. After what happened... I don't want to force them to stay here._
 
 **Member D**<br>
 Understood.<br>
 This is Daigo. Security Team A, Team B, if you hear me, respond.
 
 **[Nora]**<br>
-*Such a wide\-range use of the ability in such a short time, is your body feeling any abnormalities?*
+_Such a wide\-range use of the ability in such a short time, is your body feeling any abnormalities?_
 
 **PAFF**<br>
 Um, not for now. I feel pretty good. I'm just worried about them...
 
 **[Nora]**<br>
-*... Miss PAFF, I'm afraid the things we're going to do next will cause even more bystanders——including yourself, to fall into unpredictable situations.*
+_... Miss PAFF, I'm afraid the things we're going to do next will cause even more bystanders——including yourself, to fall into unpredictable situations._
 
 **PAFF**<br>
 ……
 
 **[Nora]**<br>
-*We're still in the hypothetical stage of determining what the true identity of the enemy is and what their motives are. With this little information, we're unable to guarantee anyone's safety.*
+_We're still in the hypothetical stage of determining what the true identity of the enemy is and what their motives are. With this little information, we're unable to guarantee anyone's safety._
 
 **PAFF**<br>
 The enemy's true identity...
 
 **[Nora]**<br>
-*I'm afraid it's the one who attacked you in the OS space. It went as far as to destroy the sample of the virus vaccine that we're not even sure was effective. It must be the case where the virus is an important component of this entity's plan. If this brings about a disaster like that which occurred in ancient civilization, we must do everything in our power to stop it.*
+_I'm afraid it's the one who attacked you in the OS space. It went as far as to destroy the sample of the virus vaccine that we're not even sure was effective. It must be the case where the virus is an important component of this entity's plan. If this brings about a disaster like that which occurred in ancient civilization, we must do everything in our power to stop it._
 
 **PAFF**<br>
 ……
 
 **[Nora]**<br>
-*You've got to think long and hard about this. If you want out, I won't force you to stay... What I mean is that I don't want anything bad to happen to you because of us. I also don't want you to think that you have some sort of duty to do this because of who you are.*
+_You've got to think long and hard about this. If you want out, I won't force you to stay... What I mean is that I don't want anything bad to happen to you because of us. I also don't want you to think that you have some sort of duty to do this because of who you are._
 
 **PAFF**<br>
 No... I don't feel like this is my duty.
 
 **[Nora]**<br>
-*Good, if you still trust the safety of these facilities, you can stay here with Hayato until...*
+_Good, if you still trust the safety of these facilities, you can stay here with Hayato until..._
 
 **PAFF**<br>
 No, no. What I mean is, I don't feel like doing this is my duty or responsibility, it's what I want to do. It's what I must do.
@@ -7501,7 +7501,7 @@ No, no. What I mean is, I don't feel like doing this is my duty or responsibilit
 If this stems from Node 08 ——the place where my sister lives, she may be in danger. There are people I care about as well, and I don't want anything terrible to happen to them because of my decisions.
 
 **[Nora]**<br>
-*Are you sure?*
+_Are you sure?_
 
 **PAFF**<br>
 Nora, I... have two sets of memories. Whether they are Aroma's or Kaori's, both of them are clear and as real as they can be. Some things may not have gone as we would have liked in those memories of "ours", but we experienced a lot of wonderful things as well.
@@ -7516,29 +7516,29 @@ No matter which city those memories came from, they both make me feel that this 
 I don't want any sort of hatred to take that away from this world. I believe that expresses how we both feel about this.
 
 **[Nora]**<br>
-*... Is that so?*
+_... Is that so?_
 
 **PAFF**<br>
 So please let me continue to help, and I'll do everything I can until the very end!
 
 **[Nora]**<br>
-*……<br>
-Understood. We'll need some time to prepare everything. We'll need to confirm the identity of the enemy, their goal, and how we can fight against them before taking action. If we need your help during this time, we would appreciate it.*
+_……<br>
+Understood. We'll need some time to prepare everything. We'll need to confirm the identity of the enemy, their goal, and how we can fight against them before taking action. If we need your help during this time, we would appreciate it._
 
 **PAFF**<br>
 Okay!
 
 **[Nora]**<br>
-*Miss PAFF...*
+_Miss PAFF..._
 
 **PAFF**<br>
 Yes?
 
 **[Nora]**<br>
-*... Nothing, it's nothing. You... you really are an amazing person.<br>
-... Thank you.*
+_... Nothing, it's nothing. You... you really are an amazing person.<br>
+... Thank you._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

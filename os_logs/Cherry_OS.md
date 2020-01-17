@@ -1,53 +1,53 @@
 # Cherry OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Message\_Xenon\_702\_09\_01](#chos001)
-- [[#002] Call\_Xenon\_702\_09\_03](#chos002)
-- [[#003] Cam\_Cafe\_702\_09\_06\_1](#chos003)
-- [[#004] Message\_Group\_693\_05\_26](#chos004)
-- [[#005] Audio\_Cafe\_702\_09\_06\_2](#chos005)
-- [[#006] Audio\_Cherry's\_694\_09\_06\_1](#chos006)
-- [[#007] Audio\_Cherry's\_694\_09\_06\_2](#chos007)
-- [[#008] Image\_Cherry's\_693\_09\_06](#chos008)
-- [[#009] Audio\_Cafe\_702\_09\_06\_3](#chos009)
-- [[#010] Image\_Hospital\_702\_09\_07](#chos010)
-- [[#011] Audio\_Studio\_702\_09\_08\_1](#chos011)
-- [[#012] Audio\_Studio\_702\_09\_08\_2](#chos012)
-- [[#013] Mail\_Chris\_702\_09\_10](#chos013)
-- [[#014] Call\_Chris\_702\_09\_10](#chos014)
-- [[#015] Call\_Xenon\_702\_09\_11](#chos015)
-- [[#016] Cam\_76St\_702\_09\_14](#chos016)
-- [[#017] Cam\_76St\_702\_09\_15\_1](#chos017)
-- [[#018] Audio\_bug\_692\_05\_13](#chos018)
-- [[#019] Cam\_Gamecenter\_695\_09\_15](#chos019)
-- [[#020] Cam\_76St\_702\_09\_15\_2](#chos020)
-- [[#021] Image\_Tower054\_702\_09\_15](#chos021)
-- [[#022] Cam\_Cherry's\_694\_09\_07](#chos022)
-- [[#023] Message\_Joe\_702\_09\_18](#chos023)
-- [[#024] Cam\_Xenon's\_695\_10\_26](#chos024)
-- [[#025] Cam\_Cafe\_702\_09\_18](#chos025)
-- [[#026] Cam\_Riverside\_702\_09\_18\_1](#chos026)
-- [[#027] Cam\_Riverside\_702\_09\_18\_2](#chos027)
-- [[#028] Audio\_Bug\_688\_09\_18](#chos028)
-- [[#029] Image\_Cherry\_688\_09\_18](#chos029)
-- [[#030] Cam\_Factory3\_702\_09\_18\_1](#chos030)
-- [[#031] Cam\_Factory3\_702\_09\_18\_2](#chos031)
-- [[#032] Image\_Factory3\_702\_09\_18](#chos032)
-- [[#033] Audio\_Hospital\_702\_09\_25](#chos033)
-- [[#034] Cam\_Hospital\_702\_09\_25](#chos034)
-- [[#035] Audio\_Cherry's\_702\_10\_05](#chos035)
-- [[#036] Audio\_Cafe\_702\_10\_10](#chos036)
-- [[#037] Cam\_Cafe\_702\_10\_11](#chos037)
-- [[#038] Audio\_Cherry's\_702\_10\_11](#chos038)
-- [[#039] Audio\_Dash\_702\_10\_21](#chos039)
-- [[#040] Audio\_Cell32\_702\_11\_02](#chos040)
-- [[#041] Cam\_Cafe2\_702\_11\_05](#chos041)
-- [[#042] Audio\_Cell32\_702\_11\_06](#chos042)
-- [[#043] Cam\_CArea\_702\_11\_08](#chos043)
-- [[#044] Cam\_Port33\_702\_11\_10](#chos044)
-- [[#045] Cam\_Port33\_702\_11\_10](#chos045)
-- [[#046] vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠](#chos046)
+- [\[#001\] Message\_Xenon\_702\_09\_01](#chos001)
+- [\[#002\] Call\_Xenon\_702\_09\_03](#chos002)
+- [\[#003\] Cam\_Cafe\_702\_09\_06\_1](#chos003)
+- [\[#004\] Message\_Group\_693\_05\_26](#chos004)
+- [\[#005\] Audio\_Cafe\_702\_09\_06\_2](#chos005)
+- [\[#006\] Audio\_Cherry's\_694\_09\_06\_1](#chos006)
+- [\[#007\] Audio\_Cherry's\_694\_09\_06\_2](#chos007)
+- [\[#008\] Image\_Cherry's\_693\_09\_06](#chos008)
+- [\[#009\] Audio\_Cafe\_702\_09\_06\_3](#chos009)
+- [\[#010\] Image\_Hospital\_702\_09\_07](#chos010)
+- [\[#011\] Audio\_Studio\_702\_09\_08\_1](#chos011)
+- [\[#012\] Audio\_Studio\_702\_09\_08\_2](#chos012)
+- [\[#013\] Mail\_Chris\_702\_09\_10](#chos013)
+- [\[#014\] Call\_Chris\_702\_09\_10](#chos014)
+- [\[#015\] Call\_Xenon\_702\_09\_11](#chos015)
+- [\[#016\] Cam\_76St\_702\_09\_14](#chos016)
+- [\[#017\] Cam\_76St\_702\_09\_15\_1](#chos017)
+- [\[#018\] Audio\_bug\_692\_05\_13](#chos018)
+- [\[#019\] Cam\_Gamecenter\_695\_09\_15](#chos019)
+- [\[#020\] Cam\_76St\_702\_09\_15\_2](#chos020)
+- [\[#021\] Image\_Tower054\_702\_09\_15](#chos021)
+- [\[#022\] Cam\_Cherry's\_694\_09\_07](#chos022)
+- [\[#023\] Message\_Joe\_702\_09\_18](#chos023)
+- [\[#024\] Cam\_Xenon's\_695\_10\_26](#chos024)
+- [\[#025\] Cam\_Cafe\_702\_09\_18](#chos025)
+- [\[#026\] Cam\_Riverside\_702\_09\_18\_1](#chos026)
+- [\[#027\] Cam\_Riverside\_702\_09\_18\_2](#chos027)
+- [\[#028\] Audio\_Bug\_688\_09\_18](#chos028)
+- [\[#029\] Image\_Cherry\_688\_09\_18](#chos029)
+- [\[#030\] Cam\_Factory3\_702\_09\_18\_1](#chos030)
+- [\[#031\] Cam\_Factory3\_702\_09\_18\_2](#chos031)
+- [\[#032\] Image\_Factory3\_702\_09\_18](#chos032)
+- [\[#033\] Audio\_Hospital\_702\_09\_25](#chos033)
+- [\[#034\] Cam\_Hospital\_702\_09\_25](#chos034)
+- [\[#035\] Audio\_Cherry's\_702\_10\_05](#chos035)
+- [\[#036\] Audio\_Cafe\_702\_10\_10](#chos036)
+- [\[#037\] Cam\_Cafe\_702\_10\_11](#chos037)
+- [\[#038\] Audio\_Cherry's\_702\_10\_11](#chos038)
+- [\[#039\] Audio\_Dash\_702\_10\_21](#chos039)
+- [\[#040\] Audio\_Cell32\_702\_11\_02](#chos040)
+- [\[#041\] Cam\_Cafe2\_702\_11\_05](#chos041)
+- [\[#042\] Audio\_Cell32\_702\_11\_06](#chos042)
+- [\[#043\] Cam\_CArea\_702\_11\_08](#chos043)
+- [\[#044\] Cam\_Port33\_702\_11\_10](#chos044)
+- [\[#045\] Cam\_Port33\_702\_11\_10](#chos045)
+- [\[#046\] vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠](#chos046)
 
-## <a id="chos001"/>[#001] Message\_Xenon\_702\_09\_01
+## <a id="chos001"/>\[#001\] Message\_Xenon\_702\_09\_01
 ### Log Content
 **Cherry**<br>
 Hello Simon, it's been a while
@@ -61,9 +61,9 @@ But I do have something important that I want to tell you. If you see this, plea
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos002"/>[#002] Call\_Xenon\_702\_09\_03
+## <a id="chos002"/>\[#002\] Call\_Xenon\_702\_09\_03
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Xenon**<br>
 Hello.
@@ -110,7 +110,7 @@ Back then, I never had the opportunity to properly apologize, or properly thank 
 I'll disguise a little bit. Let's meet up at Joe's. It's quieter there.
 
 **Xenon**<br>
-*\*Sighs\**... Alright, can't hurt. I'll be there this weekend at night. 
+_\*Sighs\*_... Alright, can't hurt. I'll be there this weekend at night. 
 
 **Cherry**<br>
 Thanks. See you then.
@@ -118,11 +118,11 @@ Thanks. See you then.
 **Xenon**<br>
 See you.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos003"/>[#003] Cam\_Cafe\_702\_09\_06\_1
+## <a id="chos003"/>\[#003\] Cam\_Cafe\_702\_09\_06\_1
 ### Log Content
 *\[Doorbell\]*
 
@@ -163,7 +163,7 @@ Haha, of course!
 *\[Door Closes\]*
 
 **Cherry**<br>
-*\*Chuckles\**  Nothing has changed. Good to see that. 
+_\*Chuckles\*_  Nothing has changed. Good to see that. 
 
 **Xenon**<br>
 Yeah. Besides that mess of hair, he's as noisy as he ever was.
@@ -183,13 +183,13 @@ We three getting together just like the old days. Man, I miss those times.
 **Cherry**<br>
 I was fiddling around iM the other day, and I came across our chatting records. Wanna take a look?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos004"/>[#004] Message\_Group\_693\_05\_26
+## <a id="chos004"/>\[#004\] Message\_Group\_693\_05\_26
 ### Log Content
-*S.J. has joined the chat group*<br>
+_S.J. has joined the chat group_<br>
 
 
 **JOE**<br>
@@ -329,7 +329,7 @@ Shut up you perv...<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos005"/>[#005] Audio\_Cafe\_702\_09\_06\_2
+## <a id="chos005"/>\[#005\] Audio\_Cafe\_702\_09\_06\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -409,11 +409,11 @@ Ah, got customers. You guys can go on.
 
 *\[Door Closes\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos006"/>[#006] Audio\_Cherry's\_694\_09\_06\_1
+## <a id="chos006"/>\[#006\] Audio\_Cherry's\_694\_09\_06\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -486,7 +486,7 @@ Ah, crap... I haven't practiced a single chord he told me to practice last week.
 
 **JOE**<br>
 Oh, right. He's teaching you the guitar.<br>
-*\*Sighs\** But seriously, good looking, check. Plays Bass, check. Plays guitar, double check. On top of it all, he has a younger sister... Life ain't fair! *\*cries\**
+_\*Sighs\*_ But seriously, good looking, check. Plays Bass, check. Plays guitar, double check. On top of it all, he has a younger sister... Life ain't fair! _\*cries\*_
 
 **KAI**<br>
 Really good with the computer too. That guy, he really is a winner in life...
@@ -497,11 +497,11 @@ Pfft! But he's not a good singer though. His singing is so damn horrible. Hahaha
 **KAI**<br>
 Haha! You serious? Man, I want to hear it!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos007"/>[#007] Audio\_Cherry's\_694\_09\_06\_2
+## <a id="chos007"/>\[#007\] Audio\_Cherry's\_694\_09\_06\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -514,13 +514,13 @@ Haha! You serious? Man, I want to hear it!
 Hey, as we are talking, there he is.
 
 **Xenon**<br>
-*\*Huff\**... I'm back. *\*Huff\**... *\*Puff\**
+_\*Huff\*_... I'm back. _\*Huff\*_... _\*Puff\*_
 
 **Cherry**<br>
 What's up? Someone after you a\*\*?
 
 **Xenon**<br>
-*\*Huff\**... Something like that... Here, I bought some drinks and snacks. <br>
+_\*Huff\*_... Something like that... Here, I bought some drinks and snacks. <br>
 Happy birthday.
 
 **Cherry**<br>
@@ -622,11 +622,11 @@ What sorry? Now drink! I'm going to get all you boys so drunk that you forget ev
 **Xenon**<br>
 Wait, I really can't...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos008"/>[#008] Image\_Cherry's\_693\_09\_06
+## <a id="chos008"/>\[#008\] Image\_Cherry's\_693\_09\_06
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -641,7 +641,7 @@ Location: Node 08 \- Quadrant III, Apartment 33<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos009"/>[#009] Audio\_Cafe\_702\_09\_06\_3
+## <a id="chos009"/>\[#009\] Audio\_Cafe\_702\_09\_06\_3
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -656,7 +656,7 @@ It looks so out of place with the outfit you are currently wearing...
 
 **Cherry**<br>
 That's why I've hidden it inside.<br>
-*\*Sigh\**... The time with Crystal\_PuNK is undoubtedly the happiest time in my life.<br>
+_\*Sigh\*_... The time with Crystal\_PuNK is undoubtedly the happiest time in my life.<br>
 What a pity that it disbanded. 
 
 **Xenon**<br>
@@ -739,11 +739,11 @@ Whether it's dangerous or not, let me help you. Take it as a small compensation 
 **Xenon**<br>
 ...Ok.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos010"/>[#010] Image\_Hospital\_702\_09\_07
+## <a id="chos010"/>\[#010\] Image\_Hospital\_702\_09\_07
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -757,7 +757,7 @@ Location: Node 08 \- Quadrant III, Hospital 15
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos011"/>[#011] Audio\_Studio\_702\_09\_08\_1
+## <a id="chos011"/>\[#011\] Audio\_Studio\_702\_09\_08\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -776,7 +776,7 @@ I didn't. I now live on the A.R.C. This is a workshop that I'll occasionally use
 Yikes! I think I just kicked something?
 
 **Xenon**<br>
-*\*Sighs\**... Sorry, it's quite messy in here. I'll clean it up a bit so you can have a place to sit.
+_\*Sighs\*_... Sorry, it's quite messy in here. I'll clean it up a bit so you can have a place to sit.
 
 **Cherry**<br>
 Huh, it's so unlike you to leave a room in such a sloppy condition.
@@ -823,11 +823,11 @@ Give me a minute. I'll go and get something inside.
 **Cherry**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos012"/>[#012] Audio\_Studio\_702\_09\_08\_2
+## <a id="chos012"/>\[#012\] Audio\_Studio\_702\_09\_08\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -837,7 +837,7 @@ Give me a minute. I'll go and get something inside.
 *\[Scan\]*
 
 **[Xenon-A.I.]**<br>
-*Data Recorded. Analyzing...*
+_Data Recorded. Analyzing..._
 
 **Cherry**<br>
 Wow, what is that?
@@ -875,7 +875,7 @@ On a side note, have you ever seen the female with a hoodie in this photo? This 
 ... No, I haven't. I've never come in contact with him in real life, or even via a mediator. He always contacted me directly with text...
 
 **[Xenon-A.I.]**<br>
-*Analysis Complete.*
+_Analysis Complete._
 
 **Xenon**<br>
 It's done. The biggest time gap at this location, Quadrant III, 76th street, is September 15th at 02:00 p.m. I'll have plenty of time to investigate this location beforehand.
@@ -905,11 +905,11 @@ This is just like a spy movie.
 **Xenon**<br>
 This is not a movie though... stay cautious.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos013"/>[#013] Mail\_Chris\_702\_09\_10
+## <a id="chos013"/>\[#013\] Mail\_Chris\_702\_09\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -940,7 +940,7 @@ Chris
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos014"/>[#014] Call\_Chris\_702\_09\_10
+## <a id="chos014"/>\[#014\] Call\_Chris\_702\_09\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -948,7 +948,7 @@ Chris
 |**Cherry**|  8  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Chris**<br>
 Hello. This is Monophonic Entertainment. I'm Chris. How may I help you?
@@ -993,11 +993,11 @@ All in all, the performance is already scheduled. The company hosting the event 
 **Cherry**<br>
 ... Understood. Bye.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos015"/>[#015] Call\_Xenon\_702\_09\_11
+## <a id="chos015"/>\[#015\] Call\_Xenon\_702\_09\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1005,7 +1005,7 @@ All in all, the performance is already scheduled. The company hosting the event 
 |**Cherry**|  9  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Cherry**<br>
 Hello, it's me.
@@ -1068,11 +1068,11 @@ Ok, ok. See ya you cream Puff.
 **Xenon**<br>
 ... Is this a thing? Why's everyone using this term?
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos016"/>[#016] Cam\_76St\_702\_09\_14
+## <a id="chos016"/>\[#016\] Cam\_76St\_702\_09\_14
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1086,7 +1086,7 @@ Location: Node 08 \- Quadrant III, 76th Street
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos017"/>[#017] Cam\_76St\_702\_09\_15\_1
+## <a id="chos017"/>\[#017\] Cam\_76St\_702\_09\_15\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1094,15 +1094,15 @@ Location: Node 08 \- Quadrant III, 76th Street
 
 ### Log Content
 **[Xenon-A.I.]**<br>
-*Rewind complete. Communication records that match criteria: 0.*
+_Rewind complete. Communication records that match criteria: 0._
 
 **Xenon**<br>
 Tch, still can't get anything...? As expected, it's quite difficult to do so without knowing the exact location and direction...
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **[Xenon-A.I.]**<br>
-*Rewind complete. Communication records that match criteria: 1.*
+_Rewind complete. Communication records that match criteria: 1._
 
 **Xenon**<br>
 Got it!... year 677, she was just born. Not this one...<br>
@@ -1127,7 +1127,7 @@ Didn't I tell you not to force yourself to come? And don't you have a performanc
 I skipped the rehearsal. Just need to get back before 3. It's just next door too.
 
 **Xenon**<br>
-*\*Sigh\** You're always like this...<br>
+_\*Sigh\*_ You're always like this...<br>
 Here, take this.
 
 **Cherry**<br>
@@ -1142,7 +1142,7 @@ So you said you are going to investigate on your own, yet you brought a pair of 
 **Xenon**<br>
 ... Let's get going.
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Cherry**<br>
 Ah\~ Ah\~ Ah\~ Test, Test.
@@ -1178,11 +1178,11 @@ Ok. My A.I. is performing the rewind now. May need some time.
 **Cherry**<br>
 ... Hey, did you remember that arcade right ahead? The one we used to visit a lot to play video games?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos018"/>[#018] Audio\_bug\_692\_05\_13
+## <a id="chos018"/>\[#018\] Audio\_bug\_692\_05\_13
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1260,11 +1260,11 @@ Oh! Great! Remember the feeling you have right now. Flex your diaphragm to slow 
 
 *\[Gunshot\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos019"/>[#019] Cam\_Gamecenter\_695\_09\_15
+## <a id="chos019"/>\[#019\] Cam\_Gamecenter\_695\_09\_15
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1283,7 +1283,7 @@ I'm sorry... now, die.
 *\[Gunshot\]*
 
 **[Arcade Shooter]**<br>
-*Player1 Cherry WIN!*
+_Player1 Cherry WIN!_
 
 ![chos1901.png](./attachments/chos1901.png)
 
@@ -1313,13 +1313,13 @@ YEAH! Get her!
 **Cherry**<br>
 Interesting! Bring it on!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **[Arcade Shooter]**<br>
-*Time Over! Player1 Cherry WIN!*
+_Time Over! Player1 Cherry WIN!_
 
 **Cherry**<br>
-*\*Huff\**... *\*Puff\**...
+_\*Huff\*_... _\*Puff\*_...
 
 **JOE**<br>
 I... is this what a match between the pros looks like? I have absolutely no idea what the hell you guys are doing...
@@ -1364,7 +1364,7 @@ Jasus! It's almost 12 a.m. now? Oh no, my mom's gonna shave all my hair off...
 ... No.
 
 **Xenon**<br>
-*\*Sighs\**... Here. This is for you. Now stop being mad.
+_\*Sighs\*_... Here. This is for you. Now stop being mad.
 
 **Cherry**<br>
 Hm? Wow! You got it from the crane game!?
@@ -1388,13 +1388,13 @@ Um, one.
 WHAT!? I'm going to challenge again! Damnit!
 
 **Xenon**<br>
-... *\*Sighs\**.
+... _\*Sighs\*_.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos020"/>[#020] Cam\_76St\_702\_09\_15\_2
+## <a id="chos020"/>\[#020\] Cam\_76St\_702\_09\_15\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1404,7 +1404,7 @@ WHAT!? I'm going to challenge again! Damnit!
 ![chos2001.png](./attachments/chos2001.png)
 
 **[Xenon-A.I.]**<br>
-*Rewind complete. Communication records that match criteria: 1.*
+_Rewind complete. Communication records that match criteria: 1._
 
 **Xenon**<br>
 Nailed it. Tracked down several scattered coordinates, all in Quadrant I.
@@ -1414,7 +1414,7 @@ How many times do we have to repeat this process?
 
 **Xenon**<br>
 The coordinates are a lot less scattered than I imagined. Looks like our target only operates in certain areas. Might get it within two or three more tries.<br>
-We need to visit the next location on the 18th at 09:00 p.m. The next location is... *\*Sighs\**... why did it have to be here?
+We need to visit the next location on the 18th at 09:00 p.m. The next location is... _\*Sighs\*_... why did it have to be here?
 
 **Cherry**<br>
 Where?
@@ -1459,11 +1459,11 @@ Yes, sir! Captain Xenon!
 **Xenon**<br>
 OK, OK, I get it. The pedestrians are staring at you, so get going.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos021"/>[#021] Image\_Tower054\_702\_09\_15
+## <a id="chos021"/>\[#021\] Image\_Tower054\_702\_09\_15
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1477,7 +1477,7 @@ Location: Quadrant III, Tower 054
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos022"/>[#022] Cam\_Cherry's\_694\_09\_07
+## <a id="chos022"/>\[#022\] Cam\_Cherry's\_694\_09\_07
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1502,7 +1502,7 @@ Woah, it is really cold. Let's go up.
 **Xenon**<br>
 OK.
 
-*\[→Signal switch to Cam\_Elevator\_02\]*
+_\[→Signal switch to Cam\_Elevator\_02\]_
 
 **Xenon**<br>
 Are you ok? Feeling drunk?
@@ -1516,7 +1516,7 @@ You sure? You live on floor 48, right? You picked the top floor.
 **Cherry**<br>
 Be quiet and just come with me.
 
-*\[→Signal switch to Cam\_Roof\_01\]*
+_\[→Signal switch to Cam\_Roof\_01\]_
 
 **Xenon**<br>
 Why are we up here? I'm gonna freeze to death...
@@ -1577,11 +1577,11 @@ I didn't really organize it... I just told them that your birthday may be right 
 **Cherry**<br>
 See, I told you we can see it here, didn't I? The sunrise.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos023"/>[#023] Message\_Joe\_702\_09\_18
+## <a id="chos023"/>\[#023\] Message\_Joe\_702\_09\_18
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1670,7 +1670,7 @@ I have a lot more restraint now<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos024"/>[#024] Cam\_Xenon's\_695\_10\_26
+## <a id="chos024"/>\[#024\] Cam\_Xenon's\_695\_10\_26
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1692,14 +1692,14 @@ Sherry? Why are you here all of a sudden?<br>
 ... What happened? Are you crying?
 
 **Cherry**<br>
-*\*sniff\**... no...
+_\*sniff\*_... no...
 
 **Xenon**<br>
 Come inside first.
 
 *\[Door Closes\]*
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Xenon**<br>
 ... Are you going to tell me what happened?
@@ -1769,11 +1769,11 @@ I still can't tell you everything now, but I will once I'm ready to do so...
 **Xenon**<br>
 It's ok. I'll be waiting.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos025"/>[#025] Cam\_Cafe\_702\_09\_18
+## <a id="chos025"/>\[#025\] Cam\_Cafe\_702\_09\_18
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1882,11 +1882,11 @@ So she really is your new...
 **Xenon**<br>
 Yeah Yeah\~ she is\~ now stop talking and get on.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos026"/>[#026] Cam\_Riverside\_702\_09\_18\_1
+## <a id="chos026"/>\[#026\] Cam\_Riverside\_702\_09\_18\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1908,7 +1908,7 @@ There's no one here, no need for that. On top of that, I can pretty much guess w
 Yeah, it's right there.
 
 **[Xenon-A.I.]**<br>
-*Rewind Starts.*
+_Rewind Starts._
 
 ![chos2601.png](./attachments/chos2601.png)
 
@@ -1918,7 +1918,7 @@ So you really do come here by yourself for no reason...?
 **Cherry**<br>
 Yes. I come here to repent myself for leaving without ever saying "Sorry" to you...
 
-*\[<<< Flashback <<*
+_\[<<< Flashback <<_
 
 ![chos2602.png](./attachments/chos2602.png)
 
@@ -1963,25 +1963,25 @@ You can't accept this, can you? The real me...
 ... I don't...
 
 **Cherry**<br>
-*\*Bawls\**
+_\*Bawls\*_
 
 ![chos2603.png](./attachments/chos2603.png)
 
 **Xenon**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos027"/>[#027] Cam\_Riverside\_702\_09\_18\_2
+## <a id="chos027"/>\[#027\] Cam\_Riverside\_702\_09\_18\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 21  |
 
 ### Log Content
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 ![chos2701.png](./attachments/chos2701.png)
 
@@ -2002,7 +2002,7 @@ Then... can you let me finish what I should have said back then?
 Regardless of the reasons I have, the lives that perished because of me will never return. Shannon is in her current state because of me as well... Therefore, I never expected you to forgive me with just this one apology, but I really want you to know how heartbroken I was, how regretful I was...<br>
 I'm very grateful that you saved him and protected me. If it wasn't for you, I won't be able to stand on the stage and perform now either.<br>
 You are the most important person in my life. The fact that I was unable to contact you these past six years was an extremely cruel punishment for me...<br>
-I'm sorry... *\*sniffs\**...
+I'm sorry... _\*sniffs\*_...
 
 **Xenon**<br>
 ......
@@ -2055,7 +2055,7 @@ I'm trying.
 Then your trying doesn't seem to work. Look at yourself now...
 
 **[Xenon-A.I.]**<br>
-*Rewind complete. Communication records that match criteria: 1.*
+_Rewind complete. Communication records that match criteria: 1._
 
 **Xenon**<br>
 It's done... Awesome, the range is reduced significantly. Only a distance of two coordinates.<br>
@@ -2075,11 +2075,11 @@ Strike while the iron is hot. Besides, we would stand out too much if we visit a
 
 *\[Engines On\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos028"/>[#028] Audio\_Bug\_688\_09\_18
+## <a id="chos028"/>\[#028\] Audio\_Bug\_688\_09\_18
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2139,7 +2139,7 @@ OK... Daddy just doesn't want you to be unhappy.
 I'm sorry; daddy's such a useless daddy.
 
 **Cherry**<br>
-No kidding. You rea\~lly are a useless daddy. *\*Chuckles\**
+No kidding. You rea\~lly are a useless daddy. _\*Chuckles\*_
 
 **Luis**<br>
 Woah! Directly hearing it from Sherry still hurts quite a bit. Haha...
@@ -2159,11 +2159,11 @@ Even if you're a useless daddy, you're still the best daddy...
 **Luis**<br>
 ……Sherry……
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos029"/>[#029] Image\_Cherry\_688\_09\_18
+## <a id="chos029"/>\[#029\] Image\_Cherry\_688\_09\_18
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2178,7 +2178,7 @@ Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos030"/>[#030] Cam\_Factory3\_702\_09\_18\_1
+## <a id="chos030"/>\[#030\] Cam\_Factory3\_702\_09\_18\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2225,8 +2225,8 @@ Yes, yes, I know\~ Then what kind of great idea do you have, Miss "Criminal Mast
 Shhhhh! Stay down! Something's there.
 
 **[Recycle Robot]**<br>
-*Recycle, recycle. Please put the discarded materials on the platform.<br>
-Recycle, re... cycle. Please put ... the discarded materials... on the platform.*
+_Recycle, recycle. Please put the discarded materials on the platform.<br>
+Recycle, re... cycle. Please put ... the discarded materials... on the platform._
 
 **Xenon**<br>
 It's the facility's robot. Has it been operating like that ever since this place was abandoned...?
@@ -2238,7 +2238,7 @@ Look, it appears that they have a fixed travel path. Maybe it knows where to ent
 **Xenon**<br>
 Possible. Let's follow it and see.
 
-*\[Switch signals to Cam 044\]*
+_\[Switch signals to Cam 044\]_
 
 **Xenon**<br>
 Got it. It opens that small door there. We can crawl inside.
@@ -2279,11 +2279,11 @@ You carry something like that with you all the time...? Is that legal?
 **Cherry**<br>
 For self\-defense purposes... That door's closing; let's move!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos031"/>[#031] Cam\_Factory3\_702\_09\_18\_2
+## <a id="chos031"/>\[#031\] Cam\_Factory3\_702\_09\_18\_2
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2305,7 +2305,7 @@ Hey... there's light down there...
 **Xenon**<br>
 Shhhh! There's a person there!
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Xenon**<br>
 Give me the gun.
@@ -2323,7 +2323,7 @@ Idiot! We don't know if there are other people. Besides, do you know how to use 
 ... Then what are we gonna do?
 
 **???**<br>
-*Initiate Eradication Process.*
+_Initiate Eradication Process._
 
 **Cherry**<br>
 He found us!
@@ -2344,7 +2344,7 @@ F\*\*\* OFF!!
 
 *\[Pulse Pistol Fires\]*
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Cherry**<br>
 Are you alright !?
@@ -2356,7 +2356,7 @@ She's not moving... did you kill her?
 **Cherry**<br>
 B\*\*\*S\*\*\*! This thing doesn't have the power to kill even if it hits people...
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **Xenon**<br>
 ...This... isn't this the hooded female in the picture!?<br>
@@ -2371,11 +2371,11 @@ It... and all this equipment... what in the world...?
 **Cherry**<br>
 Looks like your investigation doesn't end here.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos032"/>[#032] Image\_Factory3\_702\_09\_18
+## <a id="chos032"/>\[#032\] Image\_Factory3\_702\_09\_18
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -2393,7 +2393,7 @@ Location: Node 08 \- Quadrant I, Factory 03
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos033"/>[#033] Audio\_Hospital\_702\_09\_25
+## <a id="chos033"/>\[#033\] Audio\_Hospital\_702\_09\_25
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2462,11 +2462,11 @@ The patient is not in a stable condition right now, so it might be a bit difficu
 **Cherry**<br>
 Please! Thank you!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos034"/>[#034] Cam\_Hospital\_702\_09\_25
+## <a id="chos034"/>\[#034\] Cam\_Hospital\_702\_09\_25
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2488,7 +2488,7 @@ Walk straight until you reached the end of the hallway, then turn left. You will
 **Cherry**<br>
 Thank you.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 **Jacob**<br>
 Oh, you're here.
@@ -2512,7 +2512,7 @@ Virtual\-Internet Related Post\-Traumatic Stress Disorder, or VR PTSD for short.
 I'm sorry... you can only observe her through this glass. The patient has lost all communication capabilities. In addition, any outside simulation that triggers her memory may cause her to suffer panic attacks again.
 
 **Cherry**<br>
-... *\*Sniff\**...
+... _\*Sniff\*_...
 
 ![chos3401.png](./attachments/chos3401.png)
 
@@ -2565,11 +2565,11 @@ No... nothing...
 **Cherry**<br>
 OK...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos035"/>[#035] Audio\_Cherry's\_702\_10\_05
+## <a id="chos035"/>\[#035\] Audio\_Cherry's\_702\_10\_05
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2578,54 +2578,54 @@ OK...
 ### Log Content
 *\[Ringtone\]*
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Cherry**<br>
 Hello?
 
 **[???]**<br>
-*Sherry.*
+_Sherry._
 
 **Cherry**<br>
 ... How did you know this number?
 
 **[???]**<br>
-*Did you forget that we are omniscient...?*
+_Did you forget that we are omniscient...?_
 
 **Cherry**<br>
 ... Is there anything you want?
 
 **[???]**<br>
-*You didn't forget what we asked you to do, didn't you?*
+_You didn't forget what we asked you to do, didn't you?_
 
 **Cherry**<br>
 ... Yes.
 
 **[???]**<br>
-*We discovered that he is taking action again. It seems like he has no intention to stop at all.*
+_We discovered that he is taking action again. It seems like he has no intention to stop at all._
 
 **Cherry**<br>
 Understood. I'll talk to him about it.
 
 **[???]**<br>
-*I don't really care who the hell they want to use as the "Mediator". However, as you already know, the Boss likes you a lot. Don't screw it up yourself.*
+_I don't really care who the hell they want to use as the "Mediator". However, as you already know, the Boss likes you a lot. Don't screw it up yourself._
 
 **Cherry**<br>
 ......
 
 **[???]**<br>
-*That's it. We will contact you again soon.*
+_That's it. We will contact you again soon._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Cherry**<br>
 ...... 
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos036"/>[#036] Audio\_Cafe\_702\_10\_10
+## <a id="chos036"/>\[#036\] Audio\_Cafe\_702\_10\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2686,11 +2686,11 @@ Hmph! Interesting! Hey, bring that thing out! It's on me!
 **JOE**<br>
 Sighs... Then don't blame me for what's gonna happen next.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos037"/>[#037] Cam\_Cafe\_702\_10\_11
+## <a id="chos037"/>\[#037\] Cam\_Cafe\_702\_10\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2707,7 +2707,7 @@ Whew...... Finally got the Ciber driver to send them away... Big sis, are you ev
 **JOE**<br>
 Hey! Big sis!?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **JOE**<br>
 You awake?
@@ -2781,18 +2781,18 @@ I'm so foolish... After all the things that happened, I still hoped that he'll t
 ......
 
 **Cherry**<br>
-*\*Sobs\**
+_\*Sobs\*_
 
 ![chos3701.png](./attachments/chos3701.png)
 
 **JOE**<br>
 ... Get some sleep. Don't blame yourself... We're all living in guilt for our crimes...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos038"/>[#038] Audio\_Cherry's\_702\_10\_11
+## <a id="chos038"/>\[#038\] Audio\_Cherry's\_702\_10\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2832,7 +2832,7 @@ Hmmm...? What is this? A note?
 **Cherry**<br>
 ......!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
 ... "That's more or less it. To be fair, if what Simon said was indeed true, then Big sis should already know about the Cafe and its business as well. Haha, what the hell is going on with Crystal PuNK? Why are there so many hidden identities in this band? Not to mention they are all somehow connected to one another..." 
@@ -2858,11 +2858,11 @@ Idiot... my life... has never been simple...
 **Cherry**<br>
 Idiot...... 
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos039"/>[#039] Audio\_Dash\_702\_10\_21
+## <a id="chos039"/>\[#039\] Audio\_Dash\_702\_10\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3002,11 +3002,11 @@ Oh, one more thing from Boss. He said that he has been trying his best regarding
 **Cherry**<br>
 ...... Understood.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos040"/>[#040] Audio\_Cell32\_702\_11\_02
+## <a id="chos040"/>\[#040\] Audio\_Cell32\_702\_11\_02
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3076,7 +3076,7 @@ Your band is slowly hitting the stride too. You don't need to suffer this anymor
 ......
 
 **[TV]**<br>
-*... Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents.  *
+_... Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents.  _
 
 **Cherry**<br>
 Eh? Dad, turn up the volume!
@@ -3085,7 +3085,7 @@ Eh? Dad, turn up the volume!
 ...... Understood!
 
 **[TV]**<br>
-*... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. *
+_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. _
 
 **Cherry**<br>
 Simon!? How come?
@@ -3094,7 +3094,7 @@ Simon!? How come?
 ......
 
 **[TV]**<br>
-*Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence...*
+_Faced with such serious accusations, Simon Jackson did not say a single word to defend himself, nor attempted to prove his innocence..._
 
 **Luis**<br>
 Simon is Æsir...?
@@ -3117,11 +3117,11 @@ Even so, I'm still going! That's it for now.
 **Luis**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos041"/>[#041] Cam\_Cafe2\_702\_11\_05
+## <a id="chos041"/>\[#041\] Cam\_Cafe2\_702\_11\_05
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3206,19 +3206,19 @@ I'm sorry... I don't have what it takes to carry pops' scale after all...
 ... Chris? What's up?
 
 **[Chris]**<br>
-*What do you mean "What's up"!? The rehearsal has already begun! Where are you!?*
+_What do you mean "What's up"!? The rehearsal has already begun! Where are you!?_
 
 **Cherry**<br>
 ... Eh? AH! It's today!?
 
 **[LUMY]**<br>
-*Give me the phone! You remember the wrong date!? You're helpless! Where the heck are you now? Get your butt over here ASAP!*
+_Give me the phone! You remember the wrong date!? You're helpless! Where the heck are you now? Get your butt over here ASAP!_
 
 **Cherry**<br>
 Gotcha! I'll get going right now! However, it may still take a while. Just sing a few songs in my place first!
 
 **[LUMY]**<br>
-*If you're paying for the celebration party.*
+_If you're paying for the celebration party._
 
 **Cherry**<br>
 ... F, FINE! I'll pay for it! Happy now!?
@@ -3263,11 +3263,11 @@ Remember to watch the stream. I will use our songs to bring that stupid smile ba
 **JOE**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos042"/>[#042] Audio\_Cell32\_702\_11\_06
+## <a id="chos042"/>\[#042\] Audio\_Cell32\_702\_11\_06
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3362,11 +3362,11 @@ Tch...
 **Cherry**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos043"/>[#043] Cam\_CArea\_702\_11\_08
+## <a id="chos043"/>\[#043\] Cam\_CArea\_702\_11\_08
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3377,45 +3377,45 @@ Tch...
 This is S. I'm in.
 
 **[Rald]**<br>
-*I see your position on the map now. Turn right at the next intersection. Open the second door. You'll see a LE\-113A drone inside.*
+_I see your position on the map now. Turn right at the next intersection. Open the second door. You'll see a LE\-113A drone inside._
 
 *\[Gunshot\]*
 
 **[Rald]**<br>
-*Nice shot. I expect no less for someone hired by the Cafe.*
+_Nice shot. I expect no less for someone hired by the Cafe._
 
 **Cherry**<br>
 Having such a detailed understanding of the underground passages in the restricted area, you're not too bad yourself either.
 
 **[Rald]**<br>
-*\*Chuckles\* I appreciate your comments.*
+_\*Chuckles\* I appreciate your comments._
 
 **Cherry**<br>
 Will we really reach Simon's cell by going down this way?
 
 **[Rald]**<br>
-*No need to worry, trust me. Later, there will be a brief moment with no signal. Therefore, you'll need to follow my instructions.*
+_No need to worry, trust me. Later, there will be a brief moment with no signal. Therefore, you'll need to follow my instructions._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
 ... I'm curious. If you know the topography down here so well, why hire a gunman? Why don't you just do it yourself?
 
 **[Rald]**<br>
-*Hmm... Perhaps I'm currently in a situation where I can't quite move around easily, or perhaps I feel like things are more interesting this way. Who knows?*
+_Hmm... Perhaps I'm currently in a situation where I can't quite move around easily, or perhaps I feel like things are more interesting this way. Who knows?_
 
 **Cherry**<br>
 ......
 
 **[Rald]**<br>
-*Isn't this great for you though? Don't you want to save him yourself? Miss Pauline?*
+_Isn't this great for you though? Don't you want to save him yourself? Miss Pauline?_
 
 **Cherry**<br>
 ......!? How did you know my name?<br>
 Hey? Hello...?
 
 **[Rald]**<br>
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 **Cherry**<br>
 ... Damnit, signal lost.
@@ -3431,21 +3431,21 @@ This is it. Password lock... Simon, I'll be there in a minute.
 ......!?
 
 **[Control System]**<br>
-*Decision: Incorrect password. Defense system activate. Deploy model LE\-113C security drones to perform full area scan. Law enforcement agents, please leave this area as soon as possible.*
+_Decision: Incorrect password. Defense system activate. Deploy model LE\-113C security drones to perform full area scan. Law enforcement agents, please leave this area as soon as possible._
 
 **Cherry**<br>
 The password is incorrect!?
 
 **[Control System]**<br>
-*Model LE\-113C security drones, deploy start.*
+_Model LE\-113C security drones, deploy start._
 
 **Cherry**<br>
 ... We're tricked.
 
-*\[→Signal Switch\]*
+_\[→Signal Switch\]_
 
 **[Drone]**<br>
-*Target acquired. Initiate termination process immediately.*
+_Target acquired. Initiate termination process immediately._
 
 *\[Hurried Footsteps\]*
 
@@ -3453,31 +3453,31 @@ The password is incorrect!?
 S\*\*\*! It's a dead end!
 
 **[Drone]**<br>
-*Target acquired. Initiate termination process immediately.*
+_Target acquired. Initiate termination process immediately._
 
 **Cherry**<br>
 Tch...
 
 **[Rald]**<br>
-*This is R. Woah, looks like it's quite the spectacle on your side of things.*
+_This is R. Woah, looks like it's quite the spectacle on your side of things._
 
 **Cherry**<br>
 You bastard! How dare you trick me! Where the f\*\*\* am I at right now!?
 
 **[Rald]**<br>
-*No need to worry. I've already opened Simon's cell door. However, it seems like he doesn't really want to come out.*
+_No need to worry. I've already opened Simon's cell door. However, it seems like he doesn't really want to come out._
 
 **[Xenon]**<br>
-*Sherry!? What are you doing here?*
+_Sherry!? What are you doing here?_
 
 **Cherry**<br>
 ......!
 
 **[Rald]**<br>
-*As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
-Feels like your dear friends are in a pretty serious pinch. Allow me to take my leave first.*
+_As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
+Feels like your dear friends are in a pretty serious pinch. Allow me to take my leave first._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Explosion\]*
 
@@ -3535,16 +3535,16 @@ If I want to cause him harm, I would've already dragged him out of there. I woul
 ......?
 
 **[Drone]**<br>
-*Target acquired. Initiate termination process immediately.*
+_Target acquired. Initiate termination process immediately._
 
 **ConneR**<br>
 Chit\-chat time over. You don't have that worthless gun anymore. Follow me if you don't want to die. We still got one more person to rescue.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos044"/>[#044] Cam\_Port33\_702\_11\_10
+## <a id="chos044"/>\[#044\] Cam\_Port33\_702\_11\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3589,7 +3589,7 @@ From now on, you guys will act according to my commands. Stay closely behind me.
 **ConneR**<br>
 At you command, Mediator.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **ConneR**<br>
 This is my first time taking this route. Underground tunnels like this one that used to transport goods have not been properly managed since The Decommission, yet the entire system and the drone production still continue to function normally. It's as if this is a dungeon of machines. Truly a magnificent sight.
@@ -3664,7 +3664,7 @@ On your mark...
 We did it! This should be able to buy us some time.
 
 **[Drone]**<br>
-*Warning, illegal trespasser detected.*
+_Warning, illegal trespasser detected._
 
 *\[Things crashing\]*
 
@@ -3675,12 +3675,12 @@ Waah!
 Tch, did Mad Dog miss his targets? How useless.
 
 **[Drone]**<br>
-*Initiate attack.*
+_Initiate attack._
 
 *\[Hacking\]*
 
 **[Drone]**<br>
-*Iiiiinnitiaatte atttttt....*
+_Iiiiinnitiaatte atttttt...._
 
 **Cherry**<br>
 ......
@@ -3709,7 +3709,7 @@ The heck, that's so inconvenient!
 What, you think this is GAMEBAI and all you need to do is press a few buttons?
 
 **[Drone]**<br>
-*Warning, illegal trespasser detected.*
+_Warning, illegal trespasser detected._
 
 **ConneR**<br>
 You two lovebirds can save your squabble for later. We still got work to do. Mad Dog, we are going to leave you behind.
@@ -3717,11 +3717,11 @@ You two lovebirds can save your squabble for later. We still got work to do. Mad
 **Hunter**<br>
 Yikes! Wait for me! Damn it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos045"/>[#045] Cam\_Port33\_702\_11\_10
+## <a id="chos045"/>\[#045\] Cam\_Port33\_702\_11\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3740,7 +3740,7 @@ What next?
 Not the time to celebrate just yet. If we are to sneak into other Nodes from here, we still need to take one more ride in these transporters.
 
 **ConneR**<br>
-... *\*Sigh\**, I would prefer if you could spare the body of this old man in his thirties. Not built to sit in this tiny space.
+... _\*Sigh\*_, I would prefer if you could spare the body of this old man in his thirties. Not built to sit in this tiny space.
 
 **Cherry**<br>
 Eh? You're only in your thirties!? I thought that you must be at least fifty.
@@ -3755,7 +3755,7 @@ How rude. It's not exactly easy to do skin care when you're wandering around in 
 I've never been here before as either. It's a lot more complicated than I imagined... However, based on experience, if we follow the black electric pipelines, we are likely to find some sort of central hub area. We should be able to find the map of this entire facility there. 
 
 **[Xenon A.I.]**<br>
-*Analyzing... complete.*
+_Analyzing... complete._
 
 **Xenon**<br>
 It doesn't seem to be that simple. Lots of turns and branched routes here... I tried to analyze these circuits; there is more than one path to the hub. On top of that, those drones...
@@ -3779,7 +3779,7 @@ I don't want to admit this since I am quite confident in my abilities when it co
 **ConneR**<br>
 Thank you for your compliment.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 We haven't seen a single drone the whole time.
@@ -3791,7 +3791,7 @@ Those things patrol in a certain pattern. As long as you understand the pattern,
 ... You really are an expert with this stuff. It took me a long time before I mastered that, and all it took you was a few minutes back there...
 
 **ConneR**<br>
-*\*Chuckles\** If you keep complimenting me, someone's gonna get jealous.<br>
+_\*Chuckles\*_ If you keep complimenting me, someone's gonna get jealous.<br>
 Besides, there are other things we need to worry about, not just the drones.
 
 **Xenon**<br>
@@ -3857,10 +3857,10 @@ That's great!... Ah, authentication required.
 **Xenon**<br>
 Let me try.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Central System]**<br>
-*Authentication success. Welcome, OPCII\_1409\_II.*
+_Authentication success. Welcome, OPCII\_1409\_II._
 
 **Cherry**<br>
 OPCII...?
@@ -3894,13 +3894,13 @@ You fellas don't have the equipment to go to the surface, right? If I am to leav
 Didn't think you're the type to go that far to help others...  I'm a bit surprised, thanks.
 
 **ConneR**<br>
-*\*Chuckles\** I would be quite troubled if you decided to just casually treat me as "a good guy".
+_\*Chuckles\*_ I would be quite troubled if you decided to just casually treat me as "a good guy".
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="chos046"/>[#046] vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
+## <a id="chos046"/>\[#046\] vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 ### Requirements
 |Character |Level|
 |----------|:---:|

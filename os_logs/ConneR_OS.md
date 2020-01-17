@@ -1,71 +1,71 @@
 # ConneR OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Log\_701\_12\_14\_1](#cos001)
-- [[#002] Cam\_Arc\_701\_12\_16](#cos002)
-- [[#003] Audio\_Raven\_701\_12\_21](#cos003)
-- [[#004] Cam\_Arc\_702\_01\_30](#cos004)
-- [[#005] Audio\_Arc\_702\_02\_05](#cos005)
-- [[#006] Log\_702\_02\_14\_repaired](#cos006)
-- [[#007] Audio\_Home\_697\_07\_11](#cos007)
-- [[#008] Mail\_iM\_702\_07\_01](#cos008)
-- [[#009] Log\_Home\_697\_08\_08](#cos009)
-- [[#010] Mail\_690\_05\_14](#cos010)
-- [[#011] Cam\_Arc\_702\_04\_04](#cos011)
-- [[#012] Diary\_ConneR\_702\_04\_06](#cos012)
-- [[#013] Mail\_BH\_702\_07\_12](#cos013)
-- [[#014] Call\_702\_07\_12](#cos014)
-- [[#015] Log\_Arc\_702\_07\_14](#cos015)
-- [[#016] Cam\_Arc\_702\_07\_20](#cos016)
-- [[#017] Cam\_Cafe\_702\_07\_21](#cos017)
-- [[#018] Diary\_ConneR\_702\_07\_22](#cos018)
-- [[#019] Cam\_Arc\_702\_07\_24](#cos019)
-- [[#020] Mail\_Arc\_702\_07\_27](#cos020)
-- [[#021] Diary\_ConneR\_702\_07\_28](#cos021)
-- [[#022] Mail\_Arc\_702\_07\_22](#cos022)
-- [[#023] Audio\_Arc\_702\_08\_26](#cos023)
-- [[#024] Diary\_ConneR\_702\_08\_26](#cos024)
-- [[#025] Audio\_Arc\_702\_08\_12](#cos025)
-- [[#026] Mail\_Arc\_702\_08\_20](#cos026)
-- [[#027] Audio\_Arc\_702\_08\_07](#cos027)
-- [[#028] Audio\_Arc\_702\_08\_08](#cos028)
-- [[#029] Audio\_Arc\_702\_08\_11](#cos029)
-- [[#030] Audio\_Arc\_702\_08\_17](#cos030)
-- [[#031] Diary\_ConneR\_702\_08\_28](#cos031)
-- [[#032] Log\_702\_08\_08\_12](#cos032)
-- [[#033] Cam\_Arc\_702\_09\_21](#cos033)
-- [[#034] Audio\_Factory3\_702\_09\_21\_1](#cos034)
-- [[#035] Audio\_Factory3\_702\_09\_21\_2](#cos035)
-- [[#036] Mail\_Grace\_702\_10\_22](#cos036)
-- [[#037] Cam\_Home\_702\_10\_23](#cos037)
-- [[#038] Audio\_Arc\_702\_11\_02](#cos038)
-- [[#039] Diary\_ConneR\_702\_11\_04](#cos039)
-- [[#040] Cam\_CArea\_702\_11\_08](#cos040)
-- [[#041] Audio\_Port33\_702\_11\_10](#cos041)
-- [[#042] Cam\_Port33\_702\_11\_10](#cos042)
-- [[#043] Audio\_Cafe\_690\_03\_16](#cos043)
-- [[#044] Cam\_Base\_690\_03\_16](#cos044)
-- [[#045] Audio\_Sasha\_690\_03\_17](#cos045)
-- [[#046] Audio\_Home\_676\_04\_08](#cos046)
-- [[#047] Audio\_St166\_690\_3\_23](#cos047)
-- [[#048] Audio\_Graveyard\_682\_06\_16](#cos048)
-- [[#049] Cam\_Sasha\_690\_06\_30](#cos049)
-- [[#050] Audio\_admins\_690\_07\_07](#cos050)
-- [[#051] Cam\_Hotel\_690\_07\_09](#cos051)
-- [[#052] Audio\_Home\_683\_07\_09](#cos052)
-- [[#053] Audio\_St199\_690\_07\_10](#cos053)
-- [[#054] Multi\_Files\_686\_12\_23](#cos054)
-- [[#055] Audio\_Truck\_690\_07\_11](#cos055)
-- [[#056] Multi\_Files\_686\_12\_21](#cos056)
-- [[#057] Audio\_Truck\_690\_07\_11](#cos057)
-- [[#058] Audio\_Garion's\_702\_11\_20](#cos058)
-- [[#059] Audio\_Garion's\_702\_11\_20](#cos059)
-- [[#060] Audio\_13St57\_702\_11\_21](#cos060)
-- [[#061] Audio\_Sasha\_702\_11\_21](#cos061)
-- [[#062] Audio\_Sasha\_702\_12\_15](#cos062)
-- [[#063] Audio\_Sasha\_702\_12\_16](#cos063)
-- [[#064] Audio\_13St35\_702\_12\_17](#cos064)
+- [\[#001\] Log\_701\_12\_14\_1](#cos001)
+- [\[#002\] Cam\_Arc\_701\_12\_16](#cos002)
+- [\[#003\] Audio\_Raven\_701\_12\_21](#cos003)
+- [\[#004\] Cam\_Arc\_702\_01\_30](#cos004)
+- [\[#005\] Audio\_Arc\_702\_02\_05](#cos005)
+- [\[#006\] Log\_702\_02\_14\_repaired](#cos006)
+- [\[#007\] Audio\_Home\_697\_07\_11](#cos007)
+- [\[#008\] Mail\_iM\_702\_07\_01](#cos008)
+- [\[#009\] Log\_Home\_697\_08\_08](#cos009)
+- [\[#010\] Mail\_690\_05\_14](#cos010)
+- [\[#011\] Cam\_Arc\_702\_04\_04](#cos011)
+- [\[#012\] Diary\_ConneR\_702\_04\_06](#cos012)
+- [\[#013\] Mail\_BH\_702\_07\_12](#cos013)
+- [\[#014\] Call\_702\_07\_12](#cos014)
+- [\[#015\] Log\_Arc\_702\_07\_14](#cos015)
+- [\[#016\] Cam\_Arc\_702\_07\_20](#cos016)
+- [\[#017\] Cam\_Cafe\_702\_07\_21](#cos017)
+- [\[#018\] Diary\_ConneR\_702\_07\_22](#cos018)
+- [\[#019\] Cam\_Arc\_702\_07\_24](#cos019)
+- [\[#020\] Mail\_Arc\_702\_07\_27](#cos020)
+- [\[#021\] Diary\_ConneR\_702\_07\_28](#cos021)
+- [\[#022\] Mail\_Arc\_702\_07\_22](#cos022)
+- [\[#023\] Audio\_Arc\_702\_08\_26](#cos023)
+- [\[#024\] Diary\_ConneR\_702\_08\_26](#cos024)
+- [\[#025\] Audio\_Arc\_702\_08\_12](#cos025)
+- [\[#026\] Mail\_Arc\_702\_08\_20](#cos026)
+- [\[#027\] Audio\_Arc\_702\_08\_07](#cos027)
+- [\[#028\] Audio\_Arc\_702\_08\_08](#cos028)
+- [\[#029\] Audio\_Arc\_702\_08\_11](#cos029)
+- [\[#030\] Audio\_Arc\_702\_08\_17](#cos030)
+- [\[#031\] Diary\_ConneR\_702\_08\_28](#cos031)
+- [\[#032\] Log\_702\_08\_08\_12](#cos032)
+- [\[#033\] Cam\_Arc\_702\_09\_21](#cos033)
+- [\[#034\] Audio\_Factory3\_702\_09\_21\_1](#cos034)
+- [\[#035\] Audio\_Factory3\_702\_09\_21\_2](#cos035)
+- [\[#036\] Mail\_Grace\_702\_10\_22](#cos036)
+- [\[#037\] Cam\_Home\_702\_10\_23](#cos037)
+- [\[#038\] Audio\_Arc\_702\_11\_02](#cos038)
+- [\[#039\] Diary\_ConneR\_702\_11\_04](#cos039)
+- [\[#040\] Cam\_CArea\_702\_11\_08](#cos040)
+- [\[#041\] Audio\_Port33\_702\_11\_10](#cos041)
+- [\[#042\] Cam\_Port33\_702\_11\_10](#cos042)
+- [\[#043\] Audio\_Cafe\_690\_03\_16](#cos043)
+- [\[#044\] Cam\_Base\_690\_03\_16](#cos044)
+- [\[#045\] Audio\_Sasha\_690\_03\_17](#cos045)
+- [\[#046\] Audio\_Home\_676\_04\_08](#cos046)
+- [\[#047\] Audio\_St166\_690\_3\_23](#cos047)
+- [\[#048\] Audio\_Graveyard\_682\_06\_16](#cos048)
+- [\[#049\] Cam\_Sasha\_690\_06\_30](#cos049)
+- [\[#050\] Audio\_admins\_690\_07\_07](#cos050)
+- [\[#051\] Cam\_Hotel\_690\_07\_09](#cos051)
+- [\[#052\] Audio\_Home\_683\_07\_09](#cos052)
+- [\[#053\] Audio\_St199\_690\_07\_10](#cos053)
+- [\[#054\] Multi\_Files\_686\_12\_23](#cos054)
+- [\[#055\] Audio\_Truck\_690\_07\_11](#cos055)
+- [\[#056\] Multi\_Files\_686\_12\_21](#cos056)
+- [\[#057\] Audio\_Truck\_690\_07\_11](#cos057)
+- [\[#058\] Audio\_Garion's\_702\_11\_20](#cos058)
+- [\[#059\] Audio\_Garion's\_702\_11\_20](#cos059)
+- [\[#060\] Audio\_13St57\_702\_11\_21](#cos060)
+- [\[#061\] Audio\_Sasha\_702\_11\_21](#cos061)
+- [\[#062\] Audio\_Sasha\_702\_12\_15](#cos062)
+- [\[#063\] Audio\_Sasha\_702\_12\_16](#cos063)
+- [\[#064\] Audio\_13St35\_702\_12\_17](#cos064)
 
-## <a id="cos001"/>[#001] Log\_701\_12\_14\_1
+## <a id="cos001"/>\[#001\] Log\_701\_12\_14\_1
 ### Log Content
 ![cos0101.png](./attachments/cos0101.png)
 
@@ -91,7 +91,7 @@ Time of recording: 701\_1214\_0545
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos002"/>[#002] Cam\_Arc\_701\_12\_16
+## <a id="cos002"/>\[#002\] Cam\_Arc\_701\_12\_16
 ### Log Content
 **Sagar**<br>
 What's the patient's situation?
@@ -143,11 +143,11 @@ Treatment: Sedative injection. Dosage: 35%
 Alright, let him take a little nap.<br>
 He may still have severe emotional reactions. Turn up the sensibility on the medical drones. I'll have two groups guarding the door in turns.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos003"/>[#003] Audio\_Raven\_701\_12\_21
+## <a id="cos003"/>\[#003\] Audio\_Raven\_701\_12\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -235,11 +235,11 @@ Farewell, young fowls.
 
 *\[Electronic Door\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos004"/>[#004] Cam\_Arc\_702\_01\_30
+## <a id="cos004"/>\[#004\] Cam\_Arc\_702\_01\_30
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -267,7 +267,7 @@ You mean those two young fowls? They call that "Interrogation"... My, my. Too yo
 Doctor, I'm not kidding. You might be sentenced to life in prison this time.
 
 **ConneR**<br>
-*\*Chuckles\** With their current level of technological understanding, if the admins really want to try and imprison me...
+_\*Chuckles\*_ With their current level of technological understanding, if the admins really want to try and imprison me...
 
 *\[Handcuffs Unlock\]*
 
@@ -301,7 +301,7 @@ I guessed as much.
 Huh?
 
 **ConneR**<br>
-*\*Chuckles\** I can crack this piece of junk handcuffs with my eyes closed. What makes you think that I willingly stayed in this dump for several days? You came to try and persuade me to join A.R.C.'s research, am I right?
+_\*Chuckles\*_ I can crack this piece of junk handcuffs with my eyes closed. What makes you think that I willingly stayed in this dump for several days? You came to try and persuade me to join A.R.C.'s research, am I right?
 
 **Sagar**<br>
 Haha... you really did predict everything. I expect no less from the Doctor.<br>
@@ -327,7 +327,7 @@ The higher\-ups told me "No f\*\*\*ing way", but I decided to give it a try none
 With your academic knowledge and field experience, combined with the resources and talents at A.R.C. HQ, I believe you won't be disappointed.
 
 **ConneR**<br>
-*\*Chuckles\** I don't necessarily agree with the "talent" part, but we'll see about it. 
+_\*Chuckles\*_ I don't necessarily agree with the "talent" part, but we'll see about it. 
 
 **Sagar**<br>
 Anyway, thank you so much! Later today, we will have our agents deal with all the registration and documents. Tomorrow morning, someone will take you to the presentation center to listen to the newcomer's guide. <br>
@@ -335,11 +335,11 @@ Oh, and please put the handcuffs back on. You're putting me in a very awkward si
 
 *\[Electronic Door\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos005"/>[#005] Audio\_Arc\_702\_02\_05
+## <a id="cos005"/>\[#005\] Audio\_Arc\_702\_02\_05
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -404,11 +404,11 @@ Eh? It should be fine... but you're lucky to recover your sight. Are you just go
 **ConneR**<br>
 It's more of an issue of principle. I have my doubts about a world viewed through the eye of a machine. Therefore, I'd rather not use it.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos006"/>[#006] Log\_702\_02\_14\_repaired
+## <a id="cos006"/>\[#006\] Log\_702\_02\_14\_repaired
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -445,7 +445,7 @@ Time of interruption: 701\_1214\_0637
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos007"/>[#007] Audio\_Home\_697\_07\_11
+## <a id="cos007"/>\[#007\] Audio\_Home\_697\_07\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -483,7 +483,7 @@ Sir is... he's fine, but I think you might have to take a look yourself.
 **ConneR**<br>
 What's the matter?
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 **ConneR**<br>
 ... Father?
@@ -514,7 +514,7 @@ Father!
 
 **Grace**<br>
 Apologies. I thought he would have some reaction after seeing you. Doesn't seem like it...<br>
-Master! I'm so sorry. It's... *\*sniff\**... all my fault. If I had taken a better care of Sir, he wouldn't...
+Master! I'm so sorry. It's... _\*sniff\*_... all my fault. If I had taken a better care of Sir, he wouldn't...
 
 **ConneR**<br>
 Don't apologize. I should have come back earlier. I was too obsessed with my own achievements... Looks like I don't even have the chance to show off to him anymore... 
@@ -525,7 +525,7 @@ Master...
 **ConneR**<br>
 ... I'm fine. Let me take a look at father's workshop...
 
-*\[»»» Fast Forward »»» \]*
+_\[»»» Fast Forward »»» \]_
 
 *\[Door Opens\]*
 
@@ -543,11 +543,11 @@ It's the Neumann family chip...
 
 *\[Opens Envelope\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos008"/>[#008] Mail\_iM\_702\_07\_01
+## <a id="cos008"/>\[#008\] Mail\_iM\_702\_07\_01
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -578,7 +578,7 @@ The iM full\-sense social networking team
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos009"/>[#009] Log\_Home\_697\_08\_08
+## <a id="cos009"/>\[#009\] Log\_Home\_697\_08\_08
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -594,7 +594,7 @@ ConneR 6970808
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos010"/>[#010] Mail\_690\_05\_14
+## <a id="cos010"/>\[#010\] Mail\_690\_05\_14
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -608,7 +608,7 @@ Colin Neumann Sr.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos011"/>[#011] Cam\_Arc\_702\_04\_04
+## <a id="cos011"/>\[#011\] Cam\_Arc\_702\_04\_04
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -659,11 +659,11 @@ Ah... that... I'm sorry, that is beyond my security level. If Dr. Neumann has an
 **ConneR**<br>
 Understood. Thank you.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos012"/>[#012] Diary\_ConneR\_702\_04\_06
+## <a id="cos012"/>\[#012\] Diary\_ConneR\_702\_04\_06
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -681,7 +681,7 @@ ConneR 7020406
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos013"/>[#013] Mail\_BH\_702\_07\_12
+## <a id="cos013"/>\[#013\] Mail\_BH\_702\_07\_12
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -707,7 +707,7 @@ Body Hack Corp. CEO
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos014"/>[#014] Call\_702\_07\_12
+## <a id="cos014"/>\[#014\] Call\_702\_07\_12
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -768,11 +768,11 @@ Good. Then about the contract and future preparations, contact me when everythin
 **Maggie**<br>
 Thank you Sensei! We'll arrange everything as soon as possible. Look forward to working with you!
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos015"/>[#015] Log\_Arc\_702\_07\_14
+## <a id="cos015"/>\[#015\] Log\_Arc\_702\_07\_14
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -785,7 +785,7 @@ ConneR 7020714
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos016"/>[#016] Cam\_Arc\_702\_07\_20
+## <a id="cos016"/>\[#016\] Cam\_Arc\_702\_07\_20
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -848,11 +848,11 @@ I hope so. If there aren't any more problems, I will leave now.
 **ConneR**<br>
 Of course. It's a great pleasure meeting you.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos017"/>[#017] Cam\_Cafe\_702\_07\_21
+## <a id="cos017"/>\[#017\] Cam\_Cafe\_702\_07\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -952,11 +952,11 @@ Whatever, before the job is done I'll be here every day. You better prepare more
 
 *\[Doorbell\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos018"/>[#018] Diary\_ConneR\_702\_07\_22
+## <a id="cos018"/>\[#018\] Diary\_ConneR\_702\_07\_22
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -972,7 +972,7 @@ ConneR 7020722
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos019"/>[#019] Cam\_Arc\_702\_07\_24
+## <a id="cos019"/>\[#019\] Cam\_Arc\_702\_07\_24
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -994,7 +994,7 @@ Don't be so hostile. This is a pretty nice place to have lunch, never realized t
 I'm on my break now. If there's a problem, file a work request.
 
 **ConneR**<br>
-*\*Chuckles\** Don't worry I'm not asking you to work. Just want to chat with you a little. May I, Mr. Xenon?
+_\*Chuckles\*_ Don't worry I'm not asking you to work. Just want to chat with you a little. May I, Mr. Xenon?
 
 **Xenon**<br>
 ...Don't call me that at work.
@@ -1018,7 +1018,7 @@ Ohhh, not what I expect to hear from someone who works in such a lifeless enviro
 Don't speak like you know me so well...
 
 **ConneR**<br>
-*\*Chuckles\**  Maybe I know you a lot better than you think.<br>
+_\*Chuckles\*_  Maybe I know you a lot better than you think.<br>
 Technology is the torch that lights the road for humans and we are the ones holding it. Our every action directly affects the future of the human race.
 
 **Xenon**<br>
@@ -1037,16 +1037,16 @@ This is my album. If you don't mind, give it a try and tell me what you think ab
 If I'm in the right mood.
 
 **ConneR**<br>
-*\*Chuckles\** quite indifferent are you. Then I shall take my leave. Enjoy your break, Mr. Xenon.
+_\*Chuckles\*_ quite indifferent are you. Then I shall take my leave. Enjoy your break, Mr. Xenon.
 
 **Xenon**<br>
 I would appreciate that.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos020"/>[#020] Mail\_Arc\_702\_07\_27
+## <a id="cos020"/>\[#020\] Mail\_Arc\_702\_07\_27
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1069,7 +1069,7 @@ A.R.C. Supreme Committee
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos021"/>[#021] Diary\_ConneR\_702\_07\_28
+## <a id="cos021"/>\[#021\] Diary\_ConneR\_702\_07\_28
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1085,7 +1085,7 @@ ConneR\_7020728
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos022"/>[#022] Mail\_Arc\_702\_07\_22
+## <a id="cos022"/>\[#022\] Mail\_Arc\_702\_07\_22
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1105,7 +1105,7 @@ H.H
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos023"/>[#023] Audio\_Arc\_702\_08\_26
+## <a id="cos023"/>\[#023\] Audio\_Arc\_702\_08\_26
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1180,11 +1180,11 @@ Indeed. "Conditions", "Rules", "Protocols". Having such arrogant limitations on 
 Pardon me, I've strayed a bit too far. All in all, I'm not the "mastermind" behind Library's connection errors. On a side note, I'm not the "Anonymous" who has been sending you mail either.<br>
 Instead of wasting time on an old man like me, there are more important matters that you should be dealing with, Mr. Simon Jackson. 
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos024"/>[#024] Diary\_ConneR\_702\_08\_26
+## <a id="cos024"/>\[#024\] Diary\_ConneR\_702\_08\_26
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1200,7 +1200,7 @@ ConneR 7020826
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos025"/>[#025] Audio\_Arc\_702\_08\_12
+## <a id="cos025"/>\[#025\] Audio\_Arc\_702\_08\_12
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1250,11 +1250,11 @@ Glad to hear that. Hope you guys can find the person behind all this soon.
 **Mark**<br>
 Thank you for your cooperation. 
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos026"/>[#026] Mail\_Arc\_702\_08\_20
+## <a id="cos026"/>\[#026\] Mail\_Arc\_702\_08\_20
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1278,7 +1278,7 @@ The entire SkyEkho team
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos027"/>[#027] Audio\_Arc\_702\_08\_07
+## <a id="cos027"/>\[#027\] Audio\_Arc\_702\_08\_07
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1365,11 +1365,11 @@ You can also bring your data with you there while you're at it.
 **ConneR**<br>
 Thank you so much. I really appreciate your help.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos028"/>[#028] Audio\_Arc\_702\_08\_08
+## <a id="cos028"/>\[#028\] Audio\_Arc\_702\_08\_08
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1385,7 +1385,7 @@ In the restricted zone maybe? Go down the hallway 'til you reach the end, then t
 **ConneR**<br>
 Understood. Thank you for the assistance. 
 
-*\[»»» Fast Forward »»»\]*
+_\[»»» Fast Forward »»»\]_
 
 *\[Electronic Door\]*
 
@@ -1423,7 +1423,7 @@ Don't worry. Take your time.
 ... Got a problem?
 
 **Rin**<br>
-*\*Almost crying\**  J, just another minute. I'm this close to finding it...
+_\*Almost crying\*_  J, just another minute. I'm this close to finding it...
 
 **ConneR**<br>
 Um, the file that is on your left screen should be the one I'm looking for.
@@ -1504,20 +1504,20 @@ U, Understood. I'll try my best!
 
 *\[Electronic Door\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos029"/>[#029] Audio\_Arc\_702\_08\_11
+## <a id="cos029"/>\[#029\] Audio\_Arc\_702\_08\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 22  |
 
 ### Log Content
-*\[Recording from wiretapped watch begins\]*
+_\[Recording from wiretapped watch begins\]_
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Sagar**<br>
 Frequency 107.83, Captain Sagar. Please identify yourself.
@@ -1643,16 +1643,16 @@ Remember to contact me if something happens with Doc's request; don't take any a
 **Rin**<br>
 OK, I get it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 **Rin**<br>
 ... I'll be waiting for you.
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos030"/>[#030] Audio\_Arc\_702\_08\_17
+## <a id="cos030"/>\[#030\] Audio\_Arc\_702\_08\_17
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1786,11 +1786,11 @@ OK. Bye\-bye.
 
 *\[Electronic Door\]*
 
-*\[Replay Ends\]*
+_\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos031"/>[#031] Diary\_ConneR\_702\_08\_28
+## <a id="cos031"/>\[#031\] Diary\_ConneR\_702\_08\_28
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1804,7 +1804,7 @@ ConneR 7020828
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos032"/>[#032] Log\_702\_08\_08\_12
+## <a id="cos032"/>\[#032\] Log\_702\_08\_08\_12
 ### Requirements
 |  Character  |Level|
 |-------------|:---:|
@@ -1844,7 +1844,7 @@ Report Saved Time: 702\_0810\_1745
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos033"/>[#033] Cam\_Arc\_702\_09\_21
+## <a id="cos033"/>\[#033\] Cam\_Arc\_702\_09\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1870,7 +1870,7 @@ About Æsir, I presume?
 *\[Drinks Tea\]*
 
 **ConneR**<br>
-*\*Chuckles\** Young man, you have to be more conscious of your words. You spill your secrets too easily.
+_\*Chuckles\*_ Young man, you have to be more conscious of your words. You spill your secrets too easily.
 
 **Xenon**<br>
 ......
@@ -1928,7 +1928,7 @@ What a shame... do you realize how precious still\-operational Architects are? M
 ... However, it seems that it was already on the verge of falling apart before we attacked it. Its actions are really weird too. My guess is that it's a puppet of Æsir, yet I have no idea how he got his hands on this stuff.
 
 **ConneR**<br>
-*\*Chuckles\** Young man, if there's a will, there's a way. A.R.C. is not the only one capable of retrieving resources from the Ruins. Many so\-called "Gravediggers" like myself are still very much alive and well out there. Of course, I will not tell you any names.
+_\*Chuckles\*_ Young man, if there's a will, there's a way. A.R.C. is not the only one capable of retrieving resources from the Ruins. Many so\-called "Gravediggers" like myself are still very much alive and well out there. Of course, I will not tell you any names.
 
 **Xenon**<br>
 ... Whatever. I presume that you've come in contact with them before? The Architects, I mean.
@@ -1969,11 +1969,11 @@ Your bail is granted under my application. If you do anything remotely suspiciou
 **ConneR**<br>
 Yes\~, Yes\~, I get that.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos034"/>[#034] Audio\_Factory3\_702\_09\_21\_1
+## <a id="cos034"/>\[#034\] Audio\_Factory3\_702\_09\_21\_1
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -1994,7 +1994,7 @@ We were only able to reach here by following the coordinates... Hey, stop wander
 **ConneR**<br>
 Yes Sir\~
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Walking Down The Stairs\]*
 
@@ -2061,12 +2061,12 @@ Use your A.I. It should be able to rewind any electronic trace that once existed
 I can try... However, it functions by connecting to cyTus. The signal here is not very good, so I don't know how effective it is going to be.
 
 **[Xenon A.I.]**<br>
-*Rewind Starts*
+_Rewind Starts_
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Xenon A.I.]**<br>
-*Rewind Complete*
+_Rewind Complete_
 
 **Xenon**<br>
 ... No good. All it got was signal fragments, nothing noteworthy.
@@ -2098,11 +2098,11 @@ Ohhhh\~ Scary\~
 **Xenon**<br>
 ... Let's talk about this outside.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos035"/>[#035] Audio\_Factory3\_702\_09\_21\_2
+## <a id="cos035"/>\[#035\] Audio\_Factory3\_702\_09\_21\_2
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2122,7 +2122,7 @@ Ooh, still speaking up for them? Didn't expect you to be on their side.
 The only side I'm on is my own.
 
 **ConneR**<br>
-*\*Chuckles\** I can guarantee you that it'll do you no harm if you just lean a bit towards my side. Of course, that's under the premise that you're smart enough... All in all, we had quite the pleasant experience collaborating this time, didn't we?
+_\*Chuckles\*_ I can guarantee you that it'll do you no harm if you just lean a bit towards my side. Of course, that's under the premise that you're smart enough... All in all, we had quite the pleasant experience collaborating this time, didn't we?
 
 **Xenon**<br>
 Don't be full of yourself. I was only borrowing your expertise to help us solve this case. I have absolutely no intention to acknowledge you.
@@ -2135,7 +2135,7 @@ Don't try to change the topic.<br>
 Speak. You believe that the people within A.R.C. are the ones who directed the entire Æsir event?
 
 **ConneR**<br>
-*\*Chuckles\** Didn't I just say? That random nonsense was made up just so I can get an amusing reaction out of those monkeys.<br>
+_\*Chuckles\*_ Didn't I just say? That random nonsense was made up just so I can get an amusing reaction out of those monkeys.<br>
 There is not a single person within A.R.C. who has the ability to direct such a major incident.<br>
 If we were to include those outside of A.R.C.... To my knowledge, there's just one person who might be able to pull this off, and even that is a bit of a stretch.
 
@@ -2149,7 +2149,7 @@ The legendary hacker "X". I believe that name still rings a bell to you? He does
 ......!
 
 **ConneR**<br>
-*\*Chuckles\** I told you that I know you a lot better than you think.<br>
+_\*Chuckles\*_ I told you that I know you a lot better than you think.<br>
 However, I also believe that you're someone who is only on "your own" side. If that's the case, I can't figure out what your motivation is right now... <br>
 Besides, I am fairly certain that you're not someone who's so foolish to the point that you would ask me to help investigate a case where you yourself is the perpetrator. That doesn't make any sense either.
 
@@ -2169,7 +2169,7 @@ What do you think I mean?
 I am not here to play games with you. If you know anything, you better start talking or I'm going to flip the switch.
 
 **ConneR**<br>
-*\*Chuckles\** Calm down, boy\~ Although I'm not 100% certain... A while ago, the Library experienced a data overload that lasted for quite some time. Don't you find that incident to be particularly suspicious?
+_\*Chuckles\*_ Calm down, boy\~ Although I'm not 100% certain... A while ago, the Library experienced a data overload that lasted for quite some time. Don't you find that incident to be particularly suspicious?
 
 **Xenon**<br>
 ......!
@@ -2205,7 +2205,7 @@ No, we don't need a connection. What if we bypass the company's security system 
 Can't do.
 
 **ConneR**<br>
-*\*Chuckles\** If we are talking about Simon Jackson, then of course you can't; but what about "X"?
+_\*Chuckles\*_ If we are talking about Simon Jackson, then of course you can't; but what about "X"?
 
 **Xenon**<br>
 ......
@@ -2217,11 +2217,11 @@ Looks like I have no business here anymore. May I go back?
 **Xenon**<br>
 ... I'll make sure everything is okay.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos036"/>[#036] Mail\_Grace\_702\_10\_22
+## <a id="cos036"/>\[#036\] Mail\_Grace\_702\_10\_22
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2241,7 +2241,7 @@ Grace
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos037"/>[#037] Cam\_Home\_702\_10\_23
+## <a id="cos037"/>\[#037\] Cam\_Home\_702\_10\_23
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2287,10 +2287,10 @@ You'll have to wait for me here for a while.
 **Sagar**<br>
 Of course.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Grace**<br>
-Master...! *\*Cries\**...
+Master...! _\*Cries\*_...
 
 **ConneR**<br>
 Don't cry, Grace...<br>
@@ -2315,7 +2315,7 @@ Yes, that's why I was a little hopeful that maybe Sir recovered... However, when
 !?
 
 **Grace**<br>
-Sir's expression... it's like he lost his mind. He was agitated with white foam coming out of his mouth... I was utterly shocked; I even forgot to stop Sir. I just stood there and watched as Sir carved up the entire wallpaper... I... *\*Cries\**...
+Sir's expression... it's like he lost his mind. He was agitated with white foam coming out of his mouth... I was utterly shocked; I even forgot to stop Sir. I just stood there and watched as Sir carved up the entire wallpaper... I... _\*Cries\*_...
 
 **ConneR**<br>
 It's not your fault, Grace... What happens next?
@@ -2328,7 +2328,7 @@ Afterward... Sir stopped, and he looked at me...<br>
 ......!
 
 **Grace**<br>
-*\*Sobs\**... I don't know how many years it has been since I last heard those words... "Grace, it's you"...<br>
+_\*Sobs\*_... I don't know how many years it has been since I last heard those words... "Grace, it's you"...<br>
 Just as I regain my senses to answer... Sir... he just...
 
 **ConneR**<br>
@@ -2373,11 +2373,11 @@ Father... If you haven't gone completely insane... then you truly left me someth
 
 ![cos3701.png](./attachments/cos3701.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos038"/>[#038] Audio\_Arc\_702\_11\_02
+## <a id="cos038"/>\[#038\] Audio\_Arc\_702\_11\_02
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2396,7 +2396,7 @@ Apologies for the interruption. Doctor...?
 ......?
 
 **[TV]**<br>
-*... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. *
+_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. _
 
 **Sagar**<br>
 This is... the Æsir incident? Heard about it a while ago. It seems like it's a pretty serious issue...
@@ -2468,36 +2468,36 @@ I shall not bother you any longer. I'll go finish the procedure first.
 ... Resume call.
 
 **[System]**<br>
-*Encrypted call reconnected. Resume in three seconds...... 2...... 1...... Call resumed.*
+_Encrypted call reconnected. Resume in three seconds...... 2...... 1...... Call resumed._
 
 **ConneR**<br>
 Sorry about the long wait.<br>
 Like I just mentioned, I want information on the Æsir incident... as well as info about the arrest of that unlucky boy. The more detailed, the better.
 
 **[???]**<br>
-*Simon Jackson... is it?*
+_Simon Jackson... is it?_
 
 **ConneR**<br>
 Rest assured. I am not related in any manner to said incident. I've been your customer for more than a dozen years. I believe I'm quite trustworthy, right?
 
 **[???]**<br>
-*...... Understood. What are your chips?*
+_...... Understood. What are your chips?_
 
 **ConneR**<br>
 Haha, the things I can provide, you should know them very well.
 
 **[???]**<br>
-*Just a usual question to make sure, Mr. R.<br>
-I will find a seller for you. You will receive what you requested very soon. I'll make sure of that.*
+_Just a usual question to make sure, Mr. R.<br>
+I will find a seller for you. You will receive what you requested very soon. I'll make sure of that._
 
 **ConneR**<br>
 I'll let you handle this, successor. As with this Martini, put it on the tab for now.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos039"/>[#039] Diary\_ConneR\_702\_11\_04
+## <a id="cos039"/>\[#039\] Diary\_ConneR\_702\_11\_04
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2511,7 +2511,7 @@ ConneR 7021104
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos040"/>[#040] Cam\_CArea\_702\_11\_08
+## <a id="cos040"/>\[#040\] Cam\_CArea\_702\_11\_08
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2529,7 +2529,7 @@ Trespassers in area C, the underground passages. Send additional agents and dron
 **Xenon**<br>
 ......?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Knock\]*
 
@@ -2644,7 +2644,7 @@ Ah, right. Seems like we got a signal. Please give me a minute.
 This is R. Woah, looks like it's quite the spectacle on your side of things.
 
 **[Cherry]**<br>
-*You bastard! How dare you trick me! Where the f\*\*\* am I at right now!?*
+_You bastard! How dare you trick me! Where the f\*\*\* am I at right now!?_
 
 **ConneR**<br>
 No need to worry. I've already opened Simon's cell door. However, it seems like he doesn't really want to come out.
@@ -2653,7 +2653,7 @@ No need to worry. I've already opened Simon's cell door. However, it seems like 
 Sherry!? What are you doing here?
 
 **[Cherry]**<br>
-*……！*
+_……！_
 
 **ConneR**<br>
 As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
@@ -2666,11 +2666,11 @@ Feels like your dear friends are in a pretty serious pinch. Allow me to take my 
 **Xenon**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos041"/>[#041] Audio\_Port33\_702\_11\_10
+## <a id="cos041"/>\[#041\] Audio\_Port33\_702\_11\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2732,11 +2732,11 @@ What about you?
 **ConneR**<br>
 I'll figure out a way to sneak into Node 13 from there. I'm currently a criminal after all.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos042"/>[#042] Cam\_Port33\_702\_11\_10
+## <a id="cos042"/>\[#042\] Cam\_Port33\_702\_11\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2809,7 +2809,7 @@ That was until my father took over the family. He became deeply engrossed in the
 Used to be an elite member of the exploration team, until a mission accident that resulted in the death of his entire team. After returning from that mission, he was declared mentally ill and... Ah, sorry. He passed away not too long ago, right? My sincere condolences.
 
 **ConneR**<br>
-It's alright. Mentally ill, eh...? Perhaps that is the case. After that incident, my relationship with him has never been a good one, all the way until the day of his death. At one point, I even detested him. *\*Chuckles\**
+It's alright. Mentally ill, eh...? Perhaps that is the case. After that incident, my relationship with him has never been a good one, all the way until the day of his death. At one point, I even detested him. _\*Chuckles\*_
 
 **Xenon**<br>
 ......
@@ -2818,7 +2818,7 @@ It's alright. Mentally ill, eh...? Perhaps that is the case. After that incident
 Nevertheless, from those messy researches and relics of his, I was able to figure out some clues. At the very least, I am certain that he is definitely not mentally ill.<br>
 In order for you to better understand this, let me tell you about his story. That "truth" that has been ingrained in his vision and passed down to me...
 
-*\[»»» Fast Forward 15 minutes»»»\]*
+_\[»»» Fast Forward 15 minutes»»»\]_
 
 **Xenon**<br>
 ......!
@@ -2842,7 +2842,7 @@ What a paranoid... Indeed, lying is one of my specialties. However, before you c
 ... "Guys"?
 
 **ConneR**<br>
-*\*Chuckles\** Your conversation with Miss Pauline just now, I heard it all.<br>
+_\*Chuckles\*_ Your conversation with Miss Pauline just now, I heard it all.<br>
 "Partners" eh....? How interesting.
 
 **Xenon**<br>
@@ -2872,11 +2872,11 @@ Apologies, I tend to do that unintentionally when I'm interacting with you. Afte
 **Xenon**<br>
 ......?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos043"/>[#043] Audio\_Cafe\_690\_03\_16
+## <a id="cos043"/>\[#043\] Audio\_Cafe\_690\_03\_16
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2922,11 +2922,11 @@ Young lad! Accompany her downstairs and help treat her wounds. I'll take care of
 **ConneR**<br>
 Ah! ... Got it!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos044"/>[#044] Cam\_Base\_690\_03\_16
+## <a id="cos044"/>\[#044\] Cam\_Base\_690\_03\_16
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -2966,7 +2966,7 @@ Yep... I thought things were going smoothly. Was a really well\-concealed transa
 Umm... if it's from this distance... Yeah, it's a first.
 
 **???**<br>
-*\*Chuckles\**. If you want to survive in this business, you better be careful yourself too. Maybe one day this hole will be on you instead.
+_\*Chuckles\*_. If you want to survive in this business, you better be careful yourself too. Maybe one day this hole will be on you instead.
 
 **ConneR**<br>
 Eh...? No, I'm just a normal civilian...
@@ -3099,11 +3099,11 @@ I look forward to our partnership. Let's start from zero... Partners?
 **ConneR**<br>
 ... Partners.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos045"/>[#045] Audio\_Sasha\_690\_03\_17
+## <a id="cos045"/>\[#045\] Audio\_Sasha\_690\_03\_17
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3235,11 +3235,11 @@ No... that's not what I meant. Don't mind me. Shark... I think I'll just keep ca
 **Sasha**<br>
 Whatever you prefer.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos046"/>[#046] Audio\_Home\_676\_04\_08
+## <a id="cos046"/>\[#046\] Audio\_Home\_676\_04\_08
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3281,7 +3281,7 @@ Yes. I won't commit the same mistake again, father.
 **ConneR**<br>
 I'll go right away!
 
-*\[»»» Fast Forward 2 hours»»»\]*
+_\[»»» Fast Forward 2 hours»»»\]_
 
 **ConneR**<br>
 Father, mother, good morning.
@@ -3293,7 +3293,7 @@ You must be hungry, right? Here's your breakfast.
 Yes, mother... Ah, thank you, Grace! It looks delicious!
 
 **Grace**<br>
-*\*Chuckles\** I'm flattered. Enjoy your meal, young master.<br>
+_\*Chuckles\*_ I'm flattered. Enjoy your meal, young master.<br>
 Sir, Madam, do you want some more tea?
 
 **Colin**<br>
@@ -3385,114 +3385,114 @@ Colin Neumann Jr. The person who inherited my name will definitely not stop here
 **Colin**<br>
 He is my hope... I earnestly look forward to the arrival of that day.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **ConneR**<br>
 ... I will, father.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos047"/>[#047] Audio\_St166\_690\_3\_23
+## <a id="cos047"/>\[#047\] Audio\_St166\_690\_3\_23
 ### Requirements
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 36  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **[Sasha]**<br>
-*R? Check your account.*
+_R? Check your account._
 
 **ConneR**<br>
 ......!? So much money...
 
 **[Sasha]**<br>
-*I let X think that I'm someone from the Administration Bureau. He's willing to cooperate with me.*
+_I let X think that I'm someone from the Administration Bureau. He's willing to cooperate with me._
 
 **ConneR**<br>
 ......
 
 **[Sasha]**<br>
-*In short, I'll skip straight to the conclusion. After the first batch of data was decrypted, I immediately found a buyer. Spent some time talking to squeeze more cash out of him. What you see is your share, 50/50 between us. *
+_In short, I'll skip straight to the conclusion. After the first batch of data was decrypted, I immediately found a buyer. Spent some time talking to squeeze more cash out of him. What you see is your share, 50/50 between us. _
 
 **ConneR**<br>
 It's much, much more than I ever imagined. Thank you. You have my sincere gratitude.
 
 **[Sasha]**<br>
-*Aren't you curious about the content of the data?*
+_Aren't you curious about the content of the data?_
 
 **ConneR**<br>
 Oh, right. What's inside?
 
 **[Sasha]**<br>
-*Detailed personal information of Node 08 citizens.*
+_Detailed personal information of Node 08 citizens._
 
 **ConneR**<br>
 Only personal information?
 
 **[Sasha]**<br>
-*No, not just civilians with regular identities. So far, we've seen personal information of the Administration Bureau's law enforcement agents, both in\-service and retired ones. There's also info on people in the organization. On top of that, it even has info that has already been deleted from the civilian database. *
+_No, not just civilians with regular identities. So far, we've seen personal information of the Administration Bureau's law enforcement agents, both in\-service and retired ones. There's also info on people in the organization. On top of that, it even has info that has already been deleted from the civilian database. _
 
 **ConneR**<br>
 ... I remember now. A.R.C. once helped the Administration Bureau recreated the identity recognition system. It recorded the ID of every civilian. A few years ago, when they updated the hardware equipment... I see. Back then, someone kept these data stored somewhere to one day profit from it. 
 
 **[Sasha]**<br>
-*Afraid so. I don't think this is the act of an entire company. Even so, judging by the scale of this plan, it's safe to assume that there was at least a group of people doing this behind the company's back. If that's the case, others who are trying to steal this data will certainly run into a lot of obstacles. Fortunately, we have you. *
+_Afraid so. I don't think this is the act of an entire company. Even so, judging by the scale of this plan, it's safe to assume that there was at least a group of people doing this behind the company's back. If that's the case, others who are trying to steal this data will certainly run into a lot of obstacles. Fortunately, we have you. _
 
 **ConneR**<br>
 I'm humbled. Sidenote, is the buyer this time someone from the organization?
 
 **[Sasha]**<br>
-*Yes, a family call Ando. I believe you've heard that name before. They want to use this data to find the snitches that have been placed within their organization by the admins. In other words, spies.*
+_Yes, a family call Ando. I believe you've heard that name before. They want to use this data to find the snitches that have been placed within their organization by the admins. In other words, spies._
 
 **ConneR**<br>
 ......
 
 **[Sasha]**<br>
-*All in all, we'll let them dig through the list. If the organization gets stronger, it's beneficial to information brokers like us too.<br>
-How are things going on your side?*
+_All in all, we'll let them dig through the list. If the organization gets stronger, it's beneficial to information brokers like us too.<br>
+How are things going on your side?_
 
 **ConneR**<br>
 Ah, I can perform the second download in a few days. I altered the logic of the program. I should be able to download even more data than I did last time.
 
 **[Sasha]**<br>
-*Good. Keep at it. If we can do this a couple more times, we'll both be a lot richer after the dust settles.*
+_Good. Keep at it. If we can do this a couple more times, we'll both be a lot richer after the dust settles._
 
 **ConneR**<br>
 Shark... Sasha, I'm thinking... In our next transaction, can we lock onto an organization call "Splice"? I think they are a sub\-org of the Baro gang.
 
 **[Sasha]**<br>
-*...? Is there something special to them?*
+_...? Is there something special to them?_
 
 **ConneR**<br>
 Some personal reasons. Besides getting their money, I also want to reduce their influences so things can be a bit easier for my future activities. If you can negotiate a good price with them, shoot me a message before the transaction. I have an idea.
 
 **[Sasha]**<br>
-*If I recall correctly, they're just a bunch of gravediggers, right? They don't have the technical capabilities of A.R.C., so they mostly just do boring antique trading. What's the point of picking a fight with an org like that?*
+_If I recall correctly, they're just a bunch of gravediggers, right? They don't have the technical capabilities of A.R.C., so they mostly just do boring antique trading. What's the point of picking a fight with an org like that?_
 
 **ConneR**<br>
 It's precisely because they only do boring antique trades... Excavation should be a much more meaningful activity, whether it's surface or underground. I just had enough of them occupying all the good spots and goofing around like monkeys.
 
 **[Sasha]**<br>
-*... You sound more and more like a pro in this business.*
+_... You sound more and more like a pro in this business._
 
 **ConneR**<br>
 Well, I have an excellent teacher after all.
 
 **[Sasha]**<br>
-*\*Chuckles\* Oh, spare me that stuff, you smartmouth. In short, I'll slightly alter the way we approach them to put you at a more advantageous position. Your plan sounds quite interesting, so count me in too, will ya?*
+_\*Chuckles\* Oh, spare me that stuff, you smartmouth. In short, I'll slightly alter the way we approach them to put you at a more advantageous position. Your plan sounds quite interesting, so count me in too, will ya?_
 
 **ConneR**<br>
 Of course, partner. Thanks.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos048"/>[#048] Audio\_Graveyard\_682\_06\_16
+## <a id="cos048"/>\[#048\] Audio\_Graveyard\_682\_06\_16
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3506,7 +3506,7 @@ Riya, I'm sorry...
 Never imagined that this would happen to Luka...
 
 **Riya**<br>
-Thank you... *\*Sobs\**...
+Thank you... _\*Sobs\*_...
 
 **Man A**<br>
 This really is too abrupt. He left behind you and your son just like this...
@@ -3573,12 +3573,12 @@ But still, not even coming to the funeral... Isn't that a bit odd? He did only s
 Hmm, that's a good point. Luka is his closest friend and greatest rival too...
 
 **Riya**<br>
-It's okay. He is definitely very sad too... *\*Sobs\**...
+It's okay. He is definitely very sad too... _\*Sobs\*_...
 
 **Raymond**<br>
 All in all, my sincere condolences, Riya... If there's anything you need, please contact me. The exploration team will try their absolute best to help.
 
-*\[»»» Fast Forward 5 minutes»»»\]*
+_\[»»» Fast Forward 5 minutes»»»\]_
 
 *\[Footsteps\]*
 
@@ -3592,7 +3592,7 @@ All in all, my sincere condolences, Riya... If there's anything you need, please
 Looks like you still recognize me... It's been years since I last saw you, yet you haven't grown one bit. Luka's so tall that my head can barely touch his shoulders.
 
 **Sagar**<br>
-*\*Sobs\**
+_\*Sobs\*_
 
 **Raymond**<br>
 ... Of all the tough men I know, your father was the one that most closely resembles a wolf. He's agile, powerful and has that spark of wild instinct in his eyes... Yet even a man like him ended up losing his life outside.<br>
@@ -3623,11 +3623,11 @@ Farewell... son of Luka.
 
 *\[Eagle Screech\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos049"/>[#049] Cam\_Sasha\_690\_06\_30
+## <a id="cos049"/>\[#049\] Cam\_Sasha\_690\_06\_30
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3656,7 +3656,7 @@ No... They didn't see my face. All the folks here know that I'm Colin's son. As 
 **Sasha**<br>
 Idiot! You got hit with their bullet. The moment they dug it out, your cover will be blown! Grab on to me! I won't let you die, and I won't let you get captured either!
 
-*\[««« Rewind 15 hours«««\]*
+_\[««« Rewind 15 hours«««\]_
 
 **Sasha**<br>
 Are you ready?
@@ -3721,7 +3721,7 @@ After all, Sasha never asked anything about my private life either. Naturally, a
 **Sasha**<br>
 ... Don't be full of yourself, rookie. Compare to me, you should worry about your own a\*\* first.
 
-*\[»»» Fast Forward 20 hours»»»\]*
+_\[»»» Fast Forward 20 hours»»»\]_
 
 **ConneR**<br>
 ......
@@ -3775,11 +3775,11 @@ You lost too much blood. Take a rest.
 **Sasha**<br>
 ... Thank you. You were really cool back there.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos050"/>[#050] Audio\_admins\_690\_07\_07
+## <a id="cos050"/>\[#050\] Audio\_admins\_690\_07\_07
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3912,11 +3912,11 @@ I'll leave it to you, Sasha.
 **Sasha**<br>
 Yes. Then I'll be taking my leave.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos051"/>[#051] Cam\_Hotel\_690\_07\_09
+## <a id="cos051"/>\[#051\] Cam\_Hotel\_690\_07\_09
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -3927,7 +3927,7 @@ Yes. Then I'll be taking my leave.
 Not everyone can score a reservation at this restaurant, so enjoy yourself.
 
 **ConneR**<br>
-*\*Chuckles\** What's with all this? I didn't expect you to ask me out in private for something that's not related to the operation. Safe to say I'm quite surprised.
+_\*Chuckles\*_ What's with all this? I didn't expect you to ask me out in private for something that's not related to the operation. Safe to say I'm quite surprised.
 
 **Sasha**<br>
 I'm also quite surprised myself... the fact that you're willing to let me treat you. As a young master of a noble family, I thought you'de be against the idea of a female treating you.
@@ -3942,7 +3942,7 @@ Here, order anything you want. I trust your taste in food.
 **ConneR**<br>
 Then I shall proceed with my orders. Waiter, please...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Sasha**<br>
 This is delicious! I've been here so many times, yet I never thought of this combination. I expect no less from you.
@@ -3977,7 +3977,7 @@ Ho? For example?
 Although Sasha constantly mentioned that you grew up in a "s\*\*\*hole" environment, your table manners are uncharacteristically on point, not something that can be achieved with just a night of practice.  Many details and small habits feel very natural, like you've learned them since childhood. In some instances, your manners are even more on\-point than mine.
 
 **Sasha**<br>
-*\*Chuckles\**... You're truly... truly an interesting guy. Maybe you're right? Maybe you're not? Maybe everything I told you was a total lie. If I don't do that, how am I going to fool other people?
+_\*Chuckles\*_... You're truly... truly an interesting guy. Maybe you're right? Maybe you're not? Maybe everything I told you was a total lie. If I don't do that, how am I going to fool other people?
 
 **ConneR**<br>
 Haha, you have a point. However, I've spent my whole life figuring out other people's lies and truths, and I'm already tired of it. At the very least, I really like who you are right now. That's a truth for me.
@@ -3985,7 +3985,7 @@ Haha, you have a point. However, I've spent my whole life figuring out other peo
 **Sasha**<br>
 Fufufu... you drank too much.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **ConneR**<br>
 Ugh... cough cough...
@@ -4023,7 +4023,7 @@ Ah...! I'm so sorry! What the hell is wrong with me... Please forget it. I'm dru
 
 ![cos5101.png](./attachments/cos5101.png)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **ConneR**<br>
 ... Can't fall asleep?
@@ -4077,11 +4077,11 @@ What's the matter?
 **Sasha**<br>
 ... Nothing. After all, this is a s\*\*\*hole world where justice doesn't exist anywhere... We can only do what we each believe is the right thing to do.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos052"/>[#052] Audio\_Home\_683\_07\_09
+## <a id="cos052"/>\[#052\] Audio\_Home\_683\_07\_09
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4153,7 +4153,7 @@ You should understand, right? The dignified and prideful Colin has already disap
 Mother... I...
 
 **Alyxia**<br>
-I know... I also hope he can recover and return to his previous self again. In my mind, he is still my husband... but for the past year, I feel like... I just can't take it anymore... *\*Sobs\**...
+I know... I also hope he can recover and return to his previous self again. In my mind, he is still my husband... but for the past year, I feel like... I just can't take it anymore... _\*Sobs\*_...
 
 **ConneR**<br>
 ......
@@ -4186,7 +4186,7 @@ Then what about you?
 I'll continue to work hard... No, work even harder than I did before. I'll let father know, that I achieved his expectations for me. Then, he'll wake up from his nightmare too. We can finally get together as a family again.
 
 **Alyxia**<br>
-*... \*Sobs\*...*
+_... \*Sobs\*..._
 
 **ConneR**<br>
 Mother?
@@ -4226,11 +4226,11 @@ Alyxia! Grace! Get the f\*\*\* over here!
 **ConneR**<br>
 Father's... hope...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos053"/>[#053] Audio\_St199\_690\_07\_10
+## <a id="cos053"/>\[#053\] Audio\_St199\_690\_07\_10
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4246,7 +4246,7 @@ The female seller is an important witness. She has lots of vital information. Af
 **Agent B**<br>
 Yes, Captain!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Member A**<br>
 The goods?
@@ -4283,7 +4283,7 @@ F\*\*\*!? You sold us out...
 *\[Smoke bomb explodes\]*
 
 **Member B**<br>
-*\*cough\* \*cough\*!* Open fire! 
+_\*cough\* \*cough\*!_ Open fire! 
 
 *\[Gunshots\]*
 
@@ -4307,7 +4307,7 @@ Cuffs on. I'll take care of the 2nd floor.
 **Agent B**<br>
 Got it.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Sprinting\]*
 
@@ -4336,7 +4336,7 @@ Don't move!
 
 *\[Gunshots\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Sasha**<br>
 ... Cap... tain...
@@ -4354,7 +4354,7 @@ No... I...
 **Agent A**<br>
 Bill! Stop! Captain said we need her alive... She's hurt. Let's patch her up first. She definitely has valuable information on her.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Agent C**<br>
 Reporting back to Administration Bureau Headquarters. This is Squad 3. The transaction disruption was a success. We've arrested 6 criminals on site. 1 male criminal escaped. We suspect that he has the data. We're currently expanding the search area. We also couldn't track the hacker who decrpyted the data remotely. He cleaned his connection trails completely...
@@ -4363,7 +4363,7 @@ Reporting back to Administration Bureau Headquarters. This is Squad 3. The trans
 Captain... Captain Andrew Wood was shot during action. After emergency medical assistance was issused, no signs of life detected...
 
 **[Bureau Staff]**<br>
-*...Understood, bring all the criminals in. Bring the Squad home.*
+_...Understood, bring all the criminals in. Bring the Squad home._
 
 **Sasha**<br>
 Wait! I... I'm...
@@ -4409,11 +4409,11 @@ You don't want to talk? So you're with them after all? We'll have a lot more tim
 **Sasha**<br>
 Argh!!!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos054"/>[#054] Multi\_Files\_686\_12\_23
+## <a id="cos054"/>\[#054\] Multi\_Files\_686\_12\_23
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4421,7 +4421,7 @@ Argh!!!
 
 ### Log Content
 **[Tutorial System]**<br>
-*Year J model student representative Zoe Watson, please come to the stage for your speech.*
+_Year J model student representative Zoe Watson, please come to the stage for your speech._
 
 *\[Applause\]*
 
@@ -4436,7 +4436,7 @@ Another year has passed. I am extremely blessed to be given the honor to delieve
 
 ![cos5401.png](./attachments/cos5401.png)
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Student A**<br>
 Zoe is so amazing. Every year her speech is so touching. I expect no less from "Miss Academy"!
@@ -4474,7 +4474,7 @@ Haha, it's not like we won't ever see each other. It's my dream, even though it'
 **Student B**<br>
 Do it! You have all of our blessings!
 
-*\[→File Switches: 687\_03\_25\]*
+_\[→File Switches: 687\_03\_25\]_
 
 **Zoe**<br>
 Wahh!!
@@ -4491,9 +4491,9 @@ No sir! Sorry!
 Don't think your grades mean anything here. If you get last place here, you're getting flunked the hell out of here!
 
 **Zoe**<br>
-*\*heavy breathing\*.......!*
+_\*heavy breathing\*.......!_
 
-*\[→File Switches: 687\_12\_10\]*
+_\[→File Switches: 687\_12\_10\]_
 
 **Zoe**<br>
 Trainee S6870939, Zoe Watson reporting.
@@ -4530,7 +4530,7 @@ The current Administartion Bureau... Let's just say there's a lot of red tape in
 **Zoe**<br>
 "Infiltration Plan"...?
 
-*\[→File Switches: 689\_08\_06\]*
+_\[→File Switches: 689\_08\_06\]_
 
 **Zoe**<br>
 Coral! Get up! Get up!
@@ -4564,11 +4564,11 @@ To go f\*\*\* himself...
 **Zoe**<br>
 Coral！！
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos055"/>[#055] Audio\_Truck\_690\_07\_11
+## <a id="cos055"/>\[#055\] Audio\_Truck\_690\_07\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4647,7 +4647,7 @@ This is your deleted Law Enforcement Agent profile, right? Zoe Watson.
 So you knew my identity all along... Do you know me?
 
 **ConneR**<br>
-*\*Chuckles\**  Know isn't exactly the right word. We're merely students of the same graduation class. You left to study at the Law Enforcement Academy. When I read through these profiles, I noticed your name right away, which is how I learned of your identity.
+_\*Chuckles\*_  Know isn't exactly the right word. We're merely students of the same graduation class. You left to study at the Law Enforcement Academy. When I read through these profiles, I noticed your name right away, which is how I learned of your identity.
 
 **Sasha**<br>
 ... You used me and the Administration Bureau to get huge amounts of resources and money. All the data is in your hands. The people from the organization and Bureau were all played by you like a fiddle. Both seriously injured as a result...
@@ -4715,11 +4715,11 @@ But I guess I'm not as rational as I consider myself to be. After spending some 
 **ConneR**<br>
 It was when we were both students...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos056"/>[#056] Multi\_Files\_686\_12\_21
+## <a id="cos056"/>\[#056\] Multi\_Files\_686\_12\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4767,7 +4767,7 @@ Certainly!<br>
 ... Master, thank you so much.
 
 **ConneR**<br>
-...* \*Chuckles\** What's the matter? Why this all of a sudden...
+..._ \*Chuckles\*_ What's the matter? Why this all of a sudden...
 
 **Grace**<br>
 Thank you for not giving up on Sir and this home... and me.
@@ -4791,13 +4791,13 @@ Useless! All of them are a bunch of useless hacks!
 **ConneR**<br>
 What exactly... am I doing all this for...?
 
-*\[→File Switches\]*
+_\[→File Switches\]_
 
 **[Tutorial System]**<br>
-*687, Year J, first exam final score ranking announcement:<br>
+_687, Year J, first exam final score ranking announcement:<br>
 1st place, Year J Class 1 \- Zoe Watson<br>
 2nd place, Year J Class 3 \- Colin Neumann Jr.<br>
-3rd place...*
+3rd place..._
 
 **ConneR**<br>
 Her again... Damnit, why am I always losing to her...
@@ -4811,10 +4811,10 @@ As expected, first place belongs to "Miss Academy" again.
 **ConneR**<br>
 Whatever, what's the point of me working so hard... This is stupid...
 
-*\[→File Switches\]*
+_\[→File Switches\]_
 
 **[Tutorial System]**<br>
-*Year J model student representative Zoe Watson, please come to the stage for your speech.*
+_Year J model student representative Zoe Watson, please come to the stage for your speech._
 
 *\[Applause\]*
 
@@ -4829,12 +4829,12 @@ Another year has passed. I am extremely blessed to be given the honor to delieve
 **ConneR**<br>
 ... Beautiful.
 
-*\[→File Switches\]*
+_\[→File Switches\]_
 
 **[Tutorial System]**<br>
-*688, Year K, first exam final score ranking announcement:<br>
+_688, Year K, first exam final score ranking announcement:<br>
 1st place, Year K Class 1 \-  Colin Neumann Jr.<br>
-2nd place......*
+2nd place......_
 
 **Student A**<br>
 Oh, so that eternal 1st place finally gave up her spot... Who is this guy?
@@ -4845,11 +4845,11 @@ Well, she suspended her studies. I heard that when she's still here, no one can 
 **ConneR**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos057"/>[#057] Audio\_Truck\_690\_07\_11
+## <a id="cos057"/>\[#057\] Audio\_Truck\_690\_07\_11
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -4947,34 +4947,34 @@ The justice and peace I dream about are nowhere to be seen.
 **ConneR**<br>
 "Deserted" and "Desolate" are words created to describe that place.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos058"/>[#058] Audio\_Garion's\_702\_11\_20
+## <a id="cos058"/>\[#058\] Audio\_Garion's\_702\_11\_20
 ### Requirements
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 42  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **[Xenon]**<br>
-*Hello?*
+_Hello?_
 
 **ConneR**<br>
 Mr. Jackson? I thought I called Miss Pauline's number.
 
 **[Xenon]**<br>
-*So what? Any progress with the investigation?*
+_So what? Any progress with the investigation?_
 
 **ConneR**<br>
 Ooh, such a hostile attitude. Should I remind you who kept you two alive for an entire week not too long ago?
 
 **[Xenon]**<br>
-*Okay okay\~ Thanks\~<br>
-You told me not to actively connect back to investigate the Æsir incident. That's why I'm waiting here in 03 like an idiot. If we don't get going soon...*
+_Okay okay\~ Thanks\~<br>
+You told me not to actively connect back to investigate the Æsir incident. That's why I'm waiting here in 03 like an idiot. If we don't get going soon..._
 
 **ConneR**<br>
 No need to rush. I just arrived in Node 13 not too long ago. It's quite difficult to find a place with a powerful enough signal here. It's definitely a lot more difficult than walking into a bar and ordering pork knuckles with a light beer, that much I can say for sure.
@@ -4982,13 +4982,13 @@ No need to rush. I just arrived in Node 13 not too long ago. It's quite difficul
 *\[Drinks wine\]*
 
 **[Xenon]**<br>
-*... And this is your investigation? Stop messing around. Now's not the time for you to be causally sightseeing.*
+_... And this is your investigation? Stop messing around. Now's not the time for you to be causally sightseeing._
 
 **ConneR**<br>
 I'm kidding. I still have to eat. Can't do anything with an empty stomach, right?
 
 **[Xenon]**<br>
-*... I'm hanging up.*
+_... I'm hanging up._
 
 *\[Drinks wine\]*
 
@@ -4997,72 +4997,72 @@ Haha, quite hot\-blooded, aren't you?<br>
 Like I just said, I'm preparing to do some historical investigations and finish some research that was left unfinished from my previous stay here. My goal is to verify my speculations. This requires time, luck, preparation, and a little adventure.
 
 **[Xenon]**<br>
-*Don't forget about your right arm and right eye. The Exploration Team won't just happen to pass by there to save you every time.*
+_Don't forget about your right arm and right eye. The Exploration Team won't just happen to pass by there to save you every time._
 
 **ConneR**<br>
 Thank you for being concerned about little old me, but no worries. I've always been pretty lucky.
 
 **[Xenon]**<br>
-*I'm concerned about the information you can provide. If you don't get any results on your side, we can't continue on our side, right?*
+_I'm concerned about the information you can provide. If you don't get any results on your side, we can't continue on our side, right?_
 
 **ConneR**<br>
-*\*Chuckles\** Rest assured. After the time I spent together with you guys, I've understood the importance of teamwork. I won't be a lone wolf and do everything by myself this time. Perhaps I'll find myself a trusty partner.
+_\*Chuckles\*_ Rest assured. After the time I spent together with you guys, I've understood the importance of teamwork. I won't be a lone wolf and do everything by myself this time. Perhaps I'll find myself a trusty partner.
 
 **[Xenon]**<br>
-*Whatever you do. All in all, you better hurry.*
+_Whatever you do. All in all, you better hurry._
 
 **ConneR**<br>
 I know. About the next mission for you two to do in 03...
 
 **[Xenon]**<br>
-*"The Eye of Horus", right? I did a quick investigation according to the hints you provided. Such a person does indeed exist. This person has the ability to access digital information in the internet space, including ancient files that no one knows about anymore.*
+_"The Eye of Horus", right? I did a quick investigation according to the hints you provided. Such a person does indeed exist. This person has the ability to access digital information in the internet space, including ancient files that no one knows about anymore._
 
 **ConneR**<br>
 ... Now that's quite surprising. You already knew about this?
 
 **[Xenon]**<br>
-*This is all the info I can get. In 03, this seems to be a very well\-known urban legend among members of the underground society.<br>
-Even though we can't confirm the authenticity of this... does someone like this really exist? It doesn't sound scientific at all.*
+_This is all the info I can get. In 03, this seems to be a very well\-known urban legend among members of the underground society.<br>
+Even though we can't confirm the authenticity of this... does someone like this really exist? It doesn't sound scientific at all._
 
 **ConneR**<br>
 Aren't the most interesting parts of science the ones we know nothing about? Known science is one of the most boring things in this world.
 
 **[Xenon]**<br>
-*………*
+_………_
 
 **ConneR**<br>
 Allow me to remind you once again. Your current situation is not a suitable one for you to conduct more investigations. Add to that the unstable nature of 03 and any careless action is a foolish one, not to mention something as idiotic as coming in direct contact with the gangs.
 
 **[Xenon]**<br>
-*Then do you have any advice, wilderness survival expert?*
+_Then do you have any advice, wilderness survival expert?_
 
 **ConneR**<br>
-*\*Chuckles\** I do. Listen carefully.<br>
+_\*Chuckles\*_ I do. Listen carefully.<br>
 "Wait for my next contact."
 
 **[Xenon]**<br>
-*………*
+_………_
 
 **ConneR**<br>
 My food order is coming. Apologies, Mr. Jackson, but I have to go now.
 
 **[Xenon]**<br>
-*Are you for real? You're not taking this seriously...*
+_Are you for real? You're not taking this seriously..._
 
 **ConneR**<br>
 Ah, one more thing.
 
 **[Xenon]**<br>
-*？*
+_？_
 
 **ConneR**<br>
 Your account got frozen, right? I'll send you one later. Feel free to use the money in there however you desire. With the garbage equipment you two have right now, I can't imagine that you'll be much of any help.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos059"/>[#059] Audio\_Garion's\_702\_11\_20
+## <a id="cos059"/>\[#059\] Audio\_Garion's\_702\_11\_20
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5087,7 +5087,7 @@ Mr. Neumann, the customer in booth no.5 would like to treat you to a Martini. Wo
 **ConneR**<br>
 ... Of course I would.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Waiter**<br>
 Excuse me, Sir. Your martini.
@@ -5106,16 +5106,16 @@ Three olives... Placing the memory unit under the glass, is it? You're still as 
 *\[Plays Message\]*
 
 **[???]**<br>
-*Quadrant III, 57th street, No. 16.*
+_Quadrant III, 57th street, No. 16._
 
 **ConneR**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos060"/>[#060] Audio\_13St57\_702\_11\_21
+## <a id="cos060"/>\[#060\] Audio\_13St57\_702\_11\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5138,9 +5138,9 @@ You... really have gotten old.
 And you're as beautiful as you always have been.
 
 **Sasha**<br>
-*\*Chuckles\** Thank you. Come on in.
+_\*Chuckles\*_ Thank you. Come on in.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **ConneR**<br>
 This is your home?
@@ -5192,11 +5192,11 @@ That depends on what the thing it is. I owe you a favor for the peaceful life I 
 All in all, hear me out first. I'll tell you the information I gathered and my speculations. I believe you'll definitely be interested.<br>
 First, your research regarding Node 13's regional dialect should be much thorough than mine, correct? There are some data I would like you to take a look at.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos061"/>[#061] Audio\_Sasha\_702\_11\_21
+## <a id="cos061"/>\[#061\] Audio\_Sasha\_702\_11\_21
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5237,7 +5237,7 @@ Father and Co.—— the incident encountered by the last generation of explorat
 Indeed, which is why I would like to get your take on this. After all, your instincts have always been much more on point than mine. I believe you.
 
 **Sasha**<br>
-*\*Chuckles\** Man, your every word... I'm having trouble determining whether you're praising me or teasing me.
+_\*Chuckles\*_ Man, your every word... I'm having trouble determining whether you're praising me or teasing me.
 
 **ConneR**<br>
 I say about half\-and\-half. So, any thoughts?
@@ -5333,7 +5333,7 @@ It will. Back then, father treated this research as his own secret treasure and 
 ... Is that so? Then don't hate me for accidentally getting you killed.
 
 **ConneR**<br>
-*\*Chuckles\** Didn't I say before?<br>
+_\*Chuckles\*_ Didn't I say before?<br>
 Dying at your hands... That's not too bad of an ending for me either.
 
 **Sasha**<br>
@@ -5347,15 +5347,15 @@ I've got to first make a trip back to my previous home——the mansion of my an
 How nostalgic, we're partners in crime again.
 
 **ConneR**<br>
-*\*Chuckles\** Partners.
+_\*Chuckles\*_ Partners.
 
 *\[High Five\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos062"/>[#062] Audio\_Sasha\_702\_12\_15
+## <a id="cos062"/>\[#062\] Audio\_Sasha\_702\_12\_15
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5390,7 +5390,7 @@ He fell asleep... Falling asleep while sitting on a chair, holding a violin... I
 It's the name I know you by. Please, let me call you that.
 
 **Sasha**<br>
-*\*Sigh\**... do as you wish. How about you take a quick break? You haven't slept in days.
+_\*Sigh\*_... do as you wish. How about you take a quick break? You haven't slept in days.
 
 **ConneR**<br>
 Can't... there are still two tests running. How's the progress with the document restoration?
@@ -5405,7 +5405,7 @@ I've already tested all the combinations in 70% of the documents. Still couldn't
 I can kind of understand what your father felt now.
 
 **ConneR**<br>
-*\*Chuckles\** Don't be silly. Unlike father, I'm not going to be defeated by this setback. Besides, he spent his entire life on this research. I figured it's very unlikely that we get any major breakthrough in just a few days.
+_\*Chuckles\*_ Don't be silly. Unlike father, I'm not going to be defeated by this setback. Besides, he spent his entire life on this research. I figured it's very unlikely that we get any major breakthrough in just a few days.
 
 **Sasha**<br>
 That being said, you certainly look very tired.
@@ -5479,7 +5479,7 @@ No, you did a great job. Thanks for the hard work. The secrets of history are ri
 Our first priority right now is still the content of the chip. Perhaps the answer lies within it...
 
 **[Operating System]**<br>
-*Analysis complete. Unable to read.*
+_Analysis complete. Unable to read._
 
 **ConneR**<br>
 Damn it... so even these last two sets don't work...?
@@ -5526,11 +5526,11 @@ Indeed. Therefore, will you be willing to accompany me?
 **Sasha**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos063"/>[#063] Audio\_Sasha\_702\_12\_16
+## <a id="cos063"/>\[#063\] Audio\_Sasha\_702\_12\_16
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5541,7 +5541,7 @@ Indeed. Therefore, will you be willing to accompany me?
 Do we really have to be in such a hurry? Perhaps there are other methods...
 
 **ConneR**<br>
-*\*Chuckles\** Did I not tell you about this? A.R.C. has already dispatched people to come and apprehend me. They've already gotten hold of my whereabouts too. Don't be surprised if they bust through the door any time now.
+_\*Chuckles\*_ Did I not tell you about this? A.R.C. has already dispatched people to come and apprehend me. They've already gotten hold of my whereabouts too. Don't be surprised if they bust through the door any time now.
 
 **Sasha**<br>
 ......!<br>
@@ -5579,7 +5579,7 @@ R!? I'll stop right...
 Don't stop! <br>
 I haven't......!?!?
 
-*\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]*
+_\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]_
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
 2501 w̨̡X҉̵͡͏͏R̵̕04, Unit4̶R͏̕҉̕͞X̷̕.
@@ -5593,7 +5593,7 @@ I haven't......!?!?
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 ......?
 
-*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
+_\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]_
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 Install... Are we not going to the main\\̡̡͟d̸̀̕͢͡\*̵͏̴̧͞\_̸̴͟͡k̸8҉̴̵́̕\_̴̕͝͞Ķ̷͝t̷́͟? Why isn't this done through a system announcement?
@@ -5604,7 +5604,7 @@ We've been observing you guys for more than a year. We determined that you twoq�
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 ... You guys?
 
-*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
+_\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]_
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 ......! This...... N̵̨̛v̕h͏̴̴̧w͏҉̴w͡͞?̡̀......
@@ -5612,7 +5612,7 @@ We've been observing you guys for more than a year. We determined that you twoq�
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 ......EEK! ...... No......NO!
 
-*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
+_\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]_
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
 How was it? 3̵́͘͝t̸̸͠͏͢\[̵̛͢t̛́X̷̷̡͝b́̀2̴comments?
@@ -5632,14 +5632,14 @@ She must(̴͟͟͢>̴͘͢͟͝?̸̛(̶̵̵ý̶͘͢{̸̕͝͡͝\$̶̀R̷̨͡͠T̴̸
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
 What a shame... Let her go.
 
-*\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]*
+_\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]_
 
 **̸͢?̶̨?̢?̶͏̨͏̨?҉̷̧?̸̷?͠͞?̵̨**<br>
 I'm sorry. Your name is Ivy, right? You can\*̸̨͢҉͏;͏̸̶́̀:̵̢͞Y̶̵̢͠l͏̸k̷̢̀̕͜a̢͜͠͝.
 
 ![cos6301.png](./attachments/cos6301.png)
 
-*\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]*
+_\[→Sign/̷̢̛҉2̧̧̛͢͡ź̴̷̵p̸͡͠2̧̧̛͢͡ź̴̷̵\]hes\]_
 
 **ConneR**<br>
 Huuuhhh! Ha! Ha... Ha...
@@ -5680,32 +5680,32 @@ Sorry, I got to do a quick investigation first...
 **Sasha**<br>
 ......?
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **[News Clip]**<br>
-*... Tower, a serious accident occurred. Due to a suspected mistake of the on\-site construction staff, a fence cracked and broke off, causing a five\-year old girl named Vivian Rose to almost fall off the platform. Fortunately, a mysterious female came to her rescue...*
+_... Tower, a serious accident occurred. Due to a suspected mistake of the on\-site construction staff, a fence cracked and broke off, causing a five\-year old girl named Vivian Rose to almost fall off the platform. Fortunately, a mysterious female came to her rescue..._
 
 **ConneR**<br>
 ......
 
 **[News Clip]**<br>
-*... That's right. And then that lady over there made this super far jump to finally grab that little girl's hand.*
+_... That's right. And then that lady over there made this super far jump to finally grab that little girl's hand._
 
 **[News Clip]**<br>
-*This distance...?*
+_This distance...?_
 
 **[News Clip]**<br>
-*It's true! I saw it with my own eyes!*
+_It's true! I saw it with my own eyes!_
 
 **ConneR**<br>
 ......<br>
 Is that you...? Architect.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos064"/>[#064] Audio\_13St35\_702\_12\_17
+## <a id="cos064"/>\[#064\] Audio\_13St35\_702\_12\_17
 ### Requirements
 |Character |Level|
 |----------|:---:|
@@ -5738,7 +5738,7 @@ The leader of the team is an elite, right? If it's someone who can get even you 
 I'm not too clear about the relationship between you guys. It's just that you went through quite a lot to get this new information. I'm sure you're not willing to get captured in a place like this.
 
 **ConneR**<br>
-*\*chuckles\**... You never know... Node 13 is a nice place. It's always been a dream of mine to spend my final years here. Of course, if there was someone by my side to accompany me, well, I could think of nothing better.
+_\*chuckles\*_... You never know... Node 13 is a nice place. It's always been a dream of mine to spend my final years here. Of course, if there was someone by my side to accompany me, well, I could think of nothing better.
 
 **Sasha**<br>
 Yea, yea. Whatever makes you happy. Speaking of which, I've heard that the Neumann family is quite famous here...
@@ -5777,7 +5777,7 @@ People will always change, including the things they value. Don't you agree?
 That's for sure. After taking a look at you I'm even more sure. When you get the time, take a look in a mirror.
 
 **ConneR**<br>
-*\*chuckles\**... That tongue of yours is as sharp as ever...... We're here.<br>
+_\*chuckles\*_... That tongue of yours is as sharp as ever...... We're here.<br>
 Guten Tag.
 
 **Man**<br>
@@ -5865,7 +5865,7 @@ Well then, Auf Wiedersehen… partner.
 **Sasha**<br>
 ... We shall meet again someday. 
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

@@ -1,44 +1,44 @@
 # Crystal PuNK OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Audio\_Sewer\_702\_11\_18](#cpos001)
-- [[#002] Audio\_KaiStudio\_702\_11\_19](#cpos002)
-- [[#003] Cam\_KaiStudio\_702\_11\_19](#cpos003)
-- [[#004] Audio\_KaiStudio\_702\_11\_20](#cpos004)
-- [[#005] Cam\_KaiStudio\_702\_11\_21](#cpos005)
-- [[#006] Audio\_KaiStudio\_702\_11\_22](#cpos006)
-- [[#007] Audio\_RuinZone\_702\_11\_25](#cpos007)
-- [[#008] Multi\_File\_CP008](#cpos008)
-- [[#009] Audio\_Luis\_689\_08\_22](#cpos009)
-- [[#010] Audio\_Butsudou\_702\_11\_22](#cpos010)
-- [[#011] Audio\_SusukiSt\_702\_11\_24](#cpos011)
-- [[#012] Cam\_SusukiSt\_702\_11\_24\_1](#cpos012)
-- [[#013] Cam\_SusukiSt\_702\_11\_24\_2](#cpos013)
-- [[#014] Audio\_KaiStudio\_702\_12\_01](#cpos014)
-- [[#015] Audio\_Bookstore\_702\_12\_02](#cpos015)
-- [[#016] Audio\_KyuuLab\_702\_12\_02](#cpos016)
-- [[#017] Cam\_Nora\_702\_12\_02](#cpos017)
-- [[#018] Audio\_Nora\_702\_12\_02](#cpos018)
-- [[#019] Audio\_Kyuu\_702\_12\_05](#cpos019)
-- [[#020] Audio\_KyuuLab\_702\_12\_07](#cpos020)
-- [[#021] Audio\_Nora\_702\_12\_08](#cpos021)
-- [[#022] Multi\_File\_CP022](#cpos022)
-- [[#023] Cam\_Kyuu\_702\_12\_10](#cpos023)
-- [[#024] Cam\_Cafe\_702\_12\_10](#cpos024)
-- [[#025] Audio\_Nora\_702\_12\_10\_1](#cpos025)
-- [[#026] Audio\_Nora\_702\_12\_10\_2](#cpos026)
-- [[#027] Audio\_KyuuLab\_702\_12\_11](#cpos027)
-- [[#028] Cam\_Nora\_702\_12\_14](#cpos028)
-- [[#029] Audio\_Kyuu\_702\_12\_14\_1](#cpos029)
-- [[#030] Audio\_Kyuu\_702\_12\_14\_2](#cpos030)
-- [[#031] Cam\_Ward\_702\_12\_14](#cpos031)
-- [[#032]  Audio\_Kyuu\_702\_12\_15\_1](#cpos032)
-- [[#033] Cam\_Ward\_702\_12\_15](#cpos033)
-- [[#034] Audio\_Kyuu\_702\_12\_15\_2](#cpos034)
-- [[#035] Message\_JOE\_702\_12\_21](#cpos035)
-- [[#036] Audio\_KaiStudio\_702\_12\_24](#cpos036)
-- [[#037] Audio\_Trans\_03\_702\_12\_26](#cpos037)
+- [\[#001\] Audio\_Sewer\_702\_11\_18](#cpos001)
+- [\[#002\] Audio\_KaiStudio\_702\_11\_19](#cpos002)
+- [\[#003\] Cam\_KaiStudio\_702\_11\_19](#cpos003)
+- [\[#004\] Audio\_KaiStudio\_702\_11\_20](#cpos004)
+- [\[#005\] Cam\_KaiStudio\_702\_11\_21](#cpos005)
+- [\[#006\] Audio\_KaiStudio\_702\_11\_22](#cpos006)
+- [\[#007\] Audio\_RuinZone\_702\_11\_25](#cpos007)
+- [\[#008\] Multi\_File\_CP008](#cpos008)
+- [\[#009\] Audio\_Luis\_689\_08\_22](#cpos009)
+- [\[#010\] Audio\_Butsudou\_702\_11\_22](#cpos010)
+- [\[#011\] Audio\_SusukiSt\_702\_11\_24](#cpos011)
+- [\[#012\] Cam\_SusukiSt\_702\_11\_24\_1](#cpos012)
+- [\[#013\] Cam\_SusukiSt\_702\_11\_24\_2](#cpos013)
+- [\[#014\] Audio\_KaiStudio\_702\_12\_01](#cpos014)
+- [\[#015\] Audio\_Bookstore\_702\_12\_02](#cpos015)
+- [\[#016\] Audio\_KyuuLab\_702\_12\_02](#cpos016)
+- [\[#017\] Cam\_Nora\_702\_12\_02](#cpos017)
+- [\[#018\] Audio\_Nora\_702\_12\_02](#cpos018)
+- [\[#019\] Audio\_Kyuu\_702\_12\_05](#cpos019)
+- [\[#020\] Audio\_KyuuLab\_702\_12\_07](#cpos020)
+- [\[#021\] Audio\_Nora\_702\_12\_08](#cpos021)
+- [\[#022\] Multi\_File\_CP022](#cpos022)
+- [\[#023\] Cam\_Kyuu\_702\_12\_10](#cpos023)
+- [\[#024\] Cam\_Cafe\_702\_12\_10](#cpos024)
+- [\[#025\] Audio\_Nora\_702\_12\_10\_1](#cpos025)
+- [\[#026\] Audio\_Nora\_702\_12\_10\_2](#cpos026)
+- [\[#027\] Audio\_KyuuLab\_702\_12\_11](#cpos027)
+- [\[#028\] Cam\_Nora\_702\_12\_14](#cpos028)
+- [\[#029\] Audio\_Kyuu\_702\_12\_14\_1](#cpos029)
+- [\[#030\] Audio\_Kyuu\_702\_12\_14\_2](#cpos030)
+- [\[#031\] Cam\_Ward\_702\_12\_14](#cpos031)
+- [\[#032\]  Audio\_Kyuu\_702\_12\_15\_1](#cpos032)
+- [\[#033\] Cam\_Ward\_702\_12\_15](#cpos033)
+- [\[#034\] Audio\_Kyuu\_702\_12\_15\_2](#cpos034)
+- [\[#035\] Message\_JOE\_702\_12\_21](#cpos035)
+- [\[#036\] Audio\_KaiStudio\_702\_12\_24](#cpos036)
+- [\[#037\] Audio\_Trans\_03\_702\_12\_26](#cpos037)
 
-## <a id="cpos001"/>[#001] Audio\_Sewer\_702\_11\_18
+## <a id="cpos001"/>\[#001\] Audio\_Sewer\_702\_11\_18
 ### Log Content
 *\[Moves heavy stuff\]*
 
@@ -103,7 +103,7 @@ Yep. After I came back, I took over my parents' business. We've got more and mor
 Good to hear!
 
 **KAI**<br>
-However, the music environment here is still nowhere near as free as 08. Anything that involves money and benefits will be placed under scrutiny by the admins... *\*Sigh\**, I really miss the band days with you guys.
+However, the music environment here is still nowhere near as free as 08. Anything that involves money and benefits will be placed under scrutiny by the admins... _\*Sigh\*_, I really miss the band days with you guys.
 
 **Cherry**<br>
 The opportunity will definitely come! After all of this is over and Simon is proven innocent... we can start from zero, right?
@@ -191,11 +191,11 @@ NEKO? Oh, that famous cyTuber.
 **KAI**<br>
 We're here. Come on in. I must warn you though, it's really dirty inside. You guys might have to clean it up a bit.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos002"/>[#002] Audio\_KaiStudio\_702\_11\_19
+## <a id="cpos002"/>\[#002\] Audio\_KaiStudio\_702\_11\_19
 ### Log Content
 *\[Door Opens\]*
 
@@ -232,7 +232,7 @@ So you really started cleaning... Even the clean freak part of you didn't change
 **Cherry**<br>
 Let me help out too.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **KAI**<br>
 Whew\~ That's more than enough, right? Didn't think this equipment and instruments are still able to function.
@@ -243,95 +243,95 @@ Where's Simon?
 **KAI**<br>
 He said he's going outside to make a phone call, so he took my phone and ran outside.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Xenon**<br>
 It's me.
 
 **[JOE]**<br>
-*Oh! You're using KAI's phone. So this means you guys are safe?*
+_Oh! You're using KAI's phone. So this means you guys are safe?_
 
 **Xenon**<br>
 Yes, we are safe, so far at least. Thanks.
 
 **[JOE]**<br>
-*No problemo\~<br>
-Big sis' cat is also with me. Tell her not to worry.*
+_No problemo\~<br>
+Big sis' cat is also with me. Tell her not to worry._
 
 **Xenon**<br>
 Got it. If anything happens, I'll contact you again.
 
 **[JOE]**<br>
-*Ah, one more thing. NEKO and PAFF are staying at my place right now. Do you want to talk to her? *
+_Ah, one more thing. NEKO and PAFF are staying at my place right now. Do you want to talk to her? _
 
 **Xenon**<br>
 ... Yeah.
 
 **[JOE]**<br>
-*NEKO... NEKO! Wake up!*
+_NEKO... NEKO! Wake up!_
 
 **[NEKO]**<br>
-*Muuuuu.... ten more minutes...*
+_Muuuuu.... ten more minutes..._
 
 **[JOE]**<br>
-*It's a call from Xenon\~*
+_It's a call from Xenon\~_
 
 **[NEKO]**<br>
-*None*
+_None_
 
 **Xenon**<br>
 ... Are you sleeping? Isn't it suppose to be daytime over there?
 
 **[NEKO]**<br>
-*You're safe... thank goodness! Ah! Right! Do you know! Aroma\-chan... no! PAFF is...!*
+_You're safe... thank goodness! Ah! Right! Do you know! Aroma\-chan... no! PAFF is...!_
 
 **Xenon**<br>
 I've heard it from JOE. Are you guys also coming to 03 soon?
 
 **[NEKO]**<br>
-*Yep. Someone will help us get there. We plan to depart for 03 tomorrow.*
+_Yep. Someone will help us get there. We plan to depart for 03 tomorrow._
 
 **Xenon**<br>
 Understood. Take care of yourself.
 
 **[NEKO]**<br>
-*Where are you guys now? How are we going to meet up?*
+_Where are you guys now? How are we going to meet up?_
 
 **Xenon**<br>
 Meet up? No, I think it's better if we don't meet up for now. There are still too many things we're not certain about. We should keep a low profile for a while.
 
 **[NEKO]**<br>
-*Muuu... You two know nothing about that place. Isn't it better to have someone like NEKO around?*
+_Muuu... You two know nothing about that place. Isn't it better to have someone like NEKO around?_
 
 **Xenon**<br>
 You still have to deal with PAFF's issues, right? We have friends from 03 here to help us. We'll be fine.
 
 **[NEKO]**<br>
-*Muuu...*
+_Muuu..._
 
 **Xenon**<br>
 That's it for now. I will contact you again. Be careful yourself. Don't get into trouble again, understand?
 
 **[NEKO]**<br>
-*I'm not THAT careless!*
+_I'm not THAT careless!_
 
 **[NEKO]**<br>
-*... You be careful yourself too. Bye\-bye.*
+_... You be careful yourself too. Bye\-bye._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos003"/>[#003] Cam\_KaiStudio\_702\_11\_19
+## <a id="cpos003"/>\[#003\] Cam\_KaiStudio\_702\_11\_19
 ### Log Content
 **[NEKO]**<br>
-*... You be careful yourself too. Bye\-bye.*
+_... You be careful yourself too. Bye\-bye._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 *\[Door Opens\]*
 
@@ -447,11 +447,11 @@ Why are you giving me that perverted look...?
 **KAI**<br>
 Hehe... Bye\~
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos004"/>[#004] Audio\_KaiStudio\_702\_11\_20
+## <a id="cpos004"/>\[#004\] Audio\_KaiStudio\_702\_11\_20
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -466,26 +466,26 @@ Hehe... Bye\~
 **Xenon**<br>
 Let me answer it.
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Xenon**<br>
 Hello?
 
 **[Rald]**<br>
-*Mr. Jackson? I thought I called Miss Pauline's number.*
+_Mr. Jackson? I thought I called Miss Pauline's number._
 
 **Xenon**<br>
 So what? Any progress with the investigation?
 
 **[Rald]**<br>
-*Ooh, such a hostile attitude. Should I remind you who kept you two alive for an entire week not too long ago?*
+_Ooh, such a hostile attitude. Should I remind you who kept you two alive for an entire week not too long ago?_
 
 **Xenon**<br>
 Okay okay\~ Thanks\~<br>
 You told me not to actively connect back to investigate the Æsir incident. That's why I'm waiting here in 03 like an idiot. If we don't get going soon...
 
 **[Rald]**<br>
-*No need to rush. I just arrived in Node 13 not too long ago. It's quite difficult to find a place with a powerful enough signal here. It's definitely a lot more difficult than walking into a bar and ordering pork knuckles with a light beer, that much I can say for sure.*
+_No need to rush. I just arrived in Node 13 not too long ago. It's quite difficult to find a place with a powerful enough signal here. It's definitely a lot more difficult than walking into a bar and ordering pork knuckles with a light beer, that much I can say for sure._
 
 *\[Drinks wine\]*
 
@@ -493,7 +493,7 @@ You told me not to actively connect back to investigate the Æsir incident. That
 ... And this is your investigation? Stop messing around. Now's not the time for you to be causally sightseeing.
 
 **[Rald]**<br>
-*I'm kidding. I still have to eat. Can't do anything with an empty stomach, right?*
+_I'm kidding. I still have to eat. Can't do anything with an empty stomach, right?_
 
 **Xenon**<br>
 ... I'm hanging up.
@@ -501,81 +501,81 @@ You told me not to actively connect back to investigate the Æsir incident. That
 *\[Drinks wine\]*
 
 **[Rald]**<br>
-*Haha, quite hot\-blooded, aren't you?<br>
-Like I just said, I'm preparing to do some historical investigations and finish some research that was left unfinished from my previous stay here. My goal is to verify my speculations. This requires time, luck, preparation, and a little adventure.*
+_Haha, quite hot\-blooded, aren't you?<br>
+Like I just said, I'm preparing to do some historical investigations and finish some research that was left unfinished from my previous stay here. My goal is to verify my speculations. This requires time, luck, preparation, and a little adventure._
 
 **Xenon**<br>
 Don't forget about your right arm and right eye. The Exploration Team won't just happen to pass by there to save you every time.
 
 **[Rald]**<br>
-*Thank you for being concerned about little old me, but no worries. I've always been pretty lucky.*
+_Thank you for being concerned about little old me, but no worries. I've always been pretty lucky._
 
 **Xenon**<br>
 I'm concerned about the information you can provide. If you don't get any results on your side, we can't continue on our side, right?
 
 **[Rald]**<br>
-*\*Chuckles\* Rest assured. After the time I spent together with you guys, I've understood the importance of teamwork. I won't be a lone wolf and do everything by myself this time. Perhaps I'll find myself a trusty partner.*
+_\*Chuckles\* Rest assured. After the time I spent together with you guys, I've understood the importance of teamwork. I won't be a lone wolf and do everything by myself this time. Perhaps I'll find myself a trusty partner._
 
 **Xenon**<br>
 Whatever you do. All in all, you better hurry.
 
 **[Rald]**<br>
-*I know. About the next mission for you two to do in 03...*
+_I know. About the next mission for you two to do in 03..._
 
 **Xenon**<br>
 "The Eye of Horus", right? I did a quick investigation according to the hints you provided. Such a person does indeed exist. This person has the ability to access digital information in the internet space, including ancient files that no one knows about anymore.
 
 **[Rald]**<br>
-*... Now that's quite surprising. You already knew about this?*
+_... Now that's quite surprising. You already knew about this?_
 
 **Xenon**<br>
 This is all the info I can get. In 03, this seems to be a very well\-known urban legend among members of the underground society.<br>
 Even though we can't confirm the authenticity of this... does someone like this really exist? It doesn't sound scientific at all.
 
 **[Rald]**<br>
-*Aren't the most interesting parts of science the ones we know nothing about? Known science is one of the most boring things in this world.*
+_Aren't the most interesting parts of science the ones we know nothing about? Known science is one of the most boring things in this world._
 
 **Xenon**<br>
 ......
 
 **[Rald]**<br>
-*Allow me to remind you once again. Your current situation is not a suitable one for you to conduct more investigations. Add to that the unstable nature of 03 and any careless action is a foolish one, not to mention something as idiotic as coming in direct contact with the gangs.*
+_Allow me to remind you once again. Your current situation is not a suitable one for you to conduct more investigations. Add to that the unstable nature of 03 and any careless action is a foolish one, not to mention something as idiotic as coming in direct contact with the gangs._
 
 **Xenon**<br>
 Then do you have any advice, wilderness survival expert?
 
 **[Rald]**<br>
-*\*Chuckles\* I do. Listen carefully.<br>
-"Wait for my next contact."*
+_\*Chuckles\* I do. Listen carefully.<br>
+"Wait for my next contact."_
 
 **Xenon**<br>
 ......
 
 **[Rald]**<br>
-*My food order is coming. Apologies, Mr. Jackson, but I have to go now.*
+_My food order is coming. Apologies, Mr. Jackson, but I have to go now._
 
 **Xenon**<br>
 Are you for real? You're not taking this seriously...
 
 **[Rald]**<br>
-*Ah, one more thing.*
+_Ah, one more thing._
 
 **Xenon**<br>
 ?
 
 **[Rald]**<br>
-*Your account got frozen, right? I'll send you one later. Feel free to use the money in there however you desire. With the garbage equipment you two have right now, I can't imagine that you'll be much of any help.*
+_Your account got frozen, right? I'll send you one later. Feel free to use the money in there however you desire. With the garbage equipment you two have right now, I can't imagine that you'll be much of any help._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Xenon**<br>
 ... And here I thought he can't get more self\-centered than he already was.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos005"/>[#005] Cam\_KaiStudio\_702\_11\_21
+## <a id="cpos005"/>\[#005\] Cam\_KaiStudio\_702\_11\_21
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -618,7 +618,7 @@ The chances are slim to none. However, this did indeed help some people return t
 This is the latest one, just listed a few days ago. I heard it from the old man at the food stall over there. Apparently, there's a giant robot asking people on the streets about her.
 
 **Cherry**<br>
-Morning... *\*Yawn\**\~\~ So sleepy... Waah! KAI is here as well...!?
+Morning... _\*Yawn\*_\~\~ So sleepy... Waah! KAI is here as well...!?
 
 **Xenon**<br>
 ... Why are you only wearing that? At least put on some pants!
@@ -657,7 +657,7 @@ You guys have been really tense these days. A bit of relaxation won't hurt.
 **Xenon**<br>
 Yeah. You're right.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Performance\]*
 
@@ -665,7 +665,7 @@ Yeah. You're right.
 Stop stop STOP! JOE, what the f\*\*\* are you playing? You really haven't been practicing these years, haven't you?
 
 **[JOE]**<br>
-*What the hell are you talking about? My performance was spot on, okay? It's a lag from the connection, right?*
+_What the hell are you talking about? My performance was spot on, okay? It's a lag from the connection, right?_
 
 **KAI**<br>
 Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we can talk.
@@ -676,12 +676,12 @@ Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we ca
 ......
 
 **[JOE]**<br>
-*Eh...? So I guess it really was me who messed up.*
+_Eh...? So I guess it really was me who messed up._
 
 *\[Throws drumstick\]*
 
 **[JOE]**<br>
-*Muhaha, unfortunately for you, I'm a projection now! Your drumsticks are not very effective against me! Check out my Shadow C\*\*\*\* Technique! Muhahaha!*
+_Muhaha, unfortunately for you, I'm a projection now! Your drumsticks are not very effective against me! Check out my Shadow C\*\*\*\* Technique! Muhahaha!_
 
 ![cpos0501.png](./attachments/cpos0501.png)
 
@@ -695,7 +695,7 @@ Even the once amazing Crystal PuNK has fallen to this level...
 Haha, I don't mind just playing around. I really enjoy this. I haven't felt like this in a long time.
 
 **[JOE]**<br>
-*Is big sis not happy in Cherry PuNK?*
+_Is big sis not happy in Cherry PuNK?_
 
 **Cherry**<br>
 It's not like I'm unhappy. It's just that the rehearsals for entertainment agencies are all really standardized. It feels completely different than the casual feel we had when we were still an underground band.
@@ -704,13 +704,13 @@ It's not like I'm unhappy. It's just that the rehearsals for entertainment agenc
 I haven't practiced with real people in a long time as well.
 
 **[JOE]**<br>
-*Hehe, those shabby robots are no match for us after all, right?*
+_Hehe, those shabby robots are no match for us after all, right?_
 
 **Xenon**<br>
 If a particular someone doesn't keep messing up the root, I would agree.
 
 **[JOE]**<br>
-*Hey, the ones just now don't count. The BASS God of Quadrant III is about to get serious! One more time!*
+_Hey, the ones just now don't count. The BASS God of Quadrant III is about to get serious! One more time!_
 
 *\[Performance\]*
 
@@ -718,28 +718,28 @@ If a particular someone doesn't keep messing up the root, I would agree.
 You finally got it right...
 
 **[JOE]**<br>
-*Hoho, not bad! This is it! This is the feeling!*
+_Hoho, not bad! This is it! This is the feeling!_
 
 **KAI**<br>
 Hey, serious talk now. Do you guys want to host another music festival? You know, the one we never got to host.
 
 **[JOE]**<br>
-*Of course! With our teamwork, we'll return to our peak form in no time!*
+_Of course! With our teamwork, we'll return to our peak form in no time!_
 
 **Xenon**<br>
 JOE, stop chitchatting. Your rhythm is off.
 
 **[JOE]**<br>
-*Waahh... It's a connection problem!*
+_Waahh... It's a connection problem!_
 
 **Cherry**<br>
 Hahahaha! Hahaha!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos006"/>[#006] Audio\_KaiStudio\_702\_11\_22
+## <a id="cpos006"/>\[#006\] Audio\_KaiStudio\_702\_11\_22
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -747,7 +747,7 @@ Hahahaha! Hahaha!
 
 ### Log Content
 **[TV]**<br>
-*The reporter is at 33rd Boulevard of the Kamikawa area right now. As our viewers can see right now, this is the chaos caused by a complete failure of all traffic lights and some drones experiencing shutdowns or showing abnormal actions. As of now, the Administration Bureau has removed the malfunctioned machines. The reason for the malfunction is still yet to be known. Although this incident didn't cause any harm to security, a blockade line is still drawn and civilians are asked to stay as far away from this area as possible. Similar small\-scale malfunctions also occurred a few days ago at...*
+_The reporter is at 33rd Boulevard of the Kamikawa area right now. As our viewers can see right now, this is the chaos caused by a complete failure of all traffic lights and some drones experiencing shutdowns or showing abnormal actions. As of now, the Administration Bureau has removed the malfunctioned machines. The reason for the malfunction is still yet to be known. Although this incident didn't cause any harm to security, a blockade line is still drawn and civilians are asked to stay as far away from this area as possible. Similar small\-scale malfunctions also occurred a few days ago at..._
 
 **Xenon**<br>
 This is the news here?
@@ -768,7 +768,7 @@ But... I have a bad feeling about this.
 **Cherry**<br>
 My mom... was a victim of a drone malfunction too...
 
-*\[→File Switches: Luis\_681\_01\_08\]*
+_\[→File Switches: Luis\_681\_01\_08\]_
 
 *\[Singing\]*
 
@@ -830,16 +830,16 @@ Hmm... mommy needs to take care of me... then I'll be a singer when I grow up! M
 **Carly**<br>
 Hahaha, can you really do it? Alright then, let's begin!
 
-*\[→File Switches: St68\_681\_12\_09\]*
+_\[→File Switches: St68\_681\_12\_09\]_
 
 **[Luis]**<br>
-*Carly, I'm getting off work soon. Where are you now?*
+_Carly, I'm getting off work soon. Where are you now?_
 
 **Carly**<br>
 I'm on our way home too. Sorry for dumping all the work onto you... I just bought the ingredients for dinner. Ah, I also bought Sherry's cake, look. She got first place in her music classroom. She deserves a good reward.
 
 **[Luis]**<br>
-*Haha, the strawberry cake from Giraffe House, is it? She'll be very happy when she sees it.*
+_Haha, the strawberry cake from Giraffe House, is it? She'll be very happy when she sees it._
 
 **Carly**<br>
 Don't spill the beans when you pick her up though. I want to give her a surprise.
@@ -847,24 +847,24 @@ Don't spill the beans when you pick her up though. I want to give her a surprise
 *\[Commotion\]*
 
 **[Luis]**<br>
-*... What's the matter? What's that noise?*
+_... What's the matter? What's that noise?_
 
 **Carly**<br>
 No idea... I think there's a car accident ahead...?
 
 **[Enforcer Drone]**<br>
-*You are... causing harm to civilians. P\-p\-please...stop...*
+_You are... causing harm to civilians. P\-p\-please...stop..._
 
 **Carly**<br>
 Eh...? Are there criminals? How scary...
 
 **[Luis]**<br>
-*You should stay away...*
+_You should stay away..._
 
 *\[Drone flying\]*
 
 **[Enforcer Drone]**<br>
-*You are causing... h\-hhhharm to ccivilians. P\-please... stop...*
+_You are causing... h\-hhhharm to ccivilians. P\-please... stop..._
 
 **Carly**<br>
 M... me? It must be some kind of misunderstanding. I didn't do any...
@@ -881,7 +881,7 @@ This is Squad 06 Law Enforcement agent Andrew Wood! A LE\-110 has been hit by a 
 Eek!!
 
 **[Luis]**<br>
-*Carly!?*
+_Carly!?_
 
 **Agent A**<br>
 Damnit... did I miss? This is Squad 06 agent Andrew Wood! Anyone hear me!?
@@ -900,18 +900,18 @@ O... okay!
 Ah... the cake...
 
 **[Enforcer Drone]**<br>
-*You are...... Stop...... Initiate Law Enforcement Procedure...*
+_You are...... Stop...... Initiate Law Enforcement Procedure..._
 
 *\[Machine Gun\]*
 
 **[Luis]**<br>
-*Carly！ ？ Carly！ ！ ！ *
+_Carly！ ？ Carly！ ！ ！ _
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos007"/>[#007] Audio\_RuinZone\_702\_11\_25
+## <a id="cpos007"/>\[#007\] Audio\_RuinZone\_702\_11\_25
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1086,11 +1086,11 @@ If, like your music, you can use this ability to help more people, perhaps it's 
 **Xenon**<br>
 See, all within the center circle. This counts as a passing grade, right?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos008"/>[#008] Multi\_File\_CP008
+## <a id="cpos008"/>\[#008\] Multi\_File\_CP008
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1118,13 +1118,13 @@ Sherry, we're leaving.
 **Bureau Supervisor**<br>
 Luis!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
 Daddy... is mommy not coming back?
 
 **Luis**<br>
-Mommy... *\*sobs\*...*
+Mommy... _\*sobs\*..._
 
 **Cherry**<br>
 ...... Daddy?
@@ -1132,7 +1132,7 @@ Mommy... *\*sobs\*...*
 **Luis**<br>
 Yes. Mommy... is gone to become a star singer.
 
-*\[→Signal Switches: Baro\_683\_02\_15 \]*
+_\[→Signal Switches: Baro\_683\_02\_15 \]_
 
 **Angus**<br>
 Capo... Is it really okay for us to be doing this kind of transaction? If Ando or Cafe's geezer caught wind of this...
@@ -1164,7 +1164,7 @@ And those civilians who enjoy their pitiful fortunes and the upper class who enj
 **Diego**<br>
 That's right. Angus, listen up. It doesn't matter if it takes ten years, or even twenty years. We must climb to the top and destroy the gray balance and Cafe's system. Only by doing that will we ever have the opportunity to bring about change.
 
-*\[→Signal Switches: Baro\_689\_08\_16\]*
+_\[→Signal Switches: Baro\_689\_08\_16\]_
 
 **Diego**<br>
 And that's the content of this transaction. Do you understand?
@@ -1244,11 +1244,11 @@ Think about it yourself. Even if we exclude this case, I feel like the fact that
 **Luis**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos009"/>[#009] Audio\_Luis\_689\_08\_22
+## <a id="cpos009"/>\[#009\] Audio\_Luis\_689\_08\_22
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1292,7 +1292,7 @@ Sherry, daddy... has something to tell you.
 **Cherry**<br>
 ......?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
 ......<br>
@@ -1337,7 +1337,7 @@ I... I'm not as strong as father thinks. I don't really have anyone I can talk t
 **Cherry**<br>
 I want to see the world father described, the world I've never seen before. I... I want to help father out.
 
-*\[→File Switches: Port51\_689\_08\_30\]*
+_\[→File Switches: Port51\_689\_08\_30\]_
 
 *\[Pulse Pistol Shot\]*
 
@@ -1369,11 +1369,11 @@ Little girl, are you hurt? You did great. Good job.
 **Cherry**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos010"/>[#010] Audio\_Butsudou\_702\_11\_22
+## <a id="cpos010"/>\[#010\] Audio\_Butsudou\_702\_11\_22
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1396,14 +1396,14 @@ No need to be so polite. The Baro Brotherhood's performance in 08 is seen by all
 Brother, is it... how nostalgic. Manson and I used to refer to each other as brothers as well. His passing still saddens me to this very day. He was a hero...
 
 **[Nora]**<br>
-*... Can we get to the point already?*
+_... Can we get to the point already?_
 
 **Diego**<br>
 Still as cold as ever, aren't you? The Eye of Horus... You're right though. Let's begin.<br>
 Last time, we purchased a shipment of weapons from Kyuu Hou Kai. However, during the transport carried out by Mogura, an issue occurred. From what I've learned, the Splice people you hired were all knocked unconscious. As with the weapons, they were destroyed and discarded in the underground tunnels. 
 
 **[Nora]**<br>
-*As compensation, we've fully refunded your organization the back payment as well as the liquidated damage payment. If you still want to do the transaction, you can place the next order any time you want. With all that we've done, I don't see where you can be dissatisfied?*
+_As compensation, we've fully refunded your organization the back payment as well as the liquidated damage payment. If you still want to do the transaction, you can place the next order any time you want. With all that we've done, I don't see where you can be dissatisfied?_
 
 **Ryu**<br>
 ... Regarding the transport accident, we've labeled it as an important issue and are currently investigating...
@@ -1454,33 +1454,33 @@ Young man, be careful what you say. Trouble tends to find people like you.
 Oh, I wouldn't dare. The one man who oversees all of Mogura, the deeply respected Ryu Minatsuki, I believe you're just as much of a hero as Manson.
 
 **[Nora]**<br>
-*... "Carried out the ambush by destroying the lighting in the underground facility", those are your exact words, correct?*
+_... "Carried out the ambush by destroying the lighting in the underground facility", those are your exact words, correct?_
 
 **Diego**<br>
 Certainly. Is something wrong with that?
 
 **[Nora]**<br>
-*The underground facility uses ancient civilization technology of the Architects. There aren't a lot of people capable of controlling or hacking this technology... or I should say, as far as I know, there are only a couple. If you add that to the action of "destroying the transaction itself"... I think that at least one of the three culprits is from Node 08. If that's the case, then I believe the responsibility belongs to you, an 08 organization. *
+_The underground facility uses ancient civilization technology of the Architects. There aren't a lot of people capable of controlling or hacking this technology... or I should say, as far as I know, there are only a couple. If you add that to the action of "destroying the transaction itself"... I think that at least one of the three culprits is from Node 08. If that's the case, then I believe the responsibility belongs to you, an 08 organization. _
 
 **Diego**<br>
 Hoho? You seem to be pretty good at guessing, but what is your evidence? Or, are you going to provide evidence right here with your eyes...
 
 **[Nora]**<br>
-*I refuse. There's no reason for me to risk my life using my eyes, especially when it's for something as pointless and as unrelated to myself as this one.<br>
-Kyuu Hou Kai provides the goods. Accidents that occur during the shipping process is an issue that you guys should deal with yourself.*
+_I refuse. There's no reason for me to risk my life using my eyes, especially when it's for something as pointless and as unrelated to myself as this one.<br>
+Kyuu Hou Kai provides the goods. Accidents that occur during the shipping process is an issue that you guys should deal with yourself._
 
 **Ryu**<br>
 Nora... Mogura, Kyuu Hou Kai and the Baro Brotherhood own at least 70% of the underground societies of 03 and 08. Our alliance has the utmost importance...
 
 **[Nora]**<br>
-*I said before, I am not interested in 70% of the businesses you currently have. These three people you're looking for, weapon transactions, and this self\-proclaimed "alliance" of yours are all included in that 70%. *
+_I said before, I am not interested in 70% of the businesses you currently have. These three people you're looking for, weapon transactions, and this self\-proclaimed "alliance" of yours are all included in that 70%. _
 
 **Ryu**<br>
 ......
 
 **[Nora]**<br>
-*I've already stated Kyuu Hou Kai's position very clearly. There's no need for me to participate in this discussion anymore.<br>
-Daigo, start the car. Let's go.*
+_I've already stated Kyuu Hou Kai's position very clearly. There's no need for me to participate in this discussion anymore.<br>
+Daigo, start the car. Let's go._
 
 *\[Car door opens\]*
 
@@ -1502,26 +1502,26 @@ No doubt about it. I see that we still have a mutual understanding of the situat
 **Ryu**<br>
 Got any good ideas?
 
-*\[→Switch to tapping signal\]*
+_\[→Switch to tapping signal\]_
 
 **[Diego]**<br>
-*Based on my experience, snuffing out the sparks in time before the fire spreads out is the only way to control and utilize flames.*
+_Based on my experience, snuffing out the sparks in time before the fire spreads out is the only way to control and utilize flames._
 
 **[Ryu]**<br>
-*From the sound of it, you seem to be very certain that you can achieve your goal?*
+_From the sound of it, you seem to be very certain that you can achieve your goal?_
 
 **[Diego]**<br>
-*Of course. We're brothers after all. The little brother ought to help the older brother solve his problems.<br>
-I already have a perfect plan in place. First, we'll start with the Kyubo Medical Center that's irrelevant to us. All that's required is for you to nod your head...*
+_Of course. We're brothers after all. The little brother ought to help the older brother solve his problems.<br>
+I already have a perfect plan in place. First, we'll start with the Kyubo Medical Center that's irrelevant to us. All that's required is for you to nod your head..._
 
 **Member D**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos011"/>[#011] Audio\_SusukiSt\_702\_11\_24
+## <a id="cpos011"/>\[#011\] Audio\_SusukiSt\_702\_11\_24
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1702,11 +1702,11 @@ Get down!!!
 
 *\[Explosion\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos012"/>[#012] Cam\_SusukiSt\_702\_11\_24\_1
+## <a id="cpos012"/>\[#012\] Cam\_SusukiSt\_702\_11\_24\_1
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1778,7 +1778,7 @@ Not the time for such comments, don't you think? Let's move!
 *\[Explosion\]*
 
 **Child C**<br>
-*\*Cries\**... Daddy...<br>
+_\*Cries\*_... Daddy...<br>
 Daddy where are you...
 
 *\[Gunshot\]*
@@ -1799,20 +1799,20 @@ Simon! Now!
 **Xenon**<br>
 So even children this small aren't spared... No matter who's behind this, they've gone too far.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Explosion\]*
 
 **Xenon**<br>
 It's coming from upstairs... gotta move fast.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 ... There's a lot of them. Sherry, cover me. I'm going to finish them all off in one go. Since they're the same model, their encryption should be the same set as well.
 
 **[Drone]**<br>
-*Threat detected. Initiate termination process.*
+_Threat detected. Initiate termination process._
 
 **Cherry**<br>
 Hey, tin cans! Look over here!
@@ -1820,11 +1820,11 @@ Hey, tin cans! Look over here!
 *\[Gunshot\]*
 
 **[Drone]**<br>
-*Incoming firearm attack, damage suffered... low.<br>
-Adjusting termination priority. New target acquired*
+_Incoming firearm attack, damage suffered... low.<br>
+Adjusting termination priority. New target acquired_
 
 **[Xenon A.I.]**<br>
-*Remote control authorization decrypting... 57%.*
+_Remote control authorization decrypting... 57%._
 
 **Cherry**<br>
 Yes, that's right. Come this way... Wah!
@@ -1843,8 +1843,8 @@ Damnit... Come on, hurry up!
 *\[Hacking\]*
 
 **[Drone]**<br>
-*Command accepted. Adjusting termination priority. New target acquired. <br>
-Execute attack immediately.*
+_Command accepted. Adjusting termination priority. New target acquired. <br>
+Execute attack immediately._
 
 **Cherry**<br>
 What's going on... What new target?
@@ -1857,11 +1857,11 @@ Hide! NOW!
 
 *\[Machine Gun\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos013"/>[#013] Cam\_SusukiSt\_702\_11\_24\_2
+## <a id="cpos013"/>\[#013\] Cam\_SusukiSt\_702\_11\_24\_2
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1883,7 +1883,7 @@ I said that I was going to finish them all off in one go, right? Rather than was
 **Xenon**<br>
 At least both of us didn't show our faces. Can't complain about that. Better get out of here before anyone notices us...
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Xenon**<br>
 I've already contacted NEKO and told her we'll meet up someday later. Let's go back first. We caused a pretty major commotion. It's best that we go back into hiding for now.
@@ -1931,11 +1931,11 @@ Partner?
 
 ![cpos1301.png](./attachments/cpos1301.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos014"/>[#014] Audio\_KaiStudio\_702\_12\_01
+## <a id="cpos014"/>\[#014\] Audio\_KaiStudio\_702\_12\_01
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -1944,120 +1944,120 @@ Partner?
 ### Log Content
 *\[Ringtone\]*
 
-*\[Call starts\]*
+_\[Call starts\]_
 
 **[Rald]**<br>
-*It's me, Miss Pauline. How are you two doing in 03 these days? Haven't caused any major commotions, I presume?*
+_It's me, Miss Pauline. How are you two doing in 03 these days? Haven't caused any major commotions, I presume?_
 
 **Cherry**<br>
 Ummm...... no.
 
 **[Rald]**<br>
-*Haha, spare me your terrible acting. "Kyubo Medical Center attacked by unknown organization with hacked armed drones, anonymous heroes successfully deterred attack..."<br>
-... This is talking about you guys, isn't it? Even though Node 13 doesn't have a connection to cyTus, a news story this major is bound to make its way here.*
+_Haha, spare me your terrible acting. "Kyubo Medical Center attacked by unknown organization with hacked armed drones, anonymous heroes successfully deterred attack..."<br>
+... This is talking about you guys, isn't it? Even though Node 13 doesn't have a connection to cyTus, a news story this major is bound to make its way here._
 
 **Cherry**<br>
 ... We weren't recognized. Simon rushed inside as soon as he saw the attack unfold. I couldn't do anything about it.
 
 **[Rald]**<br>
-*Can totally imagine that... Whatever. I'm a bit busy right now, so I'll just skip directly to the key points.<br>
-You okay with that? Do you need to grab a pen to take some notes?*
+_Can totally imagine that... Whatever. I'm a bit busy right now, so I'll just skip directly to the key points.<br>
+You okay with that? Do you need to grab a pen to take some notes?_
 
 **Cherry**<br>
 ... What, am I a three\-year\-old child to you?
 
 **[Rald]**<br>
-*Very well, then listen closely.<br>
-My investigations in Node 13 are more or less complete. It's time you guys take action on your side. Miss Pauline, I believe you should know a few things about the gangs in 03 since you've been a Mediator for quite some time?*
+_Very well, then listen closely.<br>
+My investigations in Node 13 are more or less complete. It's time you guys take action on your side. Miss Pauline, I believe you should know a few things about the gangs in 03 since you've been a Mediator for quite some time?_
 
 **Cherry**<br>
 Maybe.
 
 **[Rald]**<br>
-*Does the name "Kyuu Hou Kai" ring any bells?*
+_Does the name "Kyuu Hou Kai" ring any bells?_
 
 **Cherry**<br>
 Yes. That name is very well\-known in the Baro Brotherhood. It's currently their main firearms supplier. However, that's pretty much all I know. They never let me know too much regarding the details of their deals.
 
 **[Rald]**<br>
-*Knowing that is more than enough.<br>
-According to the information I obtained, "The Eye of Horus" I previously mentioned to Mr. Jackson appears to be under their control.*
+_Knowing that is more than enough.<br>
+According to the information I obtained, "The Eye of Horus" I previously mentioned to Mr. Jackson appears to be under their control._
 
 **Cherry**<br>
 ......!<br>
 In other words, we'll have to negotiate with Kyuu Hou Kai...?
 
 **[Rald]**<br>
-*Doesn't have to be that complicated.<br>
-The gang has used "The Eye of Horus" ability to gain profit for itself. Thus, I went through their "transaction" records in the past and was able to reverse track it back to the "entrance". I then proceeded to directly transfer some money to them... a sum so big that's going to catch even the gangs by surprise. *
+_Doesn't have to be that complicated.<br>
+The gang has used "The Eye of Horus" ability to gain profit for itself. Thus, I went through their "transaction" records in the past and was able to reverse track it back to the "entrance". I then proceeded to directly transfer some money to them... a sum so big that's going to catch even the gangs by surprise. _
 
 **Cherry**<br>
 So that person sees anyone as long as they have the money?
 
 **[Rald]**<br>
-*Not quite. There are still some procedures that needs to be done. This is where you two come in. As the next step, you fellas will go to a location I will specify on a specific date. Then, you'll say the keyword and show the certificate to the shop clerk there. That clerk will then take you to meet that person.*
+_Not quite. There are still some procedures that needs to be done. This is where you two come in. As the next step, you fellas will go to a location I will specify on a specific date. Then, you'll say the keyword and show the certificate to the shop clerk there. That clerk will then take you to meet that person._
 
 **Cherry**<br>
 ... That sounds really suspicious no matter how you look at it.
 
 **[Rald]**<br>
-*My oh my, we're this deep into this whole ordeal and you still don't trust me? During that week we survived together, our coordination was like a perfect harmony. You are the graceful violin while Mr. Jackson is the steady cello.*
+_My oh my, we're this deep into this whole ordeal and you still don't trust me? During that week we survived together, our coordination was like a perfect harmony. You are the graceful violin while Mr. Jackson is the steady cello._
 
 **Cherry**<br>
 Ho? Then what about you?
 
 **[Rald]**<br>
-*The composer and conductor, of course. \*Chuckles\**
+_The composer and conductor, of course. \*Chuckles\*_
 
 **Cherry**<br>
 ... Simon wasn't wrong at all when he described you as "self\-centered". Don't you dare treat us like instruments you can willfully play with. 
 
 **[Rald]**<br>
-*Instruments that produce awful noises are not worthy to be listened to. On the other hand, the sounds you two produced are quite beautiful. I thoroughly enjoyed conducting you two.*
+_Instruments that produce awful noises are not worthy to be listened to. On the other hand, the sounds you two produced are quite beautiful. I thoroughly enjoyed conducting you two._
 
 **Cherry**<br>
 Does this count as you complimenting us in a roundabout way?
 
 **[Rald]**<br>
-*Haha.<br>
-As long as we can use "The Eye of Horus" ability and pair that with Mr. Jackson's skills, we'll be able to discover a part... no, perhaps a much bigger part of the truth than we thought. But... *
+_Haha.<br>
+As long as we can use "The Eye of Horus" ability and pair that with Mr. Jackson's skills, we'll be able to discover a part... no, perhaps a much bigger part of the truth than we thought. But... _
 
 **Cherry**<br>
 But?
 
 **[Rald]**<br>
-*The last "transaction" record was several years ago. I have no way of knowing what happened that resulted in the lack of transactions in recent years. You two will have to improvise on the fly... \*Chuckles\*, with you around, you won't be at a disadvantage if a gunfight is involved. That much is for sure.*
+_The last "transaction" record was several years ago. I have no way of knowing what happened that resulted in the lack of transactions in recent years. You two will have to improvise on the fly... \*Chuckles\*, with you around, you won't be at a disadvantage if a gunfight is involved. That much is for sure._
 
 **Cherry**<br>
 You're flattering me, aren't you? When we were hunting on the surface, your accuracy is pretty on par with mine.
 
 **[Rald]**<br>
-*Humility is one of the Neumann family's many virtues.<br>
-I need to stay in 13 for a while longer. I'll leave the negotiation with Kyuu Hou Kai to you two. I'll send the address and certificate to Mr. Jackson later. Have him encrypt them a little too, just to make sure that no one can get any important info from them.*
+_Humility is one of the Neumann family's many virtues.<br>
+I need to stay in 13 for a while longer. I'll leave the negotiation with Kyuu Hou Kai to you two. I'll send the address and certificate to Mr. Jackson later. Have him encrypt them a little too, just to make sure that no one can get any important info from them._
 
 **Cherry**<br>
 What else do you need to investigate there?
 
 **[Rald]**<br>
-*Simply put, it's some "manuscripts" left behind by my family's ancestors. However, those people don't seem to be your average joe either. They spent quite the effort concealing these documents. Perhaps they are so confident in their abilities that they figured only their own descendants will be capable of finding them? Ooh, now that's getting me a bit excited.*
+_Simply put, it's some "manuscripts" left behind by my family's ancestors. However, those people don't seem to be your average joe either. They spent quite the effort concealing these documents. Perhaps they are so confident in their abilities that they figured only their own descendants will be capable of finding them? Ooh, now that's getting me a bit excited._
 
 **Cherry**<br>
 ... Do they have something to do with the Æsir incident?
 
 **[Rald]**<br>
-*Still to be determined... or more like I hope my hypothesis is correct because this is the one path closest to the truth. Be it for you guys, for me, or for humanity as a whole.<br>
-Apologies, Miss Pauline, but I have to go now.*
+_Still to be determined... or more like I hope my hypothesis is correct because this is the one path closest to the truth. Be it for you guys, for me, or for humanity as a whole.<br>
+Apologies, Miss Pauline, but I have to go now._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Cherry**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos015"/>[#015] Audio\_Bookstore\_702\_12\_02
+## <a id="cpos015"/>\[#015\] Audio\_Bookstore\_702\_12\_02
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2110,7 +2110,7 @@ The certificate is here.
 **Store Clerk**<br>
 ... I don't know what you're talking about. I am just a store clerk of this second\-hand bookstore. Here, enter that door and walk to the end.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **Cherry**<br>
 ...Found it. This book? Wow, an actual paper book...<br>
@@ -2160,7 +2160,7 @@ I have no interest in your business. If you don't plan on leaving, I don't mind 
 Eh...you want to go?
 
 **[Nora]**<br>
-*Daigo, stand down.*
+_Daigo, stand down._
 
 **Member D**<br>
 ......!?<br>
@@ -2170,7 +2170,7 @@ Chief?
 ......?
 
 **[Nora]**<br>
-*I know of these two. I'd like to see them. Put the gun away. Bring them to my lab.*
+_I know of these two. I'd like to see them. Put the gun away. Bring them to my lab._
 
 **Member D**<br>
 Yes. Please forgive my manners. This way please.
@@ -2178,11 +2178,11 @@ Yes. Please forgive my manners. This way please.
 **Cherry**<br>
 ... Thank you. Let's go, Simon.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos016"/>[#016] Audio\_KyuuLab\_702\_12\_02
+## <a id="cpos016"/>\[#016\] Audio\_KyuuLab\_702\_12\_02
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2198,38 +2198,38 @@ Come in.
 ......
 
 **[Nora]**<br>
-*Both of you, you don't have to be so nervous. Take a seat.*
+_Both of you, you don't have to be so nervous. Take a seat._
 
 **Cherry**<br>
 Umm, thank you. And you are...?
 
 **[Nora]**<br>
-*I'm Nora, the Chief of Kyuu Hou Kai.*
+_I'm Nora, the Chief of Kyuu Hou Kai._
 
 **Xenon**<br>
 ......!? You're... the child...<br>
 in KAI's photos...?
 
 **[Nora]**<br>
-*No need to be so surprised. You also made quite a name for yourself when you were just a child, didn't you? Mr. Simon Jackson? Or should I call you "X"?*
+_No need to be so surprised. You also made quite a name for yourself when you were just a child, didn't you? Mr. Simon Jackson? Or should I call you "X"?_
 
 **Xenon**<br>
 ......!
 
 **[Nora]**<br>
-*I've seen your lively record on the Dark Web. Unable to be tracked, unable to be guarded against. The mysterious hacker who has given many a headache to the gangs. Quite impressive, I must say.*
+_I've seen your lively record on the Dark Web. Unable to be tracked, unable to be guarded against. The mysterious hacker who has given many a headache to the gangs. Quite impressive, I must say._
 
 **Xenon**<br>
 ... Those records should've all been deleted by myself a long time ago.
 
 **[Nora]**<br>
-*The world of the internet is much more vast than what you had imagined. In reality, those records still exist in a place that you are unable to access. And I... am someone who is able to do so.*
+_The world of the internet is much more vast than what you had imagined. In reality, those records still exist in a place that you are unable to access. And I... am someone who is able to do so._
 
 **Cherry**<br>
 You... Could it be, that you're "The Eye of Horus"?
 
 **[Nora]**<br>
-*... Let's change the topic. The attack on the Kyubo Medical Center building a few days ago. The brave anonymous heroes... That was you two, wasn't it?*
+_... Let's change the topic. The attack on the Kyubo Medical Center building a few days ago. The brave anonymous heroes... That was you two, wasn't it?_
 
 **Cherry**<br>
 ......!?<br>
@@ -2239,13 +2239,13 @@ You... Could it be, that you're "The Eye of Horus"?
 ...So Kyuu Hou Kai's the one behind Kyubo Medical Center? I've come across similar rumors. If that's the case, it'd be impossible to not be noticed by you.
 
 **[Nora]**<br>
-*Indeed. We hadn't been expecting that attack. If it hadn't been for your timely assistance, the entire hospital building would've been overrun before anyone could escape. The casualties would have been enormous. This is also precisely why I was willing to see you two.*
+_Indeed. We hadn't been expecting that attack. If it hadn't been for your timely assistance, the entire hospital building would've been overrun before anyone could escape. The casualties would have been enormous. This is also precisely why I was willing to see you two._
 
 **Xenon**<br>
 But... some people were still caught in the crossfire, weren't they?
 
 **[Nora]**<br>
-*The data I received reported 2 dead and 17 injured. Half of the facilities were destroyed. Unable to provide medical service for three months.*
+_The data I received reported 2 dead and 17 injured. Half of the facilities were destroyed. Unable to provide medical service for three months._
 
 **Xenon**<br>
 ... Damnit...
@@ -2254,7 +2254,7 @@ But... some people were still caught in the crossfire, weren't they?
 ... Miss Nora, if you knew of Simon's identity already, then you must know that he...
 
 **[Nora]**<br>
-*Of course. I know that during the jury, you admitted that you were Æsir, but then escaped from 08's restricted ara. Since you're now here and asking to use "The Eye", it must have something to do with that... As with me, I must confirm whether or not your intentions will affect Kyuu Hou Kai.*
+_Of course. I know that during the jury, you admitted that you were Æsir, but then escaped from 08's restricted ara. Since you're now here and asking to use "The Eye", it must have something to do with that... As with me, I must confirm whether or not your intentions will affect Kyuu Hou Kai._
 
 **Cherry**<br>
 If it does affect, you won't help...?
@@ -2263,55 +2263,55 @@ If it does affect, you won't help...?
 Sherry.<br>
 Nora, the reason I want to clear this incident up is not for myself. I believe that hiding behind all the things we have experienced so far, there lies a secret which will affect the entire world…
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*I see...You believe that if you don't reveal these secrets, the dangers that come with it may end up impacting all humans.*
+_I see...You believe that if you don't reveal these secrets, the dangers that come with it may end up impacting all humans._
 
 **Cherry**<br>
 Yes. Please, we need your help!
 
 **[Nora]**<br>
-*I'm sorry, but I can't help.*
+_I'm sorry, but I can't help._
 
 **Cherry**<br>
 ……!?<br>
 Why? We already told you everything...
 
 **[Nora]**<br>
-*I approve of your motives, and this "hypothesis" is certainly quite intriguing. But there are many doubts that I am unable to verify right now... As you can see, my eyes are already in very bad shape. If not for the aid of devices, making out your outlines alone would be a difficult task.*
+_I approve of your motives, and this "hypothesis" is certainly quite intriguing. But there are many doubts that I am unable to verify right now... As you can see, my eyes are already in very bad shape. If not for the aid of devices, making out your outlines alone would be a difficult task._
 
 **Cherry**<br>
 ......!<br>
 So The Eye of Horus really doesn't exist anymore...?
 
 **[Nora]**<br>
-*That's right. Entering the OS space is very demanding for my body. My current limit is a mere 5 minutes. Plus, I can only see information around 03. Focusing my mind and go to wherever I'd like is certainly out of the question too. This is also why Daigo was trying to drive you guys away back there. Please forgive him.*
+_That's right. Entering the OS space is very demanding for my body. My current limit is a mere 5 minutes. Plus, I can only see information around 03. Focusing my mind and go to wherever I'd like is certainly out of the question too. This is also why Daigo was trying to drive you guys away back there. Please forgive him._
 
 **Xenon**<br>
 OS space...?
 
 **[Nora]**<br>
-*... It was chosen arbitrarily. The name is not important.*
+_... It was chosen arbitrarily. The name is not important._
 
 **Cherry**<br>
 Is there no other way...?
 
 **[Nora]**<br>
-*...You two are in luck. Coincidentally, someone else who can use this same ability is currently under my care.*
+_...You two are in luck. Coincidentally, someone else who can use this same ability is currently under my care._
 
 **Cherry**<br>
 For real!?
 
 **[Nora]**<br>
-*But her condition… I'm not sure if she can be much help, since she has yet to fully master this power. If you two don't mind...*
+_But her condition… I'm not sure if she can be much help, since she has yet to fully master this power. If you two don't mind..._
 
 **Cherry**<br>
 Please, let us see her!
 
 **[Nora]**<br>
-*Hmm…… This is also to repay you the favor for saving the civilians.<br>
-Please wait outside for a moment. I'll take you to see her.*
+_Hmm…… This is also to repay you the favor for saving the civilians.<br>
+Please wait outside for a moment. I'll take you to see her._
 
 **Xenon**<br>
 ...Thank you.
@@ -2319,19 +2319,19 @@ Please wait outside for a moment. I'll take you to see her.*
 *\[Door Closes\]*
 
 **[Nora]**<br>
-*... Daigo, what would you like to say?*
+_... Daigo, what would you like to say?_
 
 **Member D**<br>
 I knew I couldn't keep it from the Chief... Concerning the hospital attack. I believe the culprit behind the attack is already quite clear.
 
 **[Nora]**<br>
-*You believe that the attack was a joint effort of the Baro Brotherhood and Mogura.*
+_You believe that the attack was a joint effort of the Baro Brotherhood and Mogura._
 
 **Member D**<br>
 Of course. Chief, you've already heard the things I recorded. That rat scum Diego planned everything all along. He's teaming up with Ryu to gobble up our forces and turf!
 
 **[Nora]**<br>
-*I don't care about any of that. However… if the many technologies developed by Kyuu Hou Kai ends up in their hands, all of Node 03 will suffer greatly.*
+_I don't care about any of that. However… if the many technologies developed by Kyuu Hou Kai ends up in their hands, all of Node 03 will suffer greatly._
 
 **Member D**<br>
 ... What if we take the initiative?
@@ -2343,28 +2343,28 @@ Of course. Chief, you've already heard the things I recorded. That rat scum Dieg
 Kyuu Hou Kai's military power and equipment far surpass those worthless hacks. Even if we don't have as many people as them, so long as we land the first strike, we'll definitely win! Let's bite the head off the dragon before they have a chance to strike!
 
 **[Nora]**<br>
-*... You want to start a war?*
+_... You want to start a war?_
 
 **Member D**<br>
 ......
 
 **[Nora]**<br>
-*No. Setting Mogura aside, the Baro people don't mind if they burn everything to the ground. You saw how they went about trying to "warn" us... I don't want to get ordinary people involved.*
+_No. Setting Mogura aside, the Baro people don't mind if they burn everything to the ground. You saw how they went about trying to "warn" us... I don't want to get ordinary people involved._
 
 **Member D**<br>
 Chief!
 
 **[Nora]**<br>
-*This is not worth considering. You are not allowed to have such ideas anymore. I will find another way to handle this. Okay, let's go greet the guests.*
+_This is not worth considering. You are not allowed to have such ideas anymore. I will find another way to handle this. Okay, let's go greet the guests._
 
 **Member D**<br>
 ... Yes, Chief.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos017"/>[#017] Cam\_Nora\_702\_12\_02
+## <a id="cpos017"/>\[#017\] Cam\_Nora\_702\_12\_02
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2372,13 +2372,13 @@ Chief!
 
 ### Log Content
 **[Nora]**<br>
-*Please, wait here. Daigo will bring them here.*
+_Please, wait here. Daigo will bring them here._
 
 **Xenon**<br>
 ... Them?
 
 **[Nora]**<br>
-*There is more than one guest. They insist on moving as a group, so I allowed them all to stay... You two may recognize some of them.*
+_There is more than one guest. They insist on moving as a group, so I allowed them all to stay... You two may recognize some of them._
 
 *\[Door Opens\]*
 
@@ -2419,7 +2419,7 @@ You girls sure know a lot of people...
 Nora, what's going on? Weren't you taking us to see the one with the ability?
 
 **[Nora]**<br>
-*Yes. Miss Kaori Minamiya is the one with the ability.*
+_Yes. Miss Kaori Minamiya is the one with the ability._
 
 **Xenon、Cherry**<br>
 ......!?<br>
@@ -2429,12 +2429,12 @@ Kaori Minamiya...?
 Eh? Eh? What is going on!?
 
 **[Nora]**<br>
-*... I'll start explaining from the parts I know.*
+_... I'll start explaining from the parts I know._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*And that is more or less what happened. Therefore, it is confirmed that Miss Kaori Minamiya's brain contains both hers and Miss Aroma White's memory right now. At the same time, the body of Kaori Minamiya also possesses natural traits of "The Eye of Horus" ability, to begin with.*
+_And that is more or less what happened. Therefore, it is confirmed that Miss Kaori Minamiya's brain contains both hers and Miss Aroma White's memory right now. At the same time, the body of Kaori Minamiya also possesses natural traits of "The Eye of Horus" ability, to begin with._
 
 **Xenon**<br>
 PAFF is the ability user...
@@ -2453,7 +2453,7 @@ I beg you, please be quiet for a minute...<br>
 So... there's more than one ability user. As long as some sort of natural condition is fulfilled, other ability users may also exist?
 
 **[Nora]**<br>
-*That's right. Occasionally, I will come in contact with other consciousnesses in the OS, like damaged A.I. or some unidentifiable breathing. But as of now, the only ones I know of are her and myself.*
+_That's right. Occasionally, I will come in contact with other consciousnesses in the OS, like damaged A.I. or some unidentifiable breathing. But as of now, the only ones I know of are her and myself._
 
 **Xenon**<br>
 Then... Even though it's our first time meeting, can you try to use your ability on the keywords we provided? First, A.R.C's Library.
@@ -2462,7 +2462,7 @@ Then... Even though it's our first time meeting, can you try to use your ability
 I... I'll give it a try!
 
 **[Nora]**<br>
-*Miss Kaori Minamiya, don't be nervous. Like I said before, it's like connecting to the virtual internet. Relax your whole body and concentrate all of your consciousness on the nodes of those signals.*
+_Miss Kaori Minamiya, don't be nervous. Like I said before, it's like connecting to the virtual internet. Relax your whole body and concentrate all of your consciousness on the nodes of those signals._
 
 **PAFF**<br>
 ......
@@ -2471,12 +2471,12 @@ I... I'll give it a try!
 ... Has it begun?
 
 **[Nora]**<br>
-*Please, be quiet.*
+_Please, be quiet._
 
 **NEKO#ΦωΦ**<br>
 ......
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **PAFF**<br>
 ......
@@ -2485,7 +2485,7 @@ I... I'll give it a try!
 ... I...
 
 **[Nora]**<br>
-*Do you see anything?*
+_Do you see anything?_
 
 **PAFF**<br>
 I feel I've... already arrived at the place you described, but...
@@ -2497,8 +2497,8 @@ I feel I've... already arrived at the place you described, but...
 Strange... it's so dark. I can't see anything...
 
 **[Nora]**<br>
-*……<br>
-Of the places you can go to, there shouldn't be any empty areas...*
+_……<br>
+Of the places you can go to, there shouldn't be any empty areas..._
 
 **PAFF**<br>
 Ugh...
@@ -2514,11 +2514,11 @@ Ughhhh…… WAAAAHHHHH!!!NOOO!!!NOO!!
 **Hayato**<br>
 KAORI!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos018"/>[#018] Audio\_Nora\_702\_12\_02
+## <a id="cpos018"/>\[#018\] Audio\_Nora\_702\_12\_02
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2535,7 +2535,7 @@ Aroma\-chan!
 She's awake!
 
 **[Nora]**<br>
-*How is your body feeling? I've experienced this myself before, yet I still forced you through all of it. I'm truly sorry.*
+_How is your body feeling? I've experienced this myself before, yet I still forced you through all of it. I'm truly sorry._
 
 **PAFF**<br>
 No... I don't think it had anything to do with using the ability. I saw... something...
@@ -2562,7 +2562,7 @@ Name...?
 I'm not sure either. The voice sounded so pitiful. I wanted to reach out my hand to help it... but then the emotion changed instantly. I felt... like I was going to be killed... It was this strong feeling of hatred...
 
 **PAFF**<br>
-*\*Sobs\*...\*Sobs\*...\*Sobs\*...* Ugh...
+_\*Sobs\*...\*Sobs\*...\*Sobs\*..._ Ugh...
 
 **Hayato**<br>
 Kaori! Are you alright? Enough. Don't think about it anymore. <br>
@@ -2591,21 +2591,21 @@ I don't know what was the thing I felt, but whatever it was... it must be stoppe
 So it was exactly what that guy has guessed...?
 
 **[Nora]**<br>
-*……<br>
-Miss Kaori Minamiya, if you don't mind, the silent chamber I used as a child should still be operational. Though it is dark and rather cramped inside, it greatly helps with the resting of the mind and body. Please, take a rest inside it.*
+_……<br>
+Miss Kaori Minamiya, if you don't mind, the silent chamber I used as a child should still be operational. Though it is dark and rather cramped inside, it greatly helps with the resting of the mind and body. Please, take a rest inside it._
 
 **PAFF**<br>
 Thank you...
 
 **[Nora]**<br>
-*For now, do not use the ability.*
+_For now, do not use the ability._
 
 **PAFF**<br>
 No…… Please give me a few days to recover. I believe that I must know what was it that I saw. I feel like it is of the utmost importance...!
 
 **[Nora]**<br>
-*……<br>
-Understood. Daigo, take her to rest.*
+_……<br>
+Understood. Daigo, take her to rest._
 
 **Member D**<br>
 Yes. This way, please.
@@ -2613,7 +2613,7 @@ Yes. This way, please.
 *\[Door Opens\]*
 
 **[Nora]**<br>
-*Everyone, if possible, please remain here as guests for now. There are plenty of empty rooms.*
+_Everyone, if possible, please remain here as guests for now. There are plenty of empty rooms._
 
 **Hayato**<br>
 Of course! I'll always stay by Kaori's side!
@@ -2622,13 +2622,13 @@ Of course! I'll always stay by Kaori's side!
 NEKO will too!
 
 **[Nora]**<br>
-*It is currently not ideal for Mr. Jackson and Miss Pauline to be wandering around outside either. This place is ideal for hiding.*
+_It is currently not ideal for Mr. Jackson and Miss Pauline to be wandering around outside either. This place is ideal for hiding._
 
 **Cherry**<br>
 Thank you, Nora.
 
 **[Nora]**<br>
-*Well, then. Please be at ease. You may move about freely in the guest area. If you need anything, just inform the people wearing the uniform.*
+_Well, then. Please be at ease. You may move about freely in the guest area. If you need anything, just inform the people wearing the uniform._
 
 *\[Wheelchair Moving\]*
 
@@ -2640,11 +2640,11 @@ Thank you, Nora.
 **NEKO#ΦωΦ**<br>
 Ah! NEKO felt the same way at first too! But Iemme tell you guys, Nora\-chan, she's... uhh, oh yeah! Ropohead's here too. It's quicker if you hear it directly from him!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos019"/>[#019] Audio\_Kyuu\_702\_12\_05
+## <a id="cpos019"/>\[#019\] Audio\_Kyuu\_702\_12\_05
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2673,13 +2673,13 @@ It's okay if she doesn't come out. I'll just say it right here. She's watching a
 You...
 
 **[Nora]**<br>
-*Daigo, come back.*
+_Daigo, come back._
 
 **Member D**<br>
 Chief!?
 
 **[Nora]**<br>
-*The work in Area A requires your assistance. Come back.*
+_The work in Area A requires your assistance. Come back._
 
 **Member D**<br>
 Yes, Chief...
@@ -2693,33 +2693,33 @@ Hmph, bye\-bye little doggy.
 Nora, what's wrong? Don't just hide out in there. Come out and chat, won't you?
 
 **[Nora]**<br>
-*Diego, our routine meeting is not today.*
+_Diego, our routine meeting is not today._
 
 **Diego**<br>
 Certainly. I know that very well. Despite that, my boys couldn't wait any longer. All you need to do is hand over the people we're looking for and we'll leave this place immediately. We won't leave a trace.
 
 **[Nora]**<br>
-*What people?*
+_What people?_
 
 **Diego**<br>
 It's not like you to feign ignorance.<br>
 I've received news that Simon Jackson and Sherry Pauline are currently hiding here. These two have interfered into the weapon transaction between Mogura and us. You should hand them over and let us deal with them accordingly. 
 
 **[Nora]**<br>
-*... Those two? I figure it's about time we start sorting things out as well. *
+_... Those two? I figure it's about time we start sorting things out as well. _
 
 **Diego**<br>
 Since that's the way it is, I'll be blunt. You know very well that to the Baro brotherhood... no, to this three\-way alliance, those two are our common enemy. Yet you hid and sheltered them behind our backs. May I ask what is all this about?
 
 **[Nora]**<br>
-*I said this last time as well. I have no interest in your self\-proclaimed alliance. These two are currently guests of Kyuu Hou Kai. It has nothing to do at all with you or Mogura.*
+_I said this last time as well. I have no interest in your self\-proclaimed alliance. These two are currently guests of Kyuu Hou Kai. It has nothing to do at all with you or Mogura._
 
 **Diego**<br>
 Hoho, you think such an excuse will work. I think this is all planned by you. Telling them to disrupt the transaction was part of your plans, wasn't it? Yet you're still able to pretend like you don't care at all... I've got to hand it to you.
 
 **[Nora]**<br>
-*Diego, you are many things, but a good actor you are not.<br>
-You and I both know what the truth really is. The reason why you want them so badly isn't just because they interfered with that little weapons deal, am I right? Oh, and when I said "sort things out", I'm talking about the stuff you guys did.*
+_Diego, you are many things, but a good actor you are not.<br>
+You and I both know what the truth really is. The reason why you want them so badly isn't just because they interfered with that little weapons deal, am I right? Oh, and when I said "sort things out", I'm talking about the stuff you guys did._
 
 **Diego**<br>
 ... What do you mean?
@@ -2727,7 +2727,7 @@ You and I both know what the truth really is. The reason why you want them so ba
 *\[Plays Audio\]*
 
 **[Diego]**<br>
-*... I already have a perfect plan in place. First, we'll start with the Kyubo Medical Center that's irrelevant to us. All that's required is for you to nod your head...*
+_... I already have a perfect plan in place. First, we'll start with the Kyubo Medical Center that's irrelevant to us. All that's required is for you to nod your head..._
 
 **Diego**<br>
 ......
@@ -2739,16 +2739,16 @@ Is this... a recording of the last meeting? We've been played...
 Ha...HAHA! Well\-done. Brilliant! You're indeed the "All\-knowing Eye". Everything is under your control... Is that what you think?
 
 **[Nora]**<br>
-*This is ironclad proof that you two organizations see us as an enemy. Do not expect Kyuu Hou Kai to treat you people kindly in the future.*
+_This is ironclad proof that you two organizations see us as an enemy. Do not expect Kyuu Hou Kai to treat you people kindly in the future._
 
 **Diego**<br>
 …… Hehe. That's right. The one who attacked the Kyubo Medical Center was indeed us. I also received news that the mysterious beings who obstructed our operation were those two as well. You said so yourself, that Sherry Pauline counts as someone from 08's system. Therefore, you should hand her over for us to deal with. You don't want this to get bloody either, do you?
 
 **[Nora]**<br>
-*Diego, I understand that you have no fear of anything. You and the underlings of Ryu are just like the filth of this city; persistent and never\-ending. Therefore, you think the few elites that make up Kyuu Hou Kai are absolutely no match for you.*
+_Diego, I understand that you have no fear of anything. You and the underlings of Ryu are just like the filth of this city; persistent and never\-ending. Therefore, you think the few elites that make up Kyuu Hou Kai are absolutely no match for you._
 
 **[Nora]**<br>
-*... But let me tell you; you're very, very wrong.*
+_... But let me tell you; you're very, very wrong._
 
 *\[Parts moving\]*
 
@@ -2756,10 +2756,10 @@ Ha...HAHA! Well\-done. Brilliant! You're indeed the "All\-knowing Eye". Everythi
 !?
 
 **[Nora]**<br>
-*As you can see, Kyuu Hou Kai has long become a "fortress". Its automatic defense system is far superior to those worthless thugs you have surrounded yourself with. If necessary, I will activate all security systems in this entire city. Even if Ryu showed up with the entire force of the Administration Bureau, they will be no match for Kyuu Hou Kai.*
+_As you can see, Kyuu Hou Kai has long become a "fortress". Its automatic defense system is far superior to those worthless thugs you have surrounded yourself with. If necessary, I will activate all security systems in this entire city. Even if Ryu showed up with the entire force of the Administration Bureau, they will be no match for Kyuu Hou Kai._
 
 **[Nora]**<br>
-*This will be the final warning. Leave, now*
+_This will be the final warning. Leave, now_
 
 **Angus**<br>
 ... Boss, if we make a move now...
@@ -2769,45 +2769,45 @@ Ha...HAHA! Well\-done. Brilliant! You're indeed the "All\-knowing Eye". Everythi
 Nora, this is far from over... You will see it, even if you don't have the "Eyes" anymore.
 
 **[Nora]**<br>
-*Goodbye.*
+_Goodbye._
 
 **Diego**<br>
 Ah, yes! Please relay to those two that I'll take good care of their families!
 
 *\[Engine Starts\]*
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **[Nora]**<br>
-*... Miss Pauline?*
+_... Miss Pauline?_
 
 **Cherry**<br>
 ......
 
 **[Nora]**<br>
-*Guests are prohibited from entering this area. Please return to your room.*
+_Guests are prohibited from entering this area. Please return to your room._
 
 **Cherry**<br>
 ... I'm sorry, Nora. It's because of us that...
 
 **[Nora]**<br>
-*Diego's real target is Kyuu Hou Kai's resources. It's all for the goal of having a massive profit to surpass that of Mogura's. Both you and Mr. Jackson are merely excuses. You are in no way responsible.*
+_Diego's real target is Kyuu Hou Kai's resources. It's all for the goal of having a massive profit to surpass that of Mogura's. Both you and Mr. Jackson are merely excuses. You are in no way responsible._
 
 **Cherry**<br>
 ... I see...
 
 **[Nora]**<br>
-*I have connections in 08. Nothing will happen to your families. Kyuu Hou Kai owes you two a debt of gratitude for what you've done. I won't let these pointless power struggles disturb you.*
+_I have connections in 08. Nothing will happen to your families. Kyuu Hou Kai owes you two a debt of gratitude for what you've done. I won't let these pointless power struggles disturb you._
 
 **Cherry**<br>
 ……<br>
 Understood...... Thank you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos020"/>[#020] Audio\_KyuuLab\_702\_12\_07
+## <a id="cpos020"/>\[#020\] Audio\_KyuuLab\_702\_12\_07
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2817,60 +2817,60 @@ Understood...... Thank you.
 *\[Equipment operating\]*
 
 **[Nora]**<br>
-*The examination is complete. Miss Kaori Minamiya, how does your body feel?*
+_The examination is complete. Miss Kaori Minamiya, how does your body feel?_
 
 **PAFF**<br>
 Oh, I'm feeling pretty good. 
 
 **[Nora]**<br>
-*Great, I'll escort you back to your room.*
+_Great, I'll escort you back to your room._
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*... It seems like your condition is much better than mine. Although you haven't fully mastered the ability yet, your body is rather stable despite the virus activity in your body being 15% higher than mine.*
+_... It seems like your condition is much better than mine. Although you haven't fully mastered the ability yet, your body is rather stable despite the virus activity in your body being 15% higher than mine._
 
 **PAFF**<br>
 Is that so...?
 
 **[Nora]**<br>
-*You say you remember that when you were kidna... taken to Node 08, you came in contact with the virus due to an accident during the transport, is that correct?*
+_You say you remember that when you were kidna... taken to Node 08, you came in contact with the virus due to an accident during the transport, is that correct?_
 
 **PAFF**<br>
 Yes. That time, the truck rolled over in the forbidden area... My body fell out of the storage cell. I think it was then when I came in contact with the virus.
 
 **[Nora]**<br>
-*I'll skip directly to conclusions: Although you and I have the same ability traits, I believe that your power is perhaps greater than mine. If you can learn how to properly control it... Do you remember what I taught you before?*
+_I'll skip directly to conclusions: Although you and I have the same ability traits, I believe that your power is perhaps greater than mine. If you can learn how to properly control it... Do you remember what I taught you before?_
 
 **PAFF**<br>
 Yes... Even though Nora told me to avoid using the ability these few days, to be honest, I tried to go to the place Mr. Xenon described again yesterday. However, I discovered that this time, I can no longer connect that far into that place...
 
 **[Nora]**<br>
-*From the examination report, that doesn't look like it has anything to do with the state of your body... Perhaps it's "fear" that is stopping you.*
+_From the examination report, that doesn't look like it has anything to do with the state of your body... Perhaps it's "fear" that is stopping you._
 
 **PAFF**<br>
 ... Eh?
 
 **[Nora]**<br>
-*The state of your mind will affect your condition when you enter into the OS space. Sometimes, there will be things that you don't wish to experience a second time. This will cause the ability to trigger a "brake" whenever you try to access those things again. I've experienced this many times already.*
+_The state of your mind will affect your condition when you enter into the OS space. Sometimes, there will be things that you don't wish to experience a second time. This will cause the ability to trigger a "brake" whenever you try to access those things again. I've experienced this many times already._
 
 **PAFF**<br>
 ......
 
 **[Nora]**<br>
-*I forbid you from using the ability on your own when you're conscious. It's way too dangerous. <br>
-I will continue to train you until you are able to fully control it. When that time comes, you may try again.*
+_I forbid you from using the ability on your own when you're conscious. It's way too dangerous. <br>
+I will continue to train you until you are able to fully control it. When that time comes, you may try again._
 
 **PAFF**<br>
 I know... I'm sorry. <br>
 However, it seems pretty obvious that Nora didn't want me to use the power even after I learn how to. Why the change of heart now...?
 
 **[Nora]**<br>
-*……<br>
-In all honesty, those images you described, that hatred... I've encountered it in the past by accident as well. But I didn't think too much of it back then. However, the clues and hypothesis brought to me by Mr. Simon Jackson and Co., on top of all the things that have happened to you guys, make me feel that the severity of this is much higher than what I considered back then.*
+_……<br>
+In all honesty, those images you described, that hatred... I've encountered it in the past by accident as well. But I didn't think too much of it back then. However, the clues and hypothesis brought to me by Mr. Simon Jackson and Co., on top of all the things that have happened to you guys, make me feel that the severity of this is much higher than what I considered back then._
 
 **[Nora]**<br>
-*All in all, the most important character right now is you. Please follow my commands on this.*
+_All in all, the most important character right now is you. Please follow my commands on this._
 
 **PAFF**<br>
 Okay...
@@ -2889,7 +2889,7 @@ Okay...
 Ahh! Aroma\-chan... Wahh, Nora....!
 
 **[Nora]**<br>
-*… Fellow guests, I believe I've told you before that you are prohibited from entering this room.*
+_… Fellow guests, I believe I've told you before that you are prohibited from entering this room._
 
 **Hayato**<br>
 Sorry...
@@ -2907,13 +2907,13 @@ Nora\-chan and Aroma\-chan should play with us too! It'll definitely be a lot of
 Eh? Umm...
 
 **[Nora]**<br>
-*It's fine. Go ahead. You need a good rest anyway.*
+_It's fine. Go ahead. You need a good rest anyway._
 
 **NEKO#ΦωΦ**<br>
 Ehh\~? What about Nora\-chan?
 
 **[Nora]**<br>
-*I have work I must attend to.*
+_I have work I must attend to._
 
 **NEKO#ΦωΦ**<br>
 Muuuu... okay\~<br>
@@ -2922,8 +2922,8 @@ Aroma\-chan! We just made some amazing sounding chords!
 *\[Synthesizer\]*
 
 **[Nora]**<br>
-*……<br>
-That synth, if you turn the Reso up, it'll sound better.*
+_……<br>
+That synth, if you turn the Reso up, it'll sound better._
 
 *\[Door Closes\]*
 
@@ -2931,16 +2931,16 @@ That synth, if you turn the Reso up, it'll sound better.*
 Ehhh...? She left right after she said it... So Nora\-chan still really wants to make music after all.
 
 **[ROBO_Head]**<br>
-*Affirmative. This unit, detect slight fluctuations in Nora's emotions.*
+_Affirmative. This unit, detect slight fluctuations in Nora's emotions._
 
 **NEKO#ΦωΦ**<br>
 Okay then! We're definitely gonna think of a way to let Nora remember the joys of making music!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos021"/>[#021] Audio\_Nora\_702\_12\_08
+## <a id="cpos021"/>\[#021\] Audio\_Nora\_702\_12\_08
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -2948,7 +2948,7 @@ Okay then! We're definitely gonna think of a way to let Nora remember the joys o
 
 ### Log Content
 **[Game Console]**<br>
-*Player NEKO\#ΦωΦ WIN!*
+_Player NEKO\#ΦωΦ WIN!_
 
 **NEKO#ΦωΦ**<br>
 Yeah!
@@ -2968,7 +2968,7 @@ You've never gone easy on anybody no matter what game we play...
 *\[Door Opens\]*
 
 **[Nora]**<br>
-*Miss Kaori Minamiya, it's time.*
+_Miss Kaori Minamiya, it's time._
 
 **PAFF**<br>
 Oh, ok. Sorry, but I have to go with Nora now.
@@ -2977,8 +2977,8 @@ Oh, ok. Sorry, but I have to go with Nora now.
 Nora\-chan, why don't you come and play a round? The top of the leaderboard is almost all you! Ah, although NEKO has taken over around have of it already.
 
 **[Nora]**<br>
-*......<br>
-Daigo. Go play with them. Make sure our guests have a good time.*
+_......<br>
+Daigo. Go play with them. Make sure our guests have a good time._
 
 **Member D**<br>
 M\-M\-Me?
@@ -2987,8 +2987,8 @@ M\-M\-Me?
 Eh\~? NEKO only wants to play with the best. I don't wanna play with this guy.
 
 **[Nora]**<br>
-*Daigo is quite skilled himself too.<br>
-Let's get going.*
+_Daigo is quite skilled himself too.<br>
+Let's get going._
 
 *\[Door Opens\]*
 
@@ -2996,7 +2996,7 @@ Let's get going.*
 ......
 
 **[Game Console]**<br>
-*Player NEKO\#ΦωΦ vs. Player Daigo, Begin!*
+_Player NEKO\#ΦωΦ vs. Player Daigo, Begin!_
 
 **NEKO#ΦωΦ**<br>
 Hey, are you really as good as she said? NEKO ain't going easy on you.
@@ -3028,40 +3028,40 @@ Speaking of which, where is him? I haven't seen him for a while now.
 **NEKO#ΦωΦ**<br>
 Whatever, bet he's sitting in some random corner fiddling with his device all by himself again.
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **[Xenon A.I.]**<br>
-*... Connection failed. Retry searching for the terminal.*
+_... Connection failed. Retry searching for the terminal._
 
 **Xenon**<br>
 Damn... so this doesn't work either?
 
 **[Nora]**<br>
-*Good evening, Mr. Simon Jackson.*
+_Good evening, Mr. Simon Jackson._
 
 **Xenon**<br>
 Nora, PAFF.
 
 **[Nora]**<br>
-*Your A.I. and connection device are... very unique. May I ask: what are you doing now?*
+_Your A.I. and connection device are... very unique. May I ask: what are you doing now?_
 
 **Xenon**<br>
 Just waiting around like this isn't going to achieve anything. Thus, I've used a few methods to track the connections of Æsir and Library, but... I've never seen a break like this. The signal just disappears into thin air when it reaches a certain location...
 
 **[Nora]**<br>
-*... Did you use our equipment?*
+_... Did you use our equipment?_
 
 **Xenon**<br>
 Yes. Rest assured. I've improved your firewall. Apologies for changing the algorithms without permission. However, I found obvious loopholes here, here and here. Couldn't ignore them. They're much more secure now.
 
 **[Nora]**<br>
-*... Hacking into Kyuu Hou Kai's network in broad daylight like this, if this is any other organization, you would've been dealt with already. However... your points are valid. Even I didn't notice these loopholes... The circuit method, is it? Very interesting.*
+_... Hacking into Kyuu Hou Kai's network in broad daylight like this, if this is any other organization, you would've been dealt with already. However... your points are valid. Even I didn't notice these loopholes... The circuit method, is it? Very interesting._
 
 **Xenon**<br>
 Due to that incident at Kyubo Medical Center a few days ago, I already have a good understanding of the methods those hackers Baro hired use to hack into the drones. They're at least ten years away from breaking through this algorithm.
 
 **[Nora]**<br>
-*... To be honest, it has been a very long time since I've been genuinely surprised by someone else's skills in cyTus technology. Your reputation as "X" was indeed well\-earned. Thank you again.*
+_... To be honest, it has been a very long time since I've been genuinely surprised by someone else's skills in cyTus technology. Your reputation as "X" was indeed well\-earned. Thank you again._
 
 **Xenon**<br>
 No, I've also learned quite a few things myself from this firewall you wrote. Are you two going to do the training next?
@@ -3102,21 +3102,21 @@ It really is a coincidence that so many musicians are gathered here. After we go
 Same goes for you too, Nora. It would be great if you can continue making music.
 
 **[Nora]**<br>
-*......<br>
-We focus on the task ahead for now.*
+_......<br>
+We focus on the task ahead for now._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos022"/>[#022] Multi\_File\_CP022
+## <a id="cpos022"/>\[#022\] Multi\_File\_CP022
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
 |**Crystal PuNK**| 18  |
 
 ### Log Content
-*\[→Audio\_???\_695\_10\_26\]*
+_\[→Audio\_???\_695\_10\_26\]_
 
 **Zhang**<br>
 Hahaha! Eat and drink all you want! It's my treat! If you see it, I'll pay for it!
@@ -3187,7 +3187,7 @@ Did you steal the item we requested from him?
 **Angus**<br>
 That's not for me to decide.
 
-*\[→Cam\_Xenon's\_695\_10\_26\]*
+_\[→Cam\_Xenon's\_695\_10\_26\]_
 
 **Xenon**<br>
 Sherry? Why are you here all of a sudden?<br>
@@ -3198,7 +3198,7 @@ Sherry? Why are you here all of a sudden?<br>
 
 ![chos2401.png](./attachments/chos2401.png)
 
-*\[→Audio\_StudioB\_696\_05\_10\]*
+_\[→Audio\_StudioB\_696\_05\_10\]_
 
 **KAI**<br>
 Okay. That felt really good. A quick break first. We'll continue afterward.
@@ -3208,7 +3208,7 @@ Okay. That felt really good. A quick break first. We'll continue afterward.
 **Cherry**<br>
 Ah, let me answer the phone.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
 ... No way...
@@ -3219,7 +3219,7 @@ What's wrong?
 **Cherry**<br>
 My father, he...!
 
-*\[→Audio\_Hospital01\_696\_05\_10\]*
+_\[→Audio\_Hospital01\_696\_05\_10\]_
 
 **Cherry**<br>
 Father! What happened!?
@@ -3245,11 +3245,11 @@ Really!? Are you willing to undergo a blood transfusion checkup...
 **Xenon**<br>
 Whatever! Let's get on it!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos023"/>[#023] Cam\_Kyuu\_702\_12\_10
+## <a id="cpos023"/>\[#023\] Cam\_Kyuu\_702\_12\_10
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -3263,7 +3263,7 @@ Whatever! Let's get on it!
 ... Where is this...? Oh, yeah. I'm at Kyuu Hou Kai. <br>
 ... Dreamed about those things again...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Singing\]*
 
@@ -3279,7 +3279,7 @@ Oh, did I wake you up?
 I haven't slept yet. I can hear your voice.
 
 **Cherry**<br>
-*\*shivers\**... Yikes, it's so cold... The winter in Node 03 really is freezing.
+_\*shivers\*_... Yikes, it's so cold... The winter in Node 03 really is freezing.
 
 **Xenon**<br>
 The weather system here hasn't been fully recreated like in Node 08. The differences in temperature are much larger. Do you want me to close the window?
@@ -3338,7 +3338,7 @@ Didn't I already tell you? You need to let go of the past. If you don't, there's
 Yeah... you're right.
 
 **Xenon**<br>
-*\*Yawn\*\~*
+_\*Yawn\*\~_
 
 **Cherry**<br>
 So you do yawn? What a rare sight.
@@ -3420,11 +3420,11 @@ WHAT!?
 **Cherry**<br>
 What's happening!?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos024"/>[#024] Cam\_Cafe\_702\_12\_10
+## <a id="cpos024"/>\[#024\] Cam\_Cafe\_702\_12\_10
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -3436,33 +3436,33 @@ What's happening!?
 **JOE**<br>
 Wait a sec, I'm coming, I'm coming!
 
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **JOE**<br>
-Whoo, out of...*\*breathes\**... Hello?
+Whoo, out of..._\*breathes\*_... Hello?
 
 ![cpos2402.png](./attachments/cpos2402.png)
 
 **[Xenon]**<br>
-*JOE! Thank goodness, you're fine.*
+_JOE! Thank goodness, you're fine._
 
 **JOE**<br>
 Ah, it's you, Simon. What's up with the sudden call?
 
 **[Xenon]**<br>
-*Where are you? Why did you pick up so late?*
+_Where are you? Why did you pick up so late?_
 
 **JOE**<br>
 At the Cafe. I'm testing a new cocktail recipe. I was getting the ingredients from the basement.
 
 **[Xenon]**<br>
-*Wait. So you don't know what is happening outside?*
+_Wait. So you don't know what is happening outside?_
 
 **JOE**<br>
 Huh? What's happening outside?
 
 **[Xenon]**<br>
-*It's an emergency situation. Check the news now...*
+_It's an emergency situation. Check the news now..._
 
 *\[Explosion\]*
 
@@ -3470,10 +3470,10 @@ Huh? What's happening outside?
 What the hell!? An earthquake?
 
 **[Xenon]**<br>
-*Hey, what...*
+_Hey, what..._
 
 **[Cherry]**<br>
-*Simon, folks on iM say it's starting again!*
+_Simon, folks on iM say it's starting again!_
 
 **JOE**<br>
 Big Sis? What's starting again?
@@ -3481,7 +3481,7 @@ Big Sis? What's starting again?
 *\[Explosion\]*
 
 **[Xenon]**<br>
-*Quick……leave……there……*
+_Quick……leave……there……_
 
 **JOE**<br>
 Simon, you gotta speak louder. The signal here is ...
@@ -3492,17 +3492,17 @@ Simon, you gotta speak louder. The signal here is ...
 UWAAHHH!!
 
 **[Xenon]**<br>
-*JOE!!!*
+_JOE!!!_
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 ![cpos2403.png](./attachments/cpos2403.png)
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos025"/>[#025] Audio\_Nora\_702\_12\_10\_1
+## <a id="cpos025"/>\[#025\] Audio\_Nora\_702\_12\_10\_1
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -3582,16 +3582,16 @@ Don't say that. Since we're already in the same boat now, let us help out! This 
 **Cherry**<br>
 You're welcome. Speaking of which, where's Nora?
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **[Nora]**<br>
-*Apologies, for asking to use your eyes at this time of the night.*
+_Apologies, for asking to use your eyes at this time of the night._
 
 **PAFF**<br>
 It's alright. I'm also very worried about JOE. Even though it still isn't very stable, a quick attempt... should be alright.
 
 **[Nora]**<br>
-*Got it. I'll adjust the monitor settings first. One moment, please.*
+_Got it. I'll adjust the monitor settings first. One moment, please._
 
 *\[Typing on keyboard\]*
 
@@ -3599,13 +3599,13 @@ It's alright. I'm also very worried about JOE. Even though it still isn't very s
 I heard from NEKO that Miss Cherry appears to be tangled up with people from a gang. The previous attack on the hospital was their doing... Could it be, that it's the same situation this time?
 
 **[Nora]**<br>
-*Certainly can't deny the possibility. However, I still need more information before I can make a decision. The fact that you're willing to lend your ability for me to use is a godsend for Kyuu Hou Kai... You have my sincere gratitude.*
+_Certainly can't deny the possibility. However, I still need more information before I can make a decision. The fact that you're willing to lend your ability for me to use is a godsend for Kyuu Hou Kai... You have my sincere gratitude._
 
 **PAFF**<br>
 It's okay, I don't mind helping. Besides...
 
 **[Nora]**<br>
-*Besides?*
+_Besides?_
 
 **PAFF**<br>
 Even though Nora said that this ability is a curse, and I've never wished for such an ability... if it's for everyone's safety, I am more than willing to use it. In that case, this curse now has the value and reason to exist... The same goes for me too.
@@ -3617,13 +3617,13 @@ Even though Nora said that this ability is a curse, and I've never wished for su
 Nora also feels the same way, right? That's why you're working so hard to research the true nature of this ability.
 
 **[Nora]**<br>
-*... Understanding the mechanisms behind the ability is my current objective. As with how to utilize it, be it based on morality, ethics, or personal decisions, that's something for the future.*
+_... Understanding the mechanisms behind the ability is my current objective. As with how to utilize it, be it based on morality, ethics, or personal decisions, that's something for the future._
 
 **PAFF**<br>
 ......
 
 **[Nora]**<br>
-*... I said too much. Regardless, there are still many unsolved secrets surrounding ability users. Please be sure to take good care of your condition.*
+_... I said too much. Regardless, there are still many unsolved secrets surrounding ability users. Please be sure to take good care of your condition._
 
 **PAFF**<br>
 Yes... I understand.
@@ -3631,25 +3631,25 @@ Yes... I understand.
 *\[Typing on keyboard\]*
 
 **[Nora]**<br>
-*I've finished adjusting the settings. Miss Kaori Minamiya, the target is the attack incident that occurred earlier today at Node 08. You can begin now.*
+_I've finished adjusting the settings. Miss Kaori Minamiya, the target is the attack incident that occurred earlier today at Node 08. You can begin now._
 
 **PAFF**<br>
 Got it... Hmmm... Ah, I can see it! It's just like last time, so many images and voices...
 
 **[Nora]**<br>
-*Very good. Focus on the key points you want to search.*
+_Very good. Focus on the key points you want to search._
 
 **PAFF**<br>
 I see... a person... I think that's JOE? He's arguing with another person on the side of the street...
 
 **[Nora]**<br>
-*... At least we can confirm that Mr. Miller is safe. Can you take a look at the recording of the drones that attacked the site?*
+_... At least we can confirm that Mr. Miller is safe. Can you take a look at the recording of the drones that attacked the site?_
 
 **PAFF**<br>
 Got it. Let me try... Ugh!?
 
 **[Nora]**<br>
-*!? Why all of a sudden...*
+_!? Why all of a sudden..._
 
 *\[Things crashing\]*
 
@@ -3657,19 +3657,19 @@ Got it. Let me try... Ugh!?
 Ah! Whew... I'm... back?
 
 **[Nora]**<br>
-*... Miss Kaori Minamiya, are you awake? Do you recognize me?*
+_... Miss Kaori Minamiya, are you awake? Do you recognize me?_
 
 **PAFF**<br>
 Y...... Yes. Nora... Just now, I did what Nora said and searched the drones in the attack incident. But then the images just suddenly...
 
 **[Nora]**<br>
-*It seems that you're still unable to maintain a connection for an extended amount of time. This is normal. Despite that, I can't help but notice the abnormal numbers displayed right before your disconnection. Please try your best to recall; what did you feel back there?*
+_It seems that you're still unable to maintain a connection for an extended amount of time. This is normal. Despite that, I can't help but notice the abnormal numbers displayed right before your disconnection. Please try your best to recall; what did you feel back there?_
 
 **PAFF**<br>
 ... This massive sense of oppression, coming in from all directions. I was almost unable to breathe... This sensation... I think I've felt it before.
 
 **[Nora]**<br>
-*Felt it before?*
+_Felt it before?_
 
 **PAFF**<br>
 Yes... If I think carefully about it... That's right! It's the same sensation I felt that time...
@@ -3677,98 +3677,98 @@ Yes... If I think carefully about it... That's right! It's the same sensation I 
 **Nora**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos026"/>[#026] Audio\_Nora\_702\_12\_10\_2
+## <a id="cpos026"/>\[#026\] Audio\_Nora\_702\_12\_10\_2
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
 |**Crystal PuNK**| 20  |
 
 ### Log Content
-*\[Call Starts\]*
+_\[Call Starts\]_
 
 **Cherry**<br>
 Who is this? How did you know this number?
 
 **[STANley]**<br>
-*Hello!? Big sis? It's me!*
+_Hello!? Big sis? It's me!_
 
 **Cherry**<br>
 JOE!? Thank goodness, you're fine! I totally thought you were dead!
 
 **[STANley]**<br>
-*Dead my a\*\*! I'm alive and well, okay!*
+_Dead my a\*\*! I'm alive and well, okay!_
 
 **Cherry**<br>
 ... What are you calling from?
 
 **[STANley]**<br>
-*I borrowed a phone from a pedestrian! My shop got blown up for no apparent reason and I was busy helping other victims until moments ago. My phone is likely still buried under all the rubble of my shop.*
+_I borrowed a phone from a pedestrian! My shop got blown up for no apparent reason and I was busy helping other victims until moments ago. My phone is likely still buried under all the rubble of my shop._
 
 **[STANley]**<br>
-*Borrowed my a\*\*... You just came up and grabbed my phone you bastard...*
+_Borrowed my a\*\*... You just came up and grabbed my phone you bastard..._
 
 **[STANley]**<br>
-*Come on, don't be so stingy. It's not like it's a long call...*
+_Come on, don't be so stingy. It's not like it's a long call..._
 
 **Cherry**<br>
 JOE? What is happening?
 
 **[STANley]**<br>
-*Nothing, nothing at all! Just want to tell you guys that I'm safe! Ah, one more thing. Yesterday, Punk got hit with a bad case of diarrhea so I sent him to the pet hospital to rest for a few days. It seems the area around there wasn't affected by the explosions.*
+_Nothing, nothing at all! Just want to tell you guys that I'm safe! Ah, one more thing. Yesterday, Punk got hit with a bad case of diarrhea so I sent him to the pet hospital to rest for a few days. It seems the area around there wasn't affected by the explosions._
 
 **Cherry**<br>
 Haha, guess Punk got pretty lucky this time... Got it. Thanks a lot.
 
 **[STANley]**<br>
-*Aww, no need to be so polite. What about you guys? Everything alright over there?*
+_Aww, no need to be so polite. What about you guys? Everything alright over there?_
 
 **Cherry**<br>
 Yeah, so far so good. Looks like the incident this time is quite serious?
 
 **[STANley]**<br>
-*Oh, "serious" doesn't even begin to describe how bad this is! I didn't see it personally, but folks have told me that a whole group of drones suddenly arrived on site and started blowing s\*\*\* up! On top of that, their attacks were all targeted at key facilities and the business district!*
+_Oh, "serious" doesn't even begin to describe how bad this is! I didn't see it personally, but folks have told me that a whole group of drones suddenly arrived on site and started blowing s\*\*\* up! On top of that, their attacks were all targeted at key facilities and the business district!_
 
 **Cherry**<br>
 Diego... you...
 
 **[STANley]**<br>
-*What? Is Diego behind all this?*
+_What? Is Diego behind all this?_
 
 **Cherry**<br>
 ... Pretty much all but confirmed at this point. He has already admitted that the previous incident at Kyubo Medical Center was his handiwork. We speculate that he wants to use these attacks as sort of a practice run for taking down Kyuu Hou Kai.
 
 **[STANley]**<br>
-*That bastard... Big sis, we must stop him!*
+_That bastard... Big sis, we must stop him!_
 
 **Cherry**<br>
 We will. You settle yourself down first. You should be able to do that, right?
 
 **[STANley]**<br>
-*No worries. Even though my shop was trashed, I still know quite a few people. I won't have any trouble continuing my business too. Hahaha!*
+_No worries. Even though my shop was trashed, I still know quite a few people. I won't have any trouble continuing my business too. Hahaha!_
 
 **Cherry**<br>
 Haha, how trustworthy. Then we'll be asking for your help once the time arrives.
 
 **[STANley]**<br>
-*Hey, are you done yet...*
+_Hey, are you done yet..._
 
 **[STANley]**<br>
-*Woah! Big sis, I'll be hanging up now! Will get in touch again once I settle things down!*
+_Woah! Big sis, I'll be hanging up now! Will get in touch again once I settle things down!_
 
 **Cherry**<br>
 Gotcha. We'll be in touch.
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos027"/>[#027] Audio\_KyuuLab\_702\_12\_11
+## <a id="cpos027"/>\[#027\] Audio\_KyuuLab\_702\_12\_11
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -3778,111 +3778,111 @@ Gotcha. We'll be in touch.
 *\[Data Input\]*
 
 **[Nora]**<br>
-*The report is almost done. One moment, please.*
+_The report is almost done. One moment, please._
 
 **PAFF**<br>
 ......
 
 **[Nora]**<br>
-*Miss Kaori Minamiya, what's the matter? Are you not feeling well?*
+_Miss Kaori Minamiya, what's the matter? Are you not feeling well?_
 
 **PAFF**<br>
 Eh? No... I'm thinking about the things I saw in Node 08 yesterday. It really freaked everyone out...
 
 **[Nora]**<br>
-*......<br>
-You mentioned that you felt it, right? A sensation that's exactly the same as that time.*
+_......<br>
+You mentioned that you felt it, right? A sensation that's exactly the same as that time._
 
 **PAFF**<br>
 Yes... though I'm not exactly sure. I still can't properly focus my mind at a location this far away.
 
 **[Nora]**<br>
-*Take it slowly. You'll get used to it.*
+_Take it slowly. You'll get used to it._
 
 **PAFF**<br>
 Another thing... Can you not refer to me only as Kaori Minamiya? I prefer you call me PAFF.
 
 **[Nora]**<br>
-*"Only"? Your body is without a doubt Kaori Minamiya's body.*
+_"Only"? Your body is without a doubt Kaori Minamiya's body._
 
 **PAFF**<br>
 I know. Nonetheless, to me, Aroma's memory... the other personality of mine is also something that actually exists. I don't want to disregard or only accept one of them...
 
 **[Nora]**<br>
-*Understood, Miss PAFF.*
+_Understood, Miss PAFF._
 
 **PAFF**<br>
 Thank you. Nora... you're a very kind person, despite your appearance making you look difficult to approach. We've all heard your story from ROBO. Everyone... 
 
 **[Nora]**<br>
-*No need to pity me, and no need to think about trying to help me. We can't choose where we're born, but we can choose how we live. This is the way of life I choose myself.*
+_No need to pity me, and no need to think about trying to help me. We can't choose where we're born, but we can choose how we live. This is the way of life I choose myself._
 
 **PAFF**<br>
 I didn't mean that... but that's true. I never thought I would become what I am now either. Nora really is strong\-willed... If it was me, I might not be able to do the same...
 
 **[Nora]**<br>
-*You escaped a controlled environment all by yourself. You traveled this far to search for the truth of your being. On top of that, everything you're doing now; they're all results from your own choices. You're not weak, or I should say, no longer weak. Don't you agree?*
+_You escaped a controlled environment all by yourself. You traveled this far to search for the truth of your being. On top of that, everything you're doing now; they're all results from your own choices. You're not weak, or I should say, no longer weak. Don't you agree?_
 
 **PAFF**<br>
 You have a point. Thank you.<br>
 Ah, since I rarely have the chance to talk with you like this, I have a few questions I want to ask you... but I'm not sure if they'll offend you or not. May I?
 
 **[Nora]**<br>
-*Go ahead, please.*
+_Go ahead, please._
 
 **PAFF**<br>
 With Kyuu Hou Kai... No, even with the general technology available right now, crafting a pair of prosthetics that will allow you to walk again shouldn't be that difficult, right? Why is Nora still using a wheelchair?
 
 **[Nora]**<br>
-*......<br>
-This wheelchair, is a gift from Phoenix. I have no intention to leave it. Kyuu Hou Kai is the only place where I need to move around. If I'm going outside, there's Daigo. This is more than sufficient enough.*
+_......<br>
+This wheelchair, is a gift from Phoenix. I have no intention to leave it. Kyuu Hou Kai is the only place where I need to move around. If I'm going outside, there's Daigo. This is more than sufficient enough._
 
 **PAFF**<br>
 Is that so...?
 
 **[Nora]**<br>
-*Any other questions?*
+_Any other questions?_
 
 **PAFF**<br>
 ... If... I overuse my ability, will my eyes... end up like yours?
 
 **[Nora]**<br>
-*......<br>
-I don't know. But judging from the examination report, we don't have to worry about it any time soon. Your body has high compatibility with the virus, though whether this is a good thing or not is still to be determined.*
+_......<br>
+I don't know. But judging from the examination report, we don't have to worry about it any time soon. Your body has high compatibility with the virus, though whether this is a good thing or not is still to be determined._
 
 **PAFF**<br>
 Is that so...
 
 **[Nora]**<br>
-*... Technically speaking, my eyes aren't actually "blind". However, my optic nerves have been locked deep inside the OS space. Therefore, to see the things that are physically in front of me, I have to rely on footage live\-recorded by these instruments. It's not exactly easy to see them very clearly in that space. Without these instruments, I won't be able to see anything... Not sure if you can understand this explanation.*
+_... Technically speaking, my eyes aren't actually "blind". However, my optic nerves have been locked deep inside the OS space. Therefore, to see the things that are physically in front of me, I have to rely on footage live\-recorded by these instruments. It's not exactly easy to see them very clearly in that space. Without these instruments, I won't be able to see anything... Not sure if you can understand this explanation._
 
 **PAFF**<br>
 Yes. Just like you've mentioned before, if I can't master this ability, my entire mind may end up getting trapped inside...
 
 **[Nora]**<br>
-*"Virtual\-internet Related Post\-Traumatic Stress Disorder", or VR PTSD for short, is a medically recognized disease. According to my research, our situation may be similar to this. In addition, this disease doesn't just affect ability users who are immune to the virus. If regular people suffer excessive impact and stimulation while connected, it may result in a situation where they too have a part of their mind trapped inside that space. *
+_"Virtual\-internet Related Post\-Traumatic Stress Disorder", or VR PTSD for short, is a medically recognized disease. According to my research, our situation may be similar to this. In addition, this disease doesn't just affect ability users who are immune to the virus. If regular people suffer excessive impact and stimulation while connected, it may result in a situation where they too have a part of their mind trapped inside that space. _
 
 **[Nora]**<br>
-*In other words, cyTus... the technology of the entire Library itself and the secrets it hides are deeply related to us. This is also a major subject of the virus research I took over from Phoenix.*
+_In other words, cyTus... the technology of the entire Library itself and the secrets it hides are deeply related to us. This is also a major subject of the virus research I took over from Phoenix._
 
 **PAFF**<br>
 "The Ender"... what exactly is it? And what is the thing I saw when I connected to the Library...?
 
 **[Nora]**<br>
-*It is still unclear, but I believe that everything will be cleared up soon.<br>
-Thanks to you, the vaccine for the virus has made new progress. Perhaps in a few days, we'll be able to develop a sample using this new module. *
+_It is still unclear, but I believe that everything will be cleared up soon.<br>
+Thanks to you, the vaccine for the virus has made new progress. Perhaps in a few days, we'll be able to develop a sample using this new module. _
 
 **PAFF**<br>
 For real!? That's great news!
 
 **[Nora]**<br>
-*Don't get your hopes up too high. All I did was take your genes and adjusted them according to theories and formulas. Whether or not this has any actual effect is still to be determined.*
+_Don't get your hopes up too high. All I did was take your genes and adjusted them according to theories and formulas. Whether or not this has any actual effect is still to be determined._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos028"/>[#028] Cam\_Nora\_702\_12\_14
+## <a id="cpos028"/>\[#028\] Cam\_Nora\_702\_12\_14
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -3892,7 +3892,7 @@ For real!? That's great news!
 *\[Alarm\]*
 
 **[Kyuu Hou Kai System]**<br>
-*Threat invasion detected in area 03, engaging full fortification in three minutes.  Security personnel, please proceed to your battle stations.*
+_Threat invasion detected in area 03, engaging full fortification in three minutes.  Security personnel, please proceed to your battle stations._
 
 **Kyuu Hou Kai Member**<br>
 Fellow guests, please move in this direction.
@@ -3902,14 +3902,14 @@ Don't push NEKO!<br>
 W\-w\-w\-w\-what is going on! Nora\-chan!?
 
 **[Nora]**<br>
-*Apologies. The facility is under attack. Before we can resolve this situation, we would like fellow guests to hide here for now.*
+_Apologies. The facility is under attack. Before we can resolve this situation, we would like fellow guests to hide here for now._
 
 **NEKO#ΦωΦ**<br>
 EH!? What attack? Is it dangerous!?
 
 **[Nora]**<br>
-*Daigo, the screen.<br>
-... It appears that the tunnels in area 03 have already been completely broken through.*
+_Daigo, the screen.<br>
+... It appears that the tunnels in area 03 have already been completely broken through._
 
 **Member D**<br>
 Damnit, how on earth did they find that entrance!? Security team A, team B, report to area 03 immediately!
@@ -3923,23 +3923,23 @@ Is it Diego...? NEKO, you can relax. Kyuu Hou Kai should be able to deal with th
 ... The thing Daigo is holding... is that footage from the entrance? Those are the same model of drones that attacked Kyubo Medical Center...
 
 **[Nora]**<br>
-*However, the scale this time far surpasses that incident. Looks like they're getting serious too.*
+_However, the scale this time far surpasses that incident. Looks like they're getting serious too._
 
 **[Surveillance Camera]**<br>
-*This is security team B. The system cannot stop them! Request...*
+_This is security team B. The system cannot stop them! Request..._
 
 *\[Machine gun\]*
 
 **[Surveillance Camera]**<br>
-*Ugahh...!!*
+_Ugahh...!!_
 
 **Member D**<br>
 Miyamoto!? Answer me!<br>
 Crap... Chief, we'll have to deploy more people to defend.
 
 **[Nora]**<br>
-*This battle will more or less cause everyone some discomfort. Please forgive us. Nonetheless, staying in here will ensure that you won't be in danger.<br>
-Daigo, we'll go to the area 03 control room. I'll personally operate the defense system. *
+_This battle will more or less cause everyone some discomfort. Please forgive us. Nonetheless, staying in here will ensure that you won't be in danger.<br>
+Daigo, we'll go to the area 03 control room. I'll personally operate the defense system. _
 
 **ROBO_Head**<br>
 ......
@@ -3954,20 +3954,20 @@ It's way too dangerous for you to go outside!
 Yeah! Not to mention Nora\-chan can't move around freely. It's better that you stay with us...
 
 **[Nora]**<br>
-*The automation of the defense system is just one of its many forms. I am required to use my ability to connect with the system for it to maximize its effectiveness.<br>
-You all seem very concerned, but we have plenty of experience dealing with attacks of similar scale. Please rest assured.*
+_The automation of the defense system is just one of its many forms. I am required to use my ability to connect with the system for it to maximize its effectiveness.<br>
+You all seem very concerned, but we have plenty of experience dealing with attacks of similar scale. Please rest assured._
 
 **PAFF**<br>
 But, if Nora uses the ability again...
 
 **[Nora]**<br>
-*... It's alright.*
+_... It's alright._
 
 **[ROBO_Head]**<br>
-*Nora, this unit, has firearm installed by Mr. Ichiro. Able to help.*
+_Nora, this unit, has firearm installed by Mr. Ichiro. Able to help._
 
 **[Nora]**<br>
-*I won't allow that. You stay here together with them.*
+_I won't allow that. You stay here together with them._
 
 *\[Wheelchair moving\]*
 
@@ -4007,7 +4007,7 @@ Back off. I'm going to overload the gear in the door lock.
 ROBO...?
 
 **[ROBO_Head]**<br>
-*This room, is Nora and this unit's room. This unit, doesn't want it to suffer any damage.*
+_This room, is Nora and this unit's room. This unit, doesn't want it to suffer any damage._
 
 **Cherry**<br>
 Everyone might be in danger if we don't do something about this!
@@ -4017,7 +4017,7 @@ Everyone might be in danger if we don't do something about this!
 *\[Door Opens\]*
 
 **[ROBO_Head]**<br>
-*Password... Nora, didn't change.*
+_Password... Nora, didn't change._
 
 **Xenon**<br>
 So you know the password, thanks!<br>
@@ -4026,14 +4026,14 @@ Sherry, let's go.
 *\[Parts moving\]*
 
 **[ROBO_Head]**<br>
-*This unit, join as well.*
+_This unit, join as well._
 
 **Cherry**<br>
 A gun...?<br>
 You sure about this?
 
 **[ROBO_Head]**<br>
-*Protect Nora, protect everyone.*
+_Protect Nora, protect everyone._
 
 **Cherry**<br>
 Gotcha. Then you'll act according to my commands. We help Simon create an opportunity, he'll get rid of those drones, just like how we did it back at the Kyubo Medical Center, correct?
@@ -4047,11 +4047,11 @@ You three, stay here. Hayato, watch the door closely.
 **NEKO#ΦωΦ**<br>
 Xenon!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos029"/>[#029] Audio\_Kyuu\_702\_12\_14\_1
+## <a id="cpos029"/>\[#029\] Audio\_Kyuu\_702\_12\_14\_1
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4059,19 +4059,19 @@ Xenon!
 
 ### Log Content
 **[Nora]**<br>
-*What... what is going on here? The defense system... is not attacking those drones?*
+_What... what is going on here? The defense system... is not attacking those drones?_
 
 **Member D**<br>
 So the entire system has been hacked into?
 
 **[Nora]**<br>
-*Are Diego's hackers actually capable of doing this kind of thing...?*
+_Are Diego's hackers actually capable of doing this kind of thing...?_
 
 **Member D**<br>
 We certainly underestimated them a bit too much...
 
 **[Nora]**<br>
-*Whatever. Daigo, help me get connected. I'll take a look and see what the situation is with the system.*
+_Whatever. Daigo, help me get connected. I'll take a look and see what the situation is with the system._
 
 **Member D**<br>
 Yes, Chief.
@@ -4079,23 +4079,23 @@ Yes, Chief.
 *\[Connection\]*
 
 **[Nora]**<br>
-*What... is this?<br>
-...... Ugh!*
+_What... is this?<br>
+...... Ugh!_
 
 **Member D**<br>
 Chief! Are you alright!?
 
 **[Nora]**<br>
-*The system... has become so bizarre.<br>
-Don't worry about me. Grab a weapon and go support the security team. Help them retreat to the central area.*
+_The system... has become so bizarre.<br>
+Don't worry about me. Grab a weapon and go support the security team. Help them retreat to the central area._
 
 **Member D**<br>
 Chief...!?
 
 **[Nora]**<br>
-*Go, now!*
+_Go, now!_
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Machine Gun\]*
 
@@ -4143,8 +4143,8 @@ Out of my way!
 Miss Pauline... ROBO\_Head!?
 
 **[ROBO_Head]**<br>
-*Mr. Daigo, left arm injured. Non\-life threatening.<br>
-Scanning... life signs detected ahead, rescue.*
+_Mr. Daigo, left arm injured. Non\-life threatening.<br>
+Scanning... life signs detected ahead, rescue._
 
 **Member D**<br>
 What are you guys doing here!? How did you get out of that room?
@@ -4171,13 +4171,13 @@ Then we'll do it in multiple tries!<br>
 Robohead, one more time. You ready?
 
 **[ROBO_Head]**<br>
-*Affirmative.*
+_Affirmative._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos030"/>[#030] Audio\_Kyuu\_702\_12\_14\_2
+## <a id="cpos030"/>\[#030\] Audio\_Kyuu\_702\_12\_14\_2
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4191,7 +4191,7 @@ Huff... Puff... Last one left...
 Very good! Hey, you okay?
 
 **[ROBO_Head]**<br>
-*Xenon, stamina depleted. Require water intake.*
+_Xenon, stamina depleted. Require water intake._
 
 **Cherry**<br>
 Are you serious? We just barely ran a few meters!
@@ -4205,24 +4205,24 @@ Shut up......<br>
 *\[Explosion\]*
 
 **[ROBO_Head]**<br>
-*Wall, destroyed. Cause: Pulse bomb used by drones.*
+_Wall, destroyed. Cause: Pulse bomb used by drones._
 
 **Cherry**<br>
 Simon!? Simon! Where are you!?
 
 **Xenon**<br>
-*\*Cough cough\**...! I'm fine!<br>
+_\*Cough cough\*_...! I'm fine!<br>
 ... My device is missing! Where is it!?
 
 **Cherry**<br>
 I have it! Can you come out here?
 
 **Xenon**<br>
-*\*Cough\**... I can't. The wall is blocking the way.<br>
+_\*Cough\*_... I can't. The wall is blocking the way.<br>
 It is likely just attacking at random. It doesn't seem that it has discovered us. Gotta destroy it before that... Robohead, can you destroy the wall?
 
 **[ROBO_Head]**<br>
-*Report: Magazine empty. Physical attack of this unit, unable to fulfill request.*
+_Report: Magazine empty. Physical attack of this unit, unable to fulfill request._
 
 *\[Drones Flying\]*
 
@@ -4248,7 +4248,7 @@ Shut your damn mouth and just tell me! We don't have time!
 However... we need to knock away its armor for my A.I. to lock on... ROBO, you're out of bullets, right?
 
 **[ROBO_Head]**<br>
-*Affirmative.*
+_Affirmative._
 
 **Xenon**<br>
 Sherry, what about you?
@@ -4262,14 +4262,14 @@ Ugh... this interface is so complicated! I can't operate this thing and shoot at
 It's getting closer and closer...
 
 **[Nora]**<br>
-*I'll... do the attack.*
+_I'll... do the attack._
 
 **Xenon**<br>
 Nora!? Where are you?
 
 **[Nora]**<br>
-*In the control room... the defense system... failed just now. But... I've addressed the issue already.<br>
-I'm going to pull the trigger... please be prepared.*
+_In the control room... the defense system... failed just now. But... I've addressed the issue already.<br>
+I'm going to pull the trigger... please be prepared._
 
 *\[Gunshot\]*
 
@@ -4287,37 +4287,37 @@ Sherry!?
 *\[Hacking\]*
 
 **[Nora]**<br>
-*... We did it?*
+_... We did it?_
 
 **[ROBO_Head]**<br>
-*Report: All drones destroyed.<br>
-Miss Cherry hit, bullet wound. Collapsed and currently unconscious.*
+_Report: All drones destroyed.<br>
+Miss Cherry hit, bullet wound. Collapsed and currently unconscious._
 
 **Xenon**<br>
 !!<br>
 Is she alright!?
 
 **[ROBO_Head]**<br>
-*Scanning... Life signs stable.*
+_Scanning... Life signs stable._
 
 **Xenon**<br>
 ... Whew...
 
 **[Nora]**<br>
-*ROBO... take her to the medical room in the central area.<br>
-Mr. Simon Jackson, one moment, please... We'll help free you from the rubble.*
+_ROBO... take her to the medical room in the central area.<br>
+Mr. Simon Jackson, one moment, please... We'll help free you from the rubble._
 
 **Xenon**<br>
 Sherry...
 
 **[Nora]**<br>
-*Please rest assured. We will rescue her with all the resources at our disposal. In the entirety of Node 03, this is the place with the most advanced medical technology.*
+_Please rest assured. We will rescue her with all the resources at our disposal. In the entirety of Node 03, this is the place with the most advanced medical technology._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos031"/>[#031] Cam\_Ward\_702\_12\_14
+## <a id="cpos031"/>\[#031\] Cam\_Ward\_702\_12\_14
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4350,31 +4350,31 @@ Sis Cherry! Waaaaahhhhh!
 ![cpos3101.png](./attachments/cpos3101.png)
 
 **[Nora]**<br>
-*Please remain silent.*
+_Please remain silent._
 
 **NEKO#ΦωΦ**<br>
 Oh...
 
 **[Nora]**<br>
-*Mr. Simon Jackson, please be at ease. She won't be waking up for a while. I programmed it to be that way.*
+_Mr. Simon Jackson, please be at ease. She won't be waking up for a while. I programmed it to be that way._
 
 **Xenon**<br>
 Nora... What do you mean?
 
 **[Nora]**<br>
-*She has slight signs of a concussion. We scanned her brainwaves and discovered some abnormalities. Perhaps it's related to the fact that during the impact, your device had a sudden surge that may have affected her mind.*
+_She has slight signs of a concussion. We scanned her brainwaves and discovered some abnormalities. Perhaps it's related to the fact that during the impact, your device had a sudden surge that may have affected her mind._
 
 **Xenon**<br>
 ... It's all my...
 
 **[Nora]**<br>
-*Please don't fault yourself. You two are heroes who saved everyone... the second time you've done so too. Miss Sherry Pauline is guaranteed to make a full recovery. Please leave it to me.*
+_Please don't fault yourself. You two are heroes who saved everyone... the second time you've done so too. Miss Sherry Pauline is guaranteed to make a full recovery. Please leave it to me._
 
 **Xenon**<br>
 For real? Thank you.
 
 **[Nora]**<br>
-*We should be the ones thanking you two.*
+_We should be the ones thanking you two._
 
 **PAFF**<br>
 We have to say thank you to you as well.
@@ -4398,7 +4398,7 @@ These words of gratitude, you should tell them to Sherry. She'll be much more el
 When will she wake up?
 
 **[Nora]**<br>
-*The life support system and virtual device are currently repairing and stabilizing her mind. Meanwhile, they are providing her with the nutrients she needs and transfusing the blood she lost. In approximately a few hours, she'll be able to make a full recovery. *
+_The life support system and virtual device are currently repairing and stabilizing her mind. Meanwhile, they are providing her with the nutrients she needs and transfusing the blood she lost. In approximately a few hours, she'll be able to make a full recovery. _
 
 **NEKO#ΦωΦ**<br>
 Amazing. Just this one giant machine and you can automatically heal a person!
@@ -4407,14 +4407,14 @@ Amazing. Just this one giant machine and you can automatically heal a person!
 Nora, you look... terrible. Did something happen?
 
 **[Nora]**<br>
-*No... It's not related to Miss Sherry Pauline's situation. It's just that... when I was releasing the defense system from the hacking... ugh... I ran into... some issues...*
+_No... It's not related to Miss Sherry Pauline's situation. It's just that... when I was releasing the defense system from the hacking... ugh... I ran into... some issues..._
 
 **Member D**<br>
 Chief, please return to your toom and get some rest.
 
 **[Nora]**<br>
-*No, I'm fine.<br>
-The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations.*
+_No, I'm fine.<br>
+The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations._
 
 **NEKO#ΦωΦ**<br>
 Eh\~ NEKO wants to stay here with Sis Cherry though...<br>
@@ -4424,8 +4424,8 @@ Can't help it then; let's go to PAFF's room to play some games!
 Why are you so carefree about this whole thing...?
 
 **[Nora]**<br>
-*......<br>
-Alright. Everyone, leave the room so the treatment process can continue.*
+_......<br>
+Alright. Everyone, leave the room so the treatment process can continue._
 
 *\[Door Opens\]*
 
@@ -4433,52 +4433,52 @@ Alright. Everyone, leave the room so the treatment process can continue.*
 ......
 
 **[Nora]**<br>
-*What's the matter?*
+_What's the matter?_
 
 **Xenon**<br>
 Excuse me, but I want to stay here... Can I?
 
 **[Nora]**<br>
-*......<br>
-Alright. You didn't bring your device in, did you?*
+_......<br>
+Alright. You didn't bring your device in, did you?_
 
 **Xenon**<br>
 Yeah.
 
 **[Nora]**<br>
-*Miss Sherry Pauline is still not completely out of danger yet. Before the automatic treatment procedure is complete, please be careful. This life support system is very precise and delicate. Try your best to avoid touching anything.*
+_Miss Sherry Pauline is still not completely out of danger yet. Before the automatic treatment procedure is complete, please be careful. This life support system is very precise and delicate. Try your best to avoid touching anything._
 
 **Xenon**<br>
 Understood.
 
 **[Nora]**<br>
-*... Mr. Simon Jackson.*
+_... Mr. Simon Jackson._
 
 **Xenon**<br>
 Hmm?
 
 **[Nora]**<br>
-*Once she wakes up, there's something I want to tell you and the others.*
+_Once she wakes up, there's something I want to tell you and the others._
 
 **Xenon**<br>
 What is it?
 
 **[Nora]**<br>
-*I hope to tell it in a situation where everyone is present... The clues you brought, I may have figured some things out...*
+_I hope to tell it in a situation where everyone is present... The clues you brought, I may have figured some things out..._
 
 **Xenon**<br>
 ......!<br>
 Got it. I'll stay here with her.
 
 **[Nora]**<br>
-*I'll leave her to you. Also, for one last time, thank you.*
+_I'll leave her to you. Also, for one last time, thank you._
 
 **Xenon**<br>
 Not at all.
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Xenon**<br>
 ......
@@ -4495,11 +4495,11 @@ Sorry, this is all my fault.
 What is happening?<br>
 Hey!?
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos032"/>[#032]  Audio\_Kyuu\_702\_12\_15\_1
+## <a id="cpos032"/>\[#032\]  Audio\_Kyuu\_702\_12\_15\_1
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4519,38 +4519,38 @@ Damnit! Diego, haven't you had enough with your bulls\*\*\*!!<br>
 Machine team, report!
 
 **[Kyuu Hou Kai Member]**<br>
-*Machine team here. The system suddenly went berserk and stopped responding. We've been hacked!*
+_Machine team here. The system suddenly went berserk and stopped responding. We've been hacked!_
 
 **Member D**<br>
 Activate backup power immediately!
 
 **[Kyuu Hou Kai Member]**<br>
-*We're already trying, but the only thing that has worked is a small portion of the backup lighting. We are unable to provide power to all other systems...*
+_We're already trying, but the only thing that has worked is a small portion of the backup lighting. We are unable to provide power to all other systems..._
 
 **[Nora]**<br>
-*Da......<br>
-Daigo...... Daigo! Can you hear me?*
+_Da......<br>
+Daigo...... Daigo! Can you hear me?_
 
 **Member D**<br>
 Chief!? This is Daigo. The signal is very weak. What is happening!?
 
 **[Nora]**<br>
-*I'm not sure either. Report the situation outside to me immediately.*
+_I'm not sure either. Report the situation outside to me immediately._
 
 **Member D**<br>
 The entire power supply for Kyuu Hou Kai has gone offline! We are currently investigating the reason. Not certain if this is yet another attack... Where is Chief now!?
 
 **[Nora]**<br>
-*... I'm in ROBO's room. There's an old terminal here. I'll use it to connect to the system and see what's going on.*
+_... I'm in ROBO's room. There's an old terminal here. I'll use it to connect to the system and see what's going on._
 
 **[Kyuu Hou Kai Member]**<br>
-*Daigo! Bad news!*
+_Daigo! Bad news!_
 
 **Member D**<br>
 What is it?
 
 **[Kyuu Hou Kai Member]**<br>
-*The virus vaccine sample in the central lab has been destroyed!*
+_The virus vaccine sample in the central lab has been destroyed!_
 
 **Member D**<br>
 Vaccine sample? The one made from Kaori Minamiya's genes... So the attack on area 03 was just a bait to lure all our forces to that location? Damnit, what the hell is Diego trying to do!?
@@ -4560,13 +4560,13 @@ Vaccine sample? The one made from Kaori Minamiya's genes... So the attack on are
 Miss Pauline! Medical team, report! Is anyone nearby Miss Pauline's ward!?
 
 **[Kyuu Hou Kai Member]**<br>
-*Report, all the entrances have failed. The only person inside is Mr. Jackson...*
+_Report, all the entrances have failed. The only person inside is Mr. Jackson..._
 
 **Member D**<br>
 Destroy the door! No matter what we do, restoring power to the life support system is of utmost priority!
 
 **[Kyuu Hou Kai Member]**<br>
-*No good... There's no way we can destroy the reinforced door designed by Chief with what we have now... I'm so sorry!*
+_No good... There's no way we can destroy the reinforced door designed by Chief with what we have now... I'm so sorry!_
 
 **Member D**<br>
 F\*\*\*! Is there nothing we can do!?<br>
@@ -4593,11 +4593,11 @@ All of you, come with me!
 **Kyuu Hou Kai Member**<br>
 ... Yes, sir!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos033"/>[#033] Cam\_Ward\_702\_12\_15
+## <a id="cpos033"/>\[#033\] Cam\_Ward\_702\_12\_15
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4702,11 +4702,11 @@ Come on... it's not like there's anybody else here...
 ... Okay.
 
 **Xenon**<br>
-*\*You don't have to cover yourself<br>
+_\*You don't have to cover yourself<br>
 when no one can be trusted<br>
 I'm still here standing beside you<br>
 but they tore us apart <br>
-and I still keep you inside my broken heart\**
+and I still keep you inside my broken heart\*_
 
 **Xenon**<br>
 ......
@@ -4725,11 +4725,11 @@ Sherry...?
 **Xenon**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos034"/>[#034] Audio\_Kyuu\_702\_12\_15\_2
+## <a id="cpos034"/>\[#034\] Audio\_Kyuu\_702\_12\_15\_2
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4744,7 +4744,7 @@ The power is restored...!?
 **Member D**<br>
 Quick! We need to get there as fast as possible!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 **PAFF**<br>
 The power is back!
@@ -4752,7 +4752,7 @@ The power is back!
 **NEKO#ΦωΦ**<br>
 Sis Cherry!
 
-*\[→Signal Switches\]*
+_\[→Signal Switches\]_
 
 *\[Door Opens\]*
 
@@ -4788,7 +4788,7 @@ OUT! We're doing an emergency operation on her.
 **NEKO#ΦωΦ**<br>
 Sis Cherry! Sis Cherry! No...! Waaaahh...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Member D**<br>
 ......
@@ -4797,7 +4797,7 @@ Sis Cherry! Sis Cherry! No...! Waaaahh...
 ... They did everything they could...
 
 **PAFF**<br>
-... *\*Sobs\**...
+... _\*Sobs\*_...
 
 **Hayato**<br>
 ... Damn it...
@@ -4832,7 +4832,7 @@ What's the point of saying sorry now!?
 We don't want things to be like this either!
 
 **[Nora]**<br>
-*Enough.*
+_Enough._
 
 **Member D**<br>
 ... Chief.
@@ -4841,15 +4841,15 @@ We don't want things to be like this either!
 Nora...?
 
 **[Nora]**<br>
-*I'm the one who is responsible for her death. Please don't blame it on the other members.*
+_I'm the one who is responsible for her death. Please don't blame it on the other members._
 
 **Member D**<br>
 Chief, what are you talking about...?
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Nora]**<br>
-*... And that was how things went. It was me who failed to make an immediate decision.*
+_... And that was how things went. It was me who failed to make an immediate decision._
 
 **PAFF**<br>
 Nora, this is not your fault...
@@ -4865,10 +4865,10 @@ NEKO, have you calmed down now? I'm going to let go.
 We don't know. By the time we got here, he was already gone... Everything in the room was smashed. We have no idea what actually happened...
 
 **[Nora]**<br>
-*He's the one who smashed everything in the room, I believe. During the blackout, no one was able to leave or enter this room. It was during that time that Miss Pauline... He bore the brunt of all this. It must be truly painful.*
+_He's the one who smashed everything in the room, I believe. During the blackout, no one was able to leave or enter this room. It was during that time that Miss Pauline... He bore the brunt of all this. It must be truly painful._
 
 **[Nora]**<br>
-*Daigo, send Miss Pauline back to her family and ensure that the people in 08 take good care of everything, including her father.*
+_Daigo, send Miss Pauline back to her family and ensure that the people in 08 take good care of everything, including her father._
 
 *\[Door Opens\]*
 
@@ -4882,16 +4882,16 @@ NEKO? Where are you going!?
 Hey! NEKO!
 
 **[Nora]**<br>
-*Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely.*
+_Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely._
 
 **[Nora]**<br>
-*Just as Miss Asakura said, this place indeed can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. *
+_Just as Miss Asakura said, this place indeed can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. _
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos035"/>[#035] Message\_JOE\_702\_12\_21
+## <a id="cpos035"/>\[#035\] Message\_JOE\_702\_12\_21
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4950,12 +4950,12 @@ Got some stuff I wanna talk to you about too<br>
 Anyway, shoot me a message will ya we're all worried about you<br>
 *[Sent at AM 01:30]*
 
-*\[JOE is offline\]*<br>
+_\[JOE is offline\]_<br>
 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos036"/>[#036] Audio\_KaiStudio\_702\_12\_24
+## <a id="cpos036"/>\[#036\] Audio\_KaiStudio\_702\_12\_24
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -4972,7 +4972,7 @@ Hehe, don't call me Sensei. I haven't seen you in so long. Seems like you've gro
 Muuu\~ don't treat me like a child.
 
 **??????**<br>
-...*\*chuckles\* ...\*sigh\**... Hiding in such a filthy place like this, no wonder folks couldn't find you. Even a cockroach wouldn't want to enter a place like this.
+..._\*chuckles\* ...\*sigh\*_... Hiding in such a filthy place like this, no wonder folks couldn't find you. Even a cockroach wouldn't want to enter a place like this.
 
 **NEKO#ΦωΦ**<br>
 Ahaha… NEKO was able to find him on the streets only because Aroma\-chan helped out. Then I asked brother Kai to...
@@ -5061,7 +5061,7 @@ Haha, very funny. Don't forget, if it wasn't for the fact that you could offer u
 
 **ConneR**<br>
 Don't be like this. Relax. <br>
-...*\*sigh\**... What a hassle. You don't know how to pull yourself out of this, do you? Catch.
+..._\*sigh\*_... What a hassle. You don't know how to pull yourself out of this, do you? Catch.
 
 **Xenon**<br>
 Wah!?
@@ -5091,7 +5091,7 @@ You've spent the majority of your life trying to save the people around you, yet
 
 *\[Guitar\]*
 
-*\[»»»Fast Forward»»»\]*
+_\[»»»Fast Forward»»»\]_
 
 **ConneR**<br>
 This truly is a wonderful piece. You can hear the elegant and exquisite flow of emotions. If Miss Pauline could hear it once more, she'd definitely be moved, wouldn't she?
@@ -5146,11 +5146,11 @@ No. Get the hell out of here.
 **ConneR**<br>
 ... What a shame. Okay then, see you again soon... Maybe.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos037"/>[#037] Audio\_Trans\_03\_702\_12\_26
+## <a id="cpos037"/>\[#037\] Audio\_Trans\_03\_702\_12\_26
 ### Requirements
 |   Character    |Level|
 |----------------|:---:|
@@ -5158,7 +5158,7 @@ No. Get the hell out of here.
 
 ### Log Content
 **[Platform Announcement]**<br>
-*Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line.*
+_Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line._
 
 **PAFF**<br>
 Ah, Mr. Neumann and NEKO are here.
@@ -5170,20 +5170,20 @@ Aroma\-chan!
 Good evening to you all.
 
 **[Nora]**<br>
-*Looks like you weren't able to get Mr. Jackson back.*
+_Looks like you weren't able to get Mr. Jackson back._
 
 **ConneR**<br>
 Unfortunately. However, with the morose state he is in now, I don't think he could be of much help anyway.
 
 **[Nora]**<br>
-*... I understand. I truly do feel sorry for him. <br>
-Well then, before we set out, let's confirm our plan one last time.*
+_... I understand. I truly do feel sorry for him. <br>
+Well then, before we set out, let's confirm our plan one last time._
 
 **ConneR**<br>
 I'll speak first. It may appear that out of nowhere, we've decided to head to Node 08 in a hurry. Besides the fact that we're short on time, there is also another issue. That is——although we currently have Miss PAFF's ability, the effect seems to differ in terms of its range.
 
 **[Nora]**<br>
-*That's correct. Since we've already locked onto our key target——Ivy is very likely is in 08, I believe it will be best if we can resolve everything there.*
+_That's correct. Since we've already locked onto our key target——Ivy is very likely is in 08, I believe it will be best if we can resolve everything there._
 
 **ConneR**<br>
 On top of that, although the little kitten and loverboy are moving around with us right now, I suggest that as soon as we arrive there you two find a safe place to hide.
@@ -5199,7 +5199,7 @@ I'll be frank. Although your courage and will are indeed worthy of admiration, t
 ……
 
 **[Nora]**<br>
-*I agree with Mr. Neumann. Things may become very dangerous. For those without particular skill sets, it's best that you stay out of it.*
+_I agree with Mr. Neumann. Things may become very dangerous. For those without particular skill sets, it's best that you stay out of it._
 
 **NEKO#ΦωΦ**<br>
 How come…
@@ -5214,13 +5214,13 @@ Oh…
 Miss PAFF, once we arrive there, we may need you to make contact with Ivy in that so\-called "OS" space immediately. Before that...... ROBO\_Head.
 
 **[ROBO_Head]**<br>
-*Yes.*
+_Yes._
 
 **ConneR**<br>
 Are you sure the method you mentioned previously can work?
 
 **[ROBO_Head]**<br>
-*Report: Initial calculations, results, plausible.*
+_Report: Initial calculations, results, plausible._
 
 **Nora**<br>
 ……
@@ -5232,12 +5232,12 @@ Good. If that's the case, I might just have a chance to help Miss PAFF while she
 ……?
 
 **[Platform Announcement]**<br>
-*Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line.*
+_Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line._
 
 **[Nora]**<br>
-*It's time.*
+_It's time._
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

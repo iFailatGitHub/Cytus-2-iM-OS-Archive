@@ -1,40 +1,40 @@
 # Aroma OS Logs
 ## <a id="toc"/>List of Logs
-- [[#001] Cam\_Hospital\_693\_08\_16](#aos001)
-- [[#002] Audio\_Hospital\_694\_03\_28](#aos002)
-- [[#003] Audio\_ARC\_H\_694\_5\_20](#aos003)
-- [[#004] Audio\_Academy\_694\_08\_01](#aos004)
-- [[#005] Cam\_Academy\_694\_08\_01](#aos005)
-- [[#006] Audio\_Academy\_694\_08\_12](#aos006)
-- [[#007] Message\_Group\_694\_08\_15](#aos007)
-- [[#008] Cam\_Academy\_694\_08\_19](#aos008)
-- [[#009] Audio\_Noah\_695\_01\_21](#aos009)
-- [[#010] Cam\_Noah\_695\_04\_20](#aos010)
-- [[#011] Aroma\_Interview\_697\_08\_31](#aos011)
-- [[#012] Audio\_Mono\_698\_12\_20](#aos012)
-- [[#013] Cam\_Mono\_699\_01\_13](#aos013)
-- [[#014] Audio\_Mono\_699\_02\_25](#aos014)
-- [[#015] Audio\_Mono\_699\_05\_01](#aos015)
-- [[#016] Mail\_Æsir\_701\_09\_18](#aos016)
-- [[#017] Audio\_Mono\_701\_09\_20](#aos017)
-- [[#018] cyTus\_Server08\_702\_01\_17](#aos018)
-- [[#019] cyTus\_Server08\_702\_01\_18](#aos019)
-- [[#020] Mail\_Chris\_702\_03\_13](#aos020)
-- [[#021] Aroma\_Mobile\_702\_03\_27](#aos021)
-- [[#022] Audio\_Noah\_702\_06\_25](#aos022)
-- [[#023] cyTus\_Server08\_702\_07\_09](#aos023)
-- [[#024] Audio\_Arena\_702\_07\_27](#aos024)
-- [[#025] Audio\_ARC\_H\_702\_07\_28](#aos025)
-- [[#026] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1](#aos026)
-- [[#027] Audio\_Noah\_702\_08\_03](#aos027)
-- [[#028] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2](#aos028)
-- [[#029] Audio\_Noah\_702\_09\_01](#aos029)
-- [[#030] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3](#aos030)
-- [[#031] Cam\_Noah\_702\_09\_07](#aos031)
-- [[#032] Cam\_Noah\_693\_08\_09](#aos032)
-- [[#033] Cam\_ARC\_H\_694\_05\_12](#aos033)
+- [\[#001\] Cam\_Hospital\_693\_08\_16](#aos001)
+- [\[#002\] Audio\_Hospital\_694\_03\_28](#aos002)
+- [\[#003\] Audio\_ARC\_H\_694\_5\_20](#aos003)
+- [\[#004\] Audio\_Academy\_694\_08\_01](#aos004)
+- [\[#005\] Cam\_Academy\_694\_08\_01](#aos005)
+- [\[#006\] Audio\_Academy\_694\_08\_12](#aos006)
+- [\[#007\] Message\_Group\_694\_08\_15](#aos007)
+- [\[#008\] Cam\_Academy\_694\_08\_19](#aos008)
+- [\[#009\] Audio\_Noah\_695\_01\_21](#aos009)
+- [\[#010\] Cam\_Noah\_695\_04\_20](#aos010)
+- [\[#011\] Aroma\_Interview\_697\_08\_31](#aos011)
+- [\[#012\] Audio\_Mono\_698\_12\_20](#aos012)
+- [\[#013\] Cam\_Mono\_699\_01\_13](#aos013)
+- [\[#014\] Audio\_Mono\_699\_02\_25](#aos014)
+- [\[#015\] Audio\_Mono\_699\_05\_01](#aos015)
+- [\[#016\] Mail\_Æsir\_701\_09\_18](#aos016)
+- [\[#017\] Audio\_Mono\_701\_09\_20](#aos017)
+- [\[#018\] cyTus\_Server08\_702\_01\_17](#aos018)
+- [\[#019\] cyTus\_Server08\_702\_01\_18](#aos019)
+- [\[#020\] Mail\_Chris\_702\_03\_13](#aos020)
+- [\[#021\] Aroma\_Mobile\_702\_03\_27](#aos021)
+- [\[#022\] Audio\_Noah\_702\_06\_25](#aos022)
+- [\[#023\] cyTus\_Server08\_702\_07\_09](#aos023)
+- [\[#024\] Audio\_Arena\_702\_07\_27](#aos024)
+- [\[#025\] Audio\_ARC\_H\_702\_07\_28](#aos025)
+- [\[#026\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1](#aos026)
+- [\[#027\] Audio\_Noah\_702\_08\_03](#aos027)
+- [\[#028\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2](#aos028)
+- [\[#029\] Audio\_Noah\_702\_09\_01](#aos029)
+- [\[#030\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3](#aos030)
+- [\[#031\] Cam\_Noah\_702\_09\_07](#aos031)
+- [\[#032\] Cam\_Noah\_693\_08\_09](#aos032)
+- [\[#033\] Cam\_ARC\_H\_694\_05\_12](#aos033)
 
-## <a id="aos001"/>[#001] Cam\_Hospital\_693\_08\_16
+## <a id="aos001"/>\[#001\] Cam\_Hospital\_693\_08\_16
 ### Log Content
 **Helena**<br>
 ...... Ugh......
@@ -76,12 +76,12 @@ Hey, where are you going? You are not in the shape to run around...
 **Bryan**<br>
 It's fine. Both of you didn't suffer severe injuries. Your sister is in the ICU. I'll take you there.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 ![aos0101.png](./attachments/aos0101.png)
 
 **Helena**<br>
-...... No... this can't be... *\*Bawls\**!!!!
+...... No... this can't be... _\*Bawls\*_!!!!
 
 **Noah**<br>
 ......
@@ -149,11 +149,11 @@ We will think of other methods to save her. Please believe in us!
 **Noah**<br>
 ... I'll leave it to you.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos002"/>[#002] Audio\_Hospital\_694\_03\_28
+## <a id="aos002"/>\[#002\] Audio\_Hospital\_694\_03\_28
 ### Log Content
 *\[Door Opens\]*
 
@@ -232,11 +232,11 @@ Those two... I'll go catch them. Thank you!
 
 *\[Door Opens\]*
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos003"/>[#003] Audio\_ARC\_H\_694\_5\_20
+## <a id="aos003"/>\[#003\] Audio\_ARC\_H\_694\_5\_20
 ### Log Content
 **Aroma**<br>
 Hmm... ugh...
@@ -275,24 +275,24 @@ Ah, right! Here, your Tuner\-san.
 My...?
 
 **[Tuner-san]**<br>
-*Aroma, Good morning\~ Good morning\~*
+_Aroma, Good morning\~ Good morning\~_
 
 **Helena**<br>
 It's an electronic pet that has been with you since you were little. It contains so many past photos and videos of us. Let's take a look. Maybe it'll help you recover your memory.<br>
 Tuner\-san, play Album 6860420
 
 **[Tuner-san]**<br>
-*Album 6860420, projection start.*
+_Album 6860420, projection start._
 
 *\[Song（Night Keepers - Bring the light）\]*
 
 **[Aroma]**<br>
-*\*Every time we hide  <br>
+_\*Every time we hide  <br>
 Into shadow that can make us feel love <br>
-Eat the sorrow drink a cup of fear\**
+Eat the sorrow drink a cup of fear\*_
 
 **[Aroma]**<br>
-*Sister! Happy birthday!*
+_Sister! Happy birthday!_
 
 **Aroma**<br>
 This is...?
@@ -304,13 +304,13 @@ You were celebrating my birthday with me. Remember? Aroma's singing really is be
 ... I don't remember anything... but this song sounds very familiar.
 
 **[Aroma]**<br>
-*Hahaha! Sis, you look so funny!*
+_Hahaha! Sis, you look so funny!_
 
 **[Helena]**<br>
-*How dare you throw a cake at me! You little... No running! I'll get you too! Hahaha!*
+_How dare you throw a cake at me! You little... No running! I'll get you too! Hahaha!_
 
 **Aroma**<br>
-*\*Chuckles\**... It looks like so much fun.
+_\*Chuckles\*_... It looks like so much fun.
 
 **Helena**<br>
 You were one heck of a mischievous brat; who knew you would become so shy after you grow up. <br>
@@ -326,7 +326,7 @@ So, how was it? Did anything ring a bell?
 Ah... B, But if the things I forgot are all happy memories like that one, I really hope I can remember them soon... sister.
 
 **Helena**<br>
-...... Aroma...... *\*Sobs\**...
+...... Aroma...... _\*Sobs\*_...
 
 **Aroma**<br>
 ......
@@ -408,11 +408,11 @@ Understood. Thank you so much.
 **Noah**<br>
 It's the least we can do.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos004"/>[#004] Audio\_Academy\_694\_08\_01
+## <a id="aos004"/>\[#004\] Audio\_Academy\_694\_08\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -422,9 +422,9 @@ It's the least we can do.
 *\[Class Bell\]*
 
 **[Lecture System]**<br>
-*Date: 694/08/01<br>
+_Date: 694/08/01<br>
 It's time for the lecture. Fellow students, please take your seats.<br>
-Report: Miss Aroma White has returned from her sick leave. Starting today, she will rejoin class J \- 1 for her academics. Please welcome her back with a round of applause.*
+Report: Miss Aroma White has returned from her sick leave. Starting today, she will rejoin class J \- 1 for her academics. Please welcome her back with a round of applause._
 
 *\[Applause\]*
 
@@ -432,13 +432,13 @@ Report: Miss Aroma White has returned from her sick leave. Starting today, she w
 ......
 
 **[Lecture System]**<br>
-*Miss Aroma White, please take your seat.*
+_Miss Aroma White, please take your seat._
 
 **Aroma**<br>
 ......
 
 **[Lecture System]**<br>
-*Miss Aroma White, please take your seat.*
+_Miss Aroma White, please take your seat._
 
 **Aroma**<br>
 ......
@@ -456,8 +456,8 @@ N, no need to thank me...
 ......
 
 **[Lecture System]**<br>
-*Begin lesson 1 for the day: Introduction to Technology and History, Chapter 5. <br>
-N.A. 501, humans...*
+_Begin lesson 1 for the day: Introduction to Technology and History, Chapter 5. <br>
+N.A. 501, humans..._
 
 **Classmate A**<br>
 Woah... Did she really lose her memory...?
@@ -483,16 +483,16 @@ Ooohhh... Mr. "Good student" is getting mad...
 What did you just say!?
 
 **[Lecture System]**<br>
-*Warning: Mr. Daniel Evans. Please do not make noises that disrupt the lesson. If this continues, your conduct score will be deducted.*
+_Warning: Mr. Daniel Evans. Please do not make noises that disrupt the lesson. If this continues, your conduct score will be deducted._
 
 **Daniel**<br>
 Tch...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos005"/>[#005] Cam\_Academy\_694\_08\_01
+## <a id="aos005"/>\[#005\] Cam\_Academy\_694\_08\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -584,13 +584,13 @@ How is it!? Is there anything else you remember!?
 ... I'm sorry. All I can remember is your last name...
 
 **Iris**<br>
-... *\*Cries\**!
+... _\*Cries\*_!
 
 **Classmate B**<br>
 Why are you crying? This is good news! Give us some time and we can help her remember everything for sure!
 
 **Iris**<br>
-I know... I know... *\*Cries\**...
+I know... I know... _\*Cries\*_...
 
 **Clara**<br>
 Jeez, stop crying... Can't tell if you're happy or sad with your face like this.
@@ -599,7 +599,7 @@ Jeez, stop crying... Can't tell if you're happy or sad with your face like this.
 Iris... I will try my best.
 
 **Iris**<br>
-Yes... *\*Sobs\**...
+Yes... _\*Sobs\*_...
 
 **Classmate A**<br>
 Oh, speaking of people that might collapse if forgotten, there's that guy as well... He should be able to help Aroma remember some things.
@@ -625,11 +625,11 @@ Sighs\~ Seriously, what's the point of having good test scores if you're going t
 **Clara**<br>
 ...... Ah, whatever\~ Forget it. Let's take Aroma on a tour of the Academy. Pretty sure that'll be more helpful than waiting here for that punk.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos006"/>[#006] Audio\_Academy\_694\_08\_12
+## <a id="aos006"/>\[#006\] Audio\_Academy\_694\_08\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -647,7 +647,7 @@ I think she stayed in the music classroom after our previous music lesson ended.
 **Clara**<br>
 Got it. Thanks!
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Door Opens\]*
 
@@ -732,11 +732,11 @@ Sure.
 **Daniel**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos007"/>[#007] Message\_Group\_694\_08\_15
+## <a id="aos007"/>\[#007\] Message\_Group\_694\_08\_15
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -771,7 +771,7 @@ Told you that this is setting up for her idol career. Artists with some kind of 
 Agreed. People don't care about the truth anyway. Good looks get you everything<br>
 *[Sent at PM 21:58]*
 
-*Anonymous Coconut has joined the message group*<br>
+_Anonymous Coconut has joined the message group_<br>
 
 
 **Anonymous Banana**<br>
@@ -848,7 +848,7 @@ Miss A is an idol ya know, she's precious<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos008"/>[#008] Cam\_Academy\_694\_08\_19
+## <a id="aos008"/>\[#008\] Cam\_Academy\_694\_08\_19
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1001,11 +1001,11 @@ You girls go first. I'll be there in a minute.
 **Clara**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos009"/>[#009] Audio\_Noah\_695\_01\_21
+## <a id="aos009"/>\[#009\] Audio\_Noah\_695\_01\_21
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1015,7 +1015,7 @@ You girls go first. I'll be there in a minute.
 *\[Ringtone\]*
 
 **[Chris]**<br>
-*Hi\~ Good morning. Is Aroma there?*
+_Hi\~ Good morning. Is Aroma there?_
 
 **Helena**<br>
 She is. Here, Aroma. It's for you.
@@ -1024,31 +1024,31 @@ She is. Here, Aroma. It's for you.
 ... Hello.
 
 **[Chris]**<br>
-*Long time no see. How are you feeling? Is everything alright?*
+_Long time no see. How are you feeling? Is everything alright?_
 
 **Aroma**<br>
 I'm fine
 
 **[Chris]**<br>
-*It truly was an unfortunate disaster... Thank goodness that all the troublesome stuff is now over. It's about time we reinstate our contract too...*
+_It truly was an unfortunate disaster... Thank goodness that all the troublesome stuff is now over. It's about time we reinstate our contract too..._
 
 **Helena**<br>
 You're talking about her debut, right?
 
 **[Chris]**<br>
-*Yes, that. The good thing is that we disclosed the information right away. News about the car accident was not widespread. Of course, the hype has died down a bit during her year of absence. Our marketing department has come up with several proposals. I'll mail them to you later...*
+_Yes, that. The good thing is that we disclosed the information right away. News about the car accident was not widespread. Of course, the hype has died down a bit during her year of absence. Our marketing department has come up with several proposals. I'll mail them to you later..._
 
 **Helena**<br>
 Before I read your proposals, I want to make one thing clear. Do not mention the car accident unless the situation absolutely calls for it. Focus on Aroma's actual talent first. That way, her public image will be a positive and healthy one.
 
 **[Chris]**<br>
-*Understood... Oh, and another thing. We have plans for her to resume training at Monophonic HQ sometime next week. She should be fine with that, right?*
+_Understood... Oh, and another thing. We have plans for her to resume training at Monophonic HQ sometime next week. She should be fine with that, right?_
 
 **Helena**<br>
 Before that, I want to confirm one thing. Regarding the recovery training lessons, the accident clause in the contract stated that the company will cover the entire cost. Is that correct?
 
 **[Chris]**<br>
-*... Yes, yes, exactly as you said. Man, you sure don't miss a beat, like ever...*
+_... Yes, yes, exactly as you said. Man, you sure don't miss a beat, like ever..._
 
 **Helena**<br>
 Of course I don't. <br>
@@ -1058,27 +1058,27 @@ The medical team has given us the green light to start performing again... Howev
 ......
 
 **[Chris]**<br>
-*...... Aroma?*
+_...... Aroma?_
 
 **Helena**<br>
 ......
 
 **[Chris]**<br>
-*Are there any other concerns? I can still alter my proposals to the higher\-ups...*
+_Are there any other concerns? I can still alter my proposals to the higher\-ups..._
 
 **Helena**<br>
 Thanks, Chris. Aroma is fine with the arrangement. However, I would like you to put everything on hold for now. Act as if we are still considering. Don't rush to start the process right away.
 
 **[Chris]**<br>
-*You said don't rush... but the CEO has been constantly pressuring me to get going though? He seems to think that Aroma should make her debut as soon as possible...*
+_You said don't rush... but the CEO has been constantly pressuring me to get going though? He seems to think that Aroma should make her debut as soon as possible..._
 
 **Helena**<br>
 I don't care. You'll have to find a way to deal with him. That's it for now.
 
 **[Chris]**<br>
-*No, wait a sec...*
+_No, wait a sec..._
 
-*\[Call Ends\]*
+_\[Call Ends\]_
 
 **Helena**<br>
 What's wrong...? Are you still worried about your body? I believe that continuing to pursue your previous dream should help treat your memory loss as well.
@@ -1104,11 +1104,11 @@ Dumb child, no need to apologize... You don't have to force yourself to do this.
 **Aroma**<br>
 Thank you, sister.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos010"/>[#010] Cam\_Noah\_695\_04\_20
+## <a id="aos010"/>\[#010\] Cam\_Noah\_695\_04\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1125,7 +1125,7 @@ Aroma? Noah?
 Happy birthday!
 
 **[Tuner-san]**<br>
-*Happy birthday! Happy birthday!*
+_Happy birthday! Happy birthday!_
 
 **Helena**<br>
 Eh? Awww... I told you that you don't have to celebrate my birthday.
@@ -1161,7 +1161,7 @@ It's been a while since I last heard you sing...
 I've finished... Sister, I wish you a happy birthday.
 
 **Helena**<br>
-Thank you... *\*Sobs\**...
+Thank you... _\*Sobs\*_...
 
 **Noah**<br>
 Come on; she prepared this to cheer you up. Why are you crying?
@@ -1217,11 +1217,11 @@ Haha... OK.
 **Helena**<br>
 Thank you, Aroma...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos011"/>[#011] Aroma\_Interview\_697\_08\_31
+## <a id="aos011"/>\[#011\] Aroma\_Interview\_697\_08\_31
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1235,7 +1235,7 @@ For today's show, we invited a guest that packs a serious punch. So, let's sit t
 *\[Music\]*
 
 **[Narrator]**<br>
-*PAFF, 19 years old, a superstar of "Monophonic Entertainment". In the two years since her debut, she took over the music industry by storm with her beautiful voice and her gorgeous features. Her two albums so far have captured two consecutive \[Best selling female artist\] titles in the "Platinum Awards".  However, despite her immense popularity, she rarely talks or interacts with fans in front of the camera, thus earning her the nickname "The Mysterious Diva". What kind of private persona will she show us today?  Let us find out more about PAFF.*
+_PAFF, 19 years old, a superstar of "Monophonic Entertainment". In the two years since her debut, she took over the music industry by storm with her beautiful voice and her gorgeous features. Her two albums so far have captured two consecutive \[Best selling female artist\] titles in the "Platinum Awards".  However, despite her immense popularity, she rarely talks or interacts with fans in front of the camera, thus earning her the nickname "The Mysterious Diva". What kind of private persona will she show us today?  Let us find out more about PAFF._
 
 **Host**<br>
 Before we welcome our guest, a quick reminder for our audiences: today's show will have a holographic live stream on iM as well\~ Fellow Puffers, connect to cyTus ASAP to have a close encounter with PAFF!<br>
@@ -1331,7 +1331,7 @@ OH, I know this company. However, from what I recall, they've been working on th
 Yes... I don't believe it's available for purchase now. PAFF bought this a long time ago when she's still a little girl.
 
 **[Tuner-san]**<br>
-*Discontinued! Discontinued!*
+_Discontinued! Discontinued!_
 
 **Host**<br>
 Wow\~ What a shame. You can no longer own an electronic pet that is the same style as PAFF's. If you're one of the lucky fellas who bought one, perhaps you can now sell it at a very high price!<br>
@@ -1350,11 +1350,11 @@ Before we continue with the fan questions, we would like PAFF to give us a live 
 **Aroma**<br>
 Ah, okay...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos012"/>[#012] Audio\_Mono\_698\_12\_20
+## <a id="aos012"/>\[#012\] Audio\_Mono\_698\_12\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1365,7 +1365,7 @@ Ah, okay...
 Then that's it for today's meeting. We would like you to address the aforementioned notes. Thank you.
 
 **[Event Organizer]**<br>
-*Got it. We are all very excited about PAFF's amazing performance. Bye bye\~*
+_Got it. We are all very excited about PAFF's amazing performance. Bye bye\~_
 
 **Helena**<br>
 Whew, finally done with that. Aroma, you must be hungry, right?
@@ -1417,7 +1417,7 @@ Eh? Didn't you say you were hungry?
 **Helena**<br>
 ... Alright.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Music\]*
 
@@ -1467,11 +1467,11 @@ Aroma, leave most of the things to sis. I'll deal with them for you.
 **Aroma**<br>
 Understood.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos013"/>[#013] Cam\_Mono\_699\_01\_13
+## <a id="aos013"/>\[#013\] Cam\_Mono\_699\_01\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1516,7 +1516,7 @@ They're almost done recording, right? Enough talking\~ NEKO's going inside. Bye\
 **Chris**<br>
 Hey... hey, wait a minute!
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 **Helena**<br>
 Good work, Aroma. You're in top form today.
@@ -1542,7 +1542,7 @@ Please.
 **Aroma**<br>
 Thanks for the good work.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **NEKO#ΦωΦ**<br>
 What!? Let NEKO go through!
@@ -1573,10 +1573,10 @@ Understood.
 
 *\[Door Opens\]*
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Bodyguard T]**<br>
-*Sister Helena, the car is ready. The traffic is a bit busy right now. We could be cutting it a bit too close...*
+_Sister Helena, the car is ready. The traffic is a bit busy right now. We could be cutting it a bit too close..._
 
 **Helena**<br>
 Understood.<br>
@@ -1609,7 +1609,7 @@ Alright...
 
 ![aos1301.png](./attachments/aos1301.png)
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 **Helena**<br>
 Hello, NEKO. The recording today went very smoothly. Thank you for the song you wrote.
@@ -1635,11 +1635,11 @@ Ehehehe? Why\~? Ok then... You have to make that arrangement though! Deal?
 **Helena**<br>
 Yes yes\~ It's a deal. Then I shall take my leave as well.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos014"/>[#014] Audio\_Mono\_699\_02\_25
+## <a id="aos014"/>\[#014\] Audio\_Mono\_699\_02\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1717,7 +1717,7 @@ Ah, we're boarding as well...
 *\[Elevator warning\]*
 
 **[Elevator System]**<br>
-*Warning: Weight limit exceeded. Please leave the elevator!*
+_Warning: Weight limit exceeded. Please leave the elevator!_
 
 **NEKO#ΦωΦ**<br>
 ... EH?
@@ -1777,11 +1777,11 @@ Yeah yeah! None of your business! Hmph!
 **Chris**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos015"/>[#015] Audio\_Mono\_699\_05\_01
+## <a id="aos015"/>\[#015\] Audio\_Mono\_699\_05\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1815,7 +1815,7 @@ Then find someone to explain this BS to me clearly!
 **Helena**<br>
 I think I'll go take a look. You should finish practicing the remaining parts.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 **NEKO#ΦωΦ**<br>
 I've had it with you people! Do you have any idea how many times this has happened!?
@@ -1888,11 +1888,11 @@ No need to worry. If anything happens, sister will handle it.
 **Aroma**<br>
 ... Got it...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos016"/>[#016] Mail\_Æsir\_701\_09\_18
+## <a id="aos016"/>\[#016\] Mail\_Æsir\_701\_09\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -1918,7 +1918,7 @@ Awaiting your response.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos017"/>[#017] Audio\_Mono\_701\_09\_20
+## <a id="aos017"/>\[#017\] Audio\_Mono\_701\_09\_20
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2062,11 +2062,11 @@ Button up, slowpoke. If something goes wrong, I'm coming for you. Here, Aroma, l
 **Aroma**<br>
 ... OK.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos018"/>[#018] cyTus\_Server08\_702\_01\_17
+## <a id="aos018"/>\[#018\] cyTus\_Server08\_702\_01\_17
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2076,8 +2076,8 @@ Button up, slowpoke. If something goes wrong, I'm coming for you. Here, Aroma, l
 *\[cyTus login\]*
 
 **[cyTus System]**<br>
-*PAFF\-Official has logged in to the block.<br>
-Helena has logged in to the block.*
+_PAFF\-Official has logged in to the block.<br>
+Helena has logged in to the block._
 
 **Chris**<br>
 Hoho, here comes the megastar
@@ -2183,11 +2183,11 @@ Aroma only has to focus on singing. You don't have to worry about random things.
 **Aroma**<br>
 OK...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos019"/>[#019] cyTus\_Server08\_702\_01\_18
+## <a id="aos019"/>\[#019\] cyTus\_Server08\_702\_01\_18
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2239,28 +2239,28 @@ Indeed, A part of this crowd is your most devoted fans. It seems that ROBO\_Head
 *\[System notification\]*
 
 **[Staff A]**<br>
-*Excuse me. Miss PAFF, it's about time.*
+_Excuse me. Miss PAFF, it's about time._
 
 **Helena**<br>
 Is the intro video playing already? How are the effects?
 
 **[Staff B]**<br>
-*Footage is playing normally. Light arrangement is confirmed as well. All set and ready to go.<br>
+_Footage is playing normally. Light arrangement is confirmed as well. All set and ready to go.<br>
 90 seconds until Miss PAFF takes the stage.<br>
-We are a professional virtual LIVE operation team. Please rest assured!*
+We are a professional virtual LIVE operation team. Please rest assured!_
 
 **Aroma**<br>
 Thanks for the hard work.
 
 **[Staff B]**<br>
-*Oh my god... Did you hear that!? PAFF just said "Thanks for the hard work" to me! I'm so touched! My profession switch to this is all worth it!*
+_Oh my god... Did you hear that!? PAFF just said "Thanks for the hard work" to me! I'm so touched! My profession switch to this is all worth it!_
 
 **Helena**<br>
 Hey, where's your professionalism?
 
 **[Staff A]**<br>
-*Ahem... Apologies for what just happened. He was too excited.<br>
-Miss PAFF, please stand inside the red circle. Once the video ends, we'll directly teleport you onto the stage.*
+_Ahem... Apologies for what just happened. He was too excited.<br>
+Miss PAFF, please stand inside the red circle. Once the video ends, we'll directly teleport you onto the stage._
 
 **Helena**<br>
 Got it. We'll be in your care.<br>
@@ -2275,11 +2275,11 @@ Yes.
 
 ![aos1901.png](./attachments/aos1901.png)
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos020"/>[#020] Mail\_Chris\_702\_03\_13
+## <a id="aos020"/>\[#020\] Mail\_Chris\_702\_03\_13
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2312,7 +2312,7 @@ Chris
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos021"/>[#021] Aroma\_Mobile\_702\_03\_27
+## <a id="aos021"/>\[#021\] Aroma\_Mobile\_702\_03\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2329,15 +2329,15 @@ No... I'm fine.
 I'll ask the company to improve the training of the bodyguards. How could they let someone get so close to you...
 
 **[Entertainment News]**<br>
-*The reporter is at Monophonic Entertainment's Performance Hall I right now. We can see that PAFF's autograph session has already concluded. PAFF herself has also been escorted to the car and has left the site. <br>
-As with the audience member who caused a commotion earlier, he has also been taken away from the site by bodyguards and law enforcement agents.*
+_The reporter is at Monophonic Entertainment's Performance Hall I right now. We can see that PAFF's autograph session has already concluded. PAFF herself has also been escorted to the car and has left the site. <br>
+As with the audience member who caused a commotion earlier, he has also been taken away from the site by bodyguards and law enforcement agents._
 
 **Helena**<br>
 The news is already reporting this...
 
 **[Entertainment News]**<br>
-*What is the identity of this reckless man? According to witnesses, this man is a crazed fan who couldn't control his passion. He forced his way through the wall of bodyguards to have an intimate contact with PAFF. This action triggered the other fans on\-site, thus leading to a lot of pushing and shoving. In the commotion, several people were also injured. As of now, the suspect has been taken away by the Administration Bureau for further investigation.<br>
-This is a photo of the suspect (male) taken by one of our reporters.*
+_What is the identity of this reckless man? According to witnesses, this man is a crazed fan who couldn't control his passion. He forced his way through the wall of bodyguards to have an intimate contact with PAFF. This action triggered the other fans on\-site, thus leading to a lot of pushing and shoving. In the commotion, several people were also injured. As of now, the suspect has been taken away by the Administration Bureau for further investigation.<br>
+This is a photo of the suspect (male) taken by one of our reporters._
 
 ![aos2101.png](./attachments/aos2101.png)
 
@@ -2372,11 +2372,11 @@ Hmm?
 **Aroma**<br>
 No... nothing at all.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos022"/>[#022] Audio\_Noah\_702\_06\_25
+## <a id="aos022"/>\[#022\] Audio\_Noah\_702\_06\_25
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2427,7 +2427,7 @@ It should be around once every week to two weeks. However, we want to randomize 
 ... Is that so...
 
 **[Tuner-san]**<br>
-*Aroma is feeling down. Aroma is feeling down...*
+_Aroma is feeling down. Aroma is feeling down..._
 
 *\[Drinks tea\]*
 
@@ -2483,11 +2483,11 @@ I'll go wash my face. Aroma, take a rest.
 **Aroma**<br>
 ... OK.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos023"/>[#023] cyTus\_Server08\_702\_07\_09
+## <a id="aos023"/>\[#023\] cyTus\_Server08\_702\_07\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2498,27 +2498,27 @@ I'll go wash my face. Aroma, take a rest.
 Chris, are you ready on your side?
 
 **[Chris]**<br>
-*Armed and ready. The monitoring program has finished setting. This is the latest version developed by A.R.C. It can monitor and manage all information on its own, as well as filter any keyword we desire. Not even a spec of dust can escape its almighty eye\~*
+_Armed and ready. The monitoring program has finished setting. This is the latest version developed by A.R.C. It can monitor and manage all information on its own, as well as filter any keyword we desire. Not even a spec of dust can escape its almighty eye\~_
 
 **Helena**<br>
 Jesus, how old are you... Are you certain that this program works?
 
 **[Chris]**<br>
-*Come on, sis Helena; You can at least trust me "sometimes"\~<br>
-This program is originally only available to major businesses for Beta testing. It cost the company a fortune to get our hands on this...*
+_Come on, sis Helena; You can at least trust me "sometimes"\~<br>
+This program is originally only available to major businesses for Beta testing. It cost the company a fortune to get our hands on this..._
 
 **Helena**<br>
 All in all, you make sure that harassment messages stay away from PAFF's feed. That's the least you can do.
 
 **[Chris]**<br>
-*No problemo\~ Do you have any idea how much I crap I had to take in order to get this program... Of course I'm gonna use it to its maximum effect!*
+_No problemo\~ Do you have any idea how much I crap I had to take in order to get this program... Of course I'm gonna use it to its maximum effect!_
 
 **Helena**<br>
 This 7th Anniversary event is the key to let Mono's name be known across the world. Those were their exact words. <br>
 Go back and tell them, "Believe PAFF".
 
 **[Chris]**<br>
-*Ok, ok, I get it\~ In short, I'm all set here.*
+_Ok, ok, I get it\~ In short, I'm all set here._
 
 **Helena**<br>
 Very well. We'll move this conversation to iM. If anything happens, PM me.<br>
@@ -2527,21 +2527,21 @@ Aroma, you can start.
 **Aroma**<br>
 OK.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[cyTus login\]*
 
 **[cyTus System]**<br>
-*PAFF\-Official has logged in to the block.<br>
+_PAFF\-Official has logged in to the block.<br>
 Helena has logged in to the block.<br>
-Chris has logged in to the block.*
+Chris has logged in to the block._
 
 **PAFF-Official**<br>
 Good afternoon everybody. This is PAFF. ^^
 
 ![aos2301.png](./attachments/aos2301.png)
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **Chris**<br>
 PAFF is starting to use emoticons now
@@ -2602,7 +2602,7 @@ Negative. Logout now. Your stabilizer has been sending out warnings nonstop.
 **PAFF-Official**<br>
 OK... I'll say goodbye to everyone.
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 **Aroma**<br>
 Everyone feels a bit disappointed...
@@ -2630,17 +2630,17 @@ Sister... I'm so scared... I can't remember anything before the memory loss... N
 ......
 
 **Aroma**<br>
-... I don't want to forget the sister I know now... *\*Sobs\**...
+... I don't want to forget the sister I know now... _\*Sobs\*_...
 
 **Helena**<br>
 Aroma...<br>
 I, it's ok. No need to be scared. I'll contact Noah ASAP. He'll think of a way to help you...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos024"/>[#024] Audio\_Arena\_702\_07\_27
+## <a id="aos024"/>\[#024\] Audio\_Arena\_702\_07\_27
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2682,7 +2682,7 @@ I'm feeling fine... No need to worry.
 Thank goodness. Even though the stabilizers have had fewer issues since Noah optimized them, I still don't want you to force yourself...
 
 **[Tuner-san]**<br>
-*Aroma's feeling well! Feeling well!*
+_Aroma's feeling well! Feeling well!_
 
 **Aroma**<br>
 See. No problem at all.
@@ -2717,7 +2717,7 @@ Understood.
 ... Hmm... Tuner\-san, play the accompanying music for me.
 
 **[Tuner-san]**<br>
-*《Gravity》instrumental, start!*
+_《Gravity》instrumental, start!_
 
 *\[Accompanying music\]*
 
@@ -2741,7 +2741,7 @@ It has been fine recently...
 No, I can't let sister and others worry about me...<br>
 It's not that serious. I can do this...
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 **[Helena]**<br>
 Aroma... No, "Miss PAFF", it is time. Please come to the backstage for final preparations.<br>
@@ -2753,11 +2753,11 @@ Sister...
 **Aroma**<br>
 ... I'll be right there.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos025"/>[#025] Audio\_ARC\_H\_702\_07\_28
+## <a id="aos025"/>\[#025\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2771,48 +2771,48 @@ Sister...
 Are you awake? Director!
 
 **[Noah]**<br>
-*Aroma.*
+_Aroma._
 
 **Aroma**<br>
 Noah... Ugh... What happened to me?
 
 **[Noah]**<br>
-*You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body.*
+_You fainted on stage... Rest assured, the checkup results showed nothing more than mere exhaustion. You'll be fine after some rest and nutrients. Your schedule for the past few days may have taken a serious toll on your body._
 
 **Aroma**<br>
 Where's sister...?
 
 **[Noah]**<br>
-*Resting in the room next door. Because of you, she barely had any rest for the past few days too.*
+_Resting in the room next door. Because of you, she barely had any rest for the past few days too._
 
 **Aroma**<br>
-*\*Sobs\**... *\*Sobs\**...
+_\*Sobs\*_... _\*Sobs\*_...
 
 **[Noah]**<br>
-*What's wrong...?*
+_What's wrong...?_
 
 **Aroma**<br>
-I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... *\*Sobs\**...
+I'm so happy... that I still remember you guys. I was so afraid that I'll forget everything again when I wake up... _\*Sobs\*_...
 
 **[Noah]**<br>
-*... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
-As with the company's events, I'll find a way to let Chris handle them.*
+_... Rest assured. The scan results showed everything to be normal. Starting today, you siblings should both take some time off. You guys are working too much.<br>
+As with the company's events, I'll find a way to let Chris handle them._
 
 **Aroma**<br>
 I'm sorry... I made you guys worried again. I even caused everyone so much trouble...
 
 **[Noah]**<br>
-*No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
-Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep.*
+_No need to apologize. Nobody will blame you for what happened... In fact, I should be the one apologizing to you. As your attending physician, I failed to take good care of your physical conditions...<br>
+Don't overthink yourself. You need to rest. I'll apply some medication to make you feel more relaxed. Enjoy your sleep._
 
 **Aroma**<br>
 OK...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos026"/>[#026] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1
+## <a id="aos026"/>\[#026\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2913,11 +2913,11 @@ Ah, just give me3͘͏\\̶̶̷̀&̴̡̡͡ e͡͠N̸̴̨͞3͘͏\\̶̶̷̀&̴̡̡͡o
 
 ![aos2601.png](./attachments/aos2601.png)
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos027"/>[#027] Audio\_Noah\_702\_08\_03
+## <a id="aos027"/>\[#027\] Audio\_Noah\_702\_08\_03
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -2948,7 +2948,7 @@ The fans are all worried about you. Look at all these letters and gifts.
 I saw them.<br>
 Since I already arrived home, I need to report my status to everyone on iM.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -2960,7 +2960,7 @@ How are you doing? Do you feel any discomfort?
 I'm doing fine... My head doesn't hurt anymore.
 
 **[Tuner-san]**<br>
-*Time right now: 21:00. Medicine time! Medicine time!*
+_Time right now: 21:00. Medicine time! Medicine time!_
 
 **Helena**<br>
 Ah, I'll go prepare it for you. You like your water hot but not too hot, right?
@@ -2999,7 +2999,7 @@ Ah, nothing...
 **Aroma**<br>
 Thank you.
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Door Opens\]*
 
@@ -3048,11 +3048,11 @@ Hmm?
 **Aroma**<br>
 ... Nothing. I... I really like this song.
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos028"/>[#028] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2
+## <a id="aos028"/>\[#028\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3091,7 +3091,7 @@ No problem...@̴;̢̧͟͡|͜͢҉̴́7͢͡。 begin.<br>
 **？？？**<br>
 Well then, here's @̸̧̧͜ẁ̧̨͟s̡̀͝\]̸̧̢̨|̨͘'҉͏̨҉͟ song!
 
-*\[»»» Fast Forward»»»\]*
+_\[»»» Fast Forward»»»\]_
 
 *\[Audience applauds\]*
 
@@ -3161,11 +3161,11 @@ If that'%̧́͠͏(̢́̀͘F̷̀̕!̵͢͠҉r̢>̵͟W͞k͢҉̡͝(̢͘҉̀d̸̶/̷�
 
 *\[Music\]*
 
-*\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]*
+_\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos029"/>[#029] Audio\_Noah\_702\_09\_01
+## <a id="aos029"/>\[#029\] Audio\_Noah\_702\_09\_01
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3243,7 +3243,7 @@ I SAID NO!!
 *\[Knocks over items\]*
 
 **[Tuner-san]**<br>
-*Item shattered. Please be careful.*
+_Item shattered. Please be careful._
 
 **Aroma**<br>
 ......
@@ -3270,7 +3270,7 @@ Stop asking! I don't know!
 ......
 
 **Aroma**<br>
-*Sobs*...
+_Sobs_...
 
 **Helena**<br>
 ......<br>
@@ -3299,11 +3299,11 @@ Sister...
 **Aroma**<br>
 What... just what am I... 
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos030"/>[#030] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3
+## <a id="aos030"/>\[#030\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3329,7 +3329,7 @@ Not at all. I'll wait for you.
 **？？？**<br>
 Gotc n̶͟͏Z̀̕͠)̶́͞͡͞:̨͢k̶͡͡.̧͟҉҉K̸̀͏orro\[҉a͝9̷̶̛ then. A̴̡͘R̴͜t͏̵bye!
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Footsteps\]*
 
@@ -3351,7 +3351,7 @@ F͠ǹ̶҉x̶̢2̴̶̸͞a̴̕͘͜a̡͡sang a few \[̷́҉y̴͞\$͡͡H̛ many son
 **？？？**<br>
 ... It can't be...
 
-*\[Signal Switches\]*
+_\[Signal Switches\]_
 
 *\[Hurried Footsteps\]*
 
@@ -3382,7 +3382,7 @@ UGH! You little b\*\*\*\*...
 *\[Hurried Footsteps\]*
 
 **？？？**<br>
-*\*Huff\*... \*Puff\*...* HELP!
+_\*Huff\*... \*Puff\*..._ HELP!
 
 **？？？**<br>
 You're not getting away!
@@ -3392,11 +3392,11 @@ You're not getting away!
 **？？？**<br>
 AHH2҉҉n4́͡b̢͘7̛͡͡3̷̛͘>̡͠g͞8!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos031"/>[#031] Cam\_Noah\_702\_09\_07
+## <a id="aos031"/>\[#031\] Cam\_Noah\_702\_09\_07
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3433,7 +3433,7 @@ AHAH...... AHHHHHH!!
 Aroma! Wake up!
 
 **Aroma**<br>
-Ahhhh, *\*Sobs\**...
+Ahhhh, _\*Sobs\*_...
 
 **Helena**<br>
 It's okay, Aroma. Everything's fine. See, it's me!
@@ -3442,7 +3442,7 @@ It's okay, Aroma. Everything's fine. See, it's me!
 ... Is it a nightmare?
 
 **Aroma**<br>
-*\*Cries\**...
+_\*Cries\*_...
 
 **Aroma**<br>
 ... Sister?
@@ -3458,7 +3458,7 @@ Yes, it's your sister. I'm right here...
 *\[Stabilizer warning\]*
 
 **Aroma**<br>
-*\*Cries\**... *\*Cries harder\**... *\*Bawls\**...
+_\*Cries\*_... _\*Cries harder\*_... _\*Bawls\*_...
 
 **Helena**<br>
 ... Just what is going on with Aroma!?<br>
@@ -3467,11 +3467,11 @@ Noah, do something!!
 **Noah**<br>
 ......
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos032"/>[#032] Cam\_Noah\_693\_08\_09
+## <a id="aos032"/>\[#032\] Cam\_Noah\_693\_08\_09
 ### Requirements
 |Character|Level|
 |---------|:---:|
@@ -3479,57 +3479,57 @@ Noah, do something!!
 
 ### Log Content
 **[Iris]**<br>
-*The continuation exam is right around the corner. I'm so nervous...*
+_The continuation exam is right around the corner. I'm so nervous..._
 
 **Aroma**<br>
 You don't have to be nervous. According to a senior, the continuation exam from I to J is not actually that difficult.
 
 **[Iris]**<br>
-*It's easy for you to say that, since you, Clara and Daniel are the Big 3. You guys are going to crush this exam with ease... <br>
-If I don't stay in the same grade range as you guys, I'm getting demoted to class 2 the next semester...*
+_It's easy for you to say that, since you, Clara and Daniel are the Big 3. You guys are going to crush this exam with ease... <br>
+If I don't stay in the same grade range as you guys, I'm getting demoted to class 2 the next semester..._
 
 **Aroma**<br>
 You worry too much\~ Iris will be fine too. We studied late every day just for this, didn't we?
 
 **[Iris]**<br>
-*Yes...*
+_Yes..._
 
 **Aroma**<br>
 Just approach it normally. With your current grades, you can mess up 1 or 2 questions and still end up in class 1. All you need to do is perform up to your usual standards. If you're too nervous, you won't remember what you studied.<br>
 Relax\~ We are all going to J\-1, together. 
 
 **[Iris]**<br>
-*Got it! Hearing you say that really calms my mind down... Though I hope you can encourage yourself like that on stage too. Every time I see you on\-stage, I always get sweaty palms because you're literally shaking. Haha.*
+_Got it! Hearing you say that really calms my mind down... Though I hope you can encourage yourself like that on stage too. Every time I see you on\-stage, I always get sweaty palms because you're literally shaking. Haha._
 
 **Aroma**<br>
 Don't tease me like that\~ That's mean!
 
 **[Iris]**<br>
-*Aroma is about to become a celebrity... feels like you're going to another world. I'm happy for you, but I also feel a bit... lonely. When you become famous, will we still be friends?*
+_Aroma is about to become a celebrity... feels like you're going to another world. I'm happy for you, but I also feel a bit... lonely. When you become famous, will we still be friends?_
 
 **Aroma**<br>
 You're overexaggerating... I promise you, that no matter what happens, we will always be best friends. Forever.
 
 **[Iris]**<br>
-*Uh\-huh! Deal!<br>
-On a side note, it's getting pretty late. Is it ok for you to stay up till now?*
+_Uh\-huh! Deal!<br>
+On a side note, it's getting pretty late. Is it ok for you to stay up till now?_
 
 **Aroma**<br>
 Sister is not coming home tonight, so I can stay up a bit later. However, it's about time I go to sleep too.
 
 **[Iris]**<br>
-*Yep, same for me. See you tomorrow at school then! Goodnight,*
+_Yep, same for me. See you tomorrow at school then! Goodnight,_
 
 **Aroma**<br>
 Goodnight\~
 
-*\[Call ends\]*
+_\[Call ends\]_
 
 **Aroma**<br>
 Yawns\~ Tuner\-san, set the alarm clock. I'm going to bed.
 
 **[Tuner-san]**<br>
-*Alarm clock set. Goodnight, Aroma\~ Goodnight\~*
+_Alarm clock set. Goodnight, Aroma\~ Goodnight\~_
 
 *\[Crashing noises\]*
 
@@ -3565,7 +3565,7 @@ Those old bastards! Hoarding all the resources yet don't have the knowledge to d
 They understand nothing! The importance of this technique! This will offer a brand\-new interpretation to existing technology!! Such a major breakthrough! Could anybody else achieve these results!?
 
 **[Tuner-san]**<br>
-*Noah blood alcohol level too high, recommend proper rest.*
+_Noah blood alcohol level too high, recommend proper rest._
 
 **Noah**<br>
 Shut up...
@@ -3613,11 +3613,11 @@ You should've realized for a while now, right? Compare to Helena... I rather... 
 **Aroma**<br>
 No...... AHHHHHH!!
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="aos033"/>[#033] Cam\_ARC\_H\_694\_05\_12
+## <a id="aos033"/>\[#033\] Cam\_ARC\_H\_694\_05\_12
 ### Requirements
 |Character|Level|
 |---------|:---:|
