@@ -827,8 +827,7 @@ RAAAARRGHHHH!!!!!
 
 **Man B**<br>
 !?<br>
-You......! How'd you get behind me......<br>
-
+You......! How'd you get behind me......
 
 *\[Fist\]*
 
@@ -907,7 +906,7 @@ Don't be fooled by her looks, she's really something in the ring. The audience i
 
 **Man In Black**<br>
 Haha, didn't I tell you? It's not under the Bureau's jurisdiction, so it's kind of in a gray area. <br>
-In any case, if you are confident in your fighting and up for earning some extra cash, then give it a try. I'm no gangster, I am a serious businessman. I won't force you if you aren't interested. 
+In any case, if you are confident in your fighting and up for earning some extra cash, then give it a try. I'm no gangster, I am a serious businessman. I won't force you if you aren't interested.
 
 **Sagar**<br>
 ......
@@ -1223,8 +1222,7 @@ F\*\*\*! I don't give a s\*\*\*! I hate it when there's someone stronger than me
 
 **Alex**<br>
 With skills like that, why aren't you fighting? You didn't even take the money. What's wrong with you?<br>
-... Where'd you learn to fight?<br>
-
+... Where'd you learn to fight?
 
 **Sagar**<br>
 My dad used to be on the Exploration Team, so I guess it's whatever style they use. I happened upon your scene 'cuz I'm saving money to join the squad. When I found out what was really going on I lost interest. Simple as that.
@@ -1325,8 +1323,7 @@ I'm out for you!
 
 **Alex**<br>
 Well, it's not exactly like that. Let me put it this way, I've been after you this whole time.<br>
-But you were right, I can't defeat any of those motherf\*\*\*ing training officers! Haha, but I have to admit that this is an interesting place.<br>
-
+But you were right, I can't defeat any of those motherf\*\*\*ing training officers! Haha, but I have to admit that this is an interesting place.
 
 **Sagar**<br>
 ... This is not a place for you to fight.
@@ -1442,7 +1439,7 @@ You know as well as I do that they're just looking for the top guy. The higher\-
 
 **Trainee P**<br>
 Being trained like a dog every day, being forced to drop out of the team after a few years...... <br>
-We don't want that, so we wanna ask you for a favor. 
+We don't want that, so we wanna ask you for a favor.
 
 **Sagar**<br>
 You want me to go easy on you guys during the exam?
@@ -1488,7 +1485,7 @@ Hmph!
 Holy s\*\*\*, what the f\*\*\*, he's a monster...
 
 **Trainee H**<br>
-Don't be scared! There are 3 of us! Surround him! 
+Don't be scared! There are 3 of us! Surround him!
 
 *\[Blocks\]*
 
@@ -1749,8 +1746,7 @@ _Need help? I can arrange for some guys..._
 
 **Bruno**<br>
 Almost finished. No worries.<br>
-We meeting up?<br>
-
+We meeting up?
 
 **[Sagar]**<br>
 _Already been 3 minutes... It's not like you to forget._
@@ -1858,7 +1854,7 @@ When Captain issued the command, everyone was surprised. You were the only one w
 
 **Bruno**<br>
 ... You're overthinking it.<br>
-I've felt like this fugitive was something special since the very beginning. You think A.R.C. would send the entire team of elites just to catch a simple fugitive? There's something more going on. 
+I've felt like this fugitive was something special since the very beginning. You think A.R.C. would send the entire team of elites just to catch a simple fugitive? There's something more going on.
 
 **Lucy**<br>
 So, you expected something like this to happen?
@@ -2262,8 +2258,7 @@ Yo, if you get caught...
 
 **Alex**<br>
 I'll finish it right up. Won't be a problem.<br>
-Or, I could just do this...<br>
-
+Or, I could just do this...
 
 **Sagar**<br>
 Hey! What're you doing!
@@ -2939,8 +2934,7 @@ Destroying the valuable remains of mankind everywhere, killing innocent people, 
 ... Don't know where you heard that, we've never... killed innocent people... We need this to get by... But you... you people who live by some strange code that you decide upon... You take away our right to live... Who's the real piece of s\*\*\*?
 
 **Sagar**<br>
-......<br>
-
+......
 
 **Fox - 03 Captain**<br>
 ......<br>
@@ -2987,8 +2981,7 @@ Actually... there's something I wanted to ask you. That robber we killed... I do
 
 **Edwards**<br>
 You're a lot like him...<br>
-Indeed, even if you've got greater abilities, I don't believe anyone has the right to determine whether one lives or dies. But as you saw, not everyone thinks like this. People get consumed by power, excessively worshipping their own faith, causing their values to get swallowed up... I believe that you're just like Luka and won't become like that. But do you believe?<br>
-
+Indeed, even if you've got greater abilities, I don't believe anyone has the right to determine whether one lives or dies. But as you saw, not everyone thinks like this. People get consumed by power, excessively worshipping their own faith, causing their values to get swallowed up... I believe that you're just like Luka and won't become like that. But do you believe?
 
 **Sagar**<br>
 ......
@@ -3110,8 +3103,7 @@ Oh? You know how I talk now, do you? Or is this how you lure me in?
 I've still got the beetle.
 
 **Alex**<br>
-......<br>
-
+......
 
 **Lucy**<br>
 Don't know how you got into the Exploration Team with such a flippant attitude...
@@ -3753,8 +3745,7 @@ _\[Signal Lost\]_
 This is channel 107.83, Captain Sagar...
 
 **[Rin]**<br>
-_Sagar? It's me..._<br>
-
+_Sagar? It's me..._
 
 **Sagar**<br>
 Rin! What a coincidence. I wanted to get in contact with you! I found a new plant. The shape of the leaf is like a crescent moon. It's got purple, reddish fruits...

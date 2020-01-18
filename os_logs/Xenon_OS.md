@@ -330,13 +330,13 @@ Gravity! She sang Gravity!
 Robo\_head is the best!!
 
 **JOE**<br>
-... Something like that. I wasn't at the event, so I have no idea what they are talking about. 
+... Something like that. I wasn't at the event, so I have no idea what they are talking about.
 
 **Xenon**<br>
-.... If you ask me, I say it's gibberish spewed out by a bunch of drunkards. Don't call me for such pointless things. 
+.... If you ask me, I say it's gibberish spewed out by a bunch of drunkards. Don't call me for such pointless things.
 
 **JOE**<br>
-Come on, don't be so cold. To be honest I'm quite curious about this event and I think you're a better source than these people. 
+Come on, don't be so cold. To be honest I'm quite curious about this event and I think you're a better source than these people.
 
 **Xenon**<br>
 All I really remember that day is that there's a blackout in the venue, which resulted in Æsir not taking the stage and the venue going into complete chaos. Nothing else.
@@ -345,7 +345,7 @@ All I really remember that day is that there's a blackout in the venue, which re
 It seems that the thing they are arguing about is whether or not the opening performances actually happened.
 
 **Xenon**<br>
-You mean ROBO and PAFF? I can't remember it too clearly, but I believe they did finish their performance as planned. 
+You mean ROBO and PAFF? I can't remember it too clearly, but I believe they did finish their performance as planned.
 
 **JOE**<br>
 You guys heard it. Testimony from a staff member. Now stop arguing.
@@ -664,7 +664,7 @@ Just like you said, he's a pain in the neck. However, to A.R.C., his talent and 
 Do the admins know about this?
 
 **Davis**<br>
-Yes. The people who know this are the admins, management and then you. If other employees or even worse, civilians get hold of this information, it might create commotion and panic. So I would like you to keep this a secret. 
+Yes. The people who know this are the admins, management and then you. If other employees or even worse, civilians get hold of this information, it might create commotion and panic. So I would like you to keep this a secret.
 
 **Xenon**<br>
 ... Understood. However, I would like to monitor Colin's system and internet personally. I don't think he is someone that can be kept down so easily.
@@ -712,7 +712,7 @@ No matter how hard I try I can only get the IP address. Haven't run into an encr
 Does our company really have someone like that?
 
 **Xenon**<br>
-Can't say it's impossible. People that come to work at A.R.C. are all extremely skilled. 
+Can't say it's impossible. People that come to work at A.R.C. are all extremely skilled.
 
 **Mark**<br>
 So this guy chose to hide his abilities, yet writes a letter like this to challenge you?
@@ -724,7 +724,7 @@ The only possible candidate I can think of right now is the new advisor. I met h
 Oh. How was it?
 
 **Xenon**<br>
-He's a complete a\-hole. However, I might have to admit that he indeed has something special, or else the company would not give a non\-regular employee access to so many things. 
+He's a complete a\-hole. However, I might have to admit that he indeed has something special, or else the company would not give a non\-regular employee access to so many things.
 
 **Mark**<br>
 He still thinks it's not enough though.
@@ -797,7 +797,7 @@ Technology is the torch that lights the road for humans and we are the ones hold
 That only applies to you right? I'm not that great.
 
 **ConneR**<br>
-Don't underestimate yourself. It's a complete tragedy for a talent like you to be at the bottom. I look forward to the day you make your leap to the top. 
+Don't underestimate yourself. It's a complete tragedy for a talent like you to be at the bottom. I look forward to the day you make your leap to the top.
 
 **Xenon**<br>
 ... Thanks for the compliment.
@@ -872,16 +872,16 @@ Yes. Data shows that in addition to yesterday's incident, reports of physical di
 We need to talk about this. Public pressure is now at a breaking point after yesterday's incident. The higher\-ups are starting to panic. We have made an announcement to advise users to use traditional connection instead of the ID chips. However, that's only a temporary solution; we need to find the real reason behind all this as soon as possible.
 
 **Xenon**<br>
-Right now, I've eliminated the possibilities of hacker and internet virus. The reason is that during those incidents, we did not detect any abnormal active connections 
+Right now, I've eliminated the possibilities of hacker and internet virus. The reason is that during those incidents, we did not detect any abnormal active connections
 
 **Mark**<br>
 Then is it because of the user's personal health conditions?
 
 **Davis**<br>
-If it's personal health, the circumstances where the symptoms appear should be a lot simpler. 
+If it's personal health, the circumstances where the symptoms appear should be a lot simpler.
 
 **Xenon**<br>
-Now here's the key point. Remember the Æsir\-FEST I just mentioned? In a bizarre coincidence, it turns out that every single person who displayed the symptoms was a participant of Æsir\-FEST. 
+Now here's the key point. Remember the Æsir\-FEST I just mentioned? In a bizarre coincidence, it turns out that every single person who displayed the symptoms was a participant of Æsir\-FEST.
 
 **Davis**<br>
 I recall that you were the one monitoring that event, right? Did you sense anything abnormal back then?
@@ -893,10 +893,10 @@ There was a sudden blackout, but I don't remember any error messages about the i
 Æsir only does things through the internet. There's no way the admins can do anything about him.
 
 **Xenon**<br>
-Then I'll do it myself. It shouldn't be that hard to locate where his activity records originate from.  
+Then I'll do it myself. It shouldn't be that hard to locate where his activity records originate from.
 
 **Davis**<br>
-Without authorization from the admins, you can't do anything to the guy even if you locate him. 
+Without authorization from the admins, you can't do anything to the guy even if you locate him.
 
 **Xenon**<br>
 They had us handle internet security. Shouldn't they give us a certain degree of power to maintain that?
@@ -908,7 +908,7 @@ About that, it has been a complete stalemate between the admins and me. I know t
 So what? We just sit here, wait for more victims to appear and let the company's reputation go completely down the drain?
 
 **Davis**<br>
-Calm down. Right now we are not 100% sure that Æsir has anything to do with this. However, the direction you pointed to is very believable. I'll talk with the admins to see if we can get something. You should investigate more on this guy first. 
+Calm down. Right now we are not 100% sure that Æsir has anything to do with this. However, the direction you pointed to is very believable. I'll talk with the admins to see if we can get something. You should investigate more on this guy first.
 
 **Xenon**<br>
 ... Understood.
@@ -933,7 +933,7 @@ _\[Replay Ends\]_
 
 ### Log Content
 **Xenon**<br>
-Here's this month's working report. 
+Here's this month's working report.
 
 **Davis**<br>
 Good job. If there's nothing else to report, the meeting is dismissed. Mark, remember to send me last month's contact records.
@@ -948,14 +948,14 @@ Davis, can we talk in private for a moment?
 What's up?
 
 **Xenon**<br>
-About the admins' case, I did some tracking on my own afterward. I discovered that the crime group's activity records are completely different than what the admins' told us in the report. 
+About the admins' case, I did some tracking on my own afterward. I discovered that the crime group's activity records are completely different than what the admins' told us in the report.
 
 **Davis**<br>
 ... How so?
 
 **Xenon**<br>
 The report says it was a year ago when they start operating in Node 08. However, I found out that this organization has been using the dark web to do business across the whole world for nearly a decade.<br>
-There is no way the admins don't know this. I am quite certain that they are hiding something from us. 
+There is no way the admins don't know this. I am quite certain that they are hiding something from us.
 
 **Davis**<br>
 Is that so...? Frankly, I've been doubtful with the admins' careless attitude when it comes to internet crime for a while now. However, that's not part of our responsibility. I would advise you to not dive too far into this, or trouble might get to you.
@@ -986,7 +986,7 @@ There's plenty of nonsense happening within and outside the company. I hope you 
 ... What can a mere IT department head do?
 
 **Davis**<br>
-With your talent level and contribution to the company, it's very unlikely that you'll stop here. Aim for a higher place Simon. To be honest, that's the entire department's expectation of you. 
+With your talent level and contribution to the company, it's very unlikely that you'll stop here. Aim for a higher place Simon. To be honest, that's the entire department's expectation of you.
 
 **Xenon**<br>
 ... Stop talking like you know who I am. I'll deal with this case in my own way.
@@ -1068,19 +1068,19 @@ You're the one to blame for the issue last time... wait, did you just say your i
 I'm using the PC. The connection speed just suddenly dropped.
 
 **Xenon**<br>
-Good. If possible, stay away from using ID chips to access the internet. For now at least. 
+Good. If possible, stay away from using ID chips to access the internet. For now at least.
 
 **NEKO#ΦωΦ**<br>
 Eh? Why?
 
 **Xenon**<br>
-Did you forget about the PAFF Incident? Most of the victims accessed the event through ID chips. 
+Did you forget about the PAFF Incident? Most of the victims accessed the event through ID chips.
 
 **NEKO#ΦωΦ**<br>
 EHH!? So that's really a thing? I always thought it was just fake news!
 
 **Xenon**<br>
-Fake news my ass. Right now the entire department is investigating this. All in all, stay away from the internet for a while. 
+Fake news my ass. Right now the entire department is investigating this. All in all, stay away from the internet for a while.
 
 **NEKO#ΦωΦ**<br>
 Negative! NEKO will die if she can't use the internet!
@@ -1198,7 +1198,7 @@ Just what kind of device are these? I've never seen them before.
 Yeah seriously. I mean why can't the guy just use Black Coins? Man it's a pain in the ass.
 
 **Man A**<br>
-A while ago, some dude bought humans from us with humans. We had to conduct a full physical check up to see if the goods are injured or not. Don't want to do that ever again. 
+A while ago, some dude bought humans from us with humans. We had to conduct a full physical check up to see if the goods are injured or not. Don't want to do that ever again.
 
 **Man B**<br>
 Stop babbling; there are cameras around here. If everything's ok, take it to Cafe. I'll call Boss.
@@ -1219,8 +1219,7 @@ _\[Signal Lost\]_
 **To**: Xenon
 ___
 
-Hello, here are the photos from yesterday's performance.<br>
-
+Hello, here are the photos from yesterday's performance.
 
 ![xos1902.png](./attachments/xos1902.png)
 
@@ -1287,13 +1286,13 @@ Those bastards..._\*sniff sniff\*_, sorry...
 ......
 
 **Xenon**<br>
-It's a request from the admins; about a human trafficking organization who operates through the dark web. 
+It's a request from the admins; about a human trafficking organization who operates through the dark web.
 
 **JOE**<br>
 ......
 
 **Xenon**<br>
-... I don't trust the admins, so I did some tracking on my own. I found out that they've been operating in Node 08 for almost a decade now. 
+... I don't trust the admins, so I did some tracking on my own. I found out that they've been operating in Node 08 for almost a decade now.
 
 **JOE**<br>
 ......
@@ -1442,7 +1441,7 @@ Let me answer the call first. Hello?...Yes... Understood, I'm on my way.
 Work?
 
 **Xenon**<br>
-Yes, gotta go back. I'll put the money here. 
+Yes, gotta go back. I'll put the money here.
 
 **JOE**<br>
 Going back to save the princess?
@@ -1616,8 +1615,7 @@ Report<br>
 Coordinate locked on.<br>
 Has identified suspect through online visual footage.
 
-Analysis:<br>
-
+Analysis:
 
 [![xos2502.png](./attachments/xos2502.png)](https://youtu.be/AdRsMZG6MoE)<br>
 *[Click the image to watch the movie]*
@@ -1867,7 +1865,7 @@ Those things, are you not interested in doing it again? I can guarantee you if y
 
 **Xenon**<br>
 Whenever I see these retards, that idea will still pop into my mind from time to time... But, it's not worth it, so I decide not to.<br>
-After all, what I'm doing at A.R.C. now is more or less the same thing. Only difference is now it has a "legal" label on it. 
+After all, what I'm doing at A.R.C. now is more or less the same thing. Only difference is now it has a "legal" label on it.
 
 **JOE**<br>
 Tch\~ You could've made a s\*\*\* ton of money too.
@@ -2091,17 +2089,17 @@ Everything I said from this moment on is just my baseless speculation: I suspect
 ......
 
 **Mark**<br>
-Cases where the A.I. evolved beyond their original algorithms have already been observed to a different degree. It's no longer something rare in this day and age. This is also the reason why the Administration Bureau has been especially careful when managing this type of technology. 
+Cases where the A.I. evolved beyond their original algorithms have already been observed to a different degree. It's no longer something rare in this day and age. This is also the reason why the Administration Bureau has been especially careful when managing this type of technology.
 
 **Mark**<br>
-In fact, the system Simon wrote is also a direct continuation of the one he wrote when he was still "X". Perhaps some of his logic or personality back then have been mixed into the system and that's what caused the A.I. to lose control after it experienced growth. 
+In fact, the system Simon wrote is also a direct continuation of the one he wrote when he was still "X". Perhaps some of his logic or personality back then have been mixed into the system and that's what caused the A.I. to lose control after it experienced growth.
 
 **Davis**<br>
 If Simon knows about this, these clues would never be found so easily.
 
 **Mark**<br>
 ... I spent a lot of time decrypting these. I wouldn't say that it was done "easily"...<br>
-Besides, what if the situation is that he doesn't know about it? 
+Besides, what if the situation is that he doesn't know about it?
 
 **Davis**<br>
 ......
@@ -2323,7 +2321,7 @@ _Lie detector reaction: normal. The suspect is not lying._
 Certainly... A.R.C. committee member Leo Smith, are you here to represent the company and declare its position? How will you prove that his incident has nothing to do with the company?
 
 **A.R.C. Defender**<br>
-Yes. From now on, I will be speaking in place of Mr. Smith. After applying and complying with the Administration Bureau for a complete investigation, we discovered that all the equipment linked to the malicious attacks are personal equipment of Simon Jackson, which includes his self\-made A.I. system. None of these items have cleared the screening process of both A.R.C. and the Administration Bureau. Therefore, they count as unregistered systems. Although as of now, there are still no laws to regulate this, it also proves that all his personal actions are not related to the company, nor do they represent the company's stance as a whole. 
+Yes. From now on, I will be speaking in place of Mr. Smith. After applying and complying with the Administration Bureau for a complete investigation, we discovered that all the equipment linked to the malicious attacks are personal equipment of Simon Jackson, which includes his self\-made A.I. system. None of these items have cleared the screening process of both A.R.C. and the Administration Bureau. Therefore, they count as unregistered systems. Although as of now, there are still no laws to regulate this, it also proves that all his personal actions are not related to the company, nor do they represent the company's stance as a whole.
 
 **Xenon**<br>
 ......
@@ -2942,7 +2940,7 @@ What do you plan to do next? With you running away to Node 03, aren't you even f
 
 **Cherry**<br>
 ......!<br>
-... Simon, although it's the organization's request that gave me the motive to contact you again, in all honesty... I... 
+... Simon, although it's the organization's request that gave me the motive to contact you again, in all honesty... I...
 
 **Xenon**<br>
 ......
@@ -2975,7 +2973,7 @@ You've always used "the real me" to deny and run away from the Sherry we knew an
 ......
 
 **Xenon**<br>
-But to me, that's the "real" you. It's also the you I once liked. As with the you who has been doing all these "bad" things, that's also the real you. It's just one that I don't know much about yet... or it's just one that you don't want to let me know about. 
+But to me, that's the "real" you. It's also the you I once liked. As with the you who has been doing all these "bad" things, that's also the real you. It's just one that I don't know much about yet... or it's just one that you don't want to let me know about.
 
 **Xenon**<br>
 I am willing to believe that you have your own reasons for doing these things, but you'll have to prove it to me with your actions. After all, the one thing we both hate the most is a relationship that's all talk and no action, isn't it?
@@ -3281,7 +3279,7 @@ Those people in my class, they more or less have issues within their own familie
 You're bullied this badly, yet you still think like that. These kinds of naive ideas will get you in serious danger someday...
 
 **Shannon**<br>
-Many people view cockroaches and spiders as disgusting pests for no particular reason other than their appearances and living habits. However, to cockroaches and spiders, they never had the right to choose. That's their only way of life. Even if they can't understand each other, they are still trying their best to live. I feel like it's the same for people, of how we treat one another. 
+Many people view cockroaches and spiders as disgusting pests for no particular reason other than their appearances and living habits. However, to cockroaches and spiders, they never had the right to choose. That's their only way of life. Even if they can't understand each other, they are still trying their best to live. I feel like it's the same for people, of how we treat one another.
 
 **Xenon**<br>
 No, cockroaches are actually pretty disgusting... right? You're the weird one for not being scared of them...
@@ -3417,7 +3415,7 @@ I'm retiring in a few years. Before that, I'll do whatever I can to make you the
 ......
 
 **Andrew**<br>
-... I know you're very concerned about your kids. However, you're the only person who has a legitimate chance of bringing "Law Enforcement" back on the right tracks. As with the Academy's students, I'll ask the Juvenile Crime Unit to handle them. You just need to focus on completing the Serious Crime Unit's missions. That's the most efficient way for you to earn credits. 
+... I know you're very concerned about your kids. However, you're the only person who has a legitimate chance of bringing "Law Enforcement" back on the right tracks. As with the Academy's students, I'll ask the Juvenile Crime Unit to handle them. You just need to focus on completing the Serious Crime Unit's missions. That's the most efficient way for you to earn credits.
 
 **Kyle**<br>
 ......
@@ -3486,7 +3484,7 @@ Stop pretending. An anonymous tip has provided us with records of you selling dr
 Ha, you guys think this tiny bit of evidence is enough to arrest me?
 
 **Agent A**<br>
-You do have a point. This certainly isn't enough. Information from the dark web doesn't qualify as valid evidence in front of a jury. Therefore, we've prepared some other exhibits. 
+You do have a point. This certainly isn't enough. Information from the dark web doesn't qualify as valid evidence in front of a jury. Therefore, we've prepared some other exhibits.
 
 *\[Places item\]*
 
@@ -3522,7 +3520,7 @@ WAAH! Don't come near me!
 **Agent A**<br>
 Looks like they weren't kidding when they said you really hate insects...<br>
 A good kid shouldn't bully a classmate for this kind of reason, especially someone with a criminal record like you.<br>
-From the looks of it, your dad is lowly scum himself too. So? What do you think? Plead guilty now and you can have a touching reunion with him in the restricted area. 
+From the looks of it, your dad is lowly scum himself too. So? What do you think? Plead guilty now and you can have a touching reunion with him in the restricted area.
 
 **Student A**<br>
 N... no! WAAAAHHHHHH!!
@@ -3728,7 +3726,7 @@ Martin, don't be stubborn. You still have Delia and Nate to take care of. Don't 
 ... If we're talking about having a wife and children, aren't you the same, captain?
 
 **Kyle**<br>
-But our positions are different. In my position, I'm responsible for carrying on Captain Wood's ideals. 
+But our positions are different. In my position, I'm responsible for carrying on Captain Wood's ideals.
 
 **Agent M**<br>
 Ha, haha... Aren't you a crafty one, captain? Only now do you bring up your superior rank...<br>

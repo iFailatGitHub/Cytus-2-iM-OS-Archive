@@ -297,7 +297,7 @@ Repeat comparison...... Complete<br>
 Item with highest relevance: Post excerpt from show "Travel Guide to All Nodes"<br>
 Decision: Threatened due to spread of Node 03\-related information <br>
 Decision: Threatened due to mention of gang\-related information<br>
-Speculation: High correlation between "Her" and Node 03 
+Speculation: High correlation between "Her" and Node 03
 
 Activity planning: Mark then process next file<br>
 Program activation...... start
@@ -498,7 +498,7 @@ Troubleshoot: This unit currently in irregular state, analysis, unavailable<br>
 Signal velocity...... 76%<br>
 Energy conversion efficiency...... 58%<br>
 Fluctuation range...... 9\~12%<br>
-Decision: Core system efficiency decrease due to unknown reason 
+Decision: Core system efficiency decrease due to unknown reason
 
 Emotion database comparison...... Complete<br>
 Decision: This unit currently in "Sad" emotion
@@ -897,7 +897,7 @@ My eyes didn't let me down. Your shell and crucial parts are all military grade 
 _This unit, was created to protect Nora._
 
 **Yamada**<br>
-What are you talking about...? Who is your master? 
+What are you talking about...? Who is your master?
 
 **[ROBO_Head]**<br>
 _... Unknown, this unit's memory unit, damaged.<br>
@@ -1847,7 +1847,7 @@ The night I helped you guys run away... four years have passed since then?<br>
 After you left, both Nora and I were captured by Mogura and taken back. I totally thought I was going to die at first. I only managed to avoid death because Nora offered up herself as the sacrifice. However, as a result, I wasn't allowed to stay in Kyuu Hou Kai anymore.
 
 **Ichiro**<br>
-But around one year ago, she founded the Kyubo Medical Center and got Daigo to secretly give me a job in that industry. Thanks to that, both grandma and I are living pretty well right now. 
+But around one year ago, she founded the Kyubo Medical Center and got Daigo to secretly give me a job in that industry. Thanks to that, both grandma and I are living pretty well right now.
 
 **[ROBO_Head]**<br>
 _Nora... what happened to her?_
@@ -2096,7 +2096,7 @@ _Let this unit... deal with Kim._
 
 **Phoenix**<br>
 Have you taken a look at yourself?<br>
-... ROBO, you are not created as a weapon to kill... 
+... ROBO, you are not created as a weapon to kill...
 
 _\[→File Switches: Cam\_Murata\_702\_11\_27\]_
 
@@ -2521,7 +2521,7 @@ Please, tell me how to control this ability.
 I... as Aroma, I never got the feeling that I was myself. Even now, after remembering the things Kaori experienced, there are still many memories that have yet to awaken... It just feels like I'm still an empty and incomplete person.
 
 **PAFF**<br>
-And now, I'm standing right in front of the gate. All I need to do is take a step inside and I'll get the answers I seek... To me, there's no reason not to do so. 
+And now, I'm standing right in front of the gate. All I need to do is take a step inside and I'll get the answers I seek... To me, there's no reason not to do so.
 
 **Nora**<br>
 ......

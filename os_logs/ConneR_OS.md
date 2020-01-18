@@ -188,7 +188,7 @@ You got a problem with our names!? You better watch your mouth...
 We would like to question you about the recent incident in Ruins N13A448. I hope you can comply. This conversation is being recorded.
 
 **ConneR**<br>
-I have to clarify my stance. We citizens have no obligation to follow any law that was established after A.R.C. and humans took over as admins. Therefore the term "illegal" is quite... inappropriate.  
+I have to clarify my stance. We citizens have no obligation to follow any law that was established after A.R.C. and humans took over as admins. Therefore the term "illegal" is quite... inappropriate.
 
 **Raven**<br>
 Are you finding an excuse for your various crimes? If you want a reminder, that includes illegal trespassing into the forbidden areas, encroachment of public property within Ruins and resisting arrest from Administration Bureau officers, among a long list of others.
@@ -210,7 +210,7 @@ Hawk, calm down.<br>
 Dr. Neumann, can we talk about what happened to your right arm?
 
 **ConneR**<br>
-Even though my memory is still a bit blurry, I told everything to the people that gave me emergency treatment back at the accident site. I believe the medical drones captured every single word I spoke. I don't want to repeat myself. 
+Even though my memory is still a bit blurry, I told everything to the people that gave me emergency treatment back at the accident site. I believe the medical drones captured every single word I spoke. I don't want to repeat myself.
 
 *\[Drinks Tea\]*
 
@@ -238,7 +238,7 @@ All in all, I don't have anything new to tell you people. Everything is in the r
 Your punishment will be issued very soon. We'll see then!
 
 **Raven**<br>
-I will report this to the bureau. It seems that you've run out of tricks this time. I'm sorry. 
+I will report this to the bureau. It seems that you've run out of tricks this time. I'm sorry.
 
 **ConneR**<br>
 Farewell, young fowls.
@@ -268,10 +268,10 @@ Mr. Sagar, A.R.C.'s top exploration team captain. I thought I'd never see you ag
 
 **Sagar**<br>
 Haha, you really do know everything. <br>
-I've heard about the bureau's progress. Since you had no intention to cooperate during the interrogation, the judgment is not looking good... 
+I've heard about the bureau's progress. Since you had no intention to cooperate during the interrogation, the judgment is not looking good...
 
 **ConneR**<br>
-You mean those two young fowls? They call that "Interrogation"... My, my. Too young, too naive. 
+You mean those two young fowls? They call that "Interrogation"... My, my. Too young, too naive.
 
 **Sagar**<br>
 Doctor, I'm not kidding. You might be sentenced to life in prison this time.
@@ -292,7 +292,7 @@ How in the world did you...
 
 **ConneR**<br>
 These types of electronic cuffs was designed in the past for lightweight criminals in the slums. It works based on the bio waves emitted from the skin. Right now, my entire right arm is machine. All I did was mess with the cuffs on my left arm a little, and voilà.<br>
-Be it the admins or A.R.C., they are simply using technology while having no idea how it works. 
+Be it the admins or A.R.C., they are simply using technology while having no idea how it works.
 
 **Sagar**<br>
 ... Doctor, are you planning to break out of prison...?
@@ -302,10 +302,10 @@ I've said it before. We citizens have no obligation to follow any law that was e
 
 **Sagar**<br>
 You really are a man of principles, just like the rumors said.<br>
-To be honest with you, I came here to make you a deal. It may free you from your current criminal charges and punishments. 
+To be honest with you, I came here to make you a deal. It may free you from your current criminal charges and punishments.
 
 **ConneR**<br>
-I guessed as much. 
+I guessed as much.
 
 **Sagar**<br>
 Huh?
@@ -315,13 +315,13 @@ _\*Chuckles\*_ I can crack this piece of junk handcuffs with my eyes closed. Wha
 
 **Sagar**<br>
 Haha... you really did predict everything. I expect no less from the Doctor.<br>
-Actually, the person who came up with this proposal was me. There are plenty of people at A.R.C. who have a deep level of respect for you; I am one of them. We feel that you don't deserve to be locked up like this. 
+Actually, the person who came up with this proposal was me. There are plenty of people at A.R.C. who have a deep level of respect for you; I am one of them. We feel that you don't deserve to be locked up like this.
 
 **ConneR**<br>
 I won't be anyway.
 
 **Sagar**<br>
-Doctor, join us! As a representative of A.R.C., I officially invite you to join us as an advisor. With that position, you can participate in any project we have here. Be it research or exploration, there should be a place for you to display your talents. 
+Doctor, join us! As a representative of A.R.C., I officially invite you to join us as an advisor. With that position, you can participate in any project we have here. Be it research or exploration, there should be a place for you to display your talents.
 
 **ConneR**<br>
 Sure.
@@ -337,7 +337,7 @@ The higher\-ups told me "No f\*\*\*ing way", but I decided to give it a try none
 With your academic knowledge and field experience, combined with the resources and talents at A.R.C. HQ, I believe you won't be disappointed.
 
 **ConneR**<br>
-_\*Chuckles\*_ I don't necessarily agree with the "talent" part, but we'll see about it. 
+_\*Chuckles\*_ I don't necessarily agree with the "talent" part, but we'll see about it.
 
 **Sagar**<br>
 Anyway, thank you so much! Later today, we will have our agents deal with all the registration and documents. Tomorrow morning, someone will take you to the presentation center to listen to the newcomer's guide. <br>
@@ -497,7 +497,7 @@ Master! You finally came back!
 The hugs can wait; let me put my stuff down first... Woah, why are you crying? Are you that touched?
 
 **Grace**<br>
-Apologies. I'll take your luggage to your room. Everything is pretty much in the place where you left them. 
+Apologies. I'll take your luggage to your room. Everything is pretty much in the place where you left them.
 
 **ConneR**<br>
 Thank you. How's father doing?
@@ -542,7 +542,7 @@ Apologies. I thought he would have some reaction after seeing you. Doesn't seem 
 Master! I'm so sorry. It's... _\*sniff\*_... all my fault. If I had taken a better care of Sir, he wouldn't...
 
 **ConneR**<br>
-Don't apologize. I should have come back earlier. I was too obsessed with my own achievements... Looks like I don't even have the chance to show off to him anymore... 
+Don't apologize. I should have come back earlier. I was too obsessed with my own achievements... Looks like I don't even have the chance to show off to him anymore...
 
 **Grace**<br>
 Master...
@@ -941,7 +941,7 @@ What quick chat? I have no intention to chat with you.
 
 **Unknown**<br>
 Simon Jackson, a regular here, right? Heard he's an old friend of yours.<br>
-Talk to me about this person. Anything works. 
+Talk to me about this person. Anything works.
 
 **JOE**<br>
 ......
@@ -1253,7 +1253,7 @@ Indeed. "Conditions", "Rules", "Protocols". Having such arrogant limitations on 
 
 **ConneR**<br>
 Pardon me, I've strayed a bit too far. All in all, I'm not the "mastermind" behind Library's connection errors. On a side note, I'm not the "Anonymous" who has been sending you mail either.<br>
-Instead of wasting time on an old man like me, there are more important matters that you should be dealing with, Mr. Simon Jackson. 
+Instead of wasting time on an old man like me, there are more important matters that you should be dealing with, Mr. Simon Jackson.
 
 _\[Replay Ends\]_
 
@@ -1290,10 +1290,10 @@ ConneR 7020826
 *\[Alarm goes off\]*
 
 **Mark**<br>
-Dr. Neumann, we just received the record of a malicious program's attempt to tamper with the encryption key index of Library's central database. After doing some reverse tracking, one of the attacking IP addresses came from the sub terminal in your office. 
+Dr. Neumann, we just received the record of a malicious program's attempt to tamper with the encryption key index of Library's central database. After doing some reverse tracking, one of the attacking IP addresses came from the sub terminal in your office.
 
 **ConneR**<br>
-What? There must be some kind of misunderstanding. I am not operating the terminal. 
+What? There must be some kind of misunderstanding. I am not operating the terminal.
 
 **Mark**<br>
 It might also be a mistake by the alarm system...
@@ -1302,7 +1302,7 @@ It might also be a mistake by the alarm system...
 So the situation right now is...?
 
 **Mark**<br>
-You might have to go through the safety protocols. We'll handle the checking remotely. 
+You might have to go through the safety protocols. We'll handle the checking remotely.
 
 **ConneR**<br>
 What a bother. Right in the middle of my work too...
@@ -1310,7 +1310,7 @@ What a bother. Right in the middle of my work too...
 *\[Scanning Device\]*
 
 **Mark**<br>
-Did doctor recently use any software or devices that came from unidentified sources? Due to your unique identity, you might be using equipment that is not supplied by A.R.C.   
+Did doctor recently use any software or devices that came from unidentified sources? Due to your unique identity, you might be using equipment that is not supplied by A.R.C.
 
 **ConneR**<br>
 Hmm... not really "unidentified" per say, but some projects use devices that were imported directly from my old lab. They might not meet A.R.C. standards. Does that count?
@@ -1328,7 +1328,7 @@ Full scan complete. Seems that Doctor's sub terminal was just another randomly s
 Glad to hear that. Hope you guys can find the person behind all this soon.
 
 **Mark**<br>
-Thank you for your cooperation. 
+Thank you for your cooperation.
 
 _\[Replay Ends\]_
 
@@ -1445,7 +1445,7 @@ Her lab number is...?
 Room C3101, in the central database area. That room is quite hard to find, so you may need to ask those who work there. The name's "Rin".
 
 **Shinshima**<br>
-You can also bring your data with you there while you're at it. 
+You can also bring your data with you there while you're at it.
 
 **ConneR**<br>
 Thank you so much. I really appreciate your help.
@@ -1468,7 +1468,7 @@ C3101? Do we even have a room that begins with C3 in our area?
 In the restricted zone maybe? Go down the hallway 'til you reach the end, then turn left. There's an elevator there. I've rarely been there though, so you might have to look for it yourself after you go up.
 
 **ConneR**<br>
-Understood. Thank you for the assistance. 
+Understood. Thank you for the assistance.
 
 _\[»»» Fast Forward »»»\]_
 
@@ -1489,11 +1489,11 @@ S....sorry! I'll turn off the projection first!
 I thought one of the forbidden area creatures just broke into the lab... are you working?
 
 **Rin**<br>
-Umm... N, not really. I was too enthralled by the environment hologram... sorry. 
+Umm... N, not really. I was too enthralled by the environment hologram... sorry.
 
 **ConneR**<br>
 Cough... apologies. I lost my composure back there. <br>
-Greetings, Miss Rin. I am Colin Neumann Jr. from Library. Yesterday, I sent in some data of the Node 03 forbidden areas. I'm here to see how the analysis is going. 
+Greetings, Miss Rin. I am Colin Neumann Jr. from Library. Yesterday, I sent in some data of the Node 03 forbidden areas. I'm here to see how the analysis is going.
 
 **Rin**<br>
 I, I'll try and find it. Please wait a minute!
@@ -1543,7 +1543,7 @@ I don't mind...
 
 **ConneR**<br>
 Let me take a look at the data...<br>
-I see... a very detailed analysis indeed. So many little things that I didn't notice. Just as good as they say. You really do know a lot about Node 03's culture. 
+I see... a very detailed analysis indeed. So many little things that I didn't notice. Just as good as they say. You really do know a lot about Node 03's culture.
 
 **Rin**<br>
 T, Thank you.
@@ -1552,19 +1552,19 @@ T, Thank you.
 Have you stayed at Node 03 before?
 
 **Rin**<br>
-Yes. Node 03 is my hometown. 
+Yes. Node 03 is my hometown.
 
 **ConneR**<br>
 I've never been there. What kind of place is it?
 
 **Rin**<br>
-I haven't gone back in a long time... but from what I remember, it's a very beautiful place. The people are kind and passionate. The culture and the architectures are very different from here. It's a colorful and very lively city. 
+I haven't gone back in a long time... but from what I remember, it's a very beautiful place. The people are kind and passionate. The culture and the architectures are very different from here. It's a colorful and very lively city.
 
 **ConneR**<br>
 Hm? From what I've heard, their administration bureau crumbled after "The Decommission". The entire city has been under the control of law\-breakers for more than a hundred years. How long ago was the Node 03 you stayed in?
 
 **Rin**<br>
-Umm... there are still places that are very pretty... I, I don't remember it too clearly. All things from a long time ago...Ah! 
+Umm... there are still places that are very pretty... I, I don't remember it too clearly. All things from a long time ago...Ah!
 
 *\[Cup Spills\]*
 
@@ -1582,7 +1582,7 @@ Uguu... I'm sorry. I've always been a very clumsy person...
 
 **ConneR**<br>
 It's alright. Only a little bit of tea actually got me. I shall no longer disturb you. The analysis is very detailed and well\-done. Thank you. <br>
-In a few days, there should be a new set of statistics sent here. I'll see you then. Goodbye. 
+In a few days, there should be a new set of statistics sent here. I'll see you then. Goodbye.
 
 **Rin**<br>
 U, Understood. I'll try my best!
@@ -1628,19 +1628,19 @@ I'm fine? It's quite rare that you decided to call me on the radio. We're about 
 Umm... I have something I want to ask you; it's about work...
 
 **Sagar**<br>
-Hm? Sure, go ahead. 
+Hm? Sure, go ahead.
 
 **Rin**<br>
-Dr. Neumann from Library sent in the data of an "artifact" for me to analyze. I find it a bit odd. 
+Dr. Neumann from Library sent in the data of an "artifact" for me to analyze. I find it a bit odd.
 
 **Sagar**<br>
 You met with him!? Did he do anything weird to you?
 
 **Rin**<br>
-Um, no. Actually, he's pretty nice to me. 
+Um, no. Actually, he's pretty nice to me.
 
 **Sagar**<br>
-Good. Pay extra attention to that person. He's very sharp. I don't want him to know about that incident. 
+Good. Pay extra attention to that person. He's very sharp. I don't want him to know about that incident.
 
 **Rin**<br>
 Yeah...
@@ -1659,7 +1659,7 @@ He didn't give me the actual item, but judging from the holo\-simulation and the
 
 **Sagar**<br>
 I expect no less from Doc... I've been in this exploration thing with my dad for years; never discovered an artifact of this type...<br>
-But I'm not surprised. He has such an experience trespassing into the forbidden areas and Ruins. Naturally, it makes sense that he secretly owns several grade S artifacts or has information on them. 
+But I'm not surprised. He has such an experience trespassing into the forbidden areas and Ruins. Naturally, it makes sense that he secretly owns several grade S artifacts or has information on them.
 
 **Rin**<br>
 ... Is this legal?
@@ -1672,7 +1672,7 @@ Regardless, complete the report first; but don't report it to the higher\-ups. W
 How about the report for doctor?
 
 **Sagar**<br>
-Umm, let me think... just give him a fake one with minimum analysis, for now at least. 
+Umm, let me think... just give him a fake one with minimum analysis, for now at least.
 
 **Rin**<br>
 Huh? C, Can we do that?
@@ -1685,7 +1685,7 @@ Also, I'm pretty certain that he didn't go through the proper procedures when fi
 OK...
 
 **Sagar**<br>
-If anything comes up, contact me immediately. I won't let anything harm you. 
+If anything comes up, contact me immediately. I won't let anything harm you.
 
 **Rin**<br>
 Thank you... By the way, this artifact actually allowed me to remember some things...
@@ -1705,7 +1705,7 @@ I said before: I won't force you to remember your forgotten past. Instead, I wan
 
 **Sagar**<br>
 Don't be too hard on yourself. You've been plenty of help to me already. <br>
-The job this time is near Node 15. There are tons of exotic plants and flowers in the lower levels of this area. Run some analysis yourself. If there are any particular ones that interest you, tell me. I'll bring them back for you. 
+The job this time is near Node 15. There are tons of exotic plants and flowers in the lower levels of this area. Run some analysis yourself. If there are any particular ones that interest you, tell me. I'll bring them back for you.
 
 **Rin**<br>
 Really? That's awesome!<br>
@@ -1718,7 +1718,7 @@ My god, slow down there miss... No way in hell I can remember all this if you ju
 AH! S, sorry. I was too excited...
 
 **Sagar**<br>
-Haha... it's ok. 
+Haha... it's ok.
 
 **Sagar**<br>
 ... Oh, right. After I come back from this exploration...
@@ -1809,7 +1809,7 @@ No worries; there are still plenty of analyses I can use as references. <br>
 To be honest with you, I'm more curious about your personal opinion on this artifact.
 
 **Rin**<br>
-Uh? Mine?... This looks like some kind of... chip? I'm certain it uses ancient technology, but I've never seen an artifact quite like it... May I ask where did you obtain this? 
+Uh? Mine?... This looks like some kind of... chip? I'm certain it uses ancient technology, but I've never seen an artifact quite like it... May I ask where did you obtain this?
 
 **ConneR**<br>
 This? Well, I can tell you, but only if you promise me that you'll keep a secret. Can you do that?
@@ -1818,19 +1818,19 @@ This? Well, I can tell you, but only if you promise me that you'll keep a secret
 Huh? Um... s, sure...
 
 **ConneR**<br>
-This is a Neumann family treasure that has been passed down for generations, starting from our ancestors before "The Decommission". For two hundred years, no one really knew its meaning and purpose, until my father joined A.R.C. and started researching it. 
+This is a Neumann family treasure that has been passed down for generations, starting from our ancestors before "The Decommission". For two hundred years, no one really knew its meaning and purpose, until my father joined A.R.C. and started researching it.
 
 **Rin**<br>
 Eh? Pre\-Decommission... how come an artifact of such importance is not part of A.R.C.'s listings...?
 
 **ConneR**<br>
-For some reason, father didn't hand this item to A.R.C.; instead, he chose to study it himself. However, even after all these years, he made little to no progress. Now a sickly old man, he passed it down to me. 
+For some reason, father didn't hand this item to A.R.C.; instead, he chose to study it himself. However, even after all these years, he made little to no progress. Now a sickly old man, he passed it down to me.
 
 **Rin**<br>
 My sincere condolences...
 
 **ConneR**<br>
-I believe this chip is the key to understanding ancient technology, which is everything that was left behind by the "Old Humans" for modern humans. It's also the key to allow humans to escape from this made\-up peace we are in right now. We no longer have to live in this deadly greenhouse. 
+I believe this chip is the key to understanding ancient technology, which is everything that was left behind by the "Old Humans" for modern humans. It's also the key to allow humans to escape from this made\-up peace we are in right now. We no longer have to live in this deadly greenhouse.
 
 **Rin**<br>
 D, deadly...?
@@ -1857,13 +1857,13 @@ If I don't get to the bottom of that "thing" that assaulted us, I have a feeling
 
 **ConneR**<br>
 My, my. Look what I've done. Yapping so long about such heavy topics...<br>
-Don't know why, but I feel especially relaxed in this messy, laid\-back environment and in front of you. I don't usually say this much to other people. Apologies. 
+Don't know why, but I feel especially relaxed in this messy, laid\-back environment and in front of you. I don't usually say this much to other people. Apologies.
 
 **Rin**<br>
 I, I don't mind. Thank you for willing to share these with me...
 
 **ConneR**<br>
-You won't spill the beans, right? I trust you. 
+You won't spill the beans, right? I trust you.
 
 **Rin**<br>
 Yes... of course, I won't!
@@ -1915,8 +1915,7 @@ Analysis Report 7020808\_12<br>
 Target Listing: Unknown Artifact<br>
 Quantity: 1<br>
 Note: Artifact provided by Dr. Colin Neumann Jr.<br>
-Analysis: Environment Simulation Test. Operation Simulation Test. Age Determination.<br>
-
+Analysis: Environment Simulation Test. Operation Simulation Test. Age Determination.
 
 [![cos3202.png](./attachments/cos3202.png)](https://youtu.be/I53d17j6pX4)<br>
 *[Click the image to watch the movie]*
@@ -1981,7 +1980,7 @@ _\*Chuckles\*_ Young man, you have to be more conscious of your words. You spill
 
 **ConneR**<br>
 I am personally quite interested in him as well. Therefore, I did some "investigation" on my own. That's how I knew you are investigating him as well. The recent incident with Miss Kittyears, it has something to do with this, isn't it?<br>
-I figure that if you are actively seeking my advice, it's probably about this case. 
+I figure that if you are actively seeking my advice, it's probably about this case.
 
 **Xenon**<br>
 Investigation? You are using the company's equipment for private stuff again...
@@ -2045,7 +2044,7 @@ From what I heard, you were indeed assaulted.
 
 **ConneR**<br>
 But, I guess all those lies I told in the past have to come back and bite me someday. Nobody believed me... Worst of all, I caused the whole place to collapse. Not even Sagar and his team can recover any evidence.<br>
-I mean, it's an entire group of functioning ones! What a waste... 
+I mean, it's an entire group of functioning ones! What a waste...
 
 **Xenon**<br>
 ... Anyhow, if I take you to that factory now, will you be able to recover something from its core? I'm going back there again with company personnel to retrieve an A.R.C. analyzer and some other equipment left on\-site. They're probably all stolen by that guy.
@@ -2907,7 +2906,7 @@ We're in no hurry too, so have a seat.
 The Neumann household's ancestors were a notable family in Node 13, but that was several hundred years ago. Why the family had such a high status back then is already unidentifiable. The only things that remained were the family teachings and traditions, now reduced to a mere formality.
 
 **ConneR**<br>
-That was until my father took over the family. He became deeply engrossed in the items that have been passed down through the family and began researching them. This was also the reason why he joined the A.R.C. exploration team. I believe you know a few things about his story too, don't you? 
+That was until my father took over the family. He became deeply engrossed in the items that have been passed down through the family and began researching them. This was also the reason why he joined the A.R.C. exploration team. I believe you know a few things about his story too, don't you?
 
 **Xenon**<br>
 Used to be an elite member of the exploration team, until a mission accident that resulted in the death of his entire team. After returning from that mission, he was declared mentally ill and... Ah, sorry. He passed away not too long ago, right? My sincere condolences.
@@ -2988,7 +2987,7 @@ _\[Signal Lost\]_
 
 ### Log Content
 **Saxon**<br>
-... This seems like a pretty significant deal. Never thought it would be from such a young lad like you. 
+... This seems like a pretty significant deal. Never thought it would be from such a young lad like you.
 
 **ConneR**<br>
 I may look like this, but if it's about information and data, I know my stuff.
@@ -3152,7 +3151,7 @@ What you said is true. Area 09, right? I heard rumors about this stuff on the ma
 
 **???**<br>
 According to the rumors, A.R.C. hid a ton of files in that server block. All stuff they don't want the public to see. <br>
-Nobody knows what the actual content in those files is. Both the connection and physical security of that block are extremely tight. As of now, not a single soul has successfully infiltrated it. 
+Nobody knows what the actual content in those files is. Both the connection and physical security of that block are extremely tight. As of now, not a single soul has successfully infiltrated it.
 
 **???**<br>
 Yet a pretty boy like you somehow managed to obtain a part of that data... Don't you find that intriguing?
@@ -3251,10 +3250,10 @@ Yeah. However, from my perspective, he is nothing more than a naive kid who is p
 ......
 
 **Sasha**<br>
-Despite all that, there is no doubt about his skills as a hacker. As of now, no one is able to track him down or find out his real identity. He also has yet to fail an operation. Since it appears that he has little to no personal desires, maybe we can put him to our use. 
+Despite all that, there is no doubt about his skills as a hacker. As of now, no one is able to track him down or find out his real identity. He also has yet to fail an operation. Since it appears that he has little to no personal desires, maybe we can put him to our use.
 
 **ConneR**<br>
-In other words, since he won't try to make a profit with the decrypted data, we get to maintain the market value of the data while getting its content decrypted. 
+In other words, since he won't try to make a profit with the decrypted data, we get to maintain the market value of the data while getting its content decrypted.
 
 **Sasha**<br>
 Yes... The only problem is that this guy only helps those who are "the good guys".
@@ -3263,7 +3262,7 @@ Yes... The only problem is that this guy only helps those who are "the good guys
 No matter how you look at it, I don't think we can be considered "the good guys"...
 
 **Sasha**<br>
-I said before; when dealing with arrogant brats like this who measured the righteousness of things with that utterly crooked ruler in their hearts, we just need to make him "think" that we are on his side. 
+I said before; when dealing with arrogant brats like this who measured the righteousness of things with that utterly crooked ruler in their hearts, we just need to make him "think" that we are on his side.
 
 **ConneR**<br>
 ......!
@@ -3289,10 +3288,10 @@ That is extremely unlikely. The name I told you yesterday... Colin, that's actua
 
 **Sasha**<br>
 ......! A.R.C.'s......<br>
-Sigh... I knew it. You look nothing like someone who actually grew up in these s\*\*\*holes. 
+Sigh... I knew it. You look nothing like someone who actually grew up in these s\*\*\*holes.
 
 **ConneR**<br>
-Even though father has been suspended by the company and is currently resting at home, his contributions to A.R.C. allowed him to keep his role as an honorable employee. As long as his information and privileges are still there in the database, I can use some small tricks and download the data of Area 09 without leaving any trace at all. That's pretty much the gist of it. 
+Even though father has been suspended by the company and is currently resting at home, his contributions to A.R.C. allowed him to keep his role as an honorable employee. As long as his information and privileges are still there in the database, I can use some small tricks and download the data of Area 09 without leaving any trace at all. That's pretty much the gist of it.
 
 **Sasha**<br>
 But there's a data flow limit for each download. If you overdo it, you'll get busted, right?
@@ -3307,7 +3306,7 @@ Indeed, you're right on point. The time intervals between each download can't be
 Empty out!?
 
 **Sasha**<br>
-Yes. You'll do it on the last time you download the data. We still don't know what A.R.C. stored in there, nor do we know who did all this. Nevertheless, I can make a safe guess that whoever did this also plan to profit privately from it. If they hit the market earlier than us, we're gonna be completely screwed. 
+Yes. You'll do it on the last time you download the data. We still don't know what A.R.C. stored in there, nor do we know who did all this. Nevertheless, I can make a safe guess that whoever did this also plan to profit privately from it. If they hit the market earlier than us, we're gonna be completely screwed.
 
 **ConneR**<br>
 Understood.
@@ -3541,7 +3540,7 @@ Only personal information?
 _No, not just civilians with regular identities. So far, we've seen personal information of the Administration Bureau's law enforcement agents, both in\-service and retired ones. There's also info on people in the organization. On top of that, it even has info that has already been deleted from the civilian database. _
 
 **ConneR**<br>
-... I remember now. A.R.C. once helped the Administration Bureau recreated the identity recognition system. It recorded the ID of every civilian. A few years ago, when they updated the hardware equipment... I see. Back then, someone kept these data stored somewhere to one day profit from it. 
+... I remember now. A.R.C. once helped the Administration Bureau recreated the identity recognition system. It recorded the ID of every civilian. A few years ago, when they updated the hardware equipment... I see. Back then, someone kept these data stored somewhere to one day profit from it.
 
 **[Sasha]**<br>
 _Afraid so. I don't think this is the act of an entire company. Even so, judging by the scale of this plan, it's safe to assume that there was at least a group of people doing this behind the company's back. If that's the case, others who are trying to steal this data will certainly run into a lot of obstacles. Fortunately, we have you. _
@@ -4394,7 +4393,7 @@ F\*\*\*!? You sold us out...
 *\[Smoke bomb explodes\]*
 
 **Member B**<br>
-_\*cough\* \*cough\*!_ Open fire! 
+_\*cough\* \*cough\*!_ Open fire!
 
 *\[Gunshots\]*
 
@@ -4634,7 +4633,7 @@ From now on, this conversation will not be recorded. Just we two will know. Wats
 Opportunity...?
 
 **Andrew**<br>
-The current Administartion Bureau... Let's just say there's a lot of red tape involving various organizations. If this continues, no matter how hard we try to stop criminal activities on the surface, these organizations will simply yield greater and greater power in the shadows of society. That's why I initiated this plan. 
+The current Administartion Bureau... Let's just say there's a lot of red tape involving various organizations. If this continues, no matter how hard we try to stop criminal activities on the surface, these organizations will simply yield greater and greater power in the shadows of society. That's why I initiated this plan.
 
 *\[File Projection\]*
 
@@ -4818,7 +4817,7 @@ Didn't I already tell you? I really like who you are right now. That's a truth f
 When I first saw your profile, I had already completely forgotten that feeling. I was only thinking about how I was going to use you to achieve my goals.
 
 **ConneR**<br>
-But I guess I'm not as rational as I consider myself to be. After spending some time together with you, that truth has become more obvious it than ever was. 
+But I guess I'm not as rational as I consider myself to be. After spending some time together with you, that truth has become more obvious it than ever was.
 
 **Sasha**<br>
 ......
@@ -5541,8 +5540,7 @@ When my search went nowhere, I began to go through music books from that era. I 
 Inside the layer is a piece of sheet music with just a single note. The note on this one is a half note with the tag "Core of the Azure". Then, you'd find another half note in another book and combine them to create a complete measure. The tag on that one would be "Sound of the Heart". Judging by the rest and the tags on the notes, these pieces of sheet music can all match into pairs.
 
 **ConneR**<br>
-"Core of the Azure; Sound of the Heart"... Still can't understand what it means...<br>
-
+"Core of the Azure; Sound of the Heart"... Still can't understand what it means...
 
 **Sasha**<br>
 My instincts tell me... this is probably utilized by the organization as a way to confirm identities and conduct regular operations.
@@ -5656,7 +5654,7 @@ _\*Chuckles\*_ Did I not tell you about this? A.R.C. has already dispatched peop
 
 **Sasha**<br>
 ......!<br>
-How did you know about something this important... 
+How did you know about something this important...
 
 **ConneR**<br>
 I only found out about this a few days ago. It's all thanks to the watch shop owner's watch... I made some minor changes to it.
@@ -5710,7 +5708,7 @@ _\[>>> FastE҉̴͠҉D̸̛͟͞>>>\]_
 Install... Are we not going to the main\\̡̡͟d̸̀̕͢͡\*̵͏̴̧͞\_̸̴͟͡k̸8҉̴̵́̕\_̴̕͝͞Ķ̷͝t̷́͟? Why isn't this done through a system announcement?
 
 **̴͟͝͏̛?̵̨̀̕?̶҉?̨̢̛?̸͟͝**<br>
-We've been observing you guys for more than a year. We determined that you twoq̧͡҉̷X̵̢͘͝8̡\]̸̧́̕͟M̨̛͏̵̧ R̵̵̕͟X̸̵̧͘͘3̷̧̛̕͏q̴͝͏̧/̵͞/̸̢̕5̧͟͡fulfill the qualifications. Next, we will be usingņ̷̡͟͠t͘͠g̷̸͡͠͠\[͢҉̵͞2̴̀͟\`̵̧͟medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained3̢̕͜͢'̶̧̀4̴̶K̵̢̀̕D̷̷K̛͟͏̸͡ų̨̡̛u̴͝, as well as attempt to analyze said information. 
+We've been observing you guys for more than a year. We determined that you twoq̧͡҉̷X̵̢͘͝8̡\]̸̧́̕͟M̨̛͏̵̧ R̵̵̕͟X̸̵̧͘͘3̷̧̛̕͏q̴͝͏̧/̵͞/̸̢̕5̧͟͡fulfill the qualifications. Next, we will be usingņ̷̡͟͠t͘͠g̷̸͡͠͠\[͢҉̵͞2̴̀͟\`̵̧͟medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained3̢̕͜͢'̶̧̀4̴̶K̵̢̀̕D̷̷K̛͟͏̸͡ų̨̡̛u̴͝, as well as attempt to analyze said information.
 
 **?̸̴̕͝?̸̢̛́?̶̧͟**<br>
 ... You guys?
@@ -5974,7 +5972,7 @@ The person you are now is still very much to my liking.
 Well then, Auf Wiedersehen… partner.
 
 **Sasha**<br>
-... We shall meet again someday. 
+... We shall meet again someday.
 
 _\[Signal Lost\]_
 

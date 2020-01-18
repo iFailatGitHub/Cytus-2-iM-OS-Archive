@@ -1757,7 +1757,7 @@ Sigh\~\~\~ Yeah, because of the stream incident last time. Like, what the hell! 
 Can I sit next to you? We're all big fans of you!
 
 **NEKO#ΦωΦ**<br>
-Sure\~ 
+Sure\~
 
 *\[Door Opens\]*
 
@@ -1792,11 +1792,10 @@ Today, I'm going to introduce you young folks to one of my researches. It's abou
 The first appearance of this type of ant can date back to around three hundred years ago. Unlike other creatures in the Formicidae family, they have a clear, transparent, almost luminous body. On top of that, they are also abnormally intelligent and have a well\-developed social system. Pretty magnificent creatures, aren't they?
 
 **ConneR**<br>
-Crystal Ants are the only type of creature that will "actively" invade the territory of other ants in that habitat. Even if their own colonies are already very prosperous, they will continue to exterminate other ants in order to expand their own territory. On top of that, they are also one of the very few insect species that knows how to use tools. For example, when they detect that their colony is in danger, they will use all kinds of poisonous thorny plants to protect their colony. <br>
-
+Crystal Ants are the only type of creature that will "actively" invade the territory of other ants in that habitat. Even if their own colonies are already very prosperous, they will continue to exterminate other ants in order to expand their own territory. On top of that, they are also one of the very few insect species that knows how to use tools. For example, when they detect that their colony is in danger, they will use all kinds of poisonous thorny plants to protect their colony.
 
 **ConneR**<br>
-This type of ant reproduces at terrifying speeds. While not very poisonous themselves, their deadly aggression and intelligence allowed them to overpower everything. In a very short time, no other species of ant exist in that habitat anymore. They've also ascended to the top of the food chain, having almost no natural enemy. 
+This type of ant reproduces at terrifying speeds. While not very poisonous themselves, their deadly aggression and intelligence allowed them to overpower everything. In a very short time, no other species of ant exist in that habitat anymore. They've also ascended to the top of the food chain, having almost no natural enemy.
 
 **Student A**<br>
 Won't other animals attack them?
@@ -1988,13 +1987,13 @@ The first device that can probe the memory was developed in N.A. 700 by A.R.C. v
 ... What does this have to do with you!? What the hell are you doing here!?
 
 **ConneR**<br>
-Oh, apologies. I'm here to give a lecture. "Contribute to society and A.R.C. as a form of probation." Wasn't you admins the ones that issued that order? 
+Oh, apologies. I'm here to give a lecture. "Contribute to society and A.R.C. as a form of probation." Wasn't you admins the ones that issued that order?
 
 **Hawk**<br>
 That bulls\*\*\* was issued by the higher\-ups... I should've just shot you dead back then!
 
 **ConneR**<br>
-Hahaha, you know that's impossible, don't you? Two naive little fowls, your methods are as amusing as always. Speaking of which, what exactly are you trying to do here, eh? Harassing such a cute young girl. 
+Hahaha, you know that's impossible, don't you? Two naive little fowls, your methods are as amusing as always. Speaking of which, what exactly are you trying to do here, eh? Harassing such a cute young girl.
 
 **Student**<br>
 Hey, what's happening there? Something big seems to be going on.
@@ -3156,7 +3155,7 @@ Here, wipe your tears.
 Yes... thank you.
 
 **NEKO#ΦωΦ**<br>
-.. Are there any hints in the memory just now? Something related to that Clara. Ah, if you're still not feeling well, don't bother. No need to force yourself. 
+.. Are there any hints in the memory just now? Something related to that Clara. Ah, if you're still not feeling well, don't bother. No need to force yourself.
 
 **PAFF**<br>
 Umm... This... it's a bit... blurry... Clara went to Daniel's home to wait for him...
@@ -3751,7 +3750,7 @@ Thank you, Miss Russell!
 NEKO?
 
 **NEKO#ΦωΦ**<br>
-08 Daily... Isn't that the media that secretly sneaked photos of NEKO's home? Popping out all of a sudden and saying you want to help... you can't fool NEKO! NEKO doesn't trust you! You're gonna write some BS news report about this, aren't you?  
+08 Daily... Isn't that the media that secretly sneaked photos of NEKO's home? Popping out all of a sudden and saying you want to help... you can't fool NEKO! NEKO doesn't trust you! You're gonna write some BS news report about this, aren't you?
 
 **Hayato**<br>
 Umm.. that's... It's not what you think...
@@ -3766,7 +3765,7 @@ Who you calling little!? Who asked for your help? Smelly Paparazzi! Old Hag!
 ... O\-OLD HAG!?
 
 **PAFF**<br>
-A\-apologies, Miss Russell! We'll be leaving right away... NEKO. 
+A\-apologies, Miss Russell! We'll be leaving right away... NEKO.
 
 **NEKO#ΦωΦ**<br>
 Wait a second! NEKO's not done yet...

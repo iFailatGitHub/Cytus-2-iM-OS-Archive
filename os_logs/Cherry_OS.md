@@ -50,12 +50,12 @@
 ## <a id="chos001"/>\[#001\] Message\_Xenon\_702\_09\_01
 ### Log Content
 **Cherry**<br>
-Hello Simon, it's been a while
+Hello Simon, it's been a while<br>
 If you see this message, can you reply to me...?<br>
 _[Sent at 06:59 AM]_
 
 **Cherry**<br>
-...I know you may not have forgiven me yet 
+...I know you may not have forgiven me yet <br>
 But I do have something important that I want to tell you. If you see this, please call me back...<br>
 _[Sent at 11:32 PM]_
 
@@ -110,7 +110,7 @@ Back then, I never had the opportunity to properly apologize, or properly thank 
 I'll disguise a little bit. Let's meet up at Joe's. It's quieter there.
 
 **Xenon**<br>
-_\*Sighs\*_... Alright, can't hurt. I'll be there this weekend at night. 
+_\*Sighs\*_... Alright, can't hurt. I'll be there this weekend at night.
 
 **Cherry**<br>
 Thanks. See you then.
@@ -168,7 +168,7 @@ Haha, of course!
 *\[Door Closes\]*
 
 **Cherry**<br>
-_\*Chuckles\*_  Nothing has changed. Good to see that. 
+_\*Chuckles\*_  Nothing has changed. Good to see that.
 
 **Xenon**<br>
 Yeah. Besides that mess of hair, he's as noisy as he ever was.
@@ -183,7 +183,7 @@ I'm talking about you. You look exactly the same as you were six years ago.
 We three getting together just like the old days. Man, I miss those times.
 
 **Xenon**<br>
-... Yes, I do too. However, that's all in the past now. 
+... Yes, I do too. However, that's all in the past now.
 
 **Cherry**<br>
 I was fiddling around iM the other day, and I came across our chatting records. Wanna take a look?
@@ -254,7 +254,7 @@ Jesus you guys are making it sound like I'm doing nothing...<br>
 _[Sent at 09:22 PM]_
 
 **S.J.**<br>
-Haha, but I quite like this method of composition. By starting with the main melody, the emotions are very much on point.
+Haha, but I quite like this method of composition. By starting with the main melody, the emotions are very much on point.<br>
 For your first song, I made a new chord for it. Give it a listen.<br>
 _[Sent at 09:24 PM]_
 
@@ -267,7 +267,7 @@ OMG!! It's amazing!! Let's make this the final ver\~<br>
 _[Sent at 09:25 PM]_
 
 **KAI**<br>
-Very nice. You can come to our band practice this weekend. Big sis, set up the practice room will you. <br>
+Very nice. You can come to our band practice this weekend. Big sis, set up the practice room will you.<br>
 _[Sent at 09:25 PM]_
 
 **Cherry**<br>
@@ -311,12 +311,12 @@ Yeah, but I assume that the band will have plenty of opportunities to perform in
 _[Sent at 09:28 PM]_
 
 **KAI**<br>
-You have a point. Looks like we have a new band leader XD
+You have a point. Looks like we have a new band leader XD<br>
 I'll book a practice room. My friend's instrument store has access to physical spaces.<br>
 _[Sent at 09:28 PM]_
 
 **S.J.**<br>
-Thank you. Sorry for bothering everyone. 
+Thank you. Sorry for bothering everyone. <br>
 I look forward to seeing everyone.<br>
 _[Sent at 09:28 PM]_
 
@@ -463,7 +463,7 @@ Umm? Did we mess up?
 
 **Cherry**<br>
 ... No, you didn't.<br>
-That was quite the scare. Did my father know you guys are here? 
+That was quite the scare. Did my father know you guys are here?
 
 **JOE**<br>
 He was the one who let us in in the first place. He kept saying "Thank you" too.<br>
@@ -488,7 +488,7 @@ I can drink.
 You're underage! If your dad found out about it...
 
 **Cherry**<br>
-Nah, no probs. My father always drinks with me. I might have a higher tolerance for alcohol than you two. 
+Nah, no probs. My father always drinks with me. I might have a higher tolerance for alcohol than you two.
 
 **JOE**<br>
 Oh? Interesting. Not many have dared to talk such trash to me, the Alcohol Master of Quadrant III.
@@ -583,7 +583,7 @@ My face is not THAT puffy! Idiot! Dumbass! Die!
 No! Not the hair!
 
 **Xenon**<br>
-It's your fault for being so insincere. You deserve it. 
+It's your fault for being so insincere. You deserve it.
 
 **KAI**<br>
 Yeah. Now here's mine.
@@ -656,8 +656,7 @@ _\[Signal Lost\]_
 ![chos0801.png](./attachments/chos0801.png)
 
 Date: 693/09/06<br>
-Location: Node 08 \- Quadrant III, Apartment 33<br>
-
+Location: Node 08 \- Quadrant III, Apartment 33
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -677,7 +676,7 @@ It looks so out of place with the outfit you are currently wearing...
 **Cherry**<br>
 That's why I've hidden it inside.<br>
 _\*Sigh\*_... The time with Crystal\_PuNK is undoubtedly the happiest time in my life.<br>
-What a pity that it disbanded. 
+What a pity that it disbanded.
 
 **Xenon**<br>
 Yeah, that's also the happiest time in my life.
@@ -719,7 +718,7 @@ Nice! Give me the specific date and location. I should be able to rewind and tra
 ... So you're really investigating this person?
 
 **Xenon**<br>
-Yes, I have a friend. I feel that she was attacked by Æsir, but the administration bureau believes she was the one responsible for that large\-scale attack... She is currently in custody for investigation. I need to help her. 
+Yes, I have a friend. I feel that she was attacked by Æsir, but the administration bureau believes she was the one responsible for that large\-scale attack... She is currently in custody for investigation. I need to help her.
 
 **Cherry**<br>
 I supposed you're talking about that streamer?
@@ -1055,7 +1054,7 @@ Yes, this is a friend's spare number. It's more secure this way.
 OK. What's wrong?
 
 **Cherry**<br>
-Umm... about that meeting on the 15th, I might not be able to make it... agency wants me to replace PAFF at an event she can't attend. I only just received the notice. 
+Umm... about that meeting on the 15th, I might not be able to make it... agency wants me to replace PAFF at an event she can't attend. I only just received the notice.
 
 **Xenon**<br>
 Is PAFF's condition really that severe?
@@ -1082,7 +1081,7 @@ Yeah, it seems like Sis Helena can't find her either.
 How so?
 
 **Xenon**<br>
-PAFF began canceling her official events since she collapsed on stage during her 7th\-anniversary concert. She hasn't even shown up in public since that event. When she collapsed, she was performing the very song she performed on Æsir\-FEST. PAFF herself has experienced memory loss in her past, which leads me to believe that the memory alteration caused by the Æsir event could have particularly severe effects on her. 
+PAFF began canceling her official events since she collapsed on stage during her 7th\-anniversary concert. She hasn't even shown up in public since that event. When she collapsed, she was performing the very song she performed on Æsir\-FEST. PAFF herself has experienced memory loss in her past, which leads me to believe that the memory alteration caused by the Æsir event could have particularly severe effects on her.
 
 **Cherry**<br>
 ... Your speculation makes so much sense that it could make the news if you post it on the internet.
@@ -1360,7 +1359,7 @@ Tch, coward.<br>
 Simon, you in? Wanna avenge your fellow male comrade?
 
 **Xenon**<br>
-Sure. Just a heads up though, I'm pretty confident when it comes to this game. 
+Sure. Just a heads up though, I'm pretty confident when it comes to this game.
 
 **JOE**<br>
 YEAH! Get her!
@@ -1380,7 +1379,7 @@ _\*Huff\*_... _\*Puff\*_...
 I... is this what a match between the pros looks like? I have absolutely no idea what the hell you guys are doing...
 
 **Xenon**<br>
-Ah\~\~, I lost. Haven't played in a while, needs more practice. 
+Ah\~\~, I lost. Haven't played in a while, needs more practice.
 
 **Cherry**<br>
 Doesn't count! The time was up and I didn't get to kill you!
@@ -1493,7 +1492,7 @@ Hey, Ummm... even though I don't really understand this stuff, but I suppose wha
 
 **Xenon**<br>
 Yeah, but it's still better than no clue at all.<br>
-My A.I. is also investigating the current location of the hooded female suspect. If we visit the locations where she might show up at the same time, we may discover more things. 
+My A.I. is also investigating the current location of the hooded female suspect. If we visit the locations where she might show up at the same time, we may discover more things.
 
 **Cherry**<br>
 So you're finally using "we"? I guess I'm now a part of this as well? Investigation team member code 01, Sherry Pauline, reporting for duty!
@@ -1667,7 +1666,7 @@ _[Sent at 09:58 AM]_
 _[Sent at 10:01 AM]_
 
 **Cherry**<br>
-Band practice ends at 5. Have a meeting with Simon at 8
+Band practice ends at 5. Have a meeting with Simon at 8<br>
 No place to go, so I want to see if I can wait for him at your place<br>
 _[Sent at 10:01 AM]_
 
@@ -1684,12 +1683,12 @@ Stop nitpicking my spelling mistakes. What, are you Simon now XDDD<br>
 _[Sent at 10:02 AM]_
 
 **JOE**<br>
-By the way, did you guys get back together?
+By the way, did you guys get back together?<br>
 Why are you guys contacting each other so often recently?<br>
 _[Sent at 10:02 AM]_
 
 **Cherry**<br>
-No, we didn't
+No, we didn't<br>
  Some things happened. It's complicated...<br>
 _[Sent at 10:05 AM]_
 
@@ -1726,7 +1725,7 @@ Got it. I'll be waiting in the shop<br>
 _[Sent at 10:08 AM]_
 
 **Cherry**<br>
-Just a heads up, don't get wasted by me before your customers show up, 
+Just a heads up, don't get wasted by me before your customers show up, <br>
 Alcohol Master\~<br>
 _[Sent at 10:08 AM]_
 
@@ -1875,7 +1874,7 @@ Milk
 
 **JOE**<br>
 Coming.<br>
-On a side note, you seem a bit too free these days. Don't you have work? 
+On a side note, you seem a bit too free these days. Don't you have work?
 
 **Xenon**<br>
 No, because my support of the admins some time ago got me plenty of holidays.
@@ -2258,8 +2257,7 @@ _\[Signal Lost\]_
 ![chos2901.png](./attachments/chos2901.png)
 
 Date: 688/09/18<br>
-Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)<br>
-
+Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2936,7 +2934,7 @@ Hmmm...? What is this? A note?
 _\[»»» Fast Forward»»»\]_
 
 **Cherry**<br>
-... "That's more or less it. To be fair, if what Simon said was indeed true, then Big sis should already know about the Cafe and its business as well. Haha, what the hell is going on with Crystal PuNK? Why are there so many hidden identities in this band? Not to mention they are all somehow connected to one another..." 
+... "That's more or less it. To be fair, if what Simon said was indeed true, then Big sis should already know about the Cafe and its business as well. Haha, what the hell is going on with Crystal PuNK? Why are there so many hidden identities in this band? Not to mention they are all somehow connected to one another..."
 
 **Cherry**<br>
 ...... "However, I think that we all just weren't given a chance to pick our path; or we just missed countless chances to make the right choice... TBH, I don't really know what I'm even writing now either, since I'm not someone who's good with words. I just wanted to say, I think... or hope, in the end, what truly connects us all together is still music after all."
@@ -3860,7 +3858,7 @@ How rude. It's not exactly easy to do skin care when you're wandering around in 
 ... So, where do we go next?
 
 **Cherry**<br>
-I've never been here before as either. It's a lot more complicated than I imagined... However, based on experience, if we follow the black electric pipelines, we are likely to find some sort of central hub area. We should be able to find the map of this entire facility there. 
+I've never been here before as either. It's a lot more complicated than I imagined... However, based on experience, if we follow the black electric pipelines, we are likely to find some sort of central hub area. We should be able to find the map of this entire facility there.
 
 **[Xenon A.I.]**<br>
 _Analyzing... complete._

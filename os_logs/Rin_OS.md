@@ -194,7 +194,7 @@ Asa's in the lab, I'm about to head there as well.
 Oh... Can I go watch?
 
 **Yasushi**<br>
-No. The research into the florigen of Arabidopsis is entering its final stage. If the simulation of today's atomic structure is successful, it'll be a big step forward for us. Rin, just think about it. If humans could control the time that any flower blossomed... 
+No. The research into the florigen of Arabidopsis is entering its final stage. If the simulation of today's atomic structure is successful, it'll be a big step forward for us. Rin, just think about it. If humans could control the time that any flower blossomed...
 
 **Rin**<br>
 ... Yeah, yeah, yeah, cut it out already! Dad, did you forget that your daughter's not a botanist!
@@ -243,7 +243,7 @@ _\[Call Ends\]_
 Aigh... Rin, what kind of album did he ask you to get? It's not contraband, is it?
 
 **Rin**<br>
-Relax, it's just a folk album. It's a new album by an artist Mr. Nakamura likes. It's got an ancient feel, really unique! I'll let you have a listen later tonight! 
+Relax, it's just a folk album. It's a new album by an artist Mr. Nakamura likes. It's got an ancient feel, really unique! I'll let you have a listen later tonight!
 
 **Yasushi**<br>
 Your mother and I spend every day interacting with plants, we don't know anything about music. Forget it.<br>
@@ -330,7 +330,7 @@ _\[Signal Lost\]_
 *\[Object Shatters\]*
 
 **Rin**<br>
-Wah! Who's there? 
+Wah! Who's there?
 
 **???**<br>
 Ah... !
@@ -338,11 +338,11 @@ Ah... !
 *\[Footsteps \]*
 
 **Rin**<br>
-You're... that Architect... Unit 10? 
+You're... that Architect... Unit 10?
 
 **OPCII_0584_X**<br>
 ... Hello Ms. Yazawa.<br>
-Architect No. OPCII\_0584\_X, at your command. 
+Architect No. OPCII\_0584\_X, at your command.
 
 **Rin**<br>
 Command? No, I didn't want you to... What are you doing?
@@ -399,7 +399,7 @@ Oh, sorry... Is that true?
 
 **OPCII_0584_X**<br>
 Yes... probably...<br>
-I've been in this research institute for many years! I love this job, and I respect Dr. Yazawa... If it's possible... please keep my secret for me, please! 
+I've been in this research institute for many years! I love this job, and I respect Dr. Yazawa... If it's possible... please keep my secret for me, please!
 
 **Rin**<br>
 Um...
@@ -435,20 +435,20 @@ You did this? Why did you touch these plants?
 That, I thought this kind of flower was pretty. I thought after you're done with the experiment, I could use it to decorate my room... This Architect just happened to pass by!
 
 **Asa**<br>
-... You should've asked in advance. That calendula has been injected with excessive endocrine and will wither away in 2 days, There's no point in bringing it back.   
+... You should've asked in advance. That calendula has been injected with excessive endocrine and will wither away in 2 days, There's no point in bringing it back.
 
 **Rin**<br>
 Oh, got it... Ahahaha.
 
 **Asa**<br>
 If you want, I can buy you another one. Thankfully these samples' data have already been collected...<br>
-Architect, get rid of these things. 
+Architect, get rid of these things.
 
 **OPCII_0584_X**<br>
 ... Command received, executing immediately.
 
 **Asa**<br>
-Rin, I can buy you the plant you want. As for the loss you cost the institute, it will be deducted from your allowance. Any problem with that?  
+Rin, I can buy you the plant you want. As for the loss you cost the institute, it will be deducted from your allowance. Any problem with that?
 
 **Rin**<br>
 ... Oh... okay.
@@ -462,7 +462,7 @@ Rin, I can buy you the plant you want. As for the loss you cost the institute, i
 ... I am really sorry Ms. Yazawa, you took the blame for me...
 
 **Rin**<br>
-It's alright, you won't be destroyed right? Don't sweat it, I'll keep the secret for you, no one will find out!  
+It's alright, you won't be destroyed right? Don't sweat it, I'll keep the secret for you, no one will find out!
 
 **OPCII_0584_X**<br>
 Re\-Really?
@@ -610,8 +610,7 @@ It means I still have work to do... Sorry, Rin. I must return. I hope I will hav
 ......
 
 **OPCII_0584_X**<br>
-Rin?<br>
-
+Rin?
 
 **Rin**<br>
 I've always wanted to ask... Unit 10, don't you think our voices sound very similar?
@@ -865,8 +864,7 @@ Please, Katsuya...
 
 **Katsuya**<br>
 Uh... that... If it was a good Architect...<br>
-I think... I'd try to be friends with them.<br>
-
+I think... I'd try to be friends with them.
 
 **Rin**<br>
 ...! Really!?
@@ -1979,8 +1977,7 @@ If you join us, I can guarantee that this will not occur. If us the Blessed are 
 ......
 
 **Mauro**<br>
-... After all this talk, you're still unwilling to help. Tsk, what a shame...<br>
-
+... After all this talk, you're still unwilling to help. Tsk, what a shame...
 
 **OPCII_0584_X**<br>
 No... I...
@@ -2521,7 +2518,7 @@ I wanted to come.
 You know what happened to her, right?
 
 **Takano**<br>
-... Yeah. Luckily, everyone in our squad is a student, so our mission isn't that dangerous——main thing is to wait for the signal then cut the power in this building. The adults will take care of the Blessed; but you've still got to be careful, got it? 
+... Yeah. Luckily, everyone in our squad is a student, so our mission isn't that dangerous——main thing is to wait for the signal then cut the power in this building. The adults will take care of the Blessed; but you've still got to be careful, got it?
 
 **Katsuya**<br>
 Got it.
@@ -2586,8 +2583,7 @@ Katsuya!?
 
 **Takano**<br>
 ... Shhh!<br>
-Don't chase him! It's too dangerous in there! We've got to go!<br>
-
+Don't chase him! It's too dangerous in there! We've got to go!
 
 **Rin**<br>
 No... NOO!
@@ -3098,8 +3094,6 @@ Humans believe that you go to another world when you die. I... Can I see you in 
 **OPCII_0584_X**<br>
 ......!<br>
 Can't stay here... a grave. After dying, humans are put in a grave. Is that how they get to the other world? It must be!
-
-
 
 *\[Stands up\]*
 

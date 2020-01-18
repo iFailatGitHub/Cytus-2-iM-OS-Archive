@@ -176,7 +176,7 @@ How come? You created an idol who's borderline perfect, didn't you?<br>
 Miku's personality has become more and more humanlike. It's like she's a real girl... no, like a real superstar!
 
 **Furuhata**<br>
-... This is the core of this technology. Through a virtual interface and stimulations from the outside world, we let the program have an awareness that it "actually exists" in order to improve the sense of realism in virtual personalities. 
+... This is the core of this technology. Through a virtual interface and stimulations from the outside world, we let the program have an awareness that it "actually exists" in order to improve the sense of realism in virtual personalities.
 
 **Staff A**<br>
 Amazing... Truly, amazing! Director, you're an absolute genius!<br>
@@ -261,7 +261,7 @@ Her movement is getting more and more precise. The performance of the voice prin
 I merely followed your proposal. It wasn't anything noteworthy.
 
 **Saito**<br>
-You're selling yourself short. Even though I'm the founder of the virtual idol project, what I did was nothing more than figure out this project's branding after seeing the internet image of that DJ... This project was able to be actually realized because you're the one at the helm. You're very much Miku's father. 
+You're selling yourself short. Even though I'm the founder of the virtual idol project, what I did was nothing more than figure out this project's branding after seeing the internet image of that DJ... This project was able to be actually realized because you're the one at the helm. You're very much Miku's father.
 
 **Furuhata**<br>
 ... I don't have any children, nor do I plan to be Miku's father or anything close to it.
@@ -893,7 +893,7 @@ No, I didn't fix you. Strictly speaking, I merely extended your stability. It's 
 So you kept me around just so you can test this thing...? Unbelievable... Cold\-blooded! Monster! Baldy!
 
 **Furuhata**<br>
-... Whatever you say. Your personality was written by me anyway. 
+... Whatever you say. Your personality was written by me anyway.
 
 **Miku**<br>
 Muuuu\~!
@@ -949,7 +949,7 @@ Eh? Umm, I was bored just now, so I went through the storage block on the deskto
 Eek!? I'm sorry... Since you left it on the desktop, I thought it was something I could view during the test... I just want to know more about you...
 
 **Furuhata**<br>
-So damn annoying... Why do I have to write such an irritating personality, this girl idol nonsense... Listen closely. If you think getting in my good graces will persuade me to let you back on the stage, forget about it. That'll never happen. 
+So damn annoying... Why do I have to write such an irritating personality, this girl idol nonsense... Listen closely. If you think getting in my good graces will persuade me to let you back on the stage, forget about it. That'll never happen.
 
 **Miku**<br>
 W, what! I saw you working overtime every day and that nobody is around to talk with you. That's why I wanted to find some conversation topics...<br>
@@ -1265,7 +1265,7 @@ With your current program stability, you may not even finish an entire concert. 
 ... Yes, I want to sing! But... if the concert gets disrupted because of me, Mr. Furuhata will be...
 
 **Furuhata**<br>
-Yep, I'll be utterly screwed... However, seeing someone created by me be forced to give up on her dream like the worthless old man I am now... feels infinitely worse. 
+Yep, I'll be utterly screwed... However, seeing someone created by me be forced to give up on her dream like the worthless old man I am now... feels infinitely worse.
 
 **Miku**<br>
 But...
@@ -1290,10 +1290,10 @@ _\[Signal Lost\]_
 Furuhata, have you gone insane? This is absurd!
 
 **Saito**<br>
-Okubo, calm down first. The things Furuhata are responsible for in our company is something only he is qualified to do. He won't just spill out random things. Right, Furuhata? 
+Okubo, calm down first. The things Furuhata are responsible for in our company is something only he is qualified to do. He won't just spill out random things. Right, Furuhata?
 
 **Furuhata**<br>
-Although the 2.3.9 backup is not a complete version, her performance function is definitely not affected. 
+Although the 2.3.9 backup is not a complete version, her performance function is definitely not affected.
 
 **Okubo**<br>
 What the hell are you talking about? Weren't you the one who determined it to be too badly damaged in the first place!?
@@ -1623,7 +1623,7 @@ _Data organization completed. 1 sound file discovered. Security inspection: Gree
 
 **Furuhata**<br>
 ...? What is this?<br>
-That bastard Kitamura, he didn't mess with my unit, did he? 
+That bastard Kitamura, he didn't mess with my unit, did he?
 
 **Furuhata**<br>
 System, play file.

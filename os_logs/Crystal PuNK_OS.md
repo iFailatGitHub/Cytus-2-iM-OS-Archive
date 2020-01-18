@@ -212,7 +212,7 @@ We're likely staying until that guy contacts us. If we want to clear Simon's nam
 But you're in 03 now, how are you going to investigate? Doesn't this put you further and further away from the incident?
 
 **Cherry**<br>
-R must have his own ideas. Right now, we can only trust him. 
+R must have his own ideas. Right now, we can only trust him.
 
 **Xenon**<br>
 The Æsir incident didn't just occur in 08. The cyTus malfunction and the subsequent damage caused was a worldwide event. Judging from his hypothesis, all of this is connected, and the actual scale might be much larger than any of us imagined.
@@ -795,7 +795,7 @@ It really is a shame that you didn't become a singer for how amazing your voice 
 Singer...?
 
 **Luis**<br>
-Yes, someone who can stand on a big stage and sing to many people, making everyone mesmerized. Daddy was first attracted to mommy because of her singing voice. In a bustling transportation center, I suddenly heard this beautiful voice coming from afar. 
+Yes, someone who can stand on a big stage and sing to many people, making everyone mesmerized. Daddy was first attracted to mommy because of her singing voice. In a bustling transportation center, I suddenly heard this beautiful voice coming from afar.
 
 **Carly**<br>
 Awww! What are you saying in front of the child? Ah, are you leaving already? It's still pretty early.
@@ -1334,7 +1334,7 @@ Let me go then.
 ......!? NO! Absolutely not!
 
 **Cherry**<br>
-I... I'm not as strong as father thinks. I don't really have anyone I can talk to in the Academy, and I've always felt that life is rather empty. When I am by father's side, only then can I feel that I must work hard and not lose to you. 
+I... I'm not as strong as father thinks. I don't really have anyone I can talk to in the Academy, and I've always felt that life is rather empty. When I am by father's side, only then can I feel that I must work hard and not lose to you.
 
 **Luis**<br>
 ......
@@ -1405,7 +1405,7 @@ _... Can we get to the point already?_
 
 **Diego**<br>
 Still as cold as ever, aren't you? The Eye of Horus... You're right though. Let's begin.<br>
-Last time, we purchased a shipment of weapons from Kyuu Hou Kai. However, during the transport carried out by Mogura, an issue occurred. From what I've learned, the Splice people you hired were all knocked unconscious. As with the weapons, they were destroyed and discarded in the underground tunnels. 
+Last time, we purchased a shipment of weapons from Kyuu Hou Kai. However, during the transport carried out by Mogura, an issue occurred. From what I've learned, the Splice people you hired were all knocked unconscious. As with the weapons, they were destroyed and discarded in the underground tunnels.
 
 **[Nora]**<br>
 _As compensation, we've fully refunded your organization the back payment as well as the liquidated damage payment. If you still want to do the transaction, you can place the next order any time you want. With all that we've done, I don't see where you can be dissatisfied?_
@@ -1414,13 +1414,13 @@ _As compensation, we've fully refunded your organization the back payment as wel
 ... Regarding the transport accident, we've labeled it as an important issue and are currently investigating...
 
 **Diego**<br>
-Apologies for my bluntness, however, brother Ryu's so\-called "investigation" is merely asking the admins to visit the tunnels a few times, make some marks here and there, and come up with a final report that essentially just says "Nothing abnormal has been found." Right? 
+Apologies for my bluntness, however, brother Ryu's so\-called "investigation" is merely asking the admins to visit the tunnels a few times, make some marks here and there, and come up with a final report that essentially just says "Nothing abnormal has been found." Right?
 
 **Ryu**<br>
 Diego, this amount of money is nothing to Mogura. We can compensate you whenever...
 
 **Diego**<br>
-What I care about is not the compensation, but the existence of a "disturbance". It's an obstacle between the coexistence and mutual prosperity of the Baro Brotherhood and Mogura. This disturbance is like a tiny thorn in the muscle. Although it doesn't hurt, if you ignore and don't treat it, it'll cause your entire leg to rot and decay, forcing you to amputate it. 
+What I care about is not the compensation, but the existence of a "disturbance". It's an obstacle between the coexistence and mutual prosperity of the Baro Brotherhood and Mogura. This disturbance is like a tiny thorn in the muscle. Although it doesn't hurt, if you ignore and don't treat it, it'll cause your entire leg to rot and decay, forcing you to amputate it.
 
 **Ryu**<br>
 I see. You want us to give you a proper answer.
@@ -2022,7 +2022,7 @@ Ho? Then what about you?
 _The composer and conductor, of course. \*Chuckles\*_
 
 **Cherry**<br>
-... Simon wasn't wrong at all when he described you as "self\-centered". Don't you dare treat us like instruments you can willfully play with. 
+... Simon wasn't wrong at all when he described you as "self\-centered". Don't you dare treat us like instruments you can willfully play with.
 
 **[Rald]**<br>
 _Instruments that produce awful noises are not worthy to be listened to. On the other hand, the sounds you two produced are quite beautiful. I thoroughly enjoyed conducting you two._
@@ -2729,7 +2729,7 @@ _What people?_
 
 **Diego**<br>
 It's not like you to feign ignorance.<br>
-I've received news that Simon Jackson and Sherry Pauline are currently hiding here. These two have interfered into the weapon transaction between Mogura and us. You should hand them over and let us deal with them accordingly. 
+I've received news that Simon Jackson and Sherry Pauline are currently hiding here. These two have interfered into the weapon transaction between Mogura and us. You should hand them over and let us deal with them accordingly.
 
 **[Nora]**<br>
 _... Those two? I figure it's about time we start sorting things out as well. _
@@ -2846,7 +2846,7 @@ _\[Signal Lost\]_
 _The examination is complete. Miss Kaori Minamiya, how does your body feel?_
 
 **PAFF**<br>
-Oh, I'm feeling pretty good. 
+Oh, I'm feeling pretty good.
 
 **[Nora]**<br>
 _Great, I'll escort you back to your room._
@@ -3538,7 +3538,7 @@ _\[Signal Lost\]_
 *\[Door Opens\]*
 
 **Cherry**<br>
-How was it? Anything on the situation? 
+How was it? Anything on the situation?
 
 **Member D**<br>
 ... From what I've heard, the block was half\-destroyed. Not only did the signal tower get blown to pieces, but the bar you guys mentioned has also collapsed entirely.
@@ -3566,7 +3566,7 @@ Nora... Kyuu Hou Kai has deployed members to 08 as well?
 We always have. Although Kyuu Hou Kai's growth relies mostly on technology, the pipelines for materials and resources are equally important. That's why we have members deployed there. Regarding the recent attacks, Chief issued an order very early on, stating that we all pay close attention to these incidents to ensure that they wouldn't affect us.
 
 **Xenon**<br>
-Yet you guys never imagined that these attacks were meant to target Kyuu Hou Kai in the first place. 
+Yet you guys never imagined that these attacks were meant to target Kyuu Hou Kai in the first place.
 
 **Member D**<br>
 That's right... The identity of the mastermind is already very obvious. This string of attacks is definitely all Diego's doing.
@@ -3838,7 +3838,7 @@ I know. Nonetheless, to me, Aroma's memory... the other personality of mine is a
 _Understood, Miss PAFF._
 
 **PAFF**<br>
-Thank you. Nora... you're a very kind person, despite your appearance making you look difficult to approach. We've all heard your story from ROBO. Everyone... 
+Thank you. Nora... you're a very kind person, despite your appearance making you look difficult to approach. We've all heard your story from ROBO. Everyone...
 
 **[Nora]**<br>
 _No need to pity me, and no need to think about trying to help me. We can't choose where we're born, but we can choose how we live. This is the way of life I choose myself._
@@ -4789,7 +4789,7 @@ Miss She...rry...
 ......! Oh god, what's the deal with this chaotic mess!?
 
 **Member D**<br>
-Attention to all medical staff. Return to your positions ASAP. Miss Sherry is not showing any vital signs. Reboot the life support system immediately. 
+Attention to all medical staff. Return to your positions ASAP. Miss Sherry is not showing any vital signs. Reboot the life support system immediately.
 
 **Member D**<br>
 Miss Sherry! Can you hear me? Hang in there!

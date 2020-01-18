@@ -248,7 +248,7 @@ That's not what I'm talking about! Firing you just like that, I can't accept it!
 There must be other methods, right? The other members of the team will definitely help out as well!
 
 **Phoenix**<br>
-Back during the HR meeting, of the multiple accusations made against me by the higher\-ups, can you rebut even a single one of them? 
+Back during the HR meeting, of the multiple accusations made against me by the higher\-ups, can you rebut even a single one of them?
 
 **Noah**<br>
 Ummm... I... But, director, your ideals...
@@ -388,7 +388,7 @@ Certainly. Apologies for my intrusion.
 
 **Lam**<br>
 Also, skip the honorifics. Is this some sort of stereotype people of Node 08 have towards Eastern cities...?<br>
-That's not how we do things here. Here, power is everything. The amount of respect you get is determined by how much "contribution" you can make. 
+That's not how we do things here. Here, power is everything. The amount of respect you get is determined by how much "contribution" you can make.
 
 **Phoenix**<br>
 ......
@@ -817,7 +817,7 @@ One has to own this modification at all young age in order to realize its full p
 
 **Phoenix**<br>
 Hoho, talking the big talk now, aren't you? <br>
-Should I give you a reminder about who rescued your sorry a\*\* from prison AND gave you the power to do whatever you want here? 
+Should I give you a reminder about who rescued your sorry a\*\* from prison AND gave you the power to do whatever you want here?
 
 **Kim**<br>
 ... Tch.

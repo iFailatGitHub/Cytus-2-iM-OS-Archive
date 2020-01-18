@@ -1270,7 +1270,7 @@ What, you wanna play hero? I advise you stay out of this or we'll beat yo a\*\* 
 ... That's if you guys can beat me in the first place.
 
 **Pedestrian A**<br>
-Ha? You wanna pick a fight!? 
+Ha? You wanna pick a fight!?
 
 *\[Punch\]*
 
@@ -2349,7 +2349,7 @@ Now when I look back at it, that was the most worthwhile, as well as the most re
 
 **Xenon**<br>
 No, nothing...<br>
-In short, you're at the age where you more or less want your values to clash with your surroundings or even with society. That itself is not an issue; however, the important thing is to learn a lesson from the decisions you made. What you shouldn't do is treat these decisions as mere ways to run away from an undesirable situation. 
+In short, you're at the age where you more or less want your values to clash with your surroundings or even with society. That itself is not an issue; however, the important thing is to learn a lesson from the decisions you made. What you shouldn't do is treat these decisions as mere ways to run away from an undesirable situation.
 
 **Neko**<br>
 ......
@@ -2602,7 +2602,7 @@ What's weird about that... Speaking of iM, I advise you stop gossiping about oth
 _NEKO did not do that!_
 
 **Chris**<br>
-But you totally did! Some artists are already filing complaints to us. If it's company information, try your best to not leak it. Please keep yourself under control online as well. Have you forgotten about the previous plagiarizing incident... 
+But you totally did! Some artists are already filing complaints to us. If it's company information, try your best to not leak it. Please keep yourself under control online as well. Have you forgotten about the previous plagiarizing incident...
 
 **[Neko]**<br>
 _Haaa!? Isn't he the one who plagiarized NEKO!? NEKO's Demo was composed last year; he just announced it earlier! The incident was a thing because too many people don't know what the hell they are talking about!<br>
@@ -2754,7 +2754,7 @@ He has no idea how anxious I was waiting for him.
 I can totally imagine that...
 
 **Saku**<br>
-NEKO, people don't change that easily. At the very least, the daddy I knew won't change that easily. In our lives, we will meet all kinds of different people. Every single person is worthy for us to give, to love, to care. However, there is only so much one person can give. We can only choose what we feel like is the best on the spot, and not regret the things we give afterward. 
+NEKO, people don't change that easily. At the very least, the daddy I knew won't change that easily. In our lives, we will meet all kinds of different people. Every single person is worthy for us to give, to love, to care. However, there is only so much one person can give. We can only choose what we feel like is the best on the spot, and not regret the things we give afterward.
 
 **Neko**<br>
 Hmm... NEKO don't really understand...
@@ -3895,7 +3895,7 @@ Ah!? Xe... No, that's not him...<br>
 Who's that?
 
 **？？？**<br>
-Umm, excuse me. If we mistook you for someone else, we will apologize. But, umm... You're NEKO, right? 
+Umm, excuse me. If we mistook you for someone else, we will apologize. But, umm... You're NEKO, right?
 
 **Neko**<br>
 Oh, ... Y, yeah...... Is NEKO really that famous...?

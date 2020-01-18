@@ -807,7 +807,7 @@ Hi, everyone, time for the band meeting<br>
 _[Sent at 08:35 PM]_
 
 **JOE**<br>
-Meeting time!!!
+Meeting time!!!<br>
 Big sis, if you're there, make a noise\~<br>
 _[Sent at 08:35 PM]_
 
@@ -824,7 +824,7 @@ Was dealing with stuff late last night, didn't sleep too well<br>
 _[Sent at 08:37 PM]_
 
 **JOE**<br>
-Late last night!?!?
+Late last night!?!?<br>
 Could it be a boyfriend... >///<<br>
 _[Sent at 08:37 PM]_
 
@@ -861,7 +861,7 @@ All Caps names are everywhere, doesn't stand out<br>
 _[Sent at 08:40 PM]_
 
 **JOE**<br>
-I know that XDDD I'm ok with the name\~
+I know that XDDD I'm ok with the name\~<br>
 The most important thing is that it's a band with you guys!<br>
 _[Sent at 08:40 PM]_
 
@@ -874,8 +874,8 @@ _[Sent at 08:40 PM]_
 _[Sent at 08:41 PM]_
 
 **KAI**<br>
-That's a bit much
-Alright, one thing done, next thing. 
+That's a bit much<br>
+Alright, one thing done, next thing. <br>
 Regarding other members, any thoughts or possible candidates?<br>
 _[Sent at 08:41 PM]_
 
@@ -888,7 +888,7 @@ Agreed<br>
 _[Sent at 08:42 PM]_
 
 **JOE**<br>
-Wait, WTF XDDD
+Wait, WTF XDDD<br>
 What about our goal of the world stage!!!!!<br>
 _[Sent at 08:42 PM]_
 
@@ -909,7 +909,7 @@ Nah, just kidding. JOE, you mentioned about a guitarist you knew. Is he any good
 _[Sent at 08:44 PM]_
 
 **JOE**<br>
-Ah, right! I'll show you guys his solo!!
+Ah, right! I'll show you guys his solo!!<br>
 He's totally gonna be the next big thing!<br>
 _[Sent at 08:44 PM]_
 
@@ -926,7 +926,7 @@ Amazing indeed. The sound is stable. The tone is smooth and clear even during sh
 _[Sent at 08:48 PM]_
 
 **JOE**<br>
-I actively harassed him ofc XD
+I actively harassed him ofc XD<br>
 We know each other pretty well now. Should I get him in this chat?<br>
 _[Sent at 08:48 PM]_
 
@@ -4613,7 +4613,7 @@ This punch is for Zark and that girl!
 
 **Fang**<br>
 ... Nice.<br>
-JOE... I'll believe you this time. The Baro Brotherhood will comply with your proposal. Go for it. 
+JOE... I'll believe you this time. The Baro Brotherhood will comply with your proposal. Go for it.
 
 **Zheng**<br>
 Second.<br>

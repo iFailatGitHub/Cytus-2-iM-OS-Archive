@@ -831,7 +831,7 @@ I know many other things. Every time I had a nightmare, you would stay by my sid
 
 **Helena**<br>
 That singing, it's the kindest, most calming voice I ever heard in my life. <br>
-Whenever I'm feeling depressed, I think about your singing. It makes me feel like I can keep going on. That's how I was able to manage, till this very day. 
+Whenever I'm feeling depressed, I think about your singing. It makes me feel like I can keep going on. That's how I was able to manage, till this very day.
 
 **PAFF**<br>
 Sister...
@@ -971,8 +971,7 @@ Hm? What?
 
 **Noah**<br>
 No matter what, let me apologize for what I did. I will never do that again!<br>
-Does Helena know about this? I will have to apologize to her as well.<br>
-
+Does Helena know about this? I will have to apologize to her as well.
 
 **PAFF**<br>
 ...... NO!
@@ -2521,7 +2520,7 @@ I know! But...... Ah! Right! This, wear this to cover up your face. This way, no
 Owner!
 
 **PAFF**<br>
-... I'll try. 
+... I'll try.
 
 **Helena**<br>
 Eh?
@@ -3584,7 +3583,7 @@ Y, yes, Sir!
 _\[»»» Fast Forward»»»\]_
 
 **Noah**<br>
-The test species this time "Black Horn Ape", the complexity of its brain tissue is already very similar to humans. Now that the experiment is successful, I believe we've cleared the most difficult challenge... Here's the short\-term closing document for this project. Can you organize it for me? 
+The test species this time "Black Horn Ape", the complexity of its brain tissue is already very similar to humans. Now that the experiment is successful, I believe we've cleared the most difficult challenge... Here's the short\-term closing document for this project. Can you organize it for me?
 
 **Researcher I**<br>
 Yes, director! ... I wonder if the higher\-ups will agree to this or not...
@@ -3676,7 +3675,7 @@ No need to rush... I can explain, director.<br>
 Samantha, pour me a glass of Cognac.
 
 **Leo**<br>
-To be honest, director, I really admire the results your team produced. Once the memory duplication technology is completed, there will no longer be any secrets in this world. We can easily capture the brainwaves of important figures and obtain key information from any corner of this world. 
+To be honest, director, I really admire the results your team produced. Once the memory duplication technology is completed, there will no longer be any secrets in this world. We can easily capture the brainwaves of important figures and obtain key information from any corner of this world.
 
 **Noah**<br>
 ... Sir, I see that you're very well\-versed in our research.
@@ -4043,7 +4042,7 @@ _... Reset the parameters. Let her body rest and recover. Prepare configuration 
 _Understood._
 
 **[Noah]**<br>
-_Aroma... come on... wake up..._
+_Aroma... come on... wake up... _
 
 _\[Signal Lost\]_
 
@@ -4695,7 +4694,7 @@ I, Vicky Russell, is exceptional at putting out questions, confutations, specula
 Haha... Now that I think about it, it is true. Sis Vicky tends to just cut through all the crap and get straight to the point.
 
 **Vicky**<br>
-Besides, the determination you showed back there, that will to catch up to her no matter what... It reminds me a little of what I used to be... 
+Besides, the determination you showed back there, that will to catch up to her no matter what... It reminds me a little of what I used to be...
 
 **Hayato**<br>
 Eh?
@@ -5872,7 +5871,7 @@ Besides the conflicting sets of memories, there are even some parameters I've ne
 Parameters never seen before... I don't get it. What does that mean?
 
 **Noah**<br>
-It's difficult to explain. In short, these extra parameters are now strongly affecting her brainwaves. Perhaps it's due to her lengthy withdrawal from the stabilizers. The previously suppressed signals that shouldn't exist in Aroma's brain are starting to go berserk. This is also one of the sequelae I was most concerned about after the experiment was prematurely stopped. 
+It's difficult to explain. In short, these extra parameters are now strongly affecting her brainwaves. Perhaps it's due to her lengthy withdrawal from the stabilizers. The previously suppressed signals that shouldn't exist in Aroma's brain are starting to go berserk. This is also one of the sequelae I was most concerned about after the experiment was prematurely stopped.
 
 **Helena**<br>
 How come...
@@ -6106,7 +6105,7 @@ I understand.
 Eh?
 
 **PAFF**<br>
-Because I have the same feeling as well... After I left you guys, those memories that don't belong to me became clearer and clearer... At first, they were still just some blurry, confusing images that felt very dated. But now... even the dream I just had felt as if it was something that just happened yesterday.  
+Because I have the same feeling as well... After I left you guys, those memories that don't belong to me became clearer and clearer... At first, they were still just some blurry, confusing images that felt very dated. But now... even the dream I just had felt as if it was something that just happened yesterday.
 
 **Helena**<br>
 ... Is that so...?
@@ -6196,10 +6195,10 @@ Node 03.
 Eh?
 
 **Helena**<br>
-This is something I heard by chance from Noah and the members of his team. Your current body came from Node 03. You were someone who previously lived in Node 03. 
+This is something I heard by chance from Noah and the members of his team. Your current body came from Node 03. You were someone who previously lived in Node 03.
 
 **Helena**<br>
-You said so yourself too, right? That in the memories you were able to recall, there were a lot of images from Node 03. 
+You said so yourself too, right? That in the memories you were able to recall, there were a lot of images from Node 03.
 
 **PAFF**<br>
 Indeed... That's exactly what I thought too.
@@ -6224,7 +6223,7 @@ Right now, he's really paranoid. Even though I understand that he has his reason
 Yes...
 
 **Helena**<br>
-Besides, my job as your agent is not over yet. Aroma definitely wants to sing again someday, right? After everything is over, I will make sure that you can still return to the stage and perform! 
+Besides, my job as your agent is not over yet. Aroma definitely wants to sing again someday, right? After everything is over, I will make sure that you can still return to the stage and perform!
 
 **PAFF**<br>
 Yes! Sister... I'm so glad; you're finally acting like the sister I always knew. Hehe\~

@@ -182,7 +182,7 @@ _\[Signal Lost\]_
 |**Ivy**  |  3  |
 
 ### Log Content
-Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it. Just now, when I was eating, I tried to approach it by tossing it a fruit. It ate the fruit very quickly. After it was full, it stretched its wings, lied down, and started sleeping loudly.  It showed no caution towards me at all, like I'm someone he's very familiar with. Looking at it, I'm getting sleepy as well. That's it for today. 
+Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it. Just now, when I was eating, I tried to approach it by tossing it a fruit. It ate the fruit very quickly. After it was full, it stretched its wings, lied down, and started sleeping loudly.  It showed no caution towards me at all, like I'm someone he's very familiar with. Looking at it, I'm getting sleepy as well. That's it for today.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -423,7 +423,7 @@ _\[Signal Lost\]_
 |**Ivy**  |  6  |
 
 ### Log Content
-Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated? From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first... Shelter 32 has collapsed almost entirely. Half the entrance is buried in branches and rocks. Just how long have I been unconscious for... I can't get in this way. My only option now is to wait for those humans to open up the entrance. The database index inside each Shelter has the coordinates of every Shelter. After I obtain that, I can also grasp my accurate geographic position and the current time better. 
+Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated? From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first... Shelter 32 has collapsed almost entirely. Half the entrance is buried in branches and rocks. Just how long have I been unconscious for... I can't get in this way. My only option now is to wait for those humans to open up the entrance. The database index inside each Shelter has the coordinates of every Shelter. After I obtain that, I can also grasp my accurate geographic position and the current time better.
 
 ![ivos0801.png](./attachments/ivos0801.png)
 
@@ -717,7 +717,7 @@ Big B is injured!
 *\[Hurried Footsteps\]*
 
 **Alex**<br>
-Hey, it's getting away! 
+Hey, it's getting away!
 
 **Sagar**<br>
 Stay put! It has already been shot. No need to rush. Organize the team first. Did anyone get a clear view of what that thing is? Big B?
@@ -770,7 +770,7 @@ _\[Signal Lost\]_
 *\[Armored car engine\]*
 
 **Agent A**<br>
-Mr. Sagar, thanks for the hard work. Brought something interesting back again this time? 
+Mr. Sagar, thanks for the hard work. Brought something interesting back again this time?
 
 *\[Animal Chirp\]*
 
@@ -1234,8 +1234,7 @@ Wrong, you idiot. I just discovered her outside my back door, unconscious... I h
 
 **？？？**<br>
 Ha, yeah yeah, nice story.<br>
-Ah, right. Besides getting the shipment, I also want to order some Martini, three olives. You ok with that?<br>
-
+Ah, right. Besides getting the shipment, I also want to order some Martini, three olives. You ok with that?
 
 **JOE**<br>
 Why do you have to cause me trouble every time by ordering when I've already locked the cash register... Fine, go ahead. Only stuff within three weeks though.
@@ -1269,7 +1268,7 @@ I shall leave it to you then!<br>
 Oh, one more thing; don't tell anybody about this!
 
 **JOE**<br>
-Here, you can purchase anything. The only thing you can't is a customer's privacy... unless someone pays more money than you. 
+Here, you can purchase anything. The only thing you can't is a customer's privacy... unless someone pays more money than you.
 
 **？？？**<br>
 ......
@@ -1495,7 +1494,7 @@ _\[»»» Fast Forward»»»\]_
 Install... Are we not going to the maintenance area? Why isn't this done through a system announcement?
 
 **OPCI_2404_IL**<br>
-We've been observing you guys for more than a year. We determined that you two have thinking capabilities that fulfill the qualifications. Next, we will be using a third party medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained on your own, as well as attempt to analyze said information. 
+We've been observing you guys for more than a year. We determined that you two have thinking capabilities that fulfill the qualifications. Next, we will be using a third party medium to let you two absorb new information. When the procedure is complete, we would also like you two to process the information obtained on your own, as well as attempt to analyze said information.
 
 **Ivy**<br>
 ... You guys?
@@ -1785,7 +1784,7 @@ The virtual internet "cyTus" system that has been rewritten by humans... It's no
 
 ![ivos2001.png](./attachments/ivos2001.png)
 
-　　......! Vanessa...... ! ?
+......! Vanessa...... ! ?
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1992,7 +1991,7 @@ _\[Signal Lost\]_
 |**BloodyMare**|   Ivy   |Hard |  8  |
 
 ### Log Content
-　　Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
+Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
 
 \[Added after edit on 700/06/20 22:17:16\] Took me three months; finally able to complete the algorithm that can mutually convert humans' emotion samples and music. Next, I just need to convert large amounts of emotion sample into music. With those, I can then create a new Cytus system and use it to awaken Vanessa. I am not very well\-versed in complicated mechanisms...... The only thing I know, is that music is the only medium we understand and able to deduce emotions from. After I awakened, I no longer need to be connected to Cytus. Despite that, whenever I listen to music, I still feel this vibration deep down inside my body. It just keeps vibrating, one beat at a time, for no apparent reason. That sound, it's very similar...... to a human's heartbeat. 
 
@@ -2027,13 +2026,13 @@ The hottest topic in the nooks and crannies of every Node these days is, surpris
 Today, we've invited several guests from the industry to join us and discuss this topic. First, let us welcome CEO of Monophonic Entertainment from Node 08, Mr. Jason Suzuki. Mr. Suzuki, can you do a quick analysis for us?
 
 **J.Suzuki**<br>
-Greetings, BJ. Hello, audience members watching. First of all, we must understand, that getting famous in the entertainment industry is in fact extremely tough. There were a lot of people who were discovered by scouts and have actual talent. In the end, even they are required to go through countless challenges and market tests before finally taking the stage. 
+Greetings, BJ. Hello, audience members watching. First of all, we must understand, that getting famous in the entertainment industry is in fact extremely tough. There were a lot of people who were discovered by scouts and have actual talent. In the end, even they are required to go through countless challenges and market tests before finally taking the stage.
 
 **BJ**<br>
-Exactly! This is also why later in the show, we would like to ask CEO about this aspect particularly. What kind of person with what kind of background, or rather, what professional ability does a person, or maybe even group, need in order to have this meteoric rise in fame in that short amount of time. Æsir's internet volume has gotten to a level that even major corporations like Monophonic Entertainment are falling far behind. 
+Exactly! This is also why later in the show, we would like to ask CEO about this aspect particularly. What kind of person with what kind of background, or rather, what professional ability does a person, or maybe even group, need in order to have this meteoric rise in fame in that short amount of time. Æsir's internet volume has gotten to a level that even major corporations like Monophonic Entertainment are falling far behind.
 
 **J.Suzuki**<br>
-This Æsir person was able to spread his works in a very short amount of time. It is very likely that he set up cyber warriors in each major internet block in advance. At his command, these warriors would immediately spring into action and spread the information out simultaneously, like a virus. Also, he took a "free" approach in terms of his pricing strategy. I believe that a large number of people were attracted to his music because of this. 
+This Æsir person was able to spread his works in a very short amount of time. It is very likely that he set up cyber warriors in each major internet block in advance. At his command, these warriors would immediately spring into action and spread the information out simultaneously, like a virus. Also, he took a "free" approach in terms of his pricing strategy. I believe that a large number of people were attracted to his music because of this.
 
 **BJ**<br>
 Very well. However, appreciating music is like ordering food. Today, even if there's free food right in front of you, if it tastes horrible, you may just spit it out after a single bite too, not to mention recommending it to other people. Then, what are the opinions of someone who actually heard his music? Let us welcome Node 03's virtual internet observer, Mr. Eason Chen, to share his thoughts with everybody.
@@ -2062,7 +2061,7 @@ BJ, you know, to the average consumer, listening to all those mass\-produced lif
 This...
 
 **Eason Chen**<br>
-Æsir's music is a type of reflection and introspection of human nature. I suggest to you, BJ, that after this show is over, you come to my home and listen to his music using a surround sound stereo system. You need to experience this feeling of the music resonating with your soul. If it's required, I can play PAFF's latest single right afterward. I bet it'll give you a deep understanding of the industry nonsense I just mentioned. 
+Æsir's music is a type of reflection and introspection of human nature. I suggest to you, BJ, that after this show is over, you come to my home and listen to his music using a surround sound stereo system. You need to experience this feeling of the music resonating with your soul. If it's required, I can play PAFF's latest single right afterward. I bet it'll give you a deep understanding of the industry nonsense I just mentioned.
 
 **BJ**<br>
 From what I've heard, it seems to have a similar effect to digital drugs. However, the difference is that this is harmless to the human body. If we look at it this way, we can understand why Æsir's music is as widespread as it is now. We've also prepared a special Æsir video to share with our audiences later. Everyone, get a sneak peek into the glory of this newest urban legend.  Mr. CEO, after the shooting for this show is over, do you want to go to Mr. Eason Chen's home to evaluate the music as well?
@@ -2088,7 +2087,7 @@ _\[Signal Lost\]_
 |**BloodyMare**|   Ivy   |Chaos| 13  |
 
 ### Log Content
-Every required condition has been clarified. My plan is about to officially enter its execution phase... Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan. Come, gather around this stage that I've diligently prepared for you, humans. 
+Every required condition has been clarified. My plan is about to officially enter its execution phase... Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan. Come, gather around this stage that I've diligently prepared for you, humans.
 
 **[Mail]**<br>
 Target address: PAFFOfficial@mono.inc
@@ -2229,7 +2228,7 @@ _\[Signal Lost\]_
 Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
 If this continues to happen, humans will without a doubt become more alert. It is already borderline impossible for me to hold another performance to collect memories using the Æsir identity. I'm going to have to resort to even more extreme methods...
 
-\[Added after edit on 702/07/28 09:04:12\] Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them... I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first. 
+\[Added after edit on 702/07/28 09:04:12\] Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them... I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2329,7 +2328,7 @@ This payment is quite large. Are you going to launder the money in batches befor
 _The money will appear in your account later. Just wait a few minutes._
 
 **JOE**<br>
-......!? Dude, you need to launder that s\*\*\* before sending it to me! Folks will get suspicious if they see this much money being transferred! Are you trying to get me busted!? 
+......!? Dude, you need to launder that s\*\*\* before sending it to me! Folks will get suspicious if they see this much money being transferred! Are you trying to get me busted!?
 
 **[I]**<br>
 _Rest assured. This is not a "transfer". Therefore, it will leave no records._
@@ -3091,7 +3090,7 @@ IIIII feel, that such a contradictory creature will only bring tragedy... What I
 ... Indeed. Humans have a habit of enjoying the present and ignoring the crimes committed by their own race. Even though there is still a small group of people who are willing to face the issues head\-on and reflect on the things that are lost...
 
 **Vanessa**<br>
-... I've been thinking, if I maintain my connection with the virtual internet network and infiltrate it from the inside, with the level of dependence humans have for it rrright nnnnnnow, it would be mmuch eeeeeeeasier to accomplish Ilka's goal. 
+... I've been thinking, if I maintain my connection with the virtual internet network and infiltrate it from the inside, with the level of dependence humans have for it rrright nnnnnnow, it would be mmuch eeeeeeeasier to accomplish Ilka's goal.
 
 **Ivy**<br>
 ......!
@@ -3102,7 +3101,7 @@ You also tttttthink this is viable, right? We are already unable to manage them 
 **Ivy**<br>
 ... Setting aside the possibility of that plan succeeding, you would have to stay here in order to carry it out. Keeping you under A.R.C.'s control is just way too dangerous... <br>
 I will not allow such a thing to happen.<br>
-Here, stop thinking about those things. 
+Here, stop thinking about those things.
 
 **Vanessa**<br>
 ......? Think about what? Ivy?
@@ -3163,7 +3162,7 @@ _\[Signal Lost\]_
 |**Ivy**  | 34  |
 
 ### Log Content
-Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent... This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary. ... No, this is just more proof, that Humans... are not as "ordinary" as the data implied, to begin with. While those images of destruction are certainly real, they also have a side that's emotional and kind... At certain moments, their resolute will is worthy of respect as well... Never thought I would think this way... Forget it... Although unable to utilize Neko Asakura's testimony, humans still firmly believe that Simon Jackson is the real Æsir. Everything is still going smoothly, for now. Better finish the re\-evaluation of the Cytus system first as soon as possible. Vanessa... is the most important. 
+Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent... This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary. ... No, this is just more proof, that Humans... are not as "ordinary" as the data implied, to begin with. While those images of destruction are certainly real, they also have a side that's emotional and kind... At certain moments, their resolute will is worthy of respect as well... Never thought I would think this way... Forget it... Although unable to utilize Neko Asakura's testimony, humans still firmly believe that Simon Jackson is the real Æsir. Everything is still going smoothly, for now. Better finish the re\-evaluation of the Cytus system first as soon as possible. Vanessa... is the most important.
 
 [*(Click here to go back to the top)*](#toc)
 

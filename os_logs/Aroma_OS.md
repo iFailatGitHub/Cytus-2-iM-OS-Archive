@@ -638,7 +638,7 @@ _\[Signal Lost\]_
 ### Log Content
 **Clara**<br>
 The heck... Where did she go?<br>
-Ah, Thomas; have you seen Aroma? I need to give her the lecture materials from last semester. 
+Ah, Thomas; have you seen Aroma? I need to give her the lecture materials from last semester.
 
 **Classmate A**<br>
 Hmm, I don't think I have.<br>
@@ -1420,7 +1420,7 @@ Eh? Ummm...
 
 **Chris**<br>
 More importantly, her avant\-garde music! If you pair that with PAFF's singing, they are absolutely going to be the next big thing! These two together will create magnificent sparks of genius never seen before! <br>
-Can you at least listen to her demo? 
+Can you at least listen to her demo?
 
 **Helena**<br>
 We are on our way to lunch. We'll talk about it after we get back.
@@ -1872,8 +1872,7 @@ Previously, you guys took NEKO's arrangements without permission and used it for
 
 **Chris**<br>
 It's not like I can change anything. These are all decisions made by the higher\-ups... If we're talking the law, the copyright of any work produced using the company's equipment does belong to the company, regardless of the creator...<br>
-Didn't I also remind you about the PR image issues caused by your actions online? The company has been hesitant about promoting you because of that. They're tough on me too... <br>
-
+Didn't I also remind you about the PR image issues caused by your actions online? The company has been hesitant about promoting you because of that. They're tough on me too...
 
 **NEKO#ΦωΦ**<br>
 ... This and that are two completely different issues!? Regardless of my actions, NEKO still made those songs! How could you guys do that!?<br>
@@ -3581,7 +3580,7 @@ _Yes..._
 
 **Aroma**<br>
 Just approach it normally. With your current grades, you can mess up 1 or 2 questions and still end up in class 1. All you need to do is perform up to your usual standards. If you're too nervous, you won't remember what you studied.<br>
-Relax\~ We are all going to J\-1, together. 
+Relax\~ We are all going to J\-1, together.
 
 **[Iris]**<br>
 _Got it! Hearing you say that really calms my mind down... Though I hope you can encourage yourself like that on stage too. Every time I see you on\-stage, I always get sweaty palms because you're literally shaking. Haha._
