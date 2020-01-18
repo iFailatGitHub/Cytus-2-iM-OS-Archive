@@ -4043,7 +4043,7 @@ _... Reset the parameters. Let her body rest and recover. Prepare configuration 
 _Understood._
 
 **[Noah]**<br>
-_Aroma... come on... wake up... _
+_Aroma... come on... wake up..._
 
 _\[Signal Lost\]_
 
