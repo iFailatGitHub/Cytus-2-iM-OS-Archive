@@ -52,12 +52,12 @@
 **Cherry**<br>
 Hello Simon, it's been a while
 If you see this message, can you reply to me...?<br>
-*[Sent at AM 06:59]*
+_[Sent at 06:59 AM]_
 
 **Cherry**<br>
 ...I know you may not have forgiven me yet 
 But I do have something important that I want to tell you. If you see this, please call me back...<br>
-*[Sent at PM 11:32]*
+_[Sent at 11:32 PM]_
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -189,143 +189,143 @@ _\[Signal Lost\]_
 
 ## <a id="chos004"/>\[#004\] Message\_Group\_693\_05\_26
 ### Log Content
-_S.J. has joined the chat group_<br>
+_[S.J. has joined the chat group]_<br>
 
 
 **JOE**<br>
 Here he is! The future superstar!<br>
-*[Sent at PM 09:20]*
+_[Sent at 09:20 PM]_
 
 **Cherry**<br>
 The guitarist you mentioned before?<br>
-*[Sent at PM 09:20]*
+_[Sent at 09:20 PM]_
 
 **S.J.**<br>
 Hello everyone. I'm Simon.<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **KAI**<br>
 Hi, I'm KAI, the drummer.<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **Cherry**<br>
 I'm the lead singer, Cherry<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **KAI**<br>
 We've all heard your compositions. They're f\*\*\*ing awesome!<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **JOE**<br>
 No kidding! I almost want to worship you! Please go out with me! XD<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **JOE**<br>
 ![04_XD.png](./attachments/04_XD.png)<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **Cherry**<br>
 ...You're gonna scare him away<br>
-*[Sent at PM 09:21]*
+_[Sent at 09:21 PM]_
 
 **S.J.**<br>
 Haha, it's fine.<br>
-*[Sent at PM 09:22]*
+_[Sent at 09:22 PM]_
 
 **S.J.**<br>
 I've also heard your DEMO. I'm quite interested. The lead singer's voice is very nice.<br>
-*[Sent at PM 09:22]*
+_[Sent at 09:22 PM]_
 
 **JOE**<br>
 XD She wrote most of it. I wrote a little bit\~<br>
-*[Sent at PM 09:22]*
+_[Sent at 09:22 PM]_
 
 **Cherry**<br>
 Thank you. I did indeed write most of it<br>
-*[Sent at PM 09:22]*
+_[Sent at 09:22 PM]_
 
 **KAI**<br>
 Jesus you guys are making it sound like I'm doing nothing...<br>
-*[Sent at PM 09:22]*
+_[Sent at 09:22 PM]_
 
 **S.J.**<br>
 Haha, but I quite like this method of composition. By starting with the main melody, the emotions are very much on point.
 For your first song, I made a new chord for it. Give it a listen.<br>
-*[Sent at PM 09:24]*
+_[Sent at 09:24 PM]_
 
 **S.J.**<br>
 \[S.J. uploads a sound file\]<br>
-*[Sent at PM 09:24]*
+_[Sent at 09:24 PM]_
 
 **JOE**<br>
 OMG!! It's amazing!! Let's make this the final ver\~<br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **KAI**<br>
 Very nice. You can come to our band practice this weekend. Big sis, set up the practice room will you. <br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **Cherry**<br>
 Why are you grown\-a\*\* men calling me big sis? I'm the youngest here!<br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **JOE**<br>
 You sure? Simon's only 17<br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **Cherry**<br>
 Thy fair lady here is only 16<br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **KAI**<br>
 Thy fair lady... you sound like a big sis saying that...<br>
-*[Sent at PM 09:25]*
+_[Sent at 09:25 PM]_
 
 **Cherry**<br>
 Stop yapping. I'm done setting up the virtual space in Area 3<br>
-*[Sent at PM 09:27]*
+_[Sent at 09:27 PM]_
 
 **S.J.**<br>
 Umm, sorry for bothering, but can we use a physical space for practice? I'm more used to analog resonance.<br>
-*[Sent at PM 09:27]*
+_[Sent at 09:27 PM]_
 
 **Cherry**<br>
 I'm ok with it, but I've never used a physical space before<br>
-*[Sent at PM 09:27]*
+_[Sent at 09:27 PM]_
 
 **JOE**<br>
 Me neither\~ Won't there be a bunch of problems with feedback and stuff?<br>
-*[Sent at PM 09:27]*
+_[Sent at 09:27 PM]_
 
 **JOE**<br>
 ![03_N.png](./attachments/03_N.png)<br>
-*[Sent at PM 09:27]*
+_[Sent at 09:27 PM]_
 
 **S.J.**<br>
 Yeah, but I assume that the band will have plenty of opportunities to perform in a physical space in the future. It's best that everyone learned to deal with different situations when they come up.<br>
-*[Sent at PM 09:28]*
+_[Sent at 09:28 PM]_
 
 **KAI**<br>
 You have a point. Looks like we have a new band leader XD
 I'll book a practice room. My friend's instrument store has access to physical spaces.<br>
-*[Sent at PM 09:28]*
+_[Sent at 09:28 PM]_
 
 **S.J.**<br>
 Thank you. Sorry for bothering everyone. 
 I look forward to seeing everyone.<br>
-*[Sent at PM 09:28]*
+_[Sent at 09:28 PM]_
 
 **KAI**<br>
 ![01_OK.png](./attachments/01_OK.png)<br>
-*[Sent at PM 09:28]*
+_[Sent at 09:28 PM]_
 
 **JOE**<br>
 Hahaha get excited! Cherry is quite the eye candy <3<br>
-*[Sent at PM 09:28]*
+_[Sent at 09:28 PM]_
 
 **Cherry**<br>
 Shut up you perv...<br>
-*[Sent at PM 09:29]*
+_[Sent at 09:29 PM]_
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -1590,83 +1590,83 @@ _\[Signal Lost\]_
 ### Log Content
 **Cherry**<br>
 Hi when does the Cafe open?<br>
-*[Sent at AM 09:58]*
+_[Sent at 09:58 AM]_
 
 **JOE**<br>
 8, you coming for a drink?<br>
-*[Sent at AM 10:01]*
+_[Sent at 10:01 AM]_
 
 **Cherry**<br>
 Band practice ends at 5. Have a meeting with Simon at 8
 No place to go, so I want to see if I can wait for him at your place<br>
-*[Sent at AM 10:01]*
+_[Sent at 10:01 AM]_
 
 **JOE**<br>
 OH Sure! Then I'll be in the shop at 5. You can just cone in<br>
-*[Sent at AM 10:02]*
+_[Sent at 10:02 AM]_
 
 **Cherry**<br>
 'Come'' in<br>
-*[Sent at AM 10:02]*
+_[Sent at 10:02 AM]_
 
 **JOE**<br>
 Stop nitpicking my spelling mistakes. What, are you Simon now XDDD<br>
-*[Sent at AM 10:02]*
+_[Sent at 10:02 AM]_
 
 **JOE**<br>
 By the way, did you guys get back together?
 Why are you guys contacting each other so often recently?<br>
-*[Sent at AM 10:02]*
+_[Sent at 10:02 AM]_
 
 **Cherry**<br>
 No, we didn't
  Some things happened. It's complicated...<br>
-*[Sent at AM 10:05]*
+_[Sent at 10:05 AM]_
 
 **Cherry**<br>
 I'd ask another question, are Simon and NEKO really not dating or anything?<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **JOE**<br>
 I don't think so. He said their age is too far apart. He treats her like a little sister<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **Cherry**<br>
 So like Shannon...<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **Cherry**<br>
 Have you talked to him about it? How his sister is doing and stuff<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **JOE**<br>
 Nope. He never allowed me to even mention his sister. Every time I bring it up, he gives me this look with ''SHUT UP'' written all over it<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **JOE**<br>
 ![05_QQ.png](./attachments/05_QQ.png)<br>
-*[Sent at AM 10:07]*
+_[Sent at 10:07 AM]_
 
 **Cherry**<br>
 I see. I'm almost leaving. I'll talk about the rest at your place<br>
-*[Sent at AM 10:08]*
+_[Sent at 10:08 AM]_
 
 **JOE**<br>
 Got it. I'll be waiting in the shop<br>
-*[Sent at AM 10:08]*
+_[Sent at 10:08 AM]_
 
 **Cherry**<br>
 Just a heads up, don't get wasted by me before your customers show up, 
 Alcohol Master\~<br>
-*[Sent at AM 10:08]*
+_[Sent at 10:08 AM]_
 
 **Cherry**<br>
 ![04_XD.png](./attachments/04_XD.png)<br>
-*[Sent at AM 10:08]*
+_[Sent at 10:08 AM]_
 
 **JOE**<br>
 I have a lot more restraint now<br>
-*[Sent at AM 10:08]*
+_[Sent at 10:08 AM]_
 
 [*(Click here to go back to the top)*](#toc)
 

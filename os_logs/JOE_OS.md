@@ -782,151 +782,151 @@ _\[Signal Lost\]_
 ### Log Content
 **KAI**<br>
 Hi, everyone, time for the band meeting<br>
-*[Sent at PM 08:35]*
+_[Sent at 08:35 PM]_
 
 **JOE**<br>
 Meeting time!!!
 Big sis, if you're there, make a noise\~<br>
-*[Sent at PM 08:35]*
+_[Sent at 08:35 PM]_
 
 **Cherry**<br>
 I am here, so shush<br>
-*[Sent at PM 08:36]*
+_[Sent at 08:36 PM]_
 
 **KAI**<br>
 That's rare. Big sis not the first one to respond<br>
-*[Sent at PM 08:36]*
+_[Sent at 08:36 PM]_
 
 **Cherry**<br>
 Was dealing with stuff late last night, didn't sleep too well<br>
-*[Sent at PM 08:37]*
+_[Sent at 08:37 PM]_
 
 **JOE**<br>
 Late last night!?!?
 Could it be a boyfriend... >///<<br>
-*[Sent at PM 08:37]*
+_[Sent at 08:37 PM]_
 
 **Cherry**<br>
 ... Gross<br>
-*[Sent at PM 08:37]*
+_[Sent at 08:37 PM]_
 
 **JOE**<br>
 ![04_XD.png](./attachments/04_XD.png)<br>
-*[Sent at PM 08:37]*
+_[Sent at 08:37 PM]_
 
 **JOE**<br>
 OK, let's get back to the meeting XD<br>
-*[Sent at PM 08:37]*
+_[Sent at 08:37 PM]_
 
 **KAI**<br>
 First the band name, final decision is the one Big sis came up with, crystal punk, everyone ok with this?<br>
-*[Sent at PM 08:38]*
+_[Sent at 08:38 PM]_
 
 **Cherry**<br>
 Some of the letters are capitalized, it's Crystal PuNK<br>
-*[Sent at PM 08:39]*
+_[Sent at 08:39 PM]_
 
 **KAI**<br>
 Got it. I myself quite like this name. It has a nice ring to it<br>
-*[Sent at PM 08:39]*
+_[Sent at 08:39 PM]_
 
 **JOE**<br>
 How bout CRYSTAL PUNK? Looks more impactful<br>
-*[Sent at PM 08:39]*
+_[Sent at 08:39 PM]_
 
 **Cherry**<br>
 All Caps names are everywhere, doesn't stand out<br>
-*[Sent at PM 08:40]*
+_[Sent at 08:40 PM]_
 
 **JOE**<br>
 I know that XDDD I'm ok with the name\~
 The most important thing is that it's a band with you guys!<br>
-*[Sent at PM 08:40]*
+_[Sent at 08:40 PM]_
 
 **JOE**<br>
 We are Crystal PuNK!! Our goal is the world stage!!<br>
-*[Sent at PM 08:40]*
+_[Sent at 08:40 PM]_
 
 **Cherry**<br>
 ... If KAI's the one who said this, I would probably be really touched<br>
-*[Sent at PM 08:41]*
+_[Sent at 08:41 PM]_
 
 **KAI**<br>
 That's a bit much
 Alright, one thing done, next thing. 
 Regarding other members, any thoughts or possible candidates?<br>
-*[Sent at PM 08:41]*
+_[Sent at 08:41 PM]_
 
 **KAI**<br>
 I'll go first. Last time, I went on a LIVE and came across a pretty good bassist. He's pretty consistent; let's switch JOE out<br>
-*[Sent at PM 08:42]*
+_[Sent at 08:42 PM]_
 
 **Cherry**<br>
 Agreed<br>
-*[Sent at PM 08:42]*
+_[Sent at 08:42 PM]_
 
 **JOE**<br>
 Wait, WTF XDDD
 What about our goal of the world stage!!!!!<br>
-*[Sent at PM 08:42]*
+_[Sent at 08:42 PM]_
 
 **KAI**<br>
 Who said it's going to be with you? That guy's slap is incredible<br>
-*[Sent at PM 08:43]*
+_[Sent at 08:43 PM]_
 
 **Cherry**<br>
 Looks like JOE you can leave in peace<br>
-*[Sent at PM 08:43]*
+_[Sent at 08:43 PM]_
 
 **JOE**<br>
 NOOOOOOO\~\~\~\~<br>
-*[Sent at PM 08:43]*
+_[Sent at 08:43 PM]_
 
 **KAI**<br>
 Nah, just kidding. JOE, you mentioned about a guitarist you knew. Is he any good?<br>
-*[Sent at PM 08:44]*
+_[Sent at 08:44 PM]_
 
 **JOE**<br>
 Ah, right! I'll show you guys his solo!!
 He's totally gonna be the next big thing!<br>
-*[Sent at PM 08:44]*
+_[Sent at 08:44 PM]_
 
 **JOE**<br>
 \[JOE has shared a link.\]<br>
-*[Sent at PM 08:45]*
+_[Sent at 08:45 PM]_
 
 **Cherry**<br>
 Holy cow... he's amazing... that's professional level stuff right there<br>
-*[Sent at PM 08:48]*
+_[Sent at 08:48 PM]_
 
 **KAI**<br>
 Amazing indeed. The sound is stable. The tone is smooth and clear even during shredding. How did you get to know him?<br>
-*[Sent at PM 08:48]*
+_[Sent at 08:48 PM]_
 
 **JOE**<br>
 I actively harassed him ofc XD
 We know each other pretty well now. Should I get him in this chat?<br>
-*[Sent at PM 08:48]*
+_[Sent at 08:48 PM]_
 
 **Cherry**<br>
 Sure, but I have things to deal with tonight. How about tomorrow?<br>
-*[Sent at PM 08:49]*
+_[Sent at 08:49 PM]_
 
 **KAI**<br>
 I think tomorrow's fine too. JOE, contact him. Invite him to this chat tomorrow night and we can continue the discussion then<br>
-*[Sent at PM 08:49]*
+_[Sent at 08:49 PM]_
 
 **JOE**<br>
 Understood! Yes Sir, leader!!!<br>
-*[Sent at PM 08:50]*
+_[Sent at 08:50 PM]_
 
 **KAI**<br>
 Can someone else be the leader instead... please...<br>
-*[Sent at PM 08:50]*
+_[Sent at 08:50 PM]_
 
 **JOE**<br>
 ![05_QQ.png](./attachments/05_QQ.png)<br>
-*[Sent at PM 08:50]*
+_[Sent at 08:50 PM]_
 
 [*(Click here to go back to the top)*](#toc)
 
