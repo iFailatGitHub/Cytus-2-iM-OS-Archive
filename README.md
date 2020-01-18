@@ -1,4 +1,5 @@
-# Cytus-2-iM-OS-Archive
+# Cytus 2 iM Post & OS Log Archive
+
 Archives of Cytus 2 iM posts and OS Archives, all in Markdown.
 
 **DISCLAIMER:** All images and videos linked are properites of Rayark Games.
