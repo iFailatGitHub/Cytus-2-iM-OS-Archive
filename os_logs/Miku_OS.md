@@ -34,6 +34,13 @@ _\[Signal Lost\]_
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="mos002"/>\[#002\] Cam01\_MHall\_702\_10\_09
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Ten Thousand Stars**|  Miku   |Easy |  4  |
+|**Ten Thousand Stars**|  Miku   |Hard |  6  |
+|**Ten Thousand Stars**|  Miku   |Chaos| 12  |
+
 ### Log Content
 *\[Audience Cheer\]*
 
@@ -423,6 +430,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Miku** |  5  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Glass Wall**|  Miku   |Easy |  2  |
+|**Glass Wall**|  Miku   |Hard |  6  |
+|**Glass Wall**|  Miku   |Chaos| 11  |
+
 ### Log Content
 **Miku**<br>
 Ugh... ugh...
@@ -626,6 +640,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Miku** |  6  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Cybernetic**|  Miku   |Easy |  3  |
+|**Cybernetic**|  Miku   |Hard |  7  |
+|**Cybernetic**|  Miku   |Chaos| 12  |
 
 ### Log Content
 *\[Projection\]*
@@ -1430,6 +1451,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Miku** | 12  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Decade**|  Miku   |Easy |  3  |
+|**Decade**|  Miku   |Hard |  6  |
+|**Decade**|  Miku   |Chaos|  9  |
+
 ### Log Content
 ![mos1402.png](./attachments/mos1402.png)
 
@@ -1618,6 +1646,13 @@ _\[Signal Lost\]_
 
 ### Command Code
 The command code is `390239`.
+
+### Unlocked Charts
+|             Song              |Character|Diff.|Level|
+|-------------------------------|:-------:|:---:|:---:|
+|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Easy |  4  |
+|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Hard |  7  |
+|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Chaos| 11  |
 
 ### Log Content
 Ah... ah? Can you hear me? I think it's working? Mr. Furuhata, I originally planned to leave a projection message for you in the interactive UI, but it seems that my image functions just couldn't do that anymore. However, at the end of everything, there are still some things I want to say to you while I still have my voice. I'm really sorry for willfully changing the performance; I wasn't able to finish my last song either. I let you down... Despite that, seeing the entire audience so touched... To have that as my last performance made me really, really happy. Perhaps the latest version has already replaced me perfectly and has continued to bring everyone strength. Nevertheless, I feel very satisfied for being able to spend my days pursuing my dream. I understand that my feelings of wanting to pursue a dream is preprogrammed by Mr. Furuhata. Despite that, I still feel very happy throughout this process. Maybe this sense of happiness is preprogrammed by Mr. Furuhata too... Well, I don't really understand these complicated things, haha... Even if that's the case, I still thank you from the bottom of my heart. Thank you for giving me this dream. Thank you for giving me this happiness. Thank you for giving me the courage to not give up at the very end. Mr. Furuhata once had a dream too, one that's much grander than mine. I hope you don't give up on your dream and continue to pursue it as well. Whether it's through singing or technology, I believe that the love we give to this world is all the same. Lastly, thank you...... for letting me be your child.

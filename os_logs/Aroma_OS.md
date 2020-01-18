@@ -1011,6 +1011,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**|  5  |
 
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Bring the light**|  Aroma  |Easy |  2  |
+
 ### Log Content
 *\[Ringtone\]*
 
@@ -1113,6 +1118,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**|  5  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Bring the light**|  Aroma  |Hard |  5  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1226,6 +1236,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**|  6  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Bring the light**|  Aroma  |Chaos|  8  |
 
 ### Log Content
 **Host**<br>
@@ -1359,6 +1374,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**|  7  |
+
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Make U Mine**|  Aroma  |Easy |  3  |
 
 ### Log Content
 **Helena**<br>
@@ -1644,6 +1664,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**|  8  |
+
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Make U Mine**|  Aroma  |Hard |  6  |
 
 ### Log Content
 **Helena**<br>
@@ -2072,6 +2097,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**| 10  |
 
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Make U Mine**|  Aroma  |Chaos| 11  |
+
 ### Log Content
 *\[cyTus login\]*
 
@@ -2318,6 +2348,11 @@ Chris
 |---------|:---:|
 |**Aroma**| 13  |
 
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Anzen Na Kusuri**|  Aroma  |Easy |  2  |
+
 ### Log Content
 **Helena**<br>
 Aroma, are you alright? Did you get injured?
@@ -2492,6 +2527,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**| 15  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Anzen Na Kusuri**|  Aroma  |Hard |  6  |
 
 ### Log Content
 **Helena**<br>
@@ -2763,6 +2803,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**| 17  |
 
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Anzen Na Kusuri**|  Aroma  |Chaos| 10  |
+
 ### Log Content
 **Aroma**<br>
 ......
@@ -2817,6 +2862,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**| 18  |
+
+### Unlocked Charts
+|  Song  |Character|Diff.|Level|
+|--------|:-------:|:---:|:---:|
+|**漂流**|  Aroma  |Easy |  4  |
+|**漂流**|  Aroma  |Hard |  7  |
+|**漂流**|  Aroma  |Chaos| 14  |
 
 ### Log Content
 *\[Guitar\]*
@@ -2922,6 +2974,13 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**| 19  |
+
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**Perspectives**|  Aroma  |Easy |  2  |
+|**Perspectives**|  Aroma  |Hard |  5  |
+|**Perspectives**|  Aroma  |Chaos| 10  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3058,6 +3117,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**| 20  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**風の声**|  Aroma  |Easy |  2  |
+|**風の声**|  Aroma  |Hard |  4  |
+
 ### Log Content
 *\[Audience applauds\]*
 
@@ -3170,6 +3235,11 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**| 21  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**風の声**|  Aroma  |Chaos|  9  |
 
 ### Log Content
 *\[Door Knock\]*
@@ -3309,6 +3379,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**| 22  |
 
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Neon Escape**|  Aroma  |Easy |  2  |
+
 ### Log Content
 **？？？**<br>
 5̴͘͜D͏̷͏"̶͢͞...... Ų͠t͠şR̸̀Z̸̶͘leave first. I want to go to@҉̷̨T̡́ shopping strip... Sor%̨͞\`̶b̶.̶̀͜e̸F̴̕̕ escort you home.
@@ -3402,6 +3477,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Aroma**| 22  |
 
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Neon Escape**|  Aroma  |Hard |  6  |
+
 ### Log Content
 **Aroma**<br>
 AHHHHHHH!!
@@ -3476,6 +3556,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Aroma**| 23  |
+
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Neon Escape**|  Aroma  |Chaos| 10  |
 
 ### Log Content
 **[Iris]**<br>

@@ -67,6 +67,13 @@ This is...... How long has it been...? Nothing but green... In my memory, this i
 ### Command Code
 The command code is `2501004`.
 
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Reset**|   Ivy   |Easy |  3  |
+|**Reset**|   Ivy   |Hard |  7  |
+|**Reset**|   Ivy   |Chaos| 12  |
+
 ### Log Content
 Protocol activated<br>
 Initializing reset and mass production procedure<br>
@@ -187,6 +194,13 @@ Been six days since I woke up, and I haven't even made it out of the jungle... I
 
 ### Command Code
 The command code is `2501004`.
+
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**D R G**|   Ivy   |Easy |  2  |
+|**D R G**|   Ivy   |Hard |  6  |
+|**D R G**|   Ivy   |Chaos| 11  |
 
 ### Log Content
 **[Shelter System]**<br>
@@ -332,6 +346,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Ivy**  |  5  |
 
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Sentimental Journey**|   Ivy   |Chaos| 14  |
+
 ### Log Content
 *\[Footsteps\]*
 
@@ -418,6 +437,13 @@ Been following those humans for the entire day... They seem to refer to themselv
 
 ### Command Code
 The command code is `2501004`.
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Biotonic**|   Ivy   |Easy |  3  |
+|**Biotonic**|   Ivy   |Hard |  7  |
+|**Biotonic**|   Ivy   |Chaos| 13  |
 
 ### Log Content
 **[Shelter System]**<br>
@@ -735,6 +761,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Ivy**  | 10  |
 
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Alexandrite**|   Ivy   |Chaos| 13  |
+
 ### Log Content
 *\[Armored car engine\]*
 
@@ -983,6 +1014,11 @@ _\[Signal Lost\]_
 
 ### Command Code
 The command code is `2501005`.
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Tokiwatari**|   Ivy   |Chaos| 13  |
 
 ### Log Content
 **[Cytus System]**<br>
@@ -1412,6 +1448,13 @@ _\[Signal Lost\]_
 ### Command Code
 The command code is `2501005`.
 
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Purge**|   Ivy   |Easy |  4  |
+|**Purge**|   Ivy   |Hard |  8  |
+|**Purge**|   Ivy   |Chaos| 12  |
+
 ### Log Content
 **Ivy**<br>
 Vanessa, today's work is over. Do you want to go to the garden?
@@ -1755,6 +1798,13 @@ The virtual internet "cyTus" system that has been rewritten by humans... It's no
 ### Command Code
 The command code is `2404049`.
 
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Area184**|   Ivy   |Easy |  4  |
+|**Area184**|   Ivy   |Hard |  8  |
+|**Area184**|   Ivy   |Chaos| 12  |
+
 ### Log Content
 **Ivy**<br>
 ......nessa...... Vanessa！
@@ -1935,6 +1985,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Ivy**  | 18  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**BloodyMare**|   Ivy   |Easy |  3  |
+|**BloodyMare**|   Ivy   |Hard |  8  |
+
 ### Log Content
 　　Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
 
@@ -2025,6 +2081,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Ivy**  | 19  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**BloodyMare**|   Ivy   |Chaos| 13  |
 
 ### Log Content
 Every required condition has been clarified. My plan is about to officially enter its execution phase... Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan. Come, gather around this stage that I've diligently prepared for you, humans. 
@@ -2138,6 +2199,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Ivy**  | 21  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Lunar Mare**|   Ivy   |Easy |  4  |
+|**Lunar Mare**|   Ivy   |Hard |  8  |
+
 ### Log Content
 ![ivos2601.png](./attachments/ivos2601.png)
 
@@ -2153,6 +2220,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Ivy**  | 22  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Lunar Mare**|   Ivy   |Chaos| 14  |
+
 ### Log Content
 Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
 If this continues to happen, humans will without a doubt become more alert. It is already borderline impossible for me to hold another performance to collect memories using the Æsir identity. I'm going to have to resort to even more extreme methods...
@@ -2166,6 +2238,12 @@ If this continues to happen, humans will without a doubt become more alert. It i
 |Character|Level|
 |---------|:---:|
 |**Ivy**  | 22  |
+
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**99 Glooms**|   Ivy   |Easy |  5  |
+|**99 Glooms**|   Ivy   |Hard |  7  |
 
 ### Log Content
 **Neko**<br>
@@ -2229,6 +2307,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Ivy**  | 23  |
+
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**99 Glooms**|   Ivy   |Chaos| 14  |
 
 ### Log Content
 **JOE**<br>
@@ -2322,6 +2405,12 @@ This attack, due to the boost from the amplifying equipment, the conversion rate
 |Character|Level|
 |---------|:---:|
 |**Ivy**  | 25  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Pressure**|   Ivy   |Easy |  3  |
+|**Pressure**|   Ivy   |Hard |  7  |
 
 ### Log Content
 **Man**<br>
@@ -2516,6 +2605,11 @@ Can you hear me......? ...... Vanessa? ......
 |---------|:---:|
 |**Ivy**  | 27  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Pressure**|   Ivy   |Chaos| 12  |
+
 ### Log Content
 Brought back the model during the night. It was hit by a pulse pistol and suffered quite a bit of damage. Won't be able to operate outside again in the near future. I severely underestimated Simon Jackson... His A.I. found my image in A.R.C.'s database. Subsequent investigations led him to discover the base in factory 03. It's too risky to let him continue to investigate freely like this. His next step... he's likely going to track the connection address I used to hack the streamer and catch up to me, isn't he? There are too many clues there, I can't hide them all. However, as long as I can come face\-to\-face with his A.I. , the situation will change... The legendary hacker "X" is a mere human after all. If it's a fight between the 0s and 1s, he is no match for me. The conversion for the remaining memory data is going along smoothly. I will definitely succeed this time. I will not allow a human to mess up my plans. Just wait for me a little longer, Vanessa.
 
@@ -2636,6 +2730,13 @@ _\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 |**NEKO#ΦωΦ** | 55  |
 |**ROBO_Head**| 55  |
 |**Ivy**      | 29  |
+
+### Unlocked Charts
+| Song  |Character|Diff.|Level|
+|-------|:-------:|:---:|:---:|
+|**V.** |   Ivy   |Easy |  6  |
+|**V.** |   Ivy   |Hard | 10  |
+|**V.** |   Ivy   |Chaos| 15  |
 
 ### Log Content
 Everything has been planned out. No more hidden concerns. The condition of Cytus is also perfect. The time right now...... 00:01:12...... It's time.

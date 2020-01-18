@@ -114,6 +114,11 @@ _\[Replay Ends\]_
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="xos002"/>\[#002\] Cam\_Cafe\_702\_06\_28
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Fighting**|  Xenon  |Easy |  2  |
+
 ### Log Content
 *\[Doorbell\]*
 
@@ -198,6 +203,11 @@ _\[Replay Ends\]_
 |Character|Level|
 |---------|:---:|
 |**Xenon**|  2  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Fighting**|  Xenon  |Hard |  7  |
 
 ### Log Content
 **[Broadcast]**<br>
@@ -362,6 +372,11 @@ _\[Call Ends\]_
 |---------|:---:|
 |**Xenon**|  4  |
 
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**To the Light**|  Xenon  |Easy |  4  |
+
 ### Log Content
 ![xos0501.png](./attachments/xos0501.png)
 
@@ -425,6 +440,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**|  5  |
 
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**To the Light**|  Xenon  |Hard |  8  |
+
 ### Log Content
 **Subj.**: Investigation of initiation error records<br>
 **From**: Anonymous<br>
@@ -454,6 +474,11 @@ Report Ends
 |Character|Level|
 |---------|:---:|
 |**Xenon**|  6  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Fighting**|  Xenon  |Chaos| 11  |
 
 ### Log Content
 ![xos0701.png](./attachments/xos0701.png)
@@ -523,6 +548,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**|  7  |
 
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**To the Light**|  Xenon  |Chaos| 12  |
+
 ### Log Content
 ![xos0801.png](./attachments/xos0801.png)
 
@@ -590,6 +620,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**|  8  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Phantom Razor**|  Xenon  |Easy |  4  |
+
 ### Log Content
 **Davis**<br>
 What's up? Is there something you want from me?
@@ -650,6 +685,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**|  9  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Phantom Razor**|  Xenon  |Hard |  8  |
+
 ### Log Content
 ![xos1001.png](./attachments/xos1001.png)
 
@@ -704,6 +744,11 @@ _\[Replay Ends\]_
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 10  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Black Hole**|  Xenon  |Easy |  2  |
 
 ### Log Content
 ![xos1101.png](./attachments/xos1101.png)
@@ -778,6 +823,11 @@ _\[Replay Ends\]_
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 11  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Black Hole**|  Xenon  |Hard |  4  |
 
 ### Log Content
 **Subj.**: Investigation of abnormal data flow and electrical overload<br>
@@ -876,6 +926,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**| 13  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Black Hole**|  Xenon  |Chaos| 10  |
+
 ### Log Content
 **Xenon**<br>
 Here's this month's working report. 
@@ -946,6 +1001,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**| 14  |
 
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**SAMURAI**|  Xenon  |Easy |  4  |
+
 ### Log Content
 **Subj.**: Your request has being denied due to violation of protocol<br>
 **From**: Anonymous<br>
@@ -976,6 +1036,11 @@ Report Ends
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 15  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**SAMURAI**|  Xenon  |Hard |  9  |
 
 ### Log Content
 **Xenon**<br>
@@ -1074,6 +1139,11 @@ Sound\_701\_08\_12\_18\_36\_46\_764……100%
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 17  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**SAMURAI**|  Xenon  |Chaos| 13  |
 
 ### Log Content
 *\[Spray Paint\]*
@@ -1275,6 +1345,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**| 20  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Phantom Razor**|  Xenon  |Chaos| 13  |
+
 ### Log Content
 **Subj.**: Report on reverse tracking of target's connecting location<br>
 **From**: Anonymous<br>
@@ -1305,6 +1380,11 @@ Report Ends
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 21  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**IOLITE-SUNSTONE**|  Xenon  |Easy |  3  |
 
 ### Log Content
 ![xos2302.png](./attachments/xos2302.png)
@@ -1397,6 +1477,11 @@ _\[Replay Ends\]_
 |---------|:---:|
 |**Xenon**| 22  |
 
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**IOLITE-SUNSTONE**|  Xenon  |Hard |  7  |
+
 ### Log Content
 **Subj.**: Medium scale abnormal data flow and electrical overload<br>
 **From**: Anonymous<br>
@@ -1427,6 +1512,11 @@ Report Ends
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 23  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**IOLITE-SUNSTONE**|  Xenon  |Chaos| 11  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2921,6 +3011,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Xenon**| 34  |
 
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Karma**|  Xenon  |Easy |  3  |
+|**Karma**|  Xenon  |Hard |  7  |
+|**Karma**|  Xenon  |Chaos| 11  |
+
 ### Log Content
 **Cherry**<br>
 The transporter is almost here. Didn't think we would actually survive these seven days without a hitch.<br>
@@ -3274,6 +3371,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 36  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Chosen**|  Xenon  |Easy |  4  |
+|**Chosen**|  Xenon  |Hard |  7  |
+|**Chosen**|  Xenon  |Chaos| 13  |
 
 ### Log Content
 _\[→Audio\_Capt.Wood\_688\_05\_01\]_
@@ -3760,6 +3864,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Xenon**| 39  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Violet**|  Xenon  |Easy |  2  |
+|**Violet**|  Xenon  |Hard |  7  |
+|**Violet**|  Xenon  |Chaos| 14  |
+
 ### Log Content
 _\[→Audio\_53St.\_696\_05\_10\]_
 
@@ -3866,6 +3977,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Xenon**| 39  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Asylum**|  Xenon  |Easy |  3  |
+|**Asylum**|  Xenon  |Hard |  7  |
+|**Asylum**|  Xenon  |Chaos| 12  |
 
 ### Log Content
 **????**<br>

@@ -1331,6 +1331,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Neko** |  8  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**一啖兩啖**|  Neko   |Easy |  3  |
+|**一啖兩啖**|  Neko   |Hard |  7  |
+|**一啖兩啖**|  Neko   |Chaos| 11  |
+
 ### Log Content
 **Neko**<br>
 Li\~n\~da\~ Chan!
@@ -1468,6 +1475,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Neko** |  9  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Mammal**|  Neko   |Easy |  4  |
+|**Mammal**|  Neko   |Hard |  9  |
+
 ### Log Content
 **Neko**<br>
 Ugh\~ this sucks. Why does it rain so much these days... Man, even my dinner is all soaked!
@@ -1597,6 +1610,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Neko** | 10  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Mammal**|  Neko   |Chaos| 14  |
 
 ### Log Content
 **[Xenon-V]**<br>
@@ -1887,6 +1905,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Neko** | 12  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Blah!!**|  Neko   |Easy |  4  |
+|**Blah!!**|  Neko   |Hard |  8  |
+|**Blah!!**|  Neko   |Chaos| 14  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2205,6 +2230,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Neko** | 13  |
 
+### Unlocked Charts
+|  Song  |Character|Diff.|Level|
+|--------|:-------:|:---:|:---:|
+|**リラ**|  Neko   |Easy |  4  |
+|**リラ**|  Neko   |Hard |  8  |
+
 ### Log Content
 *\[Door Opens\]*
 
@@ -2441,6 +2472,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Neko** | 14  |
+
+### Unlocked Charts
+|  Song  |Character|Diff.|Level|
+|--------|:-------:|:---:|:---:|
+|**リラ**|  Neko   |Chaos| 12  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3591,6 +3627,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Neko** | 22  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Log In**|  Neko   |Easy |  3  |
+|**Log In**|  Neko   |Hard |  6  |
+|**Log In**|  Neko   |Chaos| 13  |
+
 ### Log Content
 *\[Eats Snacks\]*
 
@@ -3716,6 +3759,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Neko** | 23  |
+
+### Unlocked Charts
+|             Song              |Character|Diff.|Level|
+|-------------------------------|:-------:|:---:|:---:|
+|**DJ Mashiro is dead or alive**|  Neko   |Easy |  5  |
+|**DJ Mashiro is dead or alive**|  Neko   |Hard |  9  |
+|**DJ Mashiro is dead or alive**|  Neko   |Chaos| 14  |
 
 ### Log Content
 _\[Call Starts\]_
@@ -3936,6 +3986,13 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Neko** | 24  |
+
+### Unlocked Charts
+|                  Song                  |Character|Diff.|Level|
+|----------------------------------------|:-------:|:---:|:---:|
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Easy |  6  |
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Hard |  9  |
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Chaos| 15  |
 
 ### Log Content
 **Neko**<br>

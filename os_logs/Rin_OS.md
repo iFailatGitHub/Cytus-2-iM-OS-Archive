@@ -151,6 +151,13 @@ _\[→Signal Lost\]_
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="rios002"/>\[#002\] Audio\_YazawaRI\_494\_12\_25
+### Unlocked Charts
+|             Song             |Character|Diff.|Level|
+|------------------------------|:-------:|:---:|:---:|
+|**「妖怪録、我し来にけり。」**|   Rin   |Easy |  4  |
+|**「妖怪録、我し来にけり。」**|   Rin   |Hard |  8  |
+|**「妖怪録、我し来にけり。」**|   Rin   |Chaos| 14  |
+
 ### Log Content
 **Rin**<br>
 ......
@@ -482,6 +489,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Rin**  |  3  |
+
+### Unlocked Charts
+|       Song        |Character|Diff.|Level|
+|-------------------|:-------:|:---:|:---:|
+|**Starry Summoner**|   Rin   |Easy |  2  |
+|**Starry Summoner**|   Rin   |Hard |  5  |
+|**Starry Summoner**|   Rin   |Chaos| 10  |
 
 ### Log Content
 **Rin**<br>
@@ -936,6 +950,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Rin**  |  6  |
+
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**すゝめ☆クノイチの巻**|   Rin   |Easy |  5  |
+|**すゝめ☆クノイチの巻**|   Rin   |Hard |  9  |
+|**すゝめ☆クノイチの巻**|   Rin   |Chaos| 14  |
 
 ### Log Content
 **OPCII_0584_X**<br>
@@ -1511,6 +1532,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Rin**  | 10  |
+
+### Unlocked Charts
+| Song  |Character|Diff.|Level|
+|-------|:-------:|:---:|:---:|
+|**彩** |   Rin   |Easy |  4  |
+|**彩** |   Rin   |Hard |  9  |
+|**彩** |   Rin   |Chaos| 14  |
 
 ### Log Content
 *\[Warning\]*
@@ -2324,6 +2352,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Rin**  | 15  |
 
+### Unlocked Charts
+|  Song  |Character|Diff.|Level|
+|--------|:-------:|:---:|:---:|
+|**決戦**|   Rin   |Easy |  4  |
+|**決戦**|   Rin   |Hard |  7  |
+|**決戦**|   Rin   |Chaos| 13  |
+
 ### Log Content
 **Rin**<br>
 Katsuya!? Katsuya!?
@@ -2697,6 +2732,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Rin**  | 17  |
+
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Mari-Temari**|   Rin   |Easy |  2  |
+|**Mari-Temari**|   Rin   |Hard |  6  |
+|**Mari-Temari**|   Rin   |Chaos| 11  |
 
 ### Log Content
 **Rin**<br>
@@ -3296,6 +3338,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Rin**  | 19  |
+
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Inari**|   Rin   |Easy |  3  |
+|**Inari**|   Rin   |Hard |  6  |
+|**Inari**|   Rin   |Chaos| 11  |
 
 ### Log Content
 *\[Door Opens\]*

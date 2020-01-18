@@ -123,6 +123,11 @@ _\[Call Ends\]_
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="chos003"/>\[#003\] Cam\_Cafe\_702\_09\_06\_1
+### Unlocked Charts
+|                  Song                   |Character|Diff.|Level|
+|-----------------------------------------|:-------:|:---:|:---:|
+|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Easy |  2  |
+
 ### Log Content
 *\[Doorbell\]*
 
@@ -335,6 +340,11 @@ _[Sent at 09:29 PM]_
 |----------|:---:|
 |**Cherry**|  2  |
 
+### Unlocked Charts
+|                  Song                   |Character|Diff.|Level|
+|-----------------------------------------|:-------:|:---:|:---:|
+|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Hard |  7  |
+
 ### Log Content
 **Xenon**<br>
 Man, JOE was annoying as f\*\*\* back then...
@@ -418,6 +428,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**|  3  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**RETRIEVE**| Cherry  |Easy |  3  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -632,6 +647,11 @@ _\[Signal Lost\]_
 |----------|:---:|
 |**Cherry**|  4  |
 
+### Unlocked Charts
+|                  Song                   |Character|Diff.|Level|
+|-----------------------------------------|:-------:|:---:|:---:|
+|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Chaos| 11  |
+
 ### Log Content
 ![chos0801.png](./attachments/chos0801.png)
 
@@ -749,6 +769,11 @@ _\[Signal Lost\]_
 |----------|:---:|
 |**Cherry**|  5  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**RETRIEVE**| Cherry  |Hard |  7  |
+
 ### Log Content
 ![chos1001.png](./attachments/chos1001.png)
 
@@ -762,6 +787,11 @@ Location: Node 08 \- Quadrant III, Hospital 15
 |Character |Level|
 |----------|:---:|
 |**Cherry**|  6  |
+
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Still**| Cherry  |Easy |  2  |
 
 ### Log Content
 **Cherry**<br>
@@ -914,6 +944,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**|  7  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**RETRIEVE**| Cherry  |Chaos| 12  |
 
 ### Log Content
 **Subj.**: Event Schedule Notice<br>
@@ -1078,6 +1113,11 @@ _\[Call Ends\]_
 |----------|:---:|
 |**Cherry**| 10  |
 
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Still**| Cherry  |Hard |  6  |
+
 ### Log Content
 ![chos1601.png](./attachments/chos1601.png)
 
@@ -1091,6 +1131,11 @@ Location: Node 08 \- Quadrant III, 76th Street
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 11  |
+
+### Unlocked Charts
+|  Song   |Character|Diff.|Level|
+|---------|:-------:|:---:|:---:|
+|**Still**| Cherry  |Chaos| 11  |
 
 ### Log Content
 **[Xenon-A.I.]**<br>
@@ -1188,6 +1233,11 @@ _\[Signal Lost\]_
 |----------|:---:|
 |**Cherry**| 12  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**CREDENCE**| Cherry  |Easy |  3  |
+
 ### Log Content
 *\[Gunshot\]*
 
@@ -1269,6 +1319,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 13  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**CREDENCE**| Cherry  |Hard |  8  |
 
 ### Log Content
 *\[Gunshot\]*
@@ -1400,6 +1455,11 @@ _\[Signal Lost\]_
 |----------|:---:|
 |**Cherry**| 14  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**SYSTEMFEIT**| Cherry  |Easy |  3  |
+
 ### Log Content
 ![chos2001.png](./attachments/chos2001.png)
 
@@ -1468,6 +1528,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 15  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**CREDENCE**| Cherry  |Chaos| 12  |
 
 ### Log Content
 ![chos2101.png](./attachments/chos2101.png)
@@ -1586,6 +1651,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 17  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**SYSTEMFEIT**| Cherry  |Hard |  7  |
 
 ### Log Content
 **Cherry**<br>
@@ -1778,6 +1848,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 19  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**hunted**| Cherry  |Easy |  2  |
 
 ### Log Content
 *\[Doorbell\]*
@@ -1980,6 +2055,11 @@ _\[Signal Lost\]_
 |----------|:---:|
 |**Cherry**| 21  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**hunted**| Cherry  |Hard |  6  |
+
 ### Log Content
 _\[»»» Fast Forward »»»\]_
 
@@ -2168,6 +2248,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 22  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**SYSTEMFEIT**| Cherry  |Chaos| 13  |
 
 ### Log Content
 ![chos2901.png](./attachments/chos2901.png)
@@ -2384,6 +2469,11 @@ _\[Signal Lost\]_
 |**ROBO_Head**| 24  |
 |**Cherry**   | 24  |
 
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**hunted**| Cherry  |Chaos| 12  |
+
 ### Log Content
 [![chos3201.png](./attachments/chos3201.png)](https://youtu.be/83x4Bh9ELmc)<br>
 *[Click the image to watch the movie]*
@@ -2398,6 +2488,12 @@ Location: Node 08 \- Quadrant I, Factory 03
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 25  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Capture me**| Cherry  |Easy |  2  |
+|**Capture me**| Cherry  |Hard |  7  |
 
 ### Log Content
 **Jacob**<br>
@@ -2471,6 +2567,11 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 26  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Capture me**| Cherry  |Chaos| 11  |
 
 ### Log Content
 **Cherry**<br>
@@ -2867,6 +2968,13 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**Cherry**| 30  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Realize**| Cherry  |Easy |  3  |
+|**Realize**| Cherry  |Hard |  8  |
+|**Realize**| Cherry  |Chaos| 12  |
 
 ### Log Content
 **Hunter**<br>

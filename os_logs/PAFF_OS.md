@@ -2612,6 +2612,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**PAFF** | 55  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**New World**|  PAFF   |Easy |  3  |
+|**New World**|  PAFF   |Hard |  6  |
+|**New World**|  PAFF   |Chaos| 10  |
+
 ### Log Content
 **NEKO#ΦωΦ**<br>
 Aroma\-chan\~ Hurry, hurry!
@@ -4048,6 +4055,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**PAFF** | 62  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Who Am I?**|  PAFF   |Easy |  2  |
+|**Who Am I?**|  PAFF   |Hard |  6  |
+|**Who Am I?**|  PAFF   |Chaos| 10  |
+
 ### Log Content
 *\[Door Opens\]*
 
@@ -4702,6 +4716,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**PAFF** | 65  |
 
+### Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**More Than Diamond**|  PAFF   |Easy |  2  |
+|**More Than Diamond**|  PAFF   |Hard |  5  |
+|**More Than Diamond**|  PAFF   |Chaos|  9  |
+
 ### Log Content
 **Kaori**<br>
 Grandma Feng, we're here!
@@ -4855,6 +4876,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**PAFF** | 65  |
+
+### Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**Blossoms for Life**|  PAFF   |Easy |  3  |
+|**Blossoms for Life**|  PAFF   |Hard |  7  |
+|**Blossoms for Life**|  PAFF   |Chaos| 11  |
 
 ### Log Content
 *\[Singing\]*
@@ -5885,6 +5913,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**PAFF** | 70  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Recall**|  PAFF   |Easy |  3  |
+|**Recall**|  PAFF   |Hard |  6  |
+|**Recall**|  PAFF   |Chaos|  9  |
 
 ### Log Content
 *\[Audience applauds\]*

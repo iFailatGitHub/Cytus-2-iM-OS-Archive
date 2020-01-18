@@ -92,6 +92,11 @@ Time of recording: 701\_1214\_0545
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="cos002"/>\[#002\] Cam\_Arc\_701\_12\_16
+### Unlocked Charts
+|          Song           |Character|Diff.|Level|
+|-------------------------|:-------:|:---:|:---:|
+|**Light of Buenos Aires**| ConneR  |Easy |  3  |
+
 ### Log Content
 **Sagar**<br>
 What's the patient's situation?
@@ -152,6 +157,11 @@ _\[Replay Ends\]_
 |Character |Level|
 |----------|:---:|
 |**ConneR**|  2  |
+
+### Unlocked Charts
+|          Song           |Character|Diff.|Level|
+|-------------------------|:-------:|:---:|:---:|
+|**Light of Buenos Aires**| ConneR  |Hard |  7  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -345,6 +355,11 @@ _\[Replay Ends\]_
 |----------|:---:|
 |**ConneR**|  4  |
 
+### Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**tondari-hanetari**| ConneR  |Easy |  3  |
+
 ### Log Content
 *\[Electronic Door\]*
 
@@ -414,6 +429,11 @@ _\[Replay Ends\]_
 |----------|:---:|
 |**ConneR**|  5  |
 
+### Unlocked Charts
+|          Song           |Character|Diff.|Level|
+|-------------------------|:-------:|:---:|:---:|
+|**Light of Buenos Aires**| ConneR  |Chaos| 12  |
+
 ### Log Content
 \[Data partially damaged due to external force\]<br>
 Excavation Log 7011214<br>
@@ -450,6 +470,11 @@ Time of interruption: 701\_1214\_0637
 |Character |Level|
 |----------|:---:|
 |**ConneR**|  6  |
+
+### Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**tondari-hanetari**| ConneR  |Hard |  8  |
 
 ### Log Content
 *\[Doorbell\]*
@@ -584,6 +609,11 @@ The iM full\-sense social networking team
 |----------|:---:|
 |**ConneR**|  7  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Abduction**| ConneR  |Easy |  4  |
+
 ### Log Content
 Diary Log 6970808\_ConneR<br>
 Location: Node 08 Mansion
@@ -613,6 +643,11 @@ Colin Neumann Sr.
 |Character |Level|
 |----------|:---:|
 |**ConneR**|  9  |
+
+### Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**tondari-hanetari**| ConneR  |Chaos| 13  |
 
 ### Log Content
 ![cos0702.png](./attachments/cos0702.png)
@@ -669,6 +704,11 @@ _\[Call Ends\]_
 |----------|:---:|
 |**ConneR**| 10  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Abduction**| ConneR  |Hard |  8  |
+
 ### Log Content
 Diary Log 7020406\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
@@ -686,6 +726,11 @@ ConneR 7020406
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 11  |
+
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Nostalgia Sonatina**| ConneR  |Easy |  4  |
 
 ### Log Content
 **Subj.**: Allow us to offer our sincerest apologies<br>
@@ -778,6 +823,11 @@ _\[Call Ends\]_
 |----------|:---:|
 |**ConneR**| 13  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Abduction**| ConneR  |Chaos| 11  |
+
 ### Log Content
 Research Log 7020714\_ConneR The benefit of working inside A.R.C. is that I get to see all their unannounced inventions, research and all kinds of recreated technologies. Even though they have gathered the best talents here, without the data of past technology obtained through exploring the Ruins, especially the central database "Library" and the establishment of the virtual internet, A.R.C. will be nowhere near their current wealth and power. However, nobody ever asks any questions. The variety of automatic management systems used in the countless Nodes we live in; the ultra\-high\-speed capsule tracks that connect the Nodes; the breeding center that controls the population; the city structure that seems to be aiming for the skies; how do they actually function, and who is managing all of them? The admins are merely pawns. A.R.C.'s "accomplishments" are only built on top of the artifacts that were left behind. The sight I saw in those Ruins when I was attacked, just what in the world was that...? If I want to find some answers, there is no better place than here. I need more time and more trustworthy comrades. In reality, humans are fragile flowers that are trapped inside a greenhouse. Yes, this city, this world; there are still way too many things we don't understand. Right now, we are merely herds of sheep, blindly following the script and acting according to it. 
 
@@ -857,6 +907,11 @@ _\[Replay Ends\]_
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 14  |
+
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Nostalgia Sonatina**| ConneR  |Hard |  8  |
 
 ### Log Content
 ![cos1302.png](./attachments/cos1302.png)
@@ -962,6 +1017,11 @@ _\[Replay Ends\]_
 |----------|:---:|
 |**ConneR**| 15  |
 
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**I luv U**| ConneR  |Easy |  3  |
+
 ### Log Content
 Diary Log 7020722\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
@@ -1052,6 +1112,11 @@ _\[Replay Ends\]_
 |----------|:---:|
 |**ConneR**| 16  |
 
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Nostalgia Sonatina**| ConneR  |Chaos| 13  |
+
 ### Log Content
 **Subj.**: We invite you to be a guest at the conference<br>
 **From**: A.R.C. PR department<br>
@@ -1074,6 +1139,11 @@ A.R.C. Supreme Committee
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 17  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**I luv U**| ConneR  |Hard |  7  |
 
 ### Log Content
 Diary Log 7020728\_ConneR<br>
@@ -1110,6 +1180,11 @@ H.H
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 18  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Instinct**| ConneR  |Easy |  4  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1206,6 +1281,11 @@ ConneR 7020826
 |----------|:---:|
 |**ConneR**| 19  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Instinct**| ConneR  |Hard |  8  |
+
 ### Log Content
 *\[Alarm goes off\]*
 
@@ -1283,6 +1363,11 @@ The entire SkyEkho team
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 20  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**I luv U**| ConneR  |Chaos| 11  |
 
 ### Log Content
 **Nancy**<br>
@@ -1513,6 +1598,11 @@ _\[Replay Ends\]_
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 22  |
+
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Instinct**| ConneR  |Chaos| 12  |
 
 ### Log Content
 _\[Recording from wiretapped watch begins\]_
@@ -1813,6 +1903,13 @@ ConneR 7020828
 |**ROBO_Head**| 24  |
 |**ConneR**   | 24  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Floor of Lava**| ConneR  |Easy |  6  |
+|**Floor of Lava**| ConneR  |Hard | 10  |
+|**Floor of Lava**| ConneR  |Chaos| 15  |
+
 ### Log Content
 Analysis Report 7020808\_12<br>
 Target Listing: Unknown Artifact<br>
@@ -1849,6 +1946,13 @@ Report Saved Time: 702\_0810\_1745
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 25  |
+
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Olympia**| ConneR  |Easy |  3  |
+|**Olympia**| ConneR  |Hard |  6  |
+|**Olympia**| ConneR  |Chaos| 12  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4235,6 +4339,13 @@ _\[Signal Lost\]_
 |Character |Level|
 |----------|:---:|
 |**ConneR**| 39  |
+
+### Unlocked Charts
+|        Song        |Character|Diff.|Level|
+|--------------------|:-------:|:---:|:---:|
+|**Fur War, Pur War**| ConneR  |Easy |  4  |
+|**Fur War, Pur War**| ConneR  |Hard |  8  |
+|**Fur War, Pur War**| ConneR  |Chaos| 15  |
 
 ### Log Content
 **Agent A**<br>

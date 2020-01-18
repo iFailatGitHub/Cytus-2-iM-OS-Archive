@@ -43,6 +43,13 @@
 - [\[#041\] Audio\_Baro\_702\_12\_21\_2](#jos041)
 
 ## <a id="jos001"/>\[#001\] Cam\_Cafe\_684\_08\_28
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Childish**|   JOE   |Easy |  4  |
+|**Childish**|   JOE   |Hard |  7  |
+|**Childish**|   JOE   |Chaos| 12  |
+
 ### Log Content
 **JOE**<br>
 Look! I have everything set up!
@@ -333,6 +340,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  |  3  |
 
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Standby for Action**|   JOE   |Easy |  4  |
+
 ### Log Content
 *\[Doorbell\]*
 
@@ -545,6 +557,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  |  4  |
+
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Standby for Action**|   JOE   |Hard |  8  |
 
 ### Log Content
 *\[Doorbell\]*
@@ -778,6 +795,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  |  6  |
+
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Standby for Action**|   JOE   |Chaos| 12  |
 
 ### Log Content
 **KAI**<br>
@@ -1102,6 +1124,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  |  9  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Open the Game**|   JOE   |Easy |  4  |
+
 ### Log Content
 ![jos1101.png](./attachments/jos1101.png)
 
@@ -1252,6 +1279,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 10  |
 
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Open the Game**|   JOE   |Hard |  6  |
+
 ### Log Content
 *\[Puts down crate\]*
 
@@ -1394,6 +1426,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 11  |
+
+### Unlocked Charts
+|      Song       |Character|Diff.|Level|
+|-----------------|:-------:|:---:|:---:|
+|**Open the Game**|   JOE   |Chaos| 13  |
 
 ### Log Content
 **JOE**<br>
@@ -1667,6 +1704,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 13  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Hydrangea**|   JOE   |Easy |  3  |
+
 ### Log Content
 **JOE**<br>
 Hi\~ How are you doing today?
@@ -1825,6 +1867,11 @@ Location: Node 08 \- Cemetery
 |---------|:---:|
 |**JOE**  | 15  |
 
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Hydrangea**|   JOE   |Hard |  6  |
+
 ### Log Content
 **Wang**<br>
 JOE, why does this Sea Breeze tastes so... light?
@@ -1922,6 +1969,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 16  |
+
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Hydrangea**|   JOE   |Chaos| 12  |
 
 ### Log Content
 Exterior Data Record 6970811<br>
@@ -2070,6 +2122,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 17  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Absolutely**|   JOE   |Easy |  2  |
+|**Absolutely**|   JOE   |Hard |  5  |
+
 ### Log Content
 **Diego**<br>
 Good stuff. Exactly the same as the one Saxon made.
@@ -2213,6 +2271,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 18  |
 
+### Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**Higher and Higher**|   JOE   |Easy |  3  |
+|**Higher and Higher**|   JOE   |Hard |  6  |
+
 ### Log Content
 _\[Call Starts\]_
 
@@ -2306,6 +2370,12 @@ _\[Call Ends\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 19  |
+
+### Unlocked Charts
+|          Song           |Character|Diff.|Level|
+|-------------------------|:-------:|:---:|:---:|
+|**Take me to the Future**|   JOE   |Easy |  3  |
+|**Take me to the Future**|   JOE   |Hard |  7  |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2450,6 +2520,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 20  |
 
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Absolutely**|   JOE   |Chaos| 11  |
+
 ### Log Content
 _\[Call Starts\]_
 
@@ -2582,6 +2657,11 @@ _\[Call Ends\]_
 |---------|:---:|
 |**JOE**  | 21  |
 
+### Unlocked Charts
+|        Song         |Character|Diff.|Level|
+|---------------------|:-------:|:---:|:---:|
+|**Higher and Higher**|   JOE   |Chaos| 13  |
+
 ### Log Content
 **Subj.**: Untitled<br>
 **From**: D<br>
@@ -2599,6 +2679,11 @@ D.
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 22  |
+
+### Unlocked Charts
+|          Song           |Character|Diff.|Level|
+|-------------------------|:-------:|:---:|:---:|
+|**Take me to the Future**|   JOE   |Chaos| 14  |
 
 ### Log Content
 _Engines turned off_
@@ -2876,6 +2961,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**JOE**  | 24  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Nautilus**|   JOE   |Easy |  2  |
+|**Nautilus**|   JOE   |Hard |  5  |
+|**Nautilus**|   JOE   |Chaos| 11  |
+
 ### Log Content
 ![jos2901.png](./attachments/jos2901.png)
 
@@ -2889,6 +2981,12 @@ Location: Node 03 \- Wolong St.
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 25  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Bass Music**|   JOE   |Easy |  2  |
+|**Bass Music**|   JOE   |Hard |  8  |
 
 ### Log Content
 **JOE**<br>
@@ -2996,6 +3094,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**JOE**  | 26  |
+
+### Unlocked Charts
+|     Song     |Character|Diff.|Level|
+|--------------|:-------:|:---:|:---:|
+|**Bass Music**|   JOE   |Chaos| 13  |
 
 ### Log Content
 **Xenon**<br>

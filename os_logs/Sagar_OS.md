@@ -434,6 +434,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Sagar**|  3  |
 
+### Unlocked Charts
+|     Song      |Character|Diff.|Level|
+|---------------|:-------:|:---:|:---:|
+|**Space Alien**|  Sagar  |Easy |  4  |
+|**Space Alien**|  Sagar  |Hard |  8  |
+|**Space Alien**|  Sagar  |Chaos| 13  |
+
 ### Log Content
 **Exploration Team Member**<br>
 Captain, scan's complete. This area's safe.
@@ -1717,6 +1724,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Sagar**|  8  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Doldrums**|  Sagar  |Easy |  4  |
+|**Doldrums**|  Sagar  |Hard |  7  |
+|**Doldrums**|  Sagar  |Chaos| 14  |
+
 ### Log Content
 *\[Signal Transmission\]*
 
@@ -2458,6 +2472,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Sagar**| 11  |
 
+### Unlocked Charts
+|   Song    |Character|Diff.|Level|
+|-----------|:-------:|:---:|:---:|
+|**Nídhögg**|  Sagar  |Easy |  5  |
+|**Nídhögg**|  Sagar  |Hard |  9  |
+|**Nídhögg**|  Sagar  |Chaos| 14  |
+
 ### Log Content
 **Bruno**<br>
 Jackal, that last message gave me a bad feeling...
@@ -2794,6 +2815,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Sagar**| 13  |
+
+### Unlocked Charts
+|   Song   |Character|Diff.|Level|
+|----------|:-------:|:---:|:---:|
+|**Legacy**|  Sagar  |Easy |  5  |
+|**Legacy**|  Sagar  |Hard |  7  |
+|**Legacy**|  Sagar  |Chaos| 13  |
 
 ### Log Content
 **Grave Robber A**<br>
@@ -3164,6 +3192,13 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Sagar**| 14  |
 
+### Unlocked Charts
+|              Song               |Character|Diff.|Level|
+|---------------------------------|:-------:|:---:|:---:|
+|**A Portent of the Silver Wheel**|  Sagar  |Easy |  3  |
+|**A Portent of the Silver Wheel**|  Sagar  |Hard |  7  |
+|**A Portent of the Silver Wheel**|  Sagar  |Chaos| 13  |
+
 ### Log Content
 **Sagar**<br>
 Today's training... ergh... is over. You're free to go!
@@ -3496,6 +3531,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Sagar**| 16  |
+
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**Sacrifice**|  Sagar  |Easy |  3  |
+|**Sacrifice**|  Sagar  |Hard |  7  |
+|**Sacrifice**|  Sagar  |Chaos| 14  |
 
 ### Log Content
 *\[Punch Combo\]*
@@ -4052,6 +4094,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Sagar**| 19  |
+
+### Unlocked Charts
+|         Song         |Character|Diff.|Level|
+|----------------------|:-------:|:---:|:---:|
+|**Return of the Lamp**|  Sagar  |Easy |  4  |
+|**Return of the Lamp**|  Sagar  |Hard |  8  |
+|**Return of the Lamp**|  Sagar  |Chaos| 14  |
 
 ### Log Content
 **Sagar**<br>

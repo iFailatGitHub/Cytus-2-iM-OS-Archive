@@ -42,6 +42,12 @@
 |------------|:---:|
 |**NEKO#ΦωΦ**| 35  |
 
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**extinguisher**|NEKO#ΦωΦ |Easy |  3  |
+|**extinguisher**|NEKO#ΦωΦ |Hard |  7  |
+
 ### Log Content
 **Cherry**<br>
 Do we wait here?
@@ -146,6 +152,11 @@ _\[Signal Lost\]_
 | Character  |Level|
 |------------|:---:|
 |**NEKO#ΦωΦ**| 37  |
+
+### Unlocked Charts
+|      Song      |Character|Diff.|Level|
+|----------------|:-------:|:---:|:---:|
+|**extinguisher**|NEKO#ΦωΦ |Chaos| 11  |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -4712,6 +4723,13 @@ _\[Signal Lost\]_
 | Character  |Level|
 |------------|:---:|
 |**NEKO#ΦωΦ**| 69  |
+
+### Unlocked Charts
+| Song  |Character|Diff.|Level|
+|-------|:-------:|:---:|:---:|
+|**Rei**|NEKO#ΦωΦ |Easy |  3  |
+|**Rei**|NEKO#ΦωΦ |Hard |  7  |
+|**Rei**|NEKO#ΦωΦ |Chaos| 11  |
 
 ### Log Content
 **Diego**<br>

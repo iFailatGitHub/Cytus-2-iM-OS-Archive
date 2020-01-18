@@ -189,6 +189,12 @@ _\[Signal Lost\]_
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="noos003"/>\[#003\] Cam\_ARC\_688\_09\_02
+### Unlocked Charts
+|       Song       |Character|Diff.|Level|
+|------------------|:-------:|:---:|:---:|
+|**Drop The World**|  Nora   |Easy |  4  |
+|**Drop The World**|  Nora   |Hard |  8  |
+
 ### Log Content
 **[Leo]**<br>
 _Phoenix, based on the aforementioned reasons, you are relieved of your position as Director of the A.R.C. technology department, effective immediately. You can go clear out your office now._
@@ -680,6 +686,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Nora** |  3  |
 
+### Unlocked Charts
+|       Song       |Character|Diff.|Level|
+|------------------|:-------:|:---:|:---:|
+|**Drop The World**|  Nora   |Chaos| 14  |
+
 ### Log Content
 **Mogura Member A**<br>
 Mr. Shiino.
@@ -1079,6 +1090,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Nora** |  6  |
 
+### Unlocked Charts
+|           Song           |Character|Diff.|Level|
+|--------------------------|:-------:|:---:|:---:|
+|**Starlight (KIVΛ Remix)**|  Nora   |Easy |  2  |
+|**Starlight (KIVΛ Remix)**|  Nora   |Hard |  6  |
+
 ### Log Content
 *\[Door Opens\]*
 
@@ -1442,6 +1459,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Nora** |  8  |
+
+### Unlocked Charts
+|           Song           |Character|Diff.|Level|
+|--------------------------|:-------:|:---:|:---:|
+|**Starlight (KIVΛ Remix)**|  Nora   |Chaos| 11  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1982,6 +2004,12 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Nora** | 10  |
+
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Bastard of Hardcore**|  Nora   |Easy |  4  |
+|**Bastard of Hardcore**|  Nora   |Hard |  7  |
 
 ### Log Content
 **Phoenix**<br>
@@ -2635,6 +2663,11 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Nora** | 15  |
 
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Bastard of Hardcore**|  Nora   |Chaos| 13  |
+
 ### Log Content
 **[Nora]**<br>
 _Even though after that incident where Phoenix got injured, Mogura sent us a lot of their bodyguards, I still wanted to be protected by someone I can trust._
@@ -2979,6 +3012,12 @@ _\[Signal Lost\]_
 |---------|:---:|
 |**Nora** | 18  |
 
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Jakarta PROGRESSION**|  Nora   |Easy |  3  |
+|**Jakarta PROGRESSION**|  Nora   |Hard |  8  |
+
 ### Log Content
 *\[Door Opens\]*
 
@@ -3125,6 +3164,11 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Nora** | 19  |
+
+### Unlocked Charts
+|         Song          |Character|Diff.|Level|
+|-----------------------|:-------:|:---:|:---:|
+|**Jakarta PROGRESSION**|  Nora   |Chaos| 14  |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3323,6 +3367,13 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 |---------|:---:|
 |**Nora** | 21  |
 
+### Unlocked Charts
+|    Song    |Character|Diff.|Level|
+|------------|:-------:|:---:|:---:|
+|**Eternity**|  Nora   |Easy |  3  |
+|**Eternity**|  Nora   |Hard |  7  |
+|**Eternity**|  Nora   |Chaos| 11  |
+
 ### Log Content
 **[Nora]**<br>
 _Umm..._
@@ -3479,6 +3530,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Nora** | 22  |
+
+### Unlocked Charts
+|       Song       |Character|Diff.|Level|
+|------------------|:-------:|:---:|:---:|
+|**Phagy Mutation**|  Nora   |Easy |  2  |
+|**Phagy Mutation**|  Nora   |Hard |  7  |
+|**Phagy Mutation**|  Nora   |Chaos| 12  |
 
 ### Log Content
 Research Log 6980601\_23
@@ -3670,6 +3728,13 @@ _\[Signal Lost\]_
 |Character|Level|
 |---------|:---:|
 |**Nora** | 23  |
+
+### Unlocked Charts
+|    Song     |Character|Diff.|Level|
+|-------------|:-------:|:---:|:---:|
+|**ATONEMENT**|  Nora   |Easy |  3  |
+|**ATONEMENT**|  Nora   |Hard |  6  |
+|**ATONEMENT**|  Nora   |Chaos| 11  |
 
 ### Log Content
 **[Nora]**<br>

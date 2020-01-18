@@ -246,6 +246,13 @@ Program activation... start
 |-------------|:---:|
 |**ROBO_Head**| 55  |
 
+### Unlocked Charts
+|       Song       |Character|Diff.|Level|
+|------------------|:-------:|:---:|:---:|
+|**Nocturnal Type**|ROBO_Head|Easy |  4  |
+|**Nocturnal Type**|ROBO_Head|Hard |  8  |
+|**Nocturnal Type**|ROBO_Head|Chaos| 11  |
+
 ### Log Content
 ![ros0901.png](./attachments/ros0901.png)
 
