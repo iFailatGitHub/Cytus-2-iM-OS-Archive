@@ -38,9 +38,9 @@
 
 ## <a id="ros001"/>\[#001\] Cam\_Main\_Log\_697\_04\_06\_1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 35  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|35 |    No     |
 
 ### Log Content
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
@@ -53,9 +53,9 @@
 
 ## <a id="ros002"/>\[#002\] Cam\_Main\_Log\_697\_04\_06\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 40  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|40 |    No     |
 
 ### Log Content
 \[   0.3940\] Visual analyzer initialized.<br>
@@ -79,9 +79,9 @@
 
 ## <a id="ros003"/>\[#003\] Cam\_Main\_Log\_697\_04\_06\_3
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 42  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|42 |    No     |
 
 ### Log Content
 \[   8.1257\] Initializing linguistic simulation<br>
@@ -102,9 +102,9 @@
 
 ## <a id="ros004"/>\[#004\] Cam\_Main\_Log\_697\_04\_06\_4
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 43  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|43 |    No     |
 
 ### Log Content
 \[ 4.7521\] Sound receiver activated.<br>
@@ -129,9 +129,9 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 ## <a id="ros005"/>\[#005\] Cam\_Main\_Log\_697\_04\_06\_5
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 45  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|45 |    No     |
 
 ### Log Content
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286<br>
@@ -144,9 +144,9 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 ## <a id="ros006"/>\[#006\] Mail\_Log\_702\_09\_23
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 48  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|48 |    No     |
 
 ### Log Content
 Receiving message from Node 03<br>
@@ -169,9 +169,9 @@ End of message
 
 ## <a id="ros007"/>\[#007\] Main\_Log\_702\_10\_22\_1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 52  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|52 |    No     |
 
 ### Log Content
 Internet keyword search...<br>
@@ -197,9 +197,9 @@ Speculation: Data lost due to old memory unit or unexpected hardware damage and 
 
 ## <a id="ros008"/>\[#008\] Main\_Log\_702\_10\_22\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 54  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|54 |    No     |
 
 ### Log Content
 Inputting activity planning...<br>
@@ -242,16 +242,16 @@ Program activation... start
 
 ## <a id="ros009"/>\[#009\] Main\_Log\_702\_10\_23\_1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|55 |    No     |
 
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Nocturnal Type**|ROBO_Head|Easy |  4  |
-|**Nocturnal Type**|ROBO_Head|Hard |  8  |
-|**Nocturnal Type**|ROBO_Head|Chaos| 11  |
+|       Song       |  Char.  |Diff.|Lv.|
+|------------------|:-------:|:---:|:-:|
+|**Nocturnal Type**|ROBO_Head|Easy | 4 |
+|**Nocturnal Type**|ROBO_Head|Hard | 8 |
+|**Nocturnal Type**|ROBO_Head|Chaos|11 |
 
 ### Log Content
 ![ros0901.png](./attachments/ros0901.png)
@@ -349,7 +349,7 @@ Program activation...... start
 **[ConneR]**<br>
 _You are every bit as knowledgeable as I have heard in the past. I am thoroughly impressed.<br>
 As with your true identity, I more or less have an answer in my mind already. However, in front of the truth, all these are just meaningless fluff. No need to be concerned. <br>
-Let us converse to our heart's content in the sea of knowledge. _
+Let us converse to our heart's content in the sea of knowledge._
 
 Save date: 702.07.25<br>
 Note: Mail from ConneR<br>
@@ -388,9 +388,9 @@ Program activation...... start
 
 ## <a id="ros010"/>\[#010\] Main\_Log\_702\_10\_23\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|55 |    No     |
 
 ### Log Content
 Physical connection to memory unit NA69X\_01...... Complete<br>
@@ -507,9 +507,9 @@ Decision: This unit currently in "Sad" emotion
 
 ## <a id="ros011"/>\[#011\] Main\_Log\_702\_10\_23\_3
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 56  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|56 |    No     |
 
 ### Log Content
 Physical connection to memory unit NA69X\_02...... Complete<br>
@@ -540,9 +540,9 @@ Program activation...... start
 
 ## <a id="ros012"/>\[#012\] Main\_Log\_702\_10\_23\_4
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 57  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|57 |    No     |
 
 ### Log Content
 Recover corrupted file Cam\_Robo\_698\_06\_02<br>
@@ -587,9 +587,9 @@ Begin replay
 
 ## <a id="ros013"/>\[#013\] Main\_Log\_702\_10\_28
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 57  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|57 |    No     |
 
 ### Log Content
 Inputting activity planning...<br>
@@ -647,9 +647,9 @@ Activity start
 
 ## <a id="ros014"/>\[#014\] Cam03\_Center\_702\_11\_04
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 58  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|58 |    No     |
 
 ### Log Content
 ![ros1401_72004800.png](./attachments/ros1401_72004800.png)
@@ -658,9 +658,9 @@ Activity start
 
 ## <a id="ros015"/>\[#015\] Cam\_TigerSt\_702\_11\_08\_1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 59  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|59 |    No     |
 
 ### Log Content
 **[ROBO_Head]**<br>
@@ -770,13 +770,13 @@ _\[Signal Lost\]_
 
 ## <a id="ros016"/>\[#016\] Cam\_TigerSt\_702\_11\_08\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 59  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|59 |    No     |
 
 ### Log Content
 **???**<br>
-_\*Huff\*... \*puff\*... _
+_\*Huff\*... \*puff\*..._Outta my way, outta my way!
 
 **Thug A**<br>
 You bastard! Stay where you are!
@@ -939,9 +939,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros017"/>\[#017\] Cam\_DragonSt\_702\_11\_13
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 60  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|60 |    No     |
 
 ### Log Content
 **Pedestrian**<br>
@@ -1086,9 +1086,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros018"/>\[#018\] Cam\_Nora'sRoom\_698\_04\_13
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 60  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|60 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -1205,9 +1205,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros019"/>\[#019\] Audio\_Kyuuback\_702\_11\_15
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 60  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|60 |    No     |
 
 ### Log Content
 **Yamada**<br>
@@ -1338,9 +1338,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros020"/>\[#020\] Cam\_KyuuLab\_702\_11\_15
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 61  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|61 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1448,9 +1448,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros021"/>\[#021\] Audio\_KyuuLab\_702\_11\_15
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 61  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|61 |    No     |
 
 ### Log Content
 **Kyuu Hou Kai Member**<br>
@@ -1575,9 +1575,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros022"/>\[#022\] Cam\_Kyuu\_702\_11\_20
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 62  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|62 |    No     |
 
 ### Log Content
 *\[Gate Opens\]*
@@ -1746,9 +1746,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros023"/>\[#023\] Audio\_Kyuu\_702\_11\_22
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 63  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|63 |    No     |
 
 ### Log Content
 **[ROBO_Head]**<br>
@@ -1800,9 +1800,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros024"/>\[#024\] Audio\_Murata\_702\_11\_22
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 63  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|63 |    No     |
 
 ### Log Content
 **Ichiro**<br>
@@ -1928,9 +1928,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros025"/>\[#025\] Audio\_Murata\_702\_11\_27
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 64  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|64 |    No     |
 
 ### Log Content
 *\[Repairing\]*
@@ -2007,9 +2007,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros026"/>\[#026\] Cam\_Murata\_702\_11\_27
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 64  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|64 |    No     |
 
 ### Log Content
 **Sonoko**<br>
@@ -2139,9 +2139,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros027"/>\[#027\] Audio\_Nora\_702\_11\_28
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 64  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|64 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -2264,9 +2264,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros028"/>\[#028\] Cam\_Nora\_702\_11\_29
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 65  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|65 |    No     |
 
 ### Log Content
 ![ros2802.png](./attachments/ros2802.png)
@@ -2333,9 +2333,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros029"/>\[#029\] Audio\_Nora\_702\_11\_29\_1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 66  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|66 |    No     |
 
 ### Log Content
 **Kyuu Hou Kai Member**<br>
@@ -2427,9 +2427,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros030"/>\[#030\] Audio\_Nora\_702\_11\_29\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 66  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|66 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -2493,7 +2493,7 @@ _………_
 *\[ROBO_Head emotion\]*
 
 **[Nora]**<br>
-_However, since there's a second known user now, there is a chance that your situation could be different from mine... Miss Minamiya seems to be quite healthy herself. From the looks of it, you aren't affected by the ability too much. _
+_However, since there's a second known user now, there is a chance that your situation could be different from mine... Miss Minamiya seems to be quite healthy herself. From the looks of it, you aren't affected by the ability too much._
 
 **PAFF**<br>
 ... Is that so?
@@ -2511,7 +2511,7 @@ _Yes. From my personal experience, every use of this ability will put a brief bu
 Miss Nora... are you willing to help me?
 
 **[Nora]**<br>
-_... I'll be frank. I'm merely suggesting this because I am curious about other users, and you provide valuable research material. In reality, it's all up to you to decide what you want to do. If you have no intention to take on the risks, I won't force you to. _
+_... I'll be frank. I'm merely suggesting this because I am curious about other users, and you provide valuable research material. In reality, it's all up to you to decide what you want to do. If you have no intention to take on the risks, I won't force you to._
 
 **PAFF**<br>
 No. I've made my decision already, Miss Nora.<br>
@@ -2562,10 +2562,10 @@ _\[Signal Lost\]_
 
 ## <a id="ros031"/>\[#031\] Cam\_KyuuLab\_702\_12\_15
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**ROBO_Head**   | 67  |
-|**Crystal PuNK**| 24  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**ROBO_Head**   |67 |    No     |
+|**Crystal PuNK**|24 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2751,9 +2751,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros032"/>\[#032\] Audio\_Kyuu\_702\_12\_15\_3
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 68  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|68 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -2917,9 +2917,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros033"/>\[#033\] Audio\_Kyuu\_702\_12\_17
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 68  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|68 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -2936,7 +2936,7 @@ _It's me, Miss Pauline. I have some new information I would like to share with y
 _I couldn't get in contact with Mr. Jackson. The call got blocked... That's odd. I believe I haven't done anything that would offend you two to this degree..._
 
 **[Nora]**<br>
-_... You're "R", I presume? I heard about you from them, the one who sent us money out of nowhere and provided information on Kyuu Hou Kai. _
+_... You're "R", I presume? I heard about you from them, the one who sent us money out of nowhere and provided information on Kyuu Hou Kai._
 
 **[Rald]**<br>
 _......<br>
@@ -3081,9 +3081,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros034"/>\[#034\] Audio\_Bookstore\_702\_12\_24
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 69  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|69 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -3222,9 +3222,9 @@ _\[Signal Lost\]_
 
 ## <a id="ros035"/>\[#035\] Audio\_Kyuu\_702\_12\_24
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 69  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|69 |    No     |
 
 ### Log Content
 **ConneR**<br>

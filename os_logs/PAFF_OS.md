@@ -65,9 +65,9 @@
 
 ## <a id="pos001"/>\[#001\] Show\_693\_03\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 35  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|35 |    No     |
 
 ### Log Content
 **Host**<br>
@@ -193,9 +193,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos002"/>\[#002\] Cam\_Noah\_693\_03\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 37  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|37 |    No     |
 
 ### Log Content
 *\[Door opens\]*
@@ -335,9 +335,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos003"/>\[#003\] Call\_Chris\_693\_03\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 38  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|38 |    No     |
 
 ### Log Content
 **Chris**<br>
@@ -440,9 +440,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos004"/>\[#004\] Cam\_Noah\_693\_05\_11
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 39  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|39 |    No     |
 
 ### Log Content
 *\[Sings\]*
@@ -546,9 +546,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos005"/>\[#005\] Cam\_Noah\_693\_06\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 40  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|40 |    No     |
 
 ### Log Content
 **[Television]**<br>
@@ -701,9 +701,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos006"/>\[#006\] Mail\_Chris\_693\_07\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 41  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|41 |    No     |
 
 ### Log Content
 **Subj.**: Event Schedule Notice<br>
@@ -739,9 +739,9 @@ Chris
 
 ## <a id="pos007"/>\[#007\] Cam\_Noah\_693\_08\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 42  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|42 |    No     |
 
 ### Log Content
 *\[Knocks\]*
@@ -893,9 +893,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos008"/>\[#008\] Audio\_NMobile\_693\_08\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 43  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|43 |    No     |
 
 ### Log Content
 **Noah**<br>
@@ -1042,9 +1042,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos009"/>\[#009\] Cam\_NDrivRec\_693\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 44  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|44 |    No     |
 
 ### Log Content
 *\[Engine Sound\]*
@@ -1151,9 +1151,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos010"/>\[#010\] Cam094\_ARC\_H\_694\_05\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 45  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|45 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1229,13 +1229,13 @@ _\[Signal Lost\]_
 
 ## <a id="pos011"/>\[#011\] Cam\_TunerSan\_702\_09\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 48  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|48 |    No     |
 
 ### Log Content
 **[News]**<br>
-_Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist. _
+_Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist._
 
 **[Reporter]**<br>
 _Miss Helena, any thoughts regarding your missing sister? Do you feel sad?_
@@ -1296,7 +1296,7 @@ _I'm sorry! No matching information in the contact list._
 I definitely saved her info... No, right now, I don't even know whether the things I remembered and forgot are real or not...
 
 **PAFF**<br>
-Just what should I do now...? 
+Just what should I do now...? _\*Sobs\*... \*sobs\*..._
 
 _\[»»» Fast Forward»»»\]_
 
@@ -1326,9 +1326,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos012"/>\[#012\] Cam\_Hospital\_693\_08\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 48  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|48 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -1450,9 +1450,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos013"/>\[#013\] cyTus\_Server 08\_702\_01\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 49  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|49 |    No     |
 
 ### Log Content
 **Aroma**<br>
@@ -1542,9 +1542,9 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="pos014"/>\[#014\] Audio\_Arena\_702\_07\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 50  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|50 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1659,9 +1659,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos015"/>\[#015\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 50  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|50 |    No     |
 
 ### Log Content
 **Aroma**<br>
@@ -1714,9 +1714,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos016"/>\[#016\] Audio\_Noah\_702\_08\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 50  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|50 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1849,9 +1849,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos017"/>\[#017\] Audio\_Noah\_702\_09\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 51  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|51 |    No     |
 
 ### Log Content
 *\[Door Knock\]*
@@ -1979,7 +1979,7 @@ You... you should get some rest. I will not disturb you anymore, okay?
 Sister...
 
 **Aroma**<br>
-What... just what am I... 
+What... just what am I... _\*Sobs\*... \*Sobs\*_......
 
 _\[Signal Lost\]_
 
@@ -1987,9 +1987,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos018"/>\[#018\] Audio\_Noah\_702\_09\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 52  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|52 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -2102,9 +2102,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos019"/>\[#019\] Cam\_Daily08\_702\_10\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 54  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|54 |    No     |
 
 ### Log Content
 **Hayato**<br>
@@ -2248,9 +2248,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos020"/>\[#020\] Audio\_Xmas\_688\_12\_24\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 53  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|53 |    No     |
 
 ### Log Content
 **Shop Owner**<br>
@@ -2357,9 +2357,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos021"/>\[#021\] Audio\_Xmas\_701\_12\_24
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 53  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|53 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -2435,9 +2435,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos022"/>\[#022\] Audio\_Xmas\_688\_12\_24\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 53  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|53 |    No     |
 
 ### Log Content
 *\[Collecting Tableware\]*
@@ -2607,16 +2607,16 @@ _\[Signal Lost\]_
 
 ## <a id="pos023"/>\[#023\] Audio\_Academy\_702\_10\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 55  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|55 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**New World**|  PAFF   |Easy |  3  |
-|**New World**|  PAFF   |Hard |  6  |
-|**New World**|  PAFF   |Chaos| 10  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**New World**|PAFF |Easy | 3 |
+|**New World**|PAFF |Hard | 6 |
+|**New World**|PAFF |Chaos|10 |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -2728,9 +2728,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos024"/>\[#024\] Image\_Academy\_702\_10\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 55  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|55 |    No     |
 
 ### Log Content
 ![pos2401_19201280.png](./attachments/pos2401_19201280.png)
@@ -2739,9 +2739,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos025"/>\[#025\] Audio\_St07\_702\_10\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 56  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|56 |    No     |
 
 ### Log Content
 **Hayato**<br>
@@ -2865,9 +2865,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos026"/>\[#026\] Audio\_Asakura\_702\_10\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 57  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|57 |    No     |
 
 ### Log Content
 *\[Door Closes\]*
@@ -3010,9 +3010,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos027"/>\[#027\] Audio\_Daily08\_702\_10\_23
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 58  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|58 |    No     |
 
 ### Log Content
 **Susan**<br>
@@ -3137,9 +3137,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos028"/>\[#028\] Cam\_Fwy01\_693\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 59  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|59 |    No     |
 
 ### Log Content
 ![pos2801.png](./attachments/pos2801.png)
@@ -3243,9 +3243,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos029"/>\[#029\] Audio\_Hospital\_694\_03\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 59  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|59 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3408,9 +3408,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos030"/>\[#030\] Audio\_Hospital\_694\_04\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 59  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|59 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -3527,9 +3527,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos031"/>\[#031\] Audio\_Arc\_692\_08\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 60  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|60 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3639,9 +3639,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos032"/>\[#032\] Audio\_Arc\_692\_08\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 60  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|60 |    No     |
 
 ### Log Content
 **[System]**<br>
@@ -3800,9 +3800,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos033"/>\[#033\] Cam\_ARC\_H\_694\_04\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 61  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|61 |    No     |
 
 ### Log Content
 **Researcher A**<br>
@@ -3947,9 +3947,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos034"/>\[#034\] Cam\_ARC\_H\_694\_05\_12\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 61  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|61 |    No     |
 
 ### Log Content
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)<br>
@@ -3959,9 +3959,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos035"/>\[#035\] Cam\_ARC\_H\_694\_05\_12\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 61  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|61 |    No     |
 
 ### Log Content
 **Researcher A**<br>
@@ -4042,7 +4042,7 @@ _... Reset the parameters. Let her body rest and recover. Prepare configuration 
 _Understood._
 
 **[Noah]**<br>
-_Aroma... come on... wake up... _
+_Aroma... come on... wake up..._
 
 _\[Signal Lost\]_
 
@@ -4050,16 +4050,16 @@ _\[Signal Lost\]_
 
 ## <a id="pos036"/>\[#036\] Audio\_ARC\_H\_694\_05\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 62  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|62 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Who Am I?**|  PAFF   |Easy |  2  |
-|**Who Am I?**|  PAFF   |Hard |  6  |
-|**Who Am I?**|  PAFF   |Chaos| 10  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Who Am I?**|PAFF |Easy | 2 |
+|**Who Am I?**|PAFF |Hard | 6 |
+|**Who Am I?**|PAFF |Chaos|10 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4203,9 +4203,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos037"/>\[#037\] Audio\_Noah\_695\_06\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 63  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|63 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -4341,9 +4341,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos038"/>\[#038\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 64  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|64 |    No     |
 
 ### Log Content
 **[TV]**<br>
@@ -4440,9 +4440,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos039"/>\[#039\] Cam\_Noah\_702\_09\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 64  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|64 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4578,9 +4578,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos040"/>\[#040\] Audio\_Vicky\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 64  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|64 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -4711,16 +4711,16 @@ _\[Signal Lost\]_
 
 ## <a id="pos041"/>\[#041\] Cam\_Charity\_687\_05\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 65  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|65 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**More Than Diamond**|  PAFF   |Easy |  2  |
-|**More Than Diamond**|  PAFF   |Hard |  5  |
-|**More Than Diamond**|  PAFF   |Chaos|  9  |
+|        Song         |Char.|Diff.|Lv.|
+|---------------------|:---:|:---:|:-:|
+|**More Than Diamond**|PAFF |Easy | 2 |
+|**More Than Diamond**|PAFF |Hard | 5 |
+|**More Than Diamond**|PAFF |Chaos| 9 |
 
 ### Log Content
 **Kaori**<br>
@@ -4872,16 +4872,16 @@ _\[Signal Lost\]_
 
 ## <a id="pos042"/>\[#042\] Cam\_Feng\_689\_04\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 65  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|65 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**Blossoms for Life**|  PAFF   |Easy |  3  |
-|**Blossoms for Life**|  PAFF   |Hard |  7  |
-|**Blossoms for Life**|  PAFF   |Chaos| 11  |
+|        Song         |Char.|Diff.|Lv.|
+|---------------------|:---:|:---:|:-:|
+|**Blossoms for Life**|PAFF |Easy | 3 |
+|**Blossoms for Life**|PAFF |Hard | 7 |
+|**Blossoms for Life**|PAFF |Chaos|11 |
 
 ### Log Content
 *\[Singing\]*
@@ -5042,9 +5042,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos043"/>\[#043\] Audio\_Asakura\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 66  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|66 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -5189,9 +5189,9 @@ Haha...
 
 ## <a id="pos044"/>\[#044\] Audio\_St08\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 66  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|66 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -5342,9 +5342,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos045"/>\[#045\] Cam\_Dash\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 67  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|67 |    No     |
 
 ### Log Content
 *\[Brakes\]*
@@ -5417,9 +5417,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos046"/>\[#046\] Cam\_DragonSt\_694\_04\_25\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 68  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|68 |    No     |
 
 ### Log Content
 *\[Guitar\]*
@@ -5520,9 +5520,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos047"/>\[#047\] Cam\_08Daily\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 68  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|68 |    No     |
 
 ### Log Content
 **Vicky**<br>
@@ -5644,9 +5644,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos048"/>\[#048\] Cam\_Dash\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 69  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|69 |    No     |
 
 ### Log Content
 **PAFF**<br>
@@ -5779,9 +5779,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos049"/>\[#049\] Audio\_Noah\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 69  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|69 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -5909,16 +5909,16 @@ _\[Signal Lost\]_
 
 ## <a id="pos050"/>\[#050\] Cam\_DragonSt\_694\_04\_25\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 70  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|70 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Recall**|  PAFF   |Easy |  3  |
-|**Recall**|  PAFF   |Hard |  6  |
-|**Recall**|  PAFF   |Chaos|  9  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Recall**|PAFF |Easy | 3 |
+|**Recall**|PAFF |Hard | 6 |
+|**Recall**|PAFF |Chaos| 9 |
 
 ### Log Content
 *\[Audience applauds\]*
@@ -6031,9 +6031,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos051"/>\[#051\] Cam\_Dash\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 70  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|70 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -6150,9 +6150,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos052"/>\[#052\] Audio\_Cafe\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 70  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|70 |    No     |
 
 ### Log Content
 *\[Parks car\]*
@@ -6313,9 +6313,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos053"/>\[#053\] Cam\_DragonSt\_694\_04\_25\_3
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 71  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|71 |    No     |
 
 ### Log Content
 **Hayato**<br>
@@ -6406,9 +6406,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos054"/>\[#054\] Image\_Base\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 71  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|71 |    No     |
 
 ### Log Content
 ![pos5402.png](./attachments/pos5402.png)
@@ -6417,9 +6417,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos055"/>\[#055\] Audio\_Cafe\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 71  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|71 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -6565,9 +6565,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos056"/>\[#056\] Multi\_File\_P056
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 72  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|72 |    No     |
 
 ### Log Content
 *\[Footsteps\]*
@@ -6706,9 +6706,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos057"/>\[#057\] Multi\_File\_P057
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 72  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|72 |    No     |
 
 ### Log Content
 _\[→Audio\_???\_697\_12\_25\]_
@@ -6848,7 +6848,7 @@ _Good... Thank... goodness..._
 The time... is up.
 
 **Hayato**<br>
-You can... finally, sleep with a smile. You can sleep with a smile, forever...  WAAAHHHHHH!!!! 
+You can... finally, sleep with a smile. You can sleep with a smile, forever... _\*Sobs\*..._ WAAAHHHHHH!!!! _\*Bawls\*._
 
 _\[→Cam\_Grave\_702\_11\_23\]_
 
@@ -6880,9 +6880,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos058"/>\[#058\] ???\_???\_??\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 72  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|72 |    No     |
 
 ### Log Content
 **PAFF**<br>
@@ -6988,10 +6988,10 @@ _\[Signal Lost\]_
 
 ## <a id="pos059"/>\[#059\] Cam\_Ward\_702\_12\_14
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**PAFF**        | 73  |
-|**Crystal PuNK**| 23  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**PAFF**        |73 |    No     |
+|**Crystal PuNK**|23 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -7160,9 +7160,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos060"/>\[#060\] Audio\_Ward\_702\_12\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 74  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|74 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -7180,7 +7180,7 @@ Hey! NEKO!
 _Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely._
 
 **[Nora]**<br>
-_Just as Miss Asakura said, this place can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. _
+_Just as Miss Asakura said, this place can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore._
 
 **PAFF**<br>
 Then Xenon...
@@ -7223,7 +7223,7 @@ _We have to locate him as soon as possible. The incident this time, I'm afraid i
 I... I think I can use the surveillance cameras in the city to find his location.
 
 **[Nora]**<br>
-_You want to give it a shot? Judging by the time he left, the area he can cover has, at minimum, thousands of surveillance cameras in it. _
+_You want to give it a shot? Judging by the time he left, the area he can cover has, at minimum, thousands of surveillance cameras in it._
 
 **PAFF**<br>
 Yes! I'll try my best.
@@ -7296,9 +7296,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos061"/>\[#061\] Audio\_KyuuLab\_702\_12\_20\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 75  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|75 |    No     |
 
 ### Log Content
 *\[Data Input\]*
@@ -7429,9 +7429,9 @@ _\[Signal Lost\]_
 
 ## <a id="pos062"/>\[#062\] Audio\_KyuuLab\_702\_12\_20\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 75  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|75 |    No     |
 
 ### Log Content
 **Member D**<br>

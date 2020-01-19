@@ -414,9 +414,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos004"/>\[#004\] Audio\_Academy\_694\_08\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  2  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 2 |    No     |
 
 ### Log Content
 *\[Class Bell\]*
@@ -494,9 +494,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos005"/>\[#005\] Cam\_Academy\_694\_08\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  2  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 2 |    No     |
 
 ### Log Content
 *\[Class Bell\]*
@@ -631,9 +631,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos006"/>\[#006\] Audio\_Academy\_694\_08\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  3  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 3 |    No     |
 
 ### Log Content
 **Clara**<br>
@@ -738,9 +738,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos007"/>\[#007\] Message\_Group\_694\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  3  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 3 |    No     |
 
 ### Log Content
 **Anonymous Watermelon**<br>
@@ -850,9 +850,9 @@ _[Sent at 22:02 PM]_
 
 ## <a id="aos008"/>\[#008\] Cam\_Academy\_694\_08\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  4  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 4 |    No     |
 
 ### Log Content
 **Aroma**<br>
@@ -1007,14 +1007,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos009"/>\[#009\] Audio\_Noah\_695\_01\_21
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  5  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 5 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Bring the light**|  Aroma  |Easy |  2  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Bring the light**|Aroma|Easy | 2 |
 
 ### Log Content
 *\[Ringtone\]*
@@ -1115,14 +1115,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos010"/>\[#010\] Cam\_Noah\_695\_04\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  5  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 5 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Bring the light**|  Aroma  |Hard |  5  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Bring the light**|Aroma|Hard | 5 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1233,14 +1233,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos011"/>\[#011\] Aroma\_Interview\_697\_08\_31
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  6  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 6 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Bring the light**|  Aroma  |Chaos|  8  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Bring the light**|Aroma|Chaos| 8 |
 
 ### Log Content
 **Host**<br>
@@ -1371,14 +1371,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos012"/>\[#012\] Audio\_Mono\_698\_12\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  7  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 7 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Make U Mine**|  Aroma  |Easy |  3  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Make U Mine**|Aroma|Easy | 3 |
 
 ### Log Content
 **Helena**<br>
@@ -1493,9 +1493,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos013"/>\[#013\] Cam\_Mono\_699\_01\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  7  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 7 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -1661,14 +1661,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos014"/>\[#014\] Audio\_Mono\_699\_02\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  8  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 8 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Make U Mine**|  Aroma  |Hard |  6  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Make U Mine**|Aroma|Hard | 6 |
 
 ### Log Content
 **Helena**<br>
@@ -1808,9 +1808,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos015"/>\[#015\] Audio\_Mono\_699\_05\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  8  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 8 |    No     |
 
 ### Log Content
 **Helena**<br>
@@ -1918,9 +1918,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos016"/>\[#016\] Mail\_Æsir\_701\_09\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  9  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 9 |    No     |
 
 ### Log Content
 **Subj.**: Invitation<br>
@@ -1944,9 +1944,9 @@ Awaiting your response.
 
 ## <a id="aos017"/>\[#017\] Audio\_Mono\_701\_09\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**|  9  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 9 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2092,14 +2092,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos018"/>\[#018\] cyTus\_Server08\_702\_01\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 10  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|10 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Make U Mine**|  Aroma  |Chaos| 11  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Make U Mine**|Aroma|Chaos|11 |
 
 ### Log Content
 *\[cyTus login\]*
@@ -2218,9 +2218,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos019"/>\[#019\] cyTus\_Server08\_702\_01\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 11  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|11 |    No     |
 
 ### Log Content
 **Aroma**<br>
@@ -2310,9 +2310,9 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="aos020"/>\[#020\] Mail\_Chris\_702\_03\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 12  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|12 |    No     |
 
 ### Log Content
 **Subj.**: Event Schedule Notice<br>
@@ -2343,14 +2343,14 @@ Chris
 
 ## <a id="aos021"/>\[#021\] Aroma\_Mobile\_702\_03\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 13  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|13 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Anzen Na Kusuri**|  Aroma  |Easy |  2  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Anzen Na Kusuri**|Aroma|Easy | 2 |
 
 ### Log Content
 **Helena**<br>
@@ -2412,9 +2412,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos022"/>\[#022\] Audio\_Noah\_702\_06\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 14  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|14 |    No     |
 
 ### Log Content
 **PAFF-Official**<br>
@@ -2523,14 +2523,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos023"/>\[#023\] cyTus\_Server08\_702\_07\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 15  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|15 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Anzen Na Kusuri**|  Aroma  |Hard |  6  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Anzen Na Kusuri**|Aroma|Hard | 6 |
 
 ### Log Content
 **Helena**<br>
@@ -2681,9 +2681,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos024"/>\[#024\] Audio\_Arena\_702\_07\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 16  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|16 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2798,14 +2798,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos025"/>\[#025\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 17  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|17 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Anzen Na Kusuri**|  Aroma  |Chaos| 10  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Anzen Na Kusuri**|Aroma|Chaos|10 |
 
 ### Log Content
 **Aroma**<br>
@@ -2858,16 +2858,16 @@ _\[Signal Lost\]_
 
 ## <a id="aos026"/>\[#026\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 18  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|18 |    No     |
 
 ### Unlocked Charts
-|  Song  |Character|Diff.|Level|
-|--------|:-------:|:---:|:---:|
-|**漂流**|  Aroma  |Easy |  4  |
-|**漂流**|  Aroma  |Hard |  7  |
-|**漂流**|  Aroma  |Chaos| 14  |
+|  Song  |Char.|Diff.|Lv.|
+|--------|:---:|:---:|:-:|
+|**漂流**|Aroma|Easy | 4 |
+|**漂流**|Aroma|Hard | 7 |
+|**漂流**|Aroma|Chaos|14 |
 
 ### Log Content
 *\[Guitar\]*
@@ -2970,16 +2970,16 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="aos027"/>\[#027\] Audio\_Noah\_702\_08\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 19  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|19 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**Perspectives**|  Aroma  |Easy |  2  |
-|**Perspectives**|  Aroma  |Hard |  5  |
-|**Perspectives**|  Aroma  |Chaos| 10  |
+|      Song      |Char.|Diff.|Lv.|
+|----------------|:---:|:---:|:-:|
+|**Perspectives**|Aroma|Easy | 2 |
+|**Perspectives**|Aroma|Hard | 5 |
+|**Perspectives**|Aroma|Chaos|10 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3112,15 +3112,15 @@ _\[Signal Lost\]_
 
 ## <a id="aos028"/>\[#028\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 20  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|20 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**風の声**|  Aroma  |Easy |  2  |
-|**風の声**|  Aroma  |Hard |  4  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**風の声**|Aroma|Easy | 2 |
+|**風の声**|Aroma|Hard | 4 |
 
 ### Log Content
 *\[Audience applauds\]*
@@ -3231,14 +3231,14 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="aos029"/>\[#029\] Audio\_Noah\_702\_09\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 21  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|21 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**風の声**|  Aroma  |Chaos|  9  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**風の声**|Aroma|Chaos| 9 |
 
 ### Log Content
 *\[Door Knock\]*
@@ -3366,7 +3366,7 @@ You... you should get some rest. I will not disturb you anymore, okay?
 Sister...
 
 **Aroma**<br>
-What... just what am I... 
+What... just what am I... _\*Sobs\*... \*Sobs\*_......
 
 _\[Signal Lost\]_
 
@@ -3374,14 +3374,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos030"/>\[#030\] \]́/̸̨͠\-͟͢E̸\_.(\$̢͢zq́k͞(̀҉̢Ţ\_694\_04\_25))\_3
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 22  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|22 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Neon Escape**|  Aroma  |Easy |  2  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Neon Escape**|Aroma|Easy | 2 |
 
 ### Log Content
 **？？？**<br>
@@ -3472,14 +3472,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos031"/>\[#031\] Cam\_Noah\_702\_09\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 22  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|22 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Neon Escape**|  Aroma  |Hard |  6  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Neon Escape**|Aroma|Hard | 6 |
 
 ### Log Content
 **Aroma**<br>
@@ -3552,14 +3552,14 @@ _\[Signal Lost\]_
 
 ## <a id="aos032"/>\[#032\] Cam\_Noah\_693\_08\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 23  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|23 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Neon Escape**|  Aroma  |Chaos| 10  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Neon Escape**|Aroma|Chaos|10 |
 
 ### Log Content
 **[Iris]**<br>
@@ -3703,9 +3703,9 @@ _\[Signal Lost\]_
 
 ## <a id="aos033"/>\[#033\] Cam\_ARC\_H\_694\_05\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Aroma**| 24  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**|24 |    No     |
 
 ### Log Content
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)<br>

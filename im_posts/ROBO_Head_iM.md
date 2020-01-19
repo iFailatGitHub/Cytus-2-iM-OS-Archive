@@ -46,10 +46,10 @@
 
 ## <a id="r0101"/>\[#001\] cyTus annual traffic report
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Restriction**|ROBO_Head|Easy |  4  |
-|**Restriction**|ROBO_Head|Hard |  7  |
+|     Song      |  Char.  |Diff.|Lv.|
+|---------------|:-------:|:---:|:-:|
+|**Restriction**|ROBO_Head|Easy | 4 |
+|**Restriction**|ROBO_Head|Hard | 7 |
 
 ### Post
 **ROBO_Head**<br>
@@ -74,7 +74,7 @@ Organizing three blocks worth of data everyday is already killing me X\_X
 Personally, I think Robo\-kun is online 24/7
 
 **Cyd_Mire**<br>
-**@ROBO\_Head** Can you delete my post on the traffic report forum, the one that is blowing up now pretty please\~ 
+**@ROBO\_Head** Can you delete my post on the traffic report forum, the one that is blowing up now pretty please\~
 
 **ROBO_Head**<br>
 Rejected. Requested data does not require deletion.
@@ -99,9 +99,9 @@ FML
 
 ## <a id="r0201"/>\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**Deadly Slot Game**|ROBO_Head|Chaos| 12  |
+|        Song        |  Char.  |Diff.|Lv.|
+|--------------------|:-------:|:---:|:-:|
+|**Deadly Slot Game**|ROBO_Head|Chaos|12 |
 
 ### Post
 **ROBO_Head**<br>
@@ -169,22 +169,20 @@ All this talk is making me believe that A.R.C. is some kind of real\-life god
 
 ## <a id="r0301"/>\[#003\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  2  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 2 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Luolimasi**|ROBO_Head|Easy |  2  |
-|**Luolimasi**|ROBO_Head|Hard |  7  |
+|    Song     |  Char.  |Diff.|Lv.|
+|-------------|:-------:|:---:|:-:|
+|**Luolimasi**|ROBO_Head|Easy | 2 |
+|**Luolimasi**|ROBO_Head|Hard | 7 |
 
 ### Post
 **ROBO_Head**<br>
 ROBO\_Radio online in one hour. <br>
 New song completion percentage:100% ：D
-
-
 ### Replies
 **SuduMan**<br>
 FIRST!<br>
@@ -206,7 +204,7 @@ Looking forward to new song!
 That steamer won't happen to be me right ehhehehe ㄟ(ΦωΦ)ㄏ
 
 **ROBO_Head**<br>
-Hint: Lifestyle streamer. Stream focused on talking about books and magazines. 
+Hint: Lifestyle streamer. Stream focused on talking about books and magazines.
 
 **Heart_Head**<br>
 Yep definitely not NEKO lol
@@ -233,14 +231,14 @@ It's QQueen actually \*head scratch\*
 
 ## <a id="r0401"/>\[#004\] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  3  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 3 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**Make Me Burn**|ROBO_Head|Chaos| 12  |
+|      Song      |  Char.  |Diff.|Lv.|
+|----------------|:-------:|:---:|:-:|
+|**Make Me Burn**|ROBO_Head|Chaos|12 |
 
 ### Post
 **ROBO_Head**<br>
@@ -259,7 +257,7 @@ Speculation: Increased value for consumer robot products
 MeowBot! **ヽ(\*Φ∀Φ)八(Φ∀Φ\*)ノ**
 
 **ROBO_Head**<br>
-Analysis: NEKO\#ΦωΦ 's liking of feline animal robots. A psychological projection due to lack of same\-age social group. 
+Analysis: NEKO\#ΦωΦ 's liking of feline animal robots. A psychological projection due to lack of same\-age social group.
 
 **SYY**<br>
 Isn't Colin Neumann Jr. that pretty famous musician ConneR???
@@ -286,14 +284,14 @@ All hail Sensei!!!!
 
 ## <a id="r0501"/>\[#005\] \[Share\] The reason why cyTus server is placed in the skies
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  5  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 5 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Luolimasi**|ROBO_Head|Chaos| 11  |
+|    Song     |  Char.  |Diff.|Lv.|
+|-------------|:-------:|:---:|:-:|
+|**Luolimasi**|ROBO_Head|Chaos|11 |
 
 ### Post
 **ROBO_Head**<br>
@@ -326,7 +324,7 @@ I also watch it every day right on time
 My uncles says it's very safe up there. There are plenty of protection mechanisms in it
 
 **Esox_tron**<br>
-**@ROBO\_Head** Even though it's technically a "kids" show, its contents are well researched. I often recommend this show to my graduate students. 
+**@ROBO\_Head** Even though it's technically a "kids" show, its contents are well researched. I often recommend this show to my graduate students.
 
 **ROBO_Head**<br>
 Affirmative.
@@ -345,7 +343,7 @@ Simulation: Target  (weight) \* (falling velocity)......<br>
 Results: Node08 destroyed percentage: 100%
 
 **NnNn**<br>
-Nope nope nope nope 
+Nope nope nope nope
 
 **SuduMan**<br>
 Nah, it's impossible for it to fall...
@@ -370,14 +368,14 @@ A world with no internet might as well be dead
 
 ## <a id="r0601"/>\[#006\] \[Share\] The purpose behind the establishment of A.R.C
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  6  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 6 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Restriction**|ROBO_Head|Chaos| 11  |
+|     Song      |  Char.  |Diff.|Lv.|
+|---------------|:-------:|:---:|:-:|
+|**Restriction**|ROBO_Head|Chaos|11 |
 
 ### Post
 **ROBO_Head**<br>
@@ -421,9 +419,9 @@ So no comment on everything else besides technology... LOL
 
 ## <a id="r0701"/>\[#007\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  7  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 7 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -487,11 +485,11 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 ## <a id="r0801"/>\[#008\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     |  9  |
-|**NEKO#ΦωΦ** |  9  |
-|**ROBO_Head**|  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     | 9 |    Yes    |
+|**NEKO#ΦωΦ** | 9 |    Yes    |
+|**ROBO_Head**| 9 |    Yes    |
 
 ### Post
 **ROBO_Head**<br>
@@ -500,23 +498,22 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 ## <a id="r0901"/>\[#009\] \[Announcement\] Article removed for unknown reason
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     |  9  |
-|**NEKO#ΦωΦ** |  9  |
-|**ROBO_Head**|  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     | 9 |    No     |
+|**NEKO#ΦωΦ** | 9 |    No     |
+|**ROBO_Head**| 9 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Devillic Sphere**|ROBO_Head|Easy |  3  |
-|**Devillic Sphere**|ROBO_Head|Hard |  9  |
+|       Song        |  Char.  |Diff.|Lv.|
+|-------------------|:-------:|:---:|:-:|
+|**Devillic Sphere**|ROBO_Head|Easy | 3 |
+|**Devillic Sphere**|ROBO_Head|Hard | 9 |
 
 ### Post
 **ROBO_Head**<br>
 Record: Previous post delete for Unknown reason ：( <br>
-Decision: Filing complaint form...... 70%<br>
-
+Decision: Filing complaint form...... 70%
 ### Replies
 **STANley**<br>
 yeah I just finished the song and the article was somehow removed ???
@@ -571,9 +568,9 @@ So is Æsir\-FEST a real thing or not...I mean even those connected told complet
 
 ## <a id="r1001"/>\[#010\] \[Respond\] Æsir event
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 10  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|10 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -591,7 +588,7 @@ I said long ago that he stood us up, probably doing it just for the lulz\~
 
 **ROBO_Head**<br>
 Negative, memory cell not damaged by outside force.<br>
-File or Index corrupted and can't be read normally ：( 
+File or Index corrupted and can't be read normally ：(
 
 **Andy_Roid**<br>
 I don't understand what's going on
@@ -621,15 +618,15 @@ I hate when files get corrupted @@
 
 ## <a id="r1101"/>\[#011\] \[Record\] Æsir\-FEST remaining files
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 11  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|11 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**Pure Powerstomper**|ROBO_Head|Easy |  4  |
-|**Pure Powerstomper**|ROBO_Head|Hard |  8  |
+|        Song         |  Char.  |Diff.|Lv.|
+|---------------------|:-------:|:---:|:-:|
+|**Pure Powerstomper**|ROBO_Head|Easy | 4 |
+|**Pure Powerstomper**|ROBO_Head|Hard | 8 |
 
 ### Post
 **ROBO_Head**<br>
@@ -683,14 +680,14 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 
 ## <a id="r1201"/>\[#012\] \[Share\] The security of the cyTus server
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 12  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|12 |    No     |
 
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Claim the Game**|ROBO_Head|Chaos| 12  |
+|       Song       |  Char.  |Diff.|Lv.|
+|------------------|:-------:|:---:|:-:|
+|**Claim the Game**|ROBO_Head|Chaos|12 |
 
 ### Post
 **ROBO_Head**<br>
@@ -701,7 +698,7 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 ### Replies
 **ROBO_Head**<br>
 Record: Natural accidents since cyTus is launched: 0;<br>
-human failure: 3. No record of casualty or property loss. 
+human failure: 3. No record of casualty or property loss.
 
 **Flower_Head**<br>
 Not too bad a yield rate in my opinion
@@ -717,7 +714,7 @@ Seems invincible on the outside, but what about the inside? **@ROBO\_Head**
 
 **Xenon**<br>
 I can't say anything that is within the NDA.<br>
-However, I can tell you that every single employee is required to go through a mental health assessment every three months. So everything should be fine. 
+However, I can tell you that every single employee is required to go through a mental health assessment every three months. So everything should be fine.
 
 **Andy_Roid**<br>
 Rare sight of ROBO\_Head tagging others lol
@@ -744,14 +741,14 @@ So there are still human failures, why not make it fully automatic?
 
 ## <a id="r1301"/>\[#013\] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 13  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|13 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Devillic Sphere**|ROBO_Head|Chaos| 13  |
+|       Song        |  Char.  |Diff.|Lv.|
+|-------------------|:-------:|:---:|:-:|
+|**Devillic Sphere**|ROBO_Head|Chaos|13 |
 
 ### Post
 **ROBO_Head**<br>
@@ -799,9 +796,9 @@ You CANT tell them to change it back into a card game  lololol
 
 ## <a id="r1401"/>\[#014\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 15  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|15 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -826,7 +823,7 @@ Eh, the genius "musician" ConneR !?
 Didn't expect to see news about Sensei in Robo\_head's feed
 
 **ConneR**<br>
-　Thank you. Appreciate the repost from ROBO\_head. Pleased to meet you.
+Thank you. Appreciate the repost from ROBO\_head. Pleased to meet you.
 
 **Talus_Alpha**<br>
 Wow it's the doctor himself!
@@ -850,14 +847,14 @@ I think this project is very interesting, been following since the news came out
 
 ## <a id="r1501"/>\[#015\] Æsir\-FEST memory block corrupted 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 15  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|15 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**Pure Powerstomper**|ROBO_Head|Chaos| 13  |
+|        Song         |  Char.  |Diff.|Lv.|
+|---------------------|:-------:|:---:|:-:|
+|**Pure Powerstomper**|ROBO_Head|Chaos|13 |
 
 ### Post
 **ROBO_Head**<br>
@@ -873,22 +870,19 @@ Decision: Launch recovery...initializing...
 
 ## <a id="r1601"/>\[#016\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 16  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|16 |    No     |
 
 ### Unlocked Charts
-|              Song               |Character|Diff.|Level|
-|---------------------------------|:-------:|:---:|:---:|
-|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Easy |  3  |
-|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Hard |  8  |
+|              Song               |  Char.  |Diff.|Lv.|
+|---------------------------------|:-------:|:---:|:-:|
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Easy | 3 |
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Hard | 8 |
 
 ### Post
 **ROBO_Head**<br>
 ROBO\_Radio online in one hour
-
-
-
 ### Replies
 **ROBOLUV**<br>
 Yeah Robohead's stream!
@@ -924,25 +918,25 @@ We're getting off topic lol, ROBO\_Radio for life!!
 
 ## <a id="r1701"/>\[#017\] \[Repost\] Dr. ConneR will share progress of AI research on the web
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 18  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|18 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Grimoire of Crimson**|ROBO_Head|Easy |  4  |
-|**Grimoire of Crimson**|ROBO_Head|Hard |  8  |
+|         Song          |  Char.  |Diff.|Lv.|
+|-----------------------|:-------:|:---:|:-:|
+|**Grimoire of Crimson**|ROBO_Head|Easy | 4 |
+|**Grimoire of Crimson**|ROBO_Head|Hard | 8 |
 
 ### Post
 **ROBO_Head**<br>
 \[Technology\]\[News\]\[ARC\]\[A.I.\]\[ConneR\]<br>
 > In order to show the public the beauty of technology advancements, A.R.C.'s Dr. Colin Neumann Jr. will share the research progress on social media. People who are interested in the project can now visit @ConneR\-x\-ARC to ask questions. Dr. Neumann will answer the questions and explain the progress of the research himself. He may even share some behind\-the\-scenes info with us. 
 
-\[Article excerpted from Node News Network\] 
+\[Article excerpted from Node News Network\]
 ### Replies
 **ConneR**<br>
-　Thank you for sharing. Hope there is a chance for us to learn from each other in a different field. 
+Thank you for sharing. Hope there is a chance for us to learn from each other in a different field.
 
 **Shrimpyy**<br>
 seems like some really famous guy
@@ -966,14 +960,14 @@ you got something?
 
 ## <a id="r1801"/>\[#018\] \[Repost\] Concert accident? Singer collapsed on stage
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 19  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|19 |    No     |
 
 ### Unlocked Charts
-|              Song               |Character|Diff.|Level|
-|---------------------------------|:-------:|:---:|:---:|
-|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Chaos| 14  |
+|              Song               |  Char.  |Diff.|Lv.|
+|---------------------------------|:-------:|:---:|:-:|
+|**Celestial Sounds (KIVΛ Remix)**|ROBO_Head|Chaos|14 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1045,22 +1039,20 @@ Get well soon!!!!<br>
 
 ## <a id="r1901"/>\[#019\] Æsir\-FEST corrupted data recovery progress......15% 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 20  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|20 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Dasein**|ROBO_Head|Easy |  4  |
-|**Dasein**|ROBO_Head|Hard |  7  |
+|   Song   |  Char.  |Diff.|Lv.|
+|----------|:-------:|:---:|:-:|
+|**Dasein**|ROBO_Head|Easy | 4 |
+|**Dasein**|ROBO_Head|Hard | 7 |
 
 ### Post
 **ROBO_Head**<br>
 Report: Æsir\-FEST corrupted data recovery progress......15% <br>
 Reason for corrupted data: Unknown
-
-
 ### Replies
 **Andy_Roid**<br>
 **@ROBO\_Head** Recovering the records of Æsir\-FEST?
@@ -1099,14 +1091,14 @@ Still can't figure out why it's corrupted??
 
 ## <a id="r2001"/>\[#020\] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 21  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|21 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Grimoire of Crimson**|ROBO_Head|Chaos| 11  |
+|         Song          |  Char.  |Diff.|Lv.|
+|-----------------------|:-------:|:---:|:-:|
+|**Grimoire of Crimson**|ROBO_Head|Chaos|11 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1165,9 +1157,9 @@ Well that's two more workers screwed XDD
 
 ## <a id="r2101"/>\[#021\] \[Share\] What extremely long connection times does to the brain
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 22  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|22 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1197,16 +1189,16 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 ## <a id="r2201"/>\[#022\] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 24  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|24 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Chrome VOX**|NEKO#ΦωΦ |Easy |  4  |
-|**Chrome VOX**|NEKO#ΦωΦ |Hard |  9  |
-|**Chrome VOX**|NEKO#ΦωΦ |Chaos| 15  |
+|     Song     | Char.  |Diff.|Lv.|
+|--------------|:------:|:---:|:-:|
+|**Chrome VOX**|NEKO#ΦωΦ|Easy | 4 |
+|**Chrome VOX**|NEKO#ΦωΦ|Hard | 9 |
+|**Chrome VOX**|NEKO#ΦωΦ|Chaos|15 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1279,16 +1271,16 @@ Take care my man, use proxy connection it's less stressful for the brain
 
 ## <a id="r2301"/>\[#023\] Æsir\-FEST corrupted data recovery progress......80% 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 23  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    Yes    |
+|**NEKO#ΦωΦ** |24 |    Yes    |
+|**ROBO_Head**|23 |    Yes    |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Dasein**|ROBO_Head|Chaos| 12  |
+|   Song   |  Char.  |Diff.|Lv.|
+|----------|:-------:|:---:|:-:|
+|**Dasein**|ROBO_Head|Chaos|12 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1310,7 +1302,7 @@ If every single connection is cut, isn't it similar to repeater malfunction or a
 
 **C.Y.**<br>
 Doesn't this looks somewhat similar to NEKO's case?<br>
-though the magnitude differs a lot 
+though the magnitude differs a lot
 
 **Andy_Roid**<br>
 never thought data can be this corrupted
@@ -1340,22 +1332,22 @@ THE TRUTH! \*claps\*
 
 ## <a id="r2401"/>\[#024\] Æsir\-FEST corrupted data recovery progress......100% 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**Ivy**      |  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    Yes    |
+|**NEKO#ΦωΦ** |24 |    Yes    |
+|**ROBO_Head**|24 |    Yes    |
+|**Ivy**      | 9 |    Yes    |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**CHAOS**       |ROBO_Head|Easy |  5  |
-|**Hard Landing**|NEKO#ΦωΦ |Easy |  3  |
-|**CHAOS**       |ROBO_Head|Hard |  9  |
-|**Hard Landing**|NEKO#ΦωΦ |Hard |  8  |
-|**CHAOS**       |ROBO_Head|Chaos| 14  |
-|**Hard Landing**|NEKO#ΦωΦ |Chaos| 10  |
+|      Song      |  Char.  |Diff.|Lv.|
+|----------------|:-------:|:---:|:-:|
+|**CHAOS**       |ROBO_Head|Easy | 5 |
+|**Hard Landing**|NEKO#ΦωΦ |Easy | 3 |
+|**CHAOS**       |ROBO_Head|Hard | 9 |
+|**Hard Landing**|NEKO#ΦωΦ |Hard | 8 |
+|**CHAOS**       |ROBO_Head|Chaos|14 |
+|**Hard Landing**|NEKO#ΦωΦ |Chaos|10 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1423,9 +1415,9 @@ What if Æsir is the perpetrator himself...\*runs away\*
 
 ## <a id="r2501"/>\[#025\] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 25  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|25 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1474,7 +1466,7 @@ Ah man, times like this make you wish that you're a computer and you can just go
 
 **MAN_Dora**<br>
 This is supposed to be an issue for the admins<br>
-But the A.R.C. seems more reliable now 
+But the A.R.C. seems more reliable now
 
 **Heart_Head**<br>
 It's always been like that in Node 08 XDD
@@ -1522,9 +1514,9 @@ Dude she is already super famous. Didn't you see how many people were connected 
 
 ## <a id="r2601"/>\[#026\] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 26  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|26 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1588,16 +1580,16 @@ Why did the admins allow these killing machines to run around freely???
 
 ## <a id="r2701"/>\[#027\] Æsir event internet search results
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 29  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|29 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**EMber**|ROBO_Head|Easy |  3  |
-|**EMber**|ROBO_Head|Hard |  7  |
-|**EMber**|ROBO_Head|Chaos| 13  |
+|  Song   |  Char.  |Diff.|Lv.|
+|---------|:-------:|:---:|:-:|
+|**EMber**|ROBO_Head|Easy | 3 |
+|**EMber**|ROBO_Head|Hard | 7 |
+|**EMber**|ROBO_Head|Chaos|13 |
 
 ### Post
 **ROBO_Head**<br>
@@ -1701,9 +1693,9 @@ But I feel like NEKO was probably framed!!
 
 ## <a id="r2801"/>\[#028\] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 30  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|30 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1774,9 +1766,9 @@ Good thing that the innocent wasn't wrongly accused in the end \*prays\*
 
 ## <a id="r2901"/>\[#029\] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 31  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|31 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1851,9 +1843,9 @@ It's a dream so don't PM me
 
 ## <a id="r3001"/>\[#030\] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 32  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|32 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -1921,9 +1913,9 @@ Bye bye you POS (Hand Wave
 
 ## <a id="r3101"/>\[#031\] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 33  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|33 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2001,9 +1993,9 @@ Wanted to visit, but terrified...
 
 ## <a id="r3201"/>\[#032\] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 34  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|34 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2053,9 +2045,9 @@ Whatever let's blame Æsir for everything\~\~\~
 
 ## <a id="r3301"/>\[#033\] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 34  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|34 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2115,9 +2107,9 @@ Maybe ask your boss and see if you can leave early to avoid the mob???
 
 ## <a id="r3401"/>\[#034\] \[Repost\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 40  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|40 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2165,11 +2157,11 @@ God, all these recent incidents are so confusing. I don't what's real and what's
 
 ## <a id="r3501"/>\[#035\] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 42  |
-|**NEKO#ΦωΦ** | 42  |
-|**ROBO_Head**| 42  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |42 |    Yes    |
+|**NEKO#ΦωΦ** |42 |    Yes    |
+|**ROBO_Head**|42 |    Yes    |
 
 ### Post
 **ROBO_Head**<br>
@@ -2243,9 +2235,9 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 
 ## <a id="r3601"/>\[#036\] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 44  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|44 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2279,7 +2271,7 @@ That second sentence sounds like something Dr. ConneR would say
 
 **ConneR**<br>
 Such nostalgic words.<br>
-    Thank you to **@ROBO\_Head** for finding the most appropriate explanatory document regarding the topic of drones. However, the document is undoubtedly dated now. Please allow me to make some additions regarding the views I developed in recent years. 
+    Thank you to **@ROBO\_Head** for finding the most appropriate explanatory document regarding the topic of drones. However, the document is undoubtedly dated now. Please allow me to make some additions regarding the views I developed in recent years.
 
 **ROBO_Head**<br>
 Decision: This document among 13652 related documents, level of representativeness  highest<br>
@@ -2302,9 +2294,9 @@ All set to write a research paper on drones\~
 
 ## <a id="r3701"/>\[#037\] \[Repost\] Looking back at major riots in history
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 46  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|46 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2362,9 +2354,9 @@ Very well. Then the first thing we should do is to make sure worthless garbage l
 
 ## <a id="r3801"/>\[#038\] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 47  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|47 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2431,11 +2423,11 @@ Bought ten tickets already! This performance is definitely what you call can't m
 
 ## <a id="r3901"/>\[#039\] ROBO\_Radio\_LIVE starts now!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 48  |
-|**NEKO#ΦωΦ** | 48  |
-|**ROBO_Head**| 48  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |48 |    Yes    |
+|**NEKO#ΦωΦ** |48 |    Yes    |
+|**ROBO_Head**|48 |    Yes    |
 
 ### Post
 **ROBO_Head**<br>
@@ -2526,10 +2518,10 @@ Don't be stupid, ghosts don't exist in the virtual space... Even if they do they
 
 ## <a id="r4001"/>\[#040\] ROBO\_Radio\_LIVE statistics analysis
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**NEKO#ΦωΦ** | 48  |
-|**ROBO_Head**| 49  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**NEKO#ΦωΦ** |48 |    No     |
+|**ROBO_Head**|49 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2602,9 +2594,9 @@ Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once
 
 ## <a id="r4101"/>\[#041\] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 52  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|52 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2702,9 +2694,9 @@ Dude, don't jinx us LOLOLOL
 
 ## <a id="r4201"/>\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 53  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|53 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -2770,9 +2762,9 @@ With somebody like Xenon at the helm are you really sure that's a wise decision?
 
 ## <a id="r4301"/>\[#043\] Paranormal: Bug collection
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 54  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|54 |    No     |
 
 ### Post
 **Manpora**<br>

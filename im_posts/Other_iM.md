@@ -139,15 +139,13 @@
 
 ## <a id="o0101"/>\[#001\] LONG nap
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 2 |    No     |
 
 ### Post
 **Marshall**<br>
 Wait this can't be right? It was 6/28 when I went to bed. How come it's 6/30 when I woke up? Did my phone's clock bugged out or what?
-
-
 ### Replies
 **Miyoko1212**<br>
 Today is indeed June 30th.
@@ -165,9 +163,9 @@ Well, looks like you just kissed that holiday goodbye LOLOL
 
 ## <a id="o0201"/>\[#002\] I'm lost
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 3 |    No     |
 
 ### Post
 **LIS**<br>
@@ -180,9 +178,9 @@ I heard that a long time ago every road has its own unique name. How can anyone 
 
 ## <a id="o0301"/>\[#003\] Does MeowBot have field service?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  4  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 4 |    No     |
 
 ### Post
 **Shibawu**<br>
@@ -204,9 +202,9 @@ Man, just imagining it makes me feel like I'm tripping on acid LMAO
 
 ## <a id="o0401"/>\[#004\] Ran into a wild NEKO!!!!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  5  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 5 |    No     |
 
 ### Post
 **Rinko**<br>
@@ -238,15 +236,13 @@ NEKO is always cute no matter what\~
 
 ## <a id="o0501"/>\[#005\] Disgusting
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  6  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 6 |    No     |
 
 ### Post
 **iluvpuf**<br>
 Harassing PAFF is a disgusting act. Stop pretending that you know her well A\-hole
-
-
 ### Replies
 **AngryFan**<br>
 Can't stand it!
@@ -268,9 +264,9 @@ Banned
 
 ## <a id="o0601"/>\[#006\] BGM
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  7  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 7 |    No     |
 
 ### Post
 **KiwaHu**<br>
@@ -279,14 +275,13 @@ The songs played in cyTus Lobby are soooooo bad... every time I log in I hear a 
 
 ## <a id="o0701"/>\[#007\] Drones
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 10  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|10 |    No     |
 
 ### Post
 **MYMYM**<br>
-About those unmanned drones that the admins deploy in the Nodes, do they video\-tape you? Last time I was peeing, one just happens to fly past the window...<br>
-
+About those unmanned drones that the admins deploy in the Nodes, do they video\-tape you? Last time I was peeing, one just happens to fly past the window...
 ### Replies
 **Shibawu**<br>
 You can file a complaint on this TBH
@@ -295,14 +290,13 @@ You can file a complaint on this TBH
 
 ## <a id="o0801"/>\[#008\] ID chip
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 10  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|10 |    No     |
 
 ### Post
 **Mist101**<br>
-Is it illegal to swap ID chips with someone else? How about one person owning multiple IDs that connects to cyTus?<br>
-
+Is it illegal to swap ID chips with someone else? How about one person owning multiple IDs that connects to cyTus?
 ### Replies
 **NewPolice**<br>
 Not illegal in either case, but A.R.C. might ban your IDs if they find out.
@@ -311,16 +305,16 @@ Not illegal in either case, but A.R.C. might ban your IDs if they find out.
 
 ## <a id="o0901"/>\[#009\] The limits of Artificial Intelligence
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 11  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|11 |    No     |
 
 ### Post
 **KirinKiraKira**<br>
 I know technology is quite developed right now. However, Artificial Intelligence is nowhere near the level of having a virtual girlfriend! WTF is A.R.C. doing?
 ### Replies
 **Mohito**<br>
-I thought it's a serious discussion based on the topic; turns out is buncha nonsense...  
+I thought it's a serious discussion based on the topic; turns out is buncha nonsense...
 
 **KirinKiraKira**<br>
 What are you talking about... did you realize that's the dream of countless single men? Don't act that you never thought of that you nerd\~
@@ -341,9 +335,9 @@ A.R.C.'s mechanical pets are already pretty amazing. They act almost exactly the
 
 ## <a id="o1001"/>\[#010\] "IDOL"
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 11  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|11 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
@@ -368,9 +362,9 @@ Nope, not doing that Lmfao
 
 ## <a id="o1101"/>\[#011\] Bloody Hell
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 12  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|12 |    No     |
 
 ### Post
 **KiwaHu**<br>
@@ -386,9 +380,9 @@ We are currently developing anger management chips. Maybe we can give you a free
 
 ## <a id="o1201"/>\[#012\] Æsir\-FEST sucks
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 13  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|13 |    No     |
 
 ### Post
 **Popo**<br>
@@ -413,9 +407,9 @@ What blackout? It was bright as s\*\*\*
 
 ## <a id="o1301"/>\[#013\] Discomfort during connection
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|14 |    No     |
 
 ### Post
 **Majaja**<br>
@@ -428,7 +422,7 @@ My friend also has similar issues, problems with the chips?
 Does the nausea just pop up randomly? or do they appear under certain circumstances?
 
 **Majaja**<br>
-Yes! It only occurs during virtual connections. Every time I get this Déjà vu feel, not sure if it's music I've heard or scenes I've seen. Then the nausea starts. 
+Yes! It only occurs during virtual connections. Every time I get this Déjà vu feel, not sure if it's music I've heard or scenes I've seen. Then the nausea starts.
 
 **RamenBot**<br>
 Maybe you're a time traveler lol
@@ -443,9 +437,9 @@ What's with all the Sci\-Fi references...?
 
 ## <a id="o1401"/>\[#014\] I don't understand what A.R.C is doing
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 16  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|16 |    No     |
 
 ### Post
 **Uctron_Rust**<br>
@@ -476,28 +470,28 @@ Colin Sensei is a legend ok? He is not your typical run\-of\-the\-mill scholar
 
 ## <a id="o1501"/>\[#015\] \[Question\] Picking Furniture
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 15  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|15 |    No     |
 
 ### Post
 **Jack**<br>
 So now I've reached "that" age, eh? One that struggles with finding a suitable dining room decoration. We have hologram comparisons and simulation trials too, how come I still can't find a good match?
 ### Replies
 **HC**<br>
-You're thinking too much. Don't forget to check out the latest catalog! I saw a pretty neat set of table lamps, looks really nice when you set it up\~ 
+You're thinking too much. Don't forget to check out the latest catalog! I saw a pretty neat set of table lamps, looks really nice when you set it up\~
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="o1601"/>\[#016\] iM UI
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 16  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|16 |    No     |
 
 ### Post
 **Shibawu**<br>
-iM's UI is getting worse with every "patch", especially the virtual connection interface, which is now a complete mess... my head hurts every time I use it 
+iM's UI is getting worse with every "patch", especially the virtual connection interface, which is now a complete mess... my head hurts every time I use it
 ### Replies
 **HC**<br>
 Is it? I think it's pretty good, much better than the version couple of years ago
@@ -512,9 +506,9 @@ If you get dizzy than don't surf the net with chips lol
 
 ## <a id="o1701"/>\[#017\] PrayForPAFF
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 18  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|18 |    No     |
 
 ### Post
 **iluvpuf**<br>
@@ -548,9 +542,9 @@ Now I like her even more\~<br>
 
 ## <a id="o1801"/>\[#018\] Man my sides are cramping
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 19  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
@@ -578,9 +572,9 @@ Hmmm you had a point there XD
 
 ## <a id="o1901"/>\[#019\] \[Repost\] Virtual area for concert has connection issues, hundreds affected
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 18  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|18 |    No     |
 
 ### Post
 **STANley**<br>
@@ -602,9 +596,9 @@ All that is just bureaucratic jargon BS; not the first time they said something 
 
 ## <a id="o2001"/>\[#020\] In a coma
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 19  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|19 |    No     |
 
 ### Post
 **kou**<br>
@@ -626,9 +620,9 @@ I don't know what to do now...
 
 ## <a id="o2101"/>\[#021\] BORING
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 19  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### Post
 **RamenBot**<br>
@@ -653,9 +647,9 @@ Hahahaha, if it really happens it will be complete and utter chaos
 
 ## <a id="o2201"/>\[#022\] Recommended spots in Quadrant II
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 19  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|19 |    No     |
 
 ### Post
 **SH11HO**<br>
@@ -672,15 +666,15 @@ I know, don't have to explain man<br>
 If you want a place to drink booze I highly recommend JOEZ Café. The drinks are tasty, music is great and the owner is a really nice guy
 
 **SH11HO**<br>
-Great, I'll go check it out. Thanks man 
+Great, I'll go check it out. Thanks man
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="o2301"/>\[#023\] My new prosthetic
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 20  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|20 |    No     |
 
 ### Post
 **Roger**<br>
@@ -696,7 +690,7 @@ In that incident the guy bought a defective product. Mine's from BH so it will b
 Next time you're going anywhere post it on iM; I'll be sure to stay far away from that location
 
 **BodyHack Service**<br>
-**@Justin888** We have plenty of service stations all over the world in each Node. If you are really concerned about your safety we suggest that you go live in the forbidden areas. 
+**@Justin888** We have plenty of service stations all over the world in each Node. If you are really concerned about your safety we suggest that you go live in the forbidden areas.
 
 **TunaLee**<br>
 Got'em! My god BH's official account is so baddd XDDD
@@ -705,9 +699,9 @@ Got'em! My god BH's official account is so baddd XDDD
 
 ## <a id="o2401"/>\[#024\] I know it's sponsored content but...
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 20  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|20 |    No     |
 
 ### Post
 **EvilForce**<br>
@@ -738,9 +732,9 @@ I mean the only thing you do in this game is charge towards the enemy right? Who
 
 ## <a id="o2501"/>\[#025\] Latest Movie
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 21  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|21 |    No     |
 
 ### Post
 **TunaLee**<br>
@@ -771,9 +765,9 @@ As long as it's not a horror film I'm ok with it. I can't handle scary stuff QQ
 
 ## <a id="o2601"/>\[#026\] Tips from Dr.Hawkins
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 22  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|22 |    No     |
 
 ### Post
 **Dr. Hawkins**<br>
@@ -805,13 +799,13 @@ Thank you for the tip doctor. More people need to know about this
 
 ## <a id="o2701"/>\[#027\] A short trip
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 23  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|23 |    No     |
 
 ### Post
 **Marshall**<br>
-Just came back from a holiday, man finally feels alive again. You really need to leave your job completely to get actual rest... I attended a mental enhancing camp in another Node; it was a great experience. 
+Just came back from a holiday, man finally feels alive again. You really need to leave your job completely to get actual rest... I attended a mental enhancing camp in another Node; it was a great experience.
 ### Replies
 **RamenBot**<br>
 Your application actually got granted?
@@ -835,9 +829,9 @@ Maybe I should plan a trip too. I'm way too exhausted at work these days.
 
 ## <a id="o2801"/>\[#028\] Weird\-ass experience
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 23  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|23 |    No     |
 
 ### Post
 **Mecha_Giga**<br>
@@ -859,18 +853,18 @@ Recommend proper and normal use of electronic products.
 
 ## <a id="o2901"/>\[#029\] Who the hell is that "Cherry" girl?
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 23  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|23 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Green Hope**|  PAFF   |Chaos| 11  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Green Hope**|PAFF |Chaos|11 |
 
 ### Post
 **Hatehate**<br>
-Why would PAFF collaborate with some nobody... is this some rich brat who wants to ride on her coattails? 
+Why would PAFF collaborate with some nobody... is this some rich brat who wants to ride on her coattails?
 ### Replies
 **Mohito**<br>
 I believe something similar happened before?
@@ -894,11 +888,11 @@ If you think of it that way, a life where your path is already decided for you d
 
 ## <a id="o3001"/>\[#030\] So memories can be deleted?
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
 
 ### Post
 **Mohito**<br>
@@ -928,7 +922,7 @@ This is nuts. Just read the news and now I see your post. Gotta disconnect now.
 Before everything is settled, we should stay away from it. This is much more serious than your memory cell data being wiped...
 
 **AliceinCytus**<br>
-I also remembered it after seeing the news and Robo\_head's post. On top of that, I began to throw up the very instant I remembered everything... 
+I also remembered it after seeing the news and Robo\_head's post. On top of that, I began to throw up the very instant I remembered everything...
 
 **kou**<br>
 Computer viruses affecting people's physical conditions; what in the world...
@@ -940,9 +934,9 @@ Let's cut down on the surfing, like seriously...
 
 ## <a id="o3101"/>\[#031\] Me first
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 25  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|25 |    No     |
 
 ### Post
 **EvilForce**<br>
@@ -971,15 +965,13 @@ I give this dream an A for "Absolute BS"
 
 ## <a id="o3201"/>\[#032\] What the actual \*\*\*\* are they up to !!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 25  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|25 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
 What the heck are the admins up to!? How can they restrain someone for so long?
-
-
 ### Replies
 **KirinKiraKira**<br>
 Yeah even the iM account has been taken over WTH!!!
@@ -1003,15 +995,13 @@ I feel that A.R.C. definitely knows something, but they just don't want to revea
 
 ## <a id="o3301"/>\[#033\] Overtime nightmare ongoing
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 25  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|25 |    No     |
 
 ### Post
 **OMGQQ**<br>
 No kidding, easily biggest crisis since I joined the company
-
-
 ### Replies
 **Rabbitdora**<br>
 Sry about that, good job on the hard work
@@ -1035,9 +1025,9 @@ GL on your job lol. Oh btw I need a refund for two tickets
 
 ## <a id="o3401"/>\[#034\] It's just a dream, just a dream
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 26  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|26 |    No     |
 
 ### Post
 **Dreamer**<br>
@@ -1053,7 +1043,7 @@ A.R.C.'s core principle is to maximize technology development. It sounds fine an
 This sounds way too much like a conspiracy theory. I mean, what benefit does this bring them?
 
 **Dreamer**<br>
-Maybe there's some super advanced tech that requires an experiment of this scale. Don't forget that before the virtual internet was developed, A.R.C. was nowhere near its current status of power 
+Maybe there's some super advanced tech that requires an experiment of this scale. Don't forget that before the virtual internet was developed, A.R.C. was nowhere near its current status of power
 
 **MaxLCK**<br>
 I have plenty of friends who work at A.R.C., I believe they won't do something like this
@@ -1119,9 +1109,9 @@ I'm here as well!
 
 ## <a id="o3501"/>\[#035\] Why all the beating around the bush
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 26  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|26 |    No     |
 
 ### Post
 **iluvpuf**<br>
@@ -1151,10 +1141,10 @@ It's pointless. Recently they've issued a gag order to all their employees
 
 ## <a id="o3601"/>\[#036\] \[Finish the survey and win prizes\] Anyone want a shot
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**NEKO#ΦωΦ** | 26  |
-|**ROBO_Head**| 26  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**NEKO#ΦωΦ** |26 |    No     |
+|**ROBO_Head**|26 |    No     |
 
 ### Post
 **NekoSamurai**<br>
@@ -1176,7 +1166,7 @@ Obviously E
 BS post, BS choices
 
 **GemFeather**<br>
-I think it's A though; since he's just a musician?? 
+I think it's A though; since he's just a musician??
 
 **Noposa**<br>
 If it's D, then will we lose our memories after reading this post XDDD
@@ -1203,15 +1193,13 @@ My guess is C!
 
 ## <a id="o3701"/>\[#037\] Anyone got a streamer recommendation \~\~\~\~?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 27  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|27 |    No     |
 
 ### Post
 **NnNn**<br>
 Since NEKO's stream was shut down, all you hear is old music when you connect to the stream now
-
-
 ### Replies
 **KirinKiraKira**<br>
 No more game streams
@@ -1248,15 +1236,14 @@ F\*\*\* off.
 
 ## <a id="o3801"/>\[#038\] About that Xenon
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 27  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|27 |    No     |
 
 ### Post
 **Nyd_Ans**<br>
 Aren't you working some sort of internet security\-related job at A.R.C.?<br>
-Got anything?<br>
-
+Got anything?
 ### Replies
 **Axroid_Sona**<br>
 What related job? The entire virtual internet security system is basically his handiwork lul, well maybe there's a team who works with him
@@ -1280,7 +1267,7 @@ He rarely talks about work on his account in the first place
 Probably another one of A.R.C.'s pets; never expected much from him
 
 **Arya_Poke**<br>
-Rumor has it that he has a s\*\*\*\*\* personality, and his love life is a mess too 
+Rumor has it that he has a s\*\*\*\*\* personality, and his love life is a mess too
 
 **AntiMetal**<br>
 People in music bands are always like that, especially metal bands
@@ -1307,14 +1294,13 @@ You're gonna get reported if you keep tagging like this lol
 
 ## <a id="o3901"/>\[#039\] I find NEKO to be the biggest suspect
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 28  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|28 |    No     |
 
 ### Post
 **AntiNEKO**<br>
-Not that I want to single her out, but when her posts are regularly filled with extreme comments, it simply makes it very hard to believe that she's truly innocent<br>
-
+Not that I want to single her out, but when her posts are regularly filled with extreme comments, it simply makes it very hard to believe that she's truly innocent
 ### Replies
 **Manpora**<br>
 But why would she hack her own audience?<br>
@@ -1357,15 +1343,14 @@ Nice, one less piece of \*\*\*\* for this world to worry about
 
 ## <a id="o4001"/>\[#040\] Did anyone remember what happened yesterday??
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**NEKO#ΦωΦ** | 27  |
-|**ROBO_Head**| 27  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**NEKO#ΦωΦ** |27 |    No     |
+|**ROBO_Head**|27 |    No     |
 
 ### Post
 **lenba**<br>
-I remember that I attended the launch celebration party, but have no memories of what actually happened. I woke up today on my bed still wearing my suit<br>
-
+I remember that I attended the launch celebration party, but have no memories of what actually happened. I woke up today on my bed still wearing my suit
 ### Replies
 **MYMYM**<br>
 Did you really not remember anything lul? Maybe you've been Æsir\-ed XDD
@@ -1429,16 +1414,16 @@ No worries man. We'll hold another one when the next version launches!!
 
 ## <a id="o4101"/>\[#041\] Someone get me an Æsir event for dummies pls!!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 29  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|29 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Brain Power**|NEKO#ΦωΦ |Easy |  3  |
-|**Brain Power**|NEKO#ΦωΦ |Hard |  8  |
-|**Brain Power**|NEKO#ΦωΦ |Chaos| 13  |
+|     Song      | Char.  |Diff.|Lv.|
+|---------------|:------:|:---:|:-:|
+|**Brain Power**|NEKO#ΦωΦ|Easy | 3 |
+|**Brain Power**|NEKO#ΦωΦ|Hard | 8 |
+|**Brain Power**|NEKO#ΦωΦ|Chaos|13 |
 
 ### Post
 **Noposa**<br>
@@ -1470,11 +1455,11 @@ Robowhat???
 
 ## <a id="o4201"/>\[#042\] \[Sponsored\] Embark on your journey
 ### Unlocked Charts
-|            Song             |Character|Diff.|Level|
-|-----------------------------|:-------:|:---:|:---:|
-|**Sdorica The Story Unfolds**|NEKO#ΦωΦ |Easy |  2  |
-|**Sdorica The Story Unfolds**|NEKO#ΦωΦ |Hard |  5  |
-|**Sdorica The Story Unfolds**|NEKO#ΦωΦ |Chaos| 10  |
+|            Song             | Char.  |Diff.|Lv.|
+|-----------------------------|:------:|:---:|:-:|
+|**Sdorica The Story Unfolds**|NEKO#ΦωΦ|Easy | 2 |
+|**Sdorica The Story Unfolds**|NEKO#ΦωΦ|Hard | 5 |
+|**Sdorica The Story Unfolds**|NEKO#ΦωΦ|Chaos|10 |
 
 ### Post
 **Sdorica_Official**<br>
@@ -1492,11 +1477,11 @@ Open the Book of Bequeathers and being your fantasy adventure
 
 ## <a id="o4301"/>\[#043\] \[Sponsored\] All players in Node 08 are blown away
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Hesitant Blade**|NEKO#ΦωΦ |Easy |  2  |
-|**Hesitant Blade**|NEKO#ΦωΦ |Hard |  5  |
-|**Hesitant Blade**|NEKO#ΦωΦ |Chaos| 11  |
+|       Song       | Char.  |Diff.|Lv.|
+|------------------|:------:|:---:|:-:|
+|**Hesitant Blade**|NEKO#ΦωΦ|Easy | 2 |
+|**Hesitant Blade**|NEKO#ΦωΦ|Hard | 5 |
+|**Hesitant Blade**|NEKO#ΦωΦ|Chaos|11 |
 
 ### Post
 **Sdorica_Official**<br>
@@ -1512,9 +1497,9 @@ Infuse the characters, join the battles.
 
 ## <a id="o4401"/>\[#044\] More of this BS and I'm going to Mono for some actual answers
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 30  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|30 |    No     |
 
 ### Post
 **An0nym0us**<br>
@@ -1551,15 +1536,13 @@ I think that's called "Violation of privacy" my man @皿@
 
 ## <a id="o4501"/>\[#045\] Just got my refund
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 31  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|31 |    No     |
 
 ### Post
 **IronFan**<br>
 Feeling really nice after the refund. Don't really want to follow any idols now. Don't want to see any entertainment news too.
-
-
 ### Replies
 **Dreamer**<br>
 Idol chasing in a Buddhist\-like manner:<br>
@@ -1587,9 +1570,9 @@ Is there anybody left in Showbiz we can get excited about? Cherry?
 
 ## <a id="o4601"/>\[#046\] What kind of retard coded this system
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 32  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|32 |    No     |
 
 ### Post
 **SuduMan**<br>
@@ -1621,9 +1604,9 @@ Is this the ninth circle of refund hell lul WTF XD
 
 ## <a id="o4701"/>\[#047\] F\*\*\* yeah!!!! Eat s\*\*\* stupid dumb admins!!!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 31  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|31 |    No     |
 
 ### Post
 **NekoSamurai**<br>
@@ -1661,9 +1644,9 @@ People there to worship the rebirth of their idol, right?? XD
 
 ## <a id="o4801"/>\[#048\] Real Culprit???
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 32  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|32 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
@@ -1704,15 +1687,13 @@ I can't really tell if they are being sarcastic or they are actually serious com
 
 ## <a id="o4901"/>\[#049\] Feels like the focus has been shifted somehow
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 33  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|33 |    No     |
 
 ### Post
 **Nyd_Ans**<br>
 Much fewer people seem to care about the Æsir event now?
-
-
 ### Replies
 **Axroid_Sona**<br>
 People are more interested in cute female streamers
@@ -1739,9 +1720,9 @@ Don't see too much progress these days on Robohead's page either
 
 ## <a id="o5001"/>\[#050\] Fellas!!!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 35  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|35 |    No     |
 
 ### Post
 **Dreamer**<br>
@@ -1773,9 +1754,9 @@ I wonder if we will get compensastion if we just "pass" by there lol
 
 ## <a id="o5101"/>\[#051\] Isn't this going a bit overboard?
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 37  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|37 |    No     |
 
 ### Post
 **moonin**<br>
@@ -1819,9 +1800,9 @@ TBH, I feel like Mono didn't do anything wrong from start to finish. The only mi
 
 ## <a id="o5201"/>\[#052\] Better not think that this is the end
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 38  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|38 |    No     |
 
 ### Post
 **Fuxkoff**<br>
@@ -1866,9 +1847,9 @@ Maybe a group lawsuit will work?? **\#MonoWillPay**
 
 ## <a id="o5301"/>\[#053\] With all this mess going on, where is PAFF?
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 39  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|39 |    No     |
 
 ### Post
 **SancTityKnight**<br>
@@ -1881,7 +1862,7 @@ Don't you find that to be very odd?
 **Figuring_0UT**<br>
 I also find this to be really odd<br>
 I mean, this is Node 08 after all<br>
-All this advanced surveillance system and stuff, yet still nothing at all? 
+All this advanced surveillance system and stuff, yet still nothing at all?
 
 **Ararar**<br>
 If she has a certain level of camouflage technology then maybe it would be hard to find her (?
@@ -1912,9 +1893,9 @@ Could it be that she has an accomplice?
 
 ## <a id="o5401"/>\[#054\] Feels like some serious s\*\*\* is going down at Mono
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 35  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|35 |    No     |
 
 ### Post
 **Dogleg**<br>
@@ -1960,9 +1941,9 @@ Wanna go check it out later
 
 ## <a id="o5501"/>\[#055\] Feeling p\*\*\*ed after seeing NEKO's stream
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 37  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|37 |    No     |
 
 ### Post
 **JusticeMe**<br>
@@ -1999,14 +1980,14 @@ No comment on this. Had a feeling that nothing good ever happens when Mono is in
 
 ## <a id="o5601"/>\[#056\] I just saw someone trash a car...
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 38  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|38 |    No     |
 
 ### Post
 **Arkman**<br>
 Feels like a lot of freaky people are mixed in the crowd??<br>
-But I don't have the balls to yell "Stop it, you cream puffs"... 
+But I don't have the balls to yell "Stop it, you cream puffs"...
 ### Replies
 **TrojanPony**<br>
 It's practically a gang parade now, isn't it?
@@ -2045,9 +2026,9 @@ Not to mention that they even assaulted an innocent person, not a good look
 
 ## <a id="o5701"/>\[#057\] If I see a famous artist...
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 36  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|36 |    No     |
 
 ### Post
 **NekoSamurai**<br>
@@ -2091,9 +2072,9 @@ Let's see if someone's is actually stupid enough to try (grabs popcorn
 
 ## <a id="o5801"/>\[#058\] A commotion just occured
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 37  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|37 |    No     |
 
 ### Post
 **vikisser**<br>
@@ -2146,9 +2127,9 @@ I see several big men in suits, probably bodyguards, opening a gap in the crowd
 
 ## <a id="o5901"/>\[#059\] Ma! Look! I'm on TV!!!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 38  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|38 |    No     |
 
 ### Post
 **8plusNine**<br>
@@ -2198,9 +2179,9 @@ The admins are about to interfere XDDD Have fun with your pointless moral victor
 
 ## <a id="o6001"/>\[#060\] Can this Mono s\*\*\* fiesta end already?
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 39  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|39 |    No     |
 
 ### Post
 **MustangMartin**<br>
@@ -2243,9 +2224,9 @@ If it's the admins, they might want to deal with this in the most efficient way 
 
 ## <a id="o6101"/>\[#061\] This time we will definitely make them feel our rage
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 41  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|41 |    No     |
 
 ### Post
 **Fuxkoff**<br>
@@ -2301,15 +2282,14 @@ Mono's the one to blame<br>
 
 ## <a id="o6201"/>\[#062\] God this place is crowded\-AF
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 42  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|42 |    No     |
 
 ### Post
 **8plusNine**<br>
 At Mono HQ right now. The crowd is so massive that there is barely any space left. Even more packed than last time.<br>
-The admins are blocking the front doors so folks can't charge in<br>
-
+The admins are blocking the front doors so folks can't charge in
 ### Replies
 **Cybel_Mach**<br>
 Prove it<br>
@@ -2352,16 +2332,13 @@ I still think there is something seriously messed up about this whole situation.
 
 ## <a id="o6301"/>\[#063\] Hey guys, is a post missing from NEKO's feed?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 40  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|40 |    No     |
 
 ### Post
 **Bao**<br>
 I forgot what was it about. Anyone remember?
-
-
-
 ### Replies
 **NEKOSAIKOU**<br>
 "OMGGGGGG! You guys will NOT believe what NEKO just discovered!!! \\(ΦдΦ)/ A really, really, really\~\~\~\~\~ BIG secret!!"<br>
@@ -2394,14 +2371,13 @@ Like, I'm practically numb to any post with "Mono" in the title
 
 ## <a id="o6401"/>\[#064\] OK this is bulls\*\*\*
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 42  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|42 |    No     |
 
 ### Post
 **KiwaHu**<br>
-With each update, the iM UI gets noticably uglier. It's to a point where I can place it in a graveyard and evil spirits will be too scared to even come close to it. I can't take this BS anymore.<br>
-
+With each update, the iM UI gets noticably uglier. It's to a point where I can place it in a graveyard and evil spirits will be too scared to even come close to it. I can't take this BS anymore.
 ### Replies
 **Curo**<br>
 Not just that, the entire cyTus connection has been experiencing constant lag these days...
@@ -2421,9 +2397,9 @@ I mean, it's not like A.R.C. doesn't have talented engineers, right?
 
 ## <a id="o6501"/>\[#065\] New behind the scenes update on Xenon's love triangle!NEKO\#ΦωΦ? Cherry?
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 41  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|41 |    No     |
 
 ### Post
 **Vicky**<br>
@@ -2462,7 +2438,7 @@ Both of you guys are equally gross...
 
 **Copper_stone**<br>
 08 Daily's reports are getting more and more intense<br>
-I approve! Give us more! 
+I approve! Give us more!
 
 **fotoistruth**<br>
 Most importantly, there are always photos attached. Hard evidence right there
@@ -2497,9 +2473,9 @@ Sis Vicky, we can only depend on you!
 
 ## <a id="o6601"/>\[#066\] Maybe we were all too impulsive
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 44  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|44 |    No     |
 
 ### Post
 **HandsomeYi**<br>
@@ -2548,9 +2524,9 @@ Regardless of all this... I'm still so worried about PAFF... Hope we can find he
 
 ## <a id="o6701"/>\[#067\] Requesting witness information regarding PAFF's whereabouts
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 45  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|45 |    No     |
 
 ### Post
 **PaffCheckin**<br>
@@ -2615,14 +2591,13 @@ Seems like everyone is a bit too eager to help us. We'll deal with it right away
 
 ## <a id="o6801"/>\[#068\] iM has been really laggy lately
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 44  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|44 |    No     |
 
 ### Post
 **Brainmania**<br>
-Sometimes the connection just suddenly gets really slow makes me wonder if I unintentionally connected to another Node's internet<br>
-
+Sometimes the connection just suddenly gets really slow makes me wonder if I unintentionally connected to another Node's internet
 ### Replies
 **Brainmania**<br>
 Ah also sometimes when I'm reading articles I get garbled text it's so annoying Is it because my connection device is too dated or is it because the signal interferrence at my work place is too severe
@@ -2650,9 +2625,9 @@ TBH, I experienced that sometimes as well. Maybe the cyTus system is under going
 
 ## <a id="o6901"/>\[#069\] So those drones can actually shoot water streams
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 43  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|43 |    No     |
 
 ### Post
 **Marshall**<br>
@@ -2700,9 +2675,9 @@ Warning issued LUL
 
 ## <a id="o7001"/>\[#070\] Is iM broken?
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 47  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|47 |    No     |
 
 ### Post
 **maplewing**<br>
@@ -2740,9 +2715,9 @@ We've been continually monitoring the connection quality over here. Recently, th
 
 ## <a id="o7101"/>\[#071\] I NEED new gossip on Xenon × Neko\~\~
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 48  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|48 |    No     |
 
 ### Post
 **Go55ip**<br>
@@ -2797,9 +2772,9 @@ X: Make no mistake, I'm saying that everyone else is mine as well
 
 ## <a id="o7201"/>\[#072\] \[Announcement\] Congratulations to ROBO\_Radio\_LIVE for the successful concert
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 49  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|49 |    No     |
 
 ### Post
 **Mono_official**<br>
@@ -2897,9 +2872,9 @@ It was a treat to see her there\~\~
 
 ## <a id="o7301"/>\[#073\] ROBO Radio Live was f\*\*\*\*\*\* awesome
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 50  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|50 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -2944,9 +2919,9 @@ Oh, and I also support **\#XxC**
 
 ## <a id="o7401"/>\[#074\] Alter Ego
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 51  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|51 |    No     |
 
 ### Post
 **Drew**<br>
@@ -2955,9 +2930,9 @@ How should a person define "self"... The only one who knows the answer is, perha
 
 ## <a id="o7501"/>\[#075\] Æsir\-FEST event, 08 Daily exclusive report series Part 4
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 49  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|49 |    No     |
 
 ### Post
 **Vicky**<br>
@@ -3038,9 +3013,9 @@ CP got famous because they were a damn good band, ok? It has nothing to do with 
 
 ## <a id="o7601"/>\[#076\] Did you guys see that news report about Xenon???
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 50  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|50 |    No     |
 
 ### Post
 **Krypton**<br>
@@ -3102,10 +3077,10 @@ Stop reading tasteless paparazzi magazine OK? Your brain is gonna melt and leake
 
 ## <a id="o7701"/>\[#077\] Stop speaking up for that POS
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**NEKO#ΦωΦ** | 49  |
-|**ROBO_Head**| 50  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**NEKO#ΦωΦ** |49 |    No     |
+|**ROBO_Head**|50 |    No     |
 
 ### Post
 **BlackNicholas**<br>
@@ -3175,9 +3150,9 @@ Ride the rhythmic rails in GROOVE COASTER<br>
 
 ## <a id="o7901"/>\[#079\] Solution to iM issues
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 52  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|52 |    No     |
 
 ### Post
 **EvilForce**<br>
@@ -3221,9 +3196,9 @@ Time to switch 5̶́s̸͞҉̸u̶͜j̢̀̀ŗ́͢y̴̢͘͜k҉̵́͟D̷̡́F̵̵́
 
 ## <a id="o8001"/>\[#080\] Time to show off ma new equipment A\_A
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 53  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|53 |    No     |
 
 ### Post
 **CyberLord**<br>
@@ -3269,9 +3244,9 @@ Stupid iM
 
 ## <a id="o8101"/>\[#081\] Encounter
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 54  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|54 |    No     |
 
 ### Post
 **Drew**<br>
@@ -3284,11 +3259,11 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 
 ## <a id="o8401"/>\[#084\] \*\*\* \[Emergency\] System announcement \*\*\*
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **Admin**<br>
@@ -3297,11 +3272,11 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 
 ## <a id="o8501"/>\[#085\] It's fixed!!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **RamenBot**<br>
@@ -3355,11 +3330,11 @@ I'm running dry these days from the lack of everything ARRRR
 
 ## <a id="o8601"/>\[#086\] Boys, I'm backkk!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **KirinKiraKira**<br>
@@ -3397,11 +3372,11 @@ From what I've seen in the past few days, 08's not exactly a safe haven either L
 
 ## <a id="o8701"/>\[#087\] ARC needs to give us a proper explanation
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **9tingale**<br>
@@ -3465,11 +3440,11 @@ Dude you got something??
 
 ## <a id="o8801"/>\[#088\] So... does anyone knows what actually happened
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **SuduMan**<br>
@@ -3522,11 +3497,11 @@ OMG are you a prophet! The news came out. Go watch it now
 
 ## <a id="o8901"/>\[#089\] \[Breaking\] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 ### Post
 **ROBO_Head**<br>
@@ -3660,12 +3635,12 @@ I have several friends who are trashing their albums right now LMFAO
 
 ## <a id="o9001"/>\[#090\] Any idea why such a winner in life would go and commit crimes??
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 56  |
-|**NEKO#ΦωΦ** | 56  |
-|**ROBO_Head**| 56  |
-|**Ivy**      | 29  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |56 |    Yes    |
+|**NEKO#ΦωΦ** |56 |    Yes    |
+|**ROBO_Head**|56 |    Yes    |
+|**Ivy**      |29 |    No     |
 
 ### Post
 **WeskerLam**<br>
@@ -3732,9 +3707,9 @@ Imo, there is definitely still more shady stuff that folks are not saying
 
 ## <a id="o9101"/>\[#091\] \[Repost\] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 57  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|57 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -3773,7 +3748,7 @@ Like the previous incident where she violated her contract, the whole thing bare
 Is this what news are nowadays?? Just a compilation of internet comments??
 
 **NnNn**<br>
-Oh... so this counts as a report? 
+Oh... so this counts as a report?
 
 **JusticeMe**<br>
 Those comments in the end... just how big of a fanboy do you have to be to make such stupid comments? Guess it takes talent to be a fanboy too ROFL
@@ -3806,9 +3781,9 @@ Praise the entertainment media and their ability to turn any minute incidents in
 
 ## <a id="o9201"/>\[#092\] English pronunciation very important
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 57  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|57 |    No     |
 
 ### Post
 **t×pazolite**<br>
@@ -3861,9 +3836,9 @@ Sir, do you have any idea how many people you just p\*\*\*ed off with that last 
 
 ## <a id="o9301"/>\[#093\] Did any one of you suffer damages in this malfunction incident?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 57  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|57 |    No     |
 
 ### Post
 **9tingale**<br>
@@ -3951,9 +3926,9 @@ Maybe not now, as I bet they are currently in complete chaos trying to handle al
 
 ## <a id="o9401"/>\[#094\] Nuff said. Engage Meme
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 57  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|57 |    No     |
 
 ### Post
 **MasterMeme**<br>
@@ -3985,7 +3960,7 @@ I would gladly have a sniff of whatever the heck JOE is on. Pretty please??
 
 **JOEZ Cafe**<br>
 Dafuq I was wondering what happened and why I'm getting so many reposts...<br>
-Where in living gods' name did you people get material for this crap!!!?? 
+Where in living gods' name did you people get material for this crap!!!??
 
 **Shibawu**<br>
 Oh, hey look, it's the memelord himself XDDDDDDD
@@ -4019,9 +3994,9 @@ Owner, quick! This is the golden opportunity to insert your promotions!
 
 ## <a id="o9501"/>\[#095\] \[Repost\] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 57  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|57 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -4077,9 +4052,9 @@ Anonymous source... Unless a proper source is named, nobody's gonna believe this
 
 ## <a id="o9601"/>\[#096\] Xenon you better give us a goddamn explanation
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 58  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|58 |    No     |
 
 ### Post
 **AngryMan**<br>
@@ -4135,9 +4110,9 @@ How the f\*\*\* is he going to talk back you idiot lol
 
 ## <a id="o9701"/>\[#097\] \[Repost\] A.R.C. exploration team founding member Colin Neumann passes away
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 58  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|58 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -4216,9 +4191,9 @@ The first few comments are so freakin cringeworthy ROFL
 
 ## <a id="o9801"/>\[#098\] My turn to stream again!! Let's play GOW!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 59  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|59 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
@@ -4288,9 +4263,9 @@ This game creates some serious inner conflicts when you are playing through it X
 
 ## <a id="o9901"/>\[#099\] Betting time\~\~\~ What will happen to Xenon at the end of all this???
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 60  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|60 |    No     |
 
 ### Post
 **Watch_Burn**<br>
@@ -4361,9 +4336,9 @@ Possibility of folks breaking him out to perform lynching (?
 
 ## <a id="q0101"/>\[#101\] Is it just me, or does someone else also feel like Æsir is a legendary performance artist?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 61  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|61 |    No     |
 
 ### Post
 **ShrimpBye**<br>
@@ -4440,9 +4415,9 @@ I'm also a performance artist. I oversleep and is late for school every day. I u
 
 ## <a id="q0201"/>\[#102\] Battle Royale game recommendation
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 62  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|62 |    No     |
 
 ### Post
 **NnNn**<br>
@@ -4494,11 +4469,11 @@ All this discussion yet not a single actual recommendation in this thread dafuq 
 
 ## <a id="q0301"/>\[#103\] \[BREAKING\] I think I just witness something pretty freakin major!!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 58  |
-|**NEKO#ΦωΦ** | 63  |
-|**ROBO_Head**| 58  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |58 |    Yes    |
+|**NEKO#ΦωΦ** |63 |    Yes    |
+|**ROBO_Head**|58 |    Yes    |
 
 ### Post
 **Witne_SS**<br>
@@ -4595,9 +4570,9 @@ This post is gonna blow up in no time. Finally, some new stuff for the media
 
 ## <a id="q0401"/>\[#104\] Where's Robo?
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 58  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|58 |    No     |
 
 ### Post
 **Snor_eDen**<br>
@@ -4649,9 +4624,9 @@ I feel like it could be because a cockroach fell into his joints!
 
 ## <a id="q0501"/>\[#105\] \[Repost\] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 59  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|59 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -4719,9 +4694,9 @@ What's the point of locking them up if they can break out just like that??
 
 ## <a id="q0601"/>\[#106\] See, told ya guys
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 61  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|61 |    No     |
 
 ### Post
 **SIhama**<br>
@@ -4767,9 +4742,9 @@ What is this soap opera nonsense\~ Who wrote this crap!
 
 ## <a id="q0701"/>\[#107\] What just happened...
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 63  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|63 |    No     |
 
 ### Post
 **CHanatsuka**<br>
@@ -4833,9 +4808,9 @@ Come on\~\~\~ What year is it that we still have people scared of that nonsense?
 
 ## <a id="q0801"/>\[#108\] Holy F\*\*\* is this news real!!!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 64  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|64 |    No     |
 
 ### Post
 **PoolsKitten**<br>
@@ -4885,9 +4860,9 @@ Where did the witness report originate? Can someone confirm it for us? I feel li
 
 ## <a id="q0901"/>\[#109\] PAFF IS FOUND!!!!!!!!!!!!!!!!!!!!!!!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 66  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|66 |    No     |
 
 ### Post
 **iluvpuf**<br>
@@ -4939,9 +4914,9 @@ Xenon and ConneR's pairing (ship?) does indeed have quite the following XDDDDDD 
 
 ## <a id="q1001"/>\[#110\] \[Breaking\] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 67  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|67 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -5084,7 +5059,7 @@ MIKU! MIKU! MIKU!
 
 **Noposa**<br>
 Don't you weebs dare look down on our NEKO!<br>
-She earned everything with her true skillz!! 
+She earned everything with her true skillz!!
 
 **HandsomeYi**<br>
 Wow a NEKO fan calling someone else a weeb... Look in the mirror first, will ya??<br>
@@ -5119,9 +5094,9 @@ Tickets almost sold out. Countdown to the event starts soon!
 
 ## <a id="q1401"/>\[#114\] W\-T\-F!!!! What am I gonna do with this mountain\~\~\~\~
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 59  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|59 |    No     |
 
 ### Post
 **JOEZ Cafe**<br>
@@ -5177,9 +5152,9 @@ Can't you ask for a refund...
 
 ## <a id="q1501"/>\[#115\] B... Birds?
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 61  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|61 |    No     |
 
 ### Post
 **NotinClass**<br>
@@ -5218,9 +5193,9 @@ Get the f\*\*\* out of there! I heard they started attacking people!!!
 
 ## <a id="q1601"/>\[#116\] \[Breaking\] Drone attacks reported in Node 08
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 62  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|62 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -5305,9 +5280,9 @@ Folks, do not overreact to false information. The emergency news reports are jus
 
 ## <a id="q1701"/>\[#117\] SOS!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 63  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|63 |    No     |
 
 ### Post
 **NnNn**<br>
@@ -5351,9 +5326,9 @@ You're made of flesh. Those drones are metal machines. OP, don't do anything stu
 
 ## <a id="q1801"/>\[#118\] Lightspeed the Capybara
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 64  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|64 |    No     |
 
 ### Post
 **Curo**<br>
@@ -5408,9 +5383,9 @@ Have this many malfunctions ever happened simultaneously before????
 
 ## <a id="q1901"/>\[#119\] Who's behind this??
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 65  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|65 |    No     |
 
 ### Post
 **Go55ip**<br>
@@ -5466,9 +5441,9 @@ You should be worrying about yourself first!!!
 
 ## <a id="q2001"/>\[#120\] PAFF is home now. Reporting her safety and an apology
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 72  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|72 |    No     |
 
 ### Post
 **Helena**<br>
@@ -5497,7 +5472,7 @@ Why does the video look fake? Is it really her?
 When the witness rumors began to circulate, I was wondering when are they going to make the announcement
 
 **m00nl16h7**<br>
-Is one of the trustworthy friends NEKO LOL  
+Is one of the trustworthy friends NEKO LOL
 
 **Ararar**<br>
 Quick! Figure out where she is from the background! Doesnt look like 08
@@ -5578,9 +5553,9 @@ Its so great to hear that she's fine after all this
 
 ## <a id="q2101"/>\[#121\] Uh... umm... so, where should I go and hide?
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 72  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|72 |    No     |
 
 ### Post
 **KingOtaku**<br>
@@ -5626,9 +5601,9 @@ I think the OP has already given up on that idea
 
 ## <a id="q2201"/>\[#122\] Does any\~ one\~ know where NEKO is at now??\~\~
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 66  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|66 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -5744,9 +5719,9 @@ Can you help me get her autograph? I'll pay good monay for it!
 
 ## <a id="q2301"/>\[#123\] Anybody know what the final passcode for See2 is?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 66  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|66 |    No     |
 
 ### Post
 **Hulujam**<br>
@@ -5816,9 +5791,9 @@ I pronounce it "See2: US".
 
 ## <a id="q2401"/>\[#124\] \[Repost\] Administration Bureau holds press conference in response to recent drone incidents
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 66  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|66 |    No     |
 
 ### Post
 **Andy_Roid**<br>
@@ -5866,9 +5841,9 @@ The Law Enforcement Agents really got it tough 0rz. No wonder my dad doesn't wan
 
 ## <a id="q2501"/>\[#125\] \[Repost\] Large\-scale drone attacks occurred in Node 08, Quadrant II
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 66  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|66 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -5930,9 +5905,9 @@ Is it normal for the sounds of explosions to sound like an earthquake...?
 
 ## <a id="q2601"/>\[#126\] \[Repost\] Node 08 Quadrant II suffered devastating drone attack
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 67  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|67 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -6004,9 +5979,9 @@ A final toast for the owner!
 
 ## <a id="q2701"/>\[#127\] HEY Y'all! I'm still alive!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 67  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|67 |    No     |
 
 ### Post
 **JOEZ Cafe**<br>
@@ -6074,9 +6049,9 @@ I can already see the dank memes coming out of this
 
 ## <a id="q2801"/>\[#128\] How to counter drones 101
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 73  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|73 |    No     |
 
 ### Post
 **KiwaHu**<br>
@@ -6122,7 +6097,7 @@ Step 2: Explode it over some bar owner's face<br>
 Step 3: Profit
 
 **Gearz_Igo**<br>
-Nope, NOPE. Can't do it 
+Nope, NOPE. Can't do it
 
 **ArupakaKUN**<br>
 Not gonna lie, it really does make you look like you're dead lul
@@ -6138,9 +6113,9 @@ Somebody should tag him
 
 ## <a id="q2901"/>\[#129\] Let's test and see how everyone reacts when they see a drone now lolololol
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 67  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|67 |    No     |
 
 ### Post
 **UltraKY**<br>
@@ -6217,12 +6192,12 @@ I hope natural selection disqualifies you from the ranks of human
 
 ## <a id="q3001"/>\[#130\] Did a quick scan of the more well\-known services on cyTus these days
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**PAFF**        | 74  |
-|**NEKO#ΦωΦ**    | 68  |
-|**ROBO_Head**   | 68  |
-|**Crystal PuNK**| 24  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**PAFF**        |74 |    Yes    |
+|**NEKO#ΦωΦ**    |68 |    Yes    |
+|**ROBO_Head**   |68 |    Yes    |
+|**Crystal PuNK**|24 |    Yes    |
 
 ### Post
 **Henry**<br>
@@ -6272,9 +6247,9 @@ I don't think we can expect iM to get any better anytime soon lul
 
 ## <a id="q3101"/>\[#131\] Something we must tell everyone
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 74  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|74 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -6293,8 +6268,6 @@ Cherry PuNK<br>
 LUMY<br>
 Frank<br>
 Dannis
-
-
 
 ![q3101.png](./attachments/q3101.png)
 ### Replies
@@ -6345,7 +6318,7 @@ Everything was fine until it wasn't
 WTF?
 
 **Shibawu**<br>
-The news has been confirmed... I think it's true...alas :( 
+The news has been confirmed... I think it's true...alas :(
 
 **LoriyaCamper**<br>
 **\#RIPCherry**
@@ -6382,9 +6355,9 @@ I thought I could watch Cherry become even more popular for decades to come QAQ 
 
 ## <a id="q3201"/>\[#132\] Thousands of fans gathered on iM to mourn the passing of Cherry PuNK vocalist Sherry Pauline
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 68  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|68 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -6419,7 +6392,7 @@ Unacceptable. Reality is so cruel.
 My heart goes out to other team members at this sad time. It's definitely a hard time for them.
 
 **CyberLord**<br>
-Why didn't the hero Xenon come to save the beauty Cherry this time QAQ 
+Why didn't the hero Xenon come to save the beauty Cherry this time QAQ
 
 **noneXenon**<br>
 If Cherry had Xenon's protection, then this tragedy wouldn't happen, right?
@@ -6444,9 +6417,9 @@ Don't know if the missing Xenon knows about this.....
 
 ## <a id="q3301"/>\[#133\] I'm sorry, I can't...
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 68  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|68 |    No     |
 
 ### Post
 **maplewing**<br>
@@ -6474,15 +6447,15 @@ Cherry is such a total mystery, from the beginning to the end
 Farewell to the girl with the graceful voice
 
 **lenba**<br>
-I am Cherry's fan from her time at Crystal. I've felt empty ever since I heard the news... 
+I am Cherry's fan from her time at Crystal. I've felt empty ever since I heard the news...
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="q3401"/>\[#134\] I have lots of questions...
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 68  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|68 |    No     |
 
 ### Post
 **Gogossip**<br>
@@ -6500,7 +6473,7 @@ Could he know something or, maybe this whole thing it's related to him in the fi
 
 **Gogossip**<br>
 Question 3. The band's post said that it was an accident;<br>
-however, if it's an accident in public, there should be news or a report of some kind. Is it an accident that cannot be divulged? 
+however, if it's an accident in public, there should be news or a report of some kind. Is it an accident that cannot be divulged?
 
 **888fans**<br>
 It certainly is indeed a bit ambiguous...
@@ -6537,9 +6510,9 @@ Are conspiracy theorists all a little anti\-social?
 
 ## <a id="q3501"/>\[#135\] Hey...
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 68  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|68 |    No     |
 
 ### Post
 **Joe**<br>
@@ -6608,16 +6581,13 @@ Crystal Punk Forever<br>
 
 ## <a id="q3601"/>\[#136\] Ummm, about that...
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 69  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|69 |    No     |
 
 ### Post
 **MustangMartin**<br>
 Seems that there's no sounds outside, yeah?
-
-
-
 ### Replies
 **Talus_Alpha**<br>
 Feels like the chaos suddenly stopped
@@ -6677,9 +6647,9 @@ It was just holding a disinfectant and tried to poison me!!!
 
 ## <a id="q3701"/>\[#137\] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 69  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|69 |    No     |
 
 ### Post
 **Flower_Head**<br>
@@ -6736,9 +6706,9 @@ They might suddenly start to smash your face in...
 
 ## <a id="q3801"/>\[#138\] What's the point of keeping military drones in service??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 75  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|75 |    No     |
 
 ### Post
 **WhiteEYE33**<br>
@@ -6792,9 +6762,9 @@ Dude, who the heck did you hear that from?
 
 ## <a id="q3901"/>\[#139\] \[Streaming Notification: MO: Astray @21:00 \]
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 69  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|69 |    No     |
 
 ### Post
 **NEKOSAIKOU**<br>
@@ -6804,7 +6774,7 @@ MO: Astray game link: <br>
 [**MO: Astray**](http://short.rayark.com/MOAstray)
 ### Replies
 **MYMYM**<br>
-Wow\~ it's NEKOSAIKOU. Long time no see\~\~ 
+Wow\~ it's NEKOSAIKOU. Long time no see\~\~
 
 **TunaLee**<br>
 Isn't that the production team for project Wo from a long time ago wwwww<br>

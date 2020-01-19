@@ -63,9 +63,9 @@ More music from Xenon, yeah. GL on the job! \\x/
 
 ## <a id="x0201"/>\[#002\] Preparing broadcast for new song.
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  2  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 2 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -86,7 +86,7 @@ It's ok, I think you did a great job on your parts.
 A bummer that we didn't have chance to record a Solo with the optic guitar; been wanting to test its sound.
 
 **Bit_Inex**<br>
-OOHHHH yeah! Awesome song! \\x/ 
+OOHHHH yeah! Awesome song! \\x/
 
 **Fu7ureW0rld**<br>
 This combo feels so weird hahaha
@@ -116,14 +116,14 @@ SOLO is awesome!!
 
 ## <a id="x0301"/>\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  6  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 6 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Body Talk**|  PAFF   |Chaos| 12  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Body Talk**|PAFF |Chaos|12 |
 
 ### Post
 **Xenon**<br>
@@ -141,7 +141,7 @@ That guy doesn't look like a fan to me. Maybe it's mental problems; he seems to 
 
 **Xenon**<br>
 Though Node08 is pretty safe, but stuff like this still happens.<br>
-Though I've seen more maniacs at my performances. 
+Though I've seen more maniacs at my performances.
 
 **w_Rosabel_w**<br>
 The no.1 maniac in your performances is definitely **@NEKO\#ΦωΦ**. Last time, she poured drinks all over Robohead, LMFAO
@@ -182,9 +182,9 @@ PM.
 
 ## <a id="x0401"/>\[#004\] About Æsir\-FEST.
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  7  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 7 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -246,15 +246,13 @@ Node03: Just according to Keikaku!
 
 ## <a id="x0501"/>\[#005\] \[Ticket Request\] One in physical area A for 7th PAFFCON.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  8  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 8 |    No     |
 
 ### Post
 **Xenon**<br>
 Since I was so busy with work I missed the first chance to snap up a ticket. If you know anyone that has an extra ticket please contact me. Thanks.
-
-
 ### Replies
 **Axroid_Sona**<br>
 I only have a ticket for virtual area A, is that OK? Get a bit sick every time I attend a virtual concert since Æsir\-FEST, so would like to sell my virtual ticket
@@ -266,7 +264,7 @@ If I still can't get anything until next week I'll buy your virtual ticket. Stil
 I only have one for area C
 
 **Xenon**<br>
-Area C's location is terrible, so not an option right now. Thank you. 
+Area C's location is terrible, so not an option right now. Thank you.
 
 **NEKO#ΦωΦ**<br>
 EHH shocked Xenon wants to go to PAFF's concert don't go. If you have a holiday, come and have fun with NEKO PLZ!! (ΦˋдˊΦ)
@@ -296,13 +294,13 @@ NEKO said it before, don't want to repeat! I just don't like her!! (ΦˋдˊΦ)
 NEKO will have a physical event as well and you all have to come (ΦˋдˊΦ)
 
 **Xenon**<br>
-I had a Jam session on your stream just a while ago. You threw our practice right out the window and went completely off track. 
+I had a Jam session on your stream just a while ago. You threw our practice right out the window and went completely off track.
 
 **NEKO#ΦωΦ**<br>
 Teehee (
 
 **Xenon**<br>
-"Teehee" my ass. 
+"Teehee" my ass.
 
 **NEKO#ΦωΦ**<br>
 Then I'll collab with **@ROBO\_Head** next time! (ΦωΦ)
@@ -314,9 +312,9 @@ NEKO\#ΦωΦ's mixtape logic this Unit can't analyze.：l
 
 ## <a id="x0601"/>\[#006\] About Xenon and this iM account.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 12  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|12 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -326,7 +324,7 @@ The reason I didn't use the official account for promotion is simple; because I 
 
 If the music I write in my spare time, be it happy, angry or touching music, can resonate with some people, that will be the biggest comfort in my life. 
 
-Quite a few of you may know that I work at A.R.C. as an IT, but I would like to keep this account free from my work stuff. This place is just for music. 
+Quite a few of you may know that I work at A.R.C. as an IT, but I would like to keep this account free from my work stuff. This place is just for music.
 ### Replies
 **JOE**<br>
 Isn't having milk in my shop your biggest comfort in life?
@@ -335,7 +333,7 @@ Isn't having milk in my shop your biggest comfort in life?
 What's wrong with ordering milk at a bar?
 
 **noneXenon**<br>
-Loved Xenon's music GL on your job \\x/ 
+Loved Xenon's music GL on your job \\x/
 
 **lenba**<br>
 Loved you guys' songs, been listening since Cystal PuNK so sad that it's now gone QQ
@@ -362,10 +360,10 @@ All past glory. I'm too old for this now haha
 Xenon doesn't seem to like talking about the ex\-band QwQ
 
 **Xenon**<br>
-Don't actively avoid it, just felt like it was too long ago. 
+Don't actively avoid it, just felt like it was too long ago.
 
 **Xenon**<br>
-Maybe it's because the Bassist is too gross for me to keep playing. 
+Maybe it's because the Bassist is too gross for me to keep playing.
 
 **JOE**<br>
 ...I'm here you know
@@ -377,15 +375,15 @@ XDDDDDD
 Xenon I love you!!!
 
 **xxScarlexx**<br>
-\\x/ \\x/ \\x/ \\x/ 
+\\x/ \\x/ \\x/ \\x/
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="x0701"/>\[#007\] About the optic guitar.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|14 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -395,12 +393,12 @@ The purpose of this post is to inform you guys that a modified version is almost
 
 I fixed the problem of the UI crashing after just 10 minutes of play. The sound quality is enhanced by electromagnetic resonance since this guitar doesn't have a body. Can directly control overtones of over 24kHz so the sound is less stressful for the ears. It can simulate body and strings made from different materials as well 
 
-All in all, look forward to seeing this baby in my next performance. 
+All in all, look forward to seeing this baby in my next performance.
 
 ![x0701.png](./attachments/x0701.png)
 ### Replies
 **Xenon**<br>
-Oh BTW, some people keep telling me to mass produce this for sale. But I don't have plans for that so give up. 
+Oh BTW, some people keep telling me to mass produce this for sale. But I don't have plans for that so give up.
 
 **JOE**<br>
 Why you're gonna make a huge fortune if you do
@@ -424,7 +422,7 @@ The pride of Node08! \\x/
 NEKO want to play with it as well!!! (ΦˋдˊΦ)
 
 **Xenon**<br>
-...Return the Bass to me first will ya? You are not practicing at all. 
+...Return the Bass to me first will ya? You are not practicing at all.
 
 **NEKO#ΦωΦ**<br>
 I am!!! It's just there're too many new games recently!!.<br>
@@ -461,9 +459,9 @@ JOE close that JOEZ Cafe and make a comeback!
 
 ## <a id="x0801"/>\[#008\] My band members.
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 16  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|16 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -487,7 +485,7 @@ Already knew that!
 NERD! Can the robots match my skills?
 
 **Xenon**<br>
-Yes. 
+Yes.
 
 **D33M0**<br>
 Roasted lol
@@ -541,9 +539,9 @@ You made the other members stand out too much!!! lol
 
 ## <a id="x0901"/>\[#009\] Pray for PAFF.
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 18  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|18 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -607,7 +605,7 @@ Robohead also talks about urban legends?
 Wow, is it some kind of virtual internet virus or a hacker?
 
 **Xenon**<br>
-Not enough clues now, but if I know anything I will make sure to tell everyone. I promise that as both an A.R.C. IT and a PAFF fan. 
+Not enough clues now, but if I know anything I will make sure to tell everyone. I promise that as both an A.R.C. IT and a PAFF fan.
 
 **NEKO#ΦωΦ**<br>
 Sounds reliable but both identities sound so gross... (Φ  ωΦ)
@@ -619,14 +617,14 @@ Sounds reliable but both identities sound so gross... (Φ  ωΦ)
 
 ## <a id="x1001"/>\[#010\] Teaser for new song "Black Hole".
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 21  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|21 |    No     |
 
 ### Post
 **Xenon**<br>
 Dream realized, finally get to collab with **@ROBO\_Head**. ROBO's composing is simply out of this world. <br>
-For the first reveal, it will be a small Live at cyTus virtual space. Those who subscribed will get a notification. 
+For the first reveal, it will be a small Live at cyTus virtual space. Those who subscribed will get a notification.
 
 ![x1001.png](./attachments/x1001.png)
 ### Replies
@@ -634,7 +632,7 @@ For the first reveal, it will be a small Live at cyTus virtual space. Those who 
 Hint: That day this Unit will be in status of: unable to connect. ：(
 
 **Xenon**<br>
-**@ROBO\_Head** Still fixing Æsir\-FEST's data? You've been at it for too long. 
+**@ROBO\_Head** Still fixing Æsir\-FEST's data? You've been at it for too long.
 
 **ROBO_Head**<br>
 Use of "Too long" negative. <br>
@@ -684,9 +682,9 @@ YAAASSSSSSS!!! \\x/\\x/\\x/\\x/\\x/
 
 ## <a id="x1101"/>\[#011\] Virtual space performance is very successful. 
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 21  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|21 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -699,13 +697,13 @@ It feels great to be able to share music with everybody in my spare time. See yo
 ![x1101.png](./attachments/x1101.png)
 ### Replies
 **Bit_Inex**<br>
-\\x/ \\x/ \\x/ \\x/ \\x/ \\x/ 
+\\x/ \\x/ \\x/ \\x/ \\x/ \\x/
 
 **JOE**<br>
 Damn you didn't miss a single note in your Solo. Was looking forward to seeing you mess up haha
 
 **Xenon**<br>
-That part took some tedious practice, made it way too hard. 
+That part took some tedious practice, made it way too hard.
 
 **Wrinkleheart**<br>
 you stole **@ROBO\_Head**'s emoticon lololol
@@ -717,7 +715,7 @@ This Unit analyze emoticon to be imitation. ：l
 You're seeing things. ：l
 
 **xxScarlexx**<br>
-\\x/ \\x/ \\x/ \\x/ 
+\\x/ \\x/ \\x/ \\x/
 
 **noneXenon**<br>
 The performance was fantastic! Xenon is awesome! \\x/
@@ -732,7 +730,7 @@ EHHHHHHH!!! WHHYYY!??? NEKO is also a subscriber!!! Why didn't you invite MEEEEE
 That's in the afternoonnnnnggghhhhh!!!!  (╬ΦдΦ)
 
 **JOE**<br>
-Haha, seriously you two go get married will ya 
+Haha, seriously you two go get married will ya
 
 **Xenon**<br>
 Dumbass.
@@ -763,10 +761,10 @@ The new song is really good!!!
 
 ## <a id="x1201"/>\[#012\] Please Calm Down.
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 28  |
-|**ROBO_Head**| 28  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |28 |    No     |
+|**ROBO_Head**|28 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -865,9 +863,9 @@ Someone send help. It's only been days, but the lack of NEKO streams are killing
 
 ## <a id="x1301"/>\[#013\] Some things must be stated clearly
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 32  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|32 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -881,7 +879,7 @@ First of all, NEKO's release is a legal procedure based entirely on the independ
 
 Second, my personal relationship situation is not what was made up in the report. Regarding the two females who were present on\-site that day, we are merely good friends right now. 
 
-I hope that some media outlets can be aware of the quality of their reports and follow basic journalism ethics. This type of rumor\-mongering should not be allowed in the future. 
+I hope that some media outlets can be aware of the quality of their reports and follow basic journalism ethics. This type of rumor\-mongering should not be allowed in the future.
 ### Replies
 **TreeNoAlice**<br>
 I'm with you!! I was super p\*\*\*ed as well when I read that article; it's a load of BS
@@ -952,9 +950,9 @@ Should we boycott these terrible reports（￣へ￣）
 
 ## <a id="x1401"/>\[#014\] Listen, all of you
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 37  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|37 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -1041,9 +1039,9 @@ You shouldn’t take retards who trust info from stupid gossip magazines serious
 
 ## <a id="x1501"/>\[#015\] It felt like forever since I last picked up the guitar.
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 48  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|48 |    No     |
 
 ### Post
 **Xenon**<br>
@@ -1103,16 +1101,15 @@ Thanks. I will if I have the time.
 
 ## <a id="x1601"/>\[#016\] 　　　　　　　　　　
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 54  |
-|**NEKO#ΦωΦ** | 54  |
-|**ROBO_Head**| 54  |
-|**Ivy**      | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |54 |    Yes    |
+|**NEKO#ΦωΦ** |54 |    Yes    |
+|**ROBO_Head**|54 |    Yes    |
+|**Ivy**      |24 |    Yes    |
 
 ### Post
 **Xenon**<br>
- <br>
 
 [*(Click here to go back to the top)*](#toc)
 

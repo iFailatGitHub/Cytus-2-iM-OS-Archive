@@ -115,9 +115,9 @@ _\[Replay Ends\]_
 
 ## <a id="xos002"/>\[#002\] Cam\_Cafe\_702\_06\_28
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Fighting**|  Xenon  |Easy |  2  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Fighting**|Xenon|Easy | 2 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -200,14 +200,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos003"/>\[#003\] Audio\_Arc\_702\_06\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  2  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 2 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Fighting**|  Xenon  |Hard |  7  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Fighting**|Xenon|Hard | 7 |
 
 ### Log Content
 **[Broadcast]**<br>
@@ -291,9 +291,9 @@ _\[Replay Ends\]_
 
 ## <a id="xos004"/>\[#004\] Call\_Xenon\_702\_07\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  3  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 3 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -368,14 +368,14 @@ _\[Call Ends\]_
 
 ## <a id="xos005"/>\[#005\] Cam\_Arc\_702\_07\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  4  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 4 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**To the Light**|  Xenon  |Easy |  4  |
+|      Song      |Char.|Diff.|Lv.|
+|----------------|:---:|:---:|:-:|
+|**To the Light**|Xenon|Easy | 4 |
 
 ### Log Content
 ![xos0501.png](./attachments/xos0501.png)
@@ -436,14 +436,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos006"/>\[#006\] Mail\_Xenon\_702\_07\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  5  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 5 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**To the Light**|  Xenon  |Hard |  8  |
+|      Song      |Char.|Diff.|Lv.|
+|----------------|:---:|:---:|:-:|
+|**To the Light**|Xenon|Hard | 8 |
 
 ### Log Content
 **Subj.**: Investigation of initiation error records<br>
@@ -471,14 +471,14 @@ Report Ends
 
 ## <a id="xos007"/>\[#007\] Cam\_Arc\_702\_07\_10
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  6  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 6 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Fighting**|  Xenon  |Chaos| 11  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Fighting**|Xenon|Chaos|11 |
 
 ### Log Content
 ![xos0701.png](./attachments/xos0701.png)
@@ -544,14 +544,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos008"/>\[#008\] Cam\_Arc\_702\_07\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  7  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 7 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**To the Light**|  Xenon  |Chaos| 12  |
+|      Song      |Char.|Diff.|Lv.|
+|----------------|:---:|:---:|:-:|
+|**To the Light**|Xenon|Chaos|12 |
 
 ### Log Content
 ![xos0801.png](./attachments/xos0801.png)
@@ -616,14 +616,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos009"/>\[#009\] Cam\_Arc\_702\_07\_21
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  8  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 8 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Phantom Razor**|  Xenon  |Easy |  4  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Phantom Razor**|Xenon|Easy | 4 |
 
 ### Log Content
 **Davis**<br>
@@ -681,14 +681,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos010"/>\[#010\] Cam\_Arc\_702\_07\_22
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**|  9  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 9 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Phantom Razor**|  Xenon  |Hard |  8  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Phantom Razor**|Xenon|Hard | 8 |
 
 ### Log Content
 ![xos1001.png](./attachments/xos1001.png)
@@ -741,14 +741,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos011"/>\[#011\] Cam\_Arc\_702\_07\_24
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 10  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|10 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Black Hole**|  Xenon  |Easy |  2  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Black Hole**|Xenon|Easy | 2 |
 
 ### Log Content
 ![xos1101.png](./attachments/xos1101.png)
@@ -820,14 +820,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos012"/>\[#012\] Mail\_Xenon\_702\_07\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 11  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|11 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Black Hole**|  Xenon  |Hard |  4  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Black Hole**|Xenon|Hard | 4 |
 
 ### Log Content
 **Subj.**: Investigation of abnormal data flow and electrical overload<br>
@@ -857,9 +857,9 @@ Report Ends
 
 ## <a id="xos013"/>\[#013\] Audio\_Arc\_702\_07\_28\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 12  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|12 |    No     |
 
 ### Log Content
 **Davis**<br>
@@ -922,14 +922,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos014"/>\[#014\] Audio\_Arc\_702\_07\_28\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 13  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|13 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Black Hole**|  Xenon  |Chaos| 10  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Black Hole**|Xenon|Chaos|10 |
 
 ### Log Content
 **Xenon**<br>
@@ -997,14 +997,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos015"/>\[#015\] Mail\_Xenon\_702\_08\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 14  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|14 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**SAMURAI**|  Xenon  |Easy |  4  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**SAMURAI**|Xenon|Easy | 4 |
 
 ### Log Content
 **Subj.**: Your request has being denied due to violation of protocol<br>
@@ -1033,14 +1033,14 @@ Report Ends
 
 ## <a id="xos016"/>\[#016\] Call\_Xenon\_702\_08\_10
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 15  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|15 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**SAMURAI**|  Xenon  |Hard |  9  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**SAMURAI**|Xenon|Hard | 9 |
 
 ### Log Content
 **Xenon**<br>
@@ -1112,9 +1112,9 @@ _\[Call Ends\]_
 
 ## <a id="xos017"/>\[#017\] Mail\_Xenon\_702\_08\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 16  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|16 |    No     |
 
 ### Log Content
 **Subj.**: Black Hole Track Log<br>
@@ -1136,14 +1136,14 @@ Sound\_701\_08\_12\_18\_36\_46\_764……100%
 
 ## <a id="xos018"/>\[#018\] Cam\_Xenon\_702\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 17  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|17 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**SAMURAI**|  Xenon  |Chaos| 13  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**SAMURAI**|Xenon|Chaos|13 |
 
 ### Log Content
 *\[Spray Paint\]*
@@ -1209,9 +1209,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos019"/>\[#019\] Mail\_Xenon\_702\_08\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 18  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|18 |    No     |
 
 ### Log Content
 **Subj.**: Photos and Mixing<br>
@@ -1231,9 +1231,9 @@ The mixing is finished as well. The virtual sound field's recording quality is p
 
 ## <a id="xos020"/>\[#020\] Cam\_Cafe\_702\_08\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 19  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|19 |    No     |
 
 ### Log Content
 ![xos2002.png](./attachments/xos2002.png)
@@ -1340,14 +1340,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos021"/>\[#021\] Mail\_Xenon\_702\_08\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 20  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|20 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Phantom Razor**|  Xenon  |Chaos| 13  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Phantom Razor**|Xenon|Chaos|13 |
 
 ### Log Content
 **Subj.**: Report on reverse tracking of target's connecting location<br>
@@ -1376,14 +1376,14 @@ Report Ends
 
 ## <a id="xos022"/>\[#022\] Cam\_Cafe\_702\_08\_24
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 21  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|21 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**IOLITE-SUNSTONE**|  Xenon  |Easy |  3  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**IOLITE-SUNSTONE**|Xenon|Easy | 3 |
 
 ### Log Content
 ![xos2302.png](./attachments/xos2302.png)
@@ -1472,14 +1472,14 @@ _\[Replay Ends\]_
 
 ## <a id="xos023"/>\[#023\] Mail\_Xenon\_702\_08\_23
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 22  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|22 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**IOLITE-SUNSTONE**|  Xenon  |Hard |  7  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**IOLITE-SUNSTONE**|Xenon|Hard | 7 |
 
 ### Log Content
 **Subj.**: Medium scale abnormal data flow and electrical overload<br>
@@ -1508,14 +1508,14 @@ Report Ends
 
 ## <a id="xos024"/>\[#024\] Audio\_Arc\_702\_08\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 23  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|23 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**IOLITE-SUNSTONE**|  Xenon  |Chaos| 11  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**IOLITE-SUNSTONE**|Xenon|Chaos|11 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1592,13 +1592,13 @@ _\[Replay Ends\]_
 
 ## <a id="xos025"/>\[#025\] Mail\_Xenon\_702\_08\_30
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**Xenon**    | 24  |
-|**ConneR**   | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
+|**Xenon**    |24 |    No     |
+|**ConneR**   |24 |    No     |
 
 ### Log Content
 **Subj.**: Captured footage of target<br>
@@ -1629,9 +1629,9 @@ Report Ends
 
 ## <a id="xos026"/>\[#026\] Cam11\_St07\_702\_09\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 25  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|25 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -1710,9 +1710,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos027"/>\[#027\] Audio\_Graveyard\_702\_09\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 26  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|26 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -1751,9 +1751,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos028"/>\[#028\] Audio\_Cafe\_702\_09\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 27  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|27 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -1895,9 +1895,9 @@ Let's... cut to the chase. Follow me; I have something to show you.
 
 ## <a id="xos029"/>\[#029\] Audio\_Arc\_702\_10\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 28  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|28 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -1989,9 +1989,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos030"/>\[#030\] Audio\_Arc\_702\_10\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 29  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|29 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2137,9 +2137,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos031"/>\[#031\] Cam\_Arc\_702\_11\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 30  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|30 |    No     |
 
 ### Log Content
 **Davis**<br>
@@ -2202,7 +2202,7 @@ You want to play dumb? If you didn't do anything, why did you run?
 ... Instinctive reaction. It couldn't be that, can it? A while ago, I hacked into the server of your HR department to look for some info... Is it really necessary to deploy armed forces for such a minor incident?
 
 **[Enforcer Drones]**<br>
-_Civilian Simon Jackson, you are under arrest for your crimes as "Prime suspect of the Æsir large\-scale internet attack incident". _
+_Civilian Simon Jackson, you are under arrest for your crimes as "Prime suspect of the Æsir large\-scale internet attack incident"._
 
 **Xenon**<br>
 ......!
@@ -2231,9 +2231,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos032"/>\[#032\] Cam\_08court\_702\_11\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 31  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|31 |    No     |
 
 ### Log Content
 **Agent H**<br>
@@ -2391,9 +2391,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos033"/>\[#033\] Cam\_CArea\_702\_11\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 32  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|32 |    No     |
 
 ### Log Content
 *\[Alarm\]*
@@ -2550,9 +2550,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos034"/>\[#034\] Audio\_CArea\_702\_11\_08\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 32  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|32 |    No     |
 
 ### Log Content
 **[Control System]**<br>
@@ -2640,9 +2640,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos035"/>\[#035\] Audio\_CArea\_702\_11\_08\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 32  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|32 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -2785,9 +2785,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos036"/>\[#036\] Audio\_Port33\_702\_11\_10\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 33  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|33 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -2851,9 +2851,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos037"/>\[#037\] Audio\_Port33\_702\_11\_10\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 33  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|33 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -3005,16 +3005,16 @@ _\[Signal Lost\]_
 
 ## <a id="xos038"/>\[#038\] Cam\_Port33\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 34  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|34 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Karma**|  Xenon  |Easy |  3  |
-|**Karma**|  Xenon  |Hard |  7  |
-|**Karma**|  Xenon  |Chaos| 11  |
+|  Song   |Char.|Diff.|Lv.|
+|---------|:---:|:---:|:-:|
+|**Karma**|Xenon|Easy | 3 |
+|**Karma**|Xenon|Hard | 7 |
+|**Karma**|Xenon|Chaos|11 |
 
 ### Log Content
 **Cherry**<br>
@@ -3183,9 +3183,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos039"/>\[#039\] Multi\_File\_X039
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 35  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|35 |    No     |
 
 ### Log Content
 _\[→Audio\_Kyle\_688\_04\_16\]_
@@ -3366,16 +3366,16 @@ _\[Signal Lost\]_
 
 ## <a id="xos040"/>\[#040\] Multi\_File\_X040
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 36  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|36 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Chosen**|  Xenon  |Easy |  4  |
-|**Chosen**|  Xenon  |Hard |  7  |
-|**Chosen**|  Xenon  |Chaos| 13  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Chosen**|Xenon|Easy | 4 |
+|**Chosen**|Xenon|Hard | 7 |
+|**Chosen**|Xenon|Chaos|13 |
 
 ### Log Content
 _\[→Audio\_Capt.Wood\_688\_05\_01\]_
@@ -3531,9 +3531,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos041"/>\[#041\] Multi\_File\_X041
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 37  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|37 |    No     |
 
 ### Log Content
 _\[→Audio\_Capt.Wood\_690\_04\_02\]_
@@ -3697,9 +3697,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos042"/>\[#042\] Multi\_File\_X042
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 38  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|38 |    No     |
 
 ### Log Content
 _\[→Audio\_Capt.Jackson\_693\_09\_31\]_
@@ -3858,16 +3858,16 @@ _\[Signal Lost\]_
 
 ## <a id="xos043"/>\[#043\] Multi\_File\_X043
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 39  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|39 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Violet**|  Xenon  |Easy |  2  |
-|**Violet**|  Xenon  |Hard |  7  |
-|**Violet**|  Xenon  |Chaos| 14  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Violet**|Xenon|Easy | 2 |
+|**Violet**|Xenon|Hard | 7 |
+|**Violet**|Xenon|Chaos|14 |
 
 ### Log Content
 _\[→Audio\_53St.\_696\_05\_10\]_
@@ -3972,16 +3972,16 @@ _\[Signal Lost\]_
 
 ## <a id="xos044"/>\[#044\] Multi\_File\_X044
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 39  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|39 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Asylum**|  Xenon  |Easy |  3  |
-|**Asylum**|  Xenon  |Hard |  7  |
-|**Asylum**|  Xenon  |Chaos| 12  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Asylum**|Xenon|Easy | 3 |
+|**Asylum**|Xenon|Hard | 7 |
+|**Asylum**|Xenon|Chaos|12 |
 
 ### Log Content
 **????**<br>
@@ -4079,9 +4079,9 @@ _\[Signal Lost\]_
 
 ## <a id="xos045"/>\[#045\] Multi\_File\_X045
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Xenon**| 40  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**|40 |    No     |
 
 ### Log Content
 _\[→Audio\_Hospital01\_696\_05\_10\]_

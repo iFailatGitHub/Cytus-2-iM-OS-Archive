@@ -35,11 +35,11 @@ _\[Signal Lost\]_
 
 ## <a id="mos002"/>\[#002\] Cam01\_MHall\_702\_10\_09
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Ten Thousand Stars**|  Miku   |Easy |  4  |
-|**Ten Thousand Stars**|  Miku   |Hard |  6  |
-|**Ten Thousand Stars**|  Miku   |Chaos| 12  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Ten Thousand Stars**|Miku |Easy | 4 |
+|**Ten Thousand Stars**|Miku |Hard | 6 |
+|**Ten Thousand Stars**|Miku |Chaos|12 |
 
 ### Log Content
 *\[Audience Cheer\]*
@@ -97,9 +97,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos003"/>\[#003\] Cam\_SLab01\_702\_10\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 2 |    No     |
 
 ### Log Content
 ![mos0301.png](./attachments/mos0301.png)
@@ -153,9 +153,9 @@ _\[Close Program\]_
 
 ## <a id="mos004"/>\[#004\] Cam\_Winona03\_702\_10\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 3 |    No     |
 
 ### Log Content
 **Staff A**<br>
@@ -293,9 +293,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos005"/>\[#005\] Audio\_SLab01\_702\_11\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  4  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 4 |    No     |
 
 ### Log Content
 **[TV]**<br>
@@ -426,16 +426,16 @@ _\[Signal Lost\]_
 
 ## <a id="mos006"/>\[#006\] ???\_???\_??\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 5 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Glass Wall**|  Miku   |Easy |  2  |
-|**Glass Wall**|  Miku   |Hard |  6  |
-|**Glass Wall**|  Miku   |Chaos| 11  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Glass Wall**|Miku |Easy | 2 |
+|**Glass Wall**|Miku |Hard | 6 |
+|**Glass Wall**|Miku |Chaos|11 |
 
 ### Log Content
 **Miku**<br>
@@ -481,9 +481,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos007"/>\[#007\] ???\_???\_??\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 5 |    No     |
 
 ### Log Content
 **Miku**<br>
@@ -637,16 +637,16 @@ _\[Signal Lost\]_
 
 ## <a id="mos008"/>\[#008\] Cam\_SLab03\_702\_11\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  6  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 6 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Cybernetic**|  Miku   |Easy |  3  |
-|**Cybernetic**|  Miku   |Hard |  7  |
-|**Cybernetic**|  Miku   |Chaos| 12  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Cybernetic**|Miku |Easy | 3 |
+|**Cybernetic**|Miku |Hard | 7 |
+|**Cybernetic**|Miku |Chaos|12 |
 
 ### Log Content
 *\[Projection\]*
@@ -822,9 +822,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos009"/>\[#009\] Audio\_SLab03\_702\_11\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  7  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 7 |    No     |
 
 ### Log Content
 **Miku**<br>
@@ -973,9 +973,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos010"/>\[#010\] Audio\_Itsuki\_702\_11\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  8  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 8 |    No     |
 
 ### Log Content
 **[Saito]**<br>
@@ -1115,9 +1115,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos011"/>\[#011\] Cam\_SLab03\_702\_11\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** |  9  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 9 |    No     |
 
 ### Log Content
 **Miku**<br>
@@ -1279,9 +1279,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos012"/>\[#012\] Audio\_Saito\_702\_11\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** | 10  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**|10 |    No     |
 
 ### Log Content
 *\[Slams desk\]*
@@ -1361,9 +1361,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos013"/>\[#013\] Cam27\_MHall\_702\_11\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** | 11  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**|11 |    No     |
 
 ### Log Content
 *\[Opens lock\]*
@@ -1447,16 +1447,16 @@ _\[Signal Lost\]_
 
 ## <a id="mos014"/>\[#014\] Cam01\_MHall\_702\_11\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** | 12  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**|12 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Decade**|  Miku   |Easy |  3  |
-|**Decade**|  Miku   |Hard |  6  |
-|**Decade**|  Miku   |Chaos|  9  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Decade**|Miku |Easy | 3 |
+|**Decade**|Miku |Hard | 6 |
+|**Decade**|Miku |Chaos| 9 |
 
 ### Log Content
 ![mos1402.png](./attachments/mos1402.png)
@@ -1534,9 +1534,9 @@ _\[Signal Lost\]_
 
 ## <a id="mos015"/>\[#015\] Cam\_SLab03\_702\_12\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** | 13  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**|13 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1640,19 +1640,19 @@ _\[Signal Lost\]_
 
 ## <a id="mos016"/>\[#016\] Log\_Miku\_702\_11\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Miku** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**|14 |    No     |
 
 ### Command Code
 The command code is `390239`.
 
 ### Unlocked Charts
-|             Song              |Character|Diff.|Level|
-|-------------------------------|:-------:|:---:|:---:|
-|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Easy |  4  |
-|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Hard |  7  |
-|**ラッキー☆オーブ (3R2 Remix)**|  Miku   |Chaos| 11  |
+|             Song              |Char.|Diff.|Lv.|
+|-------------------------------|:---:|:---:|:-:|
+|**ラッキー☆オーブ (3R2 Remix)**|Miku |Easy | 4 |
+|**ラッキー☆オーブ (3R2 Remix)**|Miku |Hard | 7 |
+|**ラッキー☆オーブ (3R2 Remix)**|Miku |Chaos|11 |
 
 ### Log Content
 Ah... ah? Can you hear me? I think it's working? Mr. Furuhata, I originally planned to leave a projection message for you in the interactive UI, but it seems that my image functions just couldn't do that anymore. However, at the end of everything, there are still some things I want to say to you while I still have my voice. I'm really sorry for willfully changing the performance; I wasn't able to finish my last song either. I let you down... Despite that, seeing the entire audience so touched... To have that as my last performance made me really, really happy. Perhaps the latest version has already replaced me perfectly and has continued to bring everyone strength. Nevertheless, I feel very satisfied for being able to spend my days pursuing my dream. I understand that my feelings of wanting to pursue a dream is preprogrammed by Mr. Furuhata. Despite that, I still feel very happy throughout this process. Maybe this sense of happiness is preprogrammed by Mr. Furuhata too... Well, I don't really understand these complicated things, haha... Even if that's the case, I still thank you from the bottom of my heart. Thank you for giving me this dream. Thank you for giving me this happiness. Thank you for giving me the courage to not give up at the very end. Mr. Furuhata once had a dream too, one that's much grander than mine. I hope you don't give up on your dream and continue to pursue it as well. Whether it's through singing or technology, I believe that the love we give to this world is all the same. Lastly, thank you...... for letting me be your child.

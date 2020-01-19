@@ -25,17 +25,17 @@
 ## <a id="c0101"/>\[#001\] Reset
 ### Post
 **ConneR**<br>
-　Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
+Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
 
 　Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
 
 　L'essentiel n'est pas de vivre, mais de bien vivre.
 ### Replies
 **ConneR**<br>
-　I have requested an account transfer from iM. People who used to follow me **@Colin Neumann Jr.** should now be able to see this new account in the recommended list.
+I have requested an account transfer from iM. People who used to follow me **@Colin Neumann Jr.** should now be able to see this new account in the recommended list.
 
 **Dogleg**<br>
-Greetings Sensei. It has been a while.I thought you had abandoned this world and went to live in seclusion. 
+Greetings Sensei. It has been a while.I thought you had abandoned this world and went to live in seclusion.
 
 **Ewx_Data**<br>
 OHHHHH didn't expect Master Colin to make a comeback gotta go tell my friend
@@ -69,15 +69,15 @@ Looking forward to more music\~\~\~
 
 ## <a id="c0201"/>\[#002\] New Instrument
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  2  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 2 |    No     |
 
 ### Post
 **ConneR**<br>
-　Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 
+Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 
 
-　The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition. 
+　The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition.
 
 ![c0201.png](./attachments/c0201.png)
 ### Replies
@@ -91,7 +91,7 @@ Finally!
 It looks so pretty...
 
 **DMO**<br>
-So this instrument doesn't need electricity to make a sound? 
+So this instrument doesn't need electricity to make a sound?
 
 **Brightswirls**<br>
 Just reading the description makes me excited about actually hearing it
@@ -103,20 +103,20 @@ Awesome new master \\oo/
 
 ## <a id="c0301"/>\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  4  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 4 |    No     |
 
 ### Post
 **ConneR**<br>
-　Recently the condition of my prosthetic arm has been god awful, to say the least. Makes me wonder if I accidentally ordered a leg instead of an arm; that or they actually sold me some junk scraped from the morgue.
+Recently the condition of my prosthetic arm has been god awful, to say the least. Makes me wonder if I accidentally ordered a leg instead of an arm; that or they actually sold me some junk scraped from the morgue.
 
 　Gradually getting used to this non\-organic arm, but when awoken in the middle of the night by an unstable nerve shock, I still get a nauseous feeling. Is this the compensation for modern technology?
 
 ![c0301.png](./attachments/c0301.png)
 ### Replies
 **ConneR**<br>
-　Can't compose nor perform normally under such conditions. How can I recommend music of such underwhelming quality to my friends?
+Can't compose nor perform normally under such conditions. How can I recommend music of such underwhelming quality to my friends?
 
 　I am very busy with my work and my research. Do you really think that I have the time to mail it back to the OEM and wait seven to eight days for a repair?
 
@@ -127,7 +127,7 @@ Sensei got an electronic arm!? What happened??
 For performing purposes?
 
 **ConneR**<br>
-　No, had a minor accident while away from Node08. I would not install this disgusting piece of junk for performing purposes. 
+No, had a minor accident while away from Node08. I would not install this disgusting piece of junk for performing purposes.
 
 **Brightswirls**<br>
 That's outrageous! Which brand is it?
@@ -136,7 +136,7 @@ That's outrageous! Which brand is it?
 BH.
 
 **BodyHack Service**<br>
-Sir, we are very sorry for the inconvenience we caused. We will send our agent to deal with the issue immediately. 
+Sir, we are very sorry for the inconvenience we caused. We will send our agent to deal with the issue immediately.
 
 **AngryFan**<br>
 Don't affect Sensei's work! Do what you guys are supposed to do!
@@ -160,15 +160,15 @@ They recently had a complete management change; must still be dealing with the a
 
 ## <a id="c0401"/>\[#004\] Border of the North Concert
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  7  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 7 |    No     |
 
 ### Post
 **ConneR**<br>
-　I guess a promotion here wouldn't hurt. My next concert, as usual, will be held at Central Music Hall at Quadrant I. The performance this time will feature classical works of Northen musicians the likes of Rachmaninoff and Stravinsky.
+I guess a promotion here wouldn't hurt. My next concert, as usual, will be held at Central Music Hall at Quadrant I. The performance this time will feature classical works of Northen musicians the likes of Rachmaninoff and Stravinsky.
 
-　Of course, my newest work will also be featured. Don't miss out on it. 
+　Of course, my newest work will also be featured. Don't miss out on it.
 ### Replies
 **Brightswirls**<br>
 I was wondering why I can't find any information. So it's hidden here lol
@@ -186,7 +186,7 @@ Only Central Music Hall can bring out the characteristics of ConneR Sensei's mus
 Did some research?
 
 **Dogleg**<br>
-Central Music Hall can hold almost 2000 people. Reverberation is controlled between 1.85 \~1.9 seconds. A crowned jewel among performance venues.  
+Central Music Hall can hold almost 2000 people. Reverberation is controlled between 1.85 \~1.9 seconds. A crowned jewel among performance venues.
 
 **Dogleg**<br>
 Four floors of seats and boxes, with luxurious curtains and a relief sculpture wall.
@@ -207,28 +207,28 @@ Excellent
 
 ## <a id="c0501"/>\[#005\] Met an old friend in a new place
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  8  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 8 |    No     |
 
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Claim the Game**|ROBO_Head|Easy |  3  |
-|**Claim the Game**|ROBO_Head|Hard |  7  |
+|       Song       |  Char.  |Diff.|Lv.|
+|------------------|:-------:|:---:|:-:|
+|**Claim the Game**|ROBO_Head|Easy | 3 |
+|**Claim the Game**|ROBO_Head|Hard | 7 |
 
 ### Post
 **ConneR**<br>
-　In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. 
+In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. 
 
-　Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place. 
+　Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place.
 ### Replies
 **ROBO_Head**<br>
 **@ConneR** Doctor's research in instruments, classical music and ancient civilizations, worthy for this Unit to learn. ：D
 
 **ConneR**<br>
-　You are welcome.<br>
-　I believe that I can also learn a lot from you. I look forward to interacting with you more. 
+You are welcome.<br>
+　I believe that I can also learn a lot from you. I look forward to interacting with you more.
 
 **RaiKiyumi**<br>
 OMG a meeting between two master class musicians >////<
@@ -240,7 +240,7 @@ I'm also a huge fan of ROBO\_Head
 Dedicated to classical music yet willing to accept new things. I expect no less from Dr. ConneR
 
 **Dogleg**<br>
-All in the name of art, I admire that. 
+All in the name of art, I admire that.
 
 **ConneR**<br>
 I'm flattered.
@@ -267,25 +267,25 @@ Not enough people know how to appreciate art
 
 ## <a id="c0601"/>\[#006\] An era with no roots
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 10  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|10 |    No     |
 
 ### Post
 **ConneR**<br>
-　This era, I believe is one that lost its roots.
+This era, I believe is one that lost its roots.
 
 　A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music.  
 
 　Even more helpless, is that the public has lost its praise and appreciation for the timelessness and beauty of classical music. Affected by the fancy mixing and vulgar lyrics, people now care more about the gossip of musicians rather than their actual music.
 
-　Pains me greatly witnessing this. 
+　Pains me greatly witnessing this.
 ### Replies
 **Dogleg**<br>
 A sincere warning from Sensei!
 
 **Ewx_Data**<br>
-Master Colin's speech many years ago affected me very much. I greatly appreciate Sensei's words till this day. 
+Master Colin's speech many years ago affected me very much. I greatly appreciate Sensei's words till this day.
 
 **Bolt_Urx**<br>
 Agreed!<br>
@@ -305,19 +305,19 @@ Good point
 Sensei\~ the era is different. Just today in the academy, I was really angered by the shallow values displayed by the children there. Such Ignorance!
 
 **ConneR**<br>
-　Doing thing in ways most people can't agree with; I guess that's my destiny
+Doing thing in ways most people can't agree with; I guess that's my destiny
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="c0701"/>\[#007\] Yet another advisor position
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 11  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|11 |    No     |
 
 ### Post
 **ConneR**<br>
-　Still a while before the information is publicized, but recently I accepted another advisor position. It's in a familiar field, though the unit is not one I particularly agree with. After several back\-and\-forth negotiations, I accepted the position since they are very sincere about it. Once the NDA is lifted I'll talk more about it. 
+Still a while before the information is publicized, but recently I accepted another advisor position. It's in a familiar field, though the unit is not one I particularly agree with. After several back\-and\-forth negotiations, I accepted the position since they are very sincere about it. Once the NDA is lifted I'll talk more about it.
 ### Replies
 **Brightswirls**<br>
 Excited! Must be a pretty important unit to let Sensei say yes XDD
@@ -347,23 +347,23 @@ Which one?
 As far as I know, only THAT one will need a professional of Sensei's caliber
 
 **ConneR**<br>
-Go ahead, make your guess. 
+Go ahead, make your guess.
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="c0801"/>\[#008\] The Cello
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**|  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**| 9 |    No     |
 
 ### Post
 **ConneR**<br>
-　The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. 
+The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. 
 
 　With modern technology, they are many ways to simulate a good low\-pitch string instrument. However, the Cello, which is created with top quality lumber and delicate crafts, can give out a very clear and deep tone. 
 
-　A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior. 
+　A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior.
 
 ![c0801.png](./attachments/c0801.png)
 ### Replies
@@ -383,9 +383,9 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 ## <a id="c0901"/>\[#009\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 14  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|14 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -395,8 +395,8 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 ### Replies
 **ConneR**<br>
-　Thank you. I hope to make good use of this opportunity to interact with A.R.C. I believe that I can be of great help in terms of archaeology and ancient documents. <br>
-　My personal connections with A.R.C. can be traced back to six months ago. As of now, the cooperation experience has been fairly pleasant. Accepting this mission is mutually beneficial for both sides. 
+Thank you. I hope to make good use of this opportunity to interact with A.R.C. I believe that I can be of great help in terms of archaeology and ancient documents. <br>
+　My personal connections with A.R.C. can be traced back to six months ago. As of now, the cooperation experience has been fairly pleasant. Accepting this mission is mutually beneficial for both sides.
 
 **Ewx_Data**<br>
 WOW!! So this is the advisor position Sensei was talking about! Awesome!!
@@ -439,17 +439,17 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 
 ## <a id="c1001"/>\[#010\] What is Archaeology
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 16  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|16 |    No     |
 
 ### Post
 **ConneR**<br>
-　The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.
+The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.
 
 　People who devoted themselves to archaeology, are not shovel\-wielding, hole\-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds.  
 
-　They, are people who pursue the truth. 
+　They, are people who pursue the truth.
 ### Replies
 **GemFeather**<br>
 Great argument!
@@ -473,13 +473,13 @@ Thank you Sensei for giving your point of view. I learned a lot!
 
 ## <a id="c1101"/>\[#011\] Treasures of the Past
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 18  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|18 |    No     |
 
 ### Post
 **ConneR**<br>
-　In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 
+In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 
 
 　Music that wonderful once existed yet we have no way to listen to it now, what a pity.
 
@@ -516,9 +516,9 @@ Master Colin is our only hope
 
 ## <a id="c1201"/>\[#012\] \[Repost\] A.R.C looking for professional Ruins explorer
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 20  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|20 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -533,10 +533,10 @@ Master Colin is our only hope
 
 ### Replies
 **ConneR**<br>
-　You people think this is some kind of self\-gratification; such ignorant and selfish minds. Really don't want to repost this but I can't stand it anymore. 
+You people think this is some kind of self\-gratification; such ignorant and selfish minds. Really don't want to repost this but I can't stand it anymore.
 
 **ConneR**<br>
-　Archaeology bears a lot of responsibility. Not a job where you impudent children can screw around and do whatever you want. 
+Archaeology bears a lot of responsibility. Not a job where you impudent children can screw around and do whatever you want.
 
 **RaiKiyumi**<br>
 Wow Sensei is REALLY pissed off \*shudders\*
@@ -564,21 +564,21 @@ Scholars like Sensei are now few and far between
 Sensei calm down.
 
 **Brightswirls**<br>
-I applied. Hope we can change them from the inside. 
+I applied. Hope we can change them from the inside.
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="c1301"/>\[#013\] The Saxophone
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 22  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|22 |    No     |
 
 ### Post
 **ConneR**<br>
-　Due to Node 13's unique historical background, it has quite the collection of well\-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. 
+Due to Node 13's unique historical background, it has quite the collection of well\-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. 
 
-　The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own. 
+　The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own.
 
 ![c1301.png](./attachments/c1301.png)
 ### Replies
@@ -602,7 +602,7 @@ Jazz music, bar, Saxophone<br>
 A match made in heaven d=(´▽｀)=b
 
 **ConneR**<br>
-　If you like things like this, allow me to recommend JOEZ Café at Quadrant II. I can say that the owner there knows more about Jazz and good alcohol than anyone in the Node.
+If you like things like this, allow me to recommend JOEZ Café at Quadrant II. I can say that the owner there knows more about Jazz and good alcohol than anyone in the Node.
 
 **SIhama**<br>
 Got it! Thanks for the recommendation Dr. ConneR ＼(´▽｀)
@@ -614,13 +614,13 @@ I feel that Node13 is the perfect place to forget all the annoying stuff in live
 
 ## <a id="c1401"/>\[#014\] The sincerest instance, right here, right now
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 22  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|22 |    No     |
 
 ### Post
 **ConneR**<br>
-　Only those who are there on\-site can really feel the sincerest moment. No data transfer delays, no post\-production trickery; only a real performance presented directly to the audience by the performer.
+Only those who are there on\-site can really feel the sincerest moment. No data transfer delays, no post\-production trickery; only a real performance presented directly to the audience by the performer.
 
 　And I, perform only for myself.
 
@@ -686,13 +686,13 @@ I can't wait for the next performance to be here!!!!
 
 ## <a id="c1601"/>\[#016\] The truth of this world
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 25  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|25 |    No     |
 
 ### Post
 **ConneR**<br>
-　Maybe this is an opportunity for everyone to reflect carefully: are there too many things in the world that we simply can't understand and control.
+Maybe this is an opportunity for everyone to reflect carefully: are there too many things in the world that we simply can't understand and control.
 
 　The Architects created the Node cities on this planet. Did they do it to protect us fragile humans, or are humans mere test rats in a lab?
 ### Replies
@@ -734,9 +734,9 @@ Follow Sensei\~\~\~
 
 ## <a id="c1701"/>\[#017\] Emptiness
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 28  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|28 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -785,9 +785,9 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 
 ## <a id="c1801"/>\[#018\] Those long lost memories
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 31  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|31 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -836,13 +836,13 @@ DENIED
 
 ## <a id="c1901"/>\[#019\] Let me tell everyone a quick anecdote
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 38  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|38 |    No     |
 
 ### Post
 **ConneR**<br>
-　A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. 
+A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. 
 
 　Have a guess; how did the gardener deal with this fallen apple? He didn't pick up the apple and throw it away. He also didn't wash away the ants with the water hose he was holding. All he did was stand up, and walk away. 
 
@@ -887,9 +887,9 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 
 ## <a id="c2001"/>\[#020\] Overlords
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 45  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|45 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -901,7 +901,7 @@ Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving 
 
         Some people may have doubts about my claims, saying that I was being nothing more than a scaremonger. To those people, I present this: based on the data I obtained, the connection yield rate for the shared UI has yet to show any noteworthy improvement to this day. In fact, the rates have been getting worse. I find that to be the best warning for this situation. For two hundred years, we thought we were the masters of the drones. However, in reality, there is a possibility that humans are the puny insects fed and raised inside the secured area, all while we presumptuously believe ourselves to be the overlords of this planet. <br>
  <br>
-        The real overlords are far from just an ancient relic in the history books, I sincerely believe that.  
+        The real overlords are far from just an ancient relic in the history books, I sincerely believe that.
 ### Replies
 **Amberclove**<br>
 Sensei, your papers give me goosebumps, the scared kind...
@@ -973,9 +973,9 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 
 ## <a id="c2101"/>\[#021\] Lecture at the Academy
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 47  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|47 |    No     |
 
 ### Post
 **ConneR**<br>
@@ -1038,18 +1038,18 @@ Thank you so much! I look forward to meeting you!
 
 ## <a id="c2201"/>\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 51  |
-|**NEKO#ΦωΦ** | 51  |
-|**ROBO_Head**| 51  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |51 |    Yes    |
+|**NEKO#ΦωΦ** |51 |    Yes    |
+|**ROBO_Head**|51 |    Yes    |
 
 ### Post
 **ConneR**<br>
 Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸\[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞\[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟\[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞
 
    If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
-J̨͞)̵͡͡\*̸̴̶̨\_͏̀͢H͢͢҉̛7́͝͠y̡̨͝͡g͜f̡̧̡͘̕t̶̵͠d̸̶͘͏r͢͠͡͞Ú̵̕͟T̴́͜͟Y͏͟K̡͡͝H̡̢B̧͘͟͠͠:̢̨j҉͡͏̵̀g̵̨̢͟y̨̡̕̕͜t̶̀7̷̶́̀6̢̧͠҉̧5̸̡́͘͠r͟͢͜3͡͏̕͢4̧^̷̸̴͢͢ḩ̷͠͡j̸͞҉ that one day, people who have a rebellious nature like myself J̧́͠Ơ̷H͘͟͝U͞҉̡̢͢O͏͡(̢̢͝͞7̡̕͢͡͝d̛͠r͘͢e̷͘͟5̵͘͟6̀͡҉͟i̸̢̕͟t̶͘v͏̴̸Ơ͢:̡̀́͢͠J҉̴͜N̵͏̶̵͠B͘͜҉̡I͘͟Ĺ̷͏H̸͘U̵̧͘V̵̢͘̕͢Y̧̢͠F͏҉̧͟T̡͠͏̡d̡̛̀r͝5̨͘͝͡e҉͢4̨̀f̡8̢́6̵̨̀G̛͘͟͝͝&͝(̶̕͡͏H̀͏҉P̀͝U̡̕͜͟I҉͢N҉̴́͘͟B͏̀̀͞J̕͝Ų̀͡Í̶͘͢͟Y̶̢Ḑ̡̀͞7̴̴͜8̴̢͝҉9͘͏҉̶i̸j͘͟͏̢͘h̴̕n̡͢͞͠b̀͏h̛́m̨͏̡H̴͝Ģ͢͟ heritage. 
+J̨͞)̵͡͡\*̸̴̶̨\_͏̀͢H͢͢҉̛7́͝͠y̡̨͝͡g͜f̡̧̡͘̕t̶̵͠d̸̶͘͏r͢͠͡͞Ú̵̕͟T̴́͜͟Y͏͟K̡͡͝H̡̢B̧͘͟͠͠:̢̨j҉͡͏̵̀g̵̨̢͟y̨̡̕̕͜t̶̀7̷̶́̀6̢̧͠҉̧5̸̡́͘͠r͟͢͜3͡͏̕͢4̧^̷̸̴͢͢ḩ̷͠͡j̸͞҉ that one day, people who have a rebellious nature like myself J̧́͠Ơ̷H͘͟͝U͞҉̡̢͢O͏͡(̢̢͝͞7̡̕͢͡͝d̛͠r͘͢e̷͘͟5̵͘͟6̀͡҉͟i̸̢̕͟t̶͘v͏̴̸Ơ͢:̡̀́͢͠J҉̴͜N̵͏̶̵͠B͘͜҉̡I͘͟Ĺ̷͏H̸͘U̵̧͘V̵̢͘̕͢Y̧̢͠F͏҉̧͟T̡͠͏̡d̡̛̀r͝5̨͘͝͡e҉͢4̨̀f̡8̢́6̵̨̀G̛͘͟͝͝&͝(̶̕͡͏H̀͏҉P̀͝U̡̕͜͟I҉͢N҉̴́͘͟B͏̀̀͞J̕͝Ų̀͡Í̶͘͢͟Y̶̢Ḑ̡̀͞7̴̴͜8̴̢͝҉9͘͏҉̶i̸j͘͟͏̢͘h̴̕n̡͢͞͠b̀͏h̛́m̨͏̡H̴͝Ģ͢͟ heritage.
 
 ![c2201.png](./attachments/c2201.png)
 ### Replies

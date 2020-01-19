@@ -11,9 +11,9 @@
 
 ## <a id="h0101"/>\[#001\] 《Cherry PuNK》New Official Account
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 25  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|25 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -101,9 +101,9 @@ They're two sides of the same coin, no point arguing
 
 ## <a id="h0201"/>\[#002\] \[Announcement\] Additional Event Announcement
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 26  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|26 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -204,9 +204,9 @@ Both ChP and PAFF are awesome!<br>
 
 ## <a id="h0301"/>\[#003\] Thank you to everyone who came yesterday
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 28  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|28 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -326,9 +326,9 @@ That case was so freaky. Tend to stay away from chip surfing now\`\`
 
 ## <a id="h0401"/>\[#004\] The corner of the city
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 29  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|29 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -435,9 +435,9 @@ From what I heard, it appears that she was already acquitted
 
 ## <a id="h0501"/>\[#005\] Regarding recent rumors
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**ROBO_Head**| 33  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**ROBO_Head**|33 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -528,9 +528,9 @@ Wow Cherry backing up Xenon in her own statement
 
 ## <a id="h0601"/>\[#006\] \[Announcement\] A thank you to fans and others for the support
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 37  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|37 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -612,9 +612,9 @@ Get lost
 
 ## <a id="h0701"/>\[#007\] Thank you to everyone for your concerns
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 43  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|43 |    No     |
 
 ### Post
 **CherryPuNK**<br>
@@ -701,9 +701,9 @@ Everyone in CP all seems to be really close to each other
 
 ## <a id="h0801"/>\[#008\] ROBO\_Radio\_LIVE performance announcement
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 46  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|46 |    No     |
 
 ### Post
 **Cherry**<br>

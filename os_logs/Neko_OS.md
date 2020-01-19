@@ -286,9 +286,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos003"/>\[#003\] Cam\_Class\_I\-6\_696\_12\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 2 |    No     |
 
 ### Log Content
 *\[Class Bell\]*
@@ -434,9 +434,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos004"/>\[#004\] Audio\_St07\_697\_01\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 2 |    No     |
 
 ### Log Content
 **Neko**<br>
@@ -573,9 +573,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos005"/>\[#005\] Cam\_Dash\_697\_06\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 3 |    No     |
 
 ### Log Content
 **Neko**<br>
@@ -731,9 +731,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos006"/>\[#006\] Cam\_NL\_697\_11\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  4  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 4 |    No     |
 
 ### Log Content
 **Kouhei**<br>
@@ -901,9 +901,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos007"/>\[#007\] Audio\_NL\_698\_07\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 5 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1047,9 +1047,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos008"/>\[#008\] Audio\_Asakura\_698\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  6  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 6 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1180,13 +1180,13 @@ _\[Signal Lost\]_
 
 ## <a id="naos009"/>\[#009\] Audio\_Arcade\_698\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  7  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 7 |    No     |
 
 ### Log Content
 **Neko**<br>
-_\*Sniffs\*_
+_\*Sniffs\*_... Damnit! So mad... stupid daddy! NEKO will play this to let off some steam...
 
 *\[Gunshot\]*
 
@@ -1327,16 +1327,16 @@ _\[Signal Lost\]_
 
 ## <a id="naos010"/>\[#010\] Cam\_Velvet\_698\_10\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  8  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 8 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**一啖兩啖**|  Neko   |Easy |  3  |
-|**一啖兩啖**|  Neko   |Hard |  7  |
-|**一啖兩啖**|  Neko   |Chaos| 11  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**一啖兩啖**|Neko |Easy | 3 |
+|**一啖兩啖**|Neko |Hard | 7 |
+|**一啖兩啖**|Neko |Chaos|11 |
 
 ### Log Content
 **Neko**<br>
@@ -1471,15 +1471,15 @@ _\[Signal Lost\]_
 
 ## <a id="naos011"/>\[#011\] Cam\_76St\_698\_11\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** |  9  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 9 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Mammal**|  Neko   |Easy |  4  |
-|**Mammal**|  Neko   |Hard |  9  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Mammal**|Neko |Easy | 4 |
+|**Mammal**|Neko |Hard | 9 |
 
 ### Log Content
 **Neko**<br>
@@ -1607,14 +1607,14 @@ _\[Signal Lost\]_
 
 ## <a id="naos012"/>\[#012\] Audio\_Velvet\_698\_11\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 10  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|10 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Mammal**|  Neko   |Chaos| 14  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Mammal**|Neko |Chaos|14 |
 
 ### Log Content
 **[Xenon-V]**<br>
@@ -1753,9 +1753,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos013"/>\[#013\] Audio\_Neko\_698\_11\_24
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 11  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|11 |    No     |
 
 ### Log Content
 *\[Hurried Footsteps\]*
@@ -1902,16 +1902,16 @@ _\[Signal Lost\]_
 
 ## <a id="naos014"/>\[#014\] Cam\_Asakura\_698\_12\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 12  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|12 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Blah!!**|  Neko   |Easy |  4  |
-|**Blah!!**|  Neko   |Hard |  8  |
-|**Blah!!**|  Neko   |Chaos| 14  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Blah!!**|Neko |Easy | 4 |
+|**Blah!!**|Neko |Hard | 8 |
+|**Blah!!**|Neko |Chaos|14 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2038,7 +2038,7 @@ Kouhei! Don't do this! NEKO, are you hurt...
 How dare you talk to me about money! Do you know how much money I spend to raise you!? And what do you do with my money? You waste it on dying hair, messing around, and buying these nonsensical clothes! Is this how you repay me!?
 
 **Neko**<br>
-NEKO... made that money... with my part\-time job... 
+NEKO... made that money... with my part\-time job... _\*Sobs\*_...
 
 **Kouhei**<br>
 What part\-time job!? The one where you abandoned your studies for!? Very well, if you're so good, I will no longer give you a single penny! If this home is so worthless to you, then leave! GET OUT!
@@ -2072,9 +2072,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos015"/>\[#015\] Audio\_Arcade\_698\_12\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 13  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|13 |    No     |
 
 ### Log Content
 **Neko**<br>
@@ -2226,15 +2226,15 @@ _\[Signal Lost\]_
 
 ## <a id="naos016"/>\[#016\] Cam\_Studio\_698\_12\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 13  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|13 |    No     |
 
 ### Unlocked Charts
-|  Song  |Character|Diff.|Level|
-|--------|:-------:|:---:|:---:|
-|**リラ**|  Neko   |Easy |  4  |
-|**リラ**|  Neko   |Hard |  8  |
+|  Song  |Char.|Diff.|Lv.|
+|--------|:---:|:---:|:-:|
+|**リラ**|Neko |Easy | 4 |
+|**リラ**|Neko |Hard | 8 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2393,9 +2393,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos017"/>\[#017\] Audio\_Mono\_698\_12\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|14 |    No     |
 
 ### Log Content
 *\[Notification\]*
@@ -2469,14 +2469,14 @@ _\[Signal Lost\]_
 
 ## <a id="naos018"/>\[#018\] Audio\_Mono\_698\_12\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|14 |    No     |
 
 ### Unlocked Charts
-|  Song  |Character|Diff.|Level|
-|--------|:-------:|:---:|:---:|
-|**リラ**|  Neko   |Chaos| 12  |
+|  Song  |Char.|Diff.|Lv.|
+|--------|:---:|:---:|:-:|
+|**リラ**|Neko |Chaos|12 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2555,9 +2555,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos019"/>\[#019\] Audio\_Mono\_699\_04\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 15  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|15 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -2632,9 +2632,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos020"/>\[#020\] Cam\_Shiraishi\_699\_04\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 16  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|16 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2796,9 +2796,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos021"/>\[#021\] Call\_Linda\_699\_02\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 17  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|17 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -2872,7 +2872,7 @@ _That I can understand... PAFF's singing is just... breathtaking. It's like she'
 The vicious Linda\-chan complimented a pop singer!? Is NEKO dreaming right now!?
 
 **[Linda]**<br>
-_...... Then how about I give you a slap to wake you up? I was concerned that you'll force yourself through the job despite not enjoying it! _
+_...... Then how about I give you a slap to wake you up? I was concerned that you'll force yourself through the job despite not enjoying it!_
 
 **Neko**<br>
 Teehee.
@@ -2924,9 +2924,9 @@ _\[Call Ends\]_
 
 ## <a id="naos022"/>\[#022\] Audio\_Neko\_699\_05\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 18  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|18 |    No     |
 
 ### Log Content
 *\[Rips contract\]*
@@ -2945,7 +2945,7 @@ Only idiots will produce music for your stupid faces! BLEHHHHH\~!!
 ......
 
 **Neko**<br>
-...
+..._\*Sobs\*_... This sucks...
 
 **Yukiko**<br>
 ......NEKO?
@@ -3085,9 +3085,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos023"/>\[#023\] Cam\_Asakura\_699\_05\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 19  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|19 |    No     |
 
 ### Log Content
 **Neko**<br>
@@ -3197,9 +3197,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos024"/>\[#024\] Audio\_Studio\_699\_05\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 19  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|19 |    No     |
 
 ### Log Content
 *\[Door Knock\]*
@@ -3325,9 +3325,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos025"/>\[#025\] Cam\_Dash\_699\_05\_20\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 20  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|20 |    No     |
 
 ### Log Content
 *\[Car Engine Stops\]*
@@ -3476,9 +3476,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos026"/>\[#026\] Cam\_Dash\_699\_05\_20\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 21  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|21 |    No     |
 
 ### Log Content
 **Kouhei**<br>
@@ -3615,7 +3615,7 @@ NEKO also promise... that I will not make you guys worry anymore. I'm sorry...
 NEKO... Thank you! Thank you so much! _\*Sobs\*......_
 
 **Neko**<br>
-_...\*Sniffs\*... _Alright! That's enough crying! It's a bad omen to cry on someone else's birthday party! Let's blow out the candles!
+_...\*Sniffs\*..._Alright! That's enough crying! It's a bad omen to cry on someone else's birthday party! Let's blow out the candles!
 
 _\[Signal Lost\]_
 
@@ -3623,16 +3623,16 @@ _\[Signal Lost\]_
 
 ## <a id="naos027"/>\[#027\] Audio\_Studio\_699\_06\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 22  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|22 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Log In**|  Neko   |Easy |  3  |
-|**Log In**|  Neko   |Hard |  6  |
-|**Log In**|  Neko   |Chaos| 13  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Log In**|Neko |Easy | 3 |
+|**Log In**|Neko |Hard | 6 |
+|**Log In**|Neko |Chaos|13 |
 
 ### Log Content
 *\[Eats Snacks\]*
@@ -3756,16 +3756,16 @@ _\[Signal Lost\]_
 
 ## <a id="naos028"/>\[#028\] Cam\_Asakura\_701\_09\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 23  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|23 |    No     |
 
 ### Unlocked Charts
-|             Song              |Character|Diff.|Level|
-|-------------------------------|:-------:|:---:|:---:|
-|**DJ Mashiro is dead or alive**|  Neko   |Easy |  5  |
-|**DJ Mashiro is dead or alive**|  Neko   |Hard |  9  |
-|**DJ Mashiro is dead or alive**|  Neko   |Chaos| 14  |
+|             Song              |Char.|Diff.|Lv.|
+|-------------------------------|:---:|:---:|:-:|
+|**DJ Mashiro is dead or alive**|Neko |Easy | 5 |
+|**DJ Mashiro is dead or alive**|Neko |Hard | 9 |
+|**DJ Mashiro is dead or alive**|Neko |Chaos|14 |
 
 ### Log Content
 _\[Call Starts\]_
@@ -3876,9 +3876,9 @@ _\[Signal Lost\]_
 
 ## <a id="naos029"/>\[#029\] Cam\_76st\_702\_06\_11
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 23  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|23 |    No     |
 
 ### Log Content
 **Neko**<br>
@@ -3983,16 +3983,16 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="naos030"/>\[#030\] Cam\_NL\_702\_08\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Neko** | 24  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|24 |    No     |
 
 ### Unlocked Charts
-|                  Song                  |Character|Diff.|Level|
-|----------------------------------------|:-------:|:---:|:---:|
-|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Easy |  6  |
-|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Hard |  9  |
-|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|  Neko   |Chaos| 15  |
+|                  Song                  |Char.|Diff.|Lv.|
+|----------------------------------------|:---:|:---:|:-:|
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|Neko |Easy | 6 |
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|Neko |Hard | 9 |
+|**Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～**|Neko |Chaos|15 |
 
 ### Log Content
 **Neko**<br>

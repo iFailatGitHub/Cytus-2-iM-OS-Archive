@@ -93,9 +93,9 @@ Time of recording: 701\_1214\_0545
 
 ## <a id="cos002"/>\[#002\] Cam\_Arc\_701\_12\_16
 ### Unlocked Charts
-|          Song           |Character|Diff.|Level|
-|-------------------------|:-------:|:---:|:---:|
-|**Light of Buenos Aires**| ConneR  |Easy |  3  |
+|          Song           |Char. |Diff.|Lv.|
+|-------------------------|:----:|:---:|:-:|
+|**Light of Buenos Aires**|ConneR|Easy | 3 |
 
 ### Log Content
 **Sagar**<br>
@@ -154,14 +154,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos003"/>\[#003\] Audio\_Raven\_701\_12\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  2  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 2 |    No     |
 
 ### Unlocked Charts
-|          Song           |Character|Diff.|Level|
-|-------------------------|:-------:|:---:|:---:|
-|**Light of Buenos Aires**| ConneR  |Hard |  7  |
+|          Song           |Char. |Diff.|Lv.|
+|-------------------------|:----:|:---:|:-:|
+|**Light of Buenos Aires**|ConneR|Hard | 7 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -251,9 +251,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos004"/>\[#004\] Cam\_Arc\_702\_01\_30
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  3  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 3 |    No     |
 
 ### Log Content
 *\[Electronic Door\]*
@@ -351,14 +351,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos005"/>\[#005\] Audio\_Arc\_702\_02\_05
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  4  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 4 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**tondari-hanetari**| ConneR  |Easy |  3  |
+|        Song        |Char. |Diff.|Lv.|
+|--------------------|:----:|:---:|:-:|
+|**tondari-hanetari**|ConneR|Easy | 3 |
 
 ### Log Content
 *\[Electronic Door\]*
@@ -425,14 +425,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos006"/>\[#006\] Log\_702\_02\_14\_repaired
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  5  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 5 |    No     |
 
 ### Unlocked Charts
-|          Song           |Character|Diff.|Level|
-|-------------------------|:-------:|:---:|:---:|
-|**Light of Buenos Aires**| ConneR  |Chaos| 12  |
+|          Song           |Char. |Diff.|Lv.|
+|-------------------------|:----:|:---:|:-:|
+|**Light of Buenos Aires**|ConneR|Chaos|12 |
 
 ### Log Content
 \[Data partially damaged due to external force\]<br>
@@ -467,14 +467,14 @@ Time of interruption: 701\_1214\_0637
 
 ## <a id="cos007"/>\[#007\] Audio\_Home\_697\_07\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  6  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 6 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**tondari-hanetari**| ConneR  |Hard |  8  |
+|        Song        |Char. |Diff.|Lv.|
+|--------------------|:----:|:---:|:-:|
+|**tondari-hanetari**|ConneR|Hard | 8 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -574,9 +574,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos008"/>\[#008\] Mail\_iM\_702\_07\_01
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  6  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 6 |    No     |
 
 ### Log Content
 **Subj.**: [Reply to account transfer request] Transfer "Colin Neumann Jr." to "ConneR"<br>
@@ -605,14 +605,14 @@ The iM full\-sense social networking team
 
 ## <a id="cos009"/>\[#009\] Log\_Home\_697\_08\_08
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  7  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 7 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Abduction**| ConneR  |Easy |  4  |
+|    Song     |Char. |Diff.|Lv.|
+|-------------|:----:|:---:|:-:|
+|**Abduction**|ConneR|Easy | 4 |
 
 ### Log Content
 Diary Log 6970808\_ConneR<br>
@@ -626,9 +626,9 @@ ConneR 6970808
 
 ## <a id="cos010"/>\[#010\] Mail\_690\_05\_14
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  8  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 8 |    No     |
 
 ### Log Content
 To my son: When you see this letter, I might be on my last breath. Maybe I can't even remember who I am. Shortly after you and your mother Alyxia left, I was diagnosed with neurodegenerative dementia. Don't worry though; I wrote this letter when I'm still in the early stages of the disease. I might forget some words; my description of things might not be 100% clear; my thoughts might not flow smoothly. So, I had Grace help me. The letter you are reading now was basically co\-written by Grace and me. First of all, I would like to apologize to you and your mother in place of my irritable self back then. Due to my fear and my ignorance, I was a childish fool that did nothing but blame others for my personal mistakes. The biggest, most irredeemable mistake I ever made was losing you and your mother. I owe Alyxia so much, far too much. I don't even know how to put that into words. I cared only about my work. I had no control over my emotions and often vented my frustration on her. I took her forgiveness for granted countless times. Now that I think about it, I don't even have the courage to apologize to her and atone for my mistakes in person. If Alyxia is still alive when you read this letter, please tell her, "Thank you for raising our son. Colin may have a failure of a father, but he is lucky to have the perfect mother."<br> <br> The Neumann family is a noble family from Node 13. We have a close relationship with the A.R.C.'s senior committee members. The chip that I gave you is a family token that has been passed down for centuries. Our ancestor, Rald Neumann, played a very important role in the rebuild of this world's order. In the past few years, I've been attempting to unveil its secret, but I failed utterly. However, someone as talented and smart as you might have the possibility of doing what I can't. Throughout the years, I've heard plenty about what you accomplished outside this home. It seems like yesterday when you are still the little boy who only knows how to play catch. Now, you are an independent, highly\-acclaimed archaeologist, capable of publishing papers that point out the mistakes in A.R.C.'s research. When I saw that news, I was pleasantly surprised, but at the same time extremely conflicted. So many colleagues have told me that I should be proud of your accomplishments. On one hand, as your father, I am indeed very proud of you, but on the other, I deeply regret the harsh and unrealistic expectations I placed on you in the past. If one day, you finally returned to this home and saw this letter, please know that dad only wants to tell you this, " I'm sorry, and good job." The Neumann family will always be proud of you. 
@@ -640,14 +640,14 @@ Colin Neumann Sr.
 
 ## <a id="cos011"/>\[#011\] Cam\_Arc\_702\_04\_04
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**|  9  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 9 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**tondari-hanetari**| ConneR  |Chaos| 13  |
+|        Song        |Char. |Diff.|Lv.|
+|--------------------|:----:|:---:|:-:|
+|**tondari-hanetari**|ConneR|Chaos|13 |
 
 ### Log Content
 ![cos0702.png](./attachments/cos0702.png)
@@ -700,14 +700,14 @@ _\[Call Ends\]_
 
 ## <a id="cos012"/>\[#012\] Diary\_ConneR\_702\_04\_06
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 10  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|10 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Abduction**| ConneR  |Hard |  8  |
+|    Song     |Char. |Diff.|Lv.|
+|-------------|:----:|:---:|:-:|
+|**Abduction**|ConneR|Hard | 8 |
 
 ### Log Content
 Diary Log 7020406\_ConneR<br>
@@ -723,14 +723,14 @@ ConneR 7020406
 
 ## <a id="cos013"/>\[#013\] Mail\_BH\_702\_07\_12
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 11  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|11 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Nostalgia Sonatina**| ConneR  |Easy |  4  |
+|         Song         |Char. |Diff.|Lv.|
+|----------------------|:----:|:---:|:-:|
+|**Nostalgia Sonatina**|ConneR|Easy | 4 |
 
 ### Log Content
 **Subj.**: Allow us to offer our sincerest apologies<br>
@@ -754,9 +754,9 @@ Body Hack Corp. CEO
 
 ## <a id="cos014"/>\[#014\] Call\_702\_07\_12
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 12  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|12 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -819,14 +819,14 @@ _\[Call Ends\]_
 
 ## <a id="cos015"/>\[#015\] Log\_Arc\_702\_07\_14
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 13  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|13 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Abduction**| ConneR  |Chaos| 11  |
+|    Song     |Char. |Diff.|Lv.|
+|-------------|:----:|:---:|:-:|
+|**Abduction**|ConneR|Chaos|11 |
 
 ### Log Content
 Research Log 7020714\_ConneR The benefit of working inside A.R.C. is that I get to see all their unannounced inventions, research and all kinds of recreated technologies. Even though they have gathered the best talents here, without the data of past technology obtained through exploring the Ruins, especially the central database "Library" and the establishment of the virtual internet, A.R.C. will be nowhere near their current wealth and power. However, nobody ever asks any questions. The variety of automatic management systems used in the countless Nodes we live in; the ultra\-high\-speed capsule tracks that connect the Nodes; the breeding center that controls the population; the city structure that seems to be aiming for the skies; how do they actually function, and who is managing all of them? The admins are merely pawns. A.R.C.'s "accomplishments" are only built on top of the artifacts that were left behind. The sight I saw in those Ruins when I was attacked, just what in the world was that...? If I want to find some answers, there is no better place than here. I need more time and more trustworthy comrades. In reality, humans are fragile flowers that are trapped inside a greenhouse. Yes, this city, this world; there are still way too many things we don't understand. Right now, we are merely herds of sheep, blindly following the script and acting according to it. 
@@ -837,9 +837,9 @@ ConneR 7020714
 
 ## <a id="cos016"/>\[#016\] Cam\_Arc\_702\_07\_20
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 13  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|13 |    No     |
 
 ### Log Content
 ![xos0801.png](./attachments/xos0801.png)
@@ -904,14 +904,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos017"/>\[#017\] Cam\_Cafe\_702\_07\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 14  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|14 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Nostalgia Sonatina**| ConneR  |Hard |  8  |
+|         Song         |Char. |Diff.|Lv.|
+|----------------------|:----:|:---:|:-:|
+|**Nostalgia Sonatina**|ConneR|Hard | 8 |
 
 ### Log Content
 ![cos1302.png](./attachments/cos1302.png)
@@ -1013,14 +1013,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos018"/>\[#018\] Diary\_ConneR\_702\_07\_22
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 15  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|15 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**I luv U**| ConneR  |Easy |  3  |
+|   Song    |Char. |Diff.|Lv.|
+|-----------|:----:|:---:|:-:|
+|**I luv U**|ConneR|Easy | 3 |
 
 ### Log Content
 Diary Log 7020722\_ConneR<br>
@@ -1034,9 +1034,9 @@ ConneR 7020722
 
 ## <a id="cos019"/>\[#019\] Cam\_Arc\_702\_07\_24
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 16  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|16 |    No     |
 
 ### Log Content
 ![xos1101.png](./attachments/xos1101.png)
@@ -1108,14 +1108,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos020"/>\[#020\] Mail\_Arc\_702\_07\_27
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 16  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|16 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Nostalgia Sonatina**| ConneR  |Chaos| 13  |
+|         Song         |Char. |Diff.|Lv.|
+|----------------------|:----:|:---:|:-:|
+|**Nostalgia Sonatina**|ConneR|Chaos|13 |
 
 ### Log Content
 **Subj.**: We invite you to be a guest at the conference<br>
@@ -1136,14 +1136,14 @@ A.R.C. Supreme Committee
 
 ## <a id="cos021"/>\[#021\] Diary\_ConneR\_702\_07\_28
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 17  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|17 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**I luv U**| ConneR  |Hard |  7  |
+|   Song    |Char. |Diff.|Lv.|
+|-----------|:----:|:---:|:-:|
+|**I luv U**|ConneR|Hard | 7 |
 
 ### Log Content
 Diary Log 7020728\_ConneR<br>
@@ -1157,9 +1157,9 @@ ConneR\_7020728
 
 ## <a id="cos022"/>\[#022\] Mail\_Arc\_702\_07\_22
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 17  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|17 |    No     |
 
 ### Log Content
 **Subj.**: Job Done<br>
@@ -1177,14 +1177,14 @@ H.H
 
 ## <a id="cos023"/>\[#023\] Audio\_Arc\_702\_08\_26
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 18  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|18 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Instinct**| ConneR  |Easy |  4  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**Instinct**|ConneR|Easy | 4 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1261,9 +1261,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos024"/>\[#024\] Diary\_ConneR\_702\_08\_26
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 18  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|18 |    No     |
 
 ### Log Content
 Diary Log 7020826\_ConneR<br>
@@ -1277,14 +1277,14 @@ ConneR 7020826
 
 ## <a id="cos025"/>\[#025\] Audio\_Arc\_702\_08\_12
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 19  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|19 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Instinct**| ConneR  |Hard |  8  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**Instinct**|ConneR|Hard | 8 |
 
 ### Log Content
 *\[Alarm goes off\]*
@@ -1336,9 +1336,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos026"/>\[#026\] Mail\_Arc\_702\_08\_20
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 20  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|20 |    No     |
 
 ### Log Content
 **Subj.**: Congratulations on a successful performance<br>
@@ -1360,14 +1360,14 @@ The entire SkyEkho team
 
 ## <a id="cos027"/>\[#027\] Audio\_Arc\_702\_08\_07
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 20  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|20 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**I luv U**| ConneR  |Chaos| 11  |
+|   Song    |Char. |Diff.|Lv.|
+|-----------|:----:|:---:|:-:|
+|**I luv U**|ConneR|Chaos|11 |
 
 ### Log Content
 **Nancy**<br>
@@ -1456,9 +1456,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos028"/>\[#028\] Audio\_Arc\_702\_08\_08
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 21  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|21 |    No     |
 
 ### Log Content
 **Staff A**<br>
@@ -1595,14 +1595,14 @@ _\[Replay Ends\]_
 
 ## <a id="cos029"/>\[#029\] Audio\_Arc\_702\_08\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 22  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|22 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Instinct**| ConneR  |Chaos| 12  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**Instinct**|ConneR|Chaos|12 |
 
 ### Log Content
 _\[Recording from wiretapped watch begins\]_
@@ -1744,9 +1744,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos030"/>\[#030\] Audio\_Arc\_702\_08\_17
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 23  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|23 |    No     |
 
 ### Log Content
 *\[Electronic Door\]*
@@ -1882,9 +1882,9 @@ _\[Replay Ends\]_
 
 ## <a id="cos031"/>\[#031\] Diary\_ConneR\_702\_08\_28
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 24  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|24 |    No     |
 
 ### Log Content
 Diary Log 7020828\_ConneR<br>
@@ -1896,19 +1896,19 @@ ConneR 7020828
 
 ## <a id="cos032"/>\[#032\] Log\_702\_08\_08\_12
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**ConneR**   | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
+|**ConneR**   |24 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Floor of Lava**| ConneR  |Easy |  6  |
-|**Floor of Lava**| ConneR  |Hard | 10  |
-|**Floor of Lava**| ConneR  |Chaos| 15  |
+|      Song       |Char. |Diff.|Lv.|
+|-----------------|:----:|:---:|:-:|
+|**Floor of Lava**|ConneR|Easy | 6 |
+|**Floor of Lava**|ConneR|Hard |10 |
+|**Floor of Lava**|ConneR|Chaos|15 |
 
 ### Log Content
 Analysis Report 7020808\_12<br>
@@ -1942,16 +1942,16 @@ Report Saved Time: 702\_0810\_1745
 
 ## <a id="cos033"/>\[#033\] Cam\_Arc\_702\_09\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 25  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|25 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Olympia**| ConneR  |Easy |  3  |
-|**Olympia**| ConneR  |Hard |  6  |
-|**Olympia**| ConneR  |Chaos| 12  |
+|   Song    |Char. |Diff.|Lv.|
+|-----------|:----:|:---:|:-:|
+|**Olympia**|ConneR|Easy | 3 |
+|**Olympia**|ConneR|Hard | 6 |
+|**Olympia**|ConneR|Chaos|12 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2078,9 +2078,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos034"/>\[#034\] Audio\_Factory3\_702\_09\_21\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 26  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|26 |    No     |
 
 ### Log Content
 *\[Engines turned off\]*
@@ -2207,9 +2207,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos035"/>\[#035\] Audio\_Factory3\_702\_09\_21\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 27  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|27 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -2326,9 +2326,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos036"/>\[#036\] Mail\_Grace\_702\_10\_22
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 28  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|28 |    No     |
 
 ### Log Content
 **Subj.**: Something is wrong with Sir<br>
@@ -2346,9 +2346,9 @@ Grace
 
 ## <a id="cos037"/>\[#037\] Cam\_Home\_702\_10\_23
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 29  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|29 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2482,9 +2482,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos038"/>\[#038\] Audio\_Arc\_702\_11\_02
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 30  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|30 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2499,7 +2499,7 @@ Apologies for the interruption. Doctor...?
 ......?
 
 **[TV]**<br>
-_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. _
+_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir._
 
 **Sagar**<br>
 This is... the Æsir incident? Heard about it a while ago. It seems like it's a pretty serious issue...
@@ -2602,9 +2602,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos039"/>\[#039\] Diary\_ConneR\_702\_11\_04
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 31  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|31 |    No     |
 
 ### Log Content
 Diary Log 7021104\_ConneR<br>
@@ -2616,9 +2616,9 @@ ConneR 7021104
 
 ## <a id="cos040"/>\[#040\] Cam\_CArea\_702\_11\_08
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 32  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|32 |    No     |
 
 ### Log Content
 *\[Alarm\]*
@@ -2775,9 +2775,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos041"/>\[#041\] Audio\_Port33\_702\_11\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 33  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|33 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -2841,9 +2841,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos042"/>\[#042\] Cam\_Port33\_702\_11\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 33  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|33 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2981,9 +2981,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos043"/>\[#043\] Audio\_Cafe\_690\_03\_16
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 34  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|34 |    No     |
 
 ### Log Content
 **Saxon**<br>
@@ -3031,9 +3031,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos044"/>\[#044\] Cam\_Base\_690\_03\_16
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 34  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|34 |    No     |
 
 ### Log Content
 **???**<br>
@@ -3208,9 +3208,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos045"/>\[#045\] Audio\_Sasha\_690\_03\_17
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 35  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|35 |    No     |
 
 ### Log Content
 **Sasha**<br>
@@ -3344,9 +3344,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos046"/>\[#046\] Audio\_Home\_676\_04\_08
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 35  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|35 |    No     |
 
 ### Log Content
 **Colin**<br>
@@ -3499,9 +3499,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos047"/>\[#047\] Audio\_St166\_690\_3\_23
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 36  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|36 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -3519,7 +3519,7 @@ _I let X think that I'm someone from the Administration Bureau. He's willing to 
 ......
 
 **[Sasha]**<br>
-_In short, I'll skip straight to the conclusion. After the first batch of data was decrypted, I immediately found a buyer. Spent some time talking to squeeze more cash out of him. What you see is your share, 50/50 between us. _
+_In short, I'll skip straight to the conclusion. After the first batch of data was decrypted, I immediately found a buyer. Spent some time talking to squeeze more cash out of him. What you see is your share, 50/50 between us._
 
 **ConneR**<br>
 It's much, much more than I ever imagined. Thank you. You have my sincere gratitude.
@@ -3537,13 +3537,13 @@ _Detailed personal information of Node 08 citizens._
 Only personal information?
 
 **[Sasha]**<br>
-_No, not just civilians with regular identities. So far, we've seen personal information of the Administration Bureau's law enforcement agents, both in\-service and retired ones. There's also info on people in the organization. On top of that, it even has info that has already been deleted from the civilian database. _
+_No, not just civilians with regular identities. So far, we've seen personal information of the Administration Bureau's law enforcement agents, both in\-service and retired ones. There's also info on people in the organization. On top of that, it even has info that has already been deleted from the civilian database._
 
 **ConneR**<br>
 ... I remember now. A.R.C. once helped the Administration Bureau recreated the identity recognition system. It recorded the ID of every civilian. A few years ago, when they updated the hardware equipment... I see. Back then, someone kept these data stored somewhere to one day profit from it.
 
 **[Sasha]**<br>
-_Afraid so. I don't think this is the act of an entire company. Even so, judging by the scale of this plan, it's safe to assume that there was at least a group of people doing this behind the company's back. If that's the case, others who are trying to steal this data will certainly run into a lot of obstacles. Fortunately, we have you. _
+_Afraid so. I don't think this is the act of an entire company. Even so, judging by the scale of this plan, it's safe to assume that there was at least a group of people doing this behind the company's back. If that's the case, others who are trying to steal this data will certainly run into a lot of obstacles. Fortunately, we have you._
 
 **ConneR**<br>
 I'm humbled. Sidenote, is the buyer this time someone from the organization?
@@ -3597,9 +3597,9 @@ _\[Call Ends\]_
 
 ## <a id="cos048"/>\[#048\] Audio\_Graveyard\_682\_06\_16
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 36  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|36 |    No     |
 
 ### Log Content
 **Man A**<br>
@@ -3695,7 +3695,7 @@ _\[»»» Fast Forward 5 minutes»»»\]_
 Looks like you still recognize me... It's been years since I last saw you, yet you haven't grown one bit. Luka's so tall that my head can barely touch his shoulders.
 
 **Sagar**<br>
-_\*Sobs\*_
+_\*Sobs\*_... Father...
 
 **Raymond**<br>
 ... Of all the tough men I know, your father was the one that most closely resembles a wolf. He's agile, powerful and has that spark of wild instinct in his eyes... Yet even a man like him ended up losing his life outside.<br>
@@ -3732,9 +3732,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos049"/>\[#049\] Cam\_Sasha\_690\_06\_30
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 37  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|37 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -3884,9 +3884,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos050"/>\[#050\] Audio\_admins\_690\_07\_07
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 37  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|37 |    No     |
 
 ### Log Content
 **???**<br>
@@ -4021,9 +4021,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos051"/>\[#051\] Cam\_Hotel\_690\_07\_09
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 38  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|38 |    No     |
 
 ### Log Content
 **Sasha**<br>
@@ -4186,9 +4186,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos052"/>\[#052\] Audio\_Home\_683\_07\_09
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 38  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|38 |    No     |
 
 ### Log Content
 **Colin**<br>
@@ -4335,16 +4335,16 @@ _\[Signal Lost\]_
 
 ## <a id="cos053"/>\[#053\] Audio\_St199\_690\_07\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 39  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|39 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**Fur War, Pur War**| ConneR  |Easy |  4  |
-|**Fur War, Pur War**| ConneR  |Hard |  8  |
-|**Fur War, Pur War**| ConneR  |Chaos| 15  |
+|        Song        |Char. |Diff.|Lv.|
+|--------------------|:----:|:---:|:-:|
+|**Fur War, Pur War**|ConneR|Easy | 4 |
+|**Fur War, Pur War**|ConneR|Hard | 8 |
+|**Fur War, Pur War**|ConneR|Chaos|15 |
 
 ### Log Content
 **Agent A**<br>
@@ -4525,9 +4525,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos054"/>\[#054\] Multi\_Files\_686\_12\_23
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 39  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|39 |    No     |
 
 ### Log Content
 **[Tutorial System]**<br>
@@ -4680,9 +4680,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos055"/>\[#055\] Audio\_Truck\_690\_07\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 40  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|40 |    No     |
 
 ### Log Content
 **Sasha**<br>
@@ -4831,9 +4831,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos056"/>\[#056\] Multi\_Files\_686\_12\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 40  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|40 |    No     |
 
 ### Log Content
 **Colin**<br>
@@ -4877,7 +4877,7 @@ Certainly!<br>
 ... Master, thank you so much.
 
 **ConneR**<br>
-..._ \*Chuckles\*_ What's the matter? Why this all of a sudden...
+..._\*Chuckles\*_ What's the matter? Why this all of a sudden...
 
 **Grace**<br>
 Thank you for not giving up on Sir and this home... and me.
@@ -4961,9 +4961,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos057"/>\[#057\] Audio\_Truck\_690\_07\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 41  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|41 |    No     |
 
 ### Log Content
 **Sasha**<br>
@@ -5063,9 +5063,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos058"/>\[#058\] Audio\_Garion's\_702\_11\_20
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 42  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|42 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -5174,9 +5174,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos059"/>\[#059\] Audio\_Garion's\_702\_11\_20
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 43  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|43 |    No     |
 
 ### Log Content
 **Waiter**<br>
@@ -5227,9 +5227,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos060"/>\[#060\] Audio\_13St57\_702\_11\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 44  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|44 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -5308,9 +5308,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos061"/>\[#061\] Audio\_Sasha\_702\_11\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 45  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|45 |    No     |
 
 ### Log Content
 **ConneR**<br>
@@ -5467,9 +5467,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos062"/>\[#062\] Audio\_Sasha\_702\_12\_15
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 45  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|45 |    No     |
 
 ### Log Content
 *\[Door Knock\]*
@@ -5641,9 +5641,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos063"/>\[#063\] Audio\_Sasha\_702\_12\_16
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 46  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|46 |    No     |
 
 ### Log Content
 **Sasha**<br>
@@ -5816,9 +5816,9 @@ _\[Signal Lost\]_
 
 ## <a id="cos064"/>\[#064\] Audio\_13St35\_702\_12\_17
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**ConneR**| 47  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**|47 |    No     |
 
 ### Log Content
 **ConneR**<br>

@@ -29,15 +29,14 @@
 
 ## <a id="p0101"/>\[#001\] New Song Released.
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**KANATA**|  PAFF   |Easy |  2  |
-|**KANATA**|  PAFF   |Hard |  6  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**KANATA**|PAFF |Easy | 2 |
+|**KANATA**|PAFF |Hard | 6 |
 
 ### Post
 **PAFF-Official**<br>
-New Song Released.<br>
-
+New Song Released.
 
 ![p0101.png](./attachments/p0101.png)
 ### Replies
@@ -108,9 +107,9 @@ BOUGHT!
 
 ## <a id="p0201"/>\[#002\] \[Announcement\] Connect to major platforms now!
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**KANATA**|  PAFF   |Chaos|  9  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**KANATA**|PAFF |Chaos| 9 |
 
 ### Post
 **PAFF-Official**<br>
@@ -162,20 +161,19 @@ Stop bundling a bunch of junk with it OK! Feels cheated!
 
 ## <a id="p0301"/>\[#003\] Thank you.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 2 |    No     |
 
 ### Unlocked Charts
-|                   Song                    |Character|Diff.|Level|
-|-------------------------------------------|:-------:|:---:|:---:|
-|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Easy |  2  |
-|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Hard |  6  |
+|                   Song                    |Char.|Diff.|Lv.|
+|-------------------------------------------|:---:|:---:|:-:|
+|**Fight Another Day (Andy Tunstall remix)**|PAFF |Easy | 2 |
+|**Fight Another Day (Andy Tunstall remix)**|PAFF |Hard | 6 |
 
 ### Post
 **PAFF-Official**<br>
-Over 1 Million views now. Thank you, everybody. <br>
-
+Over 1 Million views now. Thank you, everybody.
 
 ![p0301.png](./attachments/p0301.png)
 ### Replies
@@ -186,7 +184,7 @@ Only PAFF can surpass PAFF
 Looks like your next Platinum record is not too far away!
 
 **ArupakaKUN**<br>
-\\PAFF/ \\PAFF/ \\PAFF/ \\PAFF/ 
+\\PAFF/ \\PAFF/ \\PAFF/ \\PAFF/
 
 **MustangMartin**<br>
 All my friends are listening to the song <3
@@ -240,14 +238,14 @@ L\-O\-V\-E PAFF \\oo/
 
 ## <a id="p0401"/>\[#004\] Thank you for the support!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 3 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Survive**|  PAFF   |Chaos| 10  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**Survive**|PAFF |Chaos|10 |
 
 ### Post
 **PAFF-Official**<br>
@@ -296,15 +294,15 @@ The composers that help make the music this time are also very good. The music m
 
 ## <a id="p0501"/>\[#005\] \[Announcement\] 7th PAFFCON, ticket sales begin
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  4  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 4 |    No     |
 
 ### Unlocked Charts
-|                Song                 |Character|Diff.|Level|
-|-------------------------------------|:-------:|:---:|:---:|
-|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Easy |  3  |
-|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Hard |  7  |
+|                Song                 |Char.|Diff.|Lv.|
+|-------------------------------------|:---:|:---:|:-:|
+|**Baptism of Fire (CliqTrack remix)**|PAFF |Easy | 3 |
+|**Baptism of Fire (CliqTrack remix)**|PAFF |Hard | 7 |
 
 ### Post
 **PAFF-Official**<br>
@@ -321,7 +319,7 @@ Well then, 7th PAFFCON, see you at Node 08!
 ![p0501.png](./attachments/p0501.png)
 ### Replies
 **NEKO#ΦωΦ**<br>
-Wow a physical concert(ΦωΦ) quite ballsy move lol 
+Wow a physical concert(ΦωΦ) quite ballsy move lol
 
 **IwontBuy**<br>
 Ticket snatchers GO!
@@ -363,14 +361,14 @@ PAFF give me strength! Please let me get one!
 
 ## <a id="p0601"/>\[#006\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 5 |    No     |
 
 ### Unlocked Charts
-|                     Song                      |Character|Diff.|Level|
-|-----------------------------------------------|:-------:|:---:|:---:|
-|**Bullet Waiting for Me (James Landino remix)**|  PAFF   |Chaos| 11  |
+|                     Song                      |Char.|Diff.|Lv.|
+|-----------------------------------------------|:---:|:---:|:-:|
+|**Bullet Waiting for Me (James Landino remix)**|PAFF |Chaos|11 |
 
 ### Post
 **PAFF-Official**<br>
@@ -426,14 +424,14 @@ Can someone post the footage? The news footage is blurry and unrecognizable. Som
 
 ## <a id="p0701"/>\[#007\] 7th PAFFCON, sold out
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** |  7  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 7 |    No     |
 
 ### Unlocked Charts
-|                   Song                    |Character|Diff.|Level|
-|-------------------------------------------|:-------:|:---:|:---:|
-|**Fight Another Day (Andy Tunstall remix)**|  PAFF   |Chaos| 10  |
+|                   Song                    |Char.|Diff.|Lv.|
+|-------------------------------------------|:---:|:---:|:-:|
+|**Fight Another Day (Andy Tunstall remix)**|PAFF |Chaos|10 |
 
 ### Post
 **PAFF-Official**<br>
@@ -494,23 +492,20 @@ Sis Helena please add some more tickets! I had my breaks arranged already! QQ
 
 ## <a id="p0801"/>\[#008\] Want to chat with everybody.
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 11  |
-|**NEKO#ΦωΦ** |  9  |
-|**ROBO_Head**|  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |11 |    No     |
+|**NEKO#ΦωΦ** | 9 |    No     |
+|**ROBO_Head**| 9 |    No     |
 
 ### Unlocked Charts
-|                Song                 |Character|Diff.|Level|
-|-------------------------------------|:-------:|:---:|:---:|
-|**Baptism of Fire (CliqTrack remix)**|  PAFF   |Chaos| 12  |
+|                Song                 |Char.|Diff.|Lv.|
+|-------------------------------------|:---:|:---:|:-:|
+|**Baptism of Fire (CliqTrack remix)**|PAFF |Chaos|12 |
 
 ### Post
 **PAFF-Official**<br>
-Hello everyone, I am PAFF. For a while, both you guys and sis have been suggesting that I post more. 
-
-
-
+Hello everyone, I am PAFF. For a while, both you guys and sis have been suggesting that I post more.
 ### Replies
 **PAFF-Official**<br>
 I also want to interact with everyone more. I'm still a bit nervous, but I'll give it a try.
@@ -525,7 +520,7 @@ It's OK PAFF, just do it at your pace ˊ▽ˋ
 Is sis referring to your agent?
 
 **PAFF-Official**<br>
-Yes, Sis Helena. 
+Yes, Sis Helena.
 
 **YuritheBest**<br>
 \\Hooray for yuri/
@@ -537,7 +532,7 @@ Yes, Sis Helena.
 What does PAFF do when you're free? <3
 
 **PAFF-Official**<br>
-I usually do things like reading and singing. 
+I usually do things like reading and singing.
 
 **AbbEE**<br>
 You really do like singing a lot XD
@@ -552,7 +547,7 @@ PAFF, you can interact with us more during your events\~
 I don't really know what to say on the spot.
 
 **PAFF-Official**<br>
-Typing is easier than talking, but I am still kind of nervous. 
+Typing is easier than talking, but I am still kind of nervous.
 
 **MAN_Dora**<br>
 PUFFERS are all nice people\~
@@ -600,15 +595,15 @@ Everyone, thank you. ^^
 
 ## <a id="p0901"/>\[#009\] \[Repost\] Newest fall catalog ft. collaboration with PAFF
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 13  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|13 |    No     |
 
 ### Unlocked Charts
-|               Song               |Character|Diff.|Level|
-|----------------------------------|:-------:|:---:|:---:|
-|**Fireflies (Funk Fiction remix)**|  PAFF   |Easy |  3  |
-|**Fireflies (Funk Fiction remix)**|  PAFF   |Hard |  6  |
+|               Song               |Char.|Diff.|Lv.|
+|----------------------------------|:---:|:---:|:-:|
+|**Fireflies (Funk Fiction remix)**|PAFF |Easy | 3 |
+|**Fireflies (Funk Fiction remix)**|PAFF |Hard | 6 |
 
 ### Post
 **PAFF-Official**<br>
@@ -645,7 +640,7 @@ Oh \~ it's NEKO\~ didn't get a single cent for it (ΦωΦ)
 LIES, I don't believe it's you
 
 **AnyClue**<br>
-Well, those who talk s\*\*\* about you is usually the one closest to you lol 
+Well, those who talk s\*\*\* about you is usually the one closest to you lol
 
 **Lynx87**<br>
 Here comes the wildcat again!
@@ -672,21 +667,18 @@ No wonder you guys are called Puffs, since your brains have nothing but white cr
 
 ## <a id="p1001"/>\[#010\] Good afternoon everyone, This is PAFF. ^^
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 15  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|15 |    No     |
 
 ### Unlocked Charts
-|               Song               |Character|Diff.|Level|
-|----------------------------------|:-------:|:---:|:---:|
-|**Fireflies (Funk Fiction remix)**|  PAFF   |Chaos| 10  |
+|               Song               |Char.|Diff.|Lv.|
+|----------------------------------|:---:|:---:|:-:|
+|**Fireflies (Funk Fiction remix)**|PAFF |Chaos|10 |
 
 ### Post
 **PAFF-Official**<br>
 Good afternoon everybody. This is PAFF. ^^
-
-
-
 ### Replies
 **ArupakaKUN**<br>
 !!! Good Afternoon PAFF !!!
@@ -734,10 +726,10 @@ Who cares, iM artist come and go all the time lol
 Maybe he'll pop up somewhere someday
 
 **PAFF-Official**<br>
-Excuse me, I'm not feeling so well. Need to rest. 
+Excuse me, I'm not feeling so well. Need to rest.
 
 **PAFF-Official**<br>
-I enjoy chatting with everyone today. I'm not as nervous as last time. 
+I enjoy chatting with everyone today. I'm not as nervous as last time.
 
 **PAFF-Official**<br>
 Hope we have the chance to chat again. ^^
@@ -755,7 +747,7 @@ Rest some more, we will all support you <3
 Hope we can chat with PAFF on an event someday in the future!!
 
 **PAFF-Official**<br>
-Yes. If it's possible here, I should be able to talk a bit more when I'm on stage. 
+Yes. If it's possible here, I should be able to talk a bit more when I'm on stage.
 
 **PAFF-Official**<br>
 Sis is telling me to go to bed. Thank you everyone for your care. ^^
@@ -770,16 +762,13 @@ Good night have a good sleep <3
 
 ## <a id="p1101"/>\[#011\] At the backstage.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 16  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|16 |    No     |
 
 ### Post
 **PAFF-Official**<br>
 Preparing backstage, see you guys later. ^^
-
-
-
 
 ![p1101.png](./attachments/p1101.png)
 ### Replies
@@ -842,11 +831,11 @@ Look forward to seeing PAFF!
 
 ## <a id="p1201"/>\[#012\] PAFF\-Official on Air.
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 17  |
-|**NEKO#ΦωΦ** | 17  |
-|**ROBO_Head**| 17  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |17 |    Yes    |
+|**NEKO#ΦωΦ** |17 |    Yes    |
+|**ROBO_Head**|17 |    Yes    |
 
 ### Post
 **PAFF-Official**<br>
@@ -855,20 +844,20 @@ Look forward to seeing PAFF!
 
 ## <a id="p1301"/>\[#013\] \[Emergency Announcement\]
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 17  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|17 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Gravity**|  PAFF   |Easy |  3  |
-|**Gravity**|  PAFF   |Hard |  7  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**Gravity**|PAFF |Easy | 3 |
+|**Gravity**|PAFF |Hard | 7 |
 
 ### Post
 **PAFF-Official**<br>
 Fellow fans, sorry for the interruption. I am Helena, PAFF's agent.<br>
-A few moments ago, when performing the Encore song, PAFF collapsed on stage. We have PAFF taken to the hospital already. A doctor is checking on her. 
+A few moments ago, when performing the Encore song, PAFF collapsed on stage. We have PAFF taken to the hospital already. A doctor is checking on her.
 ### Replies
 **Ararar**<br>
 EHHHHHHH what happened!?
@@ -878,7 +867,7 @@ Can you guys at the venue tell us what the hell happened!?
 
 **PAFF-Official**<br>
 PAFF is in a stable condition, nothing critical. She just hasn't woke up.<br>
-We would like fellow fans to calm down. We will update you accordingly. 
+We would like fellow fans to calm down. We will update you accordingly.
 
 **AnyClue**<br>
 We are all still at the venue, no staff in sight and everything is a mess
@@ -991,15 +980,15 @@ We should all pray...pray that PAFF will be alright<br>
 
 ## <a id="p1401"/>\[#014\] \[Announcement\] PAFF is now awake, everything is fine.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 18  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|18 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Re:Boost**|  PAFF   |Easy |  2  |
-|**Re:Boost**|  PAFF   |Hard |  5  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Re:Boost**|PAFF |Easy | 2 |
+|**Re:Boost**|PAFF |Hard | 5 |
 
 ### Post
 **PAFF-Official**<br>
@@ -1017,7 +1006,7 @@ PAFF is a very shy child. I know that because I grew up with her. Her devotion t
 
 I would like fans to not abandon her due to her physical shortcomings. Besides music, your support is the only thing that keeps her going.
 
-For remaining with her and supporting her through all these times, I am deeply grateful. All of you, thank you so much! 
+For remaining with her and supporting her through all these times, I am deeply grateful. All of you, thank you so much!
 
 ![p1401.png](./attachments/p1401.png)
 ### Replies
@@ -1034,7 +1023,7 @@ We are all here!!<br>
 **\#PrayForPAFF**
 
 **Popo**<br>
-Anyone got anything on the accident? Just curious. 
+Anyone got anything on the accident? Just curious.
 
 **iluvpuf**<br>
 PAFF Fight!! We are all here for you!!<br>
@@ -1141,26 +1130,24 @@ You will be fine!<br>
 
 ## <a id="p1501"/>\[#015\] Going back home, sorry for making everybody worried.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 19  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|19 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Gravity**|  PAFF   |Chaos| 12  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**Gravity**|PAFF |Chaos|12 |
 
 ### Post
 **PAFF-Official**<br>
 Arrived home with Sis.<br>
 I've seen everybody's blessings. Thank you. ^^
 
-
-
 ![p1501.png](./attachments/p1501.png)
 ### Replies
 **PAFF-Official**<br>
-The check\-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now. 
+The check\-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now.
 
 **CandiceNaoko**<br>
 It's a post from the real PAFF! She's back home to rest, thank god >\_<**<br>
@@ -1177,7 +1164,7 @@ Get some rest. We'll all be here for you!<br>
 PAFF please log off and get some rest
 
 **vvv_IRIS_vvv**<br>
-If it's a post from herself we should be a little at ease now. 
+If it's a post from herself we should be a little at ease now.
 
 **IronFan**<br>
 PAFF mentioned this "dizzy" thing several times already. Did the doctor not check it?
@@ -1230,9 +1217,9 @@ Good work for both you and Sis! We will always support you!
 
 ## <a id="p1601"/>\[#016\] \[Announcement\] Public schedule put on hold
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 20  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|20 |    No     |
 
 ### Post
 **PAFF-Official**<br>
@@ -1306,14 +1293,14 @@ As a PUFFER I will not refund the ticket... I'll keep it as a souvenir
 
 ## <a id="p1701"/>\[#017\] Please give PAFF all your support!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 20  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|20 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Re:Boost**|  PAFF   |Chaos| 11  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Re:Boost**|PAFF |Chaos|11 |
 
 ### Post
 **PAFF-Official**<br>
@@ -1398,16 +1385,13 @@ Anyone know which hospital she is at?
 
 ## <a id="p1801"/>\[#018\] Check up.
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 21  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|21 |    No     |
 
 ### Post
 **PAFF-Official**<br>
 Checking up at the hospital.
-
-
-
 ### Replies
 **CandiceNaoko**<br>
 PAFF is at the hospital, everyone pray for PAFF!<br>
@@ -1488,15 +1472,15 @@ PAFF you're on your way<br>
 
 ## <a id="p1901"/>\[#019\] \[Announcement\] Premium collection now underway!
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 21  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|21 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Green Hope**|  PAFF   |Easy |  3  |
-|**Green Hope**|  PAFF   |Hard |  7  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Green Hope**|PAFF |Easy | 3 |
+|**Green Hope**|PAFF |Hard | 7 |
 
 ### Post
 **PAFF-Official**<br>
@@ -1533,7 +1517,7 @@ Isn't this a bit too much work for PAFF? Is this Sis Helena's decision?
 Premium collections nowadays is likely handled by the companies..."likely"
 
 **vvv_IRIS_vvv**<br>
-As long as PAFF gets enough rest I don't mind. I am just worried. 
+As long as PAFF gets enough rest I don't mind. I am just worried.
 
 **SancTityKnight**<br>
 What are they trying to promote some unknown newbie?
@@ -1557,16 +1541,16 @@ We can only wait and see
 
 ## <a id="p2001"/>\[#020\] \[Announcement\] Activities suspended and rest
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 24  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|24 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Under the same sky**|  PAFF   |Easy |  1  |
-|**Under the same sky**|  PAFF   |Hard |  7  |
-|**Under the same sky**|  PAFF   |Chaos|  9  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Under the same sky**|PAFF |Easy | 1 |
+|**Under the same sky**|PAFF |Hard | 7 |
+|**Under the same sky**|PAFF |Chaos| 9 |
 
 ### Post
 **PAFF-Official**<br>
@@ -1652,9 +1636,9 @@ Puffs let's go to Mono Music to figure out what the hell is up!!
 
 ## <a id="p2101"/>\[#021\] \[Announcement\] Regarding《Around the Nodes》concert tour refunds
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 26  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|26 |    No     |
 
 ### Post
 **PAFF-Official**<br>
@@ -1753,9 +1737,9 @@ Don't really want to support Mono's events from now on. SkyEkho might be the bet
 
 ## <a id="p2201"/>\[#022\] \[Announcement\] Tower 054 celebration event guest revealed
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 27  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|27 |    No     |
 
 ### Post
 **PAFF-Official**<br>
@@ -1839,11 +1823,11 @@ Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 
 ## <a id="p2301"/>\[#023\] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 34  |
-|**NEKO#ΦωΦ** | 34  |
-|**ROBO_Head**| 33  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |34 |    Yes    |
+|**NEKO#ΦωΦ** |34 |    Yes    |
+|**ROBO_Head**|33 |    Yes    |
 
 ### Post
 **PAFF-Official**<br>
@@ -1964,11 +1948,11 @@ Stop exaggerating the truth idiots. It's not funny at all!
 
 ## <a id="p2401"/>\[#024\] I am very sorry to everyone
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 34  |
-|**NEKO#ΦωΦ** | 34  |
-|**ROBO_Head**| 33  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |34 |    No     |
+|**NEKO#ΦωΦ** |34 |    No     |
+|**ROBO_Head**|33 |    No     |
 
 ### Post
 **Helena**<br>
@@ -1984,8 +1968,7 @@ Last but not least, thank you for reading this entire post. I don't expect anyon
 
 Monophonic Entertainment<br>
 PAFF's agent<br>
-Helena White<br>
-
+Helena White
 ### Replies
 **HolyEarth**<br>
 Sis fight! We are all here to support you \~\~\~\~\~
@@ -2033,9 +2016,9 @@ What happened PAFF >"< Why are you making everyone so worried
 
 ## <a id="p2501"/>\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 36  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|36 |    No     |
 
 ### Post
 **PAFF-Official**<br>
@@ -2122,9 +2105,9 @@ I combined the two hashtags so we can kill two birds with one stone. I'm a geniu
 
 ## <a id="p2601"/>\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**PAFF** | 40  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|40 |    No     |
 
 ### Post
 **PAFF-Official**<br>

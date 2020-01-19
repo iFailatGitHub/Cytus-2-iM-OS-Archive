@@ -152,11 +152,11 @@ _\[→Signal Lost\]_
 
 ## <a id="rios002"/>\[#002\] Audio\_YazawaRI\_494\_12\_25
 ### Unlocked Charts
-|             Song             |Character|Diff.|Level|
-|------------------------------|:-------:|:---:|:---:|
-|**「妖怪録、我し来にけり。」**|   Rin   |Easy |  4  |
-|**「妖怪録、我し来にけり。」**|   Rin   |Hard |  8  |
-|**「妖怪録、我し来にけり。」**|   Rin   |Chaos| 14  |
+|             Song             |Char.|Diff.|Lv.|
+|------------------------------|:---:|:---:|:-:|
+|**「妖怪録、我し来にけり。」**| Rin |Easy | 4 |
+|**「妖怪録、我し来にけり。」**| Rin |Hard | 8 |
+|**「妖怪録、我し来にけり。」**| Rin |Chaos|14 |
 
 ### Log Content
 **Rin**<br>
@@ -319,9 +319,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios003"/>\[#003\] Cam\_YazawaRI\_494\_12\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  2  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 2 |    No     |
 
 ### Log Content
 **Rin**<br>
@@ -486,16 +486,16 @@ _\[Signal Lost\]_
 
 ## <a id="rios004"/>\[#004\] Audio\_YazawaRI\_495\_03\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  3  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 3 |    No     |
 
 ### Unlocked Charts
-|       Song        |Character|Diff.|Level|
-|-------------------|:-------:|:---:|:---:|
-|**Starry Summoner**|   Rin   |Easy |  2  |
-|**Starry Summoner**|   Rin   |Hard |  5  |
-|**Starry Summoner**|   Rin   |Chaos| 10  |
+|       Song        |Char.|Diff.|Lv.|
+|-------------------|:---:|:---:|:-:|
+|**Starry Summoner**| Rin |Easy | 2 |
+|**Starry Summoner**| Rin |Hard | 5 |
+|**Starry Summoner**| Rin |Chaos|10 |
 
 ### Log Content
 **Rin**<br>
@@ -635,9 +635,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios005"/>\[#005\] Audio\_Academy\_495\_03\_21
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  4  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 4 |    No     |
 
 ### Log Content
 **Rin**<br>
@@ -778,9 +778,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios006"/>\[#006\] Audio\_Academy\_495\_08\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  5  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 5 |    No     |
 
 ### Log Content
 **Rin**<br>
@@ -945,16 +945,16 @@ _\[Signal Lost\]_
 
 ## <a id="rios007"/>\[#007\] Audio\_YazawaRI\_495\_09\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  6  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 6 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**すゝめ☆クノイチの巻**|   Rin   |Easy |  5  |
-|**すゝめ☆クノイチの巻**|   Rin   |Hard |  9  |
-|**すゝめ☆クノイチの巻**|   Rin   |Chaos| 14  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**すゝめ☆クノイチの巻**| Rin |Easy | 5 |
+|**すゝめ☆クノイチの巻**| Rin |Hard | 9 |
+|**すゝめ☆クノイチの巻**| Rin |Chaos|14 |
 
 ### Log Content
 **OPCII_0584_X**<br>
@@ -1095,9 +1095,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios008"/>\[#008\] Audio\_YazawaRI\_495\_12\_11
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  7  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 7 |    No     |
 
 ### Log Content
 **Rin**<br>
@@ -1236,9 +1236,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios009"/>\[#009\] Audio\_Kawasaki\_495\_12\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  8  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 8 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1383,9 +1383,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios010"/>\[#010\] Cam\_YazawaRI\_495\_11\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  |  9  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 9 |    No     |
 
 ### Log Content
 **OPCII_0584_X**<br>
@@ -1527,16 +1527,16 @@ _\[Signal Lost\]_
 
 ## <a id="rios011"/>\[#011\] Audio\_YazawaRI\_496\_12\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 10  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|10 |    No     |
 
 ### Unlocked Charts
-| Song  |Character|Diff.|Level|
-|-------|:-------:|:---:|:---:|
-|**彩** |   Rin   |Easy |  4  |
-|**彩** |   Rin   |Hard |  9  |
-|**彩** |   Rin   |Chaos| 14  |
+| Song  |Char.|Diff.|Lv.|
+|-------|:---:|:---:|:-:|
+|**彩** | Rin |Easy | 4 |
+|**彩** | Rin |Hard | 9 |
+|**彩** | Rin |Chaos|14 |
 
 ### Log Content
 *\[Warning\]*
@@ -1698,9 +1698,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios012"/>\[#012\] Audio\_Yazawa\_496\_12\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 11  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|11 |    No     |
 
 ### Log Content
 **Katsuya**<br>
@@ -1718,7 +1718,7 @@ Yeah... I'm fine.
 ......
 
 **Rin**<br>
-Dad... Mom... 
+Dad... Mom... _\*sob\*...\*sob\*_...
 
 *\[Door Knock\]*
 
@@ -1782,7 +1782,7 @@ I'm... so sorry.
 Rin? Are you there?
 
 **Rin**<br>
-... 
+... _\*sob\*... \*sob\*_...
 
 **OPCII_0584_X**<br>
 ... Rin, once we talked about how our voices sound alike... Do you remember?
@@ -1806,7 +1806,7 @@ I really hope there's no barrier between us... Whether or not Architects have th
 Haha, Architects... I don't even have the ability to produce tears... I'm obviously upset, but I can't cry...
 
 **Rin**<br>
-...
+..._\*sob\*_...
 
 *\[Notification\]*
 
@@ -1843,9 +1843,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios013"/>\[#013\] Audio\_arch\_496\_12\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 12  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|12 |    No     |
 
 ### Log Content
 *\[Data Input\]*
@@ -2030,9 +2030,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios014"/>\[#014\] Audio\_Kawasaki\_496\_12\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 13  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|13 |    No     |
 
 ### Log Content
 *\[Door Knock\]*
@@ -2190,9 +2190,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios015"/>\[#015\] Audio\_TVstation\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 14  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|14 |    No     |
 
 ### Log Content
 **[Speaker]**<br>
@@ -2321,7 +2321,8 @@ Waaahhhh!
 Someone's got a gun! Run!
 
 **[Speaker]**<br>
-_None_
+_Everyone calm down! None of us are carrying any weapons!<br>
+......AAHHH!_
 
 *\[Shots Fired\]*
 
@@ -2345,16 +2346,16 @@ _\[Signal Lost\]_
 
 ## <a id="rios016"/>\[#016\] Audio\_TVstation\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 15  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|15 |    No     |
 
 ### Unlocked Charts
-|  Song  |Character|Diff.|Level|
-|--------|:-------:|:---:|:---:|
-|**決戦**|   Rin   |Easy |  4  |
-|**決戦**|   Rin   |Hard |  7  |
-|**決戦**|   Rin   |Chaos| 13  |
+|  Song  |Char.|Diff.|Lv.|
+|--------|:---:|:---:|:-:|
+|**決戦**| Rin |Easy | 4 |
+|**決戦**| Rin |Hard | 7 |
+|**決戦**| Rin |Chaos|13 |
 
 ### Log Content
 **Rin**<br>
@@ -2494,9 +2495,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios017"/>\[#017\] Audio\_KumoSt\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 16  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|16 |    No     |
 
 ### Log Content
 **Takano**<br>
@@ -2594,9 +2595,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios018"/>\[#018\] Audio\_KumoSt\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 16  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|16 |    No     |
 
 ### Log Content
 *\[Gunshot\]*
@@ -2725,20 +2726,20 @@ _\[Signal Lost\]_
 
 ## <a id="rios019"/>\[#019\] Cam\_Yazawa\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 17  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|17 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Mari-Temari**|   Rin   |Easy |  2  |
-|**Mari-Temari**|   Rin   |Hard |  6  |
-|**Mari-Temari**|   Rin   |Chaos| 11  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Mari-Temari**| Rin |Easy | 2 |
+|**Mari-Temari**| Rin |Hard | 6 |
+|**Mari-Temari**| Rin |Chaos|11 |
 
 ### Log Content
 **Rin**<br>
-_\*sob\*...\*sob\*_
+_\*sob\*...\*sob\*_... Katsuya...
 
 *\[Phone Rings\]*
 
@@ -2841,9 +2842,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios020"/>\[#020\] Audio\_TsukiSt\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 18  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|18 |    No     |
 
 ### Log Content
 **[OPCII_0584_X]**<br>
@@ -2856,7 +2857,7 @@ Help! Help!
 Spare us! We didn't do anything!
 
 **[OPCII_0584_X]**<br>
-_None_
+_Elim\-Elim\-E\-E\-Eliminate..._
 
 **Rin**<br>
 Stop!
@@ -2886,7 +2887,7 @@ _......_
 
 **Rin**<br>
 Ugh!<br>
-
+_\*cough\*_... uhh... _\*cough\*_...
 
 **[OPCII_0584_X]**<br>
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
@@ -2900,7 +2901,7 @@ _......_
 *\[Footsteps\]*
 
 **Rin**<br>
-Think! Don't you know me...? _\*cough\*_
+Think! Don't you know me...? _\*cough\*_... This isn't you...
 
 **[OPCII_0584_X]**<br>
 _......_
@@ -2941,9 +2942,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios021"/>\[#021\] Cam\_TsukiSt\_497\_01\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|19 |    No     |
 
 ### Log Content
 *\[Bang\]*
@@ -3041,9 +3042,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios022"/>\[#022\] Cam\_TsukiSt\_497\_01\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|19 |    No     |
 
 ### Log Content
 ![rios2201.png](./attachments/rios2201.png)
@@ -3182,9 +3183,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios023"/>\[#023\] Image\_???\_497\_01\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|19 |    No     |
 
 ### Log Content
 ![rios2301.png](./attachments/rios2301.png)
@@ -3193,9 +3194,9 @@ _\[Signal Lost\]_
 
 ## <a id="rios024"/>\[#024\] Audio\_Arc\_701\_07\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|19 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -3329,16 +3330,16 @@ _\[Signal Lost\]_
 
 ## <a id="rios025"/>\[#025\] Cam\_Arc\_701\_07\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Rin**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|19 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Inari**|   Rin   |Easy |  3  |
-|**Inari**|   Rin   |Hard |  6  |
-|**Inari**|   Rin   |Chaos| 11  |
+|  Song   |Char.|Diff.|Lv.|
+|---------|:---:|:---:|:-:|
+|**Inari**| Rin |Easy | 3 |
+|**Inari**| Rin |Hard | 6 |
+|**Inari**| Rin |Chaos|11 |
 
 ### Log Content
 *\[Door Opens\]*

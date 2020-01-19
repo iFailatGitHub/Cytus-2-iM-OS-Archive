@@ -264,7 +264,7 @@ Big sis' cat is also with me. Tell her not to worry._
 Got it. If anything happens, I'll contact you again.
 
 **[JOE]**<br>
-_Ah, one more thing. NEKO and PAFF are staying at my place right now. Do you want to talk to her? _
+_Ah, one more thing. NEKO and PAFF are staying at my place right now. Do you want to talk to her?_
 
 **Xenon**<br>
 ... Yeah.
@@ -279,7 +279,7 @@ _Muuuuu.... ten more minutes..._
 _It's a call from Xenon\~_
 
 **[NEKO]**<br>
-_None_
+_Xe... Xenon!? Hello?_
 
 **Xenon**<br>
 ... Are you sleeping? Isn't it suppose to be daytime over there?
@@ -453,9 +453,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos004"/>\[#004\] Audio\_KaiStudio\_702\_11\_20
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  2  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 2 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -577,14 +577,14 @@ _\[Signal Lost\]_
 
 ## <a id="cpos005"/>\[#005\] Cam\_KaiStudio\_702\_11\_21
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  3  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 3 |    No     |
 
 ### Unlocked Charts
-|        Song         | Character  |Diff.|Level|
-|---------------------|:----------:|:---:|:---:|
-|**Sunshine Duration**|Crystal PuNK|Chaos| 12  |
+|        Song         |   Char.    |Diff.|Lv.|
+|---------------------|:----------:|:---:|:-:|
+|**Sunshine Duration**|Crystal PuNK|Chaos|12 |
 
 ### Log Content
 *\[Browsing data\]*
@@ -746,9 +746,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos006"/>\[#006\] Audio\_KaiStudio\_702\_11\_22
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  4  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 4 |    No     |
 
 ### Log Content
 **[TV]**<br>
@@ -910,7 +910,7 @@ _You are...... Stop...... Initiate Law Enforcement Procedure..._
 *\[Machine Gun\]*
 
 **[Luis]**<br>
-_Carly！ ？ Carly！ ！ ！ _
+_Carly！ ？ Carly！ ！ ！_
 
 _\[Signal Lost\]_
 
@@ -918,9 +918,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos007"/>\[#007\] Audio\_RuinZone\_702\_11\_25
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  5  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 5 |    No     |
 
 ### Log Content
 *\[Machine Gun\]*
@@ -1097,9 +1097,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos008"/>\[#008\] Multi\_File\_CP008
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  6  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 6 |    No     |
 
 ### Log Content
 **Bureau Supervisor**<br>
@@ -1255,9 +1255,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos009"/>\[#009\] Audio\_Luis\_689\_08\_22
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  7  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 7 |    No     |
 
 ### Log Content
 **Luis**<br>
@@ -1380,9 +1380,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos010"/>\[#010\] Audio\_Butsudou\_702\_11\_22
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  8  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 8 |    No     |
 
 ### Log Content
 **Ryu**<br>
@@ -1465,7 +1465,7 @@ _... "Carried out the ambush by destroying the lighting in the underground facil
 Certainly. Is something wrong with that?
 
 **[Nora]**<br>
-_The underground facility uses ancient civilization technology of the Architects. There aren't a lot of people capable of controlling or hacking this technology... or I should say, as far as I know, there are only a couple. If you add that to the action of "destroying the transaction itself"... I think that at least one of the three culprits is from Node 08. If that's the case, then I believe the responsibility belongs to you, an 08 organization. _
+_The underground facility uses ancient civilization technology of the Architects. There aren't a lot of people capable of controlling or hacking this technology... or I should say, as far as I know, there are only a couple. If you add that to the action of "destroying the transaction itself"... I think that at least one of the three culprits is from Node 08. If that's the case, then I believe the responsibility belongs to you, an 08 organization._
 
 **Diego**<br>
 Hoho? You seem to be pretty good at guessing, but what is your evidence? Or, are you going to provide evidence right here with your eyes...
@@ -1478,7 +1478,7 @@ Kyuu Hou Kai provides the goods. Accidents that occur during the shipping proces
 Nora... Mogura, Kyuu Hou Kai and the Baro Brotherhood own at least 70% of the underground societies of 03 and 08. Our alliance has the utmost importance...
 
 **[Nora]**<br>
-_I said before, I am not interested in 70% of the businesses you currently have. These three people you're looking for, weapon transactions, and this self\-proclaimed "alliance" of yours are all included in that 70%. _
+_I said before, I am not interested in 70% of the businesses you currently have. These three people you're looking for, weapon transactions, and this self\-proclaimed "alliance" of yours are all included in that 70%._
 
 **Ryu**<br>
 ......
@@ -1528,9 +1528,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos011"/>\[#011\] Audio\_SusukiSt\_702\_11\_24
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**|  9  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 9 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -1629,7 +1629,7 @@ I advise you to put your gun down.
 Hoho? You got guts to point a gun at me. Do you know who I am!?
 
 **Xenon**<br>
-... 
+... _\*Sigh\*_, where did the "keep a low profile" part go...
 
 *\[Hacking\]*
 
@@ -1713,16 +1713,16 @@ _\[Signal Lost\]_
 
 ## <a id="cpos012"/>\[#012\] Cam\_SusukiSt\_702\_11\_24\_1
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 10  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|10 |    No     |
 
 ### Unlocked Charts
-|    Song     | Character  |Diff.|Level|
-|-------------|:----------:|:---:|:---:|
-|**Deep Dive**|Crystal PuNK|Easy |  2  |
-|**Deep Dive**|Crystal PuNK|Hard |  6  |
-|**Deep Dive**|Crystal PuNK|Chaos| 13  |
+|    Song     |   Char.    |Diff.|Lv.|
+|-------------|:----------:|:---:|:-:|
+|**Deep Dive**|Crystal PuNK|Easy | 2 |
+|**Deep Dive**|Crystal PuNK|Hard | 6 |
+|**Deep Dive**|Crystal PuNK|Chaos|13 |
 
 ### Log Content
 *\[Explosion\]*
@@ -1875,9 +1875,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos013"/>\[#013\] Cam\_SusukiSt\_702\_11\_24\_2
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 10  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|10 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -1949,9 +1949,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos014"/>\[#014\] Audio\_KaiStudio\_702\_12\_01
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 11  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|11 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -2001,7 +2001,7 @@ In other words, we'll have to negotiate with Kyuu Hou Kai...?
 
 **[Rald]**<br>
 _Doesn't have to be that complicated.<br>
-The gang has used "The Eye of Horus" ability to gain profit for itself. Thus, I went through their "transaction" records in the past and was able to reverse track it back to the "entrance". I then proceeded to directly transfer some money to them... a sum so big that's going to catch even the gangs by surprise. _
+The gang has used "The Eye of Horus" ability to gain profit for itself. Thus, I went through their "transaction" records in the past and was able to reverse track it back to the "entrance". I then proceeded to directly transfer some money to them... a sum so big that's going to catch even the gangs by surprise._
 
 **Cherry**<br>
 So that person sees anyone as long as they have the money?
@@ -2032,7 +2032,7 @@ Does this count as you complimenting us in a roundabout way?
 
 **[Rald]**<br>
 _Haha.<br>
-As long as we can use "The Eye of Horus" ability and pair that with Mr. Jackson's skills, we'll be able to discover a part... no, perhaps a much bigger part of the truth than we thought. But... _
+As long as we can use "The Eye of Horus" ability and pair that with Mr. Jackson's skills, we'll be able to discover a part... no, perhaps a much bigger part of the truth than we thought. But..._
 
 **Cherry**<br>
 But?
@@ -2071,9 +2071,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos015"/>\[#015\] Audio\_Bookstore\_702\_12\_02
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 12  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|12 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -2196,16 +2196,16 @@ _\[Signal Lost\]_
 
 ## <a id="cpos016"/>\[#016\] Audio\_KyuuLab\_702\_12\_02
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 12  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|12 |    No     |
 
 ### Unlocked Charts
-|   Song   | Character  |Diff.|Level|
-|----------|:----------:|:---:|:---:|
-|**βinαrΨ**|Crystal PuNK|Easy |  4  |
-|**βinαrΨ**|Crystal PuNK|Hard |  7  |
-|**βinαrΨ**|Crystal PuNK|Chaos| 12  |
+|   Song   |   Char.    |Diff.|Lv.|
+|----------|:----------:|:---:|:-:|
+|**βinαrΨ**|Crystal PuNK|Easy | 4 |
+|**βinαrΨ**|Crystal PuNK|Hard | 7 |
+|**βinαrΨ**|Crystal PuNK|Chaos|12 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2385,9 +2385,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos017"/>\[#017\] Cam\_Nora\_702\_12\_02
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 13  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|13 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -2539,16 +2539,16 @@ _\[Signal Lost\]_
 
 ## <a id="cpos018"/>\[#018\] Audio\_Nora\_702\_12\_02
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 14  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|14 |    No     |
 
 ### Unlocked Charts
-|      Song      | Character  |Diff.|Level|
-|----------------|:----------:|:---:|:---:|
-|**Dark Madness**|Crystal PuNK|Easy |  4  |
-|**Dark Madness**|Crystal PuNK|Hard |  7  |
-|**Dark Madness**|Crystal PuNK|Chaos| 13  |
+|      Song      |   Char.    |Diff.|Lv.|
+|----------------|:----------:|:---:|:-:|
+|**Dark Madness**|Crystal PuNK|Easy | 4 |
+|**Dark Madness**|Crystal PuNK|Hard | 7 |
+|**Dark Madness**|Crystal PuNK|Chaos|13 |
 
 ### Log Content
 **PAFF**<br>
@@ -2672,9 +2672,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos019"/>\[#019\] Audio\_Kyuu\_702\_12\_05
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 15  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|15 |    No     |
 
 ### Log Content
 **Member D**<br>
@@ -2732,7 +2732,7 @@ It's not like you to feign ignorance.<br>
 I've received news that Simon Jackson and Sherry Pauline are currently hiding here. These two have interfered into the weapon transaction between Mogura and us. You should hand them over and let us deal with them accordingly.
 
 **[Nora]**<br>
-_... Those two? I figure it's about time we start sorting things out as well. _
+_... Those two? I figure it's about time we start sorting things out as well._
 
 **Diego**<br>
 Since that's the way it is, I'll be blunt. You know very well that to the Baro brotherhood... no, to this three\-way alliance, those two are our common enemy. Yet you hid and sheltered them behind our backs. May I ask what is all this about?
@@ -2835,9 +2835,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos020"/>\[#020\] Audio\_KyuuLab\_702\_12\_07
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 16  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|16 |    No     |
 
 ### Log Content
 *\[Equipment operating\]*
@@ -2968,9 +2968,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos021"/>\[#021\] Audio\_Nora\_702\_12\_08
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 17  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|17 |    No     |
 
 ### Log Content
 **[Game Console]**<br>
@@ -3137,9 +3137,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos022"/>\[#022\] Multi\_File\_CP022
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 18  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|18 |    No     |
 
 ### Log Content
 _\[→Audio\_???\_695\_10\_26\]_
@@ -3277,9 +3277,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos023"/>\[#023\] Cam\_Kyuu\_702\_12\_10
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 18  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|18 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -3452,9 +3452,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos024"/>\[#024\] Cam\_Cafe\_702\_12\_10
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 19  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|19 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -3530,9 +3530,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos025"/>\[#025\] Audio\_Nora\_702\_12\_10\_1
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 20  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|20 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3709,9 +3709,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos026"/>\[#026\] Audio\_Nora\_702\_12\_10\_2
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 20  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|20 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -3796,9 +3796,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos027"/>\[#027\] Audio\_KyuuLab\_702\_12\_11
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 21  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|21 |    No     |
 
 ### Log Content
 *\[Data Input\]*
@@ -3886,7 +3886,7 @@ _... Technically speaking, my eyes aren't actually "blind". However, my optic ne
 Yes. Just like you've mentioned before, if I can't master this ability, my entire mind may end up getting trapped inside...
 
 **[Nora]**<br>
-_"Virtual\-internet Related Post\-Traumatic Stress Disorder", or VR PTSD for short, is a medically recognized disease. According to my research, our situation may be similar to this. In addition, this disease doesn't just affect ability users who are immune to the virus. If regular people suffer excessive impact and stimulation while connected, it may result in a situation where they too have a part of their mind trapped inside that space. _
+_"Virtual\-internet Related Post\-Traumatic Stress Disorder", or VR PTSD for short, is a medically recognized disease. According to my research, our situation may be similar to this. In addition, this disease doesn't just affect ability users who are immune to the virus. If regular people suffer excessive impact and stimulation while connected, it may result in a situation where they too have a part of their mind trapped inside that space._
 
 **[Nora]**<br>
 _In other words, cyTus... the technology of the entire Library itself and the secrets it hides are deeply related to us. This is also a major subject of the virus research I took over from Phoenix._
@@ -3896,7 +3896,7 @@ _In other words, cyTus... the technology of the entire Library itself and the se
 
 **[Nora]**<br>
 _It is still unclear, but I believe that everything will be cleared up soon.<br>
-Thanks to you, the vaccine for the virus has made new progress. Perhaps in a few days, we'll be able to develop a sample using this new module. _
+Thanks to you, the vaccine for the virus has made new progress. Perhaps in a few days, we'll be able to develop a sample using this new module._
 
 **PAFF**<br>
 For real!? That's great news!
@@ -3910,9 +3910,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos028"/>\[#028\] Cam\_Nora\_702\_12\_14
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 22  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|22 |    No     |
 
 ### Log Content
 *\[Alarm\]*
@@ -3965,7 +3965,7 @@ Crap... Chief, we'll have to deploy more people to defend.
 
 **[Nora]**<br>
 _This battle will more or less cause everyone some discomfort. Please forgive us. Nonetheless, staying in here will ensure that you won't be in danger.<br>
-Daigo, we'll go to the area 03 control room. I'll personally operate the defense system. _
+Daigo, we'll go to the area 03 control room. I'll personally operate the defense system._
 
 **ROBO_Head**<br>
 ......
@@ -4079,9 +4079,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos029"/>\[#029\] Audio\_Kyuu\_702\_12\_14\_1
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 22  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|22 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -4205,9 +4205,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos030"/>\[#030\] Audio\_Kyuu\_702\_12\_14\_2
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 22  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|22 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -4345,9 +4345,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos031"/>\[#031\] Cam\_Ward\_702\_12\_14
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 23  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|23 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4424,7 +4424,7 @@ These words of gratitude, you should tell them to Sherry. She'll be much more el
 When will she wake up?
 
 **[Nora]**<br>
-_The life support system and virtual device are currently repairing and stabilizing her mind. Meanwhile, they are providing her with the nutrients she needs and transfusing the blood she lost. In approximately a few hours, she'll be able to make a full recovery. _
+_The life support system and virtual device are currently repairing and stabilizing her mind. Meanwhile, they are providing her with the nutrients she needs and transfusing the blood she lost. In approximately a few hours, she'll be able to make a full recovery._
 
 **NEKO#ΦωΦ**<br>
 Amazing. Just this one giant machine and you can automatically heal a person!
@@ -4527,9 +4527,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos032"/>\[#032\]  Audio\_Kyuu\_702\_12\_15\_1
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 24  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|24 |    No     |
 
 ### Log Content
 *\[Lights Off\]*
@@ -4625,9 +4625,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos033"/>\[#033\] Cam\_Ward\_702\_12\_15
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 24  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|24 |    No     |
 
 ### Log Content
 *\[Kicks Door\]*
@@ -4757,9 +4757,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos034"/>\[#034\] Audio\_Kyuu\_702\_12\_15\_2
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 25  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|25 |    No     |
 
 ### Log Content
 *\[Power on\]*
@@ -4911,7 +4911,7 @@ Hey! NEKO!
 _Let her go. Daigo, make sure someone's escorting her. At least make sure she arrives home safely._
 
 **[Nora]**<br>
-_Just as Miss Asakura said, this place indeed can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore. _
+_Just as Miss Asakura said, this place indeed can't be considered safe anymore. I underestimated the enemy's ability and put my guests through this kind of risk... I'm no longer qualified to make a promise for your safety. From now on, you don't have to stay here anymore._
 
 _\[Signal Lost\]_
 
@@ -4919,9 +4919,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos035"/>\[#035\] Message\_JOE\_702\_12\_21
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 26  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|26 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -4983,16 +4983,16 @@ _[\[JOE is offline\]]_<br>
 
 ## <a id="cpos036"/>\[#036\] Audio\_KaiStudio\_702\_12\_24
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 27  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|27 |    No     |
 
 ### Unlocked Charts
-|             Song              | Character  |Diff.|Level|
-|-------------------------------|:----------:|:---:|:---:|
-|**The Cross (feat. Silvia Su)**|Crystal PuNK|Easy |  4  |
-|**The Cross (feat. Silvia Su)**|Crystal PuNK|Hard |  6  |
-|**The Cross (feat. Silvia Su)**|Crystal PuNK|Chaos| 11  |
+|             Song              |   Char.    |Diff.|Lv.|
+|-------------------------------|:----------:|:---:|:-:|
+|**The Cross (feat. Silvia Su)**|Crystal PuNK|Easy | 4 |
+|**The Cross (feat. Silvia Su)**|Crystal PuNK|Hard | 6 |
+|**The Cross (feat. Silvia Su)**|Crystal PuNK|Chaos|11 |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -5185,9 +5185,9 @@ _\[Signal Lost\]_
 
 ## <a id="cpos037"/>\[#037\] Audio\_Trans\_03\_702\_12\_26
 ### Requirements
-|   Character    |Level|
-|----------------|:---:|
-|**Crystal PuNK**| 28  |
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|28 |    No     |
 
 ### Log Content
 **[Platform Announcement]**<br>

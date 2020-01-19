@@ -124,9 +124,9 @@ _\[Call Ends\]_
 
 ## <a id="chos003"/>\[#003\] Cam\_Cafe\_702\_09\_06\_1
 ### Unlocked Charts
-|                  Song                   |Character|Diff.|Level|
-|-----------------------------------------|:-------:|:---:|:---:|
-|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Easy |  2  |
+|                  Song                   |Char. |Diff.|Lv.|
+|-----------------------------------------|:----:|:---:|:-:|
+|**Stop at nothing (Andy Tunstall remix)**|Cherry|Easy | 2 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -336,14 +336,14 @@ _[Sent at 09:29 PM]_
 
 ## <a id="chos005"/>\[#005\] Audio\_Cafe\_702\_09\_06\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  2  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 2 |    No     |
 
 ### Unlocked Charts
-|                  Song                   |Character|Diff.|Level|
-|-----------------------------------------|:-------:|:---:|:---:|
-|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Hard |  7  |
+|                  Song                   |Char. |Diff.|Lv.|
+|-----------------------------------------|:----:|:---:|:-:|
+|**Stop at nothing (Andy Tunstall remix)**|Cherry|Hard | 7 |
 
 ### Log Content
 **Xenon**<br>
@@ -425,14 +425,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos006"/>\[#006\] Audio\_Cherry's\_694\_09\_06\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  3  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 3 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**RETRIEVE**| Cherry  |Easy |  3  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**RETRIEVE**|Cherry|Easy | 3 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -518,9 +518,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos007"/>\[#007\] Audio\_Cherry's\_694\_09\_06\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  3  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 3 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -643,14 +643,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos008"/>\[#008\] Image\_Cherry's\_693\_09\_06
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  4  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 4 |    No     |
 
 ### Unlocked Charts
-|                  Song                   |Character|Diff.|Level|
-|-----------------------------------------|:-------:|:---:|:---:|
-|**Stop at nothing (Andy Tunstall remix)**| Cherry  |Chaos| 11  |
+|                  Song                   |Char. |Diff.|Lv.|
+|-----------------------------------------|:----:|:---:|:-:|
+|**Stop at nothing (Andy Tunstall remix)**|Cherry|Chaos|11 |
 
 ### Log Content
 ![chos0801.png](./attachments/chos0801.png)
@@ -662,9 +662,9 @@ Location: Node 08 \- Quadrant III, Apartment 33
 
 ## <a id="chos009"/>\[#009\] Audio\_Cafe\_702\_09\_06\_3
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  4  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 4 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -764,14 +764,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos010"/>\[#010\] Image\_Hospital\_702\_09\_07
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  5  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 5 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**RETRIEVE**| Cherry  |Hard |  7  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**RETRIEVE**|Cherry|Hard | 7 |
 
 ### Log Content
 ![chos1001.png](./attachments/chos1001.png)
@@ -783,14 +783,14 @@ Location: Node 08 \- Quadrant III, Hospital 15
 
 ## <a id="chos011"/>\[#011\] Audio\_Studio\_702\_09\_08\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  6  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 6 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Still**| Cherry  |Easy |  2  |
+|  Song   |Char. |Diff.|Lv.|
+|---------|:----:|:---:|:-:|
+|**Still**|Cherry|Easy | 2 |
 
 ### Log Content
 **Cherry**<br>
@@ -858,9 +858,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos012"/>\[#012\] Audio\_Studio\_702\_09\_08\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  6  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 6 |    No     |
 
 ### Log Content
 *\[Scan\]*
@@ -940,14 +940,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos013"/>\[#013\] Mail\_Chris\_702\_09\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**|  7  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 7 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**RETRIEVE**| Cherry  |Chaos| 12  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**RETRIEVE**|Cherry|Chaos|12 |
 
 ### Log Content
 **Subj.**: Event Schedule Notice<br>
@@ -976,10 +976,10 @@ Chris
 
 ## <a id="chos014"/>\[#014\] Call\_Chris\_702\_09\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**PAFF**  | 17  |
-|**Cherry**|  8  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**PAFF**  |17 |    No     |
+|**Cherry**| 8 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -1033,10 +1033,10 @@ _\[Call Ends\]_
 
 ## <a id="chos015"/>\[#015\] Call\_Xenon\_702\_09\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**PAFF**  | 17  |
-|**Cherry**|  9  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**PAFF**  |17 |    No     |
+|**Cherry**| 9 |    No     |
 
 ### Log Content
 _\[Call Starts\]_
@@ -1108,14 +1108,14 @@ _\[Call Ends\]_
 
 ## <a id="chos016"/>\[#016\] Cam\_76St\_702\_09\_14
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 10  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|10 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Still**| Cherry  |Hard |  6  |
+|  Song   |Char. |Diff.|Lv.|
+|---------|:----:|:---:|:-:|
+|**Still**|Cherry|Hard | 6 |
 
 ### Log Content
 ![chos1601.png](./attachments/chos1601.png)
@@ -1127,14 +1127,14 @@ Location: Node 08 \- Quadrant III, 76th Street
 
 ## <a id="chos017"/>\[#017\] Cam\_76St\_702\_09\_15\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 11  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|11 |    No     |
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Still**| Cherry  |Chaos| 11  |
+|  Song   |Char. |Diff.|Lv.|
+|---------|:----:|:---:|:-:|
+|**Still**|Cherry|Chaos|11 |
 
 ### Log Content
 **[Xenon-A.I.]**<br>
@@ -1228,14 +1228,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos018"/>\[#018\] Audio\_bug\_692\_05\_13
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 12  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|12 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**CREDENCE**| Cherry  |Easy |  3  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**CREDENCE**|Cherry|Easy | 3 |
 
 ### Log Content
 *\[Gunshot\]*
@@ -1315,14 +1315,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos019"/>\[#019\] Cam\_Gamecenter\_695\_09\_15
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 13  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|13 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**CREDENCE**| Cherry  |Hard |  8  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**CREDENCE**|Cherry|Hard | 8 |
 
 ### Log Content
 *\[Gunshot\]*
@@ -1450,14 +1450,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos020"/>\[#020\] Cam\_76St\_702\_09\_15\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 14  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|14 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**SYSTEMFEIT**| Cherry  |Easy |  3  |
+|     Song     |Char. |Diff.|Lv.|
+|--------------|:----:|:---:|:-:|
+|**SYSTEMFEIT**|Cherry|Easy | 3 |
 
 ### Log Content
 ![chos2001.png](./attachments/chos2001.png)
@@ -1524,14 +1524,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos021"/>\[#021\] Image\_Tower054\_702\_09\_15
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 15  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|15 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**CREDENCE**| Cherry  |Chaos| 12  |
+|    Song    |Char. |Diff.|Lv.|
+|------------|:----:|:---:|:-:|
+|**CREDENCE**|Cherry|Chaos|12 |
 
 ### Log Content
 ![chos2101.png](./attachments/chos2101.png)
@@ -1543,9 +1543,9 @@ Location: Quadrant III, Tower 054
 
 ## <a id="chos022"/>\[#022\] Cam\_Cherry's\_694\_09\_07
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 16  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|16 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -1647,14 +1647,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos023"/>\[#023\] Message\_Joe\_702\_09\_18
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 17  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|17 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**SYSTEMFEIT**| Cherry  |Hard |  7  |
+|     Song     |Char. |Diff.|Lv.|
+|--------------|:----:|:---:|:-:|
+|**SYSTEMFEIT**|Cherry|Hard | 7 |
 
 ### Log Content
 **Cherry**<br>
@@ -1741,9 +1741,9 @@ _[Sent at 10:08 AM]_
 
 ## <a id="chos024"/>\[#024\] Cam\_Xenon's\_695\_10\_26
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 18  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|18 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1844,14 +1844,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos025"/>\[#025\] Cam\_Cafe\_702\_09\_18
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 19  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|19 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**hunted**| Cherry  |Easy |  2  |
+|   Song   |Char. |Diff.|Lv.|
+|----------|:----:|:---:|:-:|
+|**hunted**|Cherry|Easy | 2 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -1962,9 +1962,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos026"/>\[#026\] Cam\_Riverside\_702\_09\_18\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 20  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|20 |    No     |
 
 ### Log Content
 *\[Engines Off\]*
@@ -2050,14 +2050,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos027"/>\[#027\] Cam\_Riverside\_702\_09\_18\_2
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 21  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|21 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**hunted**| Cherry  |Hard |  6  |
+|   Song   |Char. |Diff.|Lv.|
+|----------|:----:|:---:|:-:|
+|**hunted**|Cherry|Hard | 6 |
 
 ### Log Content
 _\[»»» Fast Forward »»»\]_
@@ -2160,9 +2160,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos028"/>\[#028\] Audio\_Bug\_688\_09\_18
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 22  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|22 |    No     |
 
 ### Log Content
 **Luis**<br>
@@ -2244,14 +2244,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos029"/>\[#029\] Image\_Cherry\_688\_09\_18
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 22  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|22 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**SYSTEMFEIT**| Cherry  |Chaos| 13  |
+|     Song     |Char. |Diff.|Lv.|
+|--------------|:----:|:---:|:-:|
+|**SYSTEMFEIT**|Cherry|Chaos|13 |
 
 ### Log Content
 ![chos2901.png](./attachments/chos2901.png)
@@ -2263,9 +2263,9 @@ Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)
 
 ## <a id="chos030"/>\[#030\] Cam\_Factory3\_702\_09\_18\_1
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 23  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|23 |    No     |
 
 ### Log Content
 **Xenon**<br>
@@ -2368,12 +2368,12 @@ _\[Signal Lost\]_
 
 ## <a id="chos031"/>\[#031\] Cam\_Factory3\_702\_09\_18\_2
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**Cherry**   | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
+|**Cherry**   |24 |    No     |
 
 ### Log Content
 [![chos3101.png](./attachments/chos3101.png)](https://youtu.be/JG7hd0-f42E)<br>
@@ -2460,17 +2460,17 @@ _\[Signal Lost\]_
 
 ## <a id="chos032"/>\[#032\] Image\_Factory3\_702\_09\_18
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**Cherry**   | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
+|**Cherry**   |24 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**hunted**| Cherry  |Chaos| 12  |
+|   Song   |Char. |Diff.|Lv.|
+|----------|:----:|:---:|:-:|
+|**hunted**|Cherry|Chaos|12 |
 
 ### Log Content
 [![chos3201.png](./attachments/chos3201.png)](https://youtu.be/83x4Bh9ELmc)<br>
@@ -2483,15 +2483,15 @@ Location: Node 08 \- Quadrant I, Factory 03
 
 ## <a id="chos033"/>\[#033\] Audio\_Hospital\_702\_09\_25
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 25  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|25 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Capture me**| Cherry  |Easy |  2  |
-|**Capture me**| Cherry  |Hard |  7  |
+|     Song     |Char. |Diff.|Lv.|
+|--------------|:----:|:---:|:-:|
+|**Capture me**|Cherry|Easy | 2 |
+|**Capture me**|Cherry|Hard | 7 |
 
 ### Log Content
 **Jacob**<br>
@@ -2562,14 +2562,14 @@ _\[Signal Lost\]_
 
 ## <a id="chos034"/>\[#034\] Cam\_Hospital\_702\_09\_25
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 26  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|26 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Capture me**| Cherry  |Chaos| 11  |
+|     Song     |Char. |Diff.|Lv.|
+|--------------|:----:|:---:|:-:|
+|**Capture me**|Cherry|Chaos|11 |
 
 ### Log Content
 **Cherry**<br>
@@ -2670,9 +2670,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos035"/>\[#035\] Audio\_Cherry's\_702\_10\_05
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 27  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|27 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -2718,7 +2718,7 @@ _That's it. We will contact you again soon._
 _\[Call Ends\]_
 
 **Cherry**<br>
-...... 
+...... _\*Cries\*_......
 
 _\[Signal Lost\]_
 
@@ -2726,9 +2726,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos036"/>\[#036\] Audio\_Cafe\_702\_10\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 28  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|28 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2791,9 +2791,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos037"/>\[#037\] Cam\_Cafe\_702\_10\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 28  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|28 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2880,7 +2880,8 @@ I'm so foolish... After all the things that happened, I still hoped that he'll t
 ......
 
 **Cherry**<br>
-_\*Sobs\*_
+_\*Sobs\*_... I'm sorry... It's all my fault...<br>
+......zzZ
 
 ![chos3701.png](./attachments/chos3701.png)
 
@@ -2893,9 +2894,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos038"/>\[#038\] Audio\_Cherry's\_702\_10\_11
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 29  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|29 |    No     |
 
 ### Log Content
 **Punk**<br>
@@ -2955,7 +2956,7 @@ Idiot... my life... has never been simple...
 ......
 
 **Cherry**<br>
-Idiot...... 
+Idiot...... _\*Sobs\*_...
 
 _\[Signal Lost\]_
 
@@ -2963,16 +2964,16 @@ _\[Signal Lost\]_
 
 ## <a id="chos039"/>\[#039\] Audio\_Dash\_702\_10\_21
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 30  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|30 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Realize**| Cherry  |Easy |  3  |
-|**Realize**| Cherry  |Hard |  8  |
-|**Realize**| Cherry  |Chaos| 12  |
+|   Song    |Char. |Diff.|Lv.|
+|-----------|:----:|:---:|:-:|
+|**Realize**|Cherry|Easy | 3 |
+|**Realize**|Cherry|Hard | 8 |
+|**Realize**|Cherry|Chaos|12 |
 
 ### Log Content
 **Hunter**<br>
@@ -3114,9 +3115,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos040"/>\[#040\] Audio\_Cell32\_702\_11\_02
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 31  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|31 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3182,7 +3183,7 @@ Your band is slowly hitting the stride too. You don't need to suffer this anymor
 ......
 
 **[TV]**<br>
-_... Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents.  _
+_... Just earlier today, A.R.C. backend administrator Simon Jackson has been arrested in A.R.C. by law enforcement agents. Our sources show that he is none other than the biggest suspect for "Æsir", the mastermind behind the recent string of internet crime incidents._
 
 **Cherry**<br>
 Eh? Dad, turn up the volume!
@@ -3191,7 +3192,7 @@ Eh? Dad, turn up the volume!
 ...... Understood!
 
 **[TV]**<br>
-_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir. _
+_... discovered a large number of commands used by said A.I. to commit internet crimes, which even includes the infamous cyberterrorism incident during a live stream a few months ago. All this evidence are proof of Simon Jackson's highly possible association with Æsir._
 
 **Cherry**<br>
 Simon!? How come?
@@ -3229,9 +3230,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos041"/>\[#041\] Cam\_Cafe2\_702\_11\_05
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 32  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|32 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -3375,9 +3376,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos042"/>\[#042\] Audio\_Cell32\_702\_11\_06
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 33  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|33 |    No     |
 
 ### Log Content
 *\[Heavy things falling down\]*
@@ -3474,9 +3475,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos043"/>\[#043\] Cam\_CArea\_702\_11\_08
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 34  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|34 |    No     |
 
 ### Log Content
 **Cherry**<br>
@@ -3652,9 +3653,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos044"/>\[#044\] Cam\_Port33\_702\_11\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 35  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|35 |    No     |
 
 ### Log Content
 **Hunter**<br>
@@ -3829,9 +3830,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos045"/>\[#045\] Cam\_Port33\_702\_11\_10
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 36  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|36 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4008,9 +4009,9 @@ _\[Signal Lost\]_
 
 ## <a id="chos046"/>\[#046\] vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 ### Requirements
-|Character |Level|
-|----------|:---:|
-|**Cherry**| 37  |
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**|37 |    No     |
 
 ### Log Content
 **Cherry**<br>

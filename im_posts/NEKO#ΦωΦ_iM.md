@@ -35,10 +35,10 @@
 
 ## <a id="n0101"/>\[#001\] NEKO\#(ΦωΦ) streaming time \- 「Deemon 8.0 \~Peak Recital\~」
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**One Way Love**|NEKO#ΦωΦ |Easy |  2  |
-|**One Way Love**|NEKO#ΦωΦ |Hard |  6  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**One Way Love**|NEKO#ΦωΦ|Easy | 2 |
+|**One Way Love**|NEKO#ΦωΦ|Hard | 6 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -102,9 +102,9 @@ So it is actually sponsored content lol
 
 ## <a id="n0201"/>\[#002\] NEKO's never seen something so stupid (ŏωŏ)
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**The Spark**|NEKO#ΦωΦ |Chaos| 12  |
+|    Song     | Char.  |Diff.|Lv.|
+|-------------|:------:|:---:|:-:|
+|**The Spark**|NEKO#ΦωΦ|Chaos|12 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -112,7 +112,7 @@ So it is actually sponsored content lol
 Yet still so many idiots speak up for him(╮ŏωŏ)╭<br>
 Man world's full of hypocrites lul<br>
 NEKO has nothing against him lolol<br>
-But comments, feel free to murder him σ ΦωΦ) Φ∀Φ)σ 
+But comments, feel free to murder him σ ΦωΦ) Φ∀Φ)σ
 ### Replies
 **NEKOSAIKOU**<br>
 Fanboys and fangirls, commence hate\-mail lol
@@ -151,7 +151,7 @@ But deleted them all after he scammed everybodyヽ(\`Д´)ノ
 Never heard of him. Is he famous?
 
 **FCodex**<br>
-Æsir and NEKO have completely different styles it's pointless to compare them. 
+Æsir and NEKO have completely different styles it's pointless to compare them.
 
 **MirriLL**<br>
 The songs are pretty nice, but I did not go to Æsir\-FEST
@@ -178,15 +178,15 @@ The whole thing ended after Robohead's performance, the crowd went on a complete
 
 ## <a id="n0301"/>\[#003\] Highly acclaimed musician new song announcement!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  3  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 3 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**Happiness Breeze**|NEKO#ΦωΦ |Easy |  3  |
-|**Happiness Breeze**|NEKO#ΦωΦ |Hard |  7  |
+|        Song        | Char.  |Diff.|Lv.|
+|--------------------|:------:|:---:|:-:|
+|**Happiness Breeze**|NEKO#ΦωΦ|Easy | 3 |
+|**Happiness Breeze**|NEKO#ΦωΦ|Hard | 7 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -235,15 +235,15 @@ Dude keep your d\*\*\* in your pants!!!
 
 ## <a id="n0401"/>\[#004\] Requesting crowdfunding to buy Meowbots!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  4  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 4 |    No     |
 
 ### Unlocked Charts
-|            Song            |Character|Diff.|Level|
-|----------------------------|:-------:|:---:|:---:|
-|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Easy |  2  |
-|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Hard |  5  |
+|            Song            | Char.  |Diff.|Lv.|
+|----------------------------|:------:|:---:|:-:|
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ|Easy | 2 |
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ|Hard | 5 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -270,7 +270,7 @@ LMFAO
 Wait, if that's the case then what will you be doing XDD
 
 **D33M0**<br>
-A song compose by cat robots will likely only contain non\-stop purring lol 
+A song compose by cat robots will likely only contain non\-stop purring lol
 
 **Shibawu**<br>
 If it really get 3600% faster then you can challenge **@ROBO\_Head** for the record of fastest time to compsoe a song lol
@@ -289,7 +289,7 @@ Want to know which will be more popular: MeowBot or NEKO's stream <br>
 (ΦωΦ)人(Φ ω Φ)
 
 **Xenon**<br>
-I fiddled with its prototype before. I say that it's nothing more than a decoration. 
+I fiddled with its prototype before. I say that it's nothing more than a decoration.
 
 **NEKO#ΦωΦ**<br>
 S...shocked!! The Cool\-AF Xenon bought little kittens (Φ∀Φ) pffft
@@ -322,21 +322,18 @@ Feels like they will be scratching the backs of MeowBot (\*Φ∀Φ)\~♥
 
 ## <a id="n0501"/>\[#005\] NEKO\#(ΦωΦ) chatting time
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  5  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 5 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**Resurrection**|NEKO#ΦωΦ |Chaos| 12  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**Resurrection**|NEKO#ΦωΦ|Chaos|12 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 Good Morninggggg (ΦωΦ)
-
-
-
 ### Replies
 **Smurky**<br>
 Morning? It's 2 frickin am lololol
@@ -432,21 +429,18 @@ NEKO's gonna play with MeowBot now (  ΦˋдˊΦ)=3 Hmpf
 
 ## <a id="n0601"/>\[#006\] NEKO\#(ΦωΦ) chatting time
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  6  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 6 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**One Way Love**|NEKO#ΦωΦ |Chaos|  9  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**One Way Love**|NEKO#ΦωΦ|Chaos| 9 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 Good evening everyoneeeee \~(ΦωΦ) Meow
-
-
-
 
 ![n0601.png](./attachments/n0601.png)
 ### Replies
@@ -503,21 +497,18 @@ Teehee (
 
 ## <a id="n0701"/>\[#007\] MEOW
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**|  8  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 8 |    No     |
 
 ### Unlocked Charts
-|            Song            |Character|Diff.|Level|
-|----------------------------|:-------:|:---:|:---:|
-|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ |Chaos| 12  |
+|            Song            | Char.  |Diff.|Lv.|
+|----------------------------|:------:|:---:|:-:|
+|**Alterna Pt.1 -Cosmogony-**|NEKO#ΦωΦ|Chaos|12 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 \*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*
-
-
-
 ### Replies
 **NEKOSAIKOU**<br>
 \*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*
@@ -559,15 +550,15 @@ SOMEONE'S OFF (Φ皿Φﾒ)
 
 ## <a id="n0801"/>\[#008\] NEKO\#(ΦωΦ) streaming time \-「Manbora \- Seeds of Miracle」
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 10  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|10 |    No     |
 
 ### Unlocked Charts
-|              Song              |Character|Diff.|Level|
-|--------------------------------|:-------:|:---:|:---:|
-|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Easy |  3  |
-|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Hard |  7  |
+|              Song              | Char.  |Diff.|Lv.|
+|--------------------------------|:------:|:---:|:-:|
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ|Easy | 3 |
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ|Hard | 7 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -641,18 +632,18 @@ Hmpf you want to challenge, well NEKO will accept it (Φ皿Φ)！！！
 
 ## <a id="n0901"/>\[#009\] 00 000 011 10 11 1000 11
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 12  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|12 |    No     |
 
 ### Unlocked Charts
-|        Song        |Character|Diff.|Level|
-|--------------------|:-------:|:---:|:---:|
-|**Happiness Breeze**|NEKO#ΦωΦ |Chaos| 12  |
+|        Song        | Char.  |Diff.|Lv.|
+|--------------------|:------:|:---:|:-:|
+|**Happiness Breeze**|NEKO#ΦωΦ|Chaos|12 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
-　
+
 ### Replies
 **KirinKiraKira**<br>
 A secret code?
@@ -667,10 +658,10 @@ Meow
 NEKO are you not playing a game today <3
 
 **NekoSamurai**<br>
-? ? ? ? ? 
+? ? ? ? ?
 
 **Smurky**<br>
-I bet it's just a bunch of gibberish. 
+I bet it's just a bunch of gibberish.
 
 **Poopytrap**<br>
 **@ROBO\_Head** decode this s\*\*\*
@@ -691,15 +682,15 @@ So even Robobrain can't figure it out (   ΦωΦ) hehe
 
 ## <a id="n1001"/>\[#010\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 13  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|13 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Keep it up**|NEKO#ΦωΦ |Easy |  5  |
-|**Keep it up**|NEKO#ΦωΦ |Hard |  8  |
+|     Song     | Char.  |Diff.|Lv.|
+|--------------|:------:|:---:|:-:|
+|**Keep it up**|NEKO#ΦωΦ|Easy | 5 |
+|**Keep it up**|NEKO#ΦωΦ|Hard | 8 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -761,21 +752,18 @@ Yep there are no games too hard for NEKO (ΦˋωˊΦ)=3
 
 ## <a id="n1101"/>\[#011\] Z Z Z Z Z
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 14  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|14 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Keep it up**|NEKO#ΦωΦ |Chaos| 14  |
+|     Song     | Char.  |Diff.|Lv.|
+|--------------|:------:|:---:|:-:|
+|**Keep it up**|NEKO#ΦωΦ|Chaos|14 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
-Z Z Z Z Z Z Z 
-
-
-
+Z Z Z Z Z Z Z
 ### Replies
 **K1ssK1tty**<br>
 E E E E E E E
@@ -784,19 +772,19 @@ E E E E E E E
 Meow
 
 **Poopytrap**<br>
-P P P P P P P 
+P P P P P P P
 
 **D33M0**<br>
 K K K K K K K
 
 **9me**<br>
-T T T T T T T 
+T T T T T T T
 
 **NekoSamurai**<br>
 S S S S S S S
 
 **Smurky**<br>
-N N N N N N N 
+N N N N N N N
 
 **w_Rosabel_w**<br>
 U U U U U U U
@@ -809,34 +797,31 @@ Analyzing... 100%<br>
 Result: Unknown.
 
 **NnNn**<br>
-O O O O O O O 
+O O O O O O O
 
 **Xenon**<br>
 Dumbass.
 
 **NEKO#ΦωΦ**<br>
-D D D D D D D 
+D D D D D D D
 
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="n1201"/>\[#012\] NEKO\#ΦωΦ streaming time \-「Valkyrie \~Love Times\~」
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 15  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|15 |    No     |
 
 ### Unlocked Charts
-|              Song              |Character|Diff.|Level|
-|--------------------------------|:-------:|:---:|:---:|
-|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ |Chaos| 12  |
+|              Song              | Char.  |Diff.|Lv.|
+|--------------------------------|:------:|:---:|:-:|
+|**Zealous Hearts (Rayark Edit)**|NEKO#ΦωΦ|Chaos|12 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 Stream time! Today we are playing a Visual Novel <br>
 ＼(Φˋ∀ˊΦ)／
-
-
-
 
 ![n1201.png](./attachments/n1201.png)
 ### Replies
@@ -912,20 +897,18 @@ Denied on the very first date  Σ(ΦДΦ；≡；ΦдΦ)
 
 ## <a id="n1301"/>\[#013\] HAHA fall you bastard! Sick move
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 18  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|18 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Easy |  5  |
+|        Song         | Char.  |Diff.|Lv.|
+|---------------------|:------:|:---:|:-:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ|Easy | 5 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 !?!??
-
-
 ### Replies
 **NEKOSAIKOU**<br>
 let the comment wars commence ROFL
@@ -979,9 +962,9 @@ So it's all a game...trollolololol
 
 ## <a id="n1401"/>\[#014\] NEKO\#ΦωΦ streaming time \-「Explosion」
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 18  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|18 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -998,7 +981,7 @@ It runs on mother\-truckin Nuity Ver6.1, what the hell lol
 HELLOO <3
 
 **Nix**<br>
-Right on time today 
+Right on time today
 
 **KirinKiraKira**<br>
 <3<3<3<3 It's Explosion <3<3<3<3
@@ -1053,21 +1036,18 @@ Time to go to bed
 
 ## <a id="n1501"/>\[#015\] NEKO\#ΦωΦ chatting time
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 19  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Hard |  9  |
+|        Song         | Char.  |Diff.|Lv.|
+|---------------------|:------:|:---:|:-:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ|Hard | 9 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
 Greetings (ΦωΦ) it's stream time\~ ! !
-
-
-
 
 ![n1501.png](./attachments/n1501.png)
 ### Replies
@@ -1090,7 +1070,7 @@ Legend has it that people who are online are in fact already dead for a while Σ
 Not that uncommon nowadays isn't it?
 
 **NekoSamurai**<br>
-I have a friend who lives in Node03. He says that people often hit the streets at midnight and just randomly disappear 
+I have a friend who lives in Node03. He says that people often hit the streets at midnight and just randomly disappear
 
 **D33M0**<br>
 That's the admins' responsibility to deal with issues like this; not quite an urban legend lol
@@ -1135,14 +1115,14 @@ Can you give the Bass back to me first?
 
 ## <a id="n1601"/>\[#016\] Had A dream (ΦωΦ)w
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 20  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|20 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**CODE NAME : GAMMA**|NEKO#ΦωΦ |Chaos| 15  |
+|        Song         | Char.  |Diff.|Lv.|
+|---------------------|:------:|:---:|:-:|
+|**CODE NAME : GAMMA**|NEKO#ΦωΦ|Chaos|15 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1184,9 +1164,9 @@ It's only a dream though ΦωΦ
 
 ## <a id="n1701"/>\[#017\] NEKO\#ΦωΦ streaming time \-「Stewrica」
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 20  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|20 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1267,15 +1247,15 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 
 ## <a id="n1801"/>\[#018\] \[Repost\] After half year hiatus, comeback from Aesir?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 21  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|21 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**Blow my mind**|NEKO#ΦωΦ |Easy |  3  |
-|**Blow my mind**|NEKO#ΦωΦ |Hard |  9  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**Blow my mind**|NEKO#ΦωΦ|Easy | 3 |
+|**Blow my mind**|NEKO#ΦωΦ|Hard | 9 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1315,14 +1295,14 @@ Awesome!!
 
 ## <a id="n1901"/>\[#019\] Anyone have Æsir's new song meow ΦωΦ?
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 22  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|22 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**Blow my mind**|NEKO#ΦωΦ |Chaos| 14  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**Blow my mind**|NEKO#ΦωΦ|Chaos|14 |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1366,7 +1346,7 @@ Node03: Just according to Keikaku!!
 
 **Xenon**<br>
 It's fake news I believe.<br>
-TBH I am starting to wonder: does this person actually exist? Maybe you've been screaming at empty space all this time. 
+TBH I am starting to wonder: does this person actually exist? Maybe you've been screaming at empty space all this time.
 
 **NEKO#ΦωΦ**<br>
 ...Watson, did you just...spoke the truth... Σ(;ΦдΦ)!?
@@ -1378,9 +1358,9 @@ Wait does that make you Holmes? But you're a girl XDDD
 
 ## <a id="n2101"/>\[#021\] \*\*\*System Announcement\*\*\*
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 25  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|25 |    No     |
 
 ### Post
 **Admin**<br>
@@ -1389,22 +1369,22 @@ Wait does that make you Holmes? But you're a girl XDDD
 
 ## <a id="n2201"/>\[#022\] ???
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 29  |
-|**NEKO#ΦωΦ** | 29  |
-|**ROBO_Head**| 29  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |29 |    Yes    |
+|**NEKO#ΦωΦ** |29 |    Yes    |
+|**ROBO_Head**|29 |    Yes    |
 
 ### Post
 **???**<br>
-　
+
 [*(Click here to go back to the top)*](#toc)
 
 ## <a id="n2301"/>\[#023\] Nyaann\~ Long time no see everyone (ΦωΦ)
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 30  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|30 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1566,9 +1546,9 @@ If you were in custody another day I might go riot at the Administration Bureau 
 
 ## <a id="n2401"/>\[#024\] NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 34  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|34 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1659,9 +1639,9 @@ Really hope RG can publish a game as cool as this too (Φ∀Φ)σ
 
 ## <a id="n2501"/>\[#025\] Long Time No See!! Chatting time!!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 36  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|36 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1773,11 +1753,11 @@ Bye Bye\~\~
 
 ## <a id="n2601"/>\[#026\] SUPER MEGA GIGA NEWS!!!
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 39  |
-|**NEKO#ΦωΦ** | 39  |
-|**ROBO_Head**| 39  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |39 |    Yes    |
+|**NEKO#ΦωΦ** |39 |    Yes    |
+|**ROBO_Head**|39 |    Yes    |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1844,9 +1824,9 @@ PM pls!
 
 ## <a id="n2701"/>\[#027\] NEKO\#ΦωΦ streaming time \- Live Composing!!!
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 41  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|41 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1917,9 +1897,9 @@ Excited\~\~ NEKO's music is the best <3
 
 ## <a id="n2801"/>\[#028\] NEKO\#ΦωΦ's chatting time
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 43  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|43 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -1972,9 +1952,9 @@ Even I'm getting a bit bored streaming here all the time\~ Let's go play outside
 
 ## <a id="n2901"/>\[#029\] Streaming at JOEZ Cafe today\~(\*Φ∀Φ)
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 45  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|45 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -2046,9 +2026,9 @@ Hahaha thanks a lot for the visit!!!!!!
 
 ## <a id="n3001"/>\[#030\] Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 46  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|46 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -2137,9 +2117,9 @@ I warn you guys!! All of you have to be there!!! No matter what!!
 
 ## <a id="n3101"/>\[#031\] NEKO's\~ super question time!! \\ΦωΦ)/
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 52  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|52 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -2149,7 +2129,7 @@ Any good hair dye recommendations out there\~?<br>
 The brand NEKO previously used decides to troll me with the sold\-out tag! ◢···· ╰(Φ皿Φ)╯····◣
 
 I did do a quick search, but there were a bazillion results. NEKO can't chooseヽ(Φˋ口ˊΦ)ノ<br>
-SO! I decided to turn to the experts on iM σ ΦωΦ) Φ∀Φ)σ 
+SO! I decided to turn to the experts on iM σ ΦωΦ) Φ∀Φ)σ
 ### Replies
 **w_Rosabel_w**<br>
 Which brand did you use before??
@@ -2203,9 +2183,9 @@ Looking forward to seeing the result<3<3<3
 
 ## <a id="n3201"/>\[#032\] Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 53  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|53 |    No     |
 
 ### Post
 **NEKO#ΦωΦ**<br>
@@ -2273,9 +2253,9 @@ The young drummer's shy smile is so adorable ❤
 
 ## <a id="n3301"/>\[#033\] Having some crappy luck recently
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 54  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|54 |    No     |
 
 ### Post
 **Henry**<br>

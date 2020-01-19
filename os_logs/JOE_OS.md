@@ -44,11 +44,11 @@
 
 ## <a id="jos001"/>\[#001\] Cam\_Cafe\_684\_08\_28
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Childish**|   JOE   |Easy |  4  |
-|**Childish**|   JOE   |Hard |  7  |
-|**Childish**|   JOE   |Chaos| 12  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Childish**| JOE |Easy | 4 |
+|**Childish**| JOE |Hard | 7 |
+|**Childish**| JOE |Chaos|12 |
 
 ### Log Content
 **JOE**<br>
@@ -256,9 +256,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos003"/>\[#003\] Audio\_Cafe\_690\_01\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  2  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 2 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -336,14 +336,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos004"/>\[#004\] Audio\_Cafe\_691\_08\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  3  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 3 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Standby for Action**|   JOE   |Easy |  4  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Standby for Action**| JOE |Easy | 4 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -433,9 +433,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos005"/>\[#005\] Cam\_124St\_691\_08\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  3  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 3 |    No     |
 
 ### Log Content
 **Wang**<br>
@@ -554,14 +554,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos006"/>\[#006\] Audio\_Cafe\_691\_08\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  4  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 4 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Standby for Action**|   JOE   |Hard |  8  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Standby for Action**| JOE |Hard | 8 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -688,9 +688,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos007"/>\[#007\] Cam\_Cafe\_692\_10\_21
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  5  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 5 |    No     |
 
 ### Log Content
 **Saxon**<br>
@@ -792,14 +792,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos008"/>\[#008\] Message\_Group\_693\_05\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  6  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 6 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Standby for Action**|   JOE   |Chaos| 12  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Standby for Action**| JOE |Chaos|12 |
 
 ### Log Content
 **KAI**<br>
@@ -954,9 +954,9 @@ _[Sent at 08:50 PM]_
 
 ## <a id="jos009"/>\[#009\] Cam\_Velvet\_693\_08\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  7  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 7 |    No     |
 
 ### Log Content
 ![jos0901.png](./attachments/jos0901.png)
@@ -1037,9 +1037,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos010"/>\[#010\] Cam\_Velvet\_693\_08\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  8  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 8 |    No     |
 
 ### Log Content
 **Saxon**<br>
@@ -1120,14 +1120,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos011"/>\[#011\] Image\_Hotpot\_693\_09\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  |  9  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 9 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Open the Game**|   JOE   |Easy |  4  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Open the Game**| JOE |Easy | 4 |
 
 ### Log Content
 ![jos1101.png](./attachments/jos1101.png)
@@ -1139,9 +1139,9 @@ Location: Node 08 \- Hot Pot Restaurant
 
 ## <a id="jos012"/>\[#012\] Audio\_Cafe\_694\_04\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 10  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|10 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -1275,14 +1275,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos013"/>\[#013\] Cam\_Base\_694\_04\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 10  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|10 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Open the Game**|   JOE   |Hard |  6  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Open the Game**| JOE |Hard | 6 |
 
 ### Log Content
 *\[Puts down crate\]*
@@ -1423,14 +1423,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos014"/>\[#014\] Audio\_37St\_696\_07\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 11  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|11 |    No     |
 
 ### Unlocked Charts
-|      Song       |Character|Diff.|Level|
-|-----------------|:-------:|:---:|:---:|
-|**Open the Game**|   JOE   |Chaos| 13  |
+|      Song       |Char.|Diff.|Lv.|
+|-----------------|:---:|:---:|:-:|
+|**Open the Game**| JOE |Chaos|13 |
 
 ### Log Content
 **JOE**<br>
@@ -1575,9 +1575,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos015"/>\[#015\] Audio\_Base\_696\_07\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 12  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|12 |    No     |
 
 ### Log Content
 *\[Puts down box\]*
@@ -1700,14 +1700,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos016"/>\[#016\] Cam\_Hospital04\_697\_04\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 13  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|13 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Hydrangea**|   JOE   |Easy |  3  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Hydrangea**| JOE |Easy | 3 |
 
 ### Log Content
 **JOE**<br>
@@ -1849,9 +1849,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos017"/>\[#017\] Image\_Graveyard\_697\_04\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 14  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|14 |    No     |
 
 ### Log Content
 ![jos1701.png](./attachments/jos1701.png)
@@ -1863,14 +1863,14 @@ Location: Node 08 \- Cemetery
 
 ## <a id="jos018"/>\[#018\] Audio\_Cafe\_697\_06\_07
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 15  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|15 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Hydrangea**|   JOE   |Hard |  6  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Hydrangea**| JOE |Hard | 6 |
 
 ### Log Content
 **Wang**<br>
@@ -1966,14 +1966,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos019"/>\[#019\] Log\_System\_697\_08\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 16  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|16 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Hydrangea**|   JOE   |Chaos| 12  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Hydrangea**| JOE |Chaos|12 |
 
 ### Log Content
 Exterior Data Record 6970811<br>
@@ -1998,9 +1998,9 @@ Registered save time: 697\_0812\_0236
 
 ## <a id="jos020"/>\[#020\] Audio\_Cafe\_697\_08\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 17  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|17 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2118,15 +2118,15 @@ _\[Signal Lost\]_
 
 ## <a id="jos021"/>\[#021\] Cam\_Cafe\_697\_08\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 17  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|17 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Absolutely**|   JOE   |Easy |  2  |
-|**Absolutely**|   JOE   |Hard |  5  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Absolutely**| JOE |Easy | 2 |
+|**Absolutely**| JOE |Hard | 5 |
 
 ### Log Content
 **Diego**<br>
@@ -2267,15 +2267,15 @@ _\[Signal Lost\]_
 
 ## <a id="jos022"/>\[#022\] Call\_Fang\_698\_02\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 18  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|18 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**Higher and Higher**|   JOE   |Easy |  3  |
-|**Higher and Higher**|   JOE   |Hard |  6  |
+|        Song         |Char.|Diff.|Lv.|
+|---------------------|:---:|:---:|:-:|
+|**Higher and Higher**| JOE |Easy | 3 |
+|**Higher and Higher**| JOE |Hard | 6 |
 
 ### Log Content
 _\[Call Starts\]_
@@ -2367,15 +2367,15 @@ _\[Call Ends\]_
 
 ## <a id="jos023"/>\[#023\] Cam\_Cafe\_698\_09\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|19 |    No     |
 
 ### Unlocked Charts
-|          Song           |Character|Diff.|Level|
-|-------------------------|:-------:|:---:|:---:|
-|**Take me to the Future**|   JOE   |Easy |  3  |
-|**Take me to the Future**|   JOE   |Hard |  7  |
+|          Song           |Char.|Diff.|Lv.|
+|-------------------------|:---:|:---:|:-:|
+|**Take me to the Future**| JOE |Easy | 3 |
+|**Take me to the Future**| JOE |Hard | 7 |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2516,14 +2516,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos024"/>\[#024\] Call\_Diego\_701\_06\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 20  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|20 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Absolutely**|   JOE   |Chaos| 11  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Absolutely**| JOE |Chaos|11 |
 
 ### Log Content
 _\[Call Starts\]_
@@ -2653,14 +2653,14 @@ _\[Call Ends\]_
 
 ## <a id="jos025"/>\[#025\] Mail\_Diego\_701\_06\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 21  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|21 |    No     |
 
 ### Unlocked Charts
-|        Song         |Character|Diff.|Level|
-|---------------------|:-------:|:---:|:---:|
-|**Higher and Higher**|   JOE   |Chaos| 13  |
+|        Song         |Char.|Diff.|Lv.|
+|---------------------|:---:|:---:|:-:|
+|**Higher and Higher**| JOE |Chaos|13 |
 
 ### Log Content
 **Subj.**: Untitled<br>
@@ -2676,14 +2676,14 @@ D.
 
 ## <a id="jos026"/>\[#026\] Cam\_Cafe\_701\_06\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 22  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|22 |    No     |
 
 ### Unlocked Charts
-|          Song           |Character|Diff.|Level|
-|-------------------------|:-------:|:---:|:---:|
-|**Take me to the Future**|   JOE   |Chaos| 14  |
+|          Song           |Char.|Diff.|Lv.|
+|-------------------------|:---:|:---:|:-:|
+|**Take me to the Future**| JOE |Chaos|14 |
 
 ### Log Content
 _Engines turned off_
@@ -2835,9 +2835,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos027"/>\[#027\] Image\_Zark\_700\_02\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 22  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|22 |    No     |
 
 ### Log Content
 ![jos2701.png](./attachments/jos2701.png)
@@ -2849,9 +2849,9 @@ Location: JOEZ Cafe
 
 ## <a id="jos028"/>\[#028\] Cam\_Cafe\_702\_10\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 24  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|24 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -2957,16 +2957,16 @@ _\[Signal Lost\]_
 
 ## <a id="jos029"/>\[#029\] Cam\_DragonSt\_693\_06\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 24  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|24 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Nautilus**|   JOE   |Easy |  2  |
-|**Nautilus**|   JOE   |Hard |  5  |
-|**Nautilus**|   JOE   |Chaos| 11  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Nautilus**| JOE |Easy | 2 |
+|**Nautilus**| JOE |Hard | 5 |
+|**Nautilus**| JOE |Chaos|11 |
 
 ### Log Content
 ![jos2901.png](./attachments/jos2901.png)
@@ -2978,15 +2978,15 @@ Location: Node 03 \- Wolong St.
 
 ## <a id="jos030"/>\[#030\] Cam\_Cafe\_702\_08\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 25  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|25 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Bass Music**|   JOE   |Easy |  2  |
-|**Bass Music**|   JOE   |Hard |  8  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Bass Music**| JOE |Easy | 2 |
+|**Bass Music**| JOE |Hard | 8 |
 
 ### Log Content
 **JOE**<br>
@@ -3091,14 +3091,14 @@ _\[Signal Lost\]_
 
 ## <a id="jos031"/>\[#031\] Audio\_Graveyard\_702\_09\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 26  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|26 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Bass Music**|   JOE   |Chaos| 13  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Bass Music**| JOE |Chaos|13 |
 
 ### Log Content
 **Xenon**<br>
@@ -3251,9 +3251,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos032"/>\[#032\] Audio\_Base\_702\_09\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 27  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|27 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3405,9 +3405,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos033"/>\[#033\] Audio\_Cafe\_702\_10\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 28  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|28 |    No     |
 
 ### Log Content
 **[News]**<br>
@@ -3567,9 +3567,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos034"/>\[#034\] cyTus\_Server03\_702\_11\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 29  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|29 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -3694,9 +3694,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos035"/>\[#035\] cyTus\_Server03\_702\_11\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 30  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|30 |    No     |
 
 ### Log Content
 **[cyTus System]**<br>
@@ -3790,9 +3790,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos036"/>\[#036\] Cam\_CArea\_702\_11\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 31  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|31 |    No     |
 
 ### Log Content
 *\[Footsteps\]*
@@ -3919,9 +3919,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos037"/>\[#037\] Audio\_St91\_702\_11\_10
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 32  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|32 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4075,9 +4075,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos038"/>\[#038\] Audio\_Cafe\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 33  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|33 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4223,9 +4223,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos039"/>\[#039\] Audio\_Cafe\_702\_11\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 33  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|33 |    No     |
 
 ### Log Content
 *\[Phone Rings\]*
@@ -4314,9 +4314,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos040"/>\[#040\] Audio\_Baro\_702\_12\_21\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 34  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|34 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -4458,9 +4458,9 @@ _\[Signal Lost\]_
 
 ## <a id="jos041"/>\[#041\] Audio\_Baro\_702\_12\_21\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**JOE**  | 34  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|34 |    No     |
 
 ### Log Content
 **Zheng**<br>

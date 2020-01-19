@@ -190,10 +190,10 @@ _\[Signal Lost\]_
 
 ## <a id="noos003"/>\[#003\] Cam\_ARC\_688\_09\_02
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Drop The World**|  Nora   |Easy |  4  |
-|**Drop The World**|  Nora   |Hard |  8  |
+|       Song       |Char.|Diff.|Lv.|
+|------------------|:---:|:---:|:-:|
+|**Drop The World**|Nora |Easy | 4 |
+|**Drop The World**|Nora |Hard | 8 |
 
 ### Log Content
 **[Leo]**<br>
@@ -368,9 +368,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos004"/>\[#004\] Audio\_ABO03\_688\_12\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 2 |    No     |
 
 ### Log Content
 **Lam**<br>
@@ -444,9 +444,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos005"/>\[#005\] Audio\_Butsudou\_690\_11\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  2  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 2 |    No     |
 
 ### Log Content
 **Lam**<br>
@@ -610,9 +610,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos006"/>\[#006\] Cam\_Robo\_697\_04\_06\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 3 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -682,14 +682,14 @@ _\[Signal Lost\]_
 
 ## <a id="noos007"/>\[#007\] Audio\_ShinShenSt\_691\_01\_15
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  3  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 3 |    No     |
 
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Drop The World**|  Nora   |Chaos| 14  |
+|       Song       |Char.|Diff.|Lv.|
+|------------------|:---:|:---:|:-:|
+|**Drop The World**|Nora |Chaos|14 |
 
 ### Log Content
 **Mogura Member A**<br>
@@ -774,9 +774,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos008"/>\[#008\] Audio\_KyuuLab\_691\_01\_23
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  4  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 4 |    No     |
 
 ### Log Content
 *\[Punches Table\]*
@@ -886,9 +886,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos009"/>\[#009\] Audio\_???\_691\_01\_23
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 5 |    No     |
 
 ### Log Content
 *\[Engines turned off\]*
@@ -999,9 +999,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos010"/>\[#010\] Cam\_Robo\_697\_04\_06\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  5  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 5 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -1086,15 +1086,15 @@ _\[Signal Lost\]_
 
 ## <a id="noos011"/>\[#011\] Cam\_KyuuLab\_691\_01\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  6  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 6 |    No     |
 
 ### Unlocked Charts
-|           Song           |Character|Diff.|Level|
-|--------------------------|:-------:|:---:|:---:|
-|**Starlight (KIVΛ Remix)**|  Nora   |Easy |  2  |
-|**Starlight (KIVΛ Remix)**|  Nora   |Hard |  6  |
+|           Song           |Char.|Diff.|Lv.|
+|--------------------------|:---:|:---:|:-:|
+|**Starlight (KIVΛ Remix)**|Nora |Easy | 2 |
+|**Starlight (KIVΛ Remix)**|Nora |Hard | 6 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1174,9 +1174,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos012"/>\[#012\] Audio\_Nora\_694\_03\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  7  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 7 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1310,9 +1310,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos013"/>\[#013\] Audio\_Butsudou\_694\_09\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  7  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 7 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1456,14 +1456,14 @@ _\[Signal Lost\]_
 
 ## <a id="noos014"/>\[#014\] Cam\_Nora\_695\_03\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  8  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 8 |    No     |
 
 ### Unlocked Charts
-|           Song           |Character|Diff.|Level|
-|--------------------------|:-------:|:---:|:---:|
-|**Starlight (KIVΛ Remix)**|  Nora   |Chaos| 11  |
+|           Song           |Char.|Diff.|Lv.|
+|--------------------------|:---:|:---:|:-:|
+|**Starlight (KIVΛ Remix)**|Nora |Chaos|11 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1595,9 +1595,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos015"/>\[#015\] Audio\_Nora\_695\_03\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  8  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 8 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1735,9 +1735,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos016"/>\[#016\] Cam\_CLab06\_695\_04\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  9  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 9 |    No     |
 
 ### Log Content
 ![noos1601.png](./attachments/noos1601.png)
@@ -1893,9 +1893,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos017"/>\[#017\] Audio\_Dash\_695\_05\_03
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** |  9  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 9 |    No     |
 
 ### Log Content
 **Kim**<br>
@@ -2001,15 +2001,15 @@ _\[Signal Lost\]_
 
 ## <a id="noos018"/>\[#018\] Audio\_KyuuLab\_695\_05\_08\_1
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 10  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|10 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Bastard of Hardcore**|  Nora   |Easy |  4  |
-|**Bastard of Hardcore**|  Nora   |Hard |  7  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**Bastard of Hardcore**|Nora |Easy | 4 |
+|**Bastard of Hardcore**|Nora |Hard | 7 |
 
 ### Log Content
 **Phoenix**<br>
@@ -2117,9 +2117,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos019"/>\[#019\] Audio\_KyuuLab\_695\_05\_08\_2
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 11  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|11 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -2199,7 +2199,7 @@ Is that... The Ender!? Where did he...
 **[Lab System]**<br>
 _Warning: High virus concentration level detected. Danger level: A<br>
 All gates set to lock down.<br>
-All personnel, please remain at your spot and protect yourself with the prevention equipment. _
+All personnel, please remain at your spot and protect yourself with the prevention equipment._
 
 **Phoenix**<br>
 Don't let him get away!
@@ -2232,9 +2232,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos020"/>\[#020\] Cam\_Robo\_697\_04\_06\_4
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 12  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|12 |    No     |
 
 ### Log Content
 **[ROBO_Head]**<br>
@@ -2335,9 +2335,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos021"/>\[#021\] Cam\_Butsudou\_697\_03\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 13  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|13 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -2492,9 +2492,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos022"/>\[#022\] Audio\_Butsudou\_697\_03\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 14  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|14 |    No     |
 
 ### Log Content
 **Phoenix**<br>
@@ -2659,14 +2659,14 @@ _\[Signal Lost\]_
 
 ## <a id="noos023"/>\[#023\] Audio\_Robo\_697\_04\_06\_5
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 15  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|15 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Bastard of Hardcore**|  Nora   |Chaos| 13  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**Bastard of Hardcore**|Nora |Chaos|13 |
 
 ### Log Content
 **[Nora]**<br>
@@ -2736,9 +2736,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos024"/>\[#024\] Audio\_Butsudou\_698\_04\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 16  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|16 |    No     |
 
 ### Log Content
 **Lam**<br>
@@ -2889,9 +2889,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos025"/>\[#025\] Cam\_Nora\_698\_04\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 17  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|17 |    No     |
 
 ### Log Content
 **[Nora]**<br>
@@ -3008,15 +3008,15 @@ _\[Signal Lost\]_
 
 ## <a id="noos026"/>\[#026\] Cam\_Nora\_698\_04\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 18  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|18 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Jakarta PROGRESSION**|  Nora   |Easy |  3  |
-|**Jakarta PROGRESSION**|  Nora   |Hard |  8  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**Jakarta PROGRESSION**|Nora |Easy | 3 |
+|**Jakarta PROGRESSION**|Nora |Hard | 8 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3161,14 +3161,14 @@ _\[Signal Lost\]_
 
 ## <a id="noos027"/>\[#027\] Cam\_Butsudou\_698\_05\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 19  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|19 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Jakarta PROGRESSION**|  Nora   |Chaos| 14  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**Jakarta PROGRESSION**|Nora |Chaos|14 |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3337,9 +3337,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos028"/>\[#028\] ?͜͠͝?͝҉̢͜͏?̶̀
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 20  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|20 |    No     |
 
 ### Log Content
 **？？？**<br>
@@ -3363,16 +3363,16 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 ## <a id="noos029"/>\[#029\] Cam\_Nora\_698\_05\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 21  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|21 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Eternity**|  Nora   |Easy |  3  |
-|**Eternity**|  Nora   |Hard |  7  |
-|**Eternity**|  Nora   |Chaos| 11  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Eternity**|Nora |Easy | 3 |
+|**Eternity**|Nora |Hard | 7 |
+|**Eternity**|Nora |Chaos|11 |
 
 ### Log Content
 **[Nora]**<br>
@@ -3527,16 +3527,16 @@ _\[Signal Lost\]_
 
 ## <a id="noos030"/>\[#030\] Log\_Phoenix\_698\_06\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 22  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|22 |    No     |
 
 ### Unlocked Charts
-|       Song       |Character|Diff.|Level|
-|------------------|:-------:|:---:|:---:|
-|**Phagy Mutation**|  Nora   |Easy |  2  |
-|**Phagy Mutation**|  Nora   |Hard |  7  |
-|**Phagy Mutation**|  Nora   |Chaos| 12  |
+|       Song       |Char.|Diff.|Lv.|
+|------------------|:---:|:---:|:-:|
+|**Phagy Mutation**|Nora |Easy | 2 |
+|**Phagy Mutation**|Nora |Hard | 7 |
+|**Phagy Mutation**|Nora |Chaos|12 |
 
 ### Log Content
 Research Log 6980601\_23
@@ -3563,9 +3563,9 @@ Save date of log: 698\_0601\_2703
 
 ## <a id="noos031"/>\[#031\] Cam\_Butsudou\_698\_06\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 22  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|22 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3725,16 +3725,16 @@ _\[Signal Lost\]_
 
 ## <a id="noos032"/>\[#032\] Cam\_KyuuLab\_698\_06\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 23  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|23 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**ATONEMENT**|  Nora   |Easy |  3  |
-|**ATONEMENT**|  Nora   |Hard |  6  |
-|**ATONEMENT**|  Nora   |Chaos| 11  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**ATONEMENT**|Nora |Easy | 3 |
+|**ATONEMENT**|Nora |Hard | 6 |
+|**ATONEMENT**|Nora |Chaos|11 |
 
 ### Log Content
 **[Nora]**<br>
@@ -3888,9 +3888,9 @@ _\[Signal Lost\]_
 
 ## <a id="noos033"/>\[#033\] Cam\_Robo\_698\_06\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Nora** | 24  |
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**|24 |    No     |
 
 ### Log Content
 **Member I**<br>
@@ -3936,7 +3936,7 @@ JUST LEAVE YOU BASTARDS...!!
 
 **Member I**<br>
 Director is dead! His final wish is for me to see you guys off safely!! So F\*\*\* OFF!!<br>
-
+_\*Sobs\*_......
 
 **[Nora]**<br>
 _Ichiro..._

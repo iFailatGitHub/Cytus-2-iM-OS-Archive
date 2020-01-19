@@ -68,11 +68,11 @@ This is...... How long has it been...? Nothing but green... In my memory, this i
 The command code is `2501004`.
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Reset**|   Ivy   |Easy |  3  |
-|**Reset**|   Ivy   |Hard |  7  |
-|**Reset**|   Ivy   |Chaos| 12  |
+|  Song   |Char.|Diff.|Lv.|
+|---------|:---:|:---:|:-:|
+|**Reset**| Ivy |Easy | 3 |
+|**Reset**| Ivy |Hard | 7 |
+|**Reset**| Ivy |Chaos|12 |
 
 ### Log Content
 Protocol activated<br>
@@ -120,9 +120,9 @@ Caretaker......complete
 
 ## <a id="ivos004"/>\[#004\] Cam\_???\_699\_12\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  2  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 2 |    No     |
 
 ### Log Content
 *\[Footsteps\]*
@@ -177,9 +177,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos005"/>\[#005\] Main\_Log\_699\_12\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  3  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 3 |    No     |
 
 ### Log Content
 Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it. Just now, when I was eating, I tried to approach it by tossing it a fruit. It ate the fruit very quickly. After it was full, it stretched its wings, lied down, and started sleeping loudly.  It showed no caution towards me at all, like I'm someone he's very familiar with. Looking at it, I'm getting sleepy as well. That's it for today.
@@ -188,19 +188,19 @@ Been six days since I woke up, and I haven't even made it out of the jungle... I
 
 ## <a id="ivos006"/>\[#006\] ???\_???\_142\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  4  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 4 |    No     |
 
 ### Command Code
 The command code is `2501004`.
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**D R G**|   Ivy   |Easy |  2  |
-|**D R G**|   Ivy   |Hard |  6  |
-|**D R G**|   Ivy   |Chaos| 11  |
+|  Song   |Char.|Diff.|Lv.|
+|---------|:---:|:---:|:-:|
+|**D R G**| Ivy |Easy | 2 |
+|**D R G**| Ivy |Hard | 6 |
+|**D R G**| Ivy |Chaos|11 |
 
 ### Log Content
 **[Shelter System]**<br>
@@ -342,14 +342,14 @@ _\[Signal Lost\]_
 
 ## <a id="ivos007"/>\[#007\] Cam\_???\_699\_12\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  5  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 5 |    No     |
 
 ### Unlocked Charts
-|         Song          |Character|Diff.|Level|
-|-----------------------|:-------:|:---:|:---:|
-|**Sentimental Journey**|   Ivy   |Chaos| 14  |
+|         Song          |Char.|Diff.|Lv.|
+|-----------------------|:---:|:---:|:-:|
+|**Sentimental Journey**| Ivy |Chaos|14 |
 
 ### Log Content
 *\[Footsteps\]*
@@ -418,9 +418,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos008"/>\[#008\] Main\_Log\_699\_12\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  6  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 6 |    No     |
 
 ### Log Content
 Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated? From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first... Shelter 32 has collapsed almost entirely. Half the entrance is buried in branches and rocks. Just how long have I been unconscious for... I can't get in this way. My only option now is to wait for those humans to open up the entrance. The database index inside each Shelter has the coordinates of every Shelter. After I obtain that, I can also grasp my accurate geographic position and the current time better.
@@ -431,19 +431,19 @@ Been following those humans for the entire day... They seem to refer to themselv
 
 ## <a id="ivos009"/>\[#009\] ???\_???\_143\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  7  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 7 |    No     |
 
 ### Command Code
 The command code is `2501004`.
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Biotonic**|   Ivy   |Easy |  3  |
-|**Biotonic**|   Ivy   |Hard |  7  |
-|**Biotonic**|   Ivy   |Chaos| 13  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Biotonic**| Ivy |Easy | 3 |
+|**Biotonic**| Ivy |Hard | 7 |
+|**Biotonic**| Ivy |Chaos|13 |
 
 ### Log Content
 **[Shelter System]**<br>
@@ -583,9 +583,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos010"/>\[#010\] Audio\_???\_699\_12\_31
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  |  8  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 8 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -741,12 +741,12 @@ _\[Signal Lost\]_
 
 ## <a id="ivos011"/>\[#011\] Main\_Log\_700\_01\_01
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 24  |
-|**NEKO#ΦωΦ** | 24  |
-|**ROBO_Head**| 24  |
-|**Ivy**      |  9  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |24 |    No     |
+|**NEKO#ΦωΦ** |24 |    No     |
+|**ROBO_Head**|24 |    No     |
+|**Ivy**      | 9 |    Yes    |
 
 ### Log Content
 ...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years? How is that...... N, no, I have to calm down... The reconstruction project has already concluded. The "Node" cities have been established too. That's why I saw those humans. That's also why almost all Shelters are abandoned now. A visit to Shelter 08... would be utterly pointless as well. We...... failed, in the end. Lost everything...... including you......
@@ -757,14 +757,14 @@ _\[Signal Lost\]_
 
 ## <a id="ivos012"/>\[#012\] Audio\_08GateC\_700\_01\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 10  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|10 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Alexandrite**|   Ivy   |Chaos| 13  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Alexandrite**| Ivy |Chaos|13 |
 
 ### Log Content
 *\[Armored car engine\]*
@@ -886,9 +886,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos013"/>\[#013\] Cam\_Drone117\_700\_01\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 11  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|11 |    No     |
 
 ### Log Content
 **[Ice Cream Machine]**<br>
@@ -991,9 +991,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos014"/>\[#014\] Main\_Log\_700\_01\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 11  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|11 |    No     |
 
 ### Log Content
 \[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function. What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br> <br> First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? The kind of technology that is prohibited for development by the protocol is practically everywhere in this city... This shows that humans have gone completely loose after taking over the Administration Bureau. The one thing that puzzles me the most, is the thing they called "cyTus"...... I tried to log in to it as well. It's basically the "Virtual Internet", the protocol's top forbidden technology. However, it is also slightly different. My authorization still couldn't access any area outside of the provided services. None of this makes any sense at all... How did humans get their hands on this technology? And what are they using to operate this system? Is it because that they are fed up with the various limitations enforced by the protocol that they eliminated all the OPCI machines......? Or, as I have suspected in the past... the entire protocol is, in reality, nothing more than a fraud? There are way too many questions here. I need to figure out a way to get answers. First, I need to counterfeit a civilian ID. Then, it seems that I also need some money... or it will be quite inconvenient. 
@@ -1008,17 +1008,17 @@ _\[Signal Lost\]_
 
 ## <a id="ivos015"/>\[#015\] ???\_???\_143\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 12  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|12 |    No     |
 
 ### Command Code
 The command code is `2501005`.
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Tokiwatari**|   Ivy   |Chaos| 13  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Tokiwatari**| Ivy |Chaos|13 |
 
 ### Log Content
 **[Cytus System]**<br>
@@ -1176,9 +1176,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos016"/>\[#016\] Cam\_Cafe\_700\_01\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 12  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|12 |    No     |
 
 ### Log Content
 **Pedestrian A**<br>
@@ -1307,9 +1307,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos017"/>\[#017\] Cam\_Academy\_700\_01\_04
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 13  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|13 |    No     |
 
 ### Log Content
 **[Basicpedia 01]**<br>
@@ -1333,7 +1333,7 @@ The OPCI machines... When did they disappear?
 
 **[Basicpedia 01]**<br>
 _That's a great question! Looks like we have a learner who is interested in history. <br>
-The OPCI machine, is the main model for "Architects". They are intelligent robots that operated and managed Nodes in the past. They were also responsible for all kinds of construction projects. On N.A. 497/04/04, they completed their duty, which led to "The Decommission" and their subsequent disappearance. They left behind splendid architectures and societies that aided humans in their amazing development afterward. Their existence is great to this world! _
+The OPCI machine, is the main model for "Architects". They are intelligent robots that operated and managed Nodes in the past. They were also responsible for all kinds of construction projects. On N.A. 497/04/04, they completed their duty, which led to "The Decommission" and their subsequent disappearance. They left behind splendid architectures and societies that aided humans in their amazing development afterward. Their existence is great to this world!_
 
 **Ivy**<br>
 497...... This means that they did indeed once co\-exist with humans. So they've been gone for more than 200 years, have they...?
@@ -1371,7 +1371,7 @@ _Learner, it seems that your history is not very good. The event you described d
 Is that so? Then how did the calendar "N.A. 700" came to be? What about civilization before that?
 
 **[Basicpedia 01]**<br>
-_Yes, before the New Age, Nodes and Architects didn't exist. As with the humans before that, although they have advanced technology, they were forced to reduce their area of survival due to the Earth's environment getting harsher and harsher. To solve this issue, they later invented the survival method of "Nodes". That's how they were able to achieve a balance and live in harmony with the planet once again. This calendar was established precisely to celebrate the arrival of that day. _
+_Yes, before the New Age, Nodes and Architects didn't exist. As with the humans before that, although they have advanced technology, they were forced to reduce their area of survival due to the Earth's environment getting harsher and harsher. To solve this issue, they later invented the survival method of "Nodes". That's how they were able to achieve a balance and live in harmony with the planet once again. This calendar was established precisely to celebrate the arrival of that day._
 
 **Ivy**<br>
 Incorrect.<br>
@@ -1440,19 +1440,19 @@ _\[Signal Lost\]_
 
 ## <a id="ivos018"/>\[#018\] ???\_???\_144\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 14  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|14 |    No     |
 
 ### Command Code
 The command code is `2501005`.
 
 ### Unlocked Charts
-|  Song   |Character|Diff.|Level|
-|---------|:-------:|:---:|:---:|
-|**Purge**|   Ivy   |Easy |  4  |
-|**Purge**|   Ivy   |Hard |  8  |
-|**Purge**|   Ivy   |Chaos| 12  |
+|  Song   |Char.|Diff.|Lv.|
+|---------|:---:|:---:|:-:|
+|**Purge**| Ivy |Easy | 4 |
+|**Purge**| Ivy |Hard | 8 |
+|**Purge**| Ivy |Chaos|12 |
 
 ### Log Content
 **Ivy**<br>
@@ -1635,9 +1635,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos019"/>\[#019\] Audio\_ARC\_700\_03\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 15  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|15 |    No     |
 
 ### Log Content
 **[Tour Guide Robot]**<br>
@@ -1671,7 +1671,7 @@ _Oh? We have an individual visitor too. Miss, are you prepared to have a technol
 ...... (Nods)
 
 **[Tour Guide Robot]**<br>
-_None_
+_Well then, let us get going\~ First, you are going to experience the zero\-gravity area. Do you remember the transporter we just took? Here, you will witness how the floating technology is designed for all kinds of equipment..._
 
 **Ivy**<br>
 ......
@@ -1775,9 +1775,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos020"/>\[#020\] Main\_Log\_700\_03\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 16  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|16 |    No     |
 
 ### Log Content
 The virtual internet "cyTus" system that has been rewritten by humans... It's not that easy to hack into it. However, I observed quite a bit of useful information when I infiltrated A.R.C. HQ. Thus, it's not an undoable task for me either. It won't take me long to finally get a peek at when they are hiding inside their so\-called "Library".
@@ -1790,19 +1790,19 @@ The virtual internet "cyTus" system that has been rewritten by humans... It's no
 
 ## <a id="ivos021"/>\[#021\] ???\_???\_149\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 17  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|17 |    No     |
 
 ### Command Code
 The command code is `2404049`.
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Area184**|   Ivy   |Easy |  4  |
-|**Area184**|   Ivy   |Hard |  8  |
-|**Area184**|   Ivy   |Chaos| 12  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**Area184**| Ivy |Easy | 4 |
+|**Area184**| Ivy |Hard | 8 |
+|**Area184**| Ivy |Chaos|12 |
 
 ### Log Content
 **Ivy**<br>
@@ -1980,15 +1980,15 @@ _\[Signal Lost\]_
 
 ## <a id="ivos022"/>\[#022\] Main\_Log\_700\_03\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 18  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|18 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**BloodyMare**|   Ivy   |Easy |  3  |
-|**BloodyMare**|   Ivy   |Hard |  8  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**BloodyMare**| Ivy |Easy | 3 |
+|**BloodyMare**| Ivy |Hard | 8 |
 
 ### Log Content
 Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
@@ -2009,9 +2009,9 @@ Vanessa...... is used as a research subject by humans. She is no longer consciou
 
 ## <a id="ivos023"/>\[#023\] Truth\_Moment\_700\_09\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|19 |    No     |
 
 ### Log Content
 *\[Show starts\]*
@@ -2077,14 +2077,14 @@ _\[Signal Lost\]_
 
 ## <a id="ivos024"/>\[#024\] Main\_Log\_701\_09\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 19  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|19 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**BloodyMare**|   Ivy   |Chaos| 13  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**BloodyMare**| Ivy |Chaos|13 |
 
 ### Log Content
 Every required condition has been clarified. My plan is about to officially enter its execution phase... Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan. Come, gather around this stage that I've diligently prepared for you, humans.
@@ -2108,9 +2108,9 @@ Awaiting your response.
 
 ## <a id="ivos025"/>\[#025\] Audio\_Graveyard\_701\_12\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 20  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|20 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -2194,15 +2194,15 @@ _\[Signal Lost\]_
 
 ## <a id="ivos026"/>\[#026\] cyTus\_Server08\_702\_01\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 21  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|21 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Lunar Mare**|   Ivy   |Easy |  4  |
-|**Lunar Mare**|   Ivy   |Hard |  8  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Lunar Mare**| Ivy |Easy | 4 |
+|**Lunar Mare**| Ivy |Hard | 8 |
 
 ### Log Content
 ![ivos2601.png](./attachments/ivos2601.png)
@@ -2215,14 +2215,14 @@ _\[Signal Lost\]_
 
 ## <a id="ivos027"/>\[#027\] Main\_Log\_702\_07\_27
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 22  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|22 |    No     |
 
 ### Unlocked Charts
-|     Song     |Character|Diff.|Level|
-|--------------|:-------:|:---:|:---:|
-|**Lunar Mare**|   Ivy   |Chaos| 14  |
+|     Song     |Char.|Diff.|Lv.|
+|--------------|:---:|:---:|:-:|
+|**Lunar Mare**| Ivy |Chaos|14 |
 
 ### Log Content
 Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
@@ -2234,15 +2234,15 @@ If this continues to happen, humans will without a doubt become more alert. It i
 
 ## <a id="ivos028"/>\[#028\] Cam\_76st\_702\_06\_11
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 22  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|22 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**99 Glooms**|   Ivy   |Easy |  5  |
-|**99 Glooms**|   Ivy   |Hard |  7  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**99 Glooms**| Ivy |Easy | 5 |
+|**99 Glooms**| Ivy |Hard | 7 |
 
 ### Log Content
 **Neko**<br>
@@ -2303,14 +2303,14 @@ _\[Signal Lost\]_
 
 ## <a id="ivos029"/>\[#029\] cyTus\_Server03\_702\_08\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 23  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|23 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**99 Glooms**|   Ivy   |Chaos| 14  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**99 Glooms**| Ivy |Chaos|14 |
 
 ### Log Content
 **JOE**<br>
@@ -2387,12 +2387,12 @@ _\[Signal Lost\]_
 
 ## <a id="ivos030"/>\[#030\] Main\_Log\_702\_08\_24
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 54  |
-|**NEKO#ΦωΦ** | 54  |
-|**ROBO_Head**| 54  |
-|**Ivy**      | 24  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |54 |    No     |
+|**NEKO#ΦωΦ** |54 |    No     |
+|**ROBO_Head**|54 |    No     |
+|**Ivy**      |24 |    Yes    |
 
 ### Log Content
 This attack, due to the boost from the amplifying equipment, the conversion rate is very promising... It could also be because of Neko Asakura. Her fans are all extremely restless. They provide a completely different emotion... I have to thank her for it. The more concerning thing is that the tracking signal from the proxies has been getting closer and closer. Several IP locations have already been exposed. To be honest, I am very surprised. Within the ranks of the virtual internet system, there actually exist someone that can make me feel "threatened". Simon Jackson... this is the name I got after doing a reverse tracking; an A.R.C. Engineer. He's the one who breached my defenses. However, at the time of Æsir\-FEST, he was present at the backstage. He should've lost part of his memory as well. This means that his A.I. followed his previous commands and was able to obtain quite a bit of information, all without the knowledge of its owner. I have to say, the functionality is outstanding... whether it's the A.I. or its creator. Coincidentally, Neko Asakura happens to know Simon Jackson. During my hacking this time, I altered her memory and planted footage of Simon Jackson deep inside her mind. Like a remote\-controlled EMP bomb, if the time really calls for it, I can let her remember it... Her testimony can effectively shift the investigation direction and buy me time. If Simon Jackson takes one more step closer to me...
@@ -2401,15 +2401,15 @@ This attack, due to the boost from the amplifying equipment, the conversion rate
 
 ## <a id="ivos031"/>\[#031\] Cam\_Tower017\_702\_08\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 25  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|25 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Pressure**|   Ivy   |Easy |  3  |
-|**Pressure**|   Ivy   |Hard |  7  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Pressure**| Ivy |Easy | 3 |
+|**Pressure**| Ivy |Hard | 7 |
 
 ### Log Content
 **Man**<br>
@@ -2504,7 +2504,7 @@ Hmph......!
 Ha\~......
 
 **Girl**<br>
-_\*Bawls\*_
+_\*Bawls\*_ WAHHHHHHH\~\~
 
 **Man**<br>
 Vivian!!<br>
@@ -2581,9 +2581,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos032"/>\[#032\] Main\_Log\_702\_09\_01
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 26  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|26 |    No     |
 
 ### Log Content
 I did it! All the samples have been inputted into her core!
@@ -2600,14 +2600,14 @@ Can you hear me......? ...... Vanessa? ......
 
 ## <a id="ivos033"/>\[#033\] Main\_Log\_702\_09\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 27  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|27 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Pressure**|   Ivy   |Chaos| 12  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Pressure**| Ivy |Chaos|12 |
 
 ### Log Content
 Brought back the model during the night. It was hit by a pulse pistol and suffered quite a bit of damage. Won't be able to operate outside again in the near future. I severely underestimated Simon Jackson... His A.I. found my image in A.R.C.'s database. Subsequent investigations led him to discover the base in factory 03. It's too risky to let him continue to investigate freely like this. His next step... he's likely going to track the connection address I used to hack the streamer and catch up to me, isn't he? There are too many clues there, I can't hide them all. However, as long as I can come face\-to\-face with his A.I. , the situation will change... The legendary hacker "X" is a mere human after all. If it's a fight between the 0s and 1s, he is no match for me. The conversion for the remaining memory data is going along smoothly. I will definitely succeed this time. I will not allow a human to mess up my plans. Just wait for me a little longer, Vanessa.
@@ -2618,9 +2618,9 @@ Brought back the model during the night. It was hit by a pulse pistol and suffer
 
 ## <a id="ivos034"/>\[#034\] ???\_???\_702\_09\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 28  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|28 |    No     |
 
 ### Log Content
 *\[Connection\]*
@@ -2723,19 +2723,19 @@ _\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 
 ## <a id="ivos035"/>\[#035\] Main\_Log\_702\_10\_25
 ### Requirements
-|  Character  |Level|
-|-------------|:---:|
-|**PAFF**     | 55  |
-|**NEKO#ΦωΦ** | 55  |
-|**ROBO_Head**| 55  |
-|**Ivy**      | 29  |
+|    Char.    |Lv.|Lv. Locked?|
+|-------------|:-:|:---------:|
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
+|**Ivy**      |29 |    Yes    |
 
 ### Unlocked Charts
-| Song  |Character|Diff.|Level|
-|-------|:-------:|:---:|:---:|
-|**V.** |   Ivy   |Easy |  6  |
-|**V.** |   Ivy   |Hard | 10  |
-|**V.** |   Ivy   |Chaos| 15  |
+| Song  |Char.|Diff.|Lv.|
+|-------|:---:|:---:|:-:|
+|**V.** | Ivy |Easy | 6 |
+|**V.** | Ivy |Hard |10 |
+|**V.** | Ivy |Chaos|15 |
 
 ### Log Content
 Everything has been planned out. No more hidden concerns. The condition of Cytus is also perfect. The time right now...... 00:01:12...... It's time.
@@ -2744,9 +2744,9 @@ Everything has been planned out. No more hidden concerns. The condition of Cytus
 
 ## <a id="ivos036"/>\[#036\] ???\_???\_149\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 30  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|30 |    No     |
 
 ### Log Content
 *\[Runs\]*
@@ -2868,9 +2868,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos037"/>\[#037\] Audio\_???\_702\_10\_25
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 31  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|31 |    No     |
 
 ### Log Content
 **Vanessa**<br>
@@ -2994,9 +2994,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos038"/>\[#038\] ???\_???\_149\_??\_??
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 32  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|32 |    No     |
 
 ### Log Content
 **OPCI_2503_III**<br>
@@ -3026,9 +3026,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos039"/>\[#039\] Audio\_???\_702\_11\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 33  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|33 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -3157,9 +3157,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos040"/>\[#040\] Main\_Log\_702\_11\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 34  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|34 |    No     |
 
 ### Log Content
 Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent... This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary. ... No, this is just more proof, that Humans... are not as "ordinary" as the data implied, to begin with. While those images of destruction are certainly real, they also have a side that's emotional and kind... At certain moments, their resolute will is worthy of respect as well... Never thought I would think this way... Forget it... Although unable to utilize Neko Asakura's testimony, humans still firmly believe that Simon Jackson is the real Æsir. Everything is still going smoothly, for now. Better finish the re\-evaluation of the Cytus system first as soon as possible. Vanessa... is the most important.
@@ -3168,9 +3168,9 @@ Ran a quick check\-up. The plant experienced no errors. The images of Simon Jack
 
 ## <a id="ivos041"/>\[#041\] Audio\_???\_702\_11\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 35  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|35 |    No     |
 
 ### Log Content
 **Vanessa**<br>
@@ -3290,9 +3290,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos042"/>\[#042\] Audio\_Graveyard\_702\_07\_13
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 36  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|36 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -3447,9 +3447,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos043"/>\[#043\] Cam\_???\_702\_11\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 37  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|37 |    No     |
 
 ### Log Content
 **[cyTus System]**<br>
@@ -3587,9 +3587,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos044"/>\[#044\] Cam\_Sam\_702\_11\_16
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 38  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|38 |    No     |
 
 ### Log Content
 **Susan**<br>
@@ -3677,10 +3677,10 @@ We can't do that! This is breaking news...
 ![ivos4401.png](./attachments/ivos4401.png)
 
 **Susan**<br>
-_\*cough\*......! \*cough\* \*cough\*...... _Sam! Sam!! Are you okay!?
+_\*cough\*......! \*cough\* \*cough\*......_Sam! Sam!! Are you okay!?
 
 **Agent**<br>
-We need......
+We need......_\*cough\*......_we need emergency medical assistance over here! Right now!!
 
 _\[Signal Lost\]_
 
@@ -3688,9 +3688,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos045"/>\[#045\] Cam\_Arc\_702\_11\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 39  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|39 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -3822,9 +3822,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos046"/>\[#046\] Audio\_08GateC\_702\_11\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 40  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|40 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -3976,9 +3976,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos047"/>\[#047\] Cam\_61St\_702\_11\_26
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 40  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|40 |    No     |
 
 ### Log Content
 *\[Drones flying\]*
@@ -4123,9 +4123,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos048"/>\[#048\] Audio\_???\_702\_11\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 41  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|41 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -4226,9 +4226,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos049"/>\[#049\] Audio\_Ivy\_702\_12\_08
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 42  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|42 |    No     |
 
 ### Log Content
 **Noah**<br>
@@ -4325,9 +4325,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos050"/>\[#050\] Audio\_???\_702\_12\_02
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 43  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|43 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -4490,9 +4490,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos051"/>\[#051\] Audio\_???\_702\_12\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 44  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|44 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -4661,9 +4661,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos052"/>\[#052\] Audio\_Ivy\_702\_12\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 45  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|45 |    No     |
 
 ### Log Content
 **[News]**<br>
@@ -4836,9 +4836,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos053"/>\[#053\] Cam\_Ivy\_702\_12\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 45  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|45 |    No     |
 
 ### Log Content
 **Ivy**<br>
@@ -5020,9 +5020,9 @@ _\[Signal Lost\]_
 
 ## <a id="ivos054"/>\[#054\] Image\_???\_702\_12\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Ivy**  | 46  |
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|46 |    No     |
 
 ### Log Content
 ![ivos5401.png](./attachments/ivos5401.png)

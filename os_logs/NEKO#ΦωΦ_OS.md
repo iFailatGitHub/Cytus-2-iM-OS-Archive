@@ -38,15 +38,15 @@
 
 ## <a id="nos001"/>\[#001\] Cam057\_AB\_702\_09\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 35  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|35 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**extinguisher**|NEKO#ΦωΦ |Easy |  3  |
-|**extinguisher**|NEKO#ΦωΦ |Hard |  7  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**extinguisher**|NEKO#ΦωΦ|Easy | 3 |
+|**extinguisher**|NEKO#ΦωΦ|Hard | 7 |
 
 ### Log Content
 **Cherry**<br>
@@ -149,14 +149,14 @@ _\[Signal Lost\]_
 
 ## <a id="nos002"/>\[#002\] Cam009\_AB\_702\_09\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 37  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|37 |    No     |
 
 ### Unlocked Charts
-|      Song      |Character|Diff.|Level|
-|----------------|:-------:|:---:|:---:|
-|**extinguisher**|NEKO#ΦωΦ |Chaos| 11  |
+|      Song      | Char.  |Diff.|Lv.|
+|----------------|:------:|:---:|:-:|
+|**extinguisher**|NEKO#ΦωΦ|Chaos|11 |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -307,9 +307,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos003"/>\[#003\] Cam11\_St07\_702\_09\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 40  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|40 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -467,9 +467,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos004"/>\[#004\] Cam\_NL\_702\_09\_26
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 42  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|42 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -587,7 +587,7 @@ If your channel is solely dependent on gossip, then that's quite sad.
 ... Ok, ok, I get it! Xenon is so annoying in lecture mode!
 
 **[Xenon-A.I.]**<br>
-_Rewind complete. Communication records that match criteria: 1. _
+_Rewind complete. Communication records that match criteria: 1._
 
 **Xenon**<br>
 Done...huh? What is this? This is a really weird location.
@@ -619,9 +619,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos005"/>\[#005\] Cam11\_St07\_702\_09\_29
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 45  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|45 |    No     |
 
 ### Log Content
 ![nos0502.png](./attachments/nos0502.png)
@@ -689,9 +689,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos006"/>\[#006\] Cam\_NL\_702\_09\_29
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 48  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|48 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -737,9 +737,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos007"/>\[#007\] Cam\_NL\_702\_09\_29
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 49  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|49 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -872,9 +872,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos008"/>\[#008\] Cam\_NL\_702\_09\_30
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 51  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|51 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -983,9 +983,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos009"/>\[#009\] Audio\_NL\_702\_10\_04
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 53  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|53 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1138,9 +1138,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos010"/>\[#010\] Audio\_Asakura\_699\_12\_24
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 54  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|54 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -1302,9 +1302,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos011"/>\[#011\] Cam\_Asakura\_699\_12\_24
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 54  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|54 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -1397,9 +1397,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos012"/>\[#012\] Audio\_Asakura\_702\_10\_13
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 55  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|55 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -1559,9 +1559,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos013"/>\[#013\] Audio\_Asakura\_702\_11\_01
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 57  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|57 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -1728,9 +1728,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos014"/>\[#014\] Cam\_Academy\_702\_11\_06\_1
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 58  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|58 |    No     |
 
 ### Log Content
 *\[Class Bell\]*
@@ -1892,9 +1892,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos015"/>\[#015\] Cam\_Academy\_702\_11\_06\_2
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 58  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|58 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -2080,9 +2080,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos016"/>\[#016\] Audio\_Cafe\_702\_11\_07\_1
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 59  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|59 |    No     |
 
 ### Log Content
 **Linda**<br>
@@ -2183,9 +2183,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos017"/>\[#017\] Audio\_Cafe\_702\_11\_07\_2
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 59  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|59 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -2320,9 +2320,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos018"/>\[#018\] Audio\_MB\_702\_11\_10
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 60  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|60 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -2466,9 +2466,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos019"/>\[#019\] Audio\_St33\_702\_11\_10
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 60  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|60 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -2657,9 +2657,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos020"/>\[#020\] Audio\_Velvet\_702\_11\_12
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 61  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|61 |    No     |
 
 ### Log Content
 **Jacky**<br>
@@ -2802,9 +2802,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos021"/>\[#021\] Message\_Linda\_702\_11\_XX
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 61  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|61 |    No     |
 
 ### Log Content
 **Linda**<br>
@@ -2927,9 +2927,9 @@ _[Sent at 03:54 PM]_
 
 ## <a id="nos022"/>\[#022\] Cam\_St136\_695\_11\_13
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 62  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|62 |    No     |
 
 ### Log Content
 **Clara**<br>
@@ -3092,9 +3092,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos023"/>\[#023\] Audio\_NL\_702\_11\_13
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 62  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|62 |    No     |
 
 ### Log Content
 **PAFF**<br>
@@ -3227,9 +3227,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos024"/>\[#024\] Audio\_Evans\_702\_11\_14
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 62  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|62 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -3298,9 +3298,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos025"/>\[#025\] Cam\_Evans\_702\_11\_14
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 62  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|62 |    No     |
 
 ### Log Content
 **Daniel**<br>
@@ -3434,9 +3434,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos026"/>\[#026\] Cam\_Evans\_702\_11\_14
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 63  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|63 |    No     |
 
 ### Log Content
 ![nos2602.png](./attachments/nos2602.png)
@@ -3574,9 +3574,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos027"/>\[#027\] Audio\_Cafe\_702\_11\_17
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 64  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|64 |    No     |
 
 ### Log Content
 **JOE**<br>
@@ -3708,9 +3708,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos028"/>\[#028\] Audio\_Trans\_08\_702\_11\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 65  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|65 |    No     |
 
 ### Log Content
 *\[Platform Announcement Ring\]*
@@ -3840,9 +3840,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos029"/>\[#029\] Cam\_Trans\_08\_702\_11\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 65  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|65 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -4007,9 +4007,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos030"/>\[#030\] Audio\_Shiraishi\_702\_11\_22
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 66  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|66 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -4138,9 +4138,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos031"/>\[#031\] Audio\_Grave\_702\_11\_23
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 66  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|66 |    No     |
 
 ### Log Content
 **PAFF**<br>
@@ -4300,9 +4300,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos032"/>\[#032\] Cam\_Nora\_702\_12\_14
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 67  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|67 |    No     |
 
 ### Log Content
 **[Kyuu Hou Kai System]**<br>
@@ -4394,7 +4394,7 @@ NEKO?
 *\[Hugs\]*
 
 **NEKO#ΦωΦ**<br>
-_\*Bawls\*_
+_\*Bawls\*_... Waah! WAAAAHHHHH!
 
 **Hayato**<br>
 W, what happened!?
@@ -4448,9 +4448,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos033"/>\[#033\] Audio\_TigerSt\_702\_12\_15
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 68  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|68 |    No     |
 
 ### Log Content
 *\[Ringtone\]*
@@ -4476,7 +4476,8 @@ _MmmHmm... \*Sniffs\*..._
 NEKO... are you alright?
 
 **[NEKO#ΦωΦ]**<br>
-_None_
+_Yeah... Only problem is that two weird old men keep following NEKO.<br>
+Go away, you losers! NEKO can get home by myself just fine!_
 
 **Hayato**<br>
 They were sent by Mr. Daigo to protect you. I think they'll leave once you arrive home.
@@ -4576,7 +4577,7 @@ You silly child... you must be tired, right?
 ...... _\*Nods\*_
 
 **NEKO#ΦωΦ**<br>
-... 
+... _\*Sobs\*_... Sis Cherry...
 
 _\[Signal Lost\]_
 
@@ -4584,9 +4585,9 @@ _\[Signal Lost\]_
 
 ## <a id="nos034"/>\[#034\] Cam\_ShadowSt\_702\_12\_21
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 69  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|69 |    No     |
 
 ### Log Content
 **NEKO#ΦωΦ**<br>
@@ -4719,16 +4720,16 @@ _\[Signal Lost\]_
 
 ## <a id="nos035"/>\[#035\] Audio\_Baro03\_702\_12\_20
 ### Requirements
-| Character  |Level|
-|------------|:---:|
-|**NEKO#ΦωΦ**| 69  |
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**|69 |    No     |
 
 ### Unlocked Charts
-| Song  |Character|Diff.|Level|
-|-------|:-------:|:---:|:---:|
-|**Rei**|NEKO#ΦωΦ |Easy |  3  |
-|**Rei**|NEKO#ΦωΦ |Hard |  7  |
-|**Rei**|NEKO#ΦωΦ |Chaos| 11  |
+| Song  | Char.  |Diff.|Lv.|
+|-------|:------:|:---:|:-:|
+|**Rei**|NEKO#ΦωΦ|Easy | 3 |
+|**Rei**|NEKO#ΦωΦ|Hard | 7 |
+|**Rei**|NEKO#ΦωΦ|Chaos|11 |
 
 ### Log Content
 **Diego**<br>

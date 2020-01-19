@@ -279,9 +279,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos003"/>\[#003\] Audio\_Arc\_682\_06\_06
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  2  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 2 |    No     |
 
 ### Log Content
 *\[Door Opens\]*
@@ -430,16 +430,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos004"/>\[#004\] Audio\_wilderness\_702\_11\_28
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  3  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 3 |    No     |
 
 ### Unlocked Charts
-|     Song      |Character|Diff.|Level|
-|---------------|:-------:|:---:|:---:|
-|**Space Alien**|  Sagar  |Easy |  4  |
-|**Space Alien**|  Sagar  |Hard |  8  |
-|**Space Alien**|  Sagar  |Chaos| 13  |
+|     Song      |Char.|Diff.|Lv.|
+|---------------|:---:|:---:|:-:|
+|**Space Alien**|Sagar|Easy | 4 |
+|**Space Alien**|Sagar|Hard | 8 |
+|**Space Alien**|Sagar|Chaos|13 |
 
 ### Log Content
 **Exploration Team Member**<br>
@@ -580,9 +580,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos005"/>\[#005\] Audio\_Sagar\_694\_06\_10
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  4  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 4 |    No     |
 
 ### Log Content
 *\[Doorbell\]*
@@ -767,9 +767,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos006"/>\[#006\] Audio\_shop\_694\_07\_12
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  5  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 5 |    No     |
 
 ### Log Content
 **Shop Manager**<br>
@@ -917,9 +917,9 @@ _\[→Signal Lost\]_
 
 ## <a id="sos007"/>\[#007\] Audio\_UFZ\_694\_07\_19
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  5  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 5 |    No     |
 
 ### Log Content
 *\[Audience applause\]*
@@ -1091,9 +1091,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos008"/>\[#008\] Cam\_12St\_694\_08\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  6  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 6 |    No     |
 
 ### Log Content
 *\[Phone rings\]*
@@ -1276,9 +1276,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos009"/>\[#009\] Audio\_ArcETC\_695\_11\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  7  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 7 |    No     |
 
 ### Log Content
 **[Edwards]**<br>
@@ -1402,9 +1402,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos010"/>\[#010\] Audio\_ArcETC\_695\_12\_11
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  7  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 7 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -1566,9 +1566,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos011"/>\[#011\] Audio\_13St20\_702\_11\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  8  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 8 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -1717,16 +1717,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos012"/>\[#012\] Audio\_Sagar\_702\_11\_29
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  8  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 8 |    No     |
 
 ### Unlocked Charts
-|    Song    |Character|Diff.|Level|
-|------------|:-------:|:---:|:---:|
-|**Doldrums**|  Sagar  |Easy |  4  |
-|**Doldrums**|  Sagar  |Hard |  7  |
-|**Doldrums**|  Sagar  |Chaos| 14  |
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**Doldrums**|Sagar|Easy | 4 |
+|**Doldrums**|Sagar|Hard | 7 |
+|**Doldrums**|Sagar|Chaos|14 |
 
 ### Log Content
 *\[Signal Transmission\]*
@@ -1890,9 +1890,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos013"/>\[#013\] Audio\_ArcETC\_696\_05\_04
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  9  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 9 |    No     |
 
 ### Log Content
 **Bruno**<br>
@@ -2016,9 +2016,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos014"/>\[#014\] Cam\_ArcETC\_696\_05\_04
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**|  9  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 9 |    No     |
 
 ### Log Content
 **Bruno**<br>
@@ -2185,9 +2185,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos015"/>\[#015\] Audio\_ArcETC\_696\_10\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 10  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|10 |    No     |
 
 ### Log Content
 **[Edwards]**<br>
@@ -2340,9 +2340,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos016"/>\[#016\] Audio\_???\_697\_11\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 11  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|11 |    No     |
 
 ### Log Content
 **Edwards**<br>
@@ -2463,16 +2463,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos017"/>\[#017\] Audio\_???\_697\_11\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 11  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|11 |    No     |
 
 ### Unlocked Charts
-|   Song    |Character|Diff.|Level|
-|-----------|:-------:|:---:|:---:|
-|**Nídhögg**|  Sagar  |Easy |  5  |
-|**Nídhögg**|  Sagar  |Hard |  9  |
-|**Nídhögg**|  Sagar  |Chaos| 14  |
+|   Song    |Char.|Diff.|Lv.|
+|-----------|:---:|:---:|:-:|
+|**Nídhögg**|Sagar|Easy | 5 |
+|**Nídhögg**|Sagar|Hard | 9 |
+|**Nídhögg**|Sagar|Chaos|14 |
 
 ### Log Content
 **Bruno**<br>
@@ -2644,9 +2644,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos018"/>\[#018\] Audio\_ArcETC\_699\_04\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 12  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|12 |    No     |
 
 ### Log Content
 **Alex**<br>
@@ -2807,16 +2807,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos019"/>\[#019\] Audio\_Sagar\_699\_04\_05
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 13  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|13 |    No     |
 
 ### Unlocked Charts
-|   Song   |Character|Diff.|Level|
-|----------|:-------:|:---:|:---:|
-|**Legacy**|  Sagar  |Easy |  5  |
-|**Legacy**|  Sagar  |Hard |  7  |
-|**Legacy**|  Sagar  |Chaos| 13  |
+|   Song   |Char.|Diff.|Lv.|
+|----------|:---:|:---:|:-:|
+|**Legacy**|Sagar|Easy | 5 |
+|**Legacy**|Sagar|Hard | 7 |
+|**Legacy**|Sagar|Chaos|13 |
 
 ### Log Content
 **Grave Robber A**<br>
@@ -2998,9 +2998,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos020"/>\[#020\] Audio\_Sagar\_702\_12\_09
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 13  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|13 |    No     |
 
 ### Log Content
 **Alex**<br>
@@ -3180,16 +3180,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos021"/>\[#021\] Audio\_ArcETC\_700\_01\_14
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 14  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|14 |    No     |
 
 ### Unlocked Charts
-|              Song               |Character|Diff.|Level|
-|---------------------------------|:-------:|:---:|:---:|
-|**A Portent of the Silver Wheel**|  Sagar  |Easy |  3  |
-|**A Portent of the Silver Wheel**|  Sagar  |Hard |  7  |
-|**A Portent of the Silver Wheel**|  Sagar  |Chaos| 13  |
+|              Song               |Char.|Diff.|Lv.|
+|---------------------------------|:---:|:---:|:-:|
+|**A Portent of the Silver Wheel**|Sagar|Easy | 3 |
+|**A Portent of the Silver Wheel**|Sagar|Hard | 7 |
+|**A Portent of the Silver Wheel**|Sagar|Chaos|13 |
 
 ### Log Content
 **Sagar**<br>
@@ -3375,9 +3375,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos022"/>\[#022\] Audio\_ArcETC\_700\_03\_20
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 15  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|15 |    No     |
 
 ### Log Content
 **Alex**<br>
@@ -3520,16 +3520,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos023"/>\[#023\] Cam\_ArcETC\_701\_05\_18
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 16  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|16 |    No     |
 
 ### Unlocked Charts
-|    Song     |Character|Diff.|Level|
-|-------------|:-------:|:---:|:---:|
-|**Sacrifice**|  Sagar  |Easy |  3  |
-|**Sacrifice**|  Sagar  |Hard |  7  |
-|**Sacrifice**|  Sagar  |Chaos| 14  |
+|    Song     |Char.|Diff.|Lv.|
+|-------------|:---:|:---:|:-:|
+|**Sacrifice**|Sagar|Easy | 3 |
+|**Sacrifice**|Sagar|Hard | 7 |
+|**Sacrifice**|Sagar|Chaos|14 |
 
 ### Log Content
 *\[Punch Combo\]*
@@ -3736,9 +3736,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos024"/>\[#024\] Audio\_Sagar\_702\_11\_30
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 17  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|17 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -3876,9 +3876,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos025"/>\[#025\] Audio\_???\_702\_12\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 18  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|18 |    No     |
 
 ### Log Content
 **Sagar**<br>
@@ -3926,7 +3926,7 @@ WAH!!!!
 Captain! You good!?
 
 **Sagar**<br>
-_...\*cough...\*cough... _I'm fine! Those rocks are blocking the path... Retain formation and do not move from your position!
+_...\*cough...\*cough..._I'm fine! Those rocks are blocking the path... Retain formation and do not move from your position!
 
 **Alex**<br>
 S\*\*\*! My hand...
@@ -4052,9 +4052,9 @@ _\[Signal Lost\]_
 
 ## <a id="sos026"/>\[#026\] Cam\_Sagar\_702\_12\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 19  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|19 |    No     |
 
 ### Log Content
 *\[Footsteps\]*
@@ -4082,16 +4082,16 @@ _\[Signal Lost\]_
 
 ## <a id="sos027"/>\[#027\] Audio\_Sagar\_702\_12\_17
 ### Requirements
-|Character|Level|
-|---------|:---:|
-|**Sagar**| 19  |
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|19 |    No     |
 
 ### Unlocked Charts
-|         Song         |Character|Diff.|Level|
-|----------------------|:-------:|:---:|:---:|
-|**Return of the Lamp**|  Sagar  |Easy |  4  |
-|**Return of the Lamp**|  Sagar  |Hard |  8  |
-|**Return of the Lamp**|  Sagar  |Chaos| 14  |
+|         Song         |Char.|Diff.|Lv.|
+|----------------------|:---:|:---:|:-:|
+|**Return of the Lamp**|Sagar|Easy | 4 |
+|**Return of the Lamp**|Sagar|Hard | 8 |
+|**Return of the Lamp**|Sagar|Chaos|14 |
 
 ### Log Content
 **Sagar**<br>
