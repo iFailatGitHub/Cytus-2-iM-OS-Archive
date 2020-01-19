@@ -618,7 +618,11 @@ The iM full\-sense social networking team
 Diary Log 6970808\_ConneR<br>
 Location: Node 08 Mansion
 
-　Returned to this big, empty house after I left it more than a decade ago, only to find out that the only things waiting for me are father's soulless shell and an endless sense of loss. Maybe I came back to prove something; maybe I want to tell him that I did not disappoint and lived up to family expectations. All of a sudden, those things are no longer important anymore. The chip father left me is a token that has been passed down through the Neumann family for generations. Although I've never heard my father talk about the details, I think it should be some kind of ancient technology? In my faint memory of my childhood, I remember there was a period where father was in a very irritated mood, likely because of this chip. Not long after that, mother and I left this home. Did a quick analysis with father's equipment. The chip itself is still somewhat recognizable, but the port is something I've never seen before. There are way too many questions left behind by the Neumann family. I just might have the ability to find the truth behind those questions, in Node 13. 
+　Returned to this big, empty house after I left it more than a decade ago, only to find out that the only things waiting for me are father's soulless shell and an endless sense of loss. Maybe I came back to prove something; maybe I want to tell him that I did not disappoint and lived up to family expectations. All of a sudden, those things are no longer important anymore. 
+
+　The chip father left me is a token that has been passed down through the Neumann family for generations. Although I've never heard my father talk about the details, I think it should be some kind of ancient technology? In my faint memory of my childhood, I remember there was a period where father was in a very irritated mood, likely because of this chip. Not long after that, mother and I left this home. 
+
+　Did a quick analysis with father's equipment. The chip itself is still somewhat recognizable, but the port is something I've never seen before. There are way too many questions left behind by the Neumann family. I just might have the ability to find the truth behind those questions, in Node 13. 
 
 ConneR 6970808
 
@@ -631,7 +635,17 @@ ConneR 6970808
 |**ConneR**| 8 |    No     |
 
 ### Log Content
-To my son: When you see this letter, I might be on my last breath. Maybe I can't even remember who I am. Shortly after you and your mother Alyxia left, I was diagnosed with neurodegenerative dementia. Don't worry though; I wrote this letter when I'm still in the early stages of the disease. I might forget some words; my description of things might not be 100% clear; my thoughts might not flow smoothly. So, I had Grace help me. The letter you are reading now was basically co\-written by Grace and me. First of all, I would like to apologize to you and your mother in place of my irritable self back then. Due to my fear and my ignorance, I was a childish fool that did nothing but blame others for my personal mistakes. The biggest, most irredeemable mistake I ever made was losing you and your mother. I owe Alyxia so much, far too much. I don't even know how to put that into words. I cared only about my work. I had no control over my emotions and often vented my frustration on her. I took her forgiveness for granted countless times. Now that I think about it, I don't even have the courage to apologize to her and atone for my mistakes in person. If Alyxia is still alive when you read this letter, please tell her, "Thank you for raising our son. Colin may have a failure of a father, but he is lucky to have the perfect mother."<br> <br> The Neumann family is a noble family from Node 13. We have a close relationship with the A.R.C.'s senior committee members. The chip that I gave you is a family token that has been passed down for centuries. Our ancestor, Rald Neumann, played a very important role in the rebuild of this world's order. In the past few years, I've been attempting to unveil its secret, but I failed utterly. However, someone as talented and smart as you might have the possibility of doing what I can't. Throughout the years, I've heard plenty about what you accomplished outside this home. It seems like yesterday when you are still the little boy who only knows how to play catch. Now, you are an independent, highly\-acclaimed archaeologist, capable of publishing papers that point out the mistakes in A.R.C.'s research. When I saw that news, I was pleasantly surprised, but at the same time extremely conflicted. So many colleagues have told me that I should be proud of your accomplishments. On one hand, as your father, I am indeed very proud of you, but on the other, I deeply regret the harsh and unrealistic expectations I placed on you in the past. If one day, you finally returned to this home and saw this letter, please know that dad only wants to tell you this, " I'm sorry, and good job." The Neumann family will always be proud of you. 
+To my son:
+
+When you see this letter, I might be on my last breath. Maybe I can't even remember who I am. Shortly after you and your mother Alyxia left, I was diagnosed with neurodegenerative dementia. Don't worry though; I wrote this letter when I'm still in the early stages of the disease. I might forget some words; my description of things might not be 100% clear; my thoughts might not flow smoothly. So, I had Grace help me. The letter you are reading now was basically co\-written by Grace and me. 
+
+First of all, I would like to apologize to you and your mother in place of my irritable self back then. Due to my fear and my ignorance, I was a childish fool that did nothing but blame others for my personal mistakes. The biggest, most irredeemable mistake I ever made was losing you and your mother. I owe Alyxia so much, far too much. I don't even know how to put that into words. I cared only about my work. I had no control over my emotions and often vented my frustration on her. I took her forgiveness for granted countless times. Now that I think about it, I don't even have the courage to apologize to her and atone for my mistakes in person. If Alyxia is still alive when you read this letter, please tell her, "Thank you for raising our son. Colin may have a failure of a father, but he is lucky to have the perfect mother."<br>
+ <br>
+The Neumann family is a noble family from Node 13. We have a close relationship with the A.R.C.'s senior committee members. The chip that I gave you is a family token that has been passed down for centuries. Our ancestor, Rald Neumann, played a very important role in the rebuild of this world's order. In the past few years, I've been attempting to unveil its secret, but I failed utterly. However, someone as talented and smart as you might have the possibility of doing what I can't.
+
+Throughout the years, I've heard plenty about what you accomplished outside this home. It seems like yesterday when you are still the little boy who only knows how to play catch. Now, you are an independent, highly\-acclaimed archaeologist, capable of publishing papers that point out the mistakes in A.R.C.'s research. When I saw that news, I was pleasantly surprised, but at the same time extremely conflicted. So many colleagues have told me that I should be proud of your accomplishments. On one hand, as your father, I am indeed very proud of you, but on the other, I deeply regret the harsh and unrealistic expectations I placed on you in the past. 
+
+If one day, you finally returned to this home and saw this letter, please know that dad only wants to tell you this, " I'm sorry, and good job." The Neumann family will always be proud of you. 
 
 Your father<br>
 Colin Neumann Sr.
@@ -715,7 +729,9 @@ Location: A.R.C. HQ living quarters\_Room V017
 
 　Been three months since that incident, the right side of my body still gets stints of extreme pain. Physically, my body is starting to learn to control the new eye and arm. Mentally, however, I can never accept it like this; at least not before I find out the truth about what attacked me.
 
-　A.R.C. HQ is indeed where resources and talents go. I must admit that I did somewhat underestimate their abilities in the past. I just might be able to find the answers I want here. Even though the title of "advisor" sounds impressive, I have a feeling that they are still very cautious about me. As far as the people I've come in contact with here, most of them are just lackeys. That Sagar guy doesn't look to be the especially "smart" type, but since he is captain of the exploration team, there must be something special about him. The Supreme Committee members keep their whereabouts a complete secret. Need to find a chance to meet with them in the future.
+　A.R.C. HQ is indeed where resources and talents go. I must admit that I did somewhat underestimate their abilities in the past. I just might be able to find the answers I want here. Even though the title of "advisor" sounds impressive, I have a feeling that they are still very cautious about me. 
+
+　As far as the people I've come in contact with here, most of them are just lackeys. That Sagar guy doesn't look to be the especially "smart" type, but since he is captain of the exploration team, there must be something special about him. The Supreme Committee members keep their whereabouts a complete secret. Need to find a chance to meet with them in the future.
 
 ConneR 7020406
 
@@ -829,7 +845,13 @@ _\[Call Ends\]_
 |**Abduction**|ConneR|Chaos|11 |
 
 ### Log Content
-Research Log 7020714\_ConneR The benefit of working inside A.R.C. is that I get to see all their unannounced inventions, research and all kinds of recreated technologies. Even though they have gathered the best talents here, without the data of past technology obtained through exploring the Ruins, especially the central database "Library" and the establishment of the virtual internet, A.R.C. will be nowhere near their current wealth and power. However, nobody ever asks any questions. The variety of automatic management systems used in the countless Nodes we live in; the ultra\-high\-speed capsule tracks that connect the Nodes; the breeding center that controls the population; the city structure that seems to be aiming for the skies; how do they actually function, and who is managing all of them? The admins are merely pawns. A.R.C.'s "accomplishments" are only built on top of the artifacts that were left behind. The sight I saw in those Ruins when I was attacked, just what in the world was that...? If I want to find some answers, there is no better place than here. I need more time and more trustworthy comrades. In reality, humans are fragile flowers that are trapped inside a greenhouse. Yes, this city, this world; there are still way too many things we don't understand. Right now, we are merely herds of sheep, blindly following the script and acting according to it. 
+Research Log 7020714\_ConneR
+
+The benefit of working inside A.R.C. is that I get to see all their unannounced inventions, research and all kinds of recreated technologies. Even though they have gathered the best talents here, without the data of past technology obtained through exploring the Ruins, especially the central database "Library" and the establishment of the virtual internet, A.R.C. will be nowhere near their current wealth and power. 
+
+However, nobody ever asks any questions. The variety of automatic management systems used in the countless Nodes we live in; the ultra\-high\-speed capsule tracks that connect the Nodes; the breeding center that controls the population; the city structure that seems to be aiming for the skies; how do they actually function, and who is managing all of them? The admins are merely pawns. A.R.C.'s "accomplishments" are only built on top of the artifacts that were left behind. The sight I saw in those Ruins when I was attacked, just what in the world was that...? If I want to find some answers, there is no better place than here. I need more time and more trustworthy comrades. 
+
+In reality, humans are fragile flowers that are trapped inside a greenhouse. Yes, this city, this world; there are still way too many things we don't understand. Right now, we are merely herds of sheep, blindly following the script and acting according to it. 
 
 ConneR 7020714
 
@@ -1026,7 +1048,9 @@ _\[Replay Ends\]_
 Diary Log 7020722\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　Finally met someone that is more interesting than that Sagar guy, a boy called Simon Jackson.  He was quite successful in the world of underground bands under the name "Crystal PuNK", but one day he just disappeared for no reason. Many years later, he joined A.R.C.'s internet security department with a phenomenally high score and genius\-level talents. Many of the security protocols that prevent modern internet crimes were his handiwork. One can even say that A.R.C.'s recent success with preventing internet terrorist attacks and virtual crimes can all be credited to this young fella. If I can recruit his help, it might be a lot easier to solve the mystery behind that item. However, I must first confirm that he is someone trustworthy. I'll need to talk with him a few more times and obtain more information on him. 
+　Finally met someone that is more interesting than that Sagar guy, a boy called Simon Jackson.  He was quite successful in the world of underground bands under the name "Crystal PuNK", but one day he just disappeared for no reason. Many years later, he joined A.R.C.'s internet security department with a phenomenally high score and genius\-level talents. Many of the security protocols that prevent modern internet crimes were his handiwork. One can even say that A.R.C.'s recent success with preventing internet terrorist attacks and virtual crimes can all be credited to this young fella. 
+
+　If I can recruit his help, it might be a lot easier to solve the mystery behind that item. However, I must first confirm that he is someone trustworthy. I'll need to talk with him a few more times and obtain more information on him. 
 
 ConneR 7020722
 
@@ -1149,7 +1173,9 @@ A.R.C. Supreme Committee
 Diary Log 7020728\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　A piece of news caught my eye recently. An idol singer collapsed during an event and many audience members also showed signs of discomfort at the same time. I manage to get my hands on plenty of patient information from A.R.C.'s internal medical channel. Most patients were diagnosed with internet withdrawal symptoms or a sudden rejection from the brain. There are plenty of medical institutes in Node 13. They mainly hold patients who suffered side\-effects from technology overuse. My time there has allowed me to have a much deeper understanding of similar symptoms. From the information of several patients who had more severe symptoms, this looks like a relapse of memory loss. It's a side\-effect that occurs when trying to save data forcefully to an already damaged memory area in the brain. However, why such symptoms appeared during a concert and what is the reason behind the trigger, that has caught my interest. 
+　A piece of news caught my eye recently. An idol singer collapsed during an event and many audience members also showed signs of discomfort at the same time. I manage to get my hands on plenty of patient information from A.R.C.'s internal medical channel. Most patients were diagnosed with internet withdrawal symptoms or a sudden rejection from the brain. 
+
+　There are plenty of medical institutes in Node 13. They mainly hold patients who suffered side\-effects from technology overuse. My time there has allowed me to have a much deeper understanding of similar symptoms. From the information of several patients who had more severe symptoms, this looks like a relapse of memory loss. It's a side\-effect that occurs when trying to save data forcefully to an already damaged memory area in the brain. However, why such symptoms appeared during a concert and what is the reason behind the trigger, that has caught my interest. 
 
 ConneR\_7020728
 
@@ -1269,7 +1295,9 @@ _\[Replay Ends\]_
 Diary Log 7020826\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　Had a few drinks today. Feel like everything sucks. How many people in this bogus world can hold on to a principle like me. Pioneers are always the ones to suffer; it's a common theme across history. It feels just like the time when I left that home to find my own reason for existence many years ago. If I can leave something for this world, please allow me to cheer from the bottom of my hear and celebrate the arrival of humanity's freedom.
+　Had a few drinks today. Feel like everything sucks. How many people in this bogus world can hold on to a principle like me. Pioneers are always the ones to suffer; it's a common theme across history. It feels just like the time when I left that home to find my own reason for existence many years ago. 
+
+　If I can leave something for this world, please allow me to cheer from the bottom of my hear and celebrate the arrival of humanity's freedom.
 
 ConneR 7020826
 
@@ -1888,7 +1916,13 @@ _\[Replay Ends\]_
 
 ### Log Content
 Diary Log 7020828\_ConneR<br>
-Location: A.R.C. HQ living quarters\_Room V017 Although it's because of a freak accident, I've been in A.R.C. HQ for over half a year now. Ironically, they are half the reason why I am still alive. But now, look at me; not only did I make a successful comeback on my first concert, garnering applause and praise, but I'm also using their resources to try to take down the order they are maintaining. No, more like trying to reveal the truth they are hiding. Should I congratulate myself for being such a great schemer, or should I say "Destiny brought me here"? From the real report I obtained from Rin, the chip father left me is a device that can fuse with the cranial nerves of humans. I've studied father's disease and the symptoms he is displaying right now; the two have no connections whatsoever. Can't rule out the possibility that father is in his current state due to using himself as a test subject. If this chip really contains the important message that has been passed down through the Neumann family history, I have to find a way to extract the data from it. 
+Location: A.R.C. HQ living quarters\_Room V017
+
+Although it's because of a freak accident, I've been in A.R.C. HQ for over half a year now. Ironically, they are half the reason why I am still alive. But now, look at me; not only did I make a successful comeback on my first concert, garnering applause and praise, but I'm also using their resources to try to take down the order they are maintaining. No, more like trying to reveal the truth they are hiding. Should I congratulate myself for being such a great schemer, or should I say "Destiny brought me here"?
+
+From the real report I obtained from Rin, the chip father left me is a device that can fuse with the cranial nerves of humans. I've studied father's disease and the symptoms he is displaying right now; the two have no connections whatsoever. Can't rule out the possibility that father is in his current state due to using himself as a test subject. 
+
+If this chip really contains the important message that has been passed down through the Neumann family history, I have to find a way to extract the data from it. 
 
 ConneR 7020828
 
@@ -2608,7 +2642,21 @@ _\[Signal Lost\]_
 
 ### Log Content
 Diary Log 7021104\_ConneR<br>
-Location: A.R.C. HQ living quarters\_Room V017 Father's dying message, "Klänge des Herzens", is a phrase written in a language that has appeared multiple times on ancient Node 13 documents. It means "Sound of the Heart". However, even after deciphering the message, I am still completely lost. The flow of the words feels like some type of hidden code. My instincts tell me, that in order to find out the direction this clue is taking me, a return to Node 13 is very much inevitable. I am beginning to understand the reason why father chose to keep this a secret until he lost his mind: we're talking about the mystery of the whole world! My father and I have the same kind of blood flowing through us. When it comes to pursuing the truth, we are father and son; at the same time, we are also each other's closest enemy. Now, with father having passed away, the message on the wall and the research he left behind are the most valuable items I can ever inherit. They are the most precious "voices" that can lead me to my ultimate destination. A while ago, the admins caused a major commotion when they broke into A.R.C. for the arrest. That gave me the opportunity to sneak into the Library. I was able to obtain the secrets hidden within, and let's just say that calling the things I discovered "significant" would be a severe understatement. However, with my current skills, I couldn't delve any further. In order to solve that lock at the deepest part of the puzzle, I would need to obtain more information. I would also need the assistance of some other people, including that unlucky guy who got arrested. Next, I also need to do some preparations: excavation machinery, traveling permits to Node 13 and 03, a fake identity and a Mediator. The plan is about to progress into the next stage. I no longer need this specious cage in the sky. Although there are still interesting toys here like Mr. Sagar and Miss Rin, the phantom of the truth is wavering in front of me, like the Dance of the Seven Veils. I shall follow it into the depth of the abyss as well. The first bar of Salome has been sounded. It's time to move.
+Location: A.R.C. HQ living quarters\_Room V017
+
+Father's dying message, "Klänge des Herzens", is a phrase written in a language that has appeared multiple times on ancient Node 13 documents. It means "Sound of the Heart". However, even after deciphering the message, I am still completely lost. The flow of the words feels like some type of hidden code. 
+
+My instincts tell me, that in order to find out the direction this clue is taking me, a return to Node 13 is very much inevitable. 
+
+I am beginning to understand the reason why father chose to keep this a secret until he lost his mind: we're talking about the mystery of the whole world! My father and I have the same kind of blood flowing through us. When it comes to pursuing the truth, we are father and son; at the same time, we are also each other's closest enemy. Now, with father having passed away, the message on the wall and the research he left behind are the most valuable items I can ever inherit. They are the most precious "voices" that can lead me to my ultimate destination. 
+
+A while ago, the admins caused a major commotion when they broke into A.R.C. for the arrest. That gave me the opportunity to sneak into the Library. I was able to obtain the secrets hidden within, and let's just say that calling the things I discovered "significant" would be a severe understatement. However, with my current skills, I couldn't delve any further. In order to solve that lock at the deepest part of the puzzle, I would need to obtain more information. I would also need the assistance of some other people, including that unlucky guy who got arrested. 
+
+Next, I also need to do some preparations: excavation machinery, traveling permits to Node 13 and 03, a fake identity and a Mediator.
+
+The plan is about to progress into the next stage. I no longer need this specious cage in the sky. Although there are still interesting toys here like Mr. Sagar and Miss Rin, the phantom of the truth is wavering in front of me, like the Dance of the Seven Veils. I shall follow it into the depth of the abyss as well.
+
+The first bar of Salome has been sounded. It's time to move.
 
 ConneR 7021104
 

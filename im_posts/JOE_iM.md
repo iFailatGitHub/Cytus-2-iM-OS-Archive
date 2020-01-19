@@ -321,7 +321,7 @@ How do you play it? Do you swing it like a baseball bat and try to knock the bal
 
 **JOEZ Cafe**<br>
 You can't swing the cue\~ you have to aim carefully and poke your stick at the right hole<br>
->///<
+\>///<
 
 **Pinevalley**<br>
 Innuendos galore ROFL

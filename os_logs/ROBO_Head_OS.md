@@ -107,11 +107,11 @@
 |**ROBO_Head**|43 |    No     |
 
 ### Log Content
-\[ 4.7521\] Sound receiver activated.<br>
-\[ 4.8251\] Voice analyzer initialized.<br>
-\[ 5.6748\] Phase 1: Environment scanning..........................checked<br>
-\[ 6.5477\] 1 main structure detected. Possible sound sources: 9<br>
-\[ 7.9191\] Phase 2: Receiving sound raw data...
+\[    4.7521\] Sound receiver activated.<br>
+\[    4.8251\] Voice analyzer initialized.<br>
+\[    5.6748\] Phase 1: Environment scanning..........................checked<br>
+\[    6.5477\] 1 main structure detected. Possible sound sources: 9<br>
+\[    7.9191\] Phase 2: Receiving sound raw data...
 
 **???**<br>
 v̶͡h̶̛͝N͘V̷Customery͢P̶̕4̸̨͠6҉͘fortune tellingz̛͘Ģ̛͢r҉x̧̧͜V̡F̨z̀X̧

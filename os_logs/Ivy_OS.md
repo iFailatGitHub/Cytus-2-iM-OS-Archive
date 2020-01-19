@@ -57,7 +57,13 @@
 
 ## <a id="ivos001"/>\[#001\] Main\_Log\_699\_12\_23
 ### Log Content
-This is...... How long has it been...? Nothing but green... In my memory, this is a precious color, but all my eyes can see now are shrubs, moss, and vines. To a point where the sky is barely visible. Have to go back soon. She is still waiting for me in the Shelter. However, before I go back...... there is one thing I must do first.
+This is...... How long has it been...?
+
+Nothing but green... In my memory, this is a precious color, but all my eyes can see now are shrubs, moss, and vines. To a point where the sky is barely visible. 
+
+Have to go back soon. She is still waiting for me in the Shelter.
+
+However, before I go back...... there is one thing I must do first.
 
 ![ivos0101.png](./attachments/ivos0101.png)
 
@@ -182,7 +188,13 @@ _\[Signal Lost\]_
 |**Ivy**| 3 |    No     |
 
 ### Log Content
-Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it. Just now, when I was eating, I tried to approach it by tossing it a fruit. It ate the fruit very quickly. After it was full, it stretched its wings, lied down, and started sleeping loudly.  It showed no caution towards me at all, like I'm someone he's very familiar with. Looking at it, I'm getting sleepy as well. That's it for today.
+Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. 
+
+When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it.
+
+Just now, when I was eating, I tried to approach it by tossing it a fruit. It ate the fruit very quickly. After it was full, it stretched its wings, lied down, and started sleeping loudly.  It showed no caution towards me at all, like I'm someone he's very familiar with. 
+
+Looking at it, I'm getting sleepy as well. That's it for today.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -423,7 +435,13 @@ _\[Signal Lost\]_
 |**Ivy**| 6 |    No     |
 
 ### Log Content
-Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated? From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first... Shelter 32 has collapsed almost entirely. Half the entrance is buried in branches and rocks. Just how long have I been unconscious for... I can't get in this way. My only option now is to wait for those humans to open up the entrance. The database index inside each Shelter has the coordinates of every Shelter. After I obtain that, I can also grasp my accurate geographic position and the current time better.
+Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated?
+
+From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first...
+
+Shelter 32 has collapsed almost entirely. Half the entrance is buried in branches and rocks. Just how long have I been unconscious for... I can't get in this way. My only option now is to wait for those humans to open up the entrance.
+
+The database index inside each Shelter has the coordinates of every Shelter. After I obtain that, I can also grasp my accurate geographic position and the current time better.
 
 ![ivos0801.png](./attachments/ivos0801.png)
 
@@ -749,9 +767,19 @@ _\[Signal Lost\]_
 |**Ivy**      | 9 |    Yes    |
 
 ### Log Content
-...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years? How is that...... N, no, I have to calm down... The reconstruction project has already concluded. The "Node" cities have been established too. That's why I saw those humans. That's also why almost all Shelters are abandoned now. A visit to Shelter 08... would be utterly pointless as well. We...... failed, in the end. Lost everything...... including you......
+...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years?
 
-\[Added after edit on 700/01/01 02:02:53\] I must witness with my own eyes the current human civilization. Only issue... my left arm is gradually losing sensation due to being hit by the gunshot earlier... I must hurry. Coordinates show that Node 08 is just nearby. Time to move.
+How is that...... N, no, I have to calm down...
+
+The reconstruction project has already concluded. The "Node" cities have been established too. That's why I saw those humans. That's also why almost all Shelters are abandoned now. A visit to Shelter 08... would be utterly pointless as well.
+
+We...... failed, in the end. Lost everything...... including you......
+
+\[Added after edit on 700/01/01 02:02:53\]
+
+I must witness with my own eyes the current human civilization. Only issue... my left arm is gradually losing sensation due to being hit by the gunshot earlier... I must hurry. 
+
+Coordinates show that Node 08 is just nearby. Time to move.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -996,7 +1024,21 @@ _\[Signal Lost\]_
 |**Ivy**|11 |    No     |
 
 ### Log Content
-\[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function. What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br> <br> First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? The kind of technology that is prohibited for development by the protocol is practically everywhere in this city... This shows that humans have gone completely loose after taking over the Administration Bureau. The one thing that puzzles me the most, is the thing they called "cyTus"...... I tried to log in to it as well. It's basically the "Virtual Internet", the protocol's top forbidden technology. However, it is also slightly different. My authorization still couldn't access any area outside of the provided services. None of this makes any sense at all... How did humans get their hands on this technology? And what are they using to operate this system? Is it because that they are fed up with the various limitations enforced by the protocol that they eliminated all the OPCI machines......? Or, as I have suspected in the past... the entire protocol is, in reality, nothing more than a fraud? There are way too many questions here. I need to figure out a way to get answers. First, I need to counterfeit a civilian ID. Then, it seems that I also need some money... or it will be quite inconvenient. 
+\[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function.
+
+What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br>
+　　　<br>
+First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. 
+
+People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? 
+
+The kind of technology that is prohibited for development by the protocol is practically everywhere in this city... This shows that humans have gone completely loose after taking over the Administration Bureau. 
+
+The one thing that puzzles me the most, is the thing they called "cyTus"...... I tried to log in to it as well. It's basically the "Virtual Internet", the protocol's top forbidden technology. However, it is also slightly different. My authorization still couldn't access any area outside of the provided services. None of this makes any sense at all...
+
+How did humans get their hands on this technology? And what are they using to operate this system? Is it because that they are fed up with the various limitations enforced by the protocol that they eliminated all the OPCI machines......? Or, as I have suspected in the past... the entire protocol is, in reality, nothing more than a fraud? 
+
+There are way too many questions here. I need to figure out a way to get answers. First, I need to counterfeit a civilian ID. Then, it seems that I also need some money... or it will be quite inconvenient. 
 
 \[System Alert\] Insufficient power (5%). Entering power saving mode.
 
@@ -1991,19 +2033,31 @@ _\[Signal Lost\]_
 |**BloodyMare**| Ivy |Hard | 8 |
 
 ### Log Content
-Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br> <br> I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
+Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.<br>
+ <br>
+I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. 
 
-\[Added after edit on 700/06/20 22:17:16\] Took me three months; finally able to complete the algorithm that can mutually convert humans' emotion samples and music. Next, I just need to convert large amounts of emotion sample into music. With those, I can then create a new Cytus system and use it to awaken Vanessa. I am not very well\-versed in complicated mechanisms...... The only thing I know, is that music is the only medium we understand and able to deduce emotions from. After I awakened, I no longer need to be connected to Cytus. Despite that, whenever I listen to music, I still feel this vibration deep down inside my body. It just keeps vibrating, one beat at a time, for no apparent reason. That sound, it's very similar...... to a human's heartbeat. 
+I thought the OPCI machines were eliminated by humans. However, if that's the case, why would they then go out of their way to excavate their corpses for research? "The Decommission"...... Just what is going on here exactly?
 
-\[Added after edit on 700/06/21 01:35:25\]<br> <br> Just ran a test using my own emotions...... My first ever musical composition is born.<br>
-        <br>
-        The hysteria of being unconscious for hundreds of years; the anger of losing my comrades; all these elements caused this song to feel immensely powerful when listened to. It's essentially a replica of myself. It has a completely different meaning...... I decided to seal it up. 
+\[Added after edit on 700/06/20 22:17:16\]
 
-        When I was listening to it, I got an inspiration: "Asura" in the ancient language. The evil god.
+Took me three months; finally able to complete the algorithm that can mutually convert humans' emotion samples and music. Next, I just need to convert large amounts of emotion sample into music. With those, I can then create a new Cytus system and use it to awaken Vanessa.
 
-        Æsir...... This shall be my new identity.
+I am not very well\-versed in complicated mechanisms...... The only thing I know, is that music is the only medium we understand and able to deduce emotions from. After I awakened, I no longer need to be connected to Cytus. Despite that, whenever I listen to music, I still feel this vibration deep down inside my body. It just keeps vibrating, one beat at a time, for no apparent reason. 
 
-        Wait for me, Vanessa. I will definitely save you.
+That sound, it's very similar...... to a human's heartbeat. 
+
+\[Added after edit on 700/06/21 01:35:25\]<br>
+ <br>
+Just ran a test using my own emotions...... My first ever musical composition is born.<br>
+ <br>
+The hysteria of being unconscious for hundreds of years; the anger of losing my comrades; all these elements caused this song to feel immensely powerful when listened to. It's essentially a replica of myself. It has a completely different meaning...... I decided to seal it up. 
+
+When I was listening to it, I got an inspiration: "Asura" in the ancient language. The evil god.
+
+Æsir...... This shall be my new identity.
+
+Wait for me, Vanessa. I will definitely save you.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2020,7 +2074,7 @@ Vanessa...... is used as a research subject by humans. She is no longer consciou
 From the skies to the sewers, exposing truths for everyone to see. Welcome to the "Truth Digger 101" segment. I am your host, Bob Jackson. <br>
 The hottest topic in the nooks and crannies of every Node these days is, surprisingly, a single individual. It's none other than the mysterious music genius Æsir.<br>
  Is it his charisma or some sort of unique background he has?<br>
- How was he able to go from a previously unknown nobody to a household megastar in the span of what seems like an instant, yet maintain a low\-profile and not expose himself to the public at the same time?
+How was he able to go from a previously unknown nobody to a household megastar in the span of what seems like an instant, yet maintain a low\-profile and not expose himself to the public at the same time?
 
 **BJ**<br>
 Today, we've invited several guests from the industry to join us and discuss this topic. First, let us welcome CEO of Monophonic Entertainment from Node 08, Mr. Jason Suzuki. Mr. Suzuki, can you do a quick analysis for us?
@@ -2087,7 +2141,11 @@ _\[Signal Lost\]_
 |**BloodyMare**| Ivy |Chaos|13 |
 
 ### Log Content
-Every required condition has been clarified. My plan is about to officially enter its execution phase... Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan. Come, gather around this stage that I've diligently prepared for you, humans.
+Every required condition has been clarified. My plan is about to officially enter its execution phase...
+
+Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan.
+
+Come, gather around this stage that I've diligently prepared for you, humans.
 
 **[Mail]**<br>
 Target address: PAFFOfficial@mono.inc
@@ -2225,10 +2283,18 @@ _\[Signal Lost\]_
 |**Lunar Mare**| Ivy |Chaos|14 |
 
 ### Log Content
-Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
-If this continues to happen, humans will without a doubt become more alert. It is already borderline impossible for me to hold another performance to collect memories using the Æsir identity. I'm going to have to resort to even more extreme methods...
+Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... 
 
-\[Added after edit on 702/07/28 09:04:12\] Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them... I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first.
+There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...<br>
+If this continues to happen, humans will without a doubt become more alert. It is already borderline impossible for me to hold another performance to collect memories using the Æsir identity. 
+
+I'm going to have to resort to even more extreme methods...
+
+\[Added after edit on 702/07/28 09:04:12\]
+
+Just discovered that one of the proxy servers in the system had an unauthorized connection record. Is someone... investigating me? A human from the Administration Bureau... is it? This is a mega\-scale cyber attack, after all. Can't blame them...
+
+I've purposely made my connection trails very complicated, yet this person was still able to find a way to link to my proxy. It appears that this person here is not your average IT guy either. Despite that, this is still too insignificant for me to consider it a threat. I should focus on the tasks at hand first.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2395,7 +2461,17 @@ _\[Signal Lost\]_
 |**Ivy**      |24 |    Yes    |
 
 ### Log Content
-This attack, due to the boost from the amplifying equipment, the conversion rate is very promising... It could also be because of Neko Asakura. Her fans are all extremely restless. They provide a completely different emotion... I have to thank her for it. The more concerning thing is that the tracking signal from the proxies has been getting closer and closer. Several IP locations have already been exposed. To be honest, I am very surprised. Within the ranks of the virtual internet system, there actually exist someone that can make me feel "threatened". Simon Jackson... this is the name I got after doing a reverse tracking; an A.R.C. Engineer. He's the one who breached my defenses. However, at the time of Æsir\-FEST, he was present at the backstage. He should've lost part of his memory as well. This means that his A.I. followed his previous commands and was able to obtain quite a bit of information, all without the knowledge of its owner. I have to say, the functionality is outstanding... whether it's the A.I. or its creator. Coincidentally, Neko Asakura happens to know Simon Jackson. During my hacking this time, I altered her memory and planted footage of Simon Jackson deep inside her mind. Like a remote\-controlled EMP bomb, if the time really calls for it, I can let her remember it... Her testimony can effectively shift the investigation direction and buy me time. If Simon Jackson takes one more step closer to me...
+This attack, due to the boost from the amplifying equipment, the conversion rate is very promising... It could also be because of Neko Asakura. Her fans are all extremely restless. They provide a completely different emotion... I have to thank her for it. 
+
+The more concerning thing is that the tracking signal from the proxies has been getting closer and closer. Several IP locations have already been exposed. To be honest, I am very surprised. Within the ranks of the virtual internet system, there actually exist someone that can make me feel "threatened". 
+
+Simon Jackson... this is the name I got after doing a reverse tracking; an A.R.C. Engineer. He's the one who breached my defenses. However, at the time of Æsir\-FEST, he was present at the backstage. He should've lost part of his memory as well. This means that his A.I. followed his previous commands and was able to obtain quite a bit of information, all without the knowledge of its owner.
+
+I have to say, the functionality is outstanding... whether it's the A.I. or its creator. 
+
+Coincidentally, Neko Asakura happens to know Simon Jackson. During my hacking this time, I altered her memory and planted footage of Simon Jackson deep inside her mind. Like a remote\-controlled EMP bomb, if the time really calls for it, I can let her remember it... Her testimony can effectively shift the investigation direction and buy me time.
+
+If Simon Jackson takes one more step closer to me...
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -2590,7 +2666,11 @@ I did it! All the samples have been inputted into her core!
 
 ![ivos3201.png](./attachments/ivos3201.png)
 
-Can you hear me......? ...... Vanessa? ......
+Can you hear me......? 
+
+...... Vanessa?
+
+......
 
 ![ivos3202.png](./attachments/ivos3202.png)
 
@@ -2610,7 +2690,15 @@ Can you hear me......? ...... Vanessa? ......
 |**Pressure**| Ivy |Chaos|12 |
 
 ### Log Content
-Brought back the model during the night. It was hit by a pulse pistol and suffered quite a bit of damage. Won't be able to operate outside again in the near future. I severely underestimated Simon Jackson... His A.I. found my image in A.R.C.'s database. Subsequent investigations led him to discover the base in factory 03. It's too risky to let him continue to investigate freely like this. His next step... he's likely going to track the connection address I used to hack the streamer and catch up to me, isn't he? There are too many clues there, I can't hide them all. However, as long as I can come face\-to\-face with his A.I. , the situation will change... The legendary hacker "X" is a mere human after all. If it's a fight between the 0s and 1s, he is no match for me. The conversion for the remaining memory data is going along smoothly. I will definitely succeed this time. I will not allow a human to mess up my plans. Just wait for me a little longer, Vanessa.
+Brought back the model during the night. It was hit by a pulse pistol and suffered quite a bit of damage. Won't be able to operate outside again in the near future.
+
+I severely underestimated Simon Jackson... His A.I. found my image in A.R.C.'s database. Subsequent investigations led him to discover the base in factory 03. It's too risky to let him continue to investigate freely like this. 
+
+His next step... he's likely going to track the connection address I used to hack the streamer and catch up to me, isn't he? There are too many clues there, I can't hide them all. However, as long as I can come face\-to\-face with his A.I. , the situation will change... The legendary hacker "X" is a mere human after all. If it's a fight between the 0s and 1s, he is no match for me. 
+
+The conversion for the remaining memory data is going along smoothly. I will definitely succeed this time. I will not allow a human to mess up my plans. 
+
+Just wait for me a little longer, Vanessa.
 
 
 
@@ -2738,7 +2826,11 @@ _\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 |**V.** | Ivy |Chaos|15 |
 
 ### Log Content
-Everything has been planned out. No more hidden concerns. The condition of Cytus is also perfect. The time right now...... 00:01:12...... It's time.
+Everything has been planned out. No more hidden concerns. The condition of Cytus is also perfect.
+
+The time right now...... 00:01:12......
+
+It's time.
 
 [*(Click here to go back to the top)*](#toc)
 
@@ -3162,7 +3254,15 @@ _\[Signal Lost\]_
 |**Ivy**|34 |    No     |
 
 ### Log Content
-Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent... This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary. ... No, this is just more proof, that Humans... are not as "ordinary" as the data implied, to begin with. While those images of destruction are certainly real, they also have a side that's emotional and kind... At certain moments, their resolute will is worthy of respect as well... Never thought I would think this way... Forget it... Although unable to utilize Neko Asakura's testimony, humans still firmly believe that Simon Jackson is the real Æsir. Everything is still going smoothly, for now. Better finish the re\-evaluation of the Cytus system first as soon as possible. Vanessa... is the most important.
+Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent...
+
+This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary.  
+
+... No, this is just more proof, that Humans... are not as "ordinary" as the data implied, to begin with. While those images of destruction are certainly real, they also have a side that's emotional and kind... At certain moments, their resolute will is worthy of respect as well... Never thought I would think this way...
+
+Forget it... Although unable to utilize Neko Asakura's testimony, humans still firmly believe that Simon Jackson is the real Æsir. Everything is still going smoothly, for now.
+
+Better finish the re\-evaluation of the Cytus system first as soon as possible. Vanessa... is the most important.
 
 [*(Click here to go back to the top)*](#toc)
 

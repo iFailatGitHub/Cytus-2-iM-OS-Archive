@@ -1689,7 +1689,7 @@ _[Sent at 10:02 AM]_
 
 **Cherry**<br>
 No, we didn't<br>
- Some things happened. It's complicated...<br>
+Some things happened. It's complicated...<br>
 _[Sent at 10:05 AM]_
 
 **Cherry**<br>

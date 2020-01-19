@@ -992,8 +992,8 @@ What!? Is that a child?
 Let's welcome——the little deer～～BAMBI!!!!
 
 **Audience**<br>
- \- WAHAHA! BAMBI!? What a joke!<br>
- \- Hey! Look, it's really a kid!
+\- WAHAHA! BAMBI!? What a joke!<br>
+\- Hey! Look, it's really a kid!
 
 **Sagar**<br>
 Wah... what kind of nickname is that?

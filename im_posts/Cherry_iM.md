@@ -218,18 +218,18 @@ Since this is a rare opportunity, I would like to talk a little bit about this s
 This is a song written during the CP (Crystal PuNK) days by Simon (a.k.a. Xenon)<br>
 It's also a song that I really, really love. The concept behind this song is as follows:
 
- "In everyone's lives, there's always fear that we dread to confront.<br>
- No matter how many friends we have, every person is still an independent individual.<br>
- No matter how close we are to another person, we can't expect them to fully understand our pressure and anxiety.<br>
- In most cases, we are the only ones who can truly feel the pain, and we have to confront it alone.
+"In everyone's lives, there's always fear that we dread to confront.<br>
+No matter how many friends we have, every person is still an independent individual.<br>
+No matter how close we are to another person, we can't expect them to fully understand our pressure and anxiety.<br>
+In most cases, we are the only ones who can truly feel the pain, and we have to confront it alone.
 
- But this is exactly why we should try to understand that every life is a different story<br>
- Even though they may not feel your pain,<br>
- they just might be carrying an equally, perhaps even heavier burden that you don't understand. <br>
- The most important thing of all is to conjure up the courage to overcome your own fears, <br>
- and cherish those who are willing to stay by your side even if they don't fully understand you.
+But this is exactly why we should try to understand that every life is a different story<br>
+Even though they may not feel your pain,<br>
+they just might be carrying an equally, perhaps even heavier burden that you don't understand. <br>
+The most important thing of all is to conjure up the courage to overcome your own fears, <br>
+and cherish those who are willing to stay by your side even if they don't fully understand you.
 
- Here's to hope that this song can bring courage to those who are fighting their own unique battles"
+Here's to hope that this song can bring courage to those who are fighting their own unique battles"
 
 Vocalist\_Cherry
 
@@ -564,7 +564,7 @@ Cream Puffs going nuts
 
 **Paf_Paf**<br>
 Bro, don't you dare insult all of PAFF fans<br>
- Most of us are still very reasonable about this incident
+Most of us are still very reasonable about this incident
 
 **KOSOMA**<br>
 OMG why did it turned out like this @@

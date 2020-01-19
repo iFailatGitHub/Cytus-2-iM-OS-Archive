@@ -671,7 +671,7 @@ Too bad Sensei insists on live performances only. It would be a blessing for us 
 **ConneR**<br>
 Fellow music lovers, thank you for the appreciation. If you can enjoy classical music, you already have better taste than the majority of the public. In the future, I will bring my live performances to an even higher level for everyone to enjoy.
 
-    My performances do not have virtual seats, nor are there holographic recreations. Please come to the concert in person and experience the music with your own ears.
+My performances do not have virtual seats, nor are there holographic recreations. Please come to the concert in person and experience the music with your own ears.
 
 **Amberclove**<br>
 To all the staff tonight, and the all\-important performer, we offer you our highest respect \*bows\*
@@ -742,7 +742,7 @@ Follow Sensei\~\~\~
 **ConneR**<br>
 People of the modern age seem to be overly focused on pursuing the shallow surface. They often only care about what they see, or more likely, what they want to see. Never once did they think about the context and reasons beneath the surface.
 
-    My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in\-person.
+My music is also a rebellion against such oblivious actions. Therefore that's the reason why you can only see me perform in\-person.
 ### Replies
 **Amberclove**<br>
 Is Sensei taking a shot at the recent incidents?
@@ -793,7 +793,7 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 **ConneR**<br>
 Wonder how many people here still remember Architects? I'm fairly confident that humans who existed before my great grandfather's generation had been in contact with them for an extensive amount of time. The Architects provided humans with secure shelters, yet they also left behind countless unsolved mysteries that troubled people to this day. This includes some incidents I personally experienced myself.
 
-    Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well\-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un\-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
+Not too long ago, I happened to have the opportunity to get my hands on a set of ancient but very well\-preserved pieces of Architect equipment. Even though a large percentage of them are still in their un\-recreated state, the fact that I could physically research and dismantle one makes me feel very excited.
 
 ![c1801.png](./attachments/c1801.png)
 ### Replies
@@ -895,13 +895,13 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 **ConneR**<br>
 Special thanks to **@ROBO\_Head** for initiating this conversation, thus giving me an opportunity to make some additions to a previous publication I wrote a long time ago. 
 
-        It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade\-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self\-declared superiority, couldn't conquer them after all.
+It has been more than two hundred years since humans took over the Administration Bureau and began enslaving the drones with no restraints. We recklessly reconstructed existing infrastructures, tampered with the default designs of city roadmaps, and acted as if we turned on "God Mode" in a game. The drones did not resist, did not complain, yet they continued to fight against humans in secret. In the decade\-plus time since I wrote said publication, accidents are still very much a common occurrence. Humans, in all our self\-declared superiority, couldn't conquer them after all.
 
-        Certainly, drones are not creatures. They are just simple, inorganic structures. However, "intelligence" itself is no longer a privilege exclusive only to living creatures. Sounds, visuals, sensations, memories, wisdom, and even the soul are all things that we once thought to be so vague that they were considered ethereal. In this era, however, they can all be interpreted as a combination of countless electronic signals. Humans can no longer claim that we are the one and only "intelligent" mind in this world.
+Certainly, drones are not creatures. They are just simple, inorganic structures. However, "intelligence" itself is no longer a privilege exclusive only to living creatures. Sounds, visuals, sensations, memories, wisdom, and even the soul are all things that we once thought to be so vague that they were considered ethereal. In this era, however, they can all be interpreted as a combination of countless electronic signals. Humans can no longer claim that we are the one and only "intelligent" mind in this world.
 
-        Some people may have doubts about my claims, saying that I was being nothing more than a scaremonger. To those people, I present this: based on the data I obtained, the connection yield rate for the shared UI has yet to show any noteworthy improvement to this day. In fact, the rates have been getting worse. I find that to be the best warning for this situation. For two hundred years, we thought we were the masters of the drones. However, in reality, there is a possibility that humans are the puny insects fed and raised inside the secured area, all while we presumptuously believe ourselves to be the overlords of this planet. <br>
+Some people may have doubts about my claims, saying that I was being nothing more than a scaremonger. To those people, I present this: based on the data I obtained, the connection yield rate for the shared UI has yet to show any noteworthy improvement to this day. In fact, the rates have been getting worse. I find that to be the best warning for this situation. For two hundred years, we thought we were the masters of the drones. However, in reality, there is a possibility that humans are the puny insects fed and raised inside the secured area, all while we presumptuously believe ourselves to be the overlords of this planet. <br>
  <br>
-        The real overlords are far from just an ancient relic in the history books, I sincerely believe that.
+The real overlords are far from just an ancient relic in the history books, I sincerely believe that.
 ### Replies
 **Amberclove**<br>
 Sensei, your papers give me goosebumps, the scared kind...
@@ -981,9 +981,9 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 **ConneR**<br>
 I hinted about this a while ago. Today, I'm here to make an official announcement.
 
-    Because of an invitation from A.R.C., I will be giving lectures at the Academy in my spare time of heading the research project. The topics will be the correct attitude and mental fortitude for archeological excavation. I will also mention my new viewpoints on researches about ancient civilizations. Since it's in the Academy, I won't delve into overly minute details. Nevertheless, I will reveal many unimaginable things that you won't believe exists. You don't want to miss it.
+Because of an invitation from A.R.C., I will be giving lectures at the Academy in my spare time of heading the research project. The topics will be the correct attitude and mental fortitude for archeological excavation. I will also mention my new viewpoints on researches about ancient civilizations. Since it's in the Academy, I won't delve into overly minute details. Nevertheless, I will reveal many unimaginable things that you won't believe exists. You don't want to miss it.
 
-    This series of lectures will be available to the public. Anyone can sit in on them. However, I truly hope that there will be other intellectuals present to have a proper discussion with me.
+This series of lectures will be available to the public. Anyone can sit in on them. However, I truly hope that there will be other intellectuals present to have a proper discussion with me.
 
 ![c2101.png](./attachments/c2101.png)
 ### Replies
@@ -1000,7 +1000,7 @@ Those who are slothful do not have the right to pursue the truth (In Sensei's to
 **ConneR**<br>
 Extra note here. A.R.C. originally provided me with a pre\-determined handout. They wanted me to give my lecture according to that handout. That file was categorized as spam by my firewall program and deleted alongside other malicious emails. Therefore, I will be using my own material to give the lecture.
 
-    In addition, please don't bring any mobile devices or recording equipment to my lectures. I will not prepare any visual aid or handouts for my presentation either. What I'm going to tell you requires no notes; all you need are your ears to hear me talk and your heart to feel my words. I guarantee that you will gain a lot by simply doing what I said.
+In addition, please don't bring any mobile devices or recording equipment to my lectures. I will not prepare any visual aid or handouts for my presentation either. What I'm going to tell you requires no notes; all you need are your ears to hear me talk and your heart to feel my words. I guarantee that you will gain a lot by simply doing what I said.
 
 **DiiR**<br>
 Hahaha ConneR sensei's firewall program matches his own personality XDDD
@@ -1048,7 +1048,7 @@ Thank you so much! I look forward to meeting you!
 **ConneR**<br>
 Í̴̡͘J̵̴̧͢Ò̶̀́\_̵̨͜͟H̸̕+̀͟͢͠\-͏̶8̢̡͘͞͝9̨͢͞͠͠ǵ̸̷t̴́̕7̶̡͞6̢͠9̸͘҉̶ḑ͢(͡)̕͏̷̕̕h̸̛͟\-̷̕͏9̧̛g̶̨̛̀f̶̶̷7͠9̡͏҉͡%̶̴̷D̀̕͟͜&̵̕͟͟&͞҉̕9͏̕h̛́͞͠u͏̴͘͠u̴͘͠h̕͘i̢ǵ̶̛͞h̢̨͢͞͝ the Academy is nothing more than a public brainwash center. Í͘͟J̛̀̕҉Ò̧H́͘͘͘͝\_̕҉0̨͜͡7̧͞҉6̢̧̛͡ ̷͘͡͡r͏̀͘5̨͞é̸̀8҉̵͘҉͏Ḑ̕͜͠F͡҉̕͟(͠͏҉G̨͜Ḩ̀҉́\_̛́̀\*̨̛̀͡)̵͢͢{̶̨̧Ḩ̸̸Į̵̕Ņ̴u̷̵̢̕͞j̛̛b̢͜h̛́̕y̢͝͝p̧͘F҉̕T̢͡V̷̧҉Ờ̷̧̡&̀͟͞͞(̨̢͠͞G̶͘͠Y̢͘͟͜Ư͡͠Ḩ̵̷̡̀9̧̕i̷̡̛j͏̷0̴̸\[̨͢p̷̢̕ǹ̵b͏u҉̛̀͝p̷͝҉)̸̵̢Ǵ͘\*͡҉̕͟Y̕͞҉҉&̵̀͠^́(̕͜͟͝5̸̢́͜4̴̀e͏̸̴f͢͟͝͝7́́͟͠g̷̸̢̡͘v̸̷͟͡͏ý̸̢͡b̷̴̨̧ų̸͟͢H̨҉̕͢Į̛͠J̛͟͏̧͡(͜͜)̧̡̕͢͟Ờ̶̷͝\-̸̧h̸̶̷̡̧8҉͢9͏͡͞͡͏g̵̛͘y̴̛͟͞f́̀8̸̕͟͝t̵̵̀7̷̢́͢͢9̢͜͝5̀d̶̸͢͝ŕ̕͜F̛͠T͘͠^͘͡G̸҉͡\*̵̢Y̶̡͠U̷̵͝H҉͝҉͢͞(̡͜҉͟I̵͢͝J̡͘͢o̢͠u̢̢͝p҉̸̨ǵ͟͟͞b͟͝͝͡v̡̨͘͢͝y̧̡̡͘O̶̧̡̢͡F̡̛͘T̨͘͟͞͏&̡̀͘͘(̨̧̀͡%́͝D͏̛\*̶̡̀͟R̶̀4̷̢͢f̧̛t̴̴͝͠7͏͏͡g̢̡͘͘y̷̕ú̸̀͞i͢j́͘n͠͏͠k̶̡͠ḩ̛̕͝͞b̶͝͏҉f̨̛͜͠ǵ͘͠ç̵̸͟h̶̢͘d̴̶̷̢͜x͟͡H̶̶͢Ć̷̀҉J̧͢H͢V̕͏̡͘͞K̷̨̀͢l͢͠j̨͞҉͜͢n̵̨͢͝͞l̨̧̢̀m̨҉̨̧͟;҉͡͡j̵̧͘͘͞\[̴̴̵̢\-̡̀͝9̸̶͠҉͝h͝͝8̴̸͞Ǵ̨̡͘&̧̨̢f̷̷̡͞t̸̶7̨̀͢͡6̶͟͢5̴̡́̕͟9̡̧͘͘͜6̧̀ģ̢͟͡ý̶̵́͡b̧́͡ù̢h̴͠ṕ̸G̶̴҉̧̢\*̶̕Y̧͜͠&͏f͜9̷̸̛̛6̢ǵ̵0̀̀͘͜͞7̨͟͡͞8̡́9̛̕͞h̴̨̛͘8̴̸̴͡ų͘9҉̸̷͠g͘7̷̛̀̕o̷͏͟f̨̢́͝8̶́͘6̸͜͠͝ţ̢̛̛7̨͟͞I̴̢̡V̀͟͞Ó̀B͘͜į̛͝͡j͜͟h̵́͘͠v̷͟҉c̴̶͞͞ţ̵̸į̨̀7͟&̶̨̢̡8̶̧̡͟͝7̕G̢̕F̶^̴̛̀̀h̢́&̛͞\*̧͟͏̴̷Y͘͏)̨͡͏̵H̴̡͟͡\*̸̕͏͡͏\_̡̛͟͞+̀͟͟͞)̨≠\-̶̶̀͞͡u̴͟͞9͏̡́͡=̛̛͞͏̡\*̶̛̕)̸̧̡͟͞\_͠\*҉҉͏̵͏ú̵\-҉̸͘҉L̵̨J̷̵̛͠͝ò͜͝͏ừ̶̵͠ǵ̸͞y̸̢̡͜͢h̨͘͠͡;̶͡)̸̶̕̕(̛͏͠͠U̷͘͠͠\-̴́́͜≠̷̛̛9̸̧͢͢͜ a slower j҉̛̕͜h̴̨̀0̧̛͘͜ǵ҉8̛̛͢͝F̴̷̀͞^̨̕͟9̷̕͞ǵ̡̨̛́8̸̛͘0̷̢͟͠7͘͢h̷͜͝\-̴̀́͟8̷̕0̶̕͜J̵́҉̵͜(̸̧̨͟͝Į̡Ų̶̛P͝y̷o̢͢g̶̀͝f̸̀͟t̢́͠7̶̶́̕͟d̨͘͟8҉5̶̧̕͜6̸̕͟ǵ̸̷͢͜7̴̛͠h̸͟͡͠͞8̀͘͟͝9̶͢͝j̸̷͢͢͝ì̶͡o̴͜͡͞:̶̵̶̷̀h̴̕͡n̷̷͜͝k̸͢͝l̴͢ḿ;́̀͢͠p̷͞0̵͢҉n̸̶̕͘͝7̢̡͢͟͞8̀͢9̡҉́͟B̸̨̛͟^̵͢͡V̨̨͝͠͞e҉5̨̛͟͞4̶̸c͟͟͝6̶̷̢̀7̀͏̢y̶̷̨̛̕0̀9̷͘͟Ư̵̶̷̢J̸̵h́͠҉̧h͏̛g҉̷̵͡8̴̸̕͟7͘͏̨̨͢6̶͘g̸̀7͏̴̶̢́8̨҉͜9̸̡͜͠y̵̨̨̡͢\-̵͢͜)̴̧j̸͝҉p̵̨j̡̧̛͢͢ accepted A.R.C."̧͘:̷̸͢͝g̷͜b̸̧̛̕͢v̴̡͡͞f͞҉̷t̶̸̴͟9̷̢́͜7̡̀͢͞͞y̕̕͟͢͠G̵͟O͏̧͠͝Ù̕͝P̡͠͞I̛̛͜J̶̡́͟\[̕̕͏0̢͢͏7҉̛͟͞͞8͞͡9̸̴̛^̶̴̨f̡͡t҉̕͠g̸̷̵̵̡ý̨͝h͞b̢͏҉ plant the O̡͜)̡́͟H͢7̴̀̕6̡͘͝9̛5̴̴͘͠8͏̛́r̸̴̷8̛͜r͏͢͠͝U̷̸ḩ̸́͟k̷̡l͟1҉̧̢͢͞ truth Í̶̛͞J̡̧̨̕͞H҉̴͢͡͡)̶̨\*̶͡f͞͡6̷̨͘͞͞7̸̧́͝͡5̵̀͡ḑ͘͠4̨̕̕͝Ę̴͢͝&̢́͢͝F͘^̢͟Ţ͝Į̛Ò̡͟͜͡j̸̀́͠k̸̨͝͝m̕͞p̸͢͡0͟҉҉̵̨ń̸̢͟7̧̀͘̕͘8̢͡͝9̴̡͘͡͡b̨̀͜6̸́͡ ͘͟5̨͟7̵̡̡̡͠8̴̡̢͢͏9̵̢0̷̡͘҉̵í̢͡͠\-̷̵=͞͝í͟͜k҉̸̨͞҉j͏̴̶o̷̢͘͟͟I̛͘G̛͢͞F̴̵̨͢͜D̸͜͝͠4͜͝5̴̡͠͝6̸̛͘̕͞7҉h̸͘͟u͏́n̡\*̷̧I̛͟&͡͝͏͡͝u͘͜͢6̕͞
 
-   If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
+If I ever get the opportunity, ṕo̧͠H̵̡̡̕͞G̵̢)̴̀\*̵͘͜͞f̵̵̴7̸͟6̧̡̧5̵̴͘͞d̸̶̛͠8̷̧f̕͞͡t̨̡g̢̨̛̕͠9͝ỳ͟͡Ų͝͝)̷̶́͝͠H͏̴̛͜(͏̧̀Í̶̷̡\_̸̷̴̡͘k҉̨̀͘͠j̧̧̕͜o͏̵̴̨́;͞h̀͞g̀̕҉y̷͟i̵̕f̡͡͡u̵̴v̡͠d̴̴̷̀%̀̀͞D̸̷̢͠F҉̵̴&̡̧̕͢^̢́͢҉t̴̛͟҉8̵̨҉̴9̶̸̷̡p̵̀͢\-̡́͟͜͡0͘͞͏̢͡į̡̕j̷̨́͝ ̵͡P̛I̶̛̛͟͜H̷̸̀͝O̸̷̡͟u̶̵͏͜ǹ͡ý̡͜͠҉b̧͝v̵̢́3̷̢̛͜͞4̡̀͝6̷̶̛̕͢c̸͢e̢̨%̸̷̨Ḑ͡҉̕R̨͘͢F̸҉̵̛͞T҉͜͝͠g̷͘h͘͘j̕͞ķ͏̵͘l̢̨̧͢͟;̨͠k̷̢͟j́҉͘b̷͘g̵̷̡͘͡U̶̵̧̢F̢̧̢͜͜Ỳ̧͘͜͞T̷͠d͘͜r̡̛͟͡t̷̡f̷̕͢҉u̕͝ỳ͘g̶͝͡j̢̀͝ơ̧͢͠I̡̡͘͡h̴̶̵f̵̡͝͡g̴̛͏͜t̸̸̛̕̕ṕ̶̷͞ against the Administration Bureau's laws and A.R.C.0̢͜y҉̢T̵̢&̀Ǵ̷͟͝I̵̢͜͝L̸̵b̀͠j̶̛͠;̶̶͟ǫ͝͠i̵̷͢͢k̢̡p̧͟͠\[͡͠J̶̵͜͠)̕͏M̢̨͜N͞҉́̕(͝҉̛̀&͘̕̕\*̴̛^̨͝B̢̡͟é̵̡͠4̸͘͢͠5̡̧̛̀6̸́̀͞r̀́f̸̧́̕t̷́͞͞J̷̨̕͞O̴̵͘͟M̴̢̛͠:̵͘͠͠͠K͜͞N̶͘͜͝L̡͢͝k̴̴̨j̸͝͏̵͜b̡͟͞͠͞h̨̡͝v̶͜͢͟͏k̴̛ǵ̴̕͠͞ć̡̛4̸̕d̴̨̨̕͜5̶̢̕͡5̨̕͞͝Ę̛͢͡T͘͜͜͝&̛҉͢͠͡^̸̵̨̢\*҉͜(̨̢͟͟Y̶̨U̵̕(̵̸̶̢͜I̶̡̛)̴̷̢͘͠K̷̛͞͝O̸͘;͢͞͝ó͝ļ͞͝í̴̡͠ų̛̀͠v̡͏̕y̸f̵̨͟͢͞t̷̷̡͟͜çd̕͟ŗ̷̷͟F̵̸̨̡̧T̢͘͠͏̀G̨V̡̛͢͠͞h̨̕͟j̵̸͘͠͡b̡̨̨̡͟k̡͘l͏́͡h̷͟v̡͘͠V̢c̢̢l͟͝m̷̶̧͢͞ life\-threaten<br>
 J̨͞)̵͡͡\*̸̴̶̨\_͏̀͢H͢͢҉̛7́͝͠y̡̨͝͡g͜f̡̧̡͘̕t̶̵͠d̸̶͘͏r͢͠͡͞Ú̵̕͟T̴́͜͟Y͏͟K̡͡͝H̡̢B̧͘͟͠͠:̢̨j҉͡͏̵̀g̵̨̢͟y̨̡̕̕͜t̶̀7̷̶́̀6̢̧͠҉̧5̸̡́͘͠r͟͢͜3͡͏̕͢4̧^̷̸̴͢͢ḩ̷͠͡j̸͞҉ that one day, people who have a rebellious nature like myself J̧́͠Ơ̷H͘͟͝U͞҉̡̢͢O͏͡(̢̢͝͞7̡̕͢͡͝d̛͠r͘͢e̷͘͟5̵͘͟6̀͡҉͟i̸̢̕͟t̶͘v͏̴̸Ơ͢:̡̀́͢͠J҉̴͜N̵͏̶̵͠B͘͜҉̡I͘͟Ĺ̷͏H̸͘U̵̧͘V̵̢͘̕͢Y̧̢͠F͏҉̧͟T̡͠͏̡d̡̛̀r͝5̨͘͝͡e҉͢4̨̀f̡8̢́6̵̨̀G̛͘͟͝͝&͝(̶̕͡͏H̀͏҉P̀͝U̡̕͜͟I҉͢N҉̴́͘͟B͏̀̀͞J̕͝Ų̀͡Í̶͘͢͟Y̶̢Ḑ̡̀͞7̴̴͜8̴̢͝҉9͘͏҉̶i̸j͘͟͏̢͘h̴̕n̡͢͞͠b̀͏h̛́m̨͏̡H̴͝Ģ͢͟ heritage.
 
 ![c2201.png](./attachments/c2201.png)

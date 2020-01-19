@@ -2143,7 +2143,7 @@ Guess I'll post atfer I get home
 ### Replies
 **An0nym0us**<br>
 "A\-f\-t\-e\-r".........<br>
- **\#MonoWillPay**
+**\#MonoWillPay**
 
 **BizTrip**<br>
 Really wanted to go, but I'm currently on a business trip at Node 15 **\#MonoWillPay**

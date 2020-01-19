@@ -1431,7 +1431,7 @@ This is my first time seeing a celebrity account I follow get blocked. Feels lik
 
 **NEKO#ΦωΦ**<br>
 Bleh \~\~\~\~\~ ugh, so many cache files are gone<br>
- (Φ皿Φ╬)
+(Φ皿Φ╬)
 
 **K1ssK1tty**<br>
 NEKO\#ΦωΦ<3<3
@@ -1470,7 +1470,7 @@ You could ask Xenon or Robohead?
 
 **NEKO#ΦωΦ**<br>
 L, let's not bother them with stuff like this<br>
- ( ﾉДΦ)
+( ﾉДΦ)
 
 **Uxi**<br>
 Why didn't you tell us about your release beforehand\~\~\~ My workplace is super close to the LED offices
