@@ -618,11 +618,11 @@ The iM full\-sense social networking team
 Diary Log 6970808\_ConneR<br>
 Location: Node 08 Mansion
 
-　Returned to this big, empty house after I left it more than a decade ago, only to find out that the only things waiting for me are father's soulless shell and an endless sense of loss. Maybe I came back to prove something; maybe I want to tell him that I did not disappoint and lived up to family expectations. All of a sudden, those things are no longer important anymore. 
+Returned to this big, empty house after I left it more than a decade ago, only to find out that the only things waiting for me are father's soulless shell and an endless sense of loss. Maybe I came back to prove something; maybe I want to tell him that I did not disappoint and lived up to family expectations. All of a sudden, those things are no longer important anymore. 
 
-　The chip father left me is a token that has been passed down through the Neumann family for generations. Although I've never heard my father talk about the details, I think it should be some kind of ancient technology? In my faint memory of my childhood, I remember there was a period where father was in a very irritated mood, likely because of this chip. Not long after that, mother and I left this home. 
+The chip father left me is a token that has been passed down through the Neumann family for generations. Although I've never heard my father talk about the details, I think it should be some kind of ancient technology? In my faint memory of my childhood, I remember there was a period where father was in a very irritated mood, likely because of this chip. Not long after that, mother and I left this home. 
 
-　Did a quick analysis with father's equipment. The chip itself is still somewhat recognizable, but the port is something I've never seen before. There are way too many questions left behind by the Neumann family. I just might have the ability to find the truth behind those questions, in Node 13. 
+Did a quick analysis with father's equipment. The chip itself is still somewhat recognizable, but the port is something I've never seen before. There are way too many questions left behind by the Neumann family. I just might have the ability to find the truth behind those questions, in Node 13. 
 
 ConneR 6970808
 
@@ -727,11 +727,11 @@ _\[Call Ends\]_
 Diary Log 7020406\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　Been three months since that incident, the right side of my body still gets stints of extreme pain. Physically, my body is starting to learn to control the new eye and arm. Mentally, however, I can never accept it like this; at least not before I find out the truth about what attacked me.
+Been three months since that incident, the right side of my body still gets stints of extreme pain. Physically, my body is starting to learn to control the new eye and arm. Mentally, however, I can never accept it like this; at least not before I find out the truth about what attacked me.
 
-　A.R.C. HQ is indeed where resources and talents go. I must admit that I did somewhat underestimate their abilities in the past. I just might be able to find the answers I want here. Even though the title of "advisor" sounds impressive, I have a feeling that they are still very cautious about me. 
+A.R.C. HQ is indeed where resources and talents go. I must admit that I did somewhat underestimate their abilities in the past. I just might be able to find the answers I want here. Even though the title of "advisor" sounds impressive, I have a feeling that they are still very cautious about me. 
 
-　As far as the people I've come in contact with here, most of them are just lackeys. That Sagar guy doesn't look to be the especially "smart" type, but since he is captain of the exploration team, there must be something special about him. The Supreme Committee members keep their whereabouts a complete secret. Need to find a chance to meet with them in the future.
+As far as the people I've come in contact with here, most of them are just lackeys. That Sagar guy doesn't look to be the especially "smart" type, but since he is captain of the exploration team, there must be something special about him. The Supreme Committee members keep their whereabouts a complete secret. Need to find a chance to meet with them in the future.
 
 ConneR 7020406
 
@@ -1048,9 +1048,9 @@ _\[Replay Ends\]_
 Diary Log 7020722\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　Finally met someone that is more interesting than that Sagar guy, a boy called Simon Jackson.  He was quite successful in the world of underground bands under the name "Crystal PuNK", but one day he just disappeared for no reason. Many years later, he joined A.R.C.'s internet security department with a phenomenally high score and genius\-level talents. Many of the security protocols that prevent modern internet crimes were his handiwork. One can even say that A.R.C.'s recent success with preventing internet terrorist attacks and virtual crimes can all be credited to this young fella. 
+Finally met someone that is more interesting than that Sagar guy, a boy called Simon Jackson.  He was quite successful in the world of underground bands under the name "Crystal PuNK", but one day he just disappeared for no reason. Many years later, he joined A.R.C.'s internet security department with a phenomenally high score and genius\-level talents. Many of the security protocols that prevent modern internet crimes were his handiwork. One can even say that A.R.C.'s recent success with preventing internet terrorist attacks and virtual crimes can all be credited to this young fella. 
 
-　If I can recruit his help, it might be a lot easier to solve the mystery behind that item. However, I must first confirm that he is someone trustworthy. I'll need to talk with him a few more times and obtain more information on him. 
+If I can recruit his help, it might be a lot easier to solve the mystery behind that item. However, I must first confirm that he is someone trustworthy. I'll need to talk with him a few more times and obtain more information on him. 
 
 ConneR 7020722
 
@@ -1173,9 +1173,9 @@ A.R.C. Supreme Committee
 Diary Log 7020728\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　A piece of news caught my eye recently. An idol singer collapsed during an event and many audience members also showed signs of discomfort at the same time. I manage to get my hands on plenty of patient information from A.R.C.'s internal medical channel. Most patients were diagnosed with internet withdrawal symptoms or a sudden rejection from the brain. 
+A piece of news caught my eye recently. An idol singer collapsed during an event and many audience members also showed signs of discomfort at the same time. I manage to get my hands on plenty of patient information from A.R.C.'s internal medical channel. Most patients were diagnosed with internet withdrawal symptoms or a sudden rejection from the brain. 
 
-　There are plenty of medical institutes in Node 13. They mainly hold patients who suffered side\-effects from technology overuse. My time there has allowed me to have a much deeper understanding of similar symptoms. From the information of several patients who had more severe symptoms, this looks like a relapse of memory loss. It's a side\-effect that occurs when trying to save data forcefully to an already damaged memory area in the brain. However, why such symptoms appeared during a concert and what is the reason behind the trigger, that has caught my interest. 
+There are plenty of medical institutes in Node 13. They mainly hold patients who suffered side\-effects from technology overuse. My time there has allowed me to have a much deeper understanding of similar symptoms. From the information of several patients who had more severe symptoms, this looks like a relapse of memory loss. It's a side\-effect that occurs when trying to save data forcefully to an already damaged memory area in the brain. However, why such symptoms appeared during a concert and what is the reason behind the trigger, that has caught my interest. 
 
 ConneR\_7020728
 
@@ -1295,9 +1295,9 @@ _\[Replay Ends\]_
 Diary Log 7020826\_ConneR<br>
 Location: A.R.C. HQ living quarters\_Room V017
 
-　Had a few drinks today. Feel like everything sucks. How many people in this bogus world can hold on to a principle like me. Pioneers are always the ones to suffer; it's a common theme across history. It feels just like the time when I left that home to find my own reason for existence many years ago. 
+Had a few drinks today. Feel like everything sucks. How many people in this bogus world can hold on to a principle like me. Pioneers are always the ones to suffer; it's a common theme across history. It feels just like the time when I left that home to find my own reason for existence many years ago. 
 
-　If I can leave something for this world, please allow me to cheer from the bottom of my hear and celebrate the arrival of humanity's freedom.
+If I can leave something for this world, please allow me to cheer from the bottom of my hear and celebrate the arrival of humanity's freedom.
 
 ConneR 7020826
 

@@ -1027,7 +1027,7 @@ _\[Signal Lost\]_
 \[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function.
 
 What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".<br>
-　　　<br>
+　<br>
 First of all, OPCI machines are nowhere to be seen. The Administration Bureau has already been taken over by humans and is operated directly by them. This caused me to unable to enter the Gate. I can no longer issue commands to the robots produced by the Administration Bureau either...... It is clear that the access authorizations have been altered by humans. 
 
 People are currently holding grand celebrations for the 700th anniversary of the New Age. This means that the data in Shelter is correct. It really has been 500 plus years since then...... What exactly happened in between all this time? 
@@ -1042,7 +1042,7 @@ There are way too many questions here. I need to figure out a way to get answers
 
 \[System Alert\] Insufficient power (5%). Entering power saving mode.
 
-　　Crap...... The energy ingested from biomass is indeed limited. Got to think of something fast, or else...
+Crap...... The energy ingested from biomass is indeed limited. Got to think of something fast, or else...
 
 
 
@@ -2073,7 +2073,7 @@ Wait for me, Vanessa. I will definitely save you.
 **BJ**<br>
 From the skies to the sewers, exposing truths for everyone to see. Welcome to the "Truth Digger 101" segment. I am your host, Bob Jackson. <br>
 The hottest topic in the nooks and crannies of every Node these days is, surprisingly, a single individual. It's none other than the mysterious music genius Æsir.<br>
- Is it his charisma or some sort of unique background he has?<br>
+Is it his charisma or some sort of unique background he has?<br>
 How was he able to go from a previously unknown nobody to a household megastar in the span of what seems like an instant, yet maintain a low\-profile and not expose himself to the public at the same time?
 
 **BJ**<br>
