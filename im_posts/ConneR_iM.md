@@ -27,9 +27,9 @@
 **ConneR**<br>
 Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
 
-　Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
+Everything is a brand\-new start. objectives to achieve, music to play. Will find a path for myself eventually.
 
-　L'essentiel n'est pas de vivre, mais de bien vivre.
+L'essentiel n'est pas de vivre, mais de bien vivre.
 ### Replies
 **ConneR**<br>
 I have requested an account transfer from iM. People who used to follow me **@Colin Neumann Jr.** should now be able to see this new account in the recommended list.
@@ -77,7 +77,7 @@ Looking forward to more music\~\~\~
 **ConneR**<br>
 Spend some time learning a new instrument called "Violin". According to the records, the Violin is an assembled acoustic instrument. It's made up of the body, the strings and the bow. 
 
-　The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition.
+The Violin has a powerful sound and is capable of solo performance. It is agile and can handle complicated verses with ease. It will play a major role in my new composition.
 
 ![c0201.png](./attachments/c0201.png)
 ### Replies
@@ -111,14 +111,14 @@ Awesome new master \\oo/
 **ConneR**<br>
 Recently the condition of my prosthetic arm has been god awful, to say the least. Makes me wonder if I accidentally ordered a leg instead of an arm; that or they actually sold me some junk scraped from the morgue.
 
-　Gradually getting used to this non\-organic arm, but when awoken in the middle of the night by an unstable nerve shock, I still get a nauseous feeling. Is this the compensation for modern technology?
+Gradually getting used to this non\-organic arm, but when awoken in the middle of the night by an unstable nerve shock, I still get a nauseous feeling. Is this the compensation for modern technology?
 
 ![c0301.png](./attachments/c0301.png)
 ### Replies
 **ConneR**<br>
 Can't compose nor perform normally under such conditions. How can I recommend music of such underwhelming quality to my friends?
 
-　I am very busy with my work and my research. Do you really think that I have the time to mail it back to the OEM and wait seven to eight days for a repair?
+I am very busy with my work and my research. Do you really think that I have the time to mail it back to the OEM and wait seven to eight days for a repair?
 
 **Ewx_Data**<br>
 Sensei got an electronic arm!? What happened??
@@ -168,7 +168,7 @@ They recently had a complete management change; must still be dealing with the a
 **ConneR**<br>
 I guess a promotion here wouldn't hurt. My next concert, as usual, will be held at Central Music Hall at Quadrant I. The performance this time will feature classical works of Northen musicians the likes of Rachmaninoff and Stravinsky.
 
-　Of course, my newest work will also be featured. Don't miss out on it.
+Of course, my newest work will also be featured. Don't miss out on it.
 ### Replies
 **Brightswirls**<br>
 I was wondering why I can't find any information. So it's hidden here lol
@@ -221,14 +221,14 @@ Excellent
 **ConneR**<br>
 In terms of artistic attainment, I know my place. I don't consider myself to be knowledgeable by any means. Knowledge is endless, and there is only so much a mere human can obtain throughout a single lifetime. 
 
-　Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place.
+Today, through the introduction of a mutual friend, I had a thorough exchange with the scholar of the new generation **@ROBO\_Head**. I was very impressed with his wide array of knowledge. It feels good to meet an old friend in a new place.
 ### Replies
 **ROBO_Head**<br>
 **@ConneR** Doctor's research in instruments, classical music and ancient civilizations, worthy for this Unit to learn. ：D
 
 **ConneR**<br>
 You are welcome.<br>
-　I believe that I can also learn a lot from you. I look forward to interacting with you more.
+I believe that I can also learn a lot from you. I look forward to interacting with you more.
 
 **RaiKiyumi**<br>
 OMG a meeting between two master class musicians >////<
@@ -275,11 +275,11 @@ Not enough people know how to appreciate art
 **ConneR**<br>
 This era, I believe is one that lost its roots.
 
-　A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music.  
+A variety of music, advanced mixing techniques, constant interactions and collaborations, yet has lost the ability to utilize and enjoy classical instruments, the basis of all music.  
 
-　Even more helpless, is that the public has lost its praise and appreciation for the timelessness and beauty of classical music. Affected by the fancy mixing and vulgar lyrics, people now care more about the gossip of musicians rather than their actual music.
+Even more helpless, is that the public has lost its praise and appreciation for the timelessness and beauty of classical music. Affected by the fancy mixing and vulgar lyrics, people now care more about the gossip of musicians rather than their actual music.
 
-　Pains me greatly witnessing this.
+Pains me greatly witnessing this.
 ### Replies
 **Dogleg**<br>
 A sincere warning from Sensei!
@@ -361,9 +361,9 @@ Go ahead, make your guess.
 **ConneR**<br>
 The first assembled acoustic instrument to be discovered is an ancient instrument known as the 'Cello". Perhaps due to its large size, it's preserved in a relatively good condition. It's discovered in a concert hall ruins near Node 13. It was buried 45 meters deep and was detected by an unmanned drone. 
 
-　With modern technology, they are many ways to simulate a good low\-pitch string instrument. However, the Cello, which is created with top quality lumber and delicate crafts, can give out a very clear and deep tone. 
+With modern technology, they are many ways to simulate a good low\-pitch string instrument. However, the Cello, which is created with top quality lumber and delicate crafts, can give out a very clear and deep tone. 
 
-　A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior.
+A bit sad, yet extremely mesmerizing. This instrument provides a steadiness that makes even the piano, a one\-piece chord instrument, feel inferior.
 
 ![c0801.png](./attachments/c0801.png)
 ### Replies
@@ -396,7 +396,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 ### Replies
 **ConneR**<br>
 Thank you. I hope to make good use of this opportunity to interact with A.R.C. I believe that I can be of great help in terms of archaeology and ancient documents. <br>
-　My personal connections with A.R.C. can be traced back to six months ago. As of now, the cooperation experience has been fairly pleasant. Accepting this mission is mutually beneficial for both sides.
+My personal connections with A.R.C. can be traced back to six months ago. As of now, the cooperation experience has been fairly pleasant. Accepting this mission is mutually beneficial for both sides.
 
 **Ewx_Data**<br>
 WOW!! So this is the advisor position Sensei was talking about! Awesome!!
@@ -447,9 +447,9 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 **ConneR**<br>
 The existence of archaeology, is to help humans find what's missing from the past. It helps us study the history of the world and helps humans understand where we came from and where we should go.
 
-　People who devoted themselves to archaeology, are not shovel\-wielding, hole\-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds.  
+People who devoted themselves to archaeology, are not shovel\-wielding, hole\-digging barbarians. They are scholars who study artifacts, read through ancient documents, discover music, and look for history's burial grounds.  
 
-　They, are people who pursue the truth.
+They, are people who pursue the truth.
 ### Replies
 **GemFeather**<br>
 Great argument!
@@ -481,7 +481,7 @@ Thank you Sensei for giving your point of view. I learned a lot!
 **ConneR**<br>
 In the documents discovered east of Node47, I saw an orchestral collection beginning with the letter "L". However, the sheets have been so damaged that it is indecipherable. 
 
-　Music that wonderful once existed yet we have no way to listen to it now, what a pity.
+Music that wonderful once existed yet we have no way to listen to it now, what a pity.
 
 ![c1101.png](./attachments/c1101.png)
 ### Replies
@@ -578,7 +578,7 @@ I applied. Hope we can change them from the inside.
 **ConneR**<br>
 Due to Node 13's unique historical background, it has quite the collection of well\-preserved instruments. The Saxophone is the instrument that left me the strongest impression in the past five years.  In a bar where I regularly visit, there is this small band that does a live performance every night. Their Saxophonist's superb technique is certainly one of the reasons I kept coming back. 
 
-　The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own.
+The Saxophone is an iconic part of Jazz music. Its extremely versatile and free tone allows different performers to give the music their unique twist. The music flows as if it has a soul of its own.
 
 ![c1301.png](./attachments/c1301.png)
 ### Replies
@@ -622,7 +622,7 @@ I feel that Node13 is the perfect place to forget all the annoying stuff in live
 **ConneR**<br>
 Only those who are there on\-site can really feel the sincerest moment. No data transfer delays, no post\-production trickery; only a real performance presented directly to the audience by the performer.
 
-　And I, perform only for myself.
+And I, perform only for myself.
 
 ![c1401.png](./attachments/c1401.png)
 ### Replies
@@ -694,7 +694,7 @@ I can't wait for the next performance to be here!!!!
 **ConneR**<br>
 Maybe this is an opportunity for everyone to reflect carefully: are there too many things in the world that we simply can't understand and control.
 
-　The Architects created the Node cities on this planet. Did they do it to protect us fragile humans, or are humans mere test rats in a lab?
+The Architects created the Node cities on this planet. Did they do it to protect us fragile humans, or are humans mere test rats in a lab?
 ### Replies
 **RaiKiyumi**<br>
 Does Sensei think that the Æsir event is an omen of some sort?
@@ -844,9 +844,9 @@ DENIED
 **ConneR**<br>
 A gardener was tending to his flowerbed when he discovered a group of ants surrounding an apple that has fallen to the ground. Some ants wanted to start diving in to the delicious fruit right away, Some ants wanted to go back to their hive to bring more ants to carry the apple back. The two sides began to argue with each other. Meanwhile, a third group of ants was busy trying to resolve the conflict; all the while a fourth group of ants was attempting to come up with a solution that can satisfy everybody. 
 
-　Have a guess; how did the gardener deal with this fallen apple? He didn't pick up the apple and throw it away. He also didn't wash away the ants with the water hose he was holding. All he did was stand up, and walk away. 
+Have a guess; how did the gardener deal with this fallen apple? He didn't pick up the apple and throw it away. He also didn't wash away the ants with the water hose he was holding. All he did was stand up, and walk away. 
 
-　Yeah, who cares.
+Yeah, who cares.
 ### Replies
 **RaiKiyumi**<br>
 Holy cow!!! ConneR Sensei is freaking awesome XDDDDD
