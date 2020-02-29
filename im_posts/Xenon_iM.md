@@ -1,5 +1,5 @@
 # Xenon iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] Returning to the skies.](#x0101)
 - [\[#002\] Preparing broadcast for new song.](#x0201)
 - [\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#x0301)
@@ -17,7 +17,7 @@
 - [\[#015\] It felt like forever since I last picked up the guitar.](#x1501)
 - [\[#016\] 　　　　　　　　　　](#x1601)
 
-## <a id="x0101"/>\[#001\] Returning to the skies.
+## <a id="x0101"></a>\[#001\] Returning to the skies.
 ### Post
 **Xenon**<br>
 Was originally planning to stay on the surface for only half a year, but the IT at the Node Administration Bureau needs more help, so I had to stay for several more months before finally getting everything on track.
@@ -61,7 +61,7 @@ More music from Xenon, yeah. GL on the job! \\x/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0201"/>\[#002\] Preparing broadcast for new song.
+## <a id="x0201"></a>\[#002\] Preparing broadcast for new song.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -114,7 +114,7 @@ SOLO is awesome!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0301"/>\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="x0301"></a>\[#003\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -180,7 +180,7 @@ PM.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0401"/>\[#004\] About Æsir\-FEST.
+## <a id="x0401"></a>\[#004\] About Æsir\-FEST.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -188,8 +188,8 @@ PM.
 
 ### Post
 **Xenon**<br>
-Everyon remembered Æsir\-FEST from half a year ago right?<br>
-There have been many different theories on the internet, so I'm here to tell what I remembered:
+Everyone remembers Æsir\-FEST from half a year ago right?<br>
+There have been many different theories on the internet, so I'm here to tell what I remember:
 
 I was also connected to the cyTus background system that day. I was monitoring the huge flow of server data (hence I was not on stage). Afterwards, the entire backstage and site blacked out. 
 
@@ -244,7 +244,7 @@ Node03: Just according to Keikaku!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0501"/>\[#005\] \[Ticket Request\] One in physical area A for 7th PAFFCON.
+## <a id="x0501"></a>\[#005\] \[Ticket Request\] One in physical area A for 7th PAFFCON.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -310,7 +310,7 @@ NEKO\#ΦωΦ's mixtape logic this Unit can't analyze.：l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0601"/>\[#006\] About Xenon and this iM account.
+## <a id="x0601"></a>\[#006\] About Xenon and this iM account.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -379,7 +379,7 @@ Xenon I love you!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0701"/>\[#007\] About the optic guitar.
+## <a id="x0701"></a>\[#007\] About the optic guitar.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -457,7 +457,7 @@ JOE close that JOEZ Cafe and make a comeback!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0801"/>\[#008\] My band members.
+## <a id="x0801"></a>\[#008\] My band members.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -537,7 +537,7 @@ You made the other members stand out too much!!! lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x0901"/>\[#009\] Pray for PAFF.
+## <a id="x0901"></a>\[#009\] Pray for PAFF.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -615,7 +615,7 @@ Sounds reliable but both identities sound so gross... (Φ  ωΦ)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1001"/>\[#010\] Teaser for new song "Black Hole".
+## <a id="x1001"></a>\[#010\] Teaser for new song "Black Hole".
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -680,7 +680,7 @@ YAAASSSSSSS!!! \\x/\\x/\\x/\\x/\\x/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1101"/>\[#011\] Virtual space performance is very successful. 
+## <a id="x1101"></a>\[#011\] Virtual space performance is very successful. 
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -759,7 +759,7 @@ The new song is really good!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1201"/>\[#012\] Please Calm Down.
+## <a id="x1201"></a>\[#012\] Please Calm Down.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -861,7 +861,7 @@ Someone send help. It's only been days, but the lack of NEKO streams are killing
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1301"/>\[#013\] Some things must be stated clearly
+## <a id="x1301"></a>\[#013\] Some things must be stated clearly
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -948,7 +948,7 @@ Should we boycott these terrible reports（￣へ￣）
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1401"/>\[#014\] Listen, all of you
+## <a id="x1401"></a>\[#014\] Listen, all of you
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1037,7 +1037,7 @@ You shouldn’t take retards who trust info from stupid gossip magazines serious
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1501"/>\[#015\] It felt like forever since I last picked up the guitar.
+## <a id="x1501"></a>\[#015\] It felt like forever since I last picked up the guitar.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1099,7 +1099,7 @@ Thanks. I will if I have the time.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="x1601"/>\[#016\] 　　　　　　　　　　
+## <a id="x1601"></a>\[#016\] 　　　　　　　　　　
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|

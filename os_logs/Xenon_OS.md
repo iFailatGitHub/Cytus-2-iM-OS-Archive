@@ -1,5 +1,5 @@
 # Xenon OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Audio\_Studio\_702\_06\_24](#xos001)
 - [\[#002\] Cam\_Cafe\_702\_06\_28](#xos002)
 - [\[#003\] Audio\_Arc\_702\_06\_29](#xos003)
@@ -46,9 +46,9 @@
 - [\[#044\] Multi\_File\_X044](#xos044)
 - [\[#045\] Multi\_File\_X045](#xos045)
 
-## <a id="xos001"/>\[#001\] Audio\_Studio\_702\_06\_24
+## <a id="xos001"></a>\[#001\] Audio\_Studio\_702\_06\_24
 ### Log Content
-*\[Guitar Riff\]*
+_\[Guitar Riff\]_
 
 **Xenon**<br>
 What do you think of this intro?
@@ -59,7 +59,7 @@ OHH! Sounds very cool!
 **NEKO#ΦωΦ**<br>
 Then I will do it like this!
 
-*\[Synthesizer\]*
+_\[Synthesizer\]_
 
 **Xenon**<br>
 Not bad, but why does it feel so... random?
@@ -67,7 +67,7 @@ Not bad, but why does it feel so... random?
 **NEKO#ΦωΦ**<br>
 NEKO will patch it up when I get back!
 
-*\[Eat Snacks\]*
+_\[Eat Snacks\]_
 
 **Xenon**<br>
 Hey, I thought I told you not to eat snacks in here? Take it outside.
@@ -78,7 +78,7 @@ NO! It's too stuffy outside!
 **Xenon**<br>
 I've turned on the AC, go outside.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Hey! Let's go to Under Velvet to see a performance! There's a pretty awesome band today!
@@ -107,20 +107,20 @@ In your dreams. You done eating? Let's finish up the remaining parts.
 **NEKO#ΦωΦ**<br>
 OKayyyy\~
 
-*\[Eat Snacks\]*
+_\[Eat Snacks\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos002"/>\[#002\] Cam\_Cafe\_702\_06\_28
+## <a id="xos002"></a>\[#002\] Cam\_Cafe\_702\_06\_28
 ### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Fighting**|Xenon|Easy | 2 |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Oh! Simon! You're here.
@@ -178,7 +178,7 @@ Yes, finally. Those worthless ITs at the Administration Bureau are driving me nu
 **JOE**<br>
 Hahaha! Good work my man! As a celebration, shouldn't you break the mold and try some alcohol?
 
-*\[Makes Cocktail\]*
+_\[Makes Cocktail\]_
 
 **Xenon**<br>
 ... What is this?
@@ -189,7 +189,7 @@ Stairway to Heaven. Cheers!
 **Xenon**<br>
 ... Alright.
 
-*\[Cheers\]*
+_\[Cheers\]_
 
 **Xenon**<br>
 ... Tastes terrible.
@@ -198,7 +198,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos003"/>\[#003\] Audio\_Arc\_702\_06\_29
+## <a id="xos003"></a>\[#003\] Audio\_Arc\_702\_06\_29
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -217,7 +217,7 @@ ID number 7128, Simon Jackson, please come to Block D.
 **Davis**<br>
 Come in.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 I'm back.
@@ -289,7 +289,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos004"/>\[#004\] Call\_Xenon\_702\_07\_01
+## <a id="xos004"></a>\[#004\] Call\_Xenon\_702\_07\_01
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -353,7 +353,7 @@ You guys heard it. Testimony from a staff member. Now stop arguing.
 **Customer B**<br>
 What!? Are you saying that cats are better than dogs!? I shall teach you a lesson!
 
-*\[Bottles shatter\]*
+_\[Bottles shatter\]_
 
 **JOE**<br>
 Ahhhhh... it seems that they have moved on to other topics.<br>
@@ -366,7 +366,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos005"/>\[#005\] Cam\_Arc\_702\_07\_02
+## <a id="xos005"></a>\[#005\] Cam\_Arc\_702\_07\_02
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -434,7 +434,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos006"/>\[#006\] Mail\_Xenon\_702\_07\_09
+## <a id="xos006"></a>\[#006\] Mail\_Xenon\_702\_07\_09
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -449,7 +449,8 @@ _\[Replay Ends\]_
 **Subj.**: Investigation of initiation error records<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -469,7 +470,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos007"/>\[#007\] Cam\_Arc\_702\_07\_10
+## <a id="xos007"></a>\[#007\] Cam\_Arc\_702\_07\_10
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -542,7 +543,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos008"/>\[#008\] Cam\_Arc\_702\_07\_20
+## <a id="xos008"></a>\[#008\] Cam\_Arc\_702\_07\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -614,7 +615,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos009"/>\[#009\] Cam\_Arc\_702\_07\_21
+## <a id="xos009"></a>\[#009\] Cam\_Arc\_702\_07\_21
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -679,7 +680,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos010"/>\[#010\] Cam\_Arc\_702\_07\_22
+## <a id="xos010"></a>\[#010\] Cam\_Arc\_702\_07\_22
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -739,7 +740,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos011"/>\[#011\] Cam\_Arc\_702\_07\_24
+## <a id="xos011"></a>\[#011\] Cam\_Arc\_702\_07\_24
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -818,7 +819,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos012"/>\[#012\] Mail\_Xenon\_702\_07\_26
+## <a id="xos012"></a>\[#012\] Mail\_Xenon\_702\_07\_26
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -833,7 +834,8 @@ _\[Replay Ends\]_
 **Subj.**: Investigation of abnormal data flow and electrical overload<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -855,7 +857,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos013"/>\[#013\] Audio\_Arc\_702\_07\_28\_01
+## <a id="xos013"></a>\[#013\] Audio\_Arc\_702\_07\_28\_01
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -920,7 +922,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos014"/>\[#014\] Audio\_Arc\_702\_07\_28\_02
+## <a id="xos014"></a>\[#014\] Audio\_Arc\_702\_07\_28\_02
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -995,7 +997,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos015"/>\[#015\] Mail\_Xenon\_702\_08\_07
+## <a id="xos015"></a>\[#015\] Mail\_Xenon\_702\_08\_07
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1010,7 +1012,8 @@ _\[Replay Ends\]_
 **Subj.**: Your request has being denied due to violation of protocol<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -1031,7 +1034,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos016"/>\[#016\] Call\_Xenon\_702\_08\_10
+## <a id="xos016"></a>\[#016\] Call\_Xenon\_702\_08\_10
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1110,7 +1113,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos017"/>\[#017\] Mail\_Xenon\_702\_08\_12
+## <a id="xos017"></a>\[#017\] Mail\_Xenon\_702\_08\_12
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1120,7 +1123,8 @@ _\[Call Ends\]_
 **Subj.**: Black Hole Track Log<br>
 **From**: ROBO_Head<br>
 **To**: Xenon
-___
+
+
 
 ![xos1701.png](./attachments/xos1701.png)
 
@@ -1134,7 +1138,7 @@ Sound\_701\_08\_12\_18\_36\_46\_764……100%
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos018"/>\[#018\] Cam\_Xenon\_702\_08\_15
+## <a id="xos018"></a>\[#018\] Cam\_Xenon\_702\_08\_15
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1146,7 +1150,7 @@ Sound\_701\_08\_12\_18\_36\_46\_764……100%
 |**SAMURAI**|Xenon|Chaos|13 |
 
 ### Log Content
-*\[Spray Paint\]*
+_\[Spray Paint\]_
 
 ![xos1801.png](./attachments/xos1801.png)
 
@@ -1171,7 +1175,7 @@ Yeah, Boss said that they put the cargo down here.
 **Man A**<br>
 Hey! Over here. Behind this thing, help me move it.
 
-*\[Container Moves\]*
+_\[Container Moves\]_
 
 **Man C**<br>
 Ok, let's go.
@@ -1207,7 +1211,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos019"/>\[#019\] Mail\_Xenon\_702\_08\_16
+## <a id="xos019"></a>\[#019\] Mail\_Xenon\_702\_08\_16
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1217,7 +1221,8 @@ _\[Signal Lost\]_
 **Subj.**: Photos and Mixing<br>
 **From**: Shao<br>
 **To**: Xenon
-___
+
+
 
 Hello, here are the photos from yesterday's performance.
 
@@ -1229,7 +1234,7 @@ The mixing is finished as well. The virtual sound field's recording quality is p
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos020"/>\[#020\] Cam\_Cafe\_702\_08\_18
+## <a id="xos020"></a>\[#020\] Cam\_Cafe\_702\_08\_18
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1250,7 +1255,7 @@ Damn you little nerd, all that "I don't drink" crap... Turns out you're a bigger
 **Xenon**<br>
 I'm at my limit too. Stop pouring drinks.
 
-*\[Knocks over glass\]*
+_\[Knocks over glass\]_
 
 **Xenon**<br>
 Hey, you can't even hold your glass properly. Take a break.
@@ -1318,7 +1323,7 @@ BLARGH! Cough! Cough cough...
 **Xenon**<br>
 ... Sigh, whatever. You get some rest. I'll take my leave.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 The devil...
@@ -1332,13 +1337,13 @@ The devil... will never be satisfied with just one finger. Once you fall into it
 **Xenon**<br>
 ... Even if that's the case, I will still be on your side.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos021"/>\[#021\] Mail\_Xenon\_702\_08\_20
+## <a id="xos021"></a>\[#021\] Mail\_Xenon\_702\_08\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1353,7 +1358,8 @@ _\[Replay Ends\]_
 **Subj.**: Report on reverse tracking of target's connecting location<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -1374,7 +1380,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos022"/>\[#022\] Cam\_Cafe\_702\_08\_24
+## <a id="xos022"></a>\[#022\] Cam\_Cafe\_702\_08\_24
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1432,7 +1438,7 @@ The missing musician? Why?
 **JOE**<br>
 Are you serious!?
 
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **Xenon**<br>
 Let me answer the call first. Hello?...Yes... Understood, I'm on my way.
@@ -1461,7 +1467,7 @@ Hahaha! I know, good luck!
 **Xenon**<br>
 Nothing, see you.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 ...Thanks, and sorry...
@@ -1470,7 +1476,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos023"/>\[#023\] Mail\_Xenon\_702\_08\_23
+## <a id="xos023"></a>\[#023\] Mail\_Xenon\_702\_08\_23
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1485,7 +1491,8 @@ _\[Replay Ends\]_
 **Subj.**: Medium scale abnormal data flow and electrical overload<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -1506,7 +1513,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos024"/>\[#024\] Audio\_Arc\_702\_08\_26
+## <a id="xos024"></a>\[#024\] Audio\_Arc\_702\_08\_26
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1518,7 +1525,7 @@ Report Ends
 |**IOLITE-SUNSTONE**|Xenon|Chaos|11 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Oh, Mr. Xenon. Have you listened to my album?
@@ -1590,7 +1597,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos025"/>\[#025\] Mail\_Xenon\_702\_08\_30
+## <a id="xos025"></a>\[#025\] Mail\_Xenon\_702\_08\_30
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1604,7 +1611,8 @@ _\[Replay Ends\]_
 **Subj.**: Captured footage of target<br>
 **From**: Anonymous<br>
 **To**: Simon Jackson
-___
+
+
 
 Security Level: Highest Level. SDP protocol activated.<br>
 Access Permission: Private Key required.<br>
@@ -1618,7 +1626,7 @@ Has identified suspect through online visual footage.
 Analysis:
 
 [![xos2502.png](./attachments/xos2502.png)](https://youtu.be/AdRsMZG6MoE)<br>
-*[Click the image to watch the movie]*
+_[Click the image to watch the movie]_
 
 ==========<br>
 Report Ends
@@ -1627,7 +1635,7 @@ Report Ends
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos026"/>\[#026\] Cam11\_St07\_702\_09\_26
+## <a id="xos026"></a>\[#026\] Cam11\_St07\_702\_09\_26
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1648,7 +1656,7 @@ No. You're annoying. Why do you keep wanting me to stay for dinner?
 
 ![xos2601.png](./attachments/xos2601.png)
 
-*\[Shutter\]*
+_\[Shutter\]_
 
 **Young Man**<br>
 Crap! This is bad...
@@ -1708,7 +1716,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos027"/>\[#027\] Audio\_Graveyard\_702\_09\_29
+## <a id="xos027"></a>\[#027\] Audio\_Graveyard\_702\_09\_29
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1749,14 +1757,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos028"/>\[#028\] Audio\_Cafe\_702\_09\_30
+## <a id="xos028"></a>\[#028\] Audio\_Cafe\_702\_09\_30
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|27 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 So you're here?
@@ -1764,7 +1772,7 @@ So you're here?
 **Xenon**<br>
 Yeah.
 
-*\[Glass Sliding\]*
+_\[Glass Sliding\]_
 
 **JOE**<br>
 Have a few drinks with me, will ya? I need to work myself up before I can talk.
@@ -1893,7 +1901,7 @@ Let's... cut to the chase. Follow me; I have something to show you.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos029"/>\[#029\] Audio\_Arc\_702\_10\_18
+## <a id="xos029"></a>\[#029\] Audio\_Arc\_702\_10\_18
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1958,7 +1966,7 @@ It's better that you be more careful about it...
 **Mark**<br>
 I feel like that thing is not exactly safe.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 What's the deal with him? Too much stress?
@@ -1987,14 +1995,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos030"/>\[#030\] Audio\_Arc\_702\_10\_30
+## <a id="xos030"></a>\[#030\] Audio\_Arc\_702\_10\_30
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|29 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Davis**<br>
 What's wrong, Mark? Saying that you want to speak with me in private all of a sudden.
@@ -2135,7 +2143,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos031"/>\[#031\] Cam\_Arc\_702\_11\_01
+## <a id="xos031"></a>\[#031\] Cam\_Arc\_702\_11\_01
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2157,7 +2165,7 @@ What's the matter? You look kind of pale.
 **Davis**<br>
 Relax. It should be just one or two investigation agents.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Agent A**<br>
 Starting now, we will carry out the arrest of Simon Jackson.
@@ -2176,7 +2184,7 @@ The Æsir attack incident is labeled as security level A. The evidence you provi
 
 _\[→Signal Switch\]_
 
-*\[Door Breaks\]*
+_\[Door Breaks\]_
 
 **Agent A**<br>
 FREEZE!
@@ -2184,7 +2192,7 @@ FREEZE!
 **Xenon**<br>
 ......!?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Agent B**<br>
 Where do you think you're running!? Stay down! You're under arrest!
@@ -2229,7 +2237,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos032"/>\[#032\] Cam\_08court\_702\_11\_05
+## <a id="xos032"></a>\[#032\] Cam\_08court\_702\_11\_05
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2335,7 +2343,7 @@ After conducting our own investigation, we found out that for the past few years
 **Xenon**<br>
 ......!
 
-*\[File projection\]*
+_\[File projection\]_
 
 ![xos3201.png](./attachments/xos3201.png)
 
@@ -2389,14 +2397,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos033"/>\[#033\] Cam\_CArea\_702\_11\_08
+## <a id="xos033"></a>\[#033\] Cam\_CArea\_702\_11\_08
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|32 |    No     |
 
 ### Log Content
-*\[Alarm\]*
+_\[Alarm\]_
 
 **Xenon**<br>
 ......
@@ -2409,17 +2417,17 @@ Trespassers in area C, the underground passages. Send additional agents and dron
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Xenon**<br>
 ......?
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Xenon**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Good evening.
@@ -2434,7 +2442,7 @@ I knocked, but nobody answered the door. Therefore, I decided to come in myself.
 **Xenon**<br>
 ... What the hell are you doing?
 
-*\[Data projection\]*
+_\[Data projection\]_
 
 **ConneR**<br>
 I don't have time to explain all the minute details to you. All in all, take a quick look through these files first.
@@ -2513,7 +2521,7 @@ Once you set foot outside this door, you are, in all sense of the word, "dead". 
 I still have more important businesses to tend to, So I don't have time to waste on you here.<br>
 Although having your assistance will make things much easier for me, the final decision is all yours to make.
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **ConneR**<br>
 Ah, right. Seems like we got a signal. Please give me a minute.
@@ -2537,7 +2545,7 @@ _……!_
 As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
 Feels like your dear friends are in a pretty serious pinch. Allow me to take my leave first.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 ![xos3301.png](./attachments/xos3301.png)
 
@@ -2548,7 +2556,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos034"/>\[#034\] Audio\_CArea\_702\_11\_08\_1
+## <a id="xos034"></a>\[#034\] Audio\_CArea\_702\_11\_08\_1
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2559,12 +2567,12 @@ _\[Signal Lost\]_
 _Level A Alarm, Level A Alarm. A convict has escaped.<br>
 Level A Alarm, Level A Alarm. A convict has escaped._
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Xenon**<br>
 Ha... Ha...
 
-*\[Alarms\]*
+_\[Alarms\]_
 
 **Agent A**<br>
 He should still be nearby! Deploy more drones and expand the search area!
@@ -2572,7 +2580,7 @@ He should still be nearby! Deploy more drones and expand the search area!
 **Xenon**<br>
 ......
 
-*\[Loads Gun\]*
+_\[Loads Gun\]_
 
 **Agent N**<br>
 Don't move. Both hands on your head.
@@ -2581,7 +2589,7 @@ Don't move. Both hands on your head.
 ......!<br>
 Tch...
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **Agent N**<br>
 Woah!
@@ -2603,7 +2611,7 @@ Yes, sir!
 
 _\[→Signal Switch\]_
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Agent N**<br>
 Stop right there!
@@ -2617,14 +2625,14 @@ It's a dead end ahead. Nowhere for you to run now.
 **Xenon**<br>
 ......
 
-*\[Hacking\]*
+_\[Hacking\]_
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Xenon**<br>
 Argh!
 
-*\[Removes Helmet\]*
+_\[Removes Helmet\]_
 
 **Agent N**<br>
 Trying to hack me? You thought I don't know about you and your little tricks?
@@ -2632,13 +2640,13 @@ Trying to hack me? You thought I don't know about you and your little tricks?
 **Xenon**<br>
 ... Nate...?
 
-*\[Handcuffs\]*
+_\[Handcuffs\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos035"/>\[#035\] Audio\_CArea\_702\_11\_08\_2
+## <a id="xos035"></a>\[#035\] Audio\_CArea\_702\_11\_08\_2
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2659,7 +2667,7 @@ We're here. Now, stand still.
 **Xenon**<br>
 ......?
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Xenon**<br>
 Ugh!
@@ -2678,7 +2686,7 @@ Speak. What the hell is all this stuff about? Before Kyle died, he truly believe
 **Xenon**<br>
 ... You haven't changed one bit.
 
-*\[Lights fire\]*
+_\[Lights fire\]_
 
 **Agent N**<br>
 ...... (Inhales)<br>
@@ -2732,12 +2740,12 @@ If you don't unlock these handcuffs now, this case will never end. By then, it d
 **Agent N**<br>
 Those eyes... you two are indeed father and son after all.
 
-*\[Unlocks handcuffs\]*
+_\[Unlocks handcuffs\]_
 
 **Xenon**<br>
 ......!
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Xenon**<br>
 Argh!?
@@ -2754,7 +2762,7 @@ Quick.
 **Xenon**<br>
 ......
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Agent N**<br>
 ... Man, do you really eat properly?<br>
@@ -2783,7 +2791,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos036"/>\[#036\] Audio\_Port33\_702\_11\_10\_1
+## <a id="xos036"></a>\[#036\] Audio\_Port33\_702\_11\_10\_1
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2796,9 +2804,9 @@ The transporter is over there. Thank god we made it in time. Let's go, Mad Dog. 
 **Xenon**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
-*\[Moves Cargo\]*
+_\[Moves Cargo\]_
 
 **Hunter**<br>
 Hnnngh\~ Dang, this s\*\*\* is heavy...
@@ -2834,7 +2842,7 @@ What are you trying to do? I advise you don't try anything stupid!
 **Hunter**<br>
 ...... Hmph.
 
-*\[Drags Cargo\]*
+_\[Drags Cargo\]_
 
 **Cherry**<br>
 Alright, let's board the transporter. This ride will take us back to a transportation hub. We will board another ride there that'll take us into Node 03.
@@ -2849,7 +2857,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos037"/>\[#037\] Audio\_Port33\_702\_11\_10\_2
+## <a id="xos037"></a>\[#037\] Audio\_Port33\_702\_11\_10\_2
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2991,7 +2999,7 @@ Although Neumann is "that" kind of person, the information he provided and his a
 **Xenon**<br>
 Let's start over from zero... Partners?
 
-*\[High Five\]*
+_\[High Five\]_
 
 **Cherry**<br>
 ... Partners!
@@ -3003,7 +3011,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos038"/>\[#038\] Cam\_Port33\_702\_11\_17
+## <a id="xos038"></a>\[#038\] Cam\_Port33\_702\_11\_17
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3036,7 +3044,7 @@ Don't let down your guard too soon. Did you young fellas not notice? Starting fr
 **ConneR**<br>
 Some other "rats" are also here...
 
-*\[Things Crashing\]*
+_\[Things Crashing\]_
 
 **Member A**<br>
 HEY! Be careful!
@@ -3074,7 +3082,7 @@ Greetings\~ Gentlemen. Enjoying the night?
 **Member C**<br>
 ... Who's there!?
 
-*\[Loads Gun\]*
+_\[Loads Gun\]_
 
 **ConneR**<br>
 Hoho\~! How scary. No need to be so nervous. I'm one of your peers. Just want to make some friends; nothing wrong with that, right? I'm quite interested in what you folks have in those crates. Are you down for a trade?
@@ -3082,12 +3090,12 @@ Hoho\~! How scary. No need to be so nervous. I'm one of your peers. Just want to
 **Member A**<br>
 Trade my a\*\*! DIE!!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **ConneR**<br>
 ... My oh my, such hostile people. I originally planned to offer a high price so we could all benefit from this. Well, guess I shouldn't expect rats to understand the beauty of human language...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Member B**<br>
 Shoot him up! Damnit! Why is there somebody else at this place?
@@ -3095,12 +3103,12 @@ Shoot him up! Damnit! Why is there somebody else at this place?
 **Member C**<br>
 How would I know!?
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **ConneR**<br>
 ... This numbers disadvantage is certainly a bit annoying.
 
-*\[Lights off\]*
+_\[Lights off\]_
 
 **Member**<br>
 ......!?
@@ -3108,7 +3116,7 @@ How would I know!?
 **Xenon**<br>
 Now!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Member**<br>
 Argh!
@@ -3134,7 +3142,7 @@ I didn't do it for your sake. It seems that they planned to transport the weapon
 **ConneR**<br>
 Oh? Then what do you plan to do?
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Cherry**<br>
 Destroy them all.
@@ -3160,7 +3168,7 @@ What trouble...?
 **ConneR**<br>
 _\*Chuckles\*_ Well, you fellas have "trouble" written all over your faces. Farewell, and take care.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Xenon**<br>
 ... He left.
@@ -3181,7 +3189,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos039"/>\[#039\] Multi\_File\_X039
+## <a id="xos039"></a>\[#039\] Multi\_File\_X039
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3190,7 +3198,7 @@ _\[Signal Lost\]_
 ### Log Content
 _\[→Audio\_Kyle\_688\_04\_16\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 I'm home.
@@ -3284,7 +3292,7 @@ Many people view cockroaches and spiders as disgusting pests for no particular r
 **Xenon**<br>
 No, cockroaches are actually pretty disgusting... right? You're the weird one for not being scared of them...
 
-*\[Slaps on patch\]*
+_\[Slaps on patch\]_
 
 **Xenon**<br>
 Ouch! That hurt!
@@ -3298,7 +3306,7 @@ All in all, I forbid you to pick fights with other people for my sake anymore. I
 
 _\[→Audio\_05St\_688\_04\_30\]_
 
-*\[Crash\]*
+_\[Crash\]_
 
 **Shannon**<br>
 Waah!
@@ -3318,7 +3326,7 @@ Stop it!
 **Student C**<br>
 You again? Did you not get enough of my punches last time?
 
-*\[Loads Gun\]*
+_\[Loads Gun\]_
 
 **Student A**<br>
 Hey! He has a gun...!
@@ -3334,7 +3342,7 @@ Hey! He has a gun...!
 **Shannon**<br>
 Brother, no!
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Xenon**<br>
 Blargh...!
@@ -3343,12 +3351,12 @@ Blargh...!
 Imitating daddy and playing Mr. Police Officer? How cute.<br>
 Ooh, this is a pretty nice gun... I think I'll take it, haha.
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **Student A**<br>
 Yikes! It's his dad! RUN!
 
-*\[Runs\]*
+_\[Runs\]_
 
 **Kyle**<br>
 ......<br>
@@ -3364,7 +3372,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos040"/>\[#040\] Multi\_File\_X040
+## <a id="xos040"></a>\[#040\] Multi\_File\_X040
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3435,7 +3443,7 @@ Walk forward! Get in!
 **Student A**<br>
 I get it! Stop pushing me, you bum!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kyle**<br>
 ... It's that student.
@@ -3486,7 +3494,7 @@ Ha, you guys think this tiny bit of evidence is enough to arrest me?
 **Agent A**<br>
 You do have a point. This certainly isn't enough. Information from the dark web doesn't qualify as valid evidence in front of a jury. Therefore, we've prepared some other exhibits.
 
-*\[Places item\]*
+_\[Places item\]_
 
 **Student A**<br>
 ...!?
@@ -3529,7 +3537,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos041"/>\[#041\] Multi\_File\_X041
+## <a id="xos041"></a>\[#041\] Multi\_File\_X041
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3541,7 +3549,7 @@ _\[→Audio\_Capt.Wood\_690\_04\_02\]_
 **Andrew**<br>
 This is the criminal activity we're pursuing this time.
 
-*\[Data projection\]*
+_\[Data projection\]_
 
 **Andrew**<br>
 A group of organizations that mainly operates in Node 03. Through some not\-yet recreated or abandoned tunnels beneath the Nodes, they conduct a smuggling business. They have an organization as their respondent in Node 08 as well. As of now, the most suspicious one is obviously "Baro", a name everyone must be very familiar with. As you can see here, they're the ones who collect all the direct profits at the end of these transactions.
@@ -3603,7 +3611,7 @@ I believe that said accomplice is definitely not present in this room. However, 
 
 _\[→Audio\_Capt.Jackson\_692\_08\_12\]_
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Agent M**<br>
 Captain, not done with work yet?
@@ -3643,7 +3651,7 @@ _\[→Audio\_HNote\_692\_08\_12\]_
 **Agent M**<br>
 What do you mean "this type of place"? The resident singers here are the best! Especially the female singer making a guest appearance today, you better listen closely!
 
-*\[Singing\]*
+_\[Singing\]_
 
 **Kyle**<br>
 ......!<br>
@@ -3695,7 +3703,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos042"/>\[#042\] Multi\_File\_X042
+## <a id="xos042"></a>\[#042\] Multi\_File\_X042
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3744,7 +3752,7 @@ Two weeks... no! Ten days, figure out a way to get me ten more days. I'll defini
 **Agent M**<br>
 Ten days.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Kyle**<br>
 Hey! Martin!<br>
@@ -3755,7 +3763,7 @@ _\[→Audio\_Graveyard\_693\_10\_15\]_
 **Agent**<br>
 Let us mourn for this brave agent. His bravery will forever remain in our hearts. Salute!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Delia**<br>
 _\*Sobs\*... \*Sobs\*..._
@@ -3856,7 +3864,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos043"/>\[#043\] Multi\_File\_X043
+## <a id="xos043"></a>\[#043\] Multi\_File\_X043
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3878,7 +3886,7 @@ Shannon, bye\-bye\~ See you next week.
 **Shannon**<br>
 Okay! See you next week!
 
-*\[Engine sounds\]*
+_\[Engine sounds\]_
 
 **Kyle**<br>
 Shannon, want a ride?
@@ -3920,7 +3928,7 @@ N... Nothing! All in all, dad should go listen to their next performance too!
 **Kyle**<br>
 I don't have that kind of time... Besides, isn't it just some noisy music?
 
-*\[Play Music\]*
+_\[Play Music\]_
 
 **Kyle**<br>
 Hey! What are you doing!?
@@ -3940,7 +3948,7 @@ If it wasn't for the guitar you gifted him, he wouldn't have gone into music in 
 **Shannon**<br>
 Here we go again\~ Who would want to live with you if you have that attitude...
 
-*\[Brakes\]*
+_\[Brakes\]_
 
 **Shannon**<br>
 Wahh! W\-what's the matter!?
@@ -3961,7 +3969,7 @@ Dad...?
 **Kyle**<br>
 Get out the car, now! Listen carefully; don't do anything else, go straight back home, got it?
 
-*\[Car Door\]*
+_\[Car Door\]_
 
 **Shannon**<br>
 ......
@@ -3970,7 +3978,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos044"/>\[#044\] Multi\_File\_X044
+## <a id="xos044"></a>\[#044\] Multi\_File\_X044
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3987,12 +3995,12 @@ _\[Signal Lost\]_
 **????**<br>
 Haaa... Haa...
 
-*\[Running\]*
+_\[Running\]_
 
 **Kyle**<br>
 Stop right there!
 
-*\[Running\]*
+_\[Running\]_
 
 _\[→Signal Switches\]_
 
@@ -4005,7 +4013,7 @@ This is a dead\-end. There's nowhere for you to run! Show yourself!
 **Kyle**<br>
 I'm throwing a tear gas grenade in three seconds. If you don't want to end up a sobbing mess, stop hiding... "Mediator"! Three... Two...
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Shannon**<br>
 ... Eek!?
@@ -4071,13 +4079,13 @@ WAAHHH!
 **Kyle**<br>
 Shannon！！
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="xos045"/>\[#045\] Multi\_File\_X045
+## <a id="xos045"></a>\[#045\] Multi\_File\_X045
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|

@@ -1,5 +1,5 @@
 # JOE OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Cam\_Cafe\_684\_08\_28](#jos001)
 - [\[#002\] Cam\_Cafe\_687\_02\_27](#jos002)
 - [\[#003\] Audio\_Cafe\_690\_01\_13](#jos003)
@@ -41,8 +41,9 @@
 - [\[#039\] Audio\_Cafe\_702\_11\_17](#jos039)
 - [\[#040\] Audio\_Baro\_702\_12\_21\_1](#jos040)
 - [\[#041\] Audio\_Baro\_702\_12\_21\_2](#jos041)
+- [\[#042\] Audio\_Factory\_702\_12\_28](#jos042)
 
-## <a id="jos001"/>\[#001\] Cam\_Cafe\_684\_08\_28
+## <a id="jos001"></a>\[#001\] Cam\_Cafe\_684\_08\_28
 ### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
@@ -150,7 +151,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos002"/>\[#002\] Cam\_Cafe\_687\_02\_27
+## <a id="jos002"></a>\[#002\] Cam\_Cafe\_687\_02\_27
 ### Log Content
 **JOE**<br>
 Look over there. It's that dog.
@@ -254,14 +255,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos003"/>\[#003\] Audio\_Cafe\_690\_01\_13
+## <a id="jos003"></a>\[#003\] Audio\_Cafe\_690\_01\_13
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 2 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hi, pops!
@@ -334,7 +335,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos004"/>\[#004\] Audio\_Cafe\_691\_08\_12
+## <a id="jos004"></a>\[#004\] Audio\_Cafe\_691\_08\_12
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -346,7 +347,7 @@ _\[Signal Lost\]_
 |**Standby for Action**| JOE |Easy | 4 |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Saxon**<br>
 So you're here?
@@ -419,7 +420,7 @@ What's with the hurry? Finish your milk before you go!
 **JOE**<br>
 Give it to Zark! Only idiots drink milk in a bar!
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Saxon**<br>
 You little brat... Zark's gonna get diarrhea if you give him this stuff.
@@ -431,7 +432,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos005"/>\[#005\] Cam\_124St\_691\_08\_12
+## <a id="jos005"></a>\[#005\] Cam\_124St\_691\_08\_12
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -552,7 +553,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos006"/>\[#006\] Audio\_Cafe\_691\_08\_15
+## <a id="jos006"></a>\[#006\] Audio\_Cafe\_691\_08\_15
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -564,7 +565,7 @@ _\[Signal Lost\]_
 |**Standby for Action**| JOE |Hard | 8 |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Zark**<br>
 Arf!
@@ -609,7 +610,7 @@ Cheers?
 **Luo**<br>
 Of course.
 
-*\[Cheers\]*
+_\[Cheers\]_
 
 **Luo**<br>
 Ah, right. During the last trade, some crew members got into a fight and things nearly got out of hand. It was your boy who came in and calmed everyone down. I have to thank you for that.
@@ -660,7 +661,7 @@ Woah, so it's this time already. Thanks for the drink. I have to go.
 **Saxon**<br>
 Alright. See you next time.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Saxon**<br>
 ... Potential, eh? Not that I could see any.
@@ -668,7 +669,7 @@ Alright. See you next time.
 **Saxon**<br>
 Ah! Ugh...
 
-*\[Glass Shatters\]*
+_\[Glass Shatters\]_
 
 **Saxon**<br>
 _\*Huff\*_, _\*Puff\*_... My chest...
@@ -686,7 +687,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos007"/>\[#007\] Cam\_Cafe\_692\_10\_21
+## <a id="jos007"></a>\[#007\] Cam\_Cafe\_692\_10\_21
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -790,7 +791,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos008"/>\[#008\] Message\_Group\_693\_05\_25
+## <a id="jos008"></a>\[#008\] Message\_Group\_693\_05\_25
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -952,7 +953,7 @@ _[Sent at 08:50 PM]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos009"/>\[#009\] Cam\_Velvet\_693\_08\_28
+## <a id="jos009"></a>\[#009\] Cam\_Velvet\_693\_08\_28
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -961,7 +962,7 @@ _[Sent at 08:50 PM]_
 ### Log Content
 ![jos0901.png](./attachments/jos0901.png)
 
-*\[Crowd screams and applauds\]*
+_\[Crowd screams and applauds\]_
 
 **Cherry**<br>
 That was《CREDENCE》! Thank you, everybody!
@@ -987,12 +988,12 @@ Why are you stammering! Stopping faking it! Your acting sucks!
 **JOE**<br>
 OWWW!
 
-*\[Crowd laughs\]*
+_\[Crowd laughs\]_
 
 **JOE**<br>
 We agreed on not to hit the hair! Alright, hello guys! I'm Crystal PuNK's bassist JOE!
 
-*\[Crowd screams\]*
+_\[Crowd screams\]_
 
 **JOE**<br>
 Those who have followed us must know this. WHO AM I??
@@ -1006,7 +1007,7 @@ Good, very good! Everyone's being nice today! To be fair, my BASS was taught by 
 **Xenon**<br>
 Hey, time is running out.
 
-*\[Crowd screams\]*
+_\[Crowd screams\]_
 
 **JOE**<br>
 Wait, what are you guys screaming for? Damn you Xenon, you and your good looks...
@@ -1029,13 +1030,13 @@ What's the matter?
 **JOE**<br>
 Umm, nothing... I hope everyone likes it!
 
-*\[Crowd screams and applauds\]*
+_\[Crowd screams and applauds\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos010"/>\[#010\] Cam\_Velvet\_693\_08\_28
+## <a id="jos010"></a>\[#010\] Cam\_Velvet\_693\_08\_28
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1118,7 +1119,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos011"/>\[#011\] Image\_Hotpot\_693\_09\_01
+## <a id="jos011"></a>\[#011\] Image\_Hotpot\_693\_09\_01
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1137,7 +1138,7 @@ Location: Node 08 \- Hot Pot Restaurant
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos012"/>\[#012\] Audio\_Cafe\_694\_04\_27
+## <a id="jos012"></a>\[#012\] Audio\_Cafe\_694\_04\_27
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1168,7 +1169,7 @@ Nothing. Everything went very smoothly.
 **Angus**<br>
 Open it. I want to check.
 
-*\[Back door opens\]*
+_\[Back door opens\]_
 
 **Hunter**<br>
 ......
@@ -1188,7 +1189,7 @@ Umm... the buyer specifically told us that we are not allowed to look inside bef
 **Angus**<br>
 I said open the damn crate! I'm going to check what's inside. If you let me repeat one more time, I'll use your ear as an ashtray.
 
-*\[Unlocks crate\]*
+_\[Unlocks crate\]_
 
 **Angus**<br>
 ... Hey, what the heck is this all about?
@@ -1209,7 +1210,7 @@ You can close it now.
 **Hunter**<br>
 Ummm... O, okay.
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Hunter**<br>
 Blargh! Ughhhh...
@@ -1220,7 +1221,7 @@ HOLY!
 **Angus**<br>
 ......
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Hunter**<br>
 Awk! Capo, I'm sorry...
@@ -1228,7 +1229,7 @@ Awk! Capo, I'm sorry...
 **Angus**<br>
 Hmm? Why are you apologizing?
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Hunter**<br>
 I damaged the cargo! I damaged the cargo!
@@ -1236,7 +1237,7 @@ I damaged the cargo! I damaged the cargo!
 **Angus**<br>
 Hmm? Didn't you say that it was not damaged? I also think it just got a little bit of smudge on it, just like your f\*\*\*\*\* face!
 
-*\[Punch\]*
+_\[Punch\]_
 
 **JOE**<br>
 Hey! Are you trying to beat him to death?
@@ -1273,7 +1274,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos013"/>\[#013\] Cam\_Base\_694\_04\_27
+## <a id="jos013"></a>\[#013\] Cam\_Base\_694\_04\_27
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1285,7 +1286,7 @@ _\[Signal Lost\]_
 |**Open the Game**| JOE |Hard | 6 |
 
 ### Log Content
-*\[Puts down crate\]*
+_\[Puts down crate\]_
 
 **JOE**<br>
 Dang, this crate is heavy as s\*\*\*... what the hell is in it?
@@ -1304,7 +1305,7 @@ _\[»»» Fast Forward »»»\]_
 **JOE**<br>
 Good, the outside is now squeaky clean. Next, the cargo inside...
 
-*\[Unlocks crate\]*
+_\[Unlocks crate\]_
 
 **JOE**<br>
 Jesus f\*\*\*\*\* Christ!!!
@@ -1350,7 +1351,7 @@ What did you say?
 **JOE**<br>
 She fainted...
 
-*\[Door opens\]*
+_\[Door opens\]_
 
 **Hunter**<br>
 You done? The buyer is almost here.
@@ -1382,7 +1383,7 @@ Do you realize what you are talking about right now?
 **JOE**<br>
 Let her go. I'll take the responsibility.
 
-*\[Punch\]*
+_\[Punch\]_
 
 **JOE**<br>
 ARGH!
@@ -1398,7 +1399,7 @@ Listen, s\*\*\*head, this is a very important transaction for us. Stop causing u
 **JOE**<br>
 I had no idea that you guys are doing human trafficking! If pops knew about this kind of private business...
 
-*\[Punch\]*
+_\[Punch\]_
 
 **JOE**<br>
 UGHHH!
@@ -1406,7 +1407,7 @@ UGHHH!
 **Hunter**<br>
 Pops this, pops that... shut it, you damn p\*\*\*\*! That stinkin old man, always spewing about that "balance" stuff. Do you have any idea how much crap we Baro crew members had to deal with these days because of that?
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Hunter**<br>
 Hello? Yes, the cargo is cleaned, no problem at all... Yes, of course... understood!
@@ -1421,7 +1422,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos014"/>\[#014\] Audio\_37St\_696\_07\_05
+## <a id="jos014"></a>\[#014\] Audio\_37St\_696\_07\_05
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1573,14 +1574,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos015"/>\[#015\] Audio\_Base\_696\_07\_13
+## <a id="jos015"></a>\[#015\] Audio\_Base\_696\_07\_13
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|12 |    No     |
 
 ### Log Content
-*\[Puts down box\]*
+_\[Puts down box\]_
 
 **Saxon**<br>
 Last one, all done.
@@ -1642,7 +1643,7 @@ No... something slower.
 **Saxon**<br>
 ... Then how about this one?
 
-*\[Music\]*
+_\[Music\]_
 
 **JOE**<br>
 ... Ah...
@@ -1668,7 +1669,7 @@ Arf Arf!
 **JOE**<br>
 Yeah...
 
-*\[Cheers\]*
+_\[Cheers\]_
 
 **JOE**<br>
 _\*Gulp!\* \*Sniff\* \*Sobs\*_......
@@ -1698,7 +1699,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos016"/>\[#016\] Cam\_Hospital04\_697\_04\_14
+## <a id="jos016"></a>\[#016\] Cam\_Hospital04\_697\_04\_14
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1847,7 +1848,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos017"/>\[#017\] Image\_Graveyard\_697\_04\_16
+## <a id="jos017"></a>\[#017\] Image\_Graveyard\_697\_04\_16
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1861,7 +1862,7 @@ Location: Node 08 \- Cemetery
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos018"/>\[#018\] Audio\_Cafe\_697\_06\_07
+## <a id="jos018"></a>\[#018\] Audio\_Cafe\_697\_06\_07
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1964,7 +1965,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos019"/>\[#019\] Log\_System\_697\_08\_12
+## <a id="jos019"></a>\[#019\] Log\_System\_697\_08\_12
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1996,14 +1997,14 @@ Registered save time: 697\_0812\_0236
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos020"/>\[#020\] Audio\_Cafe\_697\_08\_19
+## <a id="jos020"></a>\[#020\] Audio\_Cafe\_697\_08\_19
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|17 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Wang**<br>
 JOE!
@@ -2070,7 +2071,7 @@ S\*\*\*head, Martini, three olives.
 **JOE**<br>
 ......
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Diego**<br>
 ... The Martini is my order. <br>
@@ -2085,7 +2086,7 @@ You guys heard it. The "grown\-ups" are going to talk business. We "kids" better
 **JOE**<br>
 I don't know anything!
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 You know about the Martini rule. You're...
@@ -2116,7 +2117,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos021"/>\[#021\] Cam\_Cafe\_697\_08\_19
+## <a id="jos021"></a>\[#021\] Cam\_Cafe\_697\_08\_19
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2253,7 +2254,7 @@ To celebrate our future partnership, a toast?
 **Diego**<br>
 Of course! I'm beginning to like you even more, boy!
 
-*\[Cheers\]*
+_\[Cheers\]_
 
 **Zark**<br>
 ......
@@ -2265,7 +2266,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos022"/>\[#022\] Call\_Fang\_698\_02\_12
+## <a id="jos022"></a>\[#022\] Call\_Fang\_698\_02\_12
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2365,7 +2366,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos023"/>\[#023\] Cam\_Cafe\_698\_09\_09
+## <a id="jos023"></a>\[#023\] Cam\_Cafe\_698\_09\_09
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2378,7 +2379,7 @@ _\[Call Ends\]_
 |**Take me to the Future**| JOE |Hard | 7 |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Zark**<br>
 Arf arf! Arf!
@@ -2407,7 +2408,7 @@ JOE!?
 **JOE**<br>
 Huh? Do we know each other?
 
-*\[Removes Helmet\]*
+_\[Removes Helmet\]_
 
 **Xenon**<br>
 Do you know now?
@@ -2514,7 +2515,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos024"/>\[#024\] Call\_Diego\_701\_06\_25
+## <a id="jos024"></a>\[#024\] Call\_Diego\_701\_06\_25
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2651,7 +2652,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos025"/>\[#025\] Mail\_Diego\_701\_06\_25
+## <a id="jos025"></a>\[#025\] Mail\_Diego\_701\_06\_25
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2666,7 +2667,8 @@ _\[Call Ends\]_
 **Subj.**: Untitled<br>
 **From**: D<br>
 **To**: H.H.
-___
+
+
 
 Cafe's stance has shaken. Talk with him during the puppet deal. Make him behave.
 
@@ -2674,7 +2676,7 @@ D.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos026"/>\[#026\] Cam\_Cafe\_701\_06\_28
+## <a id="jos026"></a>\[#026\] Cam\_Cafe\_701\_06\_28
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2694,7 +2696,7 @@ The cargo is here. Come help.
 **JOE**<br>
 ... Ok.
 
-*\[Truck backdoor opens\]*
+_\[Truck backdoor opens\]_
 
 **Little Girl**<br>
 Hmmmm! Mmm!
@@ -2731,7 +2733,7 @@ Are you ok? I'll untie the ropes now!
 **Little Girl**<br>
 HmmmMNN!!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **JOE**<br>
 ARGH!
@@ -2772,7 +2774,7 @@ Yikes! You stupid dog! F\*\*\* off!
 **JOE**<br>
 Zark!! No...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Zark**<br>
 Arooo\~...
@@ -2833,7 +2835,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos027"/>\[#027\] Image\_Zark\_700\_02\_20
+## <a id="jos027"></a>\[#027\] Image\_Zark\_700\_02\_20
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2847,14 +2849,14 @@ Location: JOEZ Cafe
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos028"/>\[#028\] Cam\_Cafe\_702\_10\_01
+## <a id="jos028"></a>\[#028\] Cam\_Cafe\_702\_10\_01
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|24 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hello, sit anywhere you like.
@@ -2955,7 +2957,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos029"/>\[#029\] Cam\_DragonSt\_693\_06\_03
+## <a id="jos029"></a>\[#029\] Cam\_DragonSt\_693\_06\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2976,7 +2978,7 @@ Location: Node 03 \- Wolong St.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos030"/>\[#030\] Cam\_Cafe\_702\_08\_18
+## <a id="jos030"></a>\[#030\] Cam\_Cafe\_702\_08\_18
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3001,7 +3003,7 @@ Damn you little nerd, all that "I don't drink" crap... Turns out you're a bigger
 **Xenon**<br>
 I'm at my limit too. Stop pouring drinks.
 
-*\[Knocks over glass\]*
+_\[Knocks over glass\]_
 
 **Xenon**<br>
 Hey, you can't even hold your glass properly. Take a break.
@@ -3069,7 +3071,7 @@ BLARGH! Cough! Cough cough...
 **Xenon**<br>
 ... Sigh, whatever. You get some rest. I'll take my leave.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 The devil...
@@ -3083,13 +3085,13 @@ The devil... will never be satisfied with just one finger. Once you fall into it
 **Xenon**<br>
 ... Even if that's the case, I will still be on your side.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos031"/>\[#031\] Audio\_Graveyard\_702\_09\_29
+## <a id="jos031"></a>\[#031\] Audio\_Graveyard\_702\_09\_29
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3196,7 +3198,7 @@ What I'm about to tell you next has something to do with that conversation.
 JOE, I said before, that no matter what happens, I will still be on your side.<br>
 This time, I will no longer be hesitant.
 
-*\[Puts down metal can\]*
+_\[Puts down metal can\]_
 
 **Xenon**<br>
 ... What is that?
@@ -3249,14 +3251,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos032"/>\[#032\] Audio\_Base\_702\_09\_30
+## <a id="jos032"></a>\[#032\] Audio\_Base\_702\_09\_30
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|27 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 What is this place?
@@ -3299,12 +3301,12 @@ After hearing all that... you find me despicable as well, don't you...?
 **JOE**<br>
 Haha... As expected... I don't mind that either. I realized that a long time ago, and I've already prepared myself to live the rest of my life shouldering all the guilt...
 
-*\[Punch\]*
+_\[Punch\]_
 
 **JOE**<br>
 Ugh!
 
-*\[Consecutive Punches\]*
+_\[Consecutive Punches\]_
 
 **JOE**<br>
 Arghhhh!!
@@ -3367,7 +3369,7 @@ No, I am truly grateful to you... I've been under this immense pressure for such
 **Xenon**<br>
 ......
 
-*\[Punch\]*
+_\[Punch\]_
 
 **JOE**<br>
 Oof!
@@ -3403,7 +3405,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos033"/>\[#033\] Audio\_Cafe\_702\_10\_19
+## <a id="jos033"></a>\[#033\] Audio\_Cafe\_702\_10\_19
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3416,9 +3418,9 @@ _...after six months of investigation, the special ops team of Node 08's law enf
 **JOE**<br>
 Ha... The case is solved... Nice one, Simon!
 
-*\[Turns off TV\]*
+_\[Turns off TV\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hello, handsome; we're already closed for the day...<br>
@@ -3448,7 +3450,7 @@ Give me a Tequila.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Glass slides\]*
+_\[Glass slides\]_
 
 **Diego**<br>
 I haven't talked to you about this, haven't I? I was born in Node 07. There, this type of liquor is a local specialty. I've developed a liking for it since I was eight and that liking has remained to this day.
@@ -3488,7 +3490,7 @@ I'll let you handle it. The reward will be included in the next Martini.
 **JOE**<br>
 ......OK.
 
-*\[Drinks\]*
+_\[Drinks\]_
 
 **Diego**<br>
 I mentioned just now that I'm a nostalgic person. Seeing the explosion incident brings back memory of an old friend who used to be there.<br>
@@ -3512,7 +3514,7 @@ I'm done with my drink. I shall take my leave.
 **JOE**<br>
 Walk yourself out.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Diego**<br>
 ... Right, one more thing.<br>
@@ -3553,7 +3555,7 @@ The method I used back then... is also why I'm paying so much attention to the 0
 All things consider, I hope that the next time we meet, I'll still be drinking Tequila instead of being here for something else.<br>
 Adios...
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 ... Hah\~...
@@ -3565,7 +3567,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos034"/>\[#034\] cyTus\_Server03\_702\_11\_03
+## <a id="jos034"></a>\[#034\] cyTus\_Server03\_702\_11\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3618,12 +3620,12 @@ Oh, or are you the one who's most aware of this?_
 **[Rald]**<br>
 _Whatever. I've already sent the information the seller requested to you. The handling fees are transferred to your account as well. You take a look. This dark web travels a long way to the server at Node 03. The signal is so pathetic that every time I use it, I'm worried about an error occurring._
 
-*\[File transfer\]*
+_\[File transfer\]_
 
 **JOE**<br>
 Everything is fine. I will now send you the info you requested.
 
-*\[File transfer\]*
+_\[File transfer\]_
 
 **[Rald]**<br>
 _Got it. Let me take a look... perfect. Even has footage of that guy's arrest. <br>
@@ -3666,7 +3668,7 @@ When it comes to these sort of things, the admins are even more brutal than the 
 _... Despite that, you seem to firmly believe that "Simon Jackson = Æsir " is a lie.<br>
 If so, accept this! You will have a use for it._
 
-*\[File transfer\]*
+_\[File transfer\]_
 
 **JOE**<br>
 What the hell... An encrypted file...
@@ -3692,7 +3694,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos035"/>\[#035\] cyTus\_Server03\_702\_11\_06
+## <a id="jos035"></a>\[#035\] cyTus\_Server03\_702\_11\_06
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3788,14 +3790,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos036"/>\[#036\] Cam\_CArea\_702\_11\_08
+## <a id="jos036"></a>\[#036\] Cam\_CArea\_702\_11\_08
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|31 |    No     |
 
 ### Log Content
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Cherry**<br>
 ... There is actually no one guarding the main gates. Nice job.
@@ -3852,7 +3854,7 @@ Stop whining. Go, now.
 **Cherry**<br>
 ……！
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Agent A**<br>
 WHO'S THERE!?
@@ -3911,20 +3913,20 @@ _\[→Signal Switch\]_
 Is he going to be alright...?<br>
 Sorry... Leave Simon up to me.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos037"/>\[#037\] Audio\_St91\_702\_11\_10
+## <a id="jos037"></a>\[#037\] Audio\_St91\_702\_11\_10
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|32 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Hunter**<br>
 You f\*\*\*ing piece of s\*\*\* machine! The cards you dealt me were totally rigged! You really think I can't tell such clear bulls\*\*\*!?
@@ -3936,7 +3938,7 @@ If your numbers exceed the standard, this unit will activate "cleanup mode" and 
 **Hunter**<br>
 Tch... I'm not coming to this goddamn place again!
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Hunter**<br>
 F\*\*\* this...
@@ -3959,7 +3961,7 @@ Find me for what! You wanna taste my fist that badly?
 **Hunter**<br>
 Hmph... bug off!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **JOE**<br>
 You're leaving? What a shame. I was gonna talk to you about a transaction... Too bad that you don't seem to be interested in some quick cash.
@@ -4006,7 +4008,7 @@ The f\*\*\* you talking about, of course I'm accepting it!
 **JOE**<br>
 Good. Then I'll be frank with you. The "automaton" is this guy.
 
-*\[Send\]*
+_\[Send\]_
 
 **Hunter**<br>
 ...... Simon Jackson!?
@@ -4041,7 +4043,7 @@ As long as you accept this case, Simon Jackson will no longer mess with Baro's b
 **Hunter**<br>
 Hmph, fine. We'll go with your plan... However!
 
-*\[Hit\]*
+_\[Hit\]_
 
 **JOE**<br>
 Yikes! What the hell are you...
@@ -4061,7 +4063,7 @@ A... alright, 70\-30 it is! You get 70%. I get 30%!
 **Hunter**<br>
 Hmph, smart move for you. Now p\*\*\* off, loser!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **JOE**<br>
 Whew\~ Sighs... ha, haha, hahaha!
@@ -4073,19 +4075,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos038"/>\[#038\] Audio\_Cafe\_702\_11\_17
+## <a id="jos038"></a>\[#038\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|33 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **JOE**<br>
 ......?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Woah!? PAFF? Are you alright!? Why did you run upstairs?
@@ -4102,7 +4104,7 @@ Aroma\-chan! Your nose is bleeding!
 **NEKO#ΦωΦ**<br>
 Ah! It's the same as last time. Could it be that you remembered something again?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Hey! Where are you going? You can barely stand. Take a seat and catch your breath first, okay?
@@ -4125,7 +4127,7 @@ I don't know...
 **JOE**<br>
 ... Kaori...?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Hey!? You shouldn't be moving around...
@@ -4142,16 +4144,16 @@ Hayato!
 **JOE**<br>
 ......!!
 
-*\[Runs\]*
+_\[Runs\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **NEKO#ΦωΦ**<br>
 Aroma\-chan! Where are you going!? Wait for me!
 
-*\[Runs\]*
+_\[Runs\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hey! NEKO!
@@ -4161,7 +4163,7 @@ _\[»»» Fast Forward»»»\]_
 **JOE**<br>
 That's... how is that... that can't be right...
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 NEKO!? How did it go? Where's PAFF?
@@ -4200,12 +4202,12 @@ Only the address of the company...
 **NEKO#ΦωΦ**<br>
 NEKO's gonna go there right now!
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hey!
 
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **JOE**<br>
 What the hell? Who would call at this time...<br>
@@ -4221,14 +4223,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos039"/>\[#039\] Audio\_Cafe\_702\_11\_17
+## <a id="jos039"></a>\[#039\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|33 |    No     |
 
 ### Log Content
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **JOE**<br>
 What the hell? Who would call at this time...<br>
@@ -4312,14 +4314,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos040"/>\[#040\] Audio\_Baro\_702\_12\_21\_1
+## <a id="jos040"></a>\[#040\] Audio\_Baro\_702\_12\_21\_1
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|34 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Hunter**<br>
 What the f\*\*\* are you arguing about!?
@@ -4382,7 +4384,7 @@ We were able to make it work 20 years ago. Right now, we're merely starting over
 **Zheng**<br>
 Fang... you've been in the gangs since you were a child. I understand how you feel... You entered Baro to protect yourself, but you don't entirely agree with Diego's methods. We don't even need to mention this dumb mutt, obviously...
 
-*\[Fists Flying\]*
+_\[Fists Flying\]_
 
 **Zheng**<br>
 Oof!
@@ -4423,7 +4425,7 @@ _\*spit\*_...! So what? What the hell is there to discuss with the boss of a has
 **Fang**<br>
 ……
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **???**<br>
 Yo, can I come inside?
@@ -4440,7 +4442,7 @@ Oh, so I made it in time? Wonderful.
 **Hunter**<br>
 Wha the hell's going on outside!?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **JOE**<br>
 Long time no see, guys. Ooh, everyone's here.<br>
@@ -4456,7 +4458,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="jos041"/>\[#041\] Audio\_Baro\_702\_12\_21\_2
+## <a id="jos041"></a>\[#041\] Audio\_Baro\_702\_12\_21\_2
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -4502,7 +4504,7 @@ JOE, you came all the way here for a purpose, right? Why don't you just tell us 
 **JOE**<br>
 ... First, take a look at this.
 
-*\[Projection\]*
+_\[Projection\]_
 
 **Fang**<br>
 Bank account information... Hmm!? That much...?
@@ -4577,7 +4579,7 @@ Brother Zheng, Brother Feng, and all who are here. I, Joe Miller, swear upon Pop
 **Hunter**<br>
 F\*\*\* you!!!
 
-*\[Fists Flying\]*
+_\[Fists Flying\]_
 
 **Hunter**<br>
 You half\-crocked piece of s\*\*\*! Sweet words, but you ain't doing s\*\*\*. You're just trying to use this chance to steal my business!
@@ -4588,7 +4590,7 @@ This money was earned by everyone in the gang. It's not yours, Mad Dog! I'm abso
 **Hunter**<br>
 Back off my a\*\*\*! Eat my fist!
 
-*\[Blocks\]*
+_\[Blocks\]_
 
 **JOE**<br>
 ……
@@ -4599,17 +4601,17 @@ Back off my a\*\*\*! Eat my fist!
 **JOE**<br>
 HMPH!
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Hunter**<br>
 GaPuh!!!!
 
-*\[Objects Crashing\]*
+_\[Objects Crashing\]_
 
 **JOE**<br>
 This punch is for Zark and that girl!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Fang**<br>
 ... Nice.<br>
@@ -4622,6 +4624,170 @@ However, the purer the idea, the harder it is to implement. I hope you can walk 
 **JOE**<br>
 Don't worry, I won't screw up this time...<br>
 Let me handle it.
+
+_\[Signal Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="jos042"></a>\[#042\] Audio\_Factory\_702\_12\_28
+### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**|35 |    No     |
+
+### Log Content
+_\[Hurried Footsteps\]_
+
+**Gang Member A**<br>
+Huff, puff... Finally got it on the car.
+
+**Hunter**<br>
+S\*\*\*! You little... You let them take a picture of my face!
+
+**Gang Member B**<br>
+You're the one who fell and activated the surveillance equipment...
+
+**Hunter**<br>
+Cut the crap!
+
+**Gang Member A**<br>
+As it stands, all we can do is take the passage to the storage space in 03. We loot the place and get the chips. Mogura will have a buyer, no doubt...
+
+**Hunter**<br>
+Hmph, that's been my plan all along! Let's go...
+
+**Lai**<br>
+Don't move! Everyone put your hands up!
+
+_\[Raises Gun\]_
+
+**Hunter**<br>
+!? ... You? Why are you here!?
+
+**Zheng**<br>
+You think scheming s\*\*\* like this wouldn't be found out? Bit naive, wouldn't you say? JOE, tell 'em what's up.
+
+**JOE**<br>
+... For this robbery, you bought plastic explosives and a full lockpick kit from a middle\-man. Am I right?
+
+**Hunter**<br>
+Y\-You, h\-h\-how'd you...
+
+**JOE**<br>
+What a shame, everyone on the streets knows you've been banished. The broker notified me within five minutes of the deal. That's how I found out what you were up to.
+
+**Hunter**<br>
+... Oh...
+
+**JOE**<br>
+Mad Dog... we're getting ready to change how people look at us. If you do something like this and the gangs lose any sense of morality...
+
+**Zheng**<br>
+Well put. Even Diego knew the importance of keeping 08 the strongest... Only then could we contend with 03; wouldn't have to remain their b\*\*\*\* forever. Why'd you think he never went after this factory?
+
+**Hunter**<br>
+I\-I...
+
+**Zheng**<br>
+Of course you didn't know. You're a friggin' imbecile.<br>
+You see something enticing and you start drooling. You get some cash, a bit of power, and you get so self\-satisfied... Just a stupid, near\-sighted dog.
+
+**Hunter**<br>
+...... SHUT UP!!
+
+**Zheng**<br>
+I don't wanna waste my breath.<br>
+Give up on the chips and go with us.
+
+**Lai**<br>
+Move it! Wanna eat bullets!?
+
+**Gang Member A, B**<br>
+O\-Okay!
+
+**Hunter**<br>
+Ugh... You...!
+
+**JOE**<br>
+Forget it, Mad Dog! Ya failed! Give it up and we won't go hard on you!
+
+**Hunter**<br>
+Failed... Me? Hahaha! You s\*\*\*head, who do you think you are? Think you can just step on me and climb to the top! I'll tell you, you got some imagination! I'm...
+
+**Zheng**<br>
+... Don't worry about him, Lai.<br>
+Give the chips back.
+
+**Hunter**<br>
+... Haha! You made me do this!!
+
+_\[Explosion\]_
+
+**Lai**<br>
+Wah! This bastard... he's crazy!
+
+**Hunter**<br>
+Ha, haha. Real arrogant, ya know! You pieces of trash...
+
+**JOE**<br>
+Hey, what the hell you doing! You set yourself on fire!
+
+**Hunter**<br>
+Wah, Wahhh!? WAAAHHH!!!<br>
+My hair! It's hot, so hot, AAAAAAHH!!
+
+_\[Sprints\]_
+
+**Hunter**<br>
+Waaaahhhh......
+
+**Lai**<br>
+Don't think about runnin'! Get 'em!
+
+**JOE**<br>
+... Wait a sec, Lai. Forget it... The chips are fine. Let him go!
+
+**Lai**<br>
+Forget what? That rotten bastard. I'm gonna peel his skin...
+
+**JOE**<br>
+That guy... He can't do anything. Doesn't matter where he goes, no one is gonna take him in. If Pops was here, he'd feel sorry for him...
+
+**Lai**<br>
+......
+
+**Zheng**<br>
+Hmph, alright, that's enough.<br>
+Law enforcement agents will be here soon. We've got other stuff to do. Can't be bothered having to deal with them.
+
+**Lai**<br>
+You got it, brother Zheng. Should we put the chips back?
+
+**Zheng**<br>
+Nah, let's take them back and watch after them for now.<br>
+JOE, you must be able to get in contact with the Administration Bureau, right? First, let 'em know what's going on. After we're sure we won't get wrapped up in this, then we'll give 'em back the goods.
+
+**JOE**<br>
+... Got it.
+
+_\[Footsteps\]_
+
+**Zheng**<br>
+Ain't no perfect endings in this world, just regrets. Get it? That's life, kid.
+
+**JOE**<br>
+Yeah, yeah. I get it... damn.
+
+**Zheng**<br>
+Hehe... The person that taught me that, even though he knew that life was cruel, he never gave up on his ideals. That kind of commitment really moved us. That's the reason we could last in this city. <br>
+... Haha, his cocktails were really something.
+
+**JOE**<br>
+... Pops...
+
+**Zheng**<br>
+Now it's your turn. It's not too late.<br>
+Do it well. I'm looking forward to it... The time has come for you to be called Uncle.
 
 _\[Signal Lost\]_
 

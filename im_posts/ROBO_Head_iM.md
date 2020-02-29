@@ -1,5 +1,5 @@
 # ROBO_Head iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] cyTus annual traffic report](#r0101)
 - [\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence](#r0201)
 - [\[#003\] \[Announcement\] ROBO\_Radio standing by](#r0301)
@@ -44,7 +44,7 @@
 - [\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested](#r4201)
 - [\[#043\] Paranormal: Bug collection](#r4301)
 
-## <a id="r0101"/>\[#001\] cyTus annual traffic report
+## <a id="r0101"></a>\[#001\] cyTus annual traffic report
 ### Unlocked Charts
 |     Song      |  Char.  |Diff.|Lv.|
 |---------------|:-------:|:---:|:-:|
@@ -97,7 +97,7 @@ FML
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0201"/>\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
+## <a id="r0201"></a>\[#002\] \[Repost\] A.R.C dinner party announcement: Major breakthrough in Artificial Intelligence
 ### Unlocked Charts
 |        Song        |  Char.  |Diff.|Lv.|
 |--------------------|:-------:|:---:|:-:|
@@ -167,7 +167,7 @@ All this talk is making me believe that A.R.C. is some kind of real\-life god
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0301"/>\[#003\] \[Announcement\] ROBO\_Radio standing by
+## <a id="r0301"></a>\[#003\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -229,7 +229,7 @@ It's QQueen actually \*head scratch\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0401"/>\[#004\] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
+## <a id="r0401"></a>\[#004\] \[Repost\] A.R.C press conference: AI research will prioritize emotional communication
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -282,7 +282,7 @@ All hail Sensei!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0501"/>\[#005\] \[Share\] The reason why cyTus server is placed in the skies
+## <a id="r0501"></a>\[#005\] \[Share\] The reason why cyTus server is placed in the skies
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -366,7 +366,7 @@ A world with no internet might as well be dead
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0601"/>\[#006\] \[Share\] The purpose behind the establishment of A.R.C
+## <a id="r0601"></a>\[#006\] \[Share\] The purpose behind the establishment of A.R.C
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -417,7 +417,7 @@ So no comment on everything else besides technology... LOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0701"/>\[#007\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="r0701"></a>\[#007\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -483,7 +483,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0801"/>\[#008\] \[Announcement\] ROBO\_Radio standing by
+## <a id="r0801"></a>\[#008\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -496,7 +496,7 @@ Best wishes for PAFF, hope she is not frightened >"<
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r0901"/>\[#009\] \[Announcement\] Article removed for unknown reason
+## <a id="r0901"></a>\[#009\] \[Announcement\] Article removed for unknown reason
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -566,7 +566,7 @@ So is Æsir\-FEST a real thing or not...I mean even those connected told complet
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1001"/>\[#010\] \[Respond\] Æsir event
+## <a id="r1001"></a>\[#010\] \[Respond\] Æsir event
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -616,7 +616,7 @@ I hate when files get corrupted @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1101"/>\[#011\] \[Record\] Æsir\-FEST remaining files
+## <a id="r1101"></a>\[#011\] \[Record\] Æsir\-FEST remaining files
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -678,7 +678,7 @@ I think Robo\_head scans the tag before deciding whether or not to reply
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1201"/>\[#012\] \[Share\] The security of the cyTus server
+## <a id="r1201"></a>\[#012\] \[Share\] The security of the cyTus server
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -739,7 +739,7 @@ So there are still human failures, why not make it fully automatic?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1301"/>\[#013\] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
+## <a id="r1301"></a>\[#013\] \[Repost\] NEKO\#ΦωΦ streaming time \-「SAW of EDEN(SOE)」
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -794,7 +794,7 @@ You CANT tell them to change it back into a card game  lololol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1401"/>\[#014\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="r1401"></a>\[#014\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -845,7 +845,7 @@ I think this project is very interesting, been following since the news came out
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1501"/>\[#015\] Æsir\-FEST memory block corrupted 
+## <a id="r1501"></a>\[#015\] Æsir\-FEST memory block corrupted 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -868,7 +868,7 @@ Decision: Launch recovery...initializing...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1601"/>\[#016\] \[Announcement\] ROBO\_Radio standing by
+## <a id="r1601"></a>\[#016\] \[Announcement\] ROBO\_Radio standing by
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -916,7 +916,7 @@ We're getting off topic lol, ROBO\_Radio for life!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1701"/>\[#017\] \[Repost\] Dr. ConneR will share progress of AI research on the web
+## <a id="r1701"></a>\[#017\] \[Repost\] Dr. ConneR will share progress of AI research on the web
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -958,7 +958,7 @@ you got something?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1801"/>\[#018\] \[Repost\] Concert accident? Singer collapsed on stage
+## <a id="r1801"></a>\[#018\] \[Repost\] Concert accident? Singer collapsed on stage
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1037,7 +1037,7 @@ Get well soon!!!!<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r1901"/>\[#019\] Æsir\-FEST corrupted data recovery progress......15% 
+## <a id="r1901"></a>\[#019\] Æsir\-FEST corrupted data recovery progress......15% 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1089,7 +1089,7 @@ Still can't figure out why it's corrupted??
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2001"/>\[#020\] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
+## <a id="r2001"></a>\[#020\] \[Repost\] Illegal prosthetics once again an issue. Lack of regulation leads to consumer doubt 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1155,7 +1155,7 @@ Well that's two more workers screwed XDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2101"/>\[#021\] \[Share\] What extremely long connection times does to the brain
+## <a id="r2101"></a>\[#021\] \[Share\] What extremely long connection times does to the brain
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1187,7 +1187,7 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2201"/>\[#022\] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
+## <a id="r2201"></a>\[#022\] \[Repost\] Famous streamer NEKO and nearly 80,000 viewers attacked by malicious connection
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1269,7 +1269,7 @@ Take care my man, use proxy connection it's less stressful for the brain
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2301"/>\[#023\] Æsir\-FEST corrupted data recovery progress......80% 
+## <a id="r2301"></a>\[#023\] Æsir\-FEST corrupted data recovery progress......80% 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1330,7 +1330,7 @@ THE TRUTH! \*claps\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2401"/>\[#024\] Æsir\-FEST corrupted data recovery progress......100% 
+## <a id="r2401"></a>\[#024\] Æsir\-FEST corrupted data recovery progress......100% 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1413,7 +1413,7 @@ What if Æsir is the perpetrator himself...\*runs away\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2501"/>\[#025\] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
+## <a id="r2501"></a>\[#025\] \[Repost\] An urban legend nightmare comes true: memory lost for millions, main culprit still nowhere to be seen
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1512,7 +1512,7 @@ Dude she is already super famous. Didn't you see how many people were connected 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2601"/>\[#026\] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
+## <a id="r2601"></a>\[#026\] \[Repost\] Another incident of unmanned drones assaulting innocent civilians by accident. Civilians outraged toward administration bureau
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1578,7 +1578,7 @@ Why did the admins allow these killing machines to run around freely???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2701"/>\[#027\] Æsir event internet search results
+## <a id="r2701"></a>\[#027\] Æsir event internet search results
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1691,7 +1691,7 @@ But I feel like NEKO was probably framed!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2801"/>\[#028\] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
+## <a id="r2801"></a>\[#028\] \[Repost\] Key evidences provided to law enforcement department;famous streamer released after being acquitted of all charges
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1764,7 +1764,7 @@ Good thing that the innocent wasn't wrongly accused in the end \*prays\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r2901"/>\[#029\] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
+## <a id="r2901"></a>\[#029\] \[Repost\] Acquittal declared? Live coverage of famous streamer exiting the LED
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1841,7 +1841,7 @@ It's a dream so don't PM me
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3001"/>\[#030\] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
+## <a id="r3001"></a>\[#030\] \[Repost\] Administration Bureau takes action: purge operations overwhelming success.Ando Gang on verge of collapse
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1911,7 +1911,7 @@ Bye bye you POS (Hand Wave
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3101"/>\[#031\] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
+## <a id="r3101"></a>\[#031\] \[Excerpt\] Travel Guide to All Nodes: Node 03, Part.1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1991,7 +1991,7 @@ Wanted to visit, but terrified...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3201"/>\[#032\] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## <a id="r3201"></a>\[#032\] \[Repost\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2043,7 +2043,7 @@ Whatever let's blame Æsir for everything\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3301"/>\[#033\] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
+## <a id="r3301"></a>\[#033\] \[Repost\] Protest erupts in front of Monophonic Entertainment headquarters, Administration Bureau calls for fans to calm down.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2105,7 +2105,7 @@ Maybe ask your boss and see if you can leave early to avoid the mob???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3401"/>\[#034\] \[Repost\] Explaining the decision behind the contract termination of PAFF
+## <a id="r3401"></a>\[#034\] \[Repost\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2155,7 +2155,7 @@ God, all these recent incidents are so confusing. I don't what's real and what's
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3501"/>\[#035\] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
+## <a id="r3501"></a>\[#035\] \[Repost\] Riot broke out at Monophonic HQ again, Administration Bureau greenlit use of riot control methods
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2233,7 +2233,7 @@ S\*\*\* I got cramps on my sides for laughing too hard XDDDDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3601"/>\[#036\] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
+## <a id="r3601"></a>\[#036\] \[Repost\] Research regarding the recreated technology of drones and its subsequent application to society
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2292,7 +2292,7 @@ All set to write a research paper on drones\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3701"/>\[#037\] \[Repost\] Looking back at major riots in history
+## <a id="r3701"></a>\[#037\] \[Repost\] Looking back at major riots in history
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2352,7 +2352,7 @@ Very well. Then the first thing we should do is to make sure worthless garbage l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3801"/>\[#038\] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
+## <a id="r3801"></a>\[#038\] \[Announcement\] ROBO\_Radio\_LIVE event confirmation
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2421,7 +2421,7 @@ Bought ten tickets already! This performance is definitely what you call can't m
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r3901"/>\[#039\] ROBO\_Radio\_LIVE starts now!
+## <a id="r3901"></a>\[#039\] ROBO\_Radio\_LIVE starts now!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2516,7 +2516,7 @@ Don't be stupid, ghosts don't exist in the virtual space... Even if they do they
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4001"/>\[#040\] ROBO\_Radio\_LIVE statistics analysis
+## <a id="r4001"></a>\[#040\] ROBO\_Radio\_LIVE statistics analysis
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2592,7 +2592,7 @@ Hope that on the next ROBO\_Radio\_LIVE we can see PAFF return to the stage once
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4101"/>\[#041\] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
+## <a id="r4101"></a>\[#041\] \[Repost\] Major pipeline explosion in Node 03, emergency evacuation issued, millions affected.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2692,7 +2692,7 @@ Dude, don't jinx us LOLOLOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4201"/>\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
+## <a id="r4201"></a>\[#042\] \[Repost\] Law enforcement department blitz operation success, 40 human trafficking suspects arrested
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2760,7 +2760,7 @@ With somebody like Xenon at the helm are you really sure that's a wise decision?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="r4301"/>\[#043\] Paranormal: Bug collection
+## <a id="r4301"></a>\[#043\] Paranormal: Bug collection
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|

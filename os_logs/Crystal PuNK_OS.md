@@ -1,5 +1,5 @@
 # Crystal PuNK OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Audio\_Sewer\_702\_11\_18](#cpos001)
 - [\[#002\] Audio\_KaiStudio\_702\_11\_19](#cpos002)
 - [\[#003\] Cam\_KaiStudio\_702\_11\_19](#cpos003)
@@ -37,10 +37,11 @@
 - [\[#035\] Message\_JOE\_702\_12\_21](#cpos035)
 - [\[#036\] Audio\_KaiStudio\_702\_12\_24](#cpos036)
 - [\[#037\] Audio\_Trans\_03\_702\_12\_26](#cpos037)
+- [\[#038\] Audio\_ruins08\_702\_12\_26](#cpos038)
 
-## <a id="cpos001"/>\[#001\] Audio\_Sewer\_702\_11\_18
+## <a id="cpos001"></a>\[#001\] Audio\_Sewer\_702\_11\_18
 ### Log Content
-*\[Moves heavy stuff\]*
+_\[Moves heavy stuff\]_
 
 **KAI**<br>
 Here, gimme your hand.
@@ -165,7 +166,7 @@ Speaking of which, big sis, how are you gonna handle your business in 08? You kn
 **Cherry**<br>
 No worries. The next string of events is all done in the virtual internet. I can take care of them from here.
 
-*\[Drones flying\]*
+_\[Drones flying\]_
 
 **Cherry**<br>
 Look out! Patrol drones!
@@ -195,9 +196,9 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos002"/>\[#002\] Audio\_KaiStudio\_702\_11\_19
+## <a id="cpos002"></a>\[#002\] Audio\_KaiStudio\_702\_11\_19
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 Yikes, you weren't kidding about this place being dirty...
@@ -326,14 +327,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos003"/>\[#003\] Cam\_KaiStudio\_702\_11\_19
+## <a id="cpos003"></a>\[#003\] Cam\_KaiStudio\_702\_11\_19
 ### Log Content
 **[NEKO]**<br>
 _... You be careful yourself too. Bye\-bye._
 
 _\[Call Ends\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Cherry**<br>
 I was wondering where you went. Turns out you're reporting your safety to NEKO.
@@ -354,7 +355,7 @@ About PAFF... is everything alright?
 **Xenon**<br>
 I don't really understand the situation. If I wasn't in the state I am now, I could've helped... Nevertheless, let's leave it to NEKO for now. That brat has matured quite a bit too.
 
-*\[Lights cigarette\]*
+_\[Lights cigarette\]_
 
 **Cherry**<br>
 You got any more? Gimme one. I've finished mine.
@@ -362,7 +363,7 @@ You got any more? Gimme one. I've finished mine.
 **Xenon**<br>
 Here.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **KAI**<br>
 It's all squeaky clean now, captain.
@@ -397,7 +398,7 @@ Yeah. You can sleep first. Goodnight.
 **Cherry**<br>
 Goodnight.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **KAI**<br>
 ......<br>
@@ -430,7 +431,7 @@ Even now, I am still not entirely certain about what happened between you guys. 
 **Xenon**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **KAI**<br>
 Think about it yourself.
@@ -451,14 +452,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos004"/>\[#004\] Audio\_KaiStudio\_702\_11\_20
+## <a id="cpos004"></a>\[#004\] Audio\_KaiStudio\_702\_11\_20
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 2 |    No     |
 
 ### Log Content
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Cherry**<br>
 ... It's that guy.
@@ -487,7 +488,7 @@ You told me not to actively connect back to investigate the Æsir incident. That
 **[Rald]**<br>
 _No need to rush. I just arrived in Node 13 not too long ago. It's quite difficult to find a place with a powerful enough signal here. It's definitely a lot more difficult than walking into a bar and ordering pork knuckles with a light beer, that much I can say for sure._
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **Xenon**<br>
 ... And this is your investigation? Stop messing around. Now's not the time for you to be causally sightseeing.
@@ -498,7 +499,7 @@ _I'm kidding. I still have to eat. Can't do anything with an empty stomach, righ
 **Xenon**<br>
 ... I'm hanging up.
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **[Rald]**<br>
 _Haha, quite hot\-blooded, aren't you?<br>
@@ -575,7 +576,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos005"/>\[#005\] Cam\_KaiStudio\_702\_11\_21
+## <a id="cpos005"></a>\[#005\] Cam\_KaiStudio\_702\_11\_21
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -587,7 +588,7 @@ _\[Signal Lost\]_
 |**Sunshine Duration**|Crystal PuNK|Chaos|12 |
 
 ### Log Content
-*\[Browsing data\]*
+_\[Browsing data\]_
 
 **Xenon**<br>
 Morning.
@@ -605,7 +606,7 @@ I bought you guys some food. Here.
 Thanks.<br>
 What are you doing?
 
-*\[Browsing data\]*
+_\[Browsing data\]_
 
 **KAI**<br>
 Hmm? Nothing much. Just scrolling through some of the news I collected. People going missing is a pretty common occurrence in 03. I've long developed a habit of collecting information on these things. I helped out in some searches too. At the same time, I'm also checking to see if there are any investigations about you two. So far, things seem pretty safe.
@@ -664,7 +665,7 @@ Yeah. You're right.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Performance\]*
+_\[Performance\]_
 
 **KAI**<br>
 Stop stop STOP! JOE, what the f\*\*\* are you playing? You really haven't been practicing these years, haven't you?
@@ -675,7 +676,7 @@ _What the hell are you talking about? My performance was spot on, okay? It's a l
 **KAI**<br>
 Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we can talk.
 
-*\[Bass performance\]*
+_\[Bass performance\]_
 
 **KAI**<br>
 ......
@@ -683,7 +684,7 @@ Spot\-on my a\*\*, you s\*\*\*head. Play that previous part again and then we ca
 **[JOE]**<br>
 _Eh...? So I guess it really was me who messed up._
 
-*\[Throws drumstick\]*
+_\[Throws drumstick\]_
 
 **[JOE]**<br>
 _Muhaha, unfortunately for you, I'm a projection now! Your drumsticks are not very effective against me! Check out my Shadow C\*\*\*\* Technique! Muhahaha!_
@@ -717,7 +718,7 @@ If a particular someone doesn't keep messing up the root, I would agree.
 **[JOE]**<br>
 _Hey, the ones just now don't count. The BASS God of Quadrant III is about to get serious! One more time!_
 
-*\[Performance\]*
+_\[Performance\]_
 
 **Xenon**<br>
 You finally got it right...
@@ -744,7 +745,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos006"/>\[#006\] Audio\_KaiStudio\_702\_11\_22
+## <a id="cpos006"></a>\[#006\] Audio\_KaiStudio\_702\_11\_22
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -775,7 +776,7 @@ My mom... was a victim of a drone malfunction too...
 
 _\[→File Switches: Luis\_681\_01\_08\]_
 
-*\[Singing\]*
+_\[Singing\]_
 
 **Cherry**<br>
 It's so good\~ Mommy! Sing some more\~
@@ -818,7 +819,7 @@ Stop talking this nonsense... Ah, Luis, look at you. Your necktie is all messed 
 **Luis**<br>
 Oh, thank you, Carly. Then I'll be on my way. Love you.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Carly**<br>
 Hmph, what singer? You can't do anything without me around. Always saying such dumb things... hehehe.
@@ -849,7 +850,7 @@ _Haha, the strawberry cake from Giraffe House, is it? She'll be very happy when 
 **Carly**<br>
 Don't spill the beans when you pick her up though. I want to give her a surprise.
 
-*\[Commotion\]*
+_\[Commotion\]_
 
 **[Luis]**<br>
 _... What's the matter? What's that noise?_
@@ -866,7 +867,7 @@ Eh...? Are there criminals? How scary...
 **[Luis]**<br>
 _You should stay away..._
 
-*\[Drone flying\]*
+_\[Drone flying\]_
 
 **[Enforcer Drone]**<br>
 _You are causing... h\-hhhharm to ccivilians. P\-please... stop..._
@@ -880,7 +881,7 @@ Miss! Stay away from that drone! Get as far away as you can!
 **Agent A**<br>
 This is Squad 06 Law Enforcement agent Andrew Wood! A LE\-110 has been hit by a criminal and has malfunctioned. Request technician support to shut down its program!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Carly**<br>
 Eek!!
@@ -897,9 +898,9 @@ Miss! Please leave immediately!
 **Carly**<br>
 O... okay!
 
-*\[Running\]*
+_\[Running\]_
 
-*\[Fall down\]*
+_\[Fall down\]_
 
 **Carly**<br>
 Ah... the cake...
@@ -907,7 +908,7 @@ Ah... the cake...
 **[Enforcer Drone]**<br>
 _You are...... Stop...... Initiate Law Enforcement Procedure..._
 
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 **[Luis]**<br>
 _Carly！ ？ Carly！ ！ ！_
@@ -916,14 +917,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos007"/>\[#007\] Audio\_RuinZone\_702\_11\_25
+## <a id="cpos007"></a>\[#007\] Audio\_RuinZone\_702\_11\_25
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 5 |    No     |
 
 ### Log Content
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 **Cherry**<br>
 Any questions? This is more or less how it feels. Look, all within the center circle. Understood?
@@ -946,7 +947,7 @@ Rest assured. These are all rubber bullets. Their trajectory will be a little lo
 **Cherry**<br>
 Why would I want to molest a skinny boy like you? Now pull the trigger.
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Cherry**<br>
 ... Huh, turns out you're quite talented at this!
@@ -963,7 +964,7 @@ A match of what...? You want to start a gunfight here?
 **Cherry**<br>
 A target practice match, you dumba\*\*! Getting hit by these bullets still hurts like hell, you know?
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Xenon**<br>
 Speaking of which... you really used that guy's money to buy all this stuff.
@@ -977,7 +978,7 @@ Don't forget who's the one that saved you back in the underground tunnels.
 **Cherry**<br>
 If I have to rely on your slow as f\*\*\* GAMEBAI, I can have infinite lives and it still won't be enough.
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Xenon**<br>
 Judging from the number of bullseyes, my accuracy is a lot better than yours, isn't it? There's no point in practicing at all.
@@ -985,7 +986,7 @@ Judging from the number of bullseyes, my accuracy is a lot better than yours, is
 **Cherry**<br>
 Idiot. Fire the shots consecutively. Empty this magazine.
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 ......?<br>
@@ -1006,7 +1007,7 @@ Did you forget what you told me when you were teaching me how to play the guitar
 **Cherry**<br>
 Good. Now let's continue.
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 Whew... This is a lot more exhausting than I thought.
@@ -1015,7 +1016,7 @@ Whew... This is a lot more exhausting than I thought.
 Your stamina is way too low.<br>
 Keep both feet as wide as your shoulders. Keep your back straight and don't hunch. Make sure your shoulders, elbows, and fingertips are on the same straight line. The moment you pull the trigger, relax your body as much as possible. This puts less stress on your body, thus it is less tiring.
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Xenon**<br>
 It really is...
@@ -1029,12 +1030,12 @@ Did Luis teach you all this?
 **Cherry**<br>
 ......
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 When I was little, because of some stupid reasons, I stole my father's gun. He gave me a serious beating after he found out.
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 In all honesty, when we were stealing it, both Shannon and I were utterly terrified. We didn't even dare to disengage the safety. You were trained from a very young age by Luis, right? The first time you ever held a gun, did you feel as calm as you are now?
@@ -1048,7 +1049,7 @@ In all honesty, when we were stealing it, both Shannon and I were utterly terrif
 **Cherry**<br>
 Simon...
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 Only after actually holding one in my hands did I realize how heavy this thing is.<br>
@@ -1063,7 +1064,7 @@ If I were in Luis's position, what would I do? If it was to protect you... I wou
 **Xenon**<br>
 However, how would it feel like then, when you realized that you've just killed a person?
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Xenon**<br>
 ... Must've felt like s\*\*\*.
@@ -1083,7 +1084,7 @@ After we broke up, I once tried to throw all my guns into the river. Yet in the 
 **Xenon**<br>
 If, like your music, you can use this ability to help more people, perhaps it's not that horrible... What you need to let go of is not guns... but the past.
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Cherry**<br>
 ......!
@@ -1095,7 +1096,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos008"/>\[#008\] Multi\_File\_CP008
+## <a id="cpos008"></a>\[#008\] Multi\_File\_CP008
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1253,7 +1254,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos009"/>\[#009\] Audio\_Luis\_689\_08\_22
+## <a id="cpos009"></a>\[#009\] Audio\_Luis\_689\_08\_22
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1344,7 +1345,7 @@ I want to see the world father described, the world I've never seen before. I...
 
 _\[→File Switches: Port51\_689\_08\_30\]_
 
-*\[Pulse Pistol Shot\]*
+_\[Pulse Pistol Shot\]_
 
 **Diego**<br>
 Good job, Luis.
@@ -1352,7 +1353,7 @@ Good job, Luis.
 **Luis**<br>
 DIE! Die you godforsaken... metal trash...!
 
-*\[Pulse Pistol Shot\]*
+_\[Pulse Pistol Shot\]_
 
 ![cpos0901.png](./attachments/cpos0901.png)
 
@@ -1378,7 +1379,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos010"/>\[#010\] Audio\_Butsudou\_702\_11\_22
+## <a id="cpos010"></a>\[#010\] Audio\_Butsudou\_702\_11\_22
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1429,7 +1430,7 @@ I see. You want us to give you a proper answer.
 Certainly. What I'm seeking is the "truth".<br>
 For example... the whereabouts of the "culprits".
 
-*\[Projection\]*
+_\[Projection\]_
 
 **Diego**<br>
 According to the info we got, there are three culprits. This is the photo of the male who showed his face first. The remaining two carried out the ambush by destroying the lighting in the underground facility. The identities of these two are unknown. Judging by the voices, it's one male and one female.
@@ -1487,7 +1488,7 @@ _I said before, I am not interested in 70% of the businesses you currently have.
 _I've already stated Kyuu Hou Kai's position very clearly. There's no need for me to participate in this discussion anymore.<br>
 Daigo, start the car. Let's go._
 
-*\[Car door opens\]*
+_\[Car door opens\]_
 
 **Diego**<br>
 Looks like the negotiations have failed, brother Ryu. Haven't seen her in a while and that little girl has become more troublesome than ever.
@@ -1526,7 +1527,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos011"/>\[#011\] Audio\_SusukiSt\_702\_11\_24
+## <a id="cpos011"></a>\[#011\] Audio\_SusukiSt\_702\_11\_24
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1601,7 +1602,7 @@ What, you got a problem with that? Our actions can also help her out, right?
 That's just speculation...<br>
 Look out!
 
-*\[Horn\]*
+_\[Horn\]_
 
 **Cherry**<br>
 Hey! That's dangerous!
@@ -1618,12 +1619,12 @@ Sherry, forget about it. This is 03. Trash like that is everywhere. No need to g
 **Thug**<br>
 Huuh!? Who you calling trash!? You sissy\-looking piece of s\*\*\*!
 
-*\[Loads gun\]*
+_\[Loads gun\]_
 
 **Cherry**<br>
 I advise you to put your gun down.
 
-*\[Loads gun\]*
+_\[Loads gun\]_
 
 **Thug**<br>
 Hoho? You got guts to point a gun at me. Do you know who I am!?
@@ -1631,7 +1632,7 @@ Hoho? You got guts to point a gun at me. Do you know who I am!?
 **Xenon**<br>
 ... _\*Sigh\*_, where did the "keep a low profile" part go...
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **Xenon**<br>
 Mr. Ono, is it? Member of the Hou Sang Tang.
@@ -1642,7 +1643,7 @@ Mr. Ono, is it? Member of the Hou Sang Tang.
 **Xenon**<br>
 Apologies. I am Sid Jackson, an expat executive for Mogura. This is my ID.
 
-*\[Data projection\]*
+_\[Data projection\]_
 
 **Thug**<br>
 Eh...? Eek!?
@@ -1662,7 +1663,7 @@ Umm, N, no... Sir, please hear me out...
 **Thug**<br>
 Y\-yes sir! Thank you so much for your kindness! I'm so sorry!
 
-*\[Engine sounds\]*
+_\[Engine sounds\]_
 
 **Cherry**<br>
 Pff... Pffft hahaha! Wife, eh? Not bad, not bad at all! Can't believe that actually fooled him. Your acting was god awful!
@@ -1705,13 +1706,13 @@ What's the matter?
 **Cherry**<br>
 Get down!!!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos012"/>\[#012\] Cam\_SusukiSt\_702\_11\_24\_1
+## <a id="cpos012"></a>\[#012\] Cam\_SusukiSt\_702\_11\_24\_1
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1725,7 +1726,7 @@ _\[Signal Lost\]_
 |**Deep Dive**|Crystal PuNK|Chaos|13 |
 
 ### Log Content
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Pedestrian A**<br>
 What is going on? Is it a terrorist attack!?
@@ -1754,7 +1755,7 @@ Yes. They aren't just firing at random. Be it their formation or their attack rh
 **Xenon**<br>
 Highly possible. Kyubo Medical Center... I think I've seen this name in the gang organizations' data... Regardless, no matter what it's associated with, this is still a hospital...
 
-*\[Drones flying\]*
+_\[Drones flying\]_
 
 **Cherry**<br>
 A few of them are going inside!?
@@ -1777,7 +1778,7 @@ But we have to help the civilians!
 **Cherry**<br>
 Of course we're helping! What I meant to say is, you'll stay behind me while I create the opportunity for you. However, if we just rush inside like this, we'll absolutely get caught on camera... I have a mask. What about you?
 
-*\[Helmet activates\]*
+_\[Helmet activates\]_
 
 **Cherry**<br>
 ... New helmet? Pretty cool\-looking...
@@ -1787,13 +1788,13 @@ Of course we're helping! What I meant to say is, you'll stay behind me while I c
 **Xenon**<br>
 Not the time for such comments, don't you think? Let's move!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Child C**<br>
 _\*Cries\*_... Daddy...<br>
 Daddy where are you...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Cherry**<br>
 Look out!
@@ -1801,19 +1802,19 @@ Look out!
 **Child C**<br>
 Waah!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Cherry**<br>
 Simon! Now!
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **Xenon**<br>
 So even children this small aren't spared... No matter who's behind this, they've gone too far.
 
 _\[→Signal Switches\]_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Xenon**<br>
 It's coming from upstairs... gotta move fast.
@@ -1829,7 +1830,7 @@ _Threat detected. Initiate termination process._
 **Cherry**<br>
 Hey, tin cans! Look over here!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **[Drone]**<br>
 _Incoming firearm attack, damage suffered... low.<br>
@@ -1841,7 +1842,7 @@ _Remote control authorization decrypting... 57%._
 **Cherry**<br>
 Yes, that's right. Come this way... Wah!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Xenon**<br>
 Sherry? Sherry!? Are you alright?
@@ -1852,7 +1853,7 @@ Cough... cough... Don't worry about me!
 **Xenon**<br>
 Damnit... Come on, hurry up!
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **[Drone]**<br>
 _Command accepted. Adjusting termination priority. New target acquired. <br>
@@ -1867,13 +1868,13 @@ Hide! NOW!
 **Cherry**<br>
 !?!?!?
 
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos013"/>\[#013\] Cam\_SusukiSt\_702\_11\_24\_2
+## <a id="cpos013"></a>\[#013\] Cam\_SusukiSt\_702\_11\_24\_2
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -1934,12 +1935,12 @@ I really saw it! Two masked people, one with a gun and one with some sort of unk
 So, how was it? Using your ability to help other people, felt pretty good, right? <br>
 Partner?
 
-*\[Carries on shoulder\]*
+_\[Carries on shoulder\]_
 
 **Cherry**<br>
 ... Yeah.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 ![cpos1301.png](./attachments/cpos1301.png)
 
@@ -1947,14 +1948,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos014"/>\[#014\] Audio\_KaiStudio\_702\_12\_01
+## <a id="cpos014"></a>\[#014\] Audio\_KaiStudio\_702\_12\_01
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|11 |    No     |
 
 ### Log Content
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 _\[Call starts\]_
 
@@ -2069,7 +2070,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos015"/>\[#015\] Audio\_Bookstore\_702\_12\_02
+## <a id="cpos015"></a>\[#015\] Audio\_Bookstore\_702\_12\_02
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2097,7 +2098,7 @@ However, in some ways, you two really are eerily similar... We're here.
 **Xenon**<br>
 A bookstore...? Looks no different than the other destroyed buildings around here...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Store Clerk**<br>
 Welcome.
@@ -2111,7 +2112,7 @@ Welcome.
 **Cherry**<br>
 The certificate is here.
 
-*\[Data projection\]*
+_\[Data projection\]_
 
 **Store Clerk**<br>
 ... Basement. Shelf B\-9, third level.
@@ -2128,13 +2129,13 @@ _\[→Signal Switches\]_
 ...Found it. This book? Wow, an actual paper book...<br>
 What a rare sight.
 
-*\[Shelf moves\]*
+_\[Shelf moves\]_
 
 **Xenon**<br>
 ......!?<br>
 The shelf moved all by itself... there's a door behind it.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 So you were the ones who sent over that large sum of money all of a sudden? Didn't even bother to ask first, eh? You guys really are self\-centered.
@@ -2163,7 +2164,7 @@ This has nothing to do with you. Please leave.
 **Cherry**<br>
 No. We have to borrow that ability no matter what. Please! Any clue will help...
 
-*\[Loads gun\]*
+_\[Loads gun\]_
 
 **Member D**<br>
 I have no interest in your business. If you don't plan on leaving, I don't mind killing you people right here.
@@ -2194,7 +2195,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos016"/>\[#016\] Audio\_KyuuLab\_702\_12\_02
+## <a id="cpos016"></a>\[#016\] Audio\_KyuuLab\_702\_12\_02
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2208,7 +2209,7 @@ _\[Signal Lost\]_
 |**βinαrΨ**|Crystal PuNK|Chaos|12 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Come in.
@@ -2335,7 +2336,7 @@ Please wait outside for a moment. I'll take you to see her._
 **Xenon**<br>
 ...Thank you.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **[Nora]**<br>
 _... Daigo, what would you like to say?_
@@ -2383,7 +2384,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos017"/>\[#017\] Cam\_Nora\_702\_12\_02
+## <a id="cpos017"></a>\[#017\] Cam\_Nora\_702\_12\_02
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2399,7 +2400,7 @@ _Please, wait here. Daigo will bring them here._
 **[Nora]**<br>
 _There is more than one guest. They insist on moving as a group, so I allowed them all to stay... You two may recognize some of them._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Please, come...
@@ -2410,9 +2411,9 @@ AH!?
 **Xenon**<br>
 Ah...
 
-*\[Runs\]*
+_\[Runs\]_
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **Xenon**<br>
 Hey... let go of me.
@@ -2528,7 +2529,7 @@ Aroma\-chan!? She's bleeding out of her nose again! Stop!!
 **PAFF**<br>
 Ughhhh…… WAAAAHHHHH!!!NOOO!!!NOO!!
 
-*\[Collapse\]*
+_\[Collapse\]_
 
 **Hayato**<br>
 KAORI!
@@ -2537,7 +2538,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos018"/>\[#018\] Audio\_Nora\_702\_12\_02
+## <a id="cpos018"></a>\[#018\] Audio\_Nora\_702\_12\_02
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2636,7 +2637,7 @@ Understood. Daigo, take her to rest._
 **Member D**<br>
 Yes. This way, please.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[Nora]**<br>
 _Everyone, if possible, please remain here as guests for now. There are plenty of empty rooms._
@@ -2656,9 +2657,9 @@ Thank you, Nora.
 **[Nora]**<br>
 _Well, then. Please be at ease. You may move about freely in the guest area. If you need anything, just inform the people wearing the uniform._
 
-*\[Wheelchair Moving\]*
+_\[Wheelchair Moving\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Cherry**<br>
 ... She's a good girl. When I first met her, I was a bit scared by her...
@@ -2670,7 +2671,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos019"/>\[#019\] Audio\_Kyuu\_702\_12\_05
+## <a id="cpos019"></a>\[#019\] Audio\_Kyuu\_702\_12\_05
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2683,7 +2684,7 @@ Diego… I don't remember inviting Baro onto our turf. What are you doing here w
 **Diego**<br>
 Relax. Today, I've got some things I need to discuss with the Chief about, not some barking dog like you.
 
-*\[Loads gun\]*
+_\[Loads gun\]_
 
 **Member D**<br>
 Chief doesn't want to use violence against the likes of you. Therefore, I'll give you ten seconds to get the hell out of here.
@@ -2713,7 +2714,7 @@ Yes, Chief...
 **Angus**<br>
 Hmph, bye\-bye little doggy.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Diego**<br>
 Nora, what's wrong? Don't just hide out in there. Come out and chat, won't you?
@@ -2750,7 +2751,7 @@ You and I both know what the truth really is. The reason why you want them so ba
 **Diego**<br>
 ... What do you mean?
 
-*\[Plays Audio\]*
+_\[Plays Audio\]_
 
 **[Diego]**<br>
 _... I already have a perfect plan in place. First, we'll start with the Kyubo Medical Center that's irrelevant to us. All that's required is for you to nod your head..._
@@ -2776,7 +2777,7 @@ _Diego, I understand that you have no fear of anything. You and the underlings o
 **[Nora]**<br>
 _... But let me tell you; you're very, very wrong._
 
-*\[Parts moving\]*
+_\[Parts moving\]_
 
 **Angus**<br>
 !?
@@ -2800,7 +2801,7 @@ _Goodbye._
 **Diego**<br>
 Ah, yes! Please relay to those two that I'll take good care of their families!
 
-*\[Engine Starts\]*
+_\[Engine Starts\]_
 
 _\[→Signal Switches\]_
 
@@ -2833,14 +2834,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos020"/>\[#020\] Audio\_KyuuLab\_702\_12\_07
+## <a id="cpos020"></a>\[#020\] Audio\_KyuuLab\_702\_12\_07
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|16 |    No     |
 
 ### Log Content
-*\[Equipment operating\]*
+_\[Equipment operating\]_
 
 **[Nora]**<br>
 _The examination is complete. Miss Kaori Minamiya, how does your body feel?_
@@ -2901,15 +2902,15 @@ _All in all, the most important character right now is you. Please follow my com
 **PAFF**<br>
 Okay...
 
-*\[Music\]*
+_\[Music\]_
 
 **Nora**<br>
 ……<br>
 ……?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
-*\[Music\]*
+_\[Music\]_
 
 **NEKO#ΦωΦ**<br>
 Ahh! Aroma\-chan... Wahh, Nora....!
@@ -2945,13 +2946,13 @@ _I have work I must attend to._
 Muuuu... okay\~<br>
 Aroma\-chan! We just made some amazing sounding chords!
 
-*\[Synthesizer\]*
+_\[Synthesizer\]_
 
 **[Nora]**<br>
 _……<br>
 That synth, if you turn the Reso up, it'll sound better._
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Ehhh...? She left right after she said it... So Nora\-chan still really wants to make music after all.
@@ -2966,7 +2967,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos021"/>\[#021\] Audio\_Nora\_702\_12\_08
+## <a id="cpos021"></a>\[#021\] Audio\_Nora\_702\_12\_08
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2991,7 +2992,7 @@ Muhaha\~ sorry about that, Sis Cherry, but NEKO never goes easy on my opponents 
 **Hayato**<br>
 You've never gone easy on anybody no matter what game we play...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[Nora]**<br>
 _Miss Kaori Minamiya, it's time._
@@ -3016,7 +3017,7 @@ Eh\~? NEKO only wants to play with the best. I don't wanna play with this guy.
 _Daigo is quite skilled himself too.<br>
 Let's get going._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 ......
@@ -3101,7 +3102,7 @@ Got it. Be careful.
 **PAFF**<br>
 We will.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Xenon**<br>
 Ah... Ummm...
@@ -3135,7 +3136,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos022"/>\[#022\] Multi\_File\_CP022
+## <a id="cpos022"></a>\[#022\] Multi\_File\_CP022
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -3177,7 +3178,7 @@ What's the matter? Don't you give me such an unhappy expression. The organizatio
 **Cherry**<br>
 ... Oh...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Zhang**<br>
 Eh? You're finally here, Diego? This girl you choose ain't half bad. I like her. So, whaddaya think? Since we're talking about the business of girls, we might as well take this one too...
@@ -3188,7 +3189,7 @@ Do you mind taking your filthy hands off of her, brother Zhang?
 **Zhang**<br>
 Huh? What did you say? Did I mishear you? How dare you talk to me like...
 
-*\[Loads gun\]*
+_\[Loads gun\]_
 
 **Diego**<br>
 I'm not kidding. This lady doesn't belong to our organization, but she is still an important property of 08's underground society. Please take your filthy hands off of her, and then we can talk business.
@@ -3202,7 +3203,7 @@ You can leave now. You did well.
 **Cherry**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Angus**<br>
 Did you steal the item we requested from him?
@@ -3229,7 +3230,7 @@ _\[→Audio\_StudioB\_696\_05\_10\]_
 **KAI**<br>
 Okay. That felt really good. A quick break first. We'll continue afterward.
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Cherry**<br>
 Ah, let me answer the phone.
@@ -3275,7 +3276,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos023"/>\[#023\] Cam\_Kyuu\_702\_12\_10
+## <a id="cpos023"></a>\[#023\] Cam\_Kyuu\_702\_12\_10
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -3291,9 +3292,9 @@ _\[Signal Lost\]_
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Singing\]*
+_\[Singing\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 ...Can't sleep?
@@ -3393,7 +3394,7 @@ Hey, there's something inside. Don't throw it... ah!
 **Cherry**<br>
 Wahh!
 
-*\[Falls down\]*
+_\[Falls down\]_
 
 **Xenon**<br>
 ......
@@ -3409,7 +3410,7 @@ Wahh!
 **Cherry**<br>
 ......
 
-*\[Stands up\]*
+_\[Stands up\]_
 
 **Xenon**<br>
 ... I'm gonna sleep now, goodnight.
@@ -3417,7 +3418,7 @@ Wahh!
 **Cherry**<br>
 ... Yeah, goodnight.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Xenon**<br>
 ......<br>
@@ -3427,9 +3428,9 @@ I... I forgave you a long time ago. Don't ask that anymore.
 ......<br>
 ... Thank you.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
-*\[Crashing\]*
+_\[Crashing\]_
 
 **NEKO#ΦωΦ**<br>
 Waah!?
@@ -3450,14 +3451,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos024"/>\[#024\] Cam\_Cafe\_702\_12\_10
+## <a id="cpos024"></a>\[#024\] Cam\_Cafe\_702\_12\_10
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|19 |    No     |
 
 ### Log Content
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **JOE**<br>
 Wait a sec, I'm coming, I'm coming!
@@ -3490,7 +3491,7 @@ Huh? What's happening outside?
 **[Xenon]**<br>
 _It's an emergency situation. Check the news now..._
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **JOE**<br>
 What the hell!? An earthquake?
@@ -3504,7 +3505,7 @@ _Simon, folks on iM say it's starting again!_
 **JOE**<br>
 Big Sis? What's starting again?
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **[Xenon]**<br>
 _Quick……leave……there……_
@@ -3512,7 +3513,7 @@ _Quick……leave……there……_
 **JOE**<br>
 Simon, you gotta speak louder. The signal here is ...
 
-*\[Powerful Explosion\]*
+_\[Powerful Explosion\]_
 
 **JOE**<br>
 UWAAHHH!!
@@ -3528,14 +3529,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos025"/>\[#025\] Audio\_Nora\_702\_12\_10\_1
+## <a id="cpos025"></a>\[#025\] Audio\_Nora\_702\_12\_10\_1
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|20 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Cherry**<br>
 How was it? Anything on the situation?
@@ -3619,7 +3620,7 @@ It's alright. I'm also very worried about JOE. Even though it still isn't very s
 **[Nora]**<br>
 _Got it. I'll adjust the monitor settings first. One moment, please._
 
-*\[Typing on keyboard\]*
+_\[Typing on keyboard\]_
 
 **PAFF**<br>
 I heard from NEKO that Miss Cherry appears to be tangled up with people from a gang. The previous attack on the hospital was their doing... Could it be, that it's the same situation this time?
@@ -3654,7 +3655,7 @@ _... I said too much. Regardless, there are still many unsolved secrets surround
 **PAFF**<br>
 Yes... I understand.
 
-*\[Typing on keyboard\]*
+_\[Typing on keyboard\]_
 
 **[Nora]**<br>
 _I've finished adjusting the settings. Miss Kaori Minamiya, the target is the attack incident that occurred earlier today at Node 08. You can begin now._
@@ -3677,7 +3678,7 @@ Got it. Let me try... Ugh!?
 **[Nora]**<br>
 _!? Why all of a sudden..._
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **PAFF**<br>
 Ah! Whew... I'm... back?
@@ -3707,7 +3708,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos026"/>\[#026\] Audio\_Nora\_702\_12\_10\_2
+## <a id="cpos026"></a>\[#026\] Audio\_Nora\_702\_12\_10\_2
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -3794,14 +3795,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos027"/>\[#027\] Audio\_KyuuLab\_702\_12\_11
+## <a id="cpos027"></a>\[#027\] Audio\_KyuuLab\_702\_12\_11
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|21 |    No     |
 
 ### Log Content
-*\[Data Input\]*
+_\[Data Input\]_
 
 **[Nora]**<br>
 _The report is almost done. One moment, please._
@@ -3908,14 +3909,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos028"/>\[#028\] Cam\_Nora\_702\_12\_14
+## <a id="cpos028"></a>\[#028\] Cam\_Nora\_702\_12\_14
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|22 |    No     |
 
 ### Log Content
-*\[Alarm\]*
+_\[Alarm\]_
 
 **[Kyuu Hou Kai System]**<br>
 _Threat invasion detected in area 03, engaging full fortification in three minutes.  Security personnel, please proceed to your battle stations._
@@ -3954,7 +3955,7 @@ _However, the scale this time far surpasses that incident. Looks like they're ge
 **[Surveillance Camera]**<br>
 _This is security team B. The system cannot stop them! Request..._
 
-*\[Machine gun\]*
+_\[Machine gun\]_
 
 **[Surveillance Camera]**<br>
 _Ugahh...!!_
@@ -3995,9 +3996,9 @@ _Nora, this unit, has firearm installed by Mr. Ichiro. Able to help._
 **[Nora]**<br>
 _I won't allow that. You stay here together with them._
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Cherry**<br>
 Hey! Nora!<br>
@@ -4027,7 +4028,7 @@ Right! We should do what Nora told us and hide here. It's safer that way, isn't 
 **Xenon**<br>
 Back off. I'm going to overload the gear in the door lock.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Xenon**<br>
 ROBO...?
@@ -4038,9 +4039,9 @@ _This room, is Nora and this unit's room. This unit, doesn't want it to suffer a
 **Cherry**<br>
 Everyone might be in danger if we don't do something about this!
 
-*\[Enters Password\]*
+_\[Enters Password\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[ROBO_Head]**<br>
 _Password... Nora, didn't change._
@@ -4049,7 +4050,7 @@ _Password... Nora, didn't change._
 So you know the password, thanks!<br>
 Sherry, let's go.
 
-*\[Parts moving\]*
+_\[Parts moving\]_
 
 **[ROBO_Head]**<br>
 _This unit, join as well._
@@ -4068,7 +4069,7 @@ Gotcha. Then you'll act according to my commands. We help Simon create an opport
 If we're lucky.<br>
 You three, stay here. Hayato, watch the door closely.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Xenon!
@@ -4077,7 +4078,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos029"/>\[#029\] Audio\_Kyuu\_702\_12\_14\_1
+## <a id="cpos029"></a>\[#029\] Audio\_Kyuu\_702\_12\_14\_1
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -4102,7 +4103,7 @@ _Whatever. Daigo, help me get connected. I'll take a look and see what the situa
 **Member D**<br>
 Yes, Chief.
 
-*\[Connection\]*
+_\[Connection\]_
 
 **[Nora]**<br>
 _What... is this?<br>
@@ -4123,7 +4124,7 @@ _Go, now!_
 
 _\[→Signal Switches\]_
 
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 **Kyuu Hou Kai Member A**<br>
 AARRGH!!
@@ -4131,7 +4132,7 @@ AARRGH!!
 **Kyuu Hou Kai Member B**<br>
 There are way too many of them! Besides, what the hell is this firepower!? I don't recall the admins' drones being such a pain in the a\*\* to deal with...
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Member D**<br>
 Everyone! Retreat to the central area! I'll provide cover for you guys!
@@ -4142,7 +4143,7 @@ Daigo!? What about Chief?
 **Member D**<br>
 Stop yapping and start running!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Member D**<br>
 Hey! Diego! Don't you want me dead real bad!? Then come and get it! This way!
@@ -4150,7 +4151,7 @@ Hey! Diego! Don't you want me dead real bad!? Then come and get it! This way!
 **Kyuu Hou Kai Member B**<br>
 Team A! Team B! Retreat! Retreat!
 
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 **Kyuu Hou Kai Member B**<br>
 Waaaahh!! They're coming this way!?
@@ -4162,7 +4163,7 @@ They ignored me? Damnit...!
 **Cherry**<br>
 Out of my way!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Member D**<br>
 !?<br>
@@ -4181,13 +4182,13 @@ Be quiet and let us take over here. You grab the others and start running.
 **Member D**<br>
 ... So you guys can handle this...? I'll leave it to you then. Sorry!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Cherry**<br>
 Great job! Robohead!<br>
 Simon!
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **Xenon**<br>
 ... Their actions are different than the ones at Kyubo Medical Center. I can't take care of them all in one go.
@@ -4203,7 +4204,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos030"/>\[#030\] Audio\_Kyuu\_702\_12\_14\_2
+## <a id="cpos030"></a>\[#030\] Audio\_Kyuu\_702\_12\_14\_2
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -4226,9 +4227,9 @@ Are you serious? We just barely ran a few meters!
 Shut up......<br>
 ...... Watch out!!
 
-*\[Push away\]*
+_\[Push away\]_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **[ROBO_Head]**<br>
 _Wall, destroyed. Cause: Pulse bomb used by drones._
@@ -4250,12 +4251,12 @@ It is likely just attacking at random. It doesn't seem that it has discovered us
 **[ROBO_Head]**<br>
 _Report: Magazine empty. Physical attack of this unit, unable to fulfill request._
 
-*\[Drones Flying\]*
+_\[Drones Flying\]_
 
 **Cherry**<br>
 ... No other way around it then.
 
-*\[Device connection\]*
+_\[Device connection\]_
 
 **Xenon**<br>
 ... Sherry? What are you doing?
@@ -4282,7 +4283,7 @@ Sherry, what about you?
 **Cherry**<br>
 Ugh... this interface is so complicated! I can't operate this thing and shoot at the same time!
 
-*\[Drones Flying\]*
+_\[Drones Flying\]_
 
 **Xenon**<br>
 It's getting closer and closer...
@@ -4297,7 +4298,7 @@ Nora!? Where are you?
 _In the control room... the defense system... failed just now. But... I've addressed the issue already.<br>
 I'm going to pull the trigger... please be prepared._
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Xenon**<br>
 NOW!
@@ -4305,12 +4306,12 @@ NOW!
 **Cherry**<br>
 Wah! Wait...
 
-*\[Machine Gun\]*
+_\[Machine Gun\]_
 
 **Xenon**<br>
 Sherry!?
 
-*\[Hacking\]*
+_\[Hacking\]_
 
 **[Nora]**<br>
 _... We did it?_
@@ -4343,14 +4344,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos031"/>\[#031\] Cam\_Ward\_702\_12\_14
+## <a id="cpos031"></a>\[#031\] Cam\_Ward\_702\_12\_14
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|23 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 What is her situation?
@@ -4368,7 +4369,7 @@ Miss Pauline's injuries are not serious. We've finished treating all of them. Ho
 **Xenon**<br>
 ... She...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Sis Cherry! Waaaaahhhhh!
@@ -4414,7 +4415,7 @@ Yeah! You guys are everyone's hero! Though your methods are very reckless\~
 **Xenon**<br>
 You don't get to lecture me on that...
 
-*\[Knocks on head\]*
+_\[Knocks on head\]_
 
 **NEKO#ΦωΦ**<br>
 Oww! That hurt!
@@ -4436,7 +4437,7 @@ Nora, you look... terrible. Did something happen?
 _No... It's not related to Miss Sherry Pauline's situation. It's just that... when I was releasing the defense system from the hacking... ugh... I ran into... some issues..._
 
 **Member D**<br>
-Chief, please return to your toom and get some rest.
+Chief, please return to your room and get some rest.
 
 **[Nora]**<br>
 _No, I'm fine.<br>
@@ -4453,7 +4454,7 @@ Why are you so carefree about this whole thing...?
 _......<br>
 Alright. Everyone, leave the room so the treatment process can continue._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 ......
@@ -4502,7 +4503,7 @@ _I'll leave her to you. Also, for one last time, thank you._
 **Xenon**<br>
 Not at all.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[»»» Fast Forward»»»\]_
 
@@ -4512,7 +4513,7 @@ _\[»»» Fast Forward»»»\]_
 **Xenon**<br>
 Sorry, this is all my fault.
 
-*\[Lights Off\]*
+_\[Lights Off\]_
 
 **Xenon**<br>
 !?
@@ -4525,14 +4526,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos032"/>\[#032\]  Audio\_Kyuu\_702\_12\_15\_1
+## <a id="cpos032"></a>\[#032\]  Audio\_Kyuu\_702\_12\_15\_1
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|24 |    No     |
 
 ### Log Content
-*\[Lights Off\]*
+_\[Lights Off\]_
 
 **Member D**<br>
 What is going on!?
@@ -4610,7 +4611,7 @@ Even if we get there, how are we gonna reboot the life support system...
 **Member D**<br>
 Shut your piehole! Did you forget who saved all our a\*\*es just now!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Member D**<br>
 Good, this will work.<br>
@@ -4623,14 +4624,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos033"/>\[#033\] Cam\_Ward\_702\_12\_15
+## <a id="cpos033"></a>\[#033\] Cam\_Ward\_702\_12\_15
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|24 |    No     |
 
 ### Log Content
-*\[Kicks Door\]*
+_\[Kicks Door\]_
 
 **Xenon**<br>
 Damnit! Can't open it.<br>
@@ -4656,7 +4657,7 @@ Haa... I feel... awful...
 ......!<br>
 Hang in there. I'll call someone here right away!
 
-*\[Kicks Door\]*
+_\[Kicks Door\]_
 
 **Xenon**<br>
 My device is also outside, or else I would've had a chance to hack this door open...<br>
@@ -4674,11 +4675,11 @@ Sherry, are you alright?
 **Xenon**<br>
 ... Yeah.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 ![cpos3302.png](./attachments/cpos3302.png)
 
-*\[Holds Hand\]*
+_\[Holds Hand\]_
 
 **Cherry**<br>
 Feels like... I had a really weird dream...
@@ -4755,14 +4756,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos034"/>\[#034\] Audio\_Kyuu\_702\_12\_15\_2
+## <a id="cpos034"></a>\[#034\] Audio\_Kyuu\_702\_12\_15\_2
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|25 |    No     |
 
 ### Log Content
-*\[Power on\]*
+_\[Power on\]_
 
 **Kyuu Hou Kai Member**<br>
 The power is restored...!?
@@ -4780,7 +4781,7 @@ Sis Cherry!
 
 _\[→Signal Switches\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Miss She...rry...
@@ -4800,7 +4801,7 @@ Daigo, she's already...
 **Member D**<br>
 Shut up! Did you not hear me!? Do as I say!!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Sis Cherry!
@@ -4832,7 +4833,7 @@ _\[»»» Fast Forward»»»\]_
 Sis Cherry! Sis Cherry!<br>
 Why did this happen!? HEY! Say something! Say something, baldy...!
 
-*\[Punching and hitting\]*
+_\[Punching and hitting\]_
 
 **Member D**<br>
 ......
@@ -4840,7 +4841,7 @@ Why did this happen!? HEY! Say something! Say something, baldy...!
 **NEKO#ΦωΦ**<br>
 Safest place in the entire Node my a\*\*! Liars! You're all a bunch of...
 
-*\[Punching and hitting\]*
+_\[Punching and hitting\]_
 
 **Hayato**<br>
 NEKO! Calm down!
@@ -4896,7 +4897,7 @@ _He's the one who smashed everything in the room, I believe. During the blackout
 **[Nora]**<br>
 _Daigo, send Miss Pauline back to her family and ensure that the people in 08 take good care of everything, including her father._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **PAFF**<br>
 NEKO? Where are you going!?
@@ -4917,7 +4918,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos035"/>\[#035\] Message\_JOE\_702\_12\_21
+## <a id="cpos035"></a>\[#035\] Message\_JOE\_702\_12\_21
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -4981,7 +4982,7 @@ _[\[JOE is offline\]]_<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos036"/>\[#036\] Audio\_KaiStudio\_702\_12\_24
+## <a id="cpos036"></a>\[#036\] Audio\_KaiStudio\_702\_12\_24
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -5022,7 +5023,7 @@ I came here to confirm a few things, then I'll leave immediately. First, let's m
 **NEKO#ΦωΦ**<br>
 Eh, probably not...He ate everything NEKO brought him. Then he put the utensils in front of the door like this. It's like he's a total recluse...
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **NEKO#ΦωΦ**<br>
 Xenon, someone's here to see you…
@@ -5036,7 +5037,7 @@ Hey, would you please open the door? You know who I am, don't you?
 **NEKO#ΦωΦ**<br>
 ...Looks like he still hasn't recovered…
 
-*\[Kicks Door\]*
+_\[Kicks Door\]_
 
 **Xenon**<br>
 !?
@@ -5105,7 +5106,7 @@ That's quite a nice guitar, eh? Play a song with me, will you?
 **Xenon**<br>
 ... Huh? I am not in the mood right now…
 
-*\[Music\]*
+_\[Music\]_
 
 **Xenon**<br>
 ……!
@@ -5122,7 +5123,7 @@ You've spent the majority of your life trying to save the people around you, yet
 **Xenon**<br>
 ... If that'll get rid of you.
 
-*\[Guitar\]*
+_\[Guitar\]_
 
 _\[»»»Fast Forward»»»\]_
 
@@ -5183,7 +5184,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cpos037"/>\[#037\] Audio\_Trans\_03\_702\_12\_26
+## <a id="cpos037"></a>\[#037\] Audio\_Trans\_03\_702\_12\_26
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -5269,6 +5270,183 @@ _Attention, fellow passengers. The express train directly to Node 08 is now arri
 
 **[Nora]**<br>
 _It's time._
+
+_\[Signal Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="cpos038"></a>\[#038\] Audio\_ruins08\_702\_12\_26
+### Requirements
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|29 |    No     |
+
+### Log Content
+_\[Consecutive Gunshots\]_
+
+**[Xenon A.I.]**<br>
+_Target hit rate 82%, revision rate 6%, power has returned to zero._
+
+_\[Heat dissipates from gun\]_
+
+**Xenon**<br>
+... 6? Still no good?
+
+_\[Dismantles Parts\]_
+
+**Xenon**<br>
+......
+
+**[Xenon A.I.]**<br>
+_Reassembling thermal dissolution unit code._
+
+_\[Dismantles Parts\]_
+
+**Xenon**<br>
+Overheats too easily... Can't get good material for dissipating heat here.
+
+_\[Dismantles Parts\]_
+
+**Xenon**<br>
+......
+
+**[Xenon A.I.]**<br>
+_Temperature test, 39 degrees, 40 degrees, 41 degrees..._
+
+_\[→Signal Switches\]_
+
+_\[Consecutive Gunshots\]_
+
+**Cherry**<br>
+Not bad. That's more like it.
+
+**Xenon**<br>
+Ha... huff... shooting while moving is tough...
+
+**Cherry**<br>
+You're just too weak. But gotta say, with panting like that you did pretty good.
+
+**Xenon**<br>
+Come off it.
+
+_\[Consecutive Gunshots\]_
+
+**Cherry**<br>
+When my dad used to teach me, I got stuck on this forever...
+
+**Xenon**<br>
+......
+
+**Cherry**<br>
+When Mom left, Dad spent nearly all of his time with me. Felt like he was spending his whole life just to stop me from slipping into a negative emotional state... Back then, we loved watching the series "Chrysanthemum" together.
+
+**Xenon**<br>
+Ah, I remember that well. That show was on a long time ago. Our family liked it a lot too. It was really good.
+
+**Cherry**<br>
+Oh yeah? Then, I think he spent all of our money. That's when he got hooked on gambling. So, the gangs latched onto him. After that, he rarely spent time at home with me...
+
+**Cherry**<br>
+I still remember when the show came out with a second season. I couldn't wait to watch it. I waited everyday, kept waiting for him to come home and watch it with me. To this day, I still haven't finished it, haha... Really wanna know what happens to that girl who sells flowers.
+
+**Xenon**<br>
+I've got the whole series at home. I'll let you borrow it.
+
+**Cherry**<br>
+Nah. My fans gave it to me for my birthday.
+
+**Xenon**<br>
+Haha... show\-off.
+
+**Cherry**<br>
+Hehe... speaking of birthdays, back when Mom was still around they used to love surprising me to celebrate... Then it just stopped. I was so happy the first time they did that.
+
+**Xenon**<br>
+......<br>
+What's with all this recalling of old memories all of a sudden? You're like an old person.
+
+**Cherry**<br>
+Haha... donno. Seeing you practicing shooting and hearing the sound of guns makes me think of all that.<br>
+After the first time Dad admitted to what was going on, he started teaching me to shoot. That's when I felt like I had found my family again...
+
+**Xenon**<br>
+......
+
+_\[Lights Cigarette\]_
+
+**Xenon**<br>
+Here.
+
+**Cherry**<br>
+Thanks.
+
+_\[Inhales\]_
+
+**Cherry**<br>
+Ironic, right? What gives me a warm feeling of home is a cold, lifeless object.
+
+**Xenon**<br>
+... That's only after you put it down, right? When you're shooting rapid\-fire it's hot as all hell.
+
+**Cherry**<br>
+Yeah...
+
+**Xenon**<br>
+What violence is depends on how it's used, don't you think?
+
+**Cherry**<br>
+......
+
+**Xenon**<br>
+You remember me telling you how I stole my father's gun to save Shannon from that bully?
+
+**Cherry**<br>
+Yeah.
+
+**Xenon**<br>
+Later I heard Nate——a friend at the station, told me that dim\-witted classmate who bullied my sister for years had gotten on the Exploration Team and became one of the elite members. When there were issues in the city, they came out and helped resolve them. Think I even know the captain.
+
+**Xenon**<br>
+If my Dad hadn't shown up and I had fired that gun at ten years old... Just thinking about how many people's lives that would have affected makes me unconsciously hesitate whenever I shoot a firearm.
+
+**Cherry**<br>
+... I get it.
+
+**Xenon**<br>
+So...
+
+_\[Stands Up\]_
+
+**Xenon**<br>
+Since I'm learning all these techniques, I've got to think real hard about how to use 'em.
+
+_\[Consecutive Gunshots\]_
+
+**Cherry**<br>
+Ha... Well put. But you've got to be a bit more accurate before you start spoutin' such pretty crap. Legs should be as wide as your shoulders, you forgot again.
+
+_\[→Signal Switches\]_
+
+**[Xenon A.I.]**<br>
+_88 degrees, 89 degrees..._
+
+_\[Heat dissipates from gun\]_
+
+**Xenon**<br>
+AH! Hot...!
+
+**[Xenon A.I.]**<br>
+_Reassembly Complete_
+
+**Xenon**<br>
+......
+
+_\[Stands Up\]_
+
+**Xenon**<br>
+Wide as my shoulders......
+
+_\[Consecutive Gunshots\]_
 
 _\[Signal Lost\]_
 

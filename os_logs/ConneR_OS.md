@@ -1,5 +1,5 @@
 # ConneR OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Log\_701\_12\_14\_1](#cos001)
 - [\[#002\] Cam\_Arc\_701\_12\_16](#cos002)
 - [\[#003\] Audio\_Raven\_701\_12\_21](#cos003)
@@ -65,7 +65,7 @@
 - [\[#063\] Audio\_Sasha\_702\_12\_16](#cos063)
 - [\[#064\] Audio\_13St35\_702\_12\_17](#cos064)
 
-## <a id="cos001"/>\[#001\] Log\_701\_12\_14\_1
+## <a id="cos001"></a>\[#001\] Log\_701\_12\_14\_1
 ### Log Content
 ![cos0101.png](./attachments/cos0101.png)
 
@@ -91,7 +91,7 @@ Time of recording: 701\_1214\_0545
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos002"/>\[#002\] Cam\_Arc\_701\_12\_16
+## <a id="cos002"></a>\[#002\] Cam\_Arc\_701\_12\_16
 ### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
 |-------------------------|:----:|:---:|:-:|
@@ -104,7 +104,7 @@ What's the patient's situation?
 **Medical Staff**<br>
 The operation is successful. Vital signs are stable, but the patient has yet to regain consciousness...
 
-*\[Equipment knocked over\]*
+_\[Equipment knocked over\]_
 
 ![cos0204.png](./attachments/cos0204.png)
 
@@ -152,7 +152,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos003"/>\[#003\] Audio\_Raven\_701\_12\_21
+## <a id="cos003"></a>\[#003\] Audio\_Raven\_701\_12\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -164,7 +164,7 @@ _\[Replay Ends\]_
 |**Light of Buenos Aires**|ConneR|Hard | 7 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Raven**<br>
 Colin Neumann Jr. We're from Node 08's Administration Bureau...
@@ -212,12 +212,12 @@ Dr. Neumann, can we talk about what happened to your right arm?
 **ConneR**<br>
 Even though my memory is still a bit blurry, I told everything to the people that gave me emergency treatment back at the accident site. I believe the medical drones captured every single word I spoke. I don't want to repeat myself.
 
-*\[Drinks Tea\]*
+_\[Drinks Tea\]_
 
 **Hawk**<br>
 Mr. Neumann! Right now you're a criminal with multiple serious charges! I advise that you watch your attitude!
 
-*\[Cup Shatters\]*
+_\[Cup Shatters\]_
 
 **Raven**<br>
 Hawk! Stand down! The hard way doesn't work with this guy.
@@ -243,20 +243,20 @@ I will report this to the bureau. It seems that you've run out of tricks this ti
 **ConneR**<br>
 Farewell, young fowls.
 
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos004"/>\[#004\] Cam\_Arc\_702\_01\_30
+## <a id="cos004"></a>\[#004\] Cam\_Arc\_702\_01\_30
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 3 |    No     |
 
 ### Log Content
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 ![cos0402.png](./attachments/cos0402.png)
 
@@ -279,7 +279,7 @@ Doctor, I'm not kidding. You might be sentenced to life in prison this time.
 **ConneR**<br>
 _\*Chuckles\*_ With their current level of technological understanding, if the admins really want to try and imprison me...
 
-*\[Handcuffs Unlock\]*
+_\[Handcuffs Unlock\]_
 
 **ConneR**<br>
 they have to try harder.
@@ -343,13 +343,13 @@ _\*Chuckles\*_ I don't necessarily agree with the "talent" part, but we'll see a
 Anyway, thank you so much! Later today, we will have our agents deal with all the registration and documents. Tomorrow morning, someone will take you to the presentation center to listen to the newcomer's guide. <br>
 Oh, and please put the handcuffs back on. You're putting me in a very awkward situation...
 
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos005"/>\[#005\] Audio\_Arc\_702\_02\_05
+## <a id="cos005"></a>\[#005\] Audio\_Arc\_702\_02\_05
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -361,7 +361,7 @@ _\[Replay Ends\]_
 |**tondari-hanetari**|ConneR|Easy | 3 |
 
 ### Log Content
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 **Sagar**<br>
 Doctor, you're doing rehab?
@@ -423,7 +423,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos006"/>\[#006\] Log\_702\_02\_14\_repaired
+## <a id="cos006"></a>\[#006\] Log\_702\_02\_14\_repaired
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -465,7 +465,7 @@ Time of interruption: 701\_1214\_0637
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos007"/>\[#007\] Audio\_Home\_697\_07\_11
+## <a id="cos007"></a>\[#007\] Audio\_Home\_697\_07\_11
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -477,7 +477,7 @@ Time of interruption: 701\_1214\_0637
 |**tondari-hanetari**|ConneR|Hard | 8 |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Grace**<br>
 Hello, Neumann residence, how may I... Huh!? Master Colin!
@@ -488,7 +488,7 @@ Grace, it's been a while.
 **Grace**<br>
 Just a moment please. I'll open the gates for you right now!
 
-*\[Gate Opens\]*
+_\[Gate Opens\]_
 
 **Grace**<br>
 Master! You finally came back!
@@ -552,7 +552,7 @@ Master...
 
 _\[»»» Fast Forward »»» \]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Grace**<br>
 Apologies. I don't know where to start organizing all this complicated stuff.
@@ -566,13 +566,13 @@ Ah yes. Sir was holding this in his hand when I found him... There's also a lett
 **ConneR**<br>
 It's the Neumann family chip...
 
-*\[Opens Envelope\]*
+_\[Opens Envelope\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos008"/>\[#008\] Mail\_iM\_702\_07\_01
+## <a id="cos008"></a>\[#008\] Mail\_iM\_702\_07\_01
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -582,7 +582,8 @@ _\[Replay Ends\]_
 **Subj.**: [Reply to account transfer request] Transfer "Colin Neumann Jr." to "ConneR"<br>
 **From**: iM service center<br>
 **To**: Colin Neumann Jr.
-___
+
+
 
 Dear user,
 
@@ -603,7 +604,7 @@ The iM full\-sense social networking team
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos009"/>\[#009\] Log\_Home\_697\_08\_08
+## <a id="cos009"></a>\[#009\] Log\_Home\_697\_08\_08
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -628,7 +629,7 @@ ConneR 6970808
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos010"/>\[#010\] Mail\_690\_05\_14
+## <a id="cos010"></a>\[#010\] Mail\_690\_05\_14
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -652,7 +653,7 @@ Colin Neumann Sr.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos011"/>\[#011\] Cam\_Arc\_702\_04\_04
+## <a id="cos011"></a>\[#011\] Cam\_Arc\_702\_04\_04
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -712,7 +713,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos012"/>\[#012\] Diary\_ConneR\_702\_04\_06
+## <a id="cos012"></a>\[#012\] Diary\_ConneR\_702\_04\_06
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -737,7 +738,7 @@ ConneR 7020406
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos013"/>\[#013\] Mail\_BH\_702\_07\_12
+## <a id="cos013"></a>\[#013\] Mail\_BH\_702\_07\_12
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -752,7 +753,8 @@ ConneR 7020406
 **Subj.**: Allow us to offer our sincerest apologies<br>
 **From**: Body Hack Corp. VIP Service<br>
 **To**: Colin Neumann Jr.
-___
+
+
 
 Dear Mr. Colin Neumann Jr.,
 
@@ -768,7 +770,7 @@ Body Hack Corp. CEO
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos014"/>\[#014\] Call\_702\_07\_12
+## <a id="cos014"></a>\[#014\] Call\_702\_07\_12
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -833,7 +835,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos015"/>\[#015\] Log\_Arc\_702\_07\_14
+## <a id="cos015"></a>\[#015\] Log\_Arc\_702\_07\_14
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -857,7 +859,7 @@ ConneR 7020714
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos016"/>\[#016\] Cam\_Arc\_702\_07\_20
+## <a id="cos016"></a>\[#016\] Cam\_Arc\_702\_07\_20
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -924,7 +926,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos017"/>\[#017\] Cam\_Cafe\_702\_07\_21
+## <a id="cos017"></a>\[#017\] Cam\_Cafe\_702\_07\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -938,7 +940,7 @@ _\[Replay Ends\]_
 ### Log Content
 ![cos1302.png](./attachments/cos1302.png)
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Wel... come.
@@ -977,7 +979,7 @@ Seems like you don't want to talk about it. Alright then. Martini, three olives.
 **Unknown**<br>
 I said, Martini, three olives. Do I need to repeat myself?
 
-*\[Make Cocktail\]*
+_\[Make Cocktail\]_
 
 **JOE**<br>
 ...What do you want to know?
@@ -1027,13 +1029,13 @@ Watch your attitude. Have you forgotten what happened to the dog? Although that'
 **Unknown**<br>
 Whatever, before the job is done I'll be here every day. You better prepare more information on this guy. Bye.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos018"/>\[#018\] Diary\_ConneR\_702\_07\_22
+## <a id="cos018"></a>\[#018\] Diary\_ConneR\_702\_07\_22
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1056,7 +1058,7 @@ ConneR 7020722
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos019"/>\[#019\] Cam\_Arc\_702\_07\_24
+## <a id="cos019"></a>\[#019\] Cam\_Arc\_702\_07\_24
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1130,7 +1132,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos020"/>\[#020\] Mail\_Arc\_702\_07\_27
+## <a id="cos020"></a>\[#020\] Mail\_Arc\_702\_07\_27
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1145,7 +1147,8 @@ _\[Replay Ends\]_
 **Subj.**: We invite you to be a guest at the conference<br>
 **From**: A.R.C. PR department<br>
 **To**: Colin Neumann Jr.
-___
+
+
 
 Dear guest,
 
@@ -1158,7 +1161,7 @@ A.R.C. Supreme Committee
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos021"/>\[#021\] Diary\_ConneR\_702\_07\_28
+## <a id="cos021"></a>\[#021\] Diary\_ConneR\_702\_07\_28
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1181,7 +1184,7 @@ ConneR\_7020728
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos022"/>\[#022\] Mail\_Arc\_702\_07\_22
+## <a id="cos022"></a>\[#022\] Mail\_Arc\_702\_07\_22
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1191,7 +1194,8 @@ ConneR\_7020728
 **Subj.**: Job Done<br>
 **From**: Underworld<br>
 **To**: Rald [This mail have been encrypted]
-___
+
+
 
 This is everything I can get from Joe. I'll send you the detailed info in another mail.<br>
 Remember to split the money into three payments and send it to my account in Node 03. <br>
@@ -1201,7 +1205,7 @@ H.H
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos023"/>\[#023\] Audio\_Arc\_702\_08\_26
+## <a id="cos023"></a>\[#023\] Audio\_Arc\_702\_08\_26
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1213,7 +1217,7 @@ H.H
 |**Instinct**|ConneR|Easy | 4 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Oh, Mr. Xenon. Have you listened to my album?
@@ -1285,7 +1289,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos024"/>\[#024\] Diary\_ConneR\_702\_08\_26
+## <a id="cos024"></a>\[#024\] Diary\_ConneR\_702\_08\_26
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1303,7 +1307,7 @@ ConneR 7020826
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos025"/>\[#025\] Audio\_Arc\_702\_08\_12
+## <a id="cos025"></a>\[#025\] Audio\_Arc\_702\_08\_12
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1315,7 +1319,7 @@ ConneR 7020826
 |**Instinct**|ConneR|Hard | 8 |
 
 ### Log Content
-*\[Alarm goes off\]*
+_\[Alarm goes off\]_
 
 **Mark**<br>
 Dr. Neumann, we just received the record of a malicious program's attempt to tamper with the encryption key index of Library's central database. After doing some reverse tracking, one of the attacking IP addresses came from the sub terminal in your office.
@@ -1335,7 +1339,7 @@ You might have to go through the safety protocols. We'll handle the checking rem
 **ConneR**<br>
 What a bother. Right in the middle of my work too...
 
-*\[Scanning Device\]*
+_\[Scanning Device\]_
 
 **Mark**<br>
 Did doctor recently use any software or devices that came from unidentified sources? Due to your unique identity, you might be using equipment that is not supplied by A.R.C.
@@ -1362,7 +1366,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos026"/>\[#026\] Mail\_Arc\_702\_08\_20
+## <a id="cos026"></a>\[#026\] Mail\_Arc\_702\_08\_20
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1372,7 +1376,8 @@ _\[Replay Ends\]_
 **Subj.**: Congratulations on a successful performance<br>
 **From**: SkyEkho_Maggie<br>
 **To**: ConneR
-___
+
+
 
 Dear Sensei,
 
@@ -1386,7 +1391,7 @@ The entire SkyEkho team
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos027"/>\[#027\] Audio\_Arc\_702\_08\_07
+## <a id="cos027"></a>\[#027\] Audio\_Arc\_702\_08\_07
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1404,7 +1409,7 @@ Hello, Doc. Getting coffee by yourself again today?
 **ConneR**<br>
 As usual. One glass of Cold\-Brew Irish Coffee.
 
-*\[Coffee Machine operating\]*
+_\[Coffee Machine operating\]_
 
 **Nancy**<br>
 Here's your Irish Coffee. We switched to a different brand of whiskey this week. See if you can taste any notable difference.
@@ -1482,7 +1487,7 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos028"/>\[#028\] Audio\_Arc\_702\_08\_08
+## <a id="cos028"></a>\[#028\] Audio\_Arc\_702\_08\_08
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1500,7 +1505,7 @@ Understood. Thank you for the assistance.
 
 _\[»»» Fast Forward »»»\]_
 
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 **Rin**<br>
 Eek!?... who's there?
@@ -1508,7 +1513,7 @@ Eek!?... who's there?
 **ConneR**<br>
 Ah, apologies. Did I scare you? I'm here to take a look at the data I sent in for analysis yesterday... Jesus!
 
-*\[Beast Roars\]*
+_\[Beast Roars\]_
 
 **Rin**<br>
 S....sorry! I'll turn off the projection first!
@@ -1594,7 +1599,7 @@ Hm? From what I've heard, their administration bureau crumbled after "The Decomm
 **Rin**<br>
 Umm... there are still places that are very pretty... I, I don't remember it too clearly. All things from a long time ago...Ah!
 
-*\[Cup Spills\]*
+_\[Cup Spills\]_
 
 **ConneR**<br>
 Yikes!
@@ -1615,13 +1620,13 @@ In a few days, there should be a new set of statistics sent here. I'll see you t
 **Rin**<br>
 U, Understood. I'll try my best!
 
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos029"/>\[#029\] Audio\_Arc\_702\_08\_11
+## <a id="cos029"></a>\[#029\] Audio\_Arc\_702\_08\_11
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1770,14 +1775,14 @@ _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos030"/>\[#030\] Audio\_Arc\_702\_08\_17
+## <a id="cos030"></a>\[#030\] Audio\_Arc\_702\_08\_17
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|23 |    No     |
 
 ### Log Content
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 **Rin**<br>
 EEK!?
@@ -1810,7 +1815,7 @@ U, understood. I'll go take a look.
 **ConneR**<br>
 ......
 
-*\[Extracting Data\]*
+_\[Extracting Data\]_
 
 **ConneR**<br>
 ......
@@ -1902,13 +1907,13 @@ Lunch break is about to end too. I'll go back to work. Goodbye.
 **Rin**<br>
 OK. Bye\-bye.
 
-*\[Electronic Door\]*
+_\[Electronic Door\]_
 
 _\[Replay Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos031"/>\[#031\] Diary\_ConneR\_702\_08\_28
+## <a id="cos031"></a>\[#031\] Diary\_ConneR\_702\_08\_28
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1928,7 +1933,7 @@ ConneR 7020828
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos032"/>\[#032\] Log\_702\_08\_08\_12
+## <a id="cos032"></a>\[#032\] Log\_702\_08\_08\_12
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1952,7 +1957,7 @@ Note: Artifact provided by Dr. Colin Neumann Jr.<br>
 Analysis: Environment Simulation Test. Operation Simulation Test. Age Determination.
 
 [![cos3202.png](./attachments/cos3202.png)](https://youtu.be/I53d17j6pX4)<br>
-*[Click the image to watch the movie]*
+_[Click the image to watch the movie]_
 
 Record:<br>
 Entry\_1<br>
@@ -1974,7 +1979,7 @@ Report Saved Time: 702\_0810\_1745
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos033"/>\[#033\] Cam\_Arc\_702\_09\_21
+## <a id="cos033"></a>\[#033\] Cam\_Arc\_702\_09\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -1988,12 +1993,12 @@ Report Saved Time: 702\_0810\_1745
 |**Olympia**|ConneR|Chaos|12 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 It has been a while, Mr. Xenon. You've been on break for quite a long time. Tea?
 
-*\[Drinks Tea\]*
+_\[Drinks Tea\]_
 
 **Xenon**<br>
 I'm not here to chit\-chat. I have something to ask you.
@@ -2004,7 +2009,7 @@ About Æsir, I presume?
 **Xenon**<br>
 ... How did you know?
 
-*\[Drinks Tea\]*
+_\[Drinks Tea\]_
 
 **ConneR**<br>
 _\*Chuckles\*_ Young man, you have to be more conscious of your words. You spill your secrets too easily.
@@ -2086,7 +2091,7 @@ I mean, it's an entire group of functioning ones! What a waste...
 **ConneR**<br>
 I am indeed very interested... if you believe me to be trustworthy. I mean, it's not like there's a lack of options; plenty of folks to chose from in the research department.
 
-*\[Drinks tea\]*
+_\[Drinks tea\]_
 
 **Xenon**<br>
 I don't trust you. However, right now I have even less trust in those who are affiliated with the Administration Bureau.
@@ -2110,14 +2115,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos034"/>\[#034\] Audio\_Factory3\_702\_09\_21\_1
+## <a id="cos034"></a>\[#034\] Audio\_Factory3\_702\_09\_21\_1
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|26 |    No     |
 
 ### Log Content
-*\[Engines turned off\]*
+_\[Engines turned off\]_
 
 **Xenon**<br>
 We're here.
@@ -2133,7 +2138,7 @@ Yes Sir\~
 
 _\[Signal Switches\]_
 
-*\[Walking Down The Stairs\]*
+_\[Walking Down The Stairs\]_
 
 **A.R.C. Employee A**<br>
 So you guys are here. We went ahead and started the recovery progress for some of the items. These are equipment that was previously stolen... but that's not all of it. Some of the items here don't even exist on the list of artifacts. We will directly send those to Library.
@@ -2239,7 +2244,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos035"/>\[#035\] Audio\_Factory3\_702\_09\_21\_2
+## <a id="cos035"></a>\[#035\] Audio\_Factory3\_702\_09\_21\_2
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -2358,7 +2363,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos036"/>\[#036\] Mail\_Grace\_702\_10\_22
+## <a id="cos036"></a>\[#036\] Mail\_Grace\_702\_10\_22
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -2368,7 +2373,8 @@ _\[Signal Lost\]_
 **Subj.**: Something is wrong with Sir<br>
 **From**: Grace Garcia<br>
 **To**: Colin Neumann Jr.
-___
+
+
 
 Master:
 
@@ -2378,14 +2384,14 @@ Grace
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos037"/>\[#037\] Cam\_Home\_702\_10\_23
+## <a id="cos037"></a>\[#037\] Cam\_Home\_702\_10\_23
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|29 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Sagar, I didn't expect you to escort me home yourself. This isn't something a person of your level should do, isn't it?
@@ -2480,7 +2486,7 @@ If the doctors' diagnostics were correct and what father had was indeed neurodeg
 **Grace**<br>
 I don't understand things that are too complicated... We're here, master. As you requested, I haven't moved anything in here. Please take a look...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 This is...!
@@ -2500,7 +2506,7 @@ Yes, master... I'll be waiting outside the door. If you need anything, call me.
 **ConneR**<br>
 Thank you.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 ......
@@ -2514,14 +2520,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos038"/>\[#038\] Audio\_Arc\_702\_11\_02
+## <a id="cos038"></a>\[#038\] Audio\_Arc\_702\_11\_02
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|30 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Sagar**<br>
 Apologies for the interruption. Doctor...?
@@ -2559,7 +2565,7 @@ Doctor, I don't know whether I should laugh or not about that comment...
 **ConneR**<br>
 Setting aside the criminal suspicions, all of you are elites who are far superior to your average person. This is a compliment through and through. Accept it with ease.
 
-*\[Drinks tea\]*
+_\[Drinks tea\]_
 
 **ConneR**<br>
 Speaking of which, do you need something from me today, Mr. Sagar?
@@ -2580,7 +2586,7 @@ That's precisely why I said it. Give me the report.
 **Sagar**<br>
 No problem. I've sent the file. Doctor, please check it. If you have any problem, just point it out for me and I'll fix it immediately.
 
-*\[Signature\]*
+_\[Signature\]_
 
 **Sagar**<br>
 Eh? Doctor... You didn't even look at it...
@@ -2599,7 +2605,7 @@ Very well. Allow me to say one more thing, Mr. Sagar. These wordy regulations do
 Haha... Not like I want to do all this, but I can't help it. It's part of my responsibility as a captain...<br>
 I shall not bother you any longer. I'll go finish the procedure first.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 ... Resume call.
@@ -2634,7 +2640,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos039"/>\[#039\] Diary\_ConneR\_702\_11\_04
+## <a id="cos039"></a>\[#039\] Diary\_ConneR\_702\_11\_04
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -2662,14 +2668,14 @@ ConneR 7021104
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos040"/>\[#040\] Cam\_CArea\_702\_11\_08
+## <a id="cos040"></a>\[#040\] Cam\_CArea\_702\_11\_08
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|32 |    No     |
 
 ### Log Content
-*\[Alarm\]*
+_\[Alarm\]_
 
 **Xenon**<br>
 ......
@@ -2682,17 +2688,17 @@ Trespassers in area C, the underground passages. Send additional agents and dron
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Xenon**<br>
 ......?
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Xenon**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Good evening.
@@ -2707,7 +2713,7 @@ I knocked, but nobody answered the door. Therefore, I decided to come in myself.
 **Xenon**<br>
 ... What the hell are you doing?
 
-*\[Data projection\]*
+_\[Data projection\]_
 
 **ConneR**<br>
 I don't have time to explain all the minute details to you. All in all, take a quick look through these files first.
@@ -2786,7 +2792,7 @@ Once you set foot outside this door, you are, in all sense of the word, "dead". 
 I still have more important businesses to tend to, So I don't have time to waste on you here.<br>
 Although having your assistance will make things much easier for me, the final decision is all yours to make.
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **ConneR**<br>
 Ah, right. Seems like we got a signal. Please give me a minute.
@@ -2810,7 +2816,7 @@ _……！_
 As you just saw, your dear friends are literally risking their lives for you. All in all, I will leave the door open for you, the door to end this entire fiasco. The rest is up to you.<br>
 Feels like your dear friends are in a pretty serious pinch. Allow me to take my leave first.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 ![xos3301.png](./attachments/xos3301.png)
 
@@ -2821,7 +2827,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos041"/>\[#041\] Audio\_Port33\_702\_11\_10
+## <a id="cos041"></a>\[#041\] Audio\_Port33\_702\_11\_10
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -2834,9 +2840,9 @@ The transporter is over there. Thank god we made it in time. Let's go, Mad Dog. 
 **Xenon**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
-*\[Moves Cargo\]*
+_\[Moves Cargo\]_
 
 **Hunter**<br>
 Hnnngh\~ Dang, this s\*\*\* is heavy...
@@ -2872,7 +2878,7 @@ What are you trying to do? I advise you don't try anything stupid!
 **Hunter**<br>
 ...... Hmph.
 
-*\[Drags Cargo\]*
+_\[Drags Cargo\]_
 
 **Cherry**<br>
 Alright, let's board the transporter. This ride will take us back to a transportation hub. We will board another ride there that'll take us into Node 03.
@@ -2887,14 +2893,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos042"/>\[#042\] Cam\_Port33\_702\_11\_10
+## <a id="cos042"></a>\[#042\] Cam\_Port33\_702\_11\_10
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|33 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 ......
@@ -2907,7 +2913,7 @@ _\[Signal Lost\]_
 **Xenon**<br>
 Cough cough...
 
-*\[Closes pocketwatch\]*
+_\[Closes pocketwatch\]_
 
 **ConneR**<br>
 ... Ah, Mr. Jackson. Apologies. It's too noisy here, hence why I didn't notice you.
@@ -2918,7 +2924,7 @@ She said that we're still a few hours away from arriving.
 **ConneR**<br>
 I know.
 
-*\[Violin sound\]*
+_\[Violin sound\]_
 
 **Xenon**<br>
 ... What are you doing?
@@ -2929,7 +2935,7 @@ I found this crappy violin in the old storage compartment over there. Although t
 **Xenon**<br>
 ......
 
-*\[Violin sound\]*
+_\[Violin sound\]_
 
 **ConneR**<br>
 The sound is off... but have you heard this melody before?
@@ -3027,7 +3033,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos043"/>\[#043\] Audio\_Cafe\_690\_03\_16
+## <a id="cos043"></a>\[#043\] Audio\_Cafe\_690\_03\_16
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3046,7 +3052,7 @@ You seem quite confident... I'm already too old to understand the stuff you youn
 **ConneR**<br>
 Is that so... thank you for the advice. I will keep it in mind.
 
-*\[Hits Doors\]*
+_\[Hits Doors\]_
 
 **???**<br>
 Ugh! Haa... Whew...
@@ -3064,7 +3070,7 @@ Got busted! Pops... gimme a hand, will you...
 Hehe... what transaction fail? Did you not see these two cases...<br>
 Ugh!
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **Saxon**<br>
 Save that for later. The law enforcement agents are patrolling. Go hide in the basement, quick!<br>
@@ -3077,7 +3083,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos044"/>\[#044\] Cam\_Base\_690\_03\_16
+## <a id="cos044"></a>\[#044\] Cam\_Base\_690\_03\_16
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3148,7 +3154,7 @@ Buyer? Seller? You look like a fawn who wandered into a pack of wolves without r
 **ConneR**<br>
 I'm a seller... I don't mind showing it to you since I can't decrypt this data either. The buyer offered a good price, and I just so happen to have a way to obtain it.
 
-*\[Load data\]*
+_\[Load data\]_
 
 **???**<br>
 This serial number... how did you get your hands on this stuff!?
@@ -3245,7 +3251,7 @@ This place is...?
 One of my "offices". We'll discuss the details there.<br>
 I look forward to our partnership. Let's start from zero... Partners?
 
-*\[High Five\]*
+_\[High Five\]_
 
 **ConneR**<br>
 ... Partners.
@@ -3254,7 +3260,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos045"/>\[#045\] Audio\_Sasha\_690\_03\_17
+## <a id="cos045"></a>\[#045\] Audio\_Sasha\_690\_03\_17
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3390,7 +3396,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos046"/>\[#046\] Audio\_Home\_676\_04\_08
+## <a id="cos046"></a>\[#046\] Audio\_Home\_676\_04\_08
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3409,7 +3415,7 @@ Wake up, son.
 **ConneR**<br>
 Five more minutes...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 ... Uhhh... Okay, I'm up...
@@ -3453,7 +3459,7 @@ I'm good. You can leave to take a break now.
 **Grace**<br>
 Understood. Thank you, sir.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Colin**<br>
 ... Your table manners are not refined enough.
@@ -3507,7 +3513,7 @@ Is that really enough for you? Should I ask Grace to make you some more?
 It's okay!<br>
 I'm full!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Alyxia**<br>
 You... Sigh, why do you always have to be so strict?
@@ -3545,7 +3551,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos047"/>\[#047\] Audio\_St166\_690\_3\_23
+## <a id="cos047"></a>\[#047\] Audio\_St166\_690\_3\_23
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3643,7 +3649,7 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos048"/>\[#048\] Audio\_Graveyard\_682\_06\_16
+## <a id="cos048"></a>\[#048\] Audio\_Graveyard\_682\_06\_16
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3668,7 +3674,7 @@ It's that kind of job after all. To be honest, we're all mentally prepared for t
 **Raymond**<br>
 Riya.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Man B**<br>
 Ah, captain Raymond.
@@ -3731,7 +3737,7 @@ All in all, my sincere condolences, Riya... If there's anything you need, please
 
 _\[»»» Fast Forward 5 minutes»»»\]_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Raymond**<br>
 ... Stop hiding, you brat.
@@ -3764,7 +3770,7 @@ However, if you're determined to see what's "beyond" these skies... your mother 
 **Raymond**<br>
 Farewell... son of Luka.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 ......
@@ -3772,13 +3778,13 @@ Farewell... son of Luka.
 **Sagar**<br>
 ... Beyond... the sky...
 
-*\[Eagle Screech\]*
+_\[Eagle Screech\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos049"/>\[#049\] Cam\_Sasha\_690\_06\_30
+## <a id="cos049"></a>\[#049\] Cam\_Sasha\_690\_06\_30
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -3930,7 +3936,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos050"/>\[#050\] Audio\_admins\_690\_07\_07
+## <a id="cos050"></a>\[#050\] Audio\_admins\_690\_07\_07
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4067,7 +4073,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos051"/>\[#051\] Cam\_Hotel\_690\_07\_09
+## <a id="cos051"></a>\[#051\] Cam\_Hotel\_690\_07\_09
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4101,7 +4107,7 @@ This is delicious! I've been here so many times, yet I never thought of this com
 **ConneR**<br>
 I'm flattered. Then, as the ending to this meal, this 90\-year aged fine red wine, I believe you'd be very satisfied with it as well.
 
-*\[Glass clinks\]*
+_\[Glass clinks\]_
 
 **Sasha**<br>
 ......! Amazing... It tastes completely different after having the main course just now. On top of that, the impression left on the taste buds by the aperitif... I had this wine before, but it's nothing like this.
@@ -4232,7 +4238,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos052"/>\[#052\] Audio\_Home\_683\_07\_09
+## <a id="cos052"></a>\[#052\] Audio\_Home\_683\_07\_09
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4242,7 +4248,7 @@ _\[Signal Lost\]_
 **Colin**<br>
 BASTARD! This guy too, that guy too... none of these bastards believe me!
 
-*\[Things breaking\]*
+_\[Things breaking\]_
 
 **Colin**<br>
 For the past few decades, all the things I have done for you people, all the items I had excavated... and this is how you repay me!? A suspension!? "Honorable employee"... What the goddamn f\*\*\* is this garbage bulls\*\*\*!
@@ -4250,7 +4256,7 @@ For the past few decades, all the things I have done for you people, all the ite
 **ConneR**<br>
 ......
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Colin**<br>
 You sons of b\*\*\*\*\*\*! If you don't believe me, then open my brain! Dissect it all you want! You'll get to see the sight of those damn Architects attacking us...
@@ -4258,7 +4264,7 @@ You sons of b\*\*\*\*\*\*! If you don't believe me, then open my brain! Dissect 
 **ConneR**<br>
 Sighs...
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **ConneR**<br>
 ... Father?
@@ -4266,7 +4272,7 @@ Sighs...
 **Alyxia**<br>
 Colin, it's me.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 What's the matter, mothe... Yikes! Your face...
@@ -4286,7 +4292,7 @@ Tell me...?
 **Alyxia**<br>
 Colin... let's leave this home.
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **ConneR**<br>
 L, leave?
@@ -4348,7 +4354,7 @@ Mother?
 **ConneR**<br>
 ......
 
-*\[Things breaking\]*
+_\[Things breaking\]_
 
 **ConneR**<br>
 Huh! He's awake... Mother, go! Now!
@@ -4365,7 +4371,7 @@ I love you, my son...
 **ConneR**<br>
 I love you too... mom.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Colin**<br>
 Booze? Where is my Booze?<br>
@@ -4381,7 +4387,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos053"/>\[#053\] Audio\_St199\_690\_07\_10
+## <a id="cos053"></a>\[#053\] Audio\_St199\_690\_07\_10
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4430,7 +4436,7 @@ Tch...
 **ConneR**<br>
 The final set of serial numbers has been decrypted. The data is all yours.
 
-*\[Door busts open\]*
+_\[Door busts open\]_
 
 **Agent A**<br>
 ENFORCEMENT AGENTS!! DON'T MOVE!!
@@ -4438,12 +4444,12 @@ ENFORCEMENT AGENTS!! DON'T MOVE!!
 **Member A**<br>
 F\*\*\*!? You sold us out...
 
-*\[Smoke bomb explodes\]*
+_\[Smoke bomb explodes\]_
 
 **Member B**<br>
 _\*cough\* \*cough\*!_ Open fire!
 
-*\[Gunshots\]*
+_\[Gunshots\]_
 
 **Member C**<br>
 Can't see anything! Argh!!
@@ -4451,7 +4457,7 @@ Can't see anything! Argh!!
 **Member B**<br>
 DIE....!!!
 
-*\[Gunshots\]*
+_\[Gunshots\]_
 
 **Member B**<br>
 Wahh!!!
@@ -4467,7 +4473,7 @@ Got it.
 
 _\[→Signal Switches\]_
 
-*\[Sprinting\]*
+_\[Sprinting\]_
 
 **Sasha**<br>
 R! Listen to me, you can escape through the small door in the front. No one should be there, you...!?
@@ -4484,7 +4490,7 @@ S\*\*\*balls! You b\*\*\*\*! How dare you trick us!?
 **Sasha**<br>
 ... Tch!
 
-*\[Gunshots\]*
+_\[Gunshots\]_
 
 **Sasha**<br>
 Argh!
@@ -4492,7 +4498,7 @@ Argh!
 **Andrew**<br>
 Don't move!
 
-*\[Gunshots\]*
+_\[Gunshots\]_
 
 _\[»»» Fast Forward»»»\]_
 
@@ -4562,7 +4568,7 @@ What about the data? Did he take it?
 **Agent C**<br>
 You don't want to talk? So you're with them after all? We'll have a lot more time to open your mouth back at the Bureau.
 
-*\[Heavy Blow\]*
+_\[Heavy Blow\]_
 
 **Sasha**<br>
 Argh!!!
@@ -4571,7 +4577,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos054"/>\[#054\] Multi\_Files\_686\_12\_23
+## <a id="cos054"></a>\[#054\] Multi\_Files\_686\_12\_23
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4581,7 +4587,7 @@ _\[Signal Lost\]_
 **[Tutorial System]**<br>
 _Year J model student representative Zoe Watson, please come to the stage for your speech._
 
-*\[Applause\]*
+_\[Applause\]_
 
 **Student A**<br>
 Of course it's Zoe!
@@ -4637,7 +4643,7 @@ _\[→File Switches: 687\_03\_25\]_
 **Zoe**<br>
 Wahh!!
 
-*\[Falls down\]*
+_\[Falls down\]_
 
 **Trainer**<br>
 Watson! Keep up! You want to be last in the class again?
@@ -4683,7 +4689,7 @@ Opportunity...?
 **Andrew**<br>
 The current Administartion Bureau... Let's just say there's a lot of red tape involving various organizations. If this continues, no matter how hard we try to stop criminal activities on the surface, these organizations will simply yield greater and greater power in the shadows of society. That's why I initiated this plan.
 
-*\[File Projection\]*
+_\[File Projection\]_
 
 **Zoe**<br>
 "Infiltration Plan"...?
@@ -4708,7 +4714,7 @@ Ha... don't be silly... That bastard never had the intention to give us back our
 **Coral**<br>
 You knew very well yourself, didn't you...? How many shots have we taken doing  these scumbag jobs... you... are you... Zoe? Or Sasha?
 
-*\[Gunshots\]*
+_\[Gunshots\]_
 
 **Coral**<br>
 Go... now... Go back... and tell Wood... for my sake... tell him...
@@ -4726,7 +4732,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos055"/>\[#055\] Audio\_Truck\_690\_07\_11
+## <a id="cos055"></a>\[#055\] Audio\_Truck\_690\_07\_11
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4796,7 +4802,7 @@ And all the money given to me after each transaction, they were going to be take
 **ConneR**<br>
 But unfortunately for you, the data you folks archived was one that was swapped out by me. The real data has been with me all this time, in the storage unit right behind me.
 
-*\[Data Projection\]*
+_\[Data Projection\]_
 
 **ConneR**<br>
 This is your deleted Law Enforcement Agent profile, right? Zoe Watson.
@@ -4877,7 +4883,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos056"/>\[#056\] Multi\_Files\_686\_12\_21
+## <a id="cos056"></a>\[#056\] Multi\_Files\_686\_12\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -4905,13 +4911,13 @@ Ah, Right! I've made progress on my thesis again. I'm now number 2 in the entire
 **Colin**<br>
 ... Take it away! Don't let me see your unacceptable thesis! To the Neumann family, it's only honorable if it's number 1!
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **ConneR**<br>
 ......<br>
 I'll give you some sedatives. You need to rest. Good night.
 
-*\[Door closes\]*
+_\[Door closes\]_
 
 **Grace**<br>
 Master! You could've asked me to give the medicines to Sir...
@@ -4937,14 +4943,14 @@ Of course I won't give up. One day, we will return to the lives we once had... <
 **Grace**<br>
 Yes, master.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Colin**<br>
 Useless! All of them are a bunch of useless hacks!
 
-*\[Sits on ground\]*
+_\[Sits on ground\]_
 
 **ConneR**<br>
 What exactly... am I doing all this for...?
@@ -4974,7 +4980,7 @@ _\[→File Switches\]_
 **[Tutorial System]**<br>
 _Year J model student representative Zoe Watson, please come to the stage for your speech._
 
-*\[Applause\]*
+_\[Applause\]_
 
 **ConneR**<br>
 ... It's her.
@@ -5007,7 +5013,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos057"/>\[#057\] Audio\_Truck\_690\_07\_11
+## <a id="cos057"></a>\[#057\] Audio\_Truck\_690\_07\_11
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5053,7 +5059,7 @@ When that time arrives, I will appear in front of you once again and ask you the
 **ConneR**<br>
 If I don't give you a reason and excuse like this, you'll be fine with things staying as the status quo? If that's really the case, then yes, you are indeed pathetic.
 
-*\[Loads Gun\]*
+_\[Loads Gun\]_
 
 **Sasha**<br>
 ... ENOUGH! I told you to shut up! How dare you speak like you understand everything! You don't...
@@ -5079,7 +5085,7 @@ Dying at your hands... That's not too bad of an ending for me either.
 **Sasha**<br>
 ......
 
-*\[Retracts gun\]*
+_\[Retracts gun\]_
 
 **ConneR**<br>
 ......
@@ -5109,7 +5115,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos058"/>\[#058\] Audio\_Garion's\_702\_11\_20
+## <a id="cos058"></a>\[#058\] Audio\_Garion's\_702\_11\_20
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5137,7 +5143,7 @@ You told me not to actively connect back to investigate the Æsir incident. That
 **ConneR**<br>
 No need to rush. I just arrived in Node 13 not too long ago. It's quite difficult to find a place with a powerful enough signal here. It's definitely a lot more difficult than walking into a bar and ordering pork knuckles with a light beer, that much I can say for sure.
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **[Xenon]**<br>
 _... And this is your investigation? Stop messing around. Now's not the time for you to be causally sightseeing._
@@ -5148,7 +5154,7 @@ I'm kidding. I still have to eat. Can't do anything with an empty stomach, right
 **[Xenon]**<br>
 _... I'm hanging up._
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **ConneR**<br>
 Haha, quite hot\-blooded, aren't you?<br>
@@ -5220,7 +5226,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos059"/>\[#059\] Audio\_Garion's\_702\_11\_20
+## <a id="cos059"></a>\[#059\] Audio\_Garion's\_702\_11\_20
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5236,7 +5242,7 @@ Danke schön\~ Your food is truly a treat to all senses. A visit to this city ju
 **Waiter**<br>
 We are very honored to receive such kind words.
 
-*\[Notification\]*
+_\[Notification\]_
 
 **Waiter**<br>
 ... Got it. Understood.<br>
@@ -5256,12 +5262,12 @@ Danke.
 **Waiter**<br>
 If you need anything else, please ring the bell. I'll be at your service right away.
 
-*\[Close curtains\]*
+_\[Close curtains\]_
 
 **ConneR**<br>
 Three olives... Placing the memory unit under the glass, is it? You're still as careful as you always have been.
 
-*\[Plays Message\]*
+_\[Plays Message\]_
 
 **[???]**<br>
 _Quadrant III, 57th street, No. 16._
@@ -5273,7 +5279,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos060"/>\[#060\] Audio\_13St57\_702\_11\_21
+## <a id="cos060"></a>\[#060\] Audio\_13St57\_702\_11\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5354,7 +5360,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos061"/>\[#061\] Audio\_Sasha\_702\_11\_21
+## <a id="cos061"></a>\[#061\] Audio\_Sasha\_702\_11\_21
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5507,25 +5513,25 @@ How nostalgic, we're partners in crime again.
 **ConneR**<br>
 _\*Chuckles\*_ Partners.
 
-*\[High Five\]*
+_\[High Five\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos062"/>\[#062\] Audio\_Sasha\_702\_12\_15
+## <a id="cos062"></a>\[#062\] Audio\_Sasha\_702\_12\_15
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|45 |    No     |
 
 ### Log Content
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Sasha**<br>
 R? I'm coming in?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Sasha**<br>
 R......?
@@ -5536,7 +5542,7 @@ R......?
 **Sasha**<br>
 He fell asleep... Falling asleep while sitting on a chair, holding a violin... Is he a child or something...
 
-*\[Covers\]*
+_\[Covers\]_
 
 **ConneR**<br>
 ... Sasha, you're here? Sorry...
@@ -5593,7 +5599,7 @@ Inside the layer is a piece of sheet music with just a single note. The note on 
 **Sasha**<br>
 My instincts tell me... this is probably utilized by the organization as a way to confirm identities and conduct regular operations.
 
-*\[Books falling\]*
+_\[Books falling\]_
 
 **ConneR**<br>
 Uhh, sorry... what an embarrassment.
@@ -5687,7 +5693,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos063"/>\[#063\] Audio\_Sasha\_702\_12\_16
+## <a id="cos063"></a>\[#063\] Audio\_Sasha\_702\_12\_16
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5723,7 +5729,7 @@ Then... I'm going to start.
 **ConneR**<br>
 ......
 
-*\[Connection activate\]*
+_\[Connection activate\]_
 
 **ConneR**<br>
 ......!<br>
@@ -5862,7 +5868,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="cos064"/>\[#064\] Audio\_13St35\_702\_12\_17
+## <a id="cos064"></a>\[#064\] Audio\_13St35\_702\_12\_17
 ### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
@@ -5943,7 +5949,7 @@ Danke schön, Mr. Neumann. Your delivery is in tent number 9.
 **ConneR**<br>
 Perfect, as always. Truly, thank you.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sasha**<br>
 ... When I first heard you talk about it, I thought you were joking. I never thought Node 13 would have a place like this.
@@ -5958,7 +5964,7 @@ Quite an impressive system... How is the information passed?
 Trade secret.<br>
 Ah, here's my "ride". I'll take it to the pick\-up station on the border. That way, they won't be able to track me... I hope Mr. Sagar won't feel too bad about this.
 
-*\[Horse Neighs\]*
+_\[Horse Neighs\]_
 
 **Sasha**<br>
 Wah! What a fierce horse...
@@ -6014,7 +6020,7 @@ I'm sorry, I've changed a lot, haven't I.
 Haha, relax.<br>
 The person you are now is still very much to my liking.
 
-*\[Horse Neighs\]*
+_\[Horse Neighs\]_
 
 **ConneR**<br>
 Well then, Auf Wiedersehen… partner.

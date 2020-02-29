@@ -1,9 +1,9 @@
 # Drew iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] New Account](#d0101)
 - [\[#002\] Uncomfortable environment](#d0201)
 
-## <a id="d0101"/>\[#001\] New Account
+## <a id="d0101"></a>\[#001\] New Account
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -18,7 +18,7 @@ I guess I'll use it only when I am by myself.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="d0201"/>\[#002\] Uncomfortable environment
+## <a id="d0201"></a>\[#002\] Uncomfortable environment
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|

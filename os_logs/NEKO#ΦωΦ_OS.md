@@ -1,5 +1,5 @@
 # NEKO#ΦωΦ OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Cam057\_AB\_702\_09\_20](#nos001)
 - [\[#002\] Cam009\_AB\_702\_09\_20](#nos002)
 - [\[#003\] Cam11\_St07\_702\_09\_20](#nos003)
@@ -36,7 +36,7 @@
 - [\[#034\] Cam\_ShadowSt\_702\_12\_21](#nos034)
 - [\[#035\] Audio\_Baro03\_702\_12\_20](#nos035)
 
-## <a id="nos001"/>\[#001\] Cam057\_AB\_702\_09\_20
+## <a id="nos001"></a>\[#001\] Cam057\_AB\_702\_09\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -147,7 +147,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos002"/>\[#002\] Cam009\_AB\_702\_09\_20
+## <a id="nos002"></a>\[#002\] Cam009\_AB\_702\_09\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -261,7 +261,7 @@ EH!? Really? Where? What happened!?
 **NEKO#ΦωΦ**<br>
 ......
 
-*\[Engine Noise\]*
+_\[Engine Noise\]_
 
 **Xenon**<br>
 The car is here. They will take you back home. Get in the car quickly. You don't want people to catch us three standing together.
@@ -275,7 +275,7 @@ Haha, didn't we exchanged iM? We can chat after you get home. I will send you th
 **NEKO#ΦωΦ**<br>
 OK! That's a promise! Thanks, guys! Bye bye\~
 
-*\[Engine Noise\]*
+_\[Engine Noise\]_
 
 **Xenon**<br>
 See? Pretty unique person, right?
@@ -305,7 +305,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos003"/>\[#003\] Cam11\_St07\_702\_09\_20
+## <a id="nos003"></a>\[#003\] Cam11\_St07\_702\_09\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -316,7 +316,7 @@ _\[Signal Lost\]_
 Yeepee\~ I'm home, I'm home!<br>
 Say\~ that was one heck of an uncomfortable ride, wasn't it? Can't you guys get a better car? NEKO was wrongly accused; shouldn't I be treated better!?
 
-*\[Engine Sounds\]*
+_\[Engine Sounds\]_
 
 **Agent**<br>
 ... Get out the car.
@@ -465,16 +465,16 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos004"/>\[#004\] Cam\_NL\_702\_09\_26
+## <a id="nos004"></a>\[#004\] Cam\_NL\_702\_09\_26
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|42 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kenta**<br>
 Ah, Big brother Xenon!
@@ -537,7 +537,7 @@ Speaking of which, do you know about her getting injured?
 **NEKO#ΦωΦ**<br>
 Of course I do! NEKO called her a while ago; she said nothing is serious...
 
-*\[Knock on the head\]*
+_\[Knock on the head\]_
 
 **NEKO#ΦωΦ**<br>
 Oww! That hurts! Why did you hit me!?
@@ -617,7 +617,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos005"/>\[#005\] Cam11\_St07\_702\_09\_29
+## <a id="nos005"></a>\[#005\] Cam11\_St07\_702\_09\_29
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -687,14 +687,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos006"/>\[#006\] Cam\_NL\_702\_09\_29
+## <a id="nos006"></a>\[#006\] Cam\_NL\_702\_09\_29
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|48 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Thank goodness, they went to pick up Kenta. Nobody happens to be home right now. Come in, quick.
@@ -735,7 +735,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos007"/>\[#007\] Cam\_NL\_702\_09\_29
+## <a id="nos007"></a>\[#007\] Cam\_NL\_702\_09\_29
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -861,7 +861,7 @@ Hoho\~? This is the first I ever see you smile; it's cute! An idol should be mor
 **PAFF**<br>
 I, is that so...?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Ah, they're back. Make sure you hide yourself carefully. My little brother is a HUGE\~ fan of yours. If he finds out you're hiding here, he's gonna cause a big ruckus!
@@ -870,7 +870,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos008"/>\[#008\] Cam\_NL\_702\_09\_30
+## <a id="nos008"></a>\[#008\] Cam\_NL\_702\_09\_30
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -895,7 +895,7 @@ NEKO still has some work to do. I'll sleep later. Goodnight.
 **PAFF**<br>
 Goodnight.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Whew\~ Alrighty then, what should I do next?
@@ -981,14 +981,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos009"/>\[#009\] Audio\_NL\_702\_10\_04
+## <a id="nos009"></a>\[#009\] Audio\_NL\_702\_10\_04
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|53 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Here, see if these clothes fit you. You can't just wear NEKO's clothes all the time, can you?
@@ -1014,7 +1014,7 @@ Hoho\~\~ So PAFF is the type that's weak against tickles...? Take this! Tickle t
 **PAFF**<br>
 Ahahaha! Ahahaha!
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Kouhei**<br>
 NEKO? Who's laughing?
@@ -1029,7 +1029,7 @@ We three are going to the mall, and we'll buy ingredients for dinner on the way.
 **NEKO#ΦωΦ**<br>
 Nothing comes to mind! Have a safe trip\~
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Whew... that was close. PAFF, you're too loud! We're this close to being busted!
@@ -1136,14 +1136,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos010"/>\[#010\] Audio\_Asakura\_699\_12\_24
+## <a id="nos010"></a>\[#010\] Audio\_Asakura\_699\_12\_24
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|54 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Lin\~da\~chan\~! Welcome!
@@ -1300,7 +1300,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos011"/>\[#011\] Cam\_Asakura\_699\_12\_24
+## <a id="nos011"></a>\[#011\] Cam\_Asakura\_699\_12\_24
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1337,7 +1337,7 @@ Heard that you made another new song? Can I listen to it?
 **NEKO#ΦωΦ**<br>
 ...... Sure!
 
-*\[Music\]*
+_\[Music\]_
 
 **Linda**<br>
 Hoho, this tempo really suits the holiday atmosphere. It's like everyone is holding hands and dancing together.
@@ -1345,7 +1345,7 @@ Hoho, this tempo really suits the holiday atmosphere. It's like everyone is hold
 **NEKO#ΦωΦ**<br>
 Hehe... it's pretty neat, right!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 Oh? Is this NEKO's new song? Sounds very joyful.
@@ -1395,7 +1395,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos012"/>\[#012\] Audio\_Asakura\_702\_10\_13
+## <a id="nos012"></a>\[#012\] Audio\_Asakura\_702\_10\_13
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1423,7 +1423,7 @@ I want to finish this!
 **NEKO#ΦωΦ**<br>
 Huh? Isn't that show over?
 
-*\[Music\]*
+_\[Music\]_
 
 **Kenta**<br>
 I want to finish hearing PAFF's ED!
@@ -1532,7 +1532,7 @@ I, I know that. What? Why are you saying this out of nowhere? Ahahaha...
 
 _\[→Signal Switch\]_
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Whew\~<br>
@@ -1557,7 +1557,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos013"/>\[#013\] Audio\_Asakura\_702\_11\_01
+## <a id="nos013"></a>\[#013\] Audio\_Asakura\_702\_11\_01
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1612,7 +1612,7 @@ _...... Our sources show that he is none other than the biggest suspect for "Æs
 **NEKO#ΦωΦ**<br>
 ... How is that possible...! Ugh...!
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Kouhei**<br>
 NEKO!?
@@ -1630,9 +1630,9 @@ _According to our inside sources, the Administration Bureau received investigati
 Ughh...... AHHHHHHHH!!
 
 [![naos3001.png](./attachments/naos3001.png)](https://youtu.be/QgtLOM2iX2U)<br>
-*[Click the image to watch the movie]*
+_[Click the image to watch the movie]_
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Kenta**<br>
 Big sister!?
@@ -1652,14 +1652,14 @@ NEKO, are you alright!?
 **NEKO#ΦωΦ**<br>
 ... NEKO... will go to her room and get some rest for now...!
 
-*\[Runs\]*
+_\[Runs\]_
 
 **Kouhei**<br>
 Hey! ......?
 
 _\[→Signal Switch\]_
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Hah...... Hah......
@@ -1726,14 +1726,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos014"/>\[#014\] Cam\_Academy\_702\_11\_06\_1
+## <a id="nos014"></a>\[#014\] Cam\_Academy\_702\_11\_06\_1
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|58 |    No     |
 
 ### Log Content
-*\[Class Bell\]*
+_\[Class Bell\]_
 
 **Student A**<br>
 Sigh... Why do we have to come to school for a stupid seminar during break...
@@ -1759,7 +1759,7 @@ Can I sit next to you? We're all big fans of you!
 **NEKO#ΦωΦ**<br>
 Sure\~
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **ConneR**<br>
 Please be quiet. Class is about to start.
@@ -1780,7 +1780,7 @@ Woah... what a smug teacher.
 **Student B**<br>
 Isn't Colin Neumann the guy the news said is dead a while ago...?
 
-*\[Putting down heavy things\]*
+_\[Putting down heavy things\]_
 
 **Student**<br>
 ...... An ant colony!?
@@ -1826,7 +1826,7 @@ The Crystal Ants in this case are probably the last surviving batch in the entir
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Class Bell\]*
+_\[Class Bell\]_
 
 **Student B**<br>
 That lecturer... he feels so... weird. I don't want to take his classes anymore...
@@ -1890,7 +1890,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos015"/>\[#015\] Cam\_Academy\_702\_11\_06\_2
+## <a id="nos015"></a>\[#015\] Cam\_Academy\_702\_11\_06\_2
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1954,7 +1954,7 @@ Xenon is not the criminal! You idiots definitely arrested the wrong person!
 **Raven**<br>
 Sighs... can't help it then. Hawk, take that thing out.
 
-*\[Device activate\]*
+_\[Device activate\]_
 
 **NEKO#ΦωΦ**<br>
 ... What is that!? What are you guys going to do!?
@@ -2044,7 +2044,7 @@ _\*Chuckles\*_ Looks like your plan to take credit for the case has backfired sp
 Forget it! Hawk, let's go.<br>
 Miss Asakura, we will visit you again...
 
-*\[Engine sounds\]*
+_\[Engine sounds\]_
 
 **ConneR**<br>
 Thought they would at least improve a bit after all this time... How boring. Alright, everything is fine now. Go home.
@@ -2078,7 +2078,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos016"/>\[#016\] Audio\_Cafe\_702\_11\_07\_1
+## <a id="nos016"></a>\[#016\] Audio\_Cafe\_702\_11\_07\_1
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2107,7 +2107,7 @@ Very well. I'll make a new one for you. This one is on me.
 **Linda**<br>
 Thank you.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **NEKO#ΦωΦ**<br>
 NEKO! On stage!
@@ -2181,7 +2181,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos017"/>\[#017\] Audio\_Cafe\_702\_11\_07\_2
+## <a id="nos017"></a>\[#017\] Audio\_Cafe\_702\_11\_07\_2
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2318,7 +2318,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos018"/>\[#018\] Audio\_MB\_702\_11\_10
+## <a id="nos018"></a>\[#018\] Audio\_MB\_702\_11\_10
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2331,7 +2331,7 @@ Ooh, lucky. No customers in the shop now. Aroma\-chan, wait here. I'll be done i
 **PAFF**<br>
 Okay.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Frank**<br>
 Welcome to "Mountain Breeze Musique".
@@ -2376,7 +2376,7 @@ Really!?
 **Ting**<br>
 Yeah. It's not the easiest place to get to. I'll write you the address. Give me a sec.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Frank**<br>
 Welcome to "Mountain Breeze Musique".
@@ -2399,7 +2399,7 @@ WAH\~ Hahaha, she is NEKO's friend. Don't mind her.
 **Frank**<br>
 ......?
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **NEKO#ΦωΦ**<br>
 What are you doing? Didn't NEKO tell you to wait outside?
@@ -2425,7 +2425,7 @@ Umm... Nope! Uncle Frank, we'll be on our way! Thanks! See ya!
 **Ting**<br>
 Hey... wait a second! Are you PAF...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Linda**<br>
 Ting! You messed up UV's order again! How many times is this? I'm tired of getting chewed out by boss because of your screw\-ups!
@@ -2445,7 +2445,7 @@ Go, now.
 **NEKO#ΦωΦ**<br>
 Ah... gotcha!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Ting**<br>
 I don't think there's anything wrong...
@@ -2464,7 +2464,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos019"/>\[#019\] Audio\_St33\_702\_11\_10
+## <a id="nos019"></a>\[#019\] Audio\_St33\_702\_11\_10
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2542,7 +2542,7 @@ Don't want you to get recognized again.
 **PAFF**<br>
 Okay!
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **NEKO#ΦωΦ**<br>
 ......
@@ -2553,7 +2553,7 @@ Okay!
 **Jerry**<br>
 Coming.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Jerry**<br>
 ... Who the heck are you?
@@ -2621,7 +2621,7 @@ That's enough, right? That's really all I know...
 **NEKO#ΦωΦ**<br>
 Ah, okay. Thank you...
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **PAFF**<br>
 NEKO... Don't cry.
@@ -2655,7 +2655,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos020"/>\[#020\] Audio\_Velvet\_702\_11\_12
+## <a id="nos020"></a>\[#020\] Audio\_Velvet\_702\_11\_12
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2681,7 +2681,7 @@ If I knew it would be this tiring, I wouldn't have organized it in the first pla
 **Linda**<br>
 All that whining yet you still keep organizing it. Don't bring trouble on yourself if you don't want to.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Vicky**<br>
 Excuse me, is the manager here?
@@ -2744,7 +2744,7 @@ Hehe, of course I'm down with that! Feel free to come anytime!
 **Vicky**<br>
 Ah, thank you.
 
-*\[Drinks coffee\]*
+_\[Drinks coffee\]_
 
 **Vicky**<br>
 Speaking of which, you can recall young musicians as well, right? There's a little girl DJ who gain popularity these days; I'm very interested in her.
@@ -2791,7 +2791,7 @@ Not really. Recently, she has come here a lot less. She's probably busy.
 **Jacky**<br>
 Oh, gotcha. I'll leave it to you then\~
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Linda**<br>
 ... She's definitely up to something.
@@ -2800,7 +2800,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos021"/>\[#021\] Message\_Linda\_702\_11\_XX
+## <a id="nos021"></a>\[#021\] Message\_Linda\_702\_11\_XX
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2925,7 +2925,7 @@ _[Sent at 03:54 PM]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos022"/>\[#022\] Cam\_St136\_695\_11\_13
+## <a id="nos022"></a>\[#022\] Cam\_St136\_695\_11\_13
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2970,7 +2970,7 @@ Tch...
 **Daniel**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Daniel**<br>
 ... Everyone, is it?
@@ -3015,7 +3015,7 @@ No, even before that. Ever since Aroma's car accident...
 **Clara**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Daniel**<br>
 ... I'm not going to the reunion after all.
@@ -3035,7 +3035,7 @@ I'm going to grab a drink myself. Sorry 'bout that, class rep. We can't get ever
 **Clara**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Daniel**<br>
 ...? What are you doing?
@@ -3084,13 +3084,13 @@ You've grown taller again.
 **Daniel**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos023"/>\[#023\] Audio\_NL\_702\_11\_13
+## <a id="nos023"></a>\[#023\] Audio\_NL\_702\_11\_13
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3109,7 +3109,7 @@ Ugh...
 **NEKO#ΦωΦ**<br>
 You... can't fall asleep?
 
-*\[Turns On Light\]*
+_\[Turns On Light\]_
 
 **NEKO#ΦωΦ**<br>
 Awawawa! Your nose is bleeding! What's the matter!? Hey, wake up!
@@ -3185,7 +3185,7 @@ Meowbot, search images of "Midwest Town Area"!
 **[Meowbot]**<br>
 _Search complete meow! Meowbot found lots of results meow!_
 
-*\[Projection\]*
+_\[Projection\]_
 
 **PAFF**<br>
 Ah... it does look very similar. This should be the area!
@@ -3216,7 +3216,7 @@ Then let's sleep now. G\-night!
 **PAFF**<br>
 Yes... Goodnight.
 
-*\[Turns Off Light\]*
+_\[Turns Off Light\]_
 
 **PAFF**<br>
 But... Why did I...
@@ -3225,14 +3225,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos024"/>\[#024\] Audio\_Evans\_702\_11\_14
+## <a id="nos024"></a>\[#024\] Audio\_Evans\_702\_11\_14
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|62 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **[Daniel]**<br>
 _Who is it?_
@@ -3281,7 +3281,7 @@ _……_
 **[Daniel]**<br>
 _I've opened the door. You can take the left elevator to come upstairs._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Vicky**<br>
 ......!
@@ -3296,7 +3296,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos025"/>\[#025\] Cam\_Evans\_702\_11\_14
+## <a id="nos025"></a>\[#025\] Cam\_Evans\_702\_11\_14
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3394,7 +3394,7 @@ Eh? Sis Vicky...?
 **Hayato**<br>
 .. Certainly!
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Daniel**<br>
 ... So you heard everything?
@@ -3432,7 +3432,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos026"/>\[#026\] Cam\_Evans\_702\_11\_14
+## <a id="nos026"></a>\[#026\] Cam\_Evans\_702\_11\_14
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3459,7 +3459,7 @@ The buildings on the upper levels of Tower are all like this.
 **PAFF**<br>
 Okay.
 
-*\[Elevator Door Opens\]*
+_\[Elevator Door Opens\]_
 
 **Hayato**<br>
 Sis Vicky, wait for me! Why are we leaving in a hurry all of a sudden?
@@ -3572,7 +3572,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos027"/>\[#027\] Audio\_Cafe\_702\_11\_17
+## <a id="nos027"></a>\[#027\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3664,7 +3664,7 @@ Muuu... NEKO wants to help Xenon out too...
 **JOE**<br>
 ... Keep your voice down. Someone is here.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **PAFF**<br>
 Hello...
@@ -3706,14 +3706,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos028"/>\[#028\] Audio\_Trans\_08\_702\_11\_20
+## <a id="nos028"></a>\[#028\] Audio\_Trans\_08\_702\_11\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|65 |    No     |
 
 ### Log Content
-*\[Platform Announcement Ring\]*
+_\[Platform Announcement Ring\]_
 
 **[Platform Announcement]**<br>
 _Attention, fellow passengers. The express train directly to Node 03 is now arriving at the platform. For your own safety, please stand behind the yellow line._
@@ -3770,7 +3770,7 @@ A\-apologies, Miss Russell! We'll be leaving right away... NEKO.
 **NEKO#ΦωΦ**<br>
 Wait a second! NEKO's not done yet...
 
-*\[Train arrives\]*
+_\[Train arrives\]_
 
 **Vicky**<br>
 Goddamnit, that stinkin wildcat... Hey, Hayato!
@@ -3805,7 +3805,7 @@ However, don't you misunderstand me! My instincts tell me that there are still p
 **Hayato**<br>
 Sis Vicky! Actually...
 
-*\[Platform Announcement Ring\]*
+_\[Platform Announcement Ring\]_
 
 **[Platform Announcement]**<br>
 _Attention, fellow passengers. The express train directly to Node 03 is about to depart. For passengers who haven't board the train, please board soon. Thank you for your cooperation._
@@ -3838,7 +3838,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos029"/>\[#029\] Cam\_Trans\_08\_702\_11\_20
+## <a id="nos029"></a>\[#029\] Cam\_Trans\_08\_702\_11\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3900,7 +3900,7 @@ Eh!? Didn't you just have lunch...?
 **NEKO#ΦωΦ**<br>
 Welp, NEKO's still growing after all. Haha! I'll be right back!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **PAFF**<br>
 ... She's trying to give us some alone time together, isn't she?<br>
@@ -4005,7 +4005,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos030"/>\[#030\] Audio\_Shiraishi\_702\_11\_22
+## <a id="nos030"></a>\[#030\] Audio\_Shiraishi\_702\_11\_22
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4068,7 +4068,7 @@ It's fine. I'm feeling pretty good today. About time I do a little exercise too.
 **PAFF**<br>
 Thank you so much\~ Let us help out too!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Saku**<br>
 ... NEKO, so the female friend you mentioned on the phone is PAFF, the idol you used to talk about a lot? There has been a lot of news about you and her.
@@ -4136,7 +4136,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos031"/>\[#031\] Audio\_Grave\_702\_11\_23
+## <a id="nos031"></a>\[#031\] Audio\_Grave\_702\_11\_23
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4220,7 +4220,7 @@ This is really bad... I\-I'll keep looking around...
 **PAFF**<br>
 Maybe they're... Hmm...?
 
-*\[Collapse\]*
+_\[Collapse\]_
 
 **Hayato**<br>
 Kaori!? Kaori!!
@@ -4239,7 +4239,7 @@ You fainted all of a sudden! Don't move, your nose is still dripping blood...
 **PAFF**<br>
 ......! The bags!
 
-*\[Runs\]*
+_\[Runs\]_
 
 **Hayato**<br>
 Eh? Hey! Kaori!? Where are you going?
@@ -4298,7 +4298,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos032"/>\[#032\] Cam\_Nora\_702\_12\_14
+## <a id="nos032"></a>\[#032\] Cam\_Nora\_702\_12\_14
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4346,7 +4346,7 @@ Right! We should do what Nora told us and hide here. It's safer that way, isn't 
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Parts moving\]*
+_\[Parts moving\]_
 
 **[ROBO_Head]**<br>
 _This unit, join as well._
@@ -4365,14 +4365,14 @@ Gotcha. Then you'll act according to my commands. We help Simon create an opport
 If we're lucky.<br>
 You three, stay here. Hayato, watch the door closely.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Xenon!
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **PAFF**<br>
 It's still going on...
@@ -4383,7 +4383,7 @@ Don't worry, Kaori... The sounds have been coming from a distance away. Looks li
 **PAFF**<br>
 But...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **NEKO#ΦωΦ**<br>
 _\*Sniff\*... \*Sobs\*..._
@@ -4391,7 +4391,7 @@ _\*Sniff\*... \*Sobs\*..._
 **PAFF**<br>
 NEKO?
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **NEKO#ΦωΦ**<br>
 _\*Bawls\*_... Waah! WAAAAHHHHH!
@@ -4424,12 +4424,12 @@ NEKO said she would help Aroma\-chan, so NEKO will help to the very end! It's al
 Same with Uncle Daigo, and Sis Cherry, and X\-X\-Xenon... They're all out there, despite this being a war, despite this being so terrifying...<br>
 If anything is to happen to them...
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **NEKO#ΦωΦ**<br>
 Eek...!
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **PAFF**<br>
 No need to be afraid. We're all here.
@@ -4437,7 +4437,7 @@ No need to be afraid. We're all here.
 **Hayato**<br>
 ... Damnit... I want to help too, anything would do...
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **NEKO#ΦωΦ**<br>
 NEKO... is someone that can't do anything either...
@@ -4446,14 +4446,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos033"/>\[#033\] Audio\_TigerSt\_702\_12\_15
+## <a id="nos033"></a>\[#033\] Audio\_TigerSt\_702\_12\_15
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|68 |    No     |
 
 ### Log Content
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Hayato**<br>
 Who would call...? NEKO!?
@@ -4545,12 +4545,12 @@ _\[Call Ends\]_
 
 _\[→Signal Switches\]_
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Saku**<br>
 Coming!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Saku**<br>
 NEKO! We're so worried about you! When we saw those reports on the news, we've been wondering whether they're about you or not... How are you feeling? Are you okay? Did you get hurt?
@@ -4561,7 +4561,7 @@ NEKO! We're so worried about you! When we saw those reports on the news, we've b
 **Saku**<br>
 NEKO...?
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **Saku**<br>
 ......!
@@ -4583,7 +4583,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos034"/>\[#034\] Cam\_ShadowSt\_702\_12\_21
+## <a id="nos034"></a>\[#034\] Cam\_ShadowSt\_702\_12\_21
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4593,14 +4593,14 @@ _\[Signal Lost\]_
 **NEKO#ΦωΦ**<br>
 WAHHH... It's really pouring. Shoulda listened to mommy and brought an umbrella. The weather report here is as sucky as always! I'm starting to miss Node 08...
 
-*\[Running\]*
+_\[Running\]_
 
 **NEKO#ΦωΦ**<br>
 Aroma\-chan said it was somewhere around here...?<br>
 ......!<br>
 Xenon...?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **NEKO#ΦωΦ**<br>
 ......
@@ -4609,7 +4609,7 @@ Xenon...?
 It really is Xenon! I finally found you... wah! My goddd! How come you are all black and blue!? You're getting soaked!<br>
 Lemme take a pic for Aroma\-chan first...
 
-*\[Takes Picture\]*
+_\[Takes Picture\]_
 
 ![nos3401.png](./attachments/nos3401.png)
 
@@ -4625,7 +4625,7 @@ You... What happened to you!? How did you end up like this!?
 **NEKO#ΦωΦ**<br>
 Y\-Y\-Y\-You... You gotta go to the hospital! Let's go to Kyubo Medical Center? Nora will definitely help you for free! Ah, gotta tell everybody too.
 
-*\[Pulls hand\]*
+_\[Pulls hand\]_
 
 **NEKO#ΦωΦ**<br>
 Erghhh\~\~\~com' on and get up! NEKO can't pull ya all alone!
@@ -4701,7 +4701,7 @@ _... \*sob\*..._
 **Xenon**<br>
 You're clearly not of any use. No need to say that crap to me. I've heard enough of your voice. If you want to feel validated, go somewhere else. Or maybe go fish for compliments from your fans on the internet. I don't care, just go away...
 
-*\[Slap\]*
+_\[Slap\]_
 
 **Xenon**<br>
 ......!?
@@ -4709,7 +4709,7 @@ You're clearly not of any use. No need to say that crap to me. I've heard enough
 **NEKO#ΦωΦ**<br>
 ... You... big, dumb idiot... _\*sob\*_... Fine, you can just rot here!
 
-*\[Running\]*
+_\[Running\]_
 
 **Xenon**<br>
 ......
@@ -4718,7 +4718,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="nos035"/>\[#035\] Audio\_Baro03\_702\_12\_20
+## <a id="nos035"></a>\[#035\] Audio\_Baro03\_702\_12\_20
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4750,12 +4750,12 @@ A single person took out my entire 03 branch... a talent like you... being "up t
 **Xenon**<br>
 ... Shut up.
 
-*\[Loads Gun\]*
+_\[Loads Gun\]_
 
 **Diego**<br>
 ... Haha ... it's the truth. Someone as smart as you must know? There's no way we... have the technology or skill to deal that much damage to Kyuu Hou Kai... But regardless of who it was... I'm very happy that they did it before us.
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Diego**<br>
 Poo wah!! Ha... hahaha... You've been blinded by your anger and hatred... Mr. Smart guy... Just like... ha... your dad back then...
@@ -4769,7 +4769,7 @@ The moment you pull that trigger, you'll become someone "down here"... Ain't no 
 **Xenon**<br>
 ... _\*gulp\*_...
 
-*\[Drinks Liquor\]*
+_\[Drinks Liquor\]_
 
 **Diego**<br>
 I've... spent a lifetime helping... the trash at the bottom... helped them find a new worth... a purpose in life...<br>
@@ -4781,16 +4781,16 @@ Don't you think... you also really need this kind of help right now? People act 
 **Diego**<br>
 If you still insist on pulling that trigger, then at least... let me finish... this last glass of liquor...
 
-*\[Pulls out gun\]*
+_\[Pulls out gun\]_
 
 **Xenon**<br>
 ......!?
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 _\[→Signal Switches\]_
 
-*\[Holding umbrella\]*
+_\[Holding umbrella\]_
 
 **NEKO#ΦωΦ**<br>
 ... Ey. You dead?
@@ -4799,12 +4799,12 @@ _\[→Signal Switches\]_
 ......<br>
 Didn't I tell you to go away?
 
-*\[Squats down\]*
+_\[Squats down\]_
 
 **NEKO#ΦωΦ**<br>
 ......
 
-*\[Wraps up wound\]*
+_\[Wraps up wound\]_
 
 **Xenon**<br>
 ......
@@ -4867,7 +4867,7 @@ Yahooo!! NEKO's here! Brother Kai, thank you. Is Xenon alright?
 **Kai**<br>
 After he came home yesterday he locked himself in his room... Won't answer any questions.
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Kai**<br>
 It's no use. When this guy feels down, he hates it when people bother him.

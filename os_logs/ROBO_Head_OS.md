@@ -1,5 +1,5 @@
 # ROBO_Head OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Cam\_Main\_Log\_697\_04\_06\_1](#ros001)
 - [\[#002\] Cam\_Main\_Log\_697\_04\_06\_2](#ros002)
 - [\[#003\] Cam\_Main\_Log\_697\_04\_06\_3](#ros003)
@@ -36,7 +36,7 @@
 - [\[#034\] Audio\_Bookstore\_702\_12\_24](#ros034)
 - [\[#035\] Audio\_Kyuu\_702\_12\_24](#ros035)
 
-## <a id="ros001"/>\[#001\] Cam\_Main\_Log\_697\_04\_06\_1
+## <a id="ros001"></a>\[#001\] Cam\_Main\_Log\_697\_04\_06\_1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -51,7 +51,7 @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros002"/>\[#002\] Cam\_Main\_Log\_697\_04\_06\_2
+## <a id="ros002"></a>\[#002\] Cam\_Main\_Log\_697\_04\_06\_2
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -77,7 +77,7 @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros003"/>\[#003\] Cam\_Main\_Log\_697\_04\_06\_3
+## <a id="ros003"></a>\[#003\] Cam\_Main\_Log\_697\_04\_06\_3
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -100,7 +100,7 @@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros004"/>\[#004\] Cam\_Main\_Log\_697\_04\_06\_4
+## <a id="ros004"></a>\[#004\] Cam\_Main\_Log\_697\_04\_06\_4
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -127,7 +127,7 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros005"/>\[#005\] Cam\_Main\_Log\_697\_04\_06\_5
+## <a id="ros005"></a>\[#005\] Cam\_Main\_Log\_697\_04\_06\_5
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -142,7 +142,7 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros006"/>\[#006\] Mail\_Log\_702\_09\_23
+## <a id="ros006"></a>\[#006\] Mail\_Log\_702\_09\_23
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -167,7 +167,7 @@ End of message
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros007"/>\[#007\] Main\_Log\_702\_10\_22\_1
+## <a id="ros007"></a>\[#007\] Main\_Log\_702\_10\_22\_1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -195,7 +195,7 @@ Speculation: Data lost due to old memory unit or unexpected hardware damage and 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros008"/>\[#008\] Main\_Log\_702\_10\_22\_2
+## <a id="ros008"></a>\[#008\] Main\_Log\_702\_10\_22\_2
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -240,7 +240,7 @@ Program activation... start
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros009"/>\[#009\] Main\_Log\_702\_10\_23\_1
+## <a id="ros009"></a>\[#009\] Main\_Log\_702\_10\_23\_1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -386,7 +386,7 @@ Program activation...... start
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros010"/>\[#010\] Main\_Log\_702\_10\_23\_2
+## <a id="ros010"></a>\[#010\] Main\_Log\_702\_10\_23\_2
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -450,7 +450,7 @@ Program activation...... start
 **[ROBO_Head]**<br>
 _Detect...... Nora...... Danger......!!_
 
-*\[Heavy Blow\]*
+_\[Heavy Blow\]_
 
 **[？？？]**<br>
 _ARGH!_
@@ -505,7 +505,7 @@ Decision: This unit currently in "Sad" emotion
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros011"/>\[#011\] Main\_Log\_702\_10\_23\_3
+## <a id="ros011"></a>\[#011\] Main\_Log\_702\_10\_23\_3
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -538,7 +538,7 @@ Program activation...... start
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros012"/>\[#012\] Main\_Log\_702\_10\_23\_4
+## <a id="ros012"></a>\[#012\] Main\_Log\_702\_10\_23\_4
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -585,7 +585,7 @@ Begin replay
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros013"/>\[#013\] Main\_Log\_702\_10\_28
+## <a id="ros013"></a>\[#013\] Main\_Log\_702\_10\_28
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -645,7 +645,7 @@ Activity start
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros014"/>\[#014\] Cam03\_Center\_702\_11\_04
+## <a id="ros014"></a>\[#014\] Cam03\_Center\_702\_11\_04
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -656,7 +656,7 @@ Activity start
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros015"/>\[#015\] Cam\_TigerSt\_702\_11\_08\_1
+## <a id="ros015"></a>\[#015\] Cam\_TigerSt\_702\_11\_08\_1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -669,7 +669,7 @@ _Hello, sorry for bothering you._
 **Pedestrian A**<br>
 ......?
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **[ROBO_Head]**<br>
 _Hello, sorry for bothering you._
@@ -696,7 +696,7 @@ You goddamn lolicon... No, we've never seen her before.
 **[ROBO_Head]**<br>
 _Thank you for your answer._
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **Pedestrian B**<br>
 ... What a weird robot.
@@ -725,7 +725,7 @@ Alright, now move out of the way.
 **[ROBO_Head]**<br>
 _………_
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **[ROBO_Head]**<br>
 _Decision: Need to target certain organizations to increase information sources.<br>
@@ -768,7 +768,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros016"/>\[#016\] Cam\_TigerSt\_702\_11\_08\_2
+## <a id="ros016"></a>\[#016\] Cam\_TigerSt\_702\_11\_08\_2
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -787,7 +787,7 @@ _……？_
 **???**<br>
 WAAHHH!!
 
-*\[Crash\]*
+_\[Crash\]_
 
 **???**<br>
 Owwwww... a drone? What is this doing here?
@@ -859,7 +859,7 @@ The Sir here said that he did not steal from you. Is there some kind of misunder
 **Thug C**<br>
 And what does that have to do with you? F\*\*\* off!
 
-*\[Knocking on metal\]*
+_\[Knocking on metal\]_
 
 **[ROBO_Head]**<br>
 _Attack detected<br>
@@ -871,7 +871,7 @@ This unit, enter security mode. Power output increase by 250%._
 **[ROBO_Head]**<br>
 _This unit's outer shell is made from alloys. Your guns, aren't capable of damaging this unit. Please back away._
 
-*\[Heavy Blow\]*
+_\[Heavy Blow\]_
 
 **Thug A, B, C**<br>
 ！？！？！？
@@ -879,7 +879,7 @@ _This unit's outer shell is made from alloys. Your guns, aren't capable of damag
 **[ROBO_Head]**<br>
 _... This unit thinks, violence is bad._
 
-*\[Wall collapses\]*
+_\[Wall collapses\]_
 
 **Thug A**<br>
 You... you bastard! You trying to protect him!?
@@ -887,7 +887,7 @@ You... you bastard! You trying to protect him!?
 **Thug B**<br>
 H\-hey, let's go! We're not gonna beat this guy...
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Yamada**<br>
 Whew... you saved my a\*\*.<br>
@@ -928,7 +928,7 @@ _……！？_
 Don't look at me like that. They're illegally owning it too. I just took something that never belonged to them in the first place and sold it on the market. That doesn't count as "stealing".<br>
 Thank you for your help. See ya\~
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **[ROBO_Head]**<br>
 _... This unit, was deceived?_
@@ -937,7 +937,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros017"/>\[#017\] Cam\_DragonSt\_702\_11\_13
+## <a id="ros017"></a>\[#017\] Cam\_DragonSt\_702\_11\_13
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -980,7 +980,7 @@ Hey, compared to me, the people I steal from are the true bad guys! I sell those
 **[ROBO_Head]**<br>
 _This unit will be leaving._
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **Yamada**<br>
 Tch... Hey, the girl you're looking for, her name's Nora, right? I can help you out.
@@ -1066,7 +1066,7 @@ _……。_
 **Yamada**<br>
 Whatever, you don't understand this, do you... I'll take it that you've agreed to this partnership. At 02:00 a.m. the day after tomorrow, come find me at these coordinates.
 
-*\[Data transfer\]*
+_\[Data transfer\]_
 
 **[ROBO_Head]**<br>
 _...... Understood._
@@ -1074,7 +1074,7 @@ _...... Understood._
 **Yamada**<br>
 Hehe, looking forward to working with you.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **[ROBO_Head]**<br>
 _... Lying... <br>
@@ -1084,7 +1084,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros018"/>\[#018\] Cam\_Nora'sRoom\_698\_04\_13
+## <a id="ros018"></a>\[#018\] Cam\_Nora'sRoom\_698\_04\_13
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1100,7 +1100,7 @@ _This unit, decision, Nora and Phoenix's life, threatened._
 **[Nora]**<br>
 _... Weird. I don't remember inputting this kind of logistics in your settings. Don't move, I'll perform a basic troubleshoot for you._
 
-*\[Removing parts\]*
+_\[Removing parts\]_
 
 **[ROBO_Head]**<br>
 _Nora, this unit, wants to ask question._
@@ -1129,7 +1129,7 @@ Record shows, at moment, all core systems operating normally._
 _Is that so... Then the only explanation is that you did so because of your instincts.<br>
 But, artificial intelligence shouldn't have any ambiguity in their thought process. How were you able to create "instincts"..._
 
-*\[Types on keyboard\]*
+_\[Types on keyboard\]_
 
 **[ROBO_Head]**<br>
 _……Nora。_
@@ -1187,7 +1187,7 @@ Activate shutdown command. Enter voiceprint password: \[NORA\]._
 _... Creator voiceprint command, verification success.<br>
 Nora, goodbye._
 
-*\[ROBO_Head Shutdown\]*
+_\[ROBO_Head Shutdown\]_
 
 **[Nora]**<br>
 _Having self\-consciousness will lead to conflict and clashes with self\-awareness. Did the system, after self\-learning... achieved personal growth? If I just leave him alone, it could lead to even more problems.<br>
@@ -1203,7 +1203,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros019"/>\[#019\] Audio\_Kyuuback\_702\_11\_15
+## <a id="ros019"></a>\[#019\] Audio\_Kyuuback\_702\_11\_15
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1248,7 +1248,7 @@ We're here. This is a pipe used for dumping waste. It shuts down temporarily at 
 **[ROBO_Head]**<br>
 _Understood. This unit, initiating removal operations, now_
 
-*\[Heavy Blow\]*
+_\[Heavy Blow\]_
 
 _\[→Signal Switches\]_
 
@@ -1267,7 +1267,7 @@ _Here... this unit, remembers._
 **Yamada**<br>
 Robo?
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **Yamada**<br>
 Not that way... Yikes, what is this machine? It looks like it should've been trashed a long time ago.
@@ -1282,7 +1282,7 @@ Hey, why are you staring so hard at it? There's nobody inside.
 **[ROBO_Head]**<br>
 _... Nora, doesn't need to use it now, does she?_
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **Yamada**<br>
 I told you not that way! Where are you going!?
@@ -1293,7 +1293,7 @@ _The way to Phoenix's lab, is this direction..._
 **Yamada**<br>
 Get your a\*\* back here! Didn't we say we're gonna help each other? You need to help me finish my job first...
 
-*\[Lights on\]*
+_\[Lights on\]_
 
 **[ROBO_Head]**<br>
 _!?_
@@ -1336,19 +1336,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros020"/>\[#020\] Cam\_KyuuLab\_702\_11\_15
+## <a id="ros020"></a>\[#020\] Cam\_KyuuLab\_702\_11\_15
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|61 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kyuu Hou Kai Member**<br>
 We're here, now get inside.
 
-*\[Hits ground\]*
+_\[Hits ground\]_
 
 **Yamada**<br>
 O, ouch!
@@ -1359,7 +1359,7 @@ O, ouch!
 **Kyuu Hou Kai Member**<br>
 Do not make a sound. Hey you, you kneel down too.
 
-*\[Knocking on metal\]*
+_\[Knocking on metal\]_
 
 **ROBO_Head**<br>
 ......
@@ -1375,7 +1375,7 @@ Chief, we caught the rats.
 **???**<br>
 ......
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
 **[ROBO_Head]**<br>
 _......!?_
@@ -1423,7 +1423,7 @@ Wait! Please wait! Sir, it's a misunderstanding! I'm not from another gang. My f
 **Kyuu Hou Kai Member**<br>
 You can take your grapes and shove them up your a\*\*! That's where they belong!
 
-*\[Kicks\]*
+_\[Kicks\]_
 
 **Yamada**<br>
 WAAHHHH!!
@@ -1434,7 +1434,7 @@ People who spew s\*\*\* like you deserve to be buried with the stuff you s\*\*\*
 **Yamada**<br>
 N, no! Please stop! Please... WAHHHHHH!
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **[ROBO_Head]**<br>
 _Nora... is going to kill him?_
@@ -1446,7 +1446,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros021"/>\[#021\] Audio\_KyuuLab\_702\_11\_15
+## <a id="ros021"></a>\[#021\] Audio\_KyuuLab\_702\_11\_15
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1457,7 +1457,7 @@ _\[Signal Lost\]_
 ......<br>
 Chief, what are we gonna do with this?
 
-*\[Knocking on metal\]*
+_\[Knocking on metal\]_
 
 **[Nora]**<br>
 _... Stop it._
@@ -1471,7 +1471,7 @@ _Enough. All of you, get out. Call Daigo. Tell him to come here._
 **Kyuu Hou Kai Member**<br>
 ... Yes, Chief.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[ROBO_Head]**<br>
 _……Nora……_
@@ -1531,7 +1531,7 @@ _......_
 **[Nora]**<br>
 _Did you overwrite the entire command priority sequence...?_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Chief... Huh!?<br>
@@ -1544,7 +1544,7 @@ _No other way to do it then. Daigo, pulse pistol, shoot him._
 ......!?<br>
 Understood.
 
-*\[Pulse Pistol shot\]*
+_\[Pulse Pistol shot\]_
 
 **[ROBO_Head]**<br>
 _......!!<br>
@@ -1556,7 +1556,7 @@ _Take him outside._
 **Member D**<br>
 ... Yes, Chief.
 
-*\[Metal dragging sounds\]*
+_\[Metal dragging sounds\]_
 
 **[Nora]**<br>
 _Leave, and don't come back again. If the Mogura people see you out there, it will be your end._
@@ -1567,20 +1567,20 @@ _......_
 **[Nora]**<br>
 _If you don't leave, I will destroy you myself._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros022"/>\[#022\] Cam\_Kyuu\_702\_11\_20
+## <a id="ros022"></a>\[#022\] Cam\_Kyuu\_702\_11\_20
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|62 |    No     |
 
 ### Log Content
-*\[Gate Opens\]*
+_\[Gate Opens\]_
 
 **Member D**<br>
 Chief, the car is ready.
@@ -1640,7 +1640,7 @@ _Daigo._
 **Member D**<br>
 Yes, Chief.
 
-*\[Data transfer\]*
+_\[Data transfer\]_
 
 **Ryu**<br>
 This is spectacular. When Phoenix was gone, I previously thought it was going to be a major loss. Turns out you were the greatest treasure all this time. Look at all these numbers.
@@ -1715,7 +1715,7 @@ I'll pretend that I didn't see it. That makes us even.
 **[Nora]**<br>
 _... Good. Daigo, start the car. Let's go._
 
-*\[Car door opens\]*
+_\[Car door opens\]_
 
 **Ryu**<br>
 ... That's right. I'm indeed not that kind of person. However, I can't say as much for the folks who serve under me. They're... a bit hard to control, I'd say.<br>
@@ -1726,7 +1726,7 @@ Yes, Boss.
 
 _\[→Signal Switches\]_
 
-*\[Gate Opens\]*
+_\[Gate Opens\]_
 
 **[ROBO_Head]**<br>
 _......_
@@ -1744,7 +1744,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros023"/>\[#023\] Audio\_Kyuu\_702\_11\_22
+## <a id="ros023"></a>\[#023\] Audio\_Kyuu\_702\_11\_22
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1754,7 +1754,7 @@ _\[Signal Lost\]_
 **[ROBO_Head]**<br>
 _......_
 
-*\[Opens umbrella\]*
+_\[Opens umbrella\]_
 
 **???**<br>
 ROBO!
@@ -1798,7 +1798,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros024"/>\[#024\] Audio\_Murata\_702\_11\_22
+## <a id="ros024"></a>\[#024\] Audio\_Murata\_702\_11\_22
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1827,7 +1827,7 @@ I'll go pour you some tea... Ah, Mr. Robot doesn't drink tea, right?
 **Ichiro**<br>
 Haha, it's alright. You should rest. Don't need to worry about us.
 
-*\[ROBO_Head waves\]*
+_\[ROBO_Head waves\]_
 
 **Ichiro**<br>
 ... My grandma is a lot healthier now. It's all thanks to Nora and Kyubo Medical Center.<br>
@@ -1926,20 +1926,20 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros025"/>\[#025\] Audio\_Murata\_702\_11\_27
+## <a id="ros025"></a>\[#025\] Audio\_Murata\_702\_11\_27
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|64 |    No     |
 
 ### Log Content
-*\[Repairing\]*
+_\[Repairing\]_
 
 **Ichiro**<br>
 As expected, some places are short\-circuited... Alright, that's pretty much it.<br>
 Try and move around!
 
-*\[ROBO_Head waves\]*
+_\[ROBO_Head waves\]_
 
 **[ROBO_Head]**<br>
 _Joint synchronization rate increase by 105%._
@@ -1953,7 +1953,7 @@ _Ichiro, amazing. Thank you._
 **Ichiro**<br>
 Hehe, I learned a few things working under Chief for so many years. You can also use this trick on new equipment...
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **Ichiro**<br>
 Hey, where are you going?
@@ -2005,7 +2005,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros026"/>\[#026\] Cam\_Murata\_702\_11\_27
+## <a id="ros026"></a>\[#026\] Cam\_Murata\_702\_11\_27
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2018,7 +2018,7 @@ Thank you, ROBO. Sorry about this, you're supposed to be a guest...
 **[ROBO_Head]**<br>
 _This unit, very willing to help._
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Mogura Member**<br>
 It is here! Don't move!
@@ -2026,7 +2026,7 @@ It is here! Don't move!
 **[ROBO_Head]**<br>
 _......!?_
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Sonoko**<br>
 WAAAAHH!
@@ -2040,7 +2040,7 @@ W... what is going on!?
 **[ROBO_Head]**<br>
 _Please stay here. Outside, not safe._
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **[ROBO_Head]**<br>
 _This unit, right here. Please do not harm, unrelated bystanders._
@@ -2051,7 +2051,7 @@ They sheltered a criminal, so they're guilty as well! How dare you think you can
 **[ROBO_Head]**<br>
 _This unit, enter security mode. Power output increase by 250%._
 
-*\[Parts moving\]*
+_\[Parts moving\]_
 
 ![ros2601.png](./attachments/ros2601.png)
 
@@ -2065,7 +2065,7 @@ What is that? Hey! That guy has a gun! Look out!
 **[ROBO_Head]**<br>
 _Did Ichiro install this...?_
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Mogura Member**<br>
 F\*\*\* it up! Don't give it the chance to shoot!
@@ -2076,12 +2076,12 @@ There should be another person living here. Look around. All three of them are d
 **Ichiro**<br>
 No need to look! I'm right here!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Mogura Member**<br>
 Urgh!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Ichiro**<br>
 ROBO! What are you doing!? Shoot them!
@@ -2106,9 +2106,9 @@ _No, cannot, kill._
 **Ichiro**<br>
 ROBO! Behind you!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
-*\[Metal clanking\]*
+_\[Metal clanking\]_
 
 **[ROBO_Head]**<br>
 _Nnnnnnnooooo... cannnot kill..._
@@ -2116,7 +2116,7 @@ _Nnnnnnnooooo... cannnot kill..._
 **Ichiro**<br>
 ROBO!!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Mogura Member**<br>
 Urgh!
@@ -2137,7 +2137,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros027"/>\[#027\] Audio\_Nora\_702\_11\_28
+## <a id="ros027"></a>\[#027\] Audio\_Nora\_702\_11\_28
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2147,7 +2147,7 @@ _\[Signal Lost\]_
 **[Nora]**<br>
 _\[Nora\]._
 
-*\[ROBO_Head Start-Up\]*
+_\[ROBO_Head Start-Up\]_
 
 **[ROBO_Head]**<br>
 _Nora……？_
@@ -2165,7 +2165,7 @@ _Do as I say._
 **Member D**<br>
 ... Yes.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Member D**<br>
 Can you hear me?
@@ -2215,22 +2215,22 @@ _………_
 **Member D**<br>
 On the contrary, your actions have caused us some serious trouble... In short, stay here and don't mess around. I have no idea what she's gonna do with you either. I have to go back to work. Don't wander around, understand?
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **[ROBO_Head]**<br>
 _………_
 
-*\[ROBO_Head looks around\]*
+_\[ROBO_Head looks around\]_
 
 **[ROBO_Head]**<br>
 _………_
 
-*\[Metal Footsteps\]*
+_\[Metal Footsteps\]_
 
 **[ROBO_Head]**<br>
 _Nora's old instrument..._
 
-*\[Damaged instrument\]*
+_\[Damaged instrument\]_
 
 **[ROBO_Head]**<br>
 _Analyzing... Condition: Damaged._
@@ -2244,16 +2244,16 @@ _Analyzing damaged parts... Filter, Evenlope, LFO..._
 **[ROBO_Head]**<br>
 _Create new activity planning: Repair instrument_
 
-*\[Repairing\]*
+_\[Repairing\]_
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Instrument.\]*
+_\[Instrument.\]_
 
 **[ROBO_Head]**<br>
 _Repair complete._
 
-*\[Instrument.\]*
+_\[Instrument.\]_
 
 **[ROBO_Head]**<br>
 Nora... doesn't make music anymore...
@@ -2262,7 +2262,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros028"/>\[#028\] Cam\_Nora\_702\_11\_29
+## <a id="ros028"></a>\[#028\] Cam\_Nora\_702\_11\_29
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2271,7 +2271,7 @@ _\[Signal Lost\]_
 ### Log Content
 ![ros2802.png](./attachments/ros2802.png)
 
-*\[ROBO_Head Start-Up\]*
+_\[ROBO_Head Start-Up\]_
 
 **[ROBO_Head]**<br>
 _This unit, start\-up, success. Running self\-diagnostics... complete.<br>
@@ -2283,7 +2283,7 @@ _...... Nora...... Not here._
 **[ROBO_Head]**<br>
 _......_
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **Kyuu Hou Kai Member**<br>
 Chief is willing to see you two. She'll be here soon... Hey, stop poking around. Do you have any idea how much a pair of eyeballs are worth on the black market?
@@ -2310,7 +2310,7 @@ What's the big deal? It's not like the door is locked. Just a quick tiny peak...
 **[ROBO_Head]**<br>
 _......!?_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 ![ros2803.png](./attachments/ros2803.png)
 
@@ -2331,7 +2331,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros029"/>\[#029\] Audio\_Nora\_702\_11\_29\_1
+## <a id="ros029"></a>\[#029\] Audio\_Nora\_702\_11\_29\_1
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2351,7 +2351,7 @@ Woah! Where did you pop out all of a sudden... Little girl, who are you?
 _This unit, detects question from Miss NEKO.<br>
 Answer: This is Nora._
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **[Nora]**<br>
 _... Quiet._
@@ -2359,7 +2359,7 @@ _... Quiet._
 **[ROBO_Head]**<br>
 _………_
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **[Nora]**<br>
 _I am Nora, Chief of Kyuu Hou Kai. This is the first... No, I believe I've met two of you in the past already._
@@ -2400,7 +2400,7 @@ _You stay here._
 **[ROBO_Head]**<br>
 _......_
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **NEKO#ΦωΦ**<br>
 Umm, Ropohead and we kinda know each other. We've performed together in Node 08! Me thinks it's alright for him to tag along!
@@ -2425,7 +2425,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros030"/>\[#030\] Audio\_Nora\_702\_11\_29\_2
+## <a id="ros030"></a>\[#030\] Audio\_Nora\_702\_11\_29\_2
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2490,7 +2490,7 @@ _There's nothing to hide here. Using this ability will take a toll on the user's
 **[ROBO_Head]**<br>
 _………_
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **[Nora]**<br>
 _However, since there's a second known user now, there is a chance that your situation could be different from mine... Miss Minamiya seems to be quite healthy herself. From the looks of it, you aren't affected by the ability too much._
@@ -2551,7 +2551,7 @@ I'll be leaving first. Take the guests to the guest room... One more thing, take
 **Kyuu Hou Kai Member**<br>
 Yes, Chief.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[ROBO_Head]**<br>
 _... Help. Everyone, together..._
@@ -2560,7 +2560,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros031"/>\[#031\] Cam\_KyuuLab\_702\_12\_15
+## <a id="ros031"></a>\[#031\] Cam\_KyuuLab\_702\_12\_15
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -2568,13 +2568,13 @@ _\[Signal Lost\]_
 |**Crystal PuNK**|24 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[ROBO_Head]**<br>
 _......!<br>
 Nora._
 
-*\[ROBO_Head emotion\]*
+_\[ROBO_Head emotion\]_
 
 **[Nora]**<br>
 _... Give me your hand._
@@ -2582,9 +2582,9 @@ _... Give me your hand._
 **ROBO_Head**<br>
 ......?
 
-*\[Extends hand\]*
+_\[Extends hand\]_
 
-*\[Removing parts\]*
+_\[Removing parts\]_
 
 **[ROBO_Head]**<br>
 _......!?<br>
@@ -2609,7 +2609,7 @@ _... Enough. Stop talking._
 **ROBO_Head**<br>
 ......
 
-*\[Lights Off\]*
+_\[Lights Off\]_
 
 **ROBO_Head**<br>
 !?
@@ -2647,13 +2647,13 @@ _Nora, please let this unit, be your eyes._
 _......! I'll give it a try.<br>
 ROBO's angle of view... Excellent. The terminal is behind that wall. Push me there as well._
 
-*\[Terminal Connection\]*
+_\[Terminal Connection\]_
 
 **[Nora]**<br>
 _This is... This again, the exact same attack pattern as the one that just happened...<br>
 So things really turned out the same as what I imagined?_
 
-*\[Access Denied\]*
+_\[Access Denied\]_
 
 **[Nora]**<br>
 _Ugh... who... who are you exactly? What is your purpose?_
@@ -2664,7 +2664,7 @@ _Nora, who are you talking to...?_
 **[Nora]**<br>
 _... Be quiet._
 
-*\[Access Denied\]*
+_\[Access Denied\]_
 
 **[Nora]**<br>
 _Damnit, no good... I can't decipher his attack. Have to hurry up and restore the power, or else Miss Sherry Pauline..._
@@ -2675,7 +2675,7 @@ _Miss Cherry is in danger?_
 **[Nora]**<br>
 _If the life support system stops functioning... No good, there's nothing I can do from here at all. I can't even open the door due to the power outage..._
 
-*\[Removing parts\]*
+_\[Removing parts\]_
 
 **[Nora]**<br>
 _!?<br>
@@ -2700,7 +2700,7 @@ _Nora very important, to this unit. But, friend that played music together, also
 _......<br>
 Understood._
 
-*\[Connection\]*
+_\[Connection\]_
 
 **[Nora]**<br>
 _... ROBO, this will completely destroy your core and memory unit. Even if we repair your mechanical frame, you..._
@@ -2749,7 +2749,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros032"/>\[#032\] Audio\_Kyuu\_702\_12\_15\_3
+## <a id="ros032"></a>\[#032\] Audio\_Kyuu\_702\_12\_15\_3
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2759,9 +2759,9 @@ _\[Signal Lost\]_
 **[Nora]**<br>
 _All in all, both of you should be exhausted. I am very thankful that you're still willing to stay here. Please get some rest. I must now go back to clean up this mess._
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Chief, about Miss Pauline's body... we've got everything arranged and ready to go.
@@ -2802,20 +2802,20 @@ _Can you do it?_
 **Member D**<br>
 ... Yes.
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
 **Member D**<br>
 ... Chief...
 
 _\[→Signal Switches\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[ROBO_Head]**<br>
 _......!<br>
 Nora..._
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
 **Nora**<br>
 ......
@@ -2915,14 +2915,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros033"/>\[#033\] Audio\_Kyuu\_702\_12\_17
+## <a id="ros033"></a>\[#033\] Audio\_Kyuu\_702\_12\_17
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|68 |    No     |
 
 ### Log Content
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 _\[Call Starts\]_
 
@@ -3079,7 +3079,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros034"/>\[#034\] Audio\_Bookstore\_702\_12\_24
+## <a id="ros034"></a>\[#034\] Audio\_Bookstore\_702\_12\_24
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3123,7 +3123,7 @@ _Not a problem. However, Miss PAFF is currently resting. We will arrange that so
 **ConneR**<br>
 Excellent. Then allow me to begin by performing the first movement. This is my main instrument.
 
-*\[Projection\]*
+_\[Projection\]_
 
 **[ROBO_Head]**<br>
 _Analysis: Microchip, model number unknown._
@@ -3203,7 +3203,7 @@ Mr. Neumann, please come with me._
 **[ROBO_Head]**<br>
 _Understood._
 
-*\[Door opens\]*
+_\[Door opens\]_
 
 **ROBO_Head**<br>
 ......
@@ -3220,7 +3220,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="ros035"/>\[#035\] Audio\_Kyuu\_702\_12\_24
+## <a id="ros035"></a>\[#035\] Audio\_Kyuu\_702\_12\_24
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3248,7 +3248,7 @@ _To be honest, I didn't come up with that... I'll have Miss PAFF explain it._
 **ConneR**<br>
 ... Oh?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **PAFF**<br>
 Mr. Neumann, right? Hello, NEKO mentioned you before... I heard that, in the end, you let her pass.
@@ -3287,7 +3287,7 @@ We can't let that happen! Otherwise, everyone will...
 **[Nora]**<br>
 _......_
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **[Kyuu Hou Kai System]**<br>
 _Warning, electrical system error._
@@ -3298,14 +3298,14 @@ _What's going on?_
 **ConneR**<br>
 ... Could it be another attack?
 
-*\[Typing on keyboard\]*
+_\[Typing on keyboard\]_
 
 **[Nora]**<br>
 _No, the source of the surge is in the guest room... ROBO!?_
 
 _\[→Signal Switches\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[Nora]**<br>
 ROBO! ... Are you okay!?
@@ -3314,7 +3314,7 @@ ROBO! ... Are you okay!?
 _......<br>
 No... ra. This unit... is fine._
 
-*\[Typing on keyboard\]*
+_\[Typing on keyboard\]_
 
 **[Nora]**<br>
 _... Did you connect these circuits yourself? An immense increase in electricity usage in such a short time...a simulation calculation... what are you doing?_
@@ -3336,7 +3336,7 @@ It's true... When I designed you, some of the components came from A.R.C, techno
 **ConneR**<br>
 Ho? Getting access to the "Eye" for a brief instant? Now that makes things really interesting...
 
-*\[Dismantling Parts\]*
+_\[Dismantling Parts\]_
 
 **[Nora]**<br>
 _This won't work... Even if the flow rate reached its target, the strength of the core is still limited. Physically, it couldn't possibly stabilize... What's more, I didn't issue such a command._
@@ -3366,7 +3366,7 @@ _This unit... also very much likes the people Nora treasures._
 **Nora**<br>
 ......
 
-*\[Typing on keyboard\]*
+_\[Typing on keyboard\]_
 
 **[ROBO_Head]**<br>
 _... Nora?_
@@ -3377,7 +3377,7 @@ _... Nora?_
 **[ROBO_Head]**<br>
 _Leave?_
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
 **[Nora]**<br>
 _ROBO, get prepared. We're about to head out._
@@ -3398,7 +3398,7 @@ _Okay.<br>
 **[ROBO_Head]**<br>
 _This unit, will listen to Nora._
 
-*\[ROBO emotion\]*
+_\[ROBO emotion\]_
 
 _\[Signal Lost\]_
 

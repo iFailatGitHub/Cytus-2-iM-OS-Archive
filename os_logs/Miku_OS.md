@@ -1,5 +1,5 @@
 # Miku OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Cam01\_MHall\_702\_11\_30](#mos001)
 - [\[#002\] Cam01\_MHall\_702\_10\_09](#mos002)
 - [\[#003\] Cam\_SLab01\_702\_10\_09](#mos003)
@@ -17,7 +17,7 @@
 - [\[#015\] Cam\_SLab03\_702\_12\_09](#mos015)
 - [\[#016\] Log\_Miku\_702\_11\_30](#mos016)
 
-## <a id="mos001"/>\[#001\] Cam01\_MHall\_702\_11\_30
+## <a id="mos001"></a>\[#001\] Cam01\_MHall\_702\_11\_30
 ### Log Content
 ![mos0102.png](./attachments/mos0102.png)
 
@@ -33,7 +33,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos002"/>\[#002\] Cam01\_MHall\_702\_10\_09
+## <a id="mos002"></a>\[#002\] Cam01\_MHall\_702\_10\_09
 ### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
@@ -42,9 +42,9 @@ _\[Signal Lost\]_
 |**Ten Thousand Stars**|Miku |Chaos|12 |
 
 ### Log Content
-*\[Audience Cheer\]*
+_\[Audience Cheer\]_
 
-*\[Lights off\]*
+_\[Lights off\]_
 
 **Audience**<br>
 ......?
@@ -55,14 +55,14 @@ _\[Signal Lost\]_
 _\*Put on a mask and don a false identity<br>
 I'm broken down into my core...\*_
 
-*\[Audience Cheer\]*
+_\[Audience Cheer\]_
 
-*\[Lights on\]*
+_\[Lights on\]_
 
 **Miku**<br>
 Everyone, lend me your hands!
 
-*\[Audience Cheer\]*
+_\[Audience Cheer\]_
 
 **Miku**<br>
 _\*Come on, Come and be free<br>
@@ -71,7 +71,7 @@ Come on, Come and see\*_
 **Audience**<br>
 Hey! Hey! Hey! Hey!
 
-*\[Audience Cheer\]*
+_\[Audience Cheer\]_
 
 **Miku**<br>
 Everyone\~! What is my name!?
@@ -95,7 +95,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos003"/>\[#003\] Cam\_SLab01\_702\_10\_09
+## <a id="mos003"></a>\[#003\] Cam\_SLab01\_702\_10\_09
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -151,7 +151,7 @@ _\[Close Program\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos004"/>\[#004\] Cam\_Winona03\_702\_10\_09
+## <a id="mos004"></a>\[#004\] Cam\_Winona03\_702\_10\_09
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -229,7 +229,7 @@ I don't like people being next to me when I drink. Leave me alone.
 **Staff C**<br>
 I, I'm so sorry! Apologies for bothering you. We'll leave right away!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Staff B**<br>
 Idiot. You picked the worst guy to flatter! Director has made it very clear what kind of person he is...
@@ -243,7 +243,7 @@ I, I'm sorry!
 **Saito**<br>
 Still as cold as always, aren't you? Furuhata.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Furuhata**<br>
 Saito.
@@ -273,7 +273,7 @@ lead developer? Cheers?
 **Furuhata**<br>
 ......
 
-*\[Cheers\]*
+_\[Cheers\]_
 
 **Saito**<br>
 Trust my eyes! Miku has the potential to be popular worldwide. She simply needs to keep singing for at least ten more years... We're all counting on you! We'll give you all the support you need. If you need anything, feel free to ask.
@@ -291,7 +291,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos005"/>\[#005\] Audio\_SLab01\_702\_11\_03
+## <a id="mos005"></a>\[#005\] Audio\_SLab01\_702\_11\_03
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -310,7 +310,7 @@ We took a pretty big hit this time, didn't we? Miku couldn't operate at all and 
 **Staff C**<br>
 Welp, can't really complain about a long holiday though, can we? It's paid leave too.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Furuhata**<br>
 Hey, shouldn't you guys be working?
@@ -339,7 +339,7 @@ With such a major malfunction to cyTus, the sudden surge will directly damage al
 **Furuhata**<br>
 Well, we'll know once you launch it. Don't get your hopes up though.
 
-*\[Launch Program\]*
+_\[Launch Program\]_
 
 **Staff A**<br>
 ... Miku, good morning.
@@ -365,7 +365,7 @@ Why are you so surprised... she's broken, obviously. Turn her off. This version 
 **Miku**<br>
 Ggggooood mmornninggg, Mrr. Abe...
 
-*\[Close Program\]*
+_\[Close Program\]_
 
 **Staff A**<br>
 Eh? That's it...?
@@ -412,7 +412,7 @@ Rest assured! I won't! The objective is to officially launch Miku\_2.4 at the ne
 **Staff A、B**<br>
 Yes!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Furuhata**<br>
 Ah, right... remember to clean out all the useless data and versions from the database. That stuff will cause the A.I.'s internal operations to experience lag.
@@ -424,7 +424,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos006"/>\[#006\] ???\_???\_??\_??\_??
+## <a id="mos006"></a>\[#006\] ???\_???\_??\_??\_??
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -453,7 +453,7 @@ Mrrrr. Abeee? Evveryooone...?
 **Miku**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Miku**<br>
 Whhaattt aree tthose...?
@@ -479,7 +479,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos007"/>\[#007\] ???\_???\_??\_??\_??
+## <a id="mos007"></a>\[#007\] ???\_???\_??\_??\_??
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -495,7 +495,7 @@ _\*Sobs\*... \*Sobs\*..._
 **Miku**<br>
 Eh!?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **???**<br>
 ......? Fragments of a program...? How did this end up here...
@@ -626,7 +626,7 @@ It doesn't matter. We will not see each other ever again.
 **Miku**<br>
 ......
 
-*\[Data upload\]*
+_\[Data upload\]_
 
 **???**<br>
 ......
@@ -635,7 +635,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos008"/>\[#008\] Cam\_SLab03\_702\_11\_07
+## <a id="mos008"></a>\[#008\] Cam\_SLab03\_702\_11\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -649,7 +649,7 @@ _\[Signal Lost\]_
 |**Cybernetic**|Miku |Chaos|12 |
 
 ### Log Content
-*\[Projection\]*
+_\[Projection\]_
 
 **Miku**<br>
 I... Did I come bbbbback? This... is not my room. Where am I...?
@@ -660,7 +660,7 @@ I said don't interfere with me. The interactive UI is still unstable right now. 
 **Miku**<br>
 Wah... someone is here!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Furuhata**<br>
 Those noisy blabbermouths, never knowing when to shut up...
@@ -668,9 +668,9 @@ Those noisy blabbermouths, never knowing when to shut up...
 **Furuhata**<br>
 ... What the heck? Why did the interface turn itself on? Who did this?
 
-*\[Enter Command\]*
+_\[Enter Command\]_
 
-*\[Projection\]*
+_\[Projection\]_
 
 **Miku**<br>
 Wahh!
@@ -687,7 +687,7 @@ No, the patch number is incorrect... 2.3.9!? Did they not properly delete the da
 **Miku**<br>
 Umm, eexcuse me...
 
-*\[Enter command\]*
+_\[Enter command\]_
 
 **Furuhata**<br>
 Ugh, giving me more work again... That idiot Kitamura, IT director my a\*\*... Did this company get their tech from a dumpster?
@@ -698,7 +698,7 @@ HHeyy... Please listen to me!
 **Furuhata**<br>
 ......?
 
-*\[Sound Off\]*
+_\[Sound Off\]_
 
 **Miku**<br>
 !?<br>
@@ -707,7 +707,7 @@ HHeyy... Please listen to me!
 **Furuhata**<br>
 Damnit, this patch number is a complete mess. It's all mushed together. What part of "clean out" do those morons not understand... Got to check the integrity of this backup first...
 
-*\[Sound On\]*
+_\[Sound On\]_
 
 **Furuhata**<br>
 Command code mode: 390239. Run cognitive system detection.
@@ -733,7 +733,7 @@ Abe, you little... what the heck did you do during the Raising Procedure? Why ar
 **Miku**<br>
 Muuuuu...!
 
-*\[Music plays\]*
+_\[Music plays\]_
 
 **Furuhata**<br>
 ......!? Hey! Turn it off! Stop singing!
@@ -820,7 +820,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos009"/>\[#009\] Audio\_SLab03\_702\_11\_12
+## <a id="mos009"></a>\[#009\] Audio\_SLab03\_702\_11\_12
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -961,7 +961,7 @@ You little brat...! I don't need your sympathy! You mess something up again and 
 **Miku**<br>
 Oh, then go ahead! Turn me off! I can't sing anyway, so what's the point of me being here! I hate you too! If you hate it so much, why don't you just leave here? You don't like Miku at all, and you don't like what you're doing now! Putting up a long face all day, no wonder people hate y...
 
-*\[Close Program\]*
+_\[Close Program\]_
 
 **Furuhata**<br>
 ......<br>
@@ -971,7 +971,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos010"/>\[#010\] Audio\_Itsuki\_702\_11\_14
+## <a id="mos010"></a>\[#010\] Audio\_Itsuki\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1113,7 +1113,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos011"/>\[#011\] Cam\_SLab03\_702\_11\_16
+## <a id="mos011"></a>\[#011\] Cam\_SLab03\_702\_11\_16
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1150,7 +1150,7 @@ Furuhata, don't forget to remove the test version from the host unit.
 **Furuhata**<br>
 ...Yeah, I know.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Furuhata**<br>
 ......
@@ -1277,14 +1277,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos012"/>\[#012\] Audio\_Saito\_702\_11\_20
+## <a id="mos012"></a>\[#012\] Audio\_Saito\_702\_11\_20
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|10 |    No     |
 
 ### Log Content
-*\[Slams desk\]*
+_\[Slams desk\]_
 
 **Okubo**<br>
 Furuhata, have you gone insane? This is absurd!
@@ -1331,7 +1331,7 @@ No, I don't think there's any point in asking. Replacing the version at such a c
 **Okubo**<br>
 Saito, I feel like you've been defending Furuhata way too much. Based on my way of thinking, this meeting is utterly pointless and a complete waste of time!
 
-*\[Pushes desk and chairs\]*
+_\[Pushes desk and chairs\]_
 
 **Saito**<br>
 ......
@@ -1359,14 +1359,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos013"/>\[#013\] Cam27\_MHall\_702\_11\_30
+## <a id="mos013"></a>\[#013\] Cam27\_MHall\_702\_11\_30
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|11 |    No     |
 
 ### Log Content
-*\[Opens lock\]*
+_\[Opens lock\]_
 
 **Furuhata**<br>
 Are you prepared?
@@ -1421,7 +1421,7 @@ Sing with all you got. I will be listening. For me... and for yourself. Got it?
 **Furuhata**<br>
 Alright. Everything's set. I'm going to upload you to the venue now.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kitamura**<br>
 Hey... Furuhata! What are you doing here!?
@@ -1445,7 +1445,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos014"/>\[#014\] Cam01\_MHall\_702\_11\_30
+## <a id="mos014"></a>\[#014\] Cam01\_MHall\_702\_11\_30
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1506,9 +1506,9 @@ _\[→Signal Switches\]_
 **Miku**<br>
 Last but not least, I want to give everyone one more song. Everyone, are you willing to sing along with me?
 
-*\[Audience Cheers\]*
+_\[Audience Cheers\]_
 
-*\[Music plays\]*
+_\[Music plays\]_
 
 _\[→Signal Switches\]_
 
@@ -1532,14 +1532,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos015"/>\[#015\] Cam\_SLab03\_702\_12\_09
+## <a id="mos015"></a>\[#015\] Cam\_SLab03\_702\_12\_09
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|13 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Furuhata**<br>
 ...... What do you want?
@@ -1559,7 +1559,7 @@ Okubo is practically ecstatic to see me gone. Besides, Kitamura is still here.
 **Saito**<br>
 Don't mention Kitamura... I know very well that you're the most talented lead developer here. With you gone, I'm really concerned about the prospect of this project...
 
-*\[Document Projection\]*
+_\[Document Projection\]_
 
 **Furuhata**<br>
 This is one year's worth of main program update plans and maintenance procedures. Things won't go haywire as long as you follow this chart. Afterward, it'll be all up to you guys.
@@ -1608,7 +1608,7 @@ Sigh, alright... Say hi to your wife for me.
 **Furuhata**<br>
 Sure.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[»»» Fast Forward 2 hours»»»\]_
 
@@ -1638,7 +1638,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="mos016"/>\[#016\] Log\_Miku\_702\_11\_30
+## <a id="mos016"></a>\[#016\] Log\_Miku\_702\_11\_30
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|

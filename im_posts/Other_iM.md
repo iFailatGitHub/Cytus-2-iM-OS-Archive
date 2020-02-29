@@ -1,5 +1,5 @@
 # Other iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] LONG nap](#o0101)
 - [\[#002\] I'm lost](#o0201)
 - [\[#003\] Does MeowBot have field service?](#o0301)
@@ -136,8 +136,14 @@
 - [\[#137\] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down](#q3701)
 - [\[#138\] What's the point of keeping military drones in service??](#q3801)
 - [\[#139\] \[Streaming Notification: MO: Astray @21:00 \]](#q3901)
+- [\[#140\] Uh... WTF!!!???](#q4001)
+- [\[#141\] \[Repost\] Unknown human\-shaped machines appear in Node 08; attacking without discrimination](#q4101)
+- [\[#142\] The Prophet Beckons!!!](#q4201)
+- [\[#143\] \[Repost\] Unknown human\-shaped machines suspected to be Architects; source yet to be determined, citizens please be on guard](#q4301)
+- [\[#144\] Ridiculous](#q4401)
+- [\[#145\] \[Repost\] Wanted criminal Xenon appears suddenly and averts crisis](#q4501)
 
-## <a id="o0101"/>\[#001\] LONG nap
+## <a id="o0101"></a>\[#001\] LONG nap
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -161,7 +167,7 @@ Well, looks like you just kissed that holiday goodbye LOLOL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0201"/>\[#002\] I'm lost
+## <a id="o0201"></a>\[#002\] I'm lost
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -176,7 +182,7 @@ I heard that a long time ago every road has its own unique name. How can anyone 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0301"/>\[#003\] Does MeowBot have field service?
+## <a id="o0301"></a>\[#003\] Does MeowBot have field service?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -200,7 +206,7 @@ Man, just imagining it makes me feel like I'm tripping on acid LMAO
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0401"/>\[#004\] Ran into a wild NEKO!!!!
+## <a id="o0401"></a>\[#004\] Ran into a wild NEKO!!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -234,7 +240,7 @@ NEKO is always cute no matter what\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0501"/>\[#005\] Disgusting
+## <a id="o0501"></a>\[#005\] Disgusting
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -262,7 +268,7 @@ Banned
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0601"/>\[#006\] BGM
+## <a id="o0601"></a>\[#006\] BGM
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -273,7 +279,7 @@ Banned
 The songs played in cyTus Lobby are soooooo bad... every time I log in I hear a bunch of trash songs
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0701"/>\[#007\] Drones
+## <a id="o0701"></a>\[#007\] Drones
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -288,7 +294,7 @@ You can file a complaint on this TBH
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0801"/>\[#008\] ID chip
+## <a id="o0801"></a>\[#008\] ID chip
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -303,7 +309,7 @@ Not illegal in either case, but A.R.C. might ban your IDs if they find out.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o0901"/>\[#009\] The limits of Artificial Intelligence
+## <a id="o0901"></a>\[#009\] The limits of Artificial Intelligence
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -333,7 +339,7 @@ A.R.C.'s mechanical pets are already pretty amazing. They act almost exactly the
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1001"/>\[#010\] "IDOL"
+## <a id="o1001"></a>\[#010\] "IDOL"
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -360,7 +366,7 @@ Nope, not doing that Lmfao
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1101"/>\[#011\] Bloody Hell
+## <a id="o1101"></a>\[#011\] Bloody Hell
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -378,7 +384,7 @@ We are currently developing anger management chips. Maybe we can give you a free
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1201"/>\[#012\] Æsir\-FEST sucks
+## <a id="o1201"></a>\[#012\] Æsir\-FEST sucks
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -405,7 +411,7 @@ What blackout? It was bright as s\*\*\*
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1301"/>\[#013\] Discomfort during connection
+## <a id="o1301"></a>\[#013\] Discomfort during connection
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -435,7 +441,7 @@ What's with all the Sci\-Fi references...?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1401"/>\[#014\] I don't understand what A.R.C is doing
+## <a id="o1401"></a>\[#014\] I don't understand what A.R.C is doing
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -468,7 +474,7 @@ Colin Sensei is a legend ok? He is not your typical run\-of\-the\-mill scholar
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1501"/>\[#015\] \[Question\] Picking Furniture
+## <a id="o1501"></a>\[#015\] \[Question\] Picking Furniture
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -483,7 +489,7 @@ You're thinking too much. Don't forget to check out the latest catalog! I saw a 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1601"/>\[#016\] iM UI
+## <a id="o1601"></a>\[#016\] iM UI
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -504,7 +510,7 @@ If you get dizzy than don't surf the net with chips lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1701"/>\[#017\] PrayForPAFF
+## <a id="o1701"></a>\[#017\] PrayForPAFF
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -540,7 +546,7 @@ Now I like her even more\~<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1801"/>\[#018\] Man my sides are cramping
+## <a id="o1801"></a>\[#018\] Man my sides are cramping
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -570,7 +576,7 @@ Hmmm you had a point there XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o1901"/>\[#019\] \[Repost\] Virtual area for concert has connection issues, hundreds affected
+## <a id="o1901"></a>\[#019\] \[Repost\] Virtual area for concert has connection issues, hundreds affected
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -594,7 +600,7 @@ All that is just bureaucratic jargon BS; not the first time they said something 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2001"/>\[#020\] In a coma
+## <a id="o2001"></a>\[#020\] In a coma
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -618,7 +624,7 @@ I don't know what to do now...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2101"/>\[#021\] BORING
+## <a id="o2101"></a>\[#021\] BORING
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -645,7 +651,7 @@ Hahahaha, if it really happens it will be complete and utter chaos
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2201"/>\[#022\] Recommended spots in Quadrant II
+## <a id="o2201"></a>\[#022\] Recommended spots in Quadrant II
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -670,7 +676,7 @@ Great, I'll go check it out. Thanks man
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2301"/>\[#023\] My new prosthetic
+## <a id="o2301"></a>\[#023\] My new prosthetic
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -697,7 +703,7 @@ Got'em! My god BH's official account is so baddd XDDD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2401"/>\[#024\] I know it's sponsored content but...
+## <a id="o2401"></a>\[#024\] I know it's sponsored content but...
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -730,7 +736,7 @@ I mean the only thing you do in this game is charge towards the enemy right? Who
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2501"/>\[#025\] Latest Movie
+## <a id="o2501"></a>\[#025\] Latest Movie
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -763,7 +769,7 @@ As long as it's not a horror film I'm ok with it. I can't handle scary stuff QQ
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2601"/>\[#026\] Tips from Dr.Hawkins
+## <a id="o2601"></a>\[#026\] Tips from Dr.Hawkins
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -797,7 +803,7 @@ Thank you for the tip doctor. More people need to know about this
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2701"/>\[#027\] A short trip
+## <a id="o2701"></a>\[#027\] A short trip
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -827,7 +833,7 @@ Maybe I should plan a trip too. I'm way too exhausted at work these days.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2801"/>\[#028\] Weird\-ass experience
+## <a id="o2801"></a>\[#028\] Weird\-ass experience
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -851,7 +857,7 @@ Recommend proper and normal use of electronic products.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o2901"/>\[#029\] Who the hell is that "Cherry" girl?
+## <a id="o2901"></a>\[#029\] Who the hell is that "Cherry" girl?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -886,7 +892,7 @@ If you think of it that way, a life where your path is already decided for you d
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3001"/>\[#030\] So memories can be deleted?
+## <a id="o3001"></a>\[#030\] So memories can be deleted?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -932,7 +938,7 @@ Let's cut down on the surfing, like seriously...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3101"/>\[#031\] Me first
+## <a id="o3101"></a>\[#031\] Me first
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -963,7 +969,7 @@ I give this dream an A for "Absolute BS"
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3201"/>\[#032\] What the actual \*\*\*\* are they up to !!!
+## <a id="o3201"></a>\[#032\] What the actual \*\*\*\* are they up to !!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -993,7 +999,7 @@ I feel that A.R.C. definitely knows something, but they just don't want to revea
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3301"/>\[#033\] Overtime nightmare ongoing
+## <a id="o3301"></a>\[#033\] Overtime nightmare ongoing
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1023,7 +1029,7 @@ GL on your job lol. Oh btw I need a refund for two tickets
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3401"/>\[#034\] It's just a dream, just a dream
+## <a id="o3401"></a>\[#034\] It's just a dream, just a dream
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1107,7 +1113,7 @@ I'm here as well!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3501"/>\[#035\] Why all the beating around the bush
+## <a id="o3501"></a>\[#035\] Why all the beating around the bush
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1139,7 +1145,7 @@ It's pointless. Recently they've issued a gag order to all their employees
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3601"/>\[#036\] \[Finish the survey and win prizes\] Anyone want a shot
+## <a id="o3601"></a>\[#036\] \[Finish the survey and win prizes\] Anyone want a shot
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1191,7 +1197,7 @@ My guess is C!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3701"/>\[#037\] Anyone got a streamer recommendation \~\~\~\~?
+## <a id="o3701"></a>\[#037\] Anyone got a streamer recommendation \~\~\~\~?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1234,7 +1240,7 @@ F\*\*\* off.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3801"/>\[#038\] About that Xenon
+## <a id="o3801"></a>\[#038\] About that Xenon
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1292,7 +1298,7 @@ You're gonna get reported if you keep tagging like this lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o3901"/>\[#039\] I find NEKO to be the biggest suspect
+## <a id="o3901"></a>\[#039\] I find NEKO to be the biggest suspect
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1341,7 +1347,7 @@ Nice, one less piece of \*\*\*\* for this world to worry about
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4001"/>\[#040\] Did anyone remember what happened yesterday??
+## <a id="o4001"></a>\[#040\] Did anyone remember what happened yesterday??
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1412,7 +1418,7 @@ No worries man. We'll hold another one when the next version launches!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4101"/>\[#041\] Someone get me an Æsir event for dummies pls!!
+## <a id="o4101"></a>\[#041\] Someone get me an Æsir event for dummies pls!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1453,7 +1459,7 @@ Robowhat???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4201"/>\[#042\] \[Sponsored\] Embark on your journey
+## <a id="o4201"></a>\[#042\] \[Sponsored\] Embark on your journey
 ### Unlocked Charts
 |            Song             | Char.  |Diff.|Lv.|
 |-----------------------------|:------:|:---:|:-:|
@@ -1475,7 +1481,7 @@ Open the Book of Bequeathers and being your fantasy adventure
 ![o4201.png](./attachments/o4201.png)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4301"/>\[#043\] \[Sponsored\] All players in Node 08 are blown away
+## <a id="o4301"></a>\[#043\] \[Sponsored\] All players in Node 08 are blown away
 ### Unlocked Charts
 |       Song       | Char.  |Diff.|Lv.|
 |------------------|:------:|:---:|:-:|
@@ -1495,7 +1501,7 @@ Infuse the characters, join the battles.
 ![o4301.png](./attachments/o4301.png)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4401"/>\[#044\] More of this BS and I'm going to Mono for some actual answers
+## <a id="o4401"></a>\[#044\] More of this BS and I'm going to Mono for some actual answers
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1534,7 +1540,7 @@ I think that's called "Violation of privacy" my man @皿@
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4501"/>\[#045\] Just got my refund
+## <a id="o4501"></a>\[#045\] Just got my refund
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1568,7 +1574,7 @@ Is there anybody left in Showbiz we can get excited about? Cherry?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4601"/>\[#046\] What kind of retard coded this system
+## <a id="o4601"></a>\[#046\] What kind of retard coded this system
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1602,7 +1608,7 @@ Is this the ninth circle of refund hell lul WTF XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4701"/>\[#047\] F\*\*\* yeah!!!! Eat s\*\*\* stupid dumb admins!!!
+## <a id="o4701"></a>\[#047\] F\*\*\* yeah!!!! Eat s\*\*\* stupid dumb admins!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1642,7 +1648,7 @@ People there to worship the rebirth of their idol, right?? XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4801"/>\[#048\] Real Culprit???
+## <a id="o4801"></a>\[#048\] Real Culprit???
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1685,7 +1691,7 @@ I can't really tell if they are being sarcastic or they are actually serious com
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o4901"/>\[#049\] Feels like the focus has been shifted somehow
+## <a id="o4901"></a>\[#049\] Feels like the focus has been shifted somehow
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1718,7 +1724,7 @@ Don't see too much progress these days on Robohead's page either
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5001"/>\[#050\] Fellas!!!
+## <a id="o5001"></a>\[#050\] Fellas!!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1752,7 +1758,7 @@ I wonder if we will get compensastion if we just "pass" by there lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5101"/>\[#051\] Isn't this going a bit overboard?
+## <a id="o5101"></a>\[#051\] Isn't this going a bit overboard?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1798,7 +1804,7 @@ TBH, I feel like Mono didn't do anything wrong from start to finish. The only mi
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5201"/>\[#052\] Better not think that this is the end
+## <a id="o5201"></a>\[#052\] Better not think that this is the end
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1845,7 +1851,7 @@ Maybe a group lawsuit will work?? **\#MonoWillPay**
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5301"/>\[#053\] With all this mess going on, where is PAFF?
+## <a id="o5301"></a>\[#053\] With all this mess going on, where is PAFF?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1891,7 +1897,7 @@ Could it be that she has an accomplice?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5401"/>\[#054\] Feels like some serious s\*\*\* is going down at Mono
+## <a id="o5401"></a>\[#054\] Feels like some serious s\*\*\* is going down at Mono
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1939,7 +1945,7 @@ Wanna go check it out later
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5501"/>\[#055\] Feeling p\*\*\*ed after seeing NEKO's stream
+## <a id="o5501"></a>\[#055\] Feeling p\*\*\*ed after seeing NEKO's stream
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1978,7 +1984,7 @@ No comment on this. Had a feeling that nothing good ever happens when Mono is in
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5601"/>\[#056\] I just saw someone trash a car...
+## <a id="o5601"></a>\[#056\] I just saw someone trash a car...
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2024,7 +2030,7 @@ Not to mention that they even assaulted an innocent person, not a good look
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5701"/>\[#057\] If I see a famous artist...
+## <a id="o5701"></a>\[#057\] If I see a famous artist...
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2070,7 +2076,7 @@ Let's see if someone's is actually stupid enough to try (grabs popcorn
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5801"/>\[#058\] A commotion just occured
+## <a id="o5801"></a>\[#058\] A commotion just occured
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2125,7 +2131,7 @@ I see several big men in suits, probably bodyguards, opening a gap in the crowd
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o5901"/>\[#059\] Ma! Look! I'm on TV!!!!
+## <a id="o5901"></a>\[#059\] Ma! Look! I'm on TV!!!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2177,7 +2183,7 @@ The admins are about to interfere XDDD Have fun with your pointless moral victor
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6001"/>\[#060\] Can this Mono s\*\*\* fiesta end already?
+## <a id="o6001"></a>\[#060\] Can this Mono s\*\*\* fiesta end already?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2222,7 +2228,7 @@ If it's the admins, they might want to deal with this in the most efficient way 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6101"/>\[#061\] This time we will definitely make them feel our rage
+## <a id="o6101"></a>\[#061\] This time we will definitely make them feel our rage
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2280,7 +2286,7 @@ Mono's the one to blame<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6201"/>\[#062\] God this place is crowded\-AF
+## <a id="o6201"></a>\[#062\] God this place is crowded\-AF
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2330,7 +2336,7 @@ I still think there is something seriously messed up about this whole situation.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6301"/>\[#063\] Hey guys, is a post missing from NEKO's feed?
+## <a id="o6301"></a>\[#063\] Hey guys, is a post missing from NEKO's feed?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2369,7 +2375,7 @@ Like, I'm practically numb to any post with "Mono" in the title
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6401"/>\[#064\] OK this is bulls\*\*\*
+## <a id="o6401"></a>\[#064\] OK this is bulls\*\*\*
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2395,7 +2401,7 @@ I mean, it's not like A.R.C. doesn't have talented engineers, right?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6501"/>\[#065\] New behind the scenes update on Xenon's love triangle!NEKO\#ΦωΦ? Cherry?
+## <a id="o6501"></a>\[#065\] New behind the scenes update on Xenon's love triangle!NEKO\#ΦωΦ? Cherry?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2471,7 +2477,7 @@ Sis Vicky, we can only depend on you!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6601"/>\[#066\] Maybe we were all too impulsive
+## <a id="o6601"></a>\[#066\] Maybe we were all too impulsive
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2522,7 +2528,7 @@ Regardless of all this... I'm still so worried about PAFF... Hope we can find he
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6701"/>\[#067\] Requesting witness information regarding PAFF's whereabouts
+## <a id="o6701"></a>\[#067\] Requesting witness information regarding PAFF's whereabouts
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2589,7 +2595,7 @@ Seems like everyone is a bit too eager to help us. We'll deal with it right away
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6801"/>\[#068\] iM has been really laggy lately
+## <a id="o6801"></a>\[#068\] iM has been really laggy lately
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -2623,7 +2629,7 @@ TBH, I experienced that sometimes as well. Maybe the cyTus system is under going
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o6901"/>\[#069\] So those drones can actually shoot water streams
+## <a id="o6901"></a>\[#069\] So those drones can actually shoot water streams
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2673,7 +2679,7 @@ Warning issued LUL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7001"/>\[#070\] Is iM broken?
+## <a id="o7001"></a>\[#070\] Is iM broken?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2713,7 +2719,7 @@ We've been continually monitoring the connection quality over here. Recently, th
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7101"/>\[#071\] I NEED new gossip on Xenon × Neko\~\~
+## <a id="o7101"></a>\[#071\] I NEED new gossip on Xenon × Neko\~\~
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2770,7 +2776,7 @@ X: Make no mistake, I'm saying that everyone else is mine as well
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7201"/>\[#072\] \[Announcement\] Congratulations to ROBO\_Radio\_LIVE for the successful concert
+## <a id="o7201"></a>\[#072\] \[Announcement\] Congratulations to ROBO\_Radio\_LIVE for the successful concert
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2870,7 +2876,7 @@ It was a treat to see her there\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7301"/>\[#073\] ROBO Radio Live was f\*\*\*\*\*\* awesome
+## <a id="o7301"></a>\[#073\] ROBO Radio Live was f\*\*\*\*\*\* awesome
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2917,7 +2923,7 @@ Oh, and I also support **\#XxC**
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7401"/>\[#074\] Alter Ego
+## <a id="o7401"></a>\[#074\] Alter Ego
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2928,7 +2934,7 @@ Oh, and I also support **\#XxC**
 How should a person define "self"... The only one who knows the answer is, perhaps, myself.
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7501"/>\[#075\] Æsir\-FEST event, 08 Daily exclusive report series Part 4
+## <a id="o7501"></a>\[#075\] Æsir\-FEST event, 08 Daily exclusive report series Part 4
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3011,7 +3017,7 @@ CP got famous because they were a damn good band, ok? It has nothing to do with 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7601"/>\[#076\] Did you guys see that news report about Xenon???
+## <a id="o7601"></a>\[#076\] Did you guys see that news report about Xenon???
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3075,7 +3081,7 @@ Stop reading tasteless paparazzi magazine OK? Your brain is gonna melt and leake
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7701"/>\[#077\] Stop speaking up for that POS
+## <a id="o7701"></a>\[#077\] Stop speaking up for that POS
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3128,7 +3134,7 @@ On a side note, have we experienced anything like this in the past regarding the
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7801"/>\[#078\] \[Sponsored\] GROOVE COASTER arrives with a splash!
+## <a id="o7801"></a>\[#078\] \[Sponsored\] GROOVE COASTER arrives with a splash!
 ### Post
 **GC_Official**<br>
 Follow the trails of music into cyberspace! A colorful and fantastic showcase<br>
@@ -3148,7 +3154,7 @@ Ride the rhythmic rails in GROOVE COASTER<br>
 ![o7801.png](./attachments/o7801.png)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o7901"/>\[#079\] Solution to iM issues
+## <a id="o7901"></a>\[#079\] Solution to iM issues
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3194,7 +3200,7 @@ Time to switch 5̶́s̸͞҉̸u̶͜j̢̀̀ŗ́͢y̴̢͘͜k҉̵́͟D̷̡́F̵̵́
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8001"/>\[#080\] Time to show off ma new equipment A\_A
+## <a id="o8001"></a>\[#080\] Time to show off ma new equipment A\_A
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3242,7 +3248,7 @@ Stupid iM
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8101"/>\[#081\] Encounter
+## <a id="o8101"></a>\[#081\] Encounter
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3257,7 +3263,7 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8401"/>\[#084\] \*\*\* \[Emergency\] System announcement \*\*\*
+## <a id="o8401"></a>\[#084\] \*\*\* \[Emergency\] System announcement \*\*\*
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3270,7 +3276,7 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 \[Regarding the recent connection issues of this system and its subsequent sub\-systems, the institute has identified the cause of those issues and has addressed them. Users can use the service with ease now. We apologize for the inconveniences we caused. If you still encounter issues with the system, please provide a screenshot of the issue to ARC\-IT to help us address that issue.\]
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8501"/>\[#085\] It's fixed!!!
+## <a id="o8501"></a>\[#085\] It's fixed!!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3328,7 +3334,7 @@ I'm running dry these days from the lack of everything ARRRR
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8601"/>\[#086\] Boys, I'm backkk!!
+## <a id="o8601"></a>\[#086\] Boys, I'm backkk!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3370,7 +3376,7 @@ From what I've seen in the past few days, 08's not exactly a safe haven either L
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8701"/>\[#087\] ARC needs to give us a proper explanation
+## <a id="o8701"></a>\[#087\] ARC needs to give us a proper explanation
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3438,7 +3444,7 @@ Dude you got something??
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8801"/>\[#088\] So... does anyone knows what actually happened
+## <a id="o8801"></a>\[#088\] So... does anyone knows what actually happened
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3495,7 +3501,7 @@ OMG are you a prophet! The news came out. Go watch it now
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o8901"/>\[#089\] \[Breaking\] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
+## <a id="o8901"></a>\[#089\] \[Breaking\] A.R.C. backend system administrator Simon Jackson taken into custody by the Administration Bureau as prime suspect of recent incidents
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3633,7 +3639,7 @@ I have several friends who are trashing their albums right now LMFAO
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9001"/>\[#090\] Any idea why such a winner in life would go and commit crimes??
+## <a id="o9001"></a>\[#090\] Any idea why such a winner in life would go and commit crimes??
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3705,7 +3711,7 @@ Imo, there is definitely still more shady stuff that folks are not saying
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9101"/>\[#091\] \[Repost\] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
+## <a id="o9101"></a>\[#091\] \[Repost\] Breaking! Cherry booed for being "unprofessional" after late arrival at concert, this person spoke up for her behind the scenes...
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3779,7 +3785,7 @@ Praise the entertainment media and their ability to turn any minute incidents in
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9201"/>\[#092\] English pronunciation very important
+## <a id="o9201"></a>\[#092\] English pronunciation very important
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3834,7 +3840,7 @@ Sir, do you have any idea how many people you just p\*\*\*ed off with that last 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9301"/>\[#093\] Did any one of you suffer damages in this malfunction incident?
+## <a id="o9301"></a>\[#093\] Did any one of you suffer damages in this malfunction incident?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -3924,7 +3930,7 @@ Maybe not now, as I bet they are currently in complete chaos trying to handle al
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9401"/>\[#094\] Nuff said. Engage Meme
+## <a id="o9401"></a>\[#094\] Nuff said. Engage Meme
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3992,7 +3998,7 @@ Owner, quick! This is the golden opportunity to insert your promotions!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9501"/>\[#095\] \[Repost\] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
+## <a id="o9501"></a>\[#095\] \[Repost\] Æsir\-FEST incident prime suspect Simon Jackson pleads guilty to his crimes
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -4050,7 +4056,7 @@ Anonymous source... Unless a proper source is named, nobody's gonna believe this
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9601"/>\[#096\] Xenon you better give us a goddamn explanation
+## <a id="o9601"></a>\[#096\] Xenon you better give us a goddamn explanation
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4108,7 +4114,7 @@ How the f\*\*\* is he going to talk back you idiot lol
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9701"/>\[#097\] \[Repost\] A.R.C. exploration team founding member Colin Neumann passes away
+## <a id="o9701"></a>\[#097\] \[Repost\] A.R.C. exploration team founding member Colin Neumann passes away
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4189,7 +4195,7 @@ The first few comments are so freakin cringeworthy ROFL
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9801"/>\[#098\] My turn to stream again!! Let's play GOW!
+## <a id="o9801"></a>\[#098\] My turn to stream again!! Let's play GOW!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4261,7 +4267,7 @@ This game creates some serious inner conflicts when you are playing through it X
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="o9901"/>\[#099\] Betting time\~\~\~ What will happen to Xenon at the end of all this???
+## <a id="o9901"></a>\[#099\] Betting time\~\~\~ What will happen to Xenon at the end of all this???
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4334,7 +4340,7 @@ Possibility of folks breaking him out to perform lynching (?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0101"/>\[#101\] Is it just me, or does someone else also feel like Æsir is a legendary performance artist?
+## <a id="q0101"></a>\[#101\] Is it just me, or does someone else also feel like Æsir is a legendary performance artist?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4413,7 +4419,7 @@ I'm also a performance artist. I oversleep and is late for school every day. I u
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0201"/>\[#102\] Battle Royale game recommendation
+## <a id="q0201"></a>\[#102\] Battle Royale game recommendation
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -4467,7 +4473,7 @@ All this discussion yet not a single actual recommendation in this thread dafuq 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0301"/>\[#103\] \[BREAKING\] I think I just witness something pretty freakin major!!!
+## <a id="q0301"></a>\[#103\] \[BREAKING\] I think I just witness something pretty freakin major!!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -4568,7 +4574,7 @@ This post is gonna blow up in no time. Finally, some new stuff for the media
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0401"/>\[#104\] Where's Robo?
+## <a id="q0401"></a>\[#104\] Where's Robo?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -4622,7 +4628,7 @@ I feel like it could be because a cockroach fell into his joints!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0501"/>\[#105\] \[Repost\] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
+## <a id="q0501"></a>\[#105\] \[Repost\] Simon Jackson escapes from jail, jailbreak accomplice identity and wherabouts unknown
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4692,7 +4698,7 @@ What's the point of locking them up if they can break out just like that??
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0601"/>\[#106\] See, told ya guys
+## <a id="q0601"></a>\[#106\] See, told ya guys
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4740,7 +4746,7 @@ What is this soap opera nonsense\~ Who wrote this crap!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0701"/>\[#107\] What just happened...
+## <a id="q0701"></a>\[#107\] What just happened...
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4806,7 +4812,7 @@ Come on\~\~\~ What year is it that we still have people scared of that nonsense?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0801"/>\[#108\] Holy F\*\*\* is this news real!!!
+## <a id="q0801"></a>\[#108\] Holy F\*\*\* is this news real!!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4858,7 +4864,7 @@ Where did the witness report originate? Can someone confirm it for us? I feel li
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q0901"/>\[#109\] PAFF IS FOUND!!!!!!!!!!!!!!!!!!!!!!!
+## <a id="q0901"></a>\[#109\] PAFF IS FOUND!!!!!!!!!!!!!!!!!!!!!!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4912,7 +4918,7 @@ Xenon and ConneR's pairing (ship?) does indeed have quite the following XDDDDDD 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1001"/>\[#110\] \[Breaking\] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
+## <a id="q1001"></a>\[#110\] \[Breaking\] Idol singer PAFF possibly spotted at Node 08 Tower after missing for months
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4990,7 +4996,7 @@ Let's use PAFF to bait Xenon out. He's a pretty hardcore PAFF fan right???
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1101"/>\[#111\] \[Sponsored\] To the world of α
+## <a id="q1101"></a>\[#111\] \[Sponsored\] To the world of α
 ### Post
 **Cytus_Alpha**<br>
 A complete remake of a classic, contains over 200 songs<br>
@@ -5006,7 +5012,7 @@ Cytus α JP packaged version official release
 [**Official site**](https://cytusalpha.com)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1201"/>\[#112\] Magnificent Diva, new song announcement
+## <a id="q1201"></a>\[#112\] Magnificent Diva, new song announcement
 ### Post
 **Saito_Official**<br>
 \[NODE 03 Magnificent Diva, new song announcement\]<br>
@@ -5076,7 +5082,7 @@ Used to be a PAFF fan, but immediately change sides after hearing MIKU's songs (
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1301"/>\[#113\] Rayark Wonderland @Tokyo
+## <a id="q1301"></a>\[#113\] Rayark Wonderland @Tokyo
 ### Post
 **Rayark_Official**<br>
 Cytus II, DEEMO, Sdorica, amazing performance with all the classic songs!<br>
@@ -5092,7 +5098,7 @@ Tickets almost sold out. Countdown to the event starts soon!
 ![q1301.png](./attachments/q1301.png)
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1401"/>\[#114\] W\-T\-F!!!! What am I gonna do with this mountain\~\~\~\~
+## <a id="q1401"></a>\[#114\] W\-T\-F!!!! What am I gonna do with this mountain\~\~\~\~
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5150,7 +5156,7 @@ Can't you ask for a refund...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1501"/>\[#115\] B... Birds?
+## <a id="q1501"></a>\[#115\] B... Birds?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5191,7 +5197,7 @@ Get the f\*\*\* out of there! I heard they started attacking people!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1601"/>\[#116\] \[Breaking\] Drone attacks reported in Node 08
+## <a id="q1601"></a>\[#116\] \[Breaking\] Drone attacks reported in Node 08
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5278,7 +5284,7 @@ Folks, do not overreact to false information. The emergency news reports are jus
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1701"/>\[#117\] SOS!
+## <a id="q1701"></a>\[#117\] SOS!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5324,7 +5330,7 @@ You're made of flesh. Those drones are metal machines. OP, don't do anything stu
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1801"/>\[#118\] Lightspeed the Capybara
+## <a id="q1801"></a>\[#118\] Lightspeed the Capybara
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5381,7 +5387,7 @@ Have this many malfunctions ever happened simultaneously before????
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q1901"/>\[#119\] Who's behind this??
+## <a id="q1901"></a>\[#119\] Who's behind this??
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5439,7 +5445,7 @@ You should be worrying about yourself first!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2001"/>\[#120\] PAFF is home now. Reporting her safety and an apology
+## <a id="q2001"></a>\[#120\] PAFF is home now. Reporting her safety and an apology
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5551,7 +5557,7 @@ Its so great to hear that she's fine after all this
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2101"/>\[#121\] Uh... umm... so, where should I go and hide?
+## <a id="q2101"></a>\[#121\] Uh... umm... so, where should I go and hide?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5599,7 +5605,7 @@ I think the OP has already given up on that idea
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2201"/>\[#122\] Does any\~ one\~ know where NEKO is at now??\~\~
+## <a id="q2201"></a>\[#122\] Does any\~ one\~ know where NEKO is at now??\~\~
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -5717,7 +5723,7 @@ Can you help me get her autograph? I'll pay good monay for it!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2301"/>\[#123\] Anybody know what the final passcode for See2 is?
+## <a id="q2301"></a>\[#123\] Anybody know what the final passcode for See2 is?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -5789,7 +5795,7 @@ I pronounce it "See2: US".
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2401"/>\[#124\] \[Repost\] Administration Bureau holds press conference in response to recent drone incidents
+## <a id="q2401"></a>\[#124\] \[Repost\] Administration Bureau holds press conference in response to recent drone incidents
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5839,7 +5845,7 @@ The Law Enforcement Agents really got it tough 0rz. No wonder my dad doesn't wan
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2501"/>\[#125\] \[Repost\] Large\-scale drone attacks occurred in Node 08, Quadrant II
+## <a id="q2501"></a>\[#125\] \[Repost\] Large\-scale drone attacks occurred in Node 08, Quadrant II
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5903,7 +5909,7 @@ Is it normal for the sounds of explosions to sound like an earthquake...?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2601"/>\[#126\] \[Repost\] Node 08 Quadrant II suffered devastating drone attack
+## <a id="q2601"></a>\[#126\] \[Repost\] Node 08 Quadrant II suffered devastating drone attack
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -5977,7 +5983,7 @@ A final toast for the owner!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2701"/>\[#127\] HEY Y'all! I'm still alive!
+## <a id="q2701"></a>\[#127\] HEY Y'all! I'm still alive!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6047,7 +6053,7 @@ I can already see the dank memes coming out of this
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2801"/>\[#128\] How to counter drones 101
+## <a id="q2801"></a>\[#128\] How to counter drones 101
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6111,7 +6117,7 @@ Somebody should tag him
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q2901"/>\[#129\] Let's test and see how everyone reacts when they see a drone now lolololol
+## <a id="q2901"></a>\[#129\] Let's test and see how everyone reacts when they see a drone now lolololol
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -6190,7 +6196,7 @@ I hope natural selection disqualifies you from the ranks of human
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3001"/>\[#130\] Did a quick scan of the more well\-known services on cyTus these days
+## <a id="q3001"></a>\[#130\] Did a quick scan of the more well\-known services on cyTus these days
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -6245,7 +6251,7 @@ I don't think we can expect iM to get any better anytime soon lul
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3101"/>\[#131\] Something we must tell everyone
+## <a id="q3101"></a>\[#131\] Something we must tell everyone
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6353,7 +6359,7 @@ I thought I could watch Cherry become even more popular for decades to come QAQ 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3201"/>\[#132\] Thousands of fans gathered on iM to mourn the passing of Cherry PuNK vocalist Sherry Pauline
+## <a id="q3201"></a>\[#132\] Thousands of fans gathered on iM to mourn the passing of Cherry PuNK vocalist Sherry Pauline
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -6415,7 +6421,7 @@ Don't know if the missing Xenon knows about this.....
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3301"/>\[#133\] I'm sorry, I can't...
+## <a id="q3301"></a>\[#133\] I'm sorry, I can't...
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6451,7 +6457,7 @@ I am Cherry's fan from her time at Crystal. I've felt empty ever since I heard t
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3401"/>\[#134\] I have lots of questions...
+## <a id="q3401"></a>\[#134\] I have lots of questions...
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -6508,7 +6514,7 @@ Are conspiracy theorists all a little anti\-social?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3501"/>\[#135\] Hey...
+## <a id="q3501"></a>\[#135\] Hey...
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6579,7 +6585,7 @@ Crystal Punk Forever<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3601"/>\[#136\] Ummm, about that...
+## <a id="q3601"></a>\[#136\] Ummm, about that...
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6645,7 +6651,7 @@ It was just holding a disinfectant and tried to poison me!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3701"/>\[#137\] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down
+## <a id="q3701"></a>\[#137\] \[Repost\] Drone crisis averted temporarily. Bureau: Don't let your guard down
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6704,7 +6710,7 @@ They might suddenly start to smash your face in...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3801"/>\[#138\] What's the point of keeping military drones in service??
+## <a id="q3801"></a>\[#138\] What's the point of keeping military drones in service??
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6760,7 +6766,7 @@ Dude, who the heck did you hear that from?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="q3901"/>\[#139\] \[Streaming Notification: MO: Astray @21:00 \]
+## <a id="q3901"></a>\[#139\] \[Streaming Notification: MO: Astray @21:00 \]
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -6840,6 +6846,387 @@ The admins are trying to making friends with ARC, tryna get 'em to control the N
 **NEKOSAIKOU**<br>
 Damnit, I died.<br>
 Gotta restart.
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4001"></a>\[#140\] Uh... WTF!!!???
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**HandsomeYi**<br>
+RARGH!! Who lied to me and said outside is safe<br>
+I just saw some super freakin agile robots flying outside my company's window
+### Replies
+**wkn**<br>
+Eh me too<br>
+those were robots?
+
+**JaneHikaru**<br>
+Didn't look like it<br>
+uve never seen robohead?<br>
+Robots can do a lot but...<br>
+they're not even close to what I saw!!!
+
+**CHanatsuka**<br>
+Robohead's probably already advanced his technology to the maximino
+
+**XXXenon**<br>
+I'm pretty high up, cant see<br>
+but are those robots attacking people and shops?
+
+**NoLifeGamer**<br>
+YES!!! One just busted in and went crazy breaking stuff<br>
+luckily I was smart enough to lock myself in the freezer<br>
+door's thick as hell, couldn't break it
+
+**D33M0**<br>
+Yo guy... you know a lot of freezers can't be opened from the inside??
+
+**NoLifeGamer**<br>
+......... call 911 for me, will ya 0rz im gonna go check if there's any cardboard I can use to keep myself from freezing to death
+
+**MustangMartin**<br>
+Great news. the robots came only after the drones stopped attacking<br>
+hows the Bureau gonna explain this<br>
+"i promise they won't beat you to death"
+
+**Curo**<br>
+what the f is going on <br>
+im becoming an Otaku, never leavin my house<br>
+not tryn to die on the street
+
+**FreeFinder**<br>
+is that a bunch of people doing parkour way over there?
+
+**T3RA_wr47h**<br>
+I saw some law enforcement agents got attacked on the news at close range. They didn't have the ability to fight back...
+
+**AbigaleJ**<br>
+Way more dangerous than drones! Everybody head for cover!!!
+
+**Pinevalley**<br>
+Ar...Architects?
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4101"></a>\[#141\] \[Repost\] Unknown human\-shaped machines appear in Node 08; attacking without discrimination
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**Flower_Head**<br>
+\[Emergency Evacuation Report\]\[Robot\]\[Attack\]<br>
+> Based on the latest information gathered by this network, there have already been many eyewitnesses all over Node 08 that have reported seeing human\-shaped machines carrying out unrestrained attacks in the city. Several machines have charged into the telecommunications building where reporters are located and began attacking without discrimination——Fortunately, due to the recent drone attack incident, the Law Enforcement Agents sent on\-site were equipped with anti\-machine weaponry and were able to successfully eliminate the threat. However, a number of people still suffered minor injuries.<br>
+> <br>
+> Currently, we are unable to determine the model type or manufacturer of this group of human\-shaped machines. Preliminary investigations have revealed that there are currently no manufacturers that can produce such high\-functioning mechanical technology. Dr. Laite, a well\-known specialist in the field of robotics notes that, "based on their agile movement functions and unimaginable reaction speed, it appears that this technology is not of this era".<br>
+> <br>
+> The massive drone attack incident that occurred just a few days ago resulted in the death of many people and caused over a hundred people to be injured. For this reason, the Administration Bureau has issued an emergency evacuation report and deployed military reinforcements to A.R.C., hoping that citizens follow the instructions laid out in the report to prevent any further injuries.<br>
+> 
+
+\[Article excerpted from Node News Network\]
+### Replies
+**Varinaya**<br>
+way more frightening than the drones
+
+**Mulder**<br>
+What has been happening recently? What sort of evil is causing all this stuff to happen?
+
+**NoSignal**<br>
+I just saw them flying, running, jumping, everything! Like Boss Tin Dynamix on coffee. Definitely more advanced than robots
+
+**Snor_eDen**<br>
+At this number, even if enforcement agents use anti\-machine weaponry they still won't stand a chance!!!!
+
+**ElinaDaniel**<br>
+since they're not drones, are they robots with brains??
+
+**RamenBot**<br>
+why can't all robots be funny and witty like Robohead
+
+**STANley**<br>
+Maybe he'll bring his friends to help us?
+
+**CHanatsuka**<br>
+You sure the robots won't help the robots XD
+
+**C.Y.**<br>
+Who said robots can't understand humans??<br>
+Perhaps some robots love humans\~\~\~\~\~
+
+**Hulujam**<br>
+SHUT UP and head for cover\~\~\~\~
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4201"></a>\[#142\] The Prophet Beckons!!!
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**NEKOSAIKOU**<br>
+Fellow Believers!<br>
+Today is the time for us devotees, the protectors of the great master, to show our worth! The Prophet's wishes give our existence meaning!
+### Replies
+**Poopytrap**<br>
+Crazy, lost yer mind www
+
+**NEKOSAIKOU**<br>
+Sorry little bit too excited, 4got to say<br>
+even tho i sent the message to every1 in the NEKO group<br>
+if anyone didn't get it DM me
+
+**DiiiiMO**<br>
+Long time no see<br>
+gimme the signal and im ready to go
+
+**NnNn**<br>
+oooooooh what happened i wanna no\~\~\~\~
+
+**C_H_U**<br>
+NEKOSAIKOU hasnt been fanning out in like 4evs<br>
+even tho like even NEKO hasnt been on in like forevs
+
+**FCodex**<br>
+shes been runnin around wif PAFF, gotta be tough to get on www
+
+**KirinKiraKira**<br>
+Everybuddy MEOW!! meowmeowmeowmeowmeowmeowmeowmeow\~\~\~
+
+**KirinKiraKira**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\* LETS FLOoD ThiS BEEEAACHH!!
+
+**Shibawu**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\* LETS FLOoD ThiS BEEEAACHH!!
+
+**NekoSamurai**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\* LETS FLOoD ThiS BEEEAACHH!!
+
+**MirriLL**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(OωO)/\~\*\*\~\\(ΦωΦ)/\~\* im differrent
+
+**IronFan**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(>ω^)/\~\*\*\~\\(ΦωΦ)/\~\* ｗｉｎｋｙ　ｃａｔ!!!
+
+**maplewing**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(TωT)/\~\*\*\~\\(ΦωΦ)/\~\* Tears of joy!!!
+
+**Smurky**<br>
+LOL brings back meowmeries wwww
+
+**Lynx87**<br>
+\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\*\*\~\\(ΦωΦ)/\~\* LETS FLOoD ThiS BEEEAACHH!!
+
+**9me**<br>
+aigh not at home<br>
+not workin from home base today<br>
+cant perform that type of operation
+
+**NEKOSAIKOU**<br>
+go to the Node library and rent a media room<br>
+their hardware specs should be good
+
+**9me**<br>
+can you do that XD
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4301"></a>\[#143\] \[Repost\] Unknown human\-shaped machines suspected to be Architects; source yet to be determined, citizens please be on guard
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**Flower_Head**<br>
+\[Emergency\]\[Evacuation Report\]\[Node08\]<br>
+> Based on information gathered from an independent source, the large number of human\-shaped machines that are currently roaming Node 08 are Architects from the Decommission that had vanished without a trace. Although we are unable to determine why they have reappeared and begun attacking humans, we have received news that they are heading towards the  A.R.C. headquarters in mass. All we can be sure of is that the Administration Bureau and A.R.C. are trapped in a vicious battle. Citizens that have already dispersed and evaded danger, for your safety, please do not return to sites of danger.<br>
+> <br>
+> Based on the Administration Bureau's media blackout rules, we urge citizens to head to your corresponding shelter to avoid danger. If, on the way to the shelter you encounter any obstructions, head inside and do not engage with or resist the human\-shaped machines. 08 Daily will continue to broadcast various footage, text, and audio related to the situation.
+
+\[Article excerpted from 08 Daily\]
+### Replies
+**Vicky**<br>
+I posted this article.<br>
+It's 110% accurate.<br>
+Everybody must be extremely careful. Take care of yourselves.<br>
+They'll be some big news on Xenon, don't miss it.
+
+**Gogossip**<br>
+The independent source is Vicky!? It's definitely reliable!
+
+**AntiMetal**<br>
+Xenon's back????<br>
+Did he do this????
+
+**CyberLord**<br>
+He's not this evil.... plus, he doesnt have that kind of cash to make that many robots
+
+**Arya_Poke**<br>
+The tech for manufacturing Architects has long been unreliable<br>
+Otherwise they'd have made this high\-functioning stuff long ago. Way too convenient
+
+**11IIll11**<br>
+They could easily replace drones<br>
+and to be honest, they could easily replace humans too...
+
+**Marshall**<br>
+Xenon!?!?!?!?
+
+**Quest_ION**<br>
+What's this sensational news stirring up now<br>
+Whitewashing?
+
+**Go55ip**<br>
+Xenon's back?
+
+**Copper_stone**<br>
+Vicky's my idol!
+
+**888fans**<br>
+Vicky takes her journalistic integrity seriously, worth praising and quite moving
+
+**CeeJay**<br>
+This isn't the 08 Daily I know<br>
+Shouldn't they be writing about a love affair between Xenon and an Architect or something!!!
+
+**xxScarlexx**<br>
+Geez, gossip news reporter doesnt know anything stimulating to write about so just starts writing real news<br>
+Trying to whitewash this crap?
+
+**4nonymous**<br>
+Isn't Xenon hiding out in a different Node?<br>
+Heard someone in 03 saw him
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4401"></a>\[#144\] Ridiculous
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**TreeNoAlice**<br>
+Boss just sent out a message saying that even though there weren't any robots spotted, please do not go near the company. Said people are looting the place. One of the storage spaces has already been robbed clean. The security guards and temp workers were locked in the storage room. Don't get it. How can people be doing this to others at a time like this? Isn't it the time for people to join together??
+### Replies
+**Ulxy_34RTH**<br>
+Stuff like this happened during the drone attacks
+
+**KoraKora**<br>
+Disgusting. Doing it while the Bureau can't deal with them
+
+**TreeNoAlice**<br>
+Some pics were posted in the company group<br>
+They're stealing and lighting stuff on fire<br>
+Mental sickness!!??<br>
+Take care everyone<br>
+Maybe those robots aren't the only things to watch out for
+
+**Chevalier151**<br>
+Some people just like causing chaos
+
+**NathaN**<br>
+Human nature is evil
+
+**PoolsKitten**<br>
+Is the warehouse really even worth that much??
+
+**DuskDawn**<br>
+Let the Architects deal with them
+
+**JaneHikaru**<br>
+guy above me aint right wwww the Architects allowed them to do this\~\~\~
+
+**RyanRii**<br>
+Point is take care of yourself first
+
+**TobeTobe**<br>
+Think some stores around me have been looted 2
+
+**KamiCherry**<br>
+Suddenly realized that being a nerd piece of s\*\*\* is super safe<br>
+haven't run into a single drone or Architect
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="q4501"></a>\[#145\] \[Repost\] Wanted criminal Xenon appears suddenly and averts crisis
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Post
+**Flower_Head**<br>
+\[News\]\[Æsir\]\[Robots\]\[Attack\]\[Administration Bureau\]<br>
+> We've gathered first\-hand information on the scene revealing that after having a warrant issued for his arrest, the main culprit for the past internet crime incident, Simon Jackson, appeared for the first time in Node 08 to help alleviate the disaster.<br>
+> <br>
+> Earlier today, Simon Jackson appeared on a blocked off street in the heavily affected Quadrant II. Using firepower as a scare tactic, he attempted to lure the human\-shaped machines far away from the citizens, thereby preventing the calamity from spreading. Soon after, when reporters of this network were at risk of being attacked, the Administration Bureau's Armed Forces and Simon Jackson provided assistance immediately.  The Armed Forces loosened Simon Jackson's handcuffs and said, "It was him who saved everybody."<br>
+> <br>
+> Why Simon Jackson decided to show his face at this time remains unclear. But what we know is that this kind of selfless action taken to protect fellow citizens is hard to come by, and can only be attributed to a real hero.<br>
+> <br>
+> We'll continue to cover this story and bring you the latest news.<br>
+> 
+
+\[Article excerpted from Node News Network\]
+### Replies
+**lol_icon**<br>
+Eh Whats with the hero like comeback??????????
+
+**NerfThat**<br>
+What's the Administration Bureau doing letting him go?
+
+**TrojanPony**<br>
+Maybe it's a show, pretty good acting
+
+**PoolsKitten**<br>
+This is not a joke<br>
+Whatever it is he risked himself
+
+**AbigaleJ**<br>
+what happened b4 is still not clear, but saving people n risking himself, damn
+
+**Wickedragon**<br>
+Wait a sec!!!<br>
+doesnt this mean the Bureau has no power??<br>
+Letting a known criminal go???
+
+**LyLah1207**<br>
+Was it the choice of the commander on the scene? He did save people so its kinda understandable
+
+**Dogleg**<br>
+Xenon is a friggin beast. if he's on the side of justice it'll be a win for the good guys...
+
+**CherryMyLife**<br>
+in times of need, we need all the help we can get
+
+**Brightswirls**<br>
+It's not right to let him go.... there needs to be a clear line between right and wrong\~\~
+
+**ElinaDaniel**<br>
+08 Daily's Vicky just let out another article. Looks highly likely that Xenon was framed!!
+
+**CyberLord**<br>
+Just saw it. Losing one's memory is a scary thing
+
+**Arya_Poke**<br>
+Saw it. Xenon is probably an amazing guy<br>
+Gettin wrapped up in all this
+
+**Nara_rama**<br>
+Wah Xenon, total bummer
+
+**Ekstra**<br>
+think i jus heard the sound of anti\-fans smashing s\*\*\*
+
+**Glassyglass**<br>
+Glass shattering bruh wwww
 
 [*(Click here to go back to the top)*](#toc)
 

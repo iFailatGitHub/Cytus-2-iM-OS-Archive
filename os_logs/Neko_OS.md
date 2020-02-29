@@ -1,5 +1,5 @@
 # Neko OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Cam\_Park03\_689\_06\_13](#naos001)
 - [\[#002\] Audio\_Shiraishi\_690\_08\_12](#naos002)
 - [\[#003\] Cam\_Class\_I\-6\_696\_12\_01](#naos003)
@@ -30,8 +30,10 @@
 - [\[#028\] Cam\_Asakura\_701\_09\_28](#naos028)
 - [\[#029\] Cam\_76st\_702\_06\_11](#naos029)
 - [\[#030\] Cam\_NL\_702\_08\_19](#naos030)
+- [\[#031\] Audio\_Asakura\_702\_12\_29](#naos031)
+- [\[#032\] Audio\_hospital\_702\_12\_29](#naos032)
 
-## <a id="naos001"/>\[#001\] Cam\_Park03\_689\_06\_13
+## <a id="naos001"></a>\[#001\] Cam\_Park03\_689\_06\_13
 ### Log Content
 **Neko**<br>
 Papa, look!
@@ -82,7 +84,7 @@ Really!? I want to try!!
 
 _\[→Signal Switch to Asakura's\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Mayu**<br>
 Welcome back.
@@ -164,7 +166,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos002"/>\[#002\] Audio\_Shiraishi\_690\_08\_12
+## <a id="naos002"></a>\[#002\] Audio\_Shiraishi\_690\_08\_12
 ### Log Content
 **Saku**<br>
 NEKO? Come over here. Daddy and mommy have something to tell you.
@@ -172,7 +174,7 @@ NEKO? Come over here. Daddy and mommy have something to tell you.
 **Neko**<br>
 ......?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kouhei**<br>
 NEKO, daddy... may be leaving this home.
@@ -284,14 +286,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos003"/>\[#003\] Cam\_Class\_I\-6\_696\_12\_01
+## <a id="naos003"></a>\[#003\] Cam\_Class\_I\-6\_696\_12\_01
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**| 2 |    No     |
 
 ### Log Content
-*\[Class Bell\]*
+_\[Class Bell\]_
 
 **Neko**<br>
 Whew\~ It's over!!! I'm exhausted\~
@@ -383,7 +385,7 @@ No objections!
 **Linda**<br>
 Ah! HEY!
 
-*\[Music\]*
+_\[Music\]_
 
 **Linda**<br>
 ... How is it? Pretty noisy, right...
@@ -432,7 +434,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos004"/>\[#004\] Audio\_St07\_697\_01\_08
+## <a id="naos004"></a>\[#004\] Audio\_St07\_697\_01\_08
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -493,12 +495,12 @@ Uh\-huh. See ya tonight\~ Buh\-bye\~
 
 _\[→Signal Switch\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Daddy, NEKO's home\~
 
-*\[Cutting\]*
+_\[Cutting\]_
 
 **Neko**<br>
 Eh? What are you doing?
@@ -532,7 +534,7 @@ Yes, ma'am\~
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Cutting\]*
+_\[Cutting\]_
 
 **Neko**<br>
 ... This dish is mommy's signature dish. This is also the first dish she taught NEKO. Feels so nostalgic.
@@ -571,7 +573,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos005"/>\[#005\] Cam\_Dash\_697\_06\_07
+## <a id="naos005"></a>\[#005\] Cam\_Dash\_697\_06\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -609,7 +611,7 @@ Daddy\~ you're spewing nonsense again! NEKO told you many times before! Linda is
 **Kouhei**<br>
 OK\~ OK\~
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Wah! Why is there someone else!?
@@ -620,7 +622,7 @@ Ah, sorry. NEKO, can you sit in the back seat? Today, we're also giving my colle
 **Neko**<br>
 Eh? Oh, okay...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 Sorry for the intrusion...
@@ -717,7 +719,7 @@ Uh\-huh! Bye\-bye, sis Yukiko\~ Don't forget our deal. Next time, when you visit
 **Yukiko**<br>
 Of course. I'll look forward to that\~ Goodbye.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kouhei**<br>
 She seems to like you a lot.
@@ -729,7 +731,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos006"/>\[#006\] Cam\_NL\_697\_11\_16
+## <a id="naos006"></a>\[#006\] Cam\_NL\_697\_11\_16
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -746,7 +748,7 @@ Mmmm...Hmm? What? Today's a weekend... I still wanna sleep...
 No. There's something I need you to help with. Quick, wake up.<br>
 Kenta, come here.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Neko**<br>
 ......?<br>
@@ -789,7 +791,7 @@ Nothing! Do what ever you guys want. If you want to go out, do as you please.
 **Kouhei**<br>
 ... Then we'll leave it to you.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Arghhh! Stupid daddy! Smelly Feet! Big dumb liar...
@@ -802,7 +804,7 @@ Arghhh! Stupid daddy! Smelly Feet! Big dumb liar...
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Glass shatters\]*
+_\[Glass shatters\]_
 
 **Neko**<br>
 YIKES!?<br>
@@ -857,7 +859,7 @@ Haha! ! He fly away! Big sister is awesome!
 **Neko**<br>
 Hmph\~ of course I am! Alright, time for the next level!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kouhei**<br>
 We're home... Ho? Looks like you guys are having a lot of fun.
@@ -886,7 +888,7 @@ Where are you going at this time? It's almost dinner time.
 **Neko**<br>
 NEKO has some things to deal with, so I'll be eating out. You three can eat by yourselves... bye.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 ......<br>
@@ -899,14 +901,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos007"/>\[#007\] Audio\_NL\_698\_07\_07
+## <a id="naos007"></a>\[#007\] Audio\_NL\_698\_07\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**| 5 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kouhei**<br>
 I'm home.
@@ -924,7 +926,7 @@ NEKO\#Φˋ︿ˊΦ_
 **Kouhei**<br>
 ......
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Kouhei**<br>
 NEKO, are you asleep?
@@ -1036,7 +1038,7 @@ Do whatever you please. That's all I have to say. NEKO's gonna sleep now.
 **Kouhei**<br>
 ...I'm sorry...
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Neko**<br>
 NEKO is so dumb for coming to Node 08 with daddy...
@@ -1045,14 +1047,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos008"/>\[#008\] Audio\_Asakura\_698\_08\_15
+## <a id="naos008"></a>\[#008\] Audio\_Asakura\_698\_08\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**| 6 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 NEKO, welcome back.
@@ -1060,7 +1062,7 @@ NEKO, welcome back.
 **Neko**<br>
 ... Oh.
 
-*\[Cutting Vegetables\]*
+_\[Cutting Vegetables\]_
 
 **Yukiko**<br>
 Ah, you're eating at home tonight, right? We'll be living together from now on. I... I want to prepare a hearty dinner to show my appreciation.
@@ -1073,7 +1075,7 @@ Oh... I see.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Kouhei**<br>
 NEKO, time for dinner.<br>
@@ -1088,7 +1090,7 @@ Okay. We'll wait for you, then we can start.
 **Neko**<br>
 ......
 
-*\[Slaps face\]*
+_\[Slaps face\]_
 
 **Neko**<br>
 ... Sis Yukiko is a good person... It'll be alright... Just act normally...
@@ -1147,7 +1149,7 @@ You...... you...... Who gave you the right to cook this dish!?
 **Yukiko**<br>
 ......!!
 
-*\[Slams the table\]*
+_\[Slams the table\]_
 
 **Kouhei**<br>
 NEKO! Yukiko made this for you out of goodwill! Apologize to her now...
@@ -1155,12 +1157,12 @@ NEKO! Yukiko made this for you out of goodwill! Apologize to her now...
 **Neko**<br>
 NEKO's not eating that!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Kouhei**<br>
 NEKO! Where are you going? Get back here!
 
-*\[Slams door\]*
+_\[Slams door\]_
 
 **Kouhei**<br>
 ......
@@ -1178,7 +1180,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos009"/>\[#009\] Audio\_Arcade\_698\_08\_15
+## <a id="naos009"></a>\[#009\] Audio\_Arcade\_698\_08\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1188,7 +1190,7 @@ _\[Signal Lost\]_
 **Neko**<br>
 _\*Sniffs\*_... Damnit! So mad... stupid daddy! NEKO will play this to let off some steam...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **[Arcade Shooter]**<br>
 _Player Aub WIN!_
@@ -1220,7 +1222,7 @@ Hey, it's getting late, brat. Shouldn't you be going home now?
 **Pedestrian B**<br>
 Yeah! Go home, midget! Bet you can't even hold the gun properly!
 
-*\[Kick\]*
+_\[Kick\]_
 
 **Pedestrian B**<br>
 Owwww! That hurt!
@@ -1239,7 +1241,7 @@ Get over here!
 
 _\[→Signal Switch\]_
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Neko**<br>
 Eek!
@@ -1272,7 +1274,7 @@ What, you wanna play hero? I advise you stay out of this or we'll beat yo a\*\* 
 **Pedestrian A**<br>
 Ha? You wanna pick a fight!?
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Pedestrian B**<br>
 Ha! He's so weak! Look at how far he flew\~!
@@ -1283,7 +1285,7 @@ Hey\~? Are you alright? Aren't you trying to be a hero? You can't be one if you 
 **Xenon**<br>
 ......
 
-*\[Motorcycle engine\]*
+_\[Motorcycle engine\]_
 
 **Pedestrian B**<br>
 ... Hey! Isn't that your bike!?
@@ -1291,7 +1293,7 @@ Hey\~? Are you alright? Aren't you trying to be a hero? You can't be one if you 
 **Pedestrian A**<br>
 The f\*\*\*! Why did it start itself!? Quick, don't let it get away!!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Xenon**<br>
 Whew...<br>
@@ -1325,7 +1327,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos010"/>\[#010\] Cam\_Velvet\_698\_10\_06
+## <a id="naos010"></a>\[#010\] Cam\_Velvet\_698\_10\_06
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1377,7 +1379,7 @@ Especially this opening band Xenon; heard that this is the fastest rising new ba
 **Neko**<br>
 Xe... non? How do you pronounce it? NEKO is terrible with weird words like this...
 
-*\[Audience cheers\]*
+_\[Audience cheers\]_
 
 **Linda**<br>
 Oh! It's about to start!
@@ -1385,7 +1387,7 @@ Oh! It's about to start!
 **Neko**<br>
 Woah, everyone is wearing helmets! That is so cool!
 
-*\[Music\]*
+_\[Music\]_
 
 **Neko**<br>
 Uwaa! WAAAAA! &^\*%(%(%(\#)!!!!
@@ -1423,7 +1425,7 @@ Now that Linda\-chan mentions it... they do sound a bit similar! You noticed thi
 Don't flatter me like that, I'll get flustered...<br>
 ... However, you're right about me being a hardcore fan. I miss CP so much.
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Linda**<br>
 Ah, you have a call...
@@ -1431,7 +1433,7 @@ Ah, you have a call...
 **Neko**<br>
 Ugh...
 
-*\[Phone shutting down\]*
+_\[Phone shutting down\]_
 
 **Linda**<br>
 NEKO... that was your dad, right?
@@ -1469,7 +1471,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos011"/>\[#011\] Cam\_76St\_698\_11\_02
+## <a id="naos011"></a>\[#011\] Cam\_76St\_698\_11\_02
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1539,7 +1541,7 @@ Ah... Shhhh! You'll be taken away!
 **Agent**<br>
 ... What's that noise? Is it a cat?
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Xenon**<br>
 ......?<br>
@@ -1576,7 +1578,7 @@ Take it and leave, now.
 **Neko**<br>
 Eh? Ah... got it.
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Agent**<br>
 Ah! She ran away! So you were indeed molesting her!?
@@ -1590,7 +1592,7 @@ Don't move! Stand still and let me scan you.
 **Xenon**<br>
 ......
 
-*\[ID Scan\]*
+_\[ID Scan\]_
 
 **[Scanner]**<br>
 _Unable to detect target. Please scan again._
@@ -1605,7 +1607,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos012"/>\[#012\] Audio\_Velvet\_698\_11\_19
+## <a id="naos012"></a>\[#012\] Audio\_Velvet\_698\_11\_19
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1620,7 +1622,7 @@ _\[Signal Lost\]_
 **[Xenon-V]**<br>
 _That's it for tonight's performance! Thank you for coming!_
 
-*\[Audience cheers\]*
+_\[Audience cheers\]_
 
 _\[»»» Fast Forward»»»\]_
 
@@ -1733,7 +1735,7 @@ Let's exchange iM so we can better communicate with each other!
 **Xenon**<br>
 Sure.
 
-*\[iM exchange\]*
+_\[iM exchange\]_
 
 **Neko**<br>
 Yeah\~ Xenon's iM get!
@@ -1751,14 +1753,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos013"/>\[#013\] Audio\_Neko\_698\_11\_24
+## <a id="naos013"></a>\[#013\] Audio\_Neko\_698\_11\_24
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|11 |    No     |
 
 ### Log Content
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Neko**<br>
 Ha...... Ha...... Sorry, I'm a little late.
@@ -1883,7 +1885,7 @@ Ok, ok\~ So turns out that Xenon is the type who lectures people a lot...
 **Xenon**<br>
 Shut it... we're here.
 
-*\[Music\]*
+_\[Music\]_
 
 **Neko**<br>
 JOZ......Cafe?<br>
@@ -1900,7 +1902,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos014"/>\[#014\] Cam\_Asakura\_698\_12\_18
+## <a id="naos014"></a>\[#014\] Cam\_Asakura\_698\_12\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1914,7 +1916,7 @@ _\[Signal Lost\]_
 |**Blah!!**|Neko |Chaos|14 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 They should be already asleep, right...?
@@ -2021,7 +2023,7 @@ HA!? Ewwwww! If you just want the money, then stop trying to act like a mother!.
 **Yukiko**<br>
 ......!!
 
-*\[Vase Shatters\]*
+_\[Vase Shatters\]_
 
 ![naos1401.png](./attachments/naos1401.png)
 
@@ -2046,9 +2048,9 @@ What part\-time job!? The one where you abandoned your studies for!? Very well, 
 **Neko**<br>
 ......!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
-*\[Slams Door\]*
+_\[Slams Door\]_
 
 **Kouhei**<br>
 Fine! Go! Don't you dare come back again!
@@ -2070,7 +2072,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos015"/>\[#015\] Audio\_Arcade\_698\_12\_18
+## <a id="naos015"></a>\[#015\] Audio\_Arcade\_698\_12\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2224,7 +2226,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos016"/>\[#016\] Cam\_Studio\_698\_12\_18
+## <a id="naos016"></a>\[#016\] Cam\_Studio\_698\_12\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2237,7 +2239,7 @@ _\[Signal Lost\]_
 |**リラ**|Neko |Hard | 8 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Wow! This is a nice workshop!
@@ -2271,7 +2273,7 @@ Can NEKO try it out?
 **Xenon**<br>
 I don't mind... do you know how to use it though?
 
-*\[Synthesizer\]*
+_\[Synthesizer\]_
 
 **Neko**<br>
 Hmmmm, so good! This sound is so good! The new modulation is awesome!
@@ -2282,7 +2284,7 @@ Hmmmm, so good! This sound is so good! The new modulation is awesome!
 **Neko**<br>
 Yep, although NEKO only has a digital version back at home.
 
-*\[Optic guitar activation\]*
+_\[Optic guitar activation\]_
 
 **Neko**<br>
 Hawawa! What is that!? So cool!
@@ -2304,12 +2306,12 @@ Man\~ that was fun! I never thought I could Jam with Xenon!
 **Xenon**<br>
 I'm quite surprised myself as well. I didn't know that you compose music.
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Neko**<br>
 ......
 
-*\[Phone shutting down\]*
+_\[Phone shutting down\]_
 
 **Xenon**<br>
 ... What's wrong?
@@ -2391,14 +2393,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos017"/>\[#017\] Audio\_Mono\_698\_12\_19
+## <a id="naos017"></a>\[#017\] Audio\_Mono\_698\_12\_19
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|14 |    No     |
 
 ### Log Content
-*\[Notification\]*
+_\[Notification\]_
 
 **[PC]**<br>
 _Chris Pinkman, you have a new voice mail._
@@ -2425,7 +2427,7 @@ _Replay complete._
 ......<br>
 Hmm, huh? That's it? Where's the work?
 
-*\[Notification\]*
+_\[Notification\]_
 
 **[PC]**<br>
 _Chris Pinkman, you have a new voice mail.<br>
@@ -2443,7 +2445,7 @@ _Replay complete._
 **Chris**<br>
 So.... where the heck is the work? Also what's with the OVER thing...
 
-*\[Notification\]*
+_\[Notification\]_
 
 **[PC]**<br>
 _Chris Pinkman, you have a new voice mail._
@@ -2455,7 +2457,7 @@ _Chris Pinkman, you have a new voice mail._
 _Playing audio file:<br>
 《Sunday\_Night\_Blue\_Demo》_
 
-*\[Music\]*
+_\[Music\]_
 
 **Chris**<br>
 ... Hoho! Interesting! Is she really just 17? There's a very good chance this will sell like hotcakes!
@@ -2467,7 +2469,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos018"/>\[#018\] Audio\_Mono\_698\_12\_28
+## <a id="naos018"></a>\[#018\] Audio\_Mono\_698\_12\_28
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2479,7 +2481,7 @@ _\[Signal Lost\]_
 |**リラ**|Neko |Chaos|12 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Morning\~ Hello everyone, NEKO is here!
@@ -2553,7 +2555,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos019"/>\[#019\] Audio\_Mono\_699\_04\_12
+## <a id="naos019"></a>\[#019\] Audio\_Mono\_699\_04\_12
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2630,14 +2632,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos020"/>\[#020\] Cam\_Shiraishi\_699\_04\_20
+## <a id="naos020"></a>\[#020\] Cam\_Shiraishi\_699\_04\_20
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|16 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Mommy! Grandma! NEKO is back\~
@@ -2689,7 +2691,7 @@ No need to worry, NEKO is strong! Daddy was always mumbling about Node 08 being 
 **Saku**<br>
 Haha...
 
-*\[Collecting dishes\]*
+_\[Collecting dishes\]_
 
 **Saku**<br>
 Ah, mom, let me wash it.
@@ -2794,7 +2796,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos021"/>\[#021\] Call\_Linda\_699\_02\_25
+## <a id="naos021"></a>\[#021\] Call\_Linda\_699\_02\_25
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2922,14 +2924,14 @@ _\[Call Ends\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos022"/>\[#022\] Audio\_Neko\_699\_05\_01
+## <a id="naos022"></a>\[#022\] Audio\_Neko\_699\_05\_01
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|18 |    No     |
 
 ### Log Content
-*\[Rips contract\]*
+_\[Rips contract\]_
 
 **Neko**<br>
 NEKO will no longer do anything for a s\*\*\*hole company like yours! I will never be your ghost producer ever again! I look like a fool!<br>
@@ -3071,7 +3073,7 @@ That's it for now. NEKO will go back in a few days to clean out my stuff.
 **Neko**<br>
 W, we'll see about that... I have to go now, bye\-bye.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Neko**<br>
 ......
@@ -3083,7 +3085,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos023"/>\[#023\] Cam\_Asakura\_699\_05\_18
+## <a id="naos023"></a>\[#023\] Cam\_Asakura\_699\_05\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3133,7 +3135,7 @@ Wahhh! Mama!
 **Yukiko**<br>
 Stop!!
 
-*\[Slap\]*
+_\[Slap\]_
 
 **Yukiko**<br>
 Kya!
@@ -3141,7 +3143,7 @@ Kya!
 **Man A**<br>
 Shut it! The amount you guys owed is way too much. Don't you dare inform the admins. The things your ex\-husband did, you do realize what's going to happen to you if those things are discovered, right?
 
-*\[Kick\]*
+_\[Kick\]_
 
 **Man B**<br>
 Uargh!!
@@ -3195,19 +3197,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos024"/>\[#024\] Audio\_Studio\_699\_05\_19
+## <a id="naos024"></a>\[#024\] Audio\_Studio\_699\_05\_19
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|19 |    No     |
 
 ### Log Content
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Xenon**<br>
 Umm... Who's there? It's the middle of the night...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Xenon**<br>
 NEKO......？
@@ -3215,7 +3217,7 @@ NEKO......？
 **Neko**<br>
 ......
 
-*\[Collapses\]*
+_\[Collapses\]_
 
 **Xenon**<br>
 Woah!
@@ -3262,7 +3264,7 @@ _\[»»» Fast Forward»»»\]_
 Ok... Uh\-huh... NEKO is fine...<br>
 Got it... I will be back in a moment, bye.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 I'm done. Here's your phone.
@@ -3323,14 +3325,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos025"/>\[#025\] Cam\_Dash\_699\_05\_20\_1
+## <a id="naos025"></a>\[#025\] Cam\_Dash\_699\_05\_20\_1
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Neko**|20 |    No     |
 
 ### Log Content
-*\[Car Engine Stops\]*
+_\[Car Engine Stops\]_
 
 **Kouhei**<br>
 We're here... This is the place.
@@ -3370,7 +3372,7 @@ _\[»»» Fast Forward»»»\]_
 Daddy, can you hear me? NEKO will be telling you the controls from here.<br>
 Daddy? Dad?... AH! Crap... He forgot his earbuds...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[Man A]**<br>
 _Hmm? Mister, is there something you want? We are already closed for the day..._
@@ -3387,7 +3389,7 @@ _Are you here to pay her debts for her? Then you better bring enough. The money 
 **[Kouhei]**<br>
 _I, I warn you guys... leave her alone. We will not pay this wretched illegal company a single cent anymore!_
 
-*\[Flips switch\]*
+_\[Flips switch\]_
 
 **[Kouhei]**<br>
 _...... Eh?_
@@ -3395,7 +3397,7 @@ _...... Eh?_
 **Neko**<br>
 Daddy you idiot! You pressed the wrong one! Ah! Look out!
 
-*\[Heavy Blow\]*
+_\[Heavy Blow\]_
 
 **[Kouhei]**<br>
 _Argh!_
@@ -3412,14 +3414,14 @@ This is bad... Should probably inform...
 **[Kouhei]**<br>
 _ALL OF YOU, FREEZE!_
 
-*\[Flips switch\]*
+_\[Flips switch\]_
 
-*\[Glass explodes\]*
+_\[Glass explodes\]_
 
 **[Man C]**<br>
 _......! What!? What is going on...!?_
 
-*\[Flips switch\]*
+_\[Flips switch\]_
 
 **[Man B]**<br>
 _UGH! My head! My head is so hot! It's burning!_
@@ -3474,7 +3476,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos026"/>\[#026\] Cam\_Dash\_699\_05\_20\_2
+## <a id="naos026"></a>\[#026\] Cam\_Dash\_699\_05\_20\_2
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3535,7 +3537,7 @@ No need to panic. You'll know very soon.
 
 _\[→Signal Switch\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 Kouhei! NEKO!
@@ -3621,7 +3623,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos027"/>\[#027\] Audio\_Studio\_699\_06\_03
+## <a id="naos027"></a>\[#027\] Audio\_Studio\_699\_06\_03
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3635,7 +3637,7 @@ _\[Signal Lost\]_
 |**Log In**|Neko |Chaos|13 |
 
 ### Log Content
-*\[Eats Snacks\]*
+_\[Eats Snacks\]_
 
 **Xenon**<br>
 Hey, I thought I told you not to eat snacks in here? Take it outside.
@@ -3646,7 +3648,7 @@ NO! It's too stuffy outside!
 **Xenon**<br>
 I've turned on the AC, go outside.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 Mu\-ki\~\~\~ You're the one who said you're making a new song. That's why NEKO came to help.<br>
@@ -3720,7 +3722,7 @@ All in all, good to see that you're safe.
 **Neko**<br>
 ......
 
-*\[Eats Snacks\]*
+_\[Eats Snacks\]_
 
 **Xenon**<br>
 What's wrong? If you're done eating, go back and continue.
@@ -3745,7 +3747,7 @@ N, nothing..... Just... for all sorts of things...
 What? I didn't do anything though?<br>
 Come on in; we need to finish the remaining sections.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Neko**<br>
 You did help NEKO out... At least let NEKO say thank you...
@@ -3754,7 +3756,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos028"/>\[#028\] Cam\_Asakura\_701\_09\_28
+## <a id="naos028"></a>\[#028\] Cam\_Asakura\_701\_09\_28
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3874,7 +3876,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos029"/>\[#029\] Cam\_76st\_702\_06\_11
+## <a id="naos029"></a>\[#029\] Cam\_76st\_702\_06\_11
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3938,7 +3940,7 @@ No need to worry! You are still super cute even without makeup! Your skin is so 
 Then I'll take a photo for you two first. Stand still\~<br>
 Ok, three, two, one, say cheese\~\~
 
-*\[Takes Photo\]*
+_\[Takes Photo\]_
 
 **Rinko**<br>
 Let's take a selfie with my phone as well\~ Is that ok?
@@ -3946,7 +3948,7 @@ Let's take a selfie with my phone as well\~ Is that ok?
 **Neko**<br>
 Uh\-huh. Sure!
 
-*\[Takes Photo\]*
+_\[Takes Photo\]_
 
 ![naos2901.png](./attachments/naos2901.png)
 
@@ -3981,7 +3983,7 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="naos030"/>\[#030\] Cam\_NL\_702\_08\_19
+## <a id="naos030"></a>\[#030\] Cam\_NL\_702\_08\_19
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4048,7 +4050,7 @@ Woah\~ Look at this viewer count! We may be breaking the record again this time!
 **Neko**<br>
 Why are you people taking screenshots!? Prepare your butts for the big moment!
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 ![naos3002.png](./attachments/naos3002.png)
 
@@ -4058,6 +4060,369 @@ _\[Call Starts\]_
 Hello\~? Who are you?
 
 _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="naos031"></a>\[#031\] Audio\_Asakura\_702\_12\_29
+### Requirements
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**|28 |    No     |
+|**Neko**        |25 |    Yes    |
+
+### Log Content
+**NEKO**<br>
+......
+
+_\[Door Opens\]_
+
+**Kenta**<br>
+Sis... Sister's back!
+
+**Yukiko**<br>
+NEKO? Are you okay? We've been worried sick about you! Miss PAFF? She didn't come back with you?
+
+**Kouhei**<br>
+NEKO, nothing happened to you, did it?
+
+**NEKO**<br>
+... Actually...
+
+**Kouhei**<br>
+NEKO?
+
+**NEKO**<br>
+... Aigh\-ya, whatevs NEKO's fine! Aroma\-chan is good too. She even got her memory back!
+
+**Yukiko**<br>
+Ah, wonderful. So is she in Node 03?
+
+**NEKO**<br>
+Nah, NEKO came back with them, but Aroma\-chan and them... they are going to do something very important. Since NEKO couldn't help, I was sent back home...
+
+**NEKO**<br>
+Ah, ah! But NEKO went and saw Mom and Grandma! They're doing great!
+
+**Kouhei**<br>
+Uhh... You didn't cause them any trouble, did you?
+
+**NEKO**<br>
+Hey! Who do you think I am!? Dumb Dad still thinks NEKO's a child!
+
+**Yukiko**<br>
+Alright, alright, as long as you're safe. Don't just stand there, come in. The food'll be no good once it gets cold.
+
+_\[Footsteps\]_
+
+**Kouhei**<br>
+Oh yeah, NEKO. We saw the news about Xenon breaking out of jail...
+
+**NEKO**<br>
+Xenon is not a bad guy!
+
+**Kouhei**<br>
+Yeah, we know. After all, he helped us a lot... Must've been to prove he's innocent, so he escaped from jail, right? Has he contacted you?
+
+**NEKO**<br>
+He, he......
+
+**Yukiko**<br>
+NEKO, are you alright?
+
+**NEKO**<br>
+... An important friend of ours was in an accident... she died. Xenon, he...
+
+**NEKO**<br>
+.......
+
+**[MeowBot]**<br>
+_NEKO's emotional state is becoming negative meow\~ Should I bring up another topic meow\~_
+
+_\[Hugs\]_
+
+**NEKO**<br>
+... Yukiko?
+
+**Yukiko**<br>
+I know you're upset, but try to stay positive. Even though I don't know your friend... I'm sure she would want all of you to be happy. Am I right?
+
+**NEKO**<br>
+... Yeah... If it were her, she'd definitely be smiling as she said it...
+
+**Kouhei**<br>
+NEKO, we don't know what's going on, but all you need to do is say the word and we'll help you. I know you don't want to make us worry... but this is what family's are for.
+
+**NEKO**<br>
+Y\-You! When stinky dad got knocked unconscious and the car got stolen, NEKO was so worried!
+
+**Kouhei**<br>
+... That was...
+
+**Yukiko**<br>
+Kouhei is right, NEKO. We'll do whatever we need to make sure NEKO isn't sad.
+
+**Kouhei**<br>
+Yeah. And not just us. On the internet, don't you have a bunch of whatta you call them... fans or something? Just complain to them, I'm sure they'll help...
+
+**NEKO**<br>
+... Oh...<br>
+... Okay, okay! NEKO understands! Ah\~ smells so delicious ya\~ let's eat!
+
+**Kenta**<br>
+I wanna help sis!
+
+**NEKO**<br>
+Stinky brat, if you eat all this without being picky, that'd be a HUGE help!
+
+**Kenta**<br>
+Nevermind, I don't wanna help!
+
+**NEKO**<br>
+What'd you say! Get over here!
+
+**Kenta**<br>
+WAHHHHH!!!
+
+**Yukiko**<br>
+Be careful! The plate!
+
+_\[Plate Shatters\]_
+
+**Kouhei**<br>
+... I'll get the broom.
+
+**NEKO**<br>
+NEKO'll do it! Wait a sec!
+
+_\[Footsteps\]_
+
+**NEKO**<br>
+... NEKO will do what she needs to...
+
+**Yukiko**<br>
+NEKO, did you find the broom?
+
+**NEKO**<br>
+YA! COMING!
+
+_\[Signal Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="naos032"></a>\[#032\] Audio\_hospital\_702\_12\_29
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**|26 |    No     |
+
+### Log Content
+_\[Notification\]_
+
+**Neko**<br>
+Okay, Xenon's sending the web page... hurry up!
+
+**Linda**<br>
+... Hurry what up?
+
+**Neko**<br>
+Ah, Linda\-chan! You come to check in on us?
+
+**Linda**<br>
+Of course, the news showed your house getting attacked. Scared me half to death... Signal's weird. Luckily I asked everybody and they told me which hospital to go to.
+
+**Neko**<br>
+Waah! Linda\-chan is worried about NEKO? NEKO's so moved\~ purrrrr\~
+
+_\[Hugs\]_
+
+**Linda**<br>
+... Well, now I know you're doing okay.<br>
+Ah, Mr. Asakura, is everybody doing okay?
+
+**Kouhei**<br>
+Linda, we're doing fine... Yukiko got a bit scraped up, but it's nothing big.
+
+**Linda**<br>
+Wonderful. If there's anything I can help with, please don't hesitate to ask.
+
+**Neko**<br>
+STOP! NEKO needs everyone's help!!
+
+**Linda**<br>
+... You want black tea or coffee? I'll go get it.
+
+**Neko**<br>
+Ah, NEKO wants an iced caramel macchiato.<br>
+... Wait a sec, no no no no no!! Xenon needs to borrow everyone's chip!
+
+**Kouhei**<br>
+Xenon needs help?
+
+**Neko**<br>
+Yeah, it's simple. In a sec I'll send the web link to you. Just open it up!
+
+**Linda**<br>
+Just click on it and open it up? No problem.
+
+**Neko**<br>
+Ah ah, Linda\-chan\~Me luvs you soo much!<br>
+NEKO's gotta go get her fans onboard too!
+
+_\[»»»Fast Forward»»»\]_
+
+_\[[Logs into cyTus]\]_
+
+**[cyTus System]**<br>
+_NEKO\#ΦωΦ has logged into the block._
+
+**Neko**<br>
+Xenon! NEKO's here!
+
+**Xenon**<br>
+Okay, I've already sent the link. Hurry up with this.<br>
+I'll be observing from here, as soon as something happens get offline.
+
+**[cyTus System]**<br>
+_Opening private group: NEKO\#ΦωΦ fanbase_
+
+**Neko**<br>
+Uh peeps, hey hey (Φˋ∀ˊΦ)ゞ<br>
+NEKO wants you! Remember when we got attacked during the stream?<br>
+NEKO found the big bad wolf who did it! NEKO needs your help, just click on the link. Pretty prease (Φˋ口ˊΦ)<br>
+　<br>
+\[Here here\]
+
+**Xenon**<br>
+Looks exactly like your accounts been stolen... Will people really believe this?
+
+**Neko**<br>
+Shhhh! Wait a sec!
+
+**[cyTus System]**<br>
+_Linda has logged into the block.<br>
+Kouhei has logged into the block.<br>
+Yukiko has logged into the block.<br>
+NEKOSAIKOU has logged into the block.<br>
+D33MO has logged into the block.<br>
+...<br>
+...<br>
+...<br>
+..._
+
+**Xenon**<br>
+Hm, looking good... though the speed is limited. Looks like it'll take some time.
+
+**Neko**<br>
+Not enuff people! Prease oh prease help NEKO repost this \~(\*Φ∀Φ)\~♥ la la la
+
+**NEKOSAIKOU**<br>
+I'M COMINGGGGGGGGG!!!!
+
+**Fan A**<br>
+We can help! We are... the wings of NEKO!
+
+**Xenon**<br>
+... My god... Your fans are ridiculous.
+
+**Neko**<br>
+Oooooooooooooo ya! Sooo many peeps ya!!!!!!<br>
+www <3333 Is NEKO really this popular (\*Φ∀Φ)\~♥
+
+**NEKOSAIKOU**<br>
+NEKO, are we doing well???? wwwww
+
+**Neko**<br>
+Duhhh!! Of course\~ Thanks everyone for your help\~ I'll do a stream to catch up with yall when I get back\*\~\\(ΦωΦ)/\~\*
+
+**Fan B**<br>
+\\NEKO/\\NEKO/\\NEKO/\\NEKO/\\NEKO/\\NEKO/
+
+_\[Static\]_
+
+**Fan C**<br>
+Ey, anyone got a creepy feeling? Feels a bit cold
+
+**Fan D**<br>
+Your AC's on too high wwww
+
+**Fan E**<br>
+Me! Me too!... So chilly...
+
+**NEKOSAIKOU**<br>
+Com 'on! How can you feel cold next to NEKO?
+
+**Fan F**<br>
+Me too. Just got goosebumps...
+
+**Fan G**<br>
+Are the cyTus connection parameters messed up<br>
+whats goin on??
+
+**Neko**<br>
+What are you guys talking... WAH!?<br>
+X\-Xenon! It feels... so scary...
+
+_\[Static\]_
+
+**Xenon**<br>
+... An abnormal signal has intruded.<br>
+We've been found... damn. Don't know if the firewall can stop it...
+
+**Neko**<br>
+Whatta we do!? Xenon!!
+
+**Xenon**<br>
+Almost there... no, it's too dangerous.<br>
+Hey, tell your fans to get offline...
+
+_\[Fragments Falling\]_
+
+**Fan H**<br>
+AAHHH!! My head...
+
+**Fan I**<br>
+What\-What's happening!? The entire space is...
+
+**Neko**<br>
+Everyone get offline! Now!
+
+_\[Crowd in chaos\]_
+
+**[cyTus System]**<br>
+_Linda has logged out of the block.<br>
+Kouhei has logged out of the block.<br>
+Yukiko has logged out of the block.<br>
+Wallis has logged out of the block.<br>
+D33MO has logged out of the block.<br>
+...<br>
+...<br>
+...<br>
+..._
+
+**NEKOSAIKOU**<br>
+NEKO, you're not leaving?
+
+**Neko**<br>
+I'll be right there! Don't make me worry, get offline!
+
+**NEKOSAIKOU**<br>
+We want to help!
+
+**Fan J**<br>
+Yeah! We're sticking with NEKO!
+
+**Neko**<br>
+It's really dangerous!... Ey?
+
+_\[High Voltage\]_
+
+**Neko**<br>
+WAAHHHHH!!!
+
+**Xenon**<br>
+NEKO!!
+
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

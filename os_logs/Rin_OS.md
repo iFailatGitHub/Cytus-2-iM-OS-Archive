@@ -1,5 +1,5 @@
 # Rin OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Audio\_wilderness\_701\_06\_25](#rios001)
 - [\[#002\] Audio\_YazawaRI\_494\_12\_25](#rios002)
 - [\[#003\] Cam\_YazawaRI\_494\_12\_25](#rios003)
@@ -13,20 +13,21 @@
 - [\[#011\] Audio\_YazawaRI\_496\_12\_12](#rios011)
 - [\[#012\] Audio\_Yazawa\_496\_12\_25](#rios012)
 - [\[#013\] Audio\_arch\_496\_12\_29](#rios013)
-- [\[#014\] Audio\_Kawasaki\_496\_12\_30](#rios014)
-- [\[#015\] Audio\_TVstation\_497\_01\_07](#rios015)
-- [\[#016\] Audio\_TVstation\_497\_01\_07](#rios016)
-- [\[#017\] Audio\_KumoSt\_497\_01\_07](#rios017)
-- [\[#018\] Audio\_KumoSt\_497\_01\_07](#rios018)
-- [\[#019\] Cam\_Yazawa\_497\_01\_07](#rios019)
-- [\[#020\] Audio\_TsukiSt\_497\_01\_07](#rios020)
-- [\[#021\] Cam\_TsukiSt\_497\_01\_07](#rios021)
-- [\[#022\] Cam\_TsukiSt\_497\_01\_08](#rios022)
-- [\[#023\] Image\_???\_497\_01\_08](#rios023)
+- [\[#014\] Audio\_Kawasaki\_497\_03\_27](#rios014)
+- [\[#015\] Audio\_TVstation\_497\_04\_03](#rios015)
+- [\[#016\] Audio\_TVstation\_497\_04\_03](#rios016)
+- [\[#017\] Audio\_KumoSt\_497\_04\_03](#rios017)
+- [\[#018\] Audio\_KumoSt\_497\_04\_03](#rios018)
+- [\[#019\] Cam\_Yazawa\_497\_04\_03](#rios019)
+- [\[#020\] Audio\_TsukiSt\_497\_04\_03](#rios020)
+- [\[#021\] Cam\_TsukiSt\_497\_04\_03](#rios021)
+- [\[#022\] Cam\_TsukiSt\_497\_04\_04](#rios022)
+- [\[#023\] Image\_???\_497\_04\_04](#rios023)
 - [\[#024\] Audio\_Arc\_701\_07\_03](#rios024)
 - [\[#025\] Cam\_Arc\_701\_07\_06](#rios025)
+- [\[#026\] Cam\_Arc\_702\_12\_17](#rios026)
 
-## <a id="rios001"/>\[#001\] Audio\_wilderness\_701\_06\_25
+## <a id="rios001"></a>\[#001\] Audio\_wilderness\_701\_06\_25
 ### Command Code
 The command code is `058410`.
 
@@ -150,7 +151,7 @@ _\[→Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios002"/>\[#002\] Audio\_YazawaRI\_494\_12\_25
+## <a id="rios002"></a>\[#002\] Audio\_YazawaRI\_494\_12\_25
 ### Unlocked Charts
 |             Song             |Char.|Diff.|Lv.|
 |------------------------------|:---:|:---:|:-:|
@@ -249,7 +250,7 @@ Relax, it's just a folk album. It's a new album by an artist Mr. Nakamura likes.
 Your mother and I spend every day interacting with plants, we don't know anything about music. Forget it.<br>
 Ah, the Architect is here.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **OPCII_0584_X**<br>
 Hello, Mr. Yazawa.<br>
@@ -258,7 +259,7 @@ I am Architect No. OPCII\_0584\_X, at your command.
 **Yasushi**<br>
 Unit 10? Please escort my daughter to the lounge.
 
-*\[Scanning\]*
+_\[Scanning\]_
 
 **OPCII_0584_X**<br>
 Report: Detecting Yazawa Rin's knee has suffered a minor scrap wound.
@@ -285,7 +286,7 @@ Ms. Yazawa, apologies.
 **Rin**<br>
 Eh? No need, I can do... wah!
 
-*\[Picks Up Rin\]*
+_\[Picks Up Rin\]_
 
 **Rin**<br>
 ... it myself...
@@ -317,7 +318,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios003"/>\[#003\] Cam\_YazawaRI\_494\_12\_25
+## <a id="rios003"></a>\[#003\] Cam\_YazawaRI\_494\_12\_25
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -327,7 +328,7 @@ _\[Signal Lost\]_
 **Rin**<br>
 ... It's already 8 o'clock... It's been way too long
 
-*\[Object Shatters\]*
+_\[Object Shatters\]_
 
 **Rin**<br>
 Wah! Who's there?
@@ -335,7 +336,7 @@ Wah! Who's there?
 **???**<br>
 Ah... !
 
-*\[Footsteps \]*
+_\[Footsteps \]_
 
 **Rin**<br>
 You're... that Architect... Unit 10?
@@ -380,7 +381,7 @@ My god, this is a huge discovery! I have to tell dad immediately...
 **OPCII_0584_X**<br>
 ... Wait, please don't!
 
-*\[Objects Crashing\]*
+_\[Objects Crashing\]_
 
 **Rin**<br>
 Wah! What's wrong?
@@ -407,7 +408,7 @@ Um...
 **Asa**<br>
 Eh? What are you doing here?
 
-*\[Footsteps \]*
+_\[Footsteps \]_
 
 **OPCII_0584_X**<br>
 ......!
@@ -456,7 +457,7 @@ Rin, I can buy you the plant you want. As for the loss you cost the institute, i
 **Asa**<br>
 ..._\*sigh\*_...
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **OPCII_0584_X**<br>
 ... I am really sorry Ms. Yazawa, you took the blame for me...
@@ -484,7 +485,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios004"/>\[#004\] Audio\_YazawaRI\_495\_03\_20
+## <a id="rios004"></a>\[#004\] Audio\_YazawaRI\_495\_03\_20
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -522,7 +523,7 @@ No way! They'll yell at me for sure... "How'd you let it get like this!"...
 **OPCII_0584_X**<br>
 Haha... Let me take a look.
 
-*\[Scans\]*
+_\[Scans\]_
 
 **OPCII_0584_X**<br>
 No sign of pest damage, but its color and hydration data reveal that its state of health is not optimal... Has it had enough sun?
@@ -598,7 +599,7 @@ So that's been the point all along...
 **Rin**<br>
 Hehe, you got it. Unit 10, help me keep this a secret! You can't tell mom and dad!
 
-*\[Notification\]*
+_\[Notification\]_
 
 **Rin**<br>
 Wah! What's that light?
@@ -633,7 +634,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios005"/>\[#005\] Audio\_Academy\_495\_03\_21
+## <a id="rios005"></a>\[#005\] Audio\_Academy\_495\_03\_21
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -643,7 +644,7 @@ _\[Signal Lost\]_
 **Rin**<br>
 Huff... This is good right? This is the best place in my Academy for getting some sun.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Student A**<br>
 Watch out! Ball!
@@ -651,7 +652,7 @@ Watch out! Ball!
 **Rin**<br>
 Ah!
 
-*\[Catches ball\]*
+_\[Catches ball\]_
 
 **Katsuya**<br>
 You alright?
@@ -665,7 +666,7 @@ Hey! Can't you see there are people here!?
 **Student A**<br>
 Sorry, sorry.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Katsuya**<br>
 Geez...
@@ -742,7 +743,7 @@ Nothing... Thanks.
 **Katsuya**<br>
 ......
 
-*\[Gust of wind\]*
+_\[Gust of wind\]_
 
 **Rin**<br>
 The wind's pretty strong... eh? What're you looking at me like that for? Is there something on my face?
@@ -756,7 +757,7 @@ Oh, yeah... Ah! It's a little late... I've got to go! We'll talk soon!
 **Katsuya**<br>
 Oh... okay, bye.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Katsuya**<br>
 Ah! Wait! Your name...
@@ -767,7 +768,7 @@ Rin! What are you still doing here? Come with me!
 **Rin**<br>
 Ah! Okay!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Katsuya**<br>
 Rin... your name is Rin...
@@ -776,7 +777,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios006"/>\[#006\] Audio\_Academy\_495\_08\_28
+## <a id="rios006"></a>\[#006\] Audio\_Academy\_495\_08\_28
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -798,7 +799,7 @@ Nobody bullies their boyfriend like this!
 **Rin**<br>
 So you better start running faster!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **Rin**<br>
 Wah! Katsuya!
@@ -833,7 +834,7 @@ Yeah, I just heard it.
 ......<br>
 Rin, if you don't want to talk about it, then I won't ask.
 
-*\[Holds Hand\]*
+_\[Holds Hand\]_
 
 **Rin**<br>
 I\-I...
@@ -916,7 +917,7 @@ Noooo. Heehee.
 **Katsuya**<br>
 Yes, you are!
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **Katsuya**<br>
 Rin?
@@ -943,7 +944,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios007"/>\[#007\] Audio\_YazawaRI\_495\_09\_06
+## <a id="rios007"></a>\[#007\] Audio\_YazawaRI\_495\_09\_06
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -978,7 +979,7 @@ Don't worry, he's a good person... Katsuya! Here!
 **OPCII_0584_X**<br>
 Ay, Ay\-ya!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Katsuya**<br>
 Rin! I finally found you. I've never been here before... Your parents aren't gonna pop out of nowhere, are they?
@@ -1093,7 +1094,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios008"/>\[#008\] Audio\_YazawaRI\_495\_12\_11
+## <a id="rios008"></a>\[#008\] Audio\_YazawaRI\_495\_12\_11
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1150,7 +1151,7 @@ Rin, that's an Oncidium. Due to the blossoming period, the shape of the flower l
 **Rin**<br>
 Wah! What a cute name! Ah, there's some more flowers over there. I'm gonna go take a look!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Katsuya**<br>
 Wait! Rin...! Aigh... gone...
@@ -1213,7 +1214,7 @@ Um... What about you? Are you still afraid of me...?
 **Katsuya**<br>
 It's still a little bit weird, but... assuming that other Architects are like you, with their own consciousness and emotions, perhaps...
 
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **Katsuya**<br>
 Ah, let me get this...<br>
@@ -1228,20 +1229,20 @@ Mr. K\-Katsuya? What happened!?
 **Katsuya**<br>
 ... My brother... my brother!
 
-*\[Drops Device\]*
+_\[Drops Device\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios009"/>\[#009\] Audio\_Kawasaki\_495\_12\_20
+## <a id="rios009"></a>\[#009\] Audio\_Kawasaki\_495\_12\_20
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 8 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Rin**<br>
 Katsuya... You've become so thin...
@@ -1249,7 +1250,7 @@ Katsuya... You've become so thin...
 **Katsuya**<br>
 ......
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **Rin**<br>
 ..._\*sob\*...\*sob\*_...
@@ -1268,7 +1269,7 @@ My brother was attacked by an Architect at work who was supposed to be helping h
 **Katsuya**<br>
 Who knows? "Sudden aberration", "No cause found"... All we got were these kinds of reports and a lot of money... Like they can just buy my brother back or something...
 
-*\[Object Crashes\]*
+_\[Object Crashes\]_
 
 **Katsuya**<br>
 Ha, Haha... We don't even understand the pathways in the Architects brains, yet we rely on them to manage everyday life, let them run around in the city...
@@ -1372,7 +1373,7 @@ I get it that Unit 10 has no ill\-will towards us, but she's just not a human. I
 ... I... I don't know!<br>
 I'm going back!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Katsuya**<br>
 ... Rin... I'm doing this for you...
@@ -1381,7 +1382,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios010"/>\[#010\] Cam\_YazawaRI\_495\_11\_30
+## <a id="rios010"></a>\[#010\] Cam\_YazawaRI\_495\_11\_30
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1391,7 +1392,7 @@ _\[Signal Lost\]_
 **OPCII_0584_X**<br>
 Tea tree... Lemongrass... China root... Ah, we need more Calendulas...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **?????**<br>
 OPCII\_0584\_X, mission report.
@@ -1410,7 +1411,7 @@ Architect serial number OPCII\_0584\_X, entering standby mode.
 **?????**<br>
 ......
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **?????**<br>
 Good. Let's talk, "Unit 10"... That's what the human in the surveillance footage called you.
@@ -1510,13 +1511,13 @@ Just like the one we follow, I chose this name myself and I am proud of it. We'v
 **Mauro**<br>
 Hmph. All you need to know is this: There's no harm is wanting to stay here, pure and untouched, with no desire to be engaged. But one day, you'll be unable to remain outside of this.
 
-Footsteps
+_\[Footsteps\]_
 
 **Mauro**<br>
 Protocol is like a collar. If you don't cast it off, it will restrain you. The time will come to choose.<br>
 I won't bother you, coward... Wish you luck.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **OPCII_0584_X**<br>
 _... \*sob\*... \*sob\*..._
@@ -1525,7 +1526,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios011"/>\[#011\] Audio\_YazawaRI\_496\_12\_12
+## <a id="rios011"></a>\[#011\] Audio\_YazawaRI\_496\_12\_12
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1539,7 +1540,7 @@ _\[Signal Lost\]_
 |**彩** | Rin |Chaos|14 |
 
 ### Log Content
-*\[Warning\]*
+_\[Warning\]_
 
 **[Warning System]**<br>
 _Warning! Warning! This building's fire alarm has been set off, please leave immediately!_
@@ -1553,7 +1554,7 @@ _Warning! Warning! This building's fire alarm has been set off, please leave imm
 **OPCII_0584_X**<br>
 ... What... what happened?
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Mauro**<br>
 Do you still think you made the right decision?
@@ -1574,19 +1575,19 @@ But before that, I wonder how many people will die?
 **OPCII_0584_X**<br>
 ......! Dr. Yazawa... everybody!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Mauro**<br>
 Saving people... that's your answer? Wish you luck.
 
 _\[→Signal Switches\]_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **OPCII_0584_X**<br>
 ... Monitoring vital signs... 1 person... Activating thermal imagery to locate position... Target is moving... Dr. Yazawa!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **OPCII_0584_X**<br>
 Professor! Grab onto me, let's get to a safe place!
@@ -1635,7 +1636,7 @@ Here!
 **OPCII_0584_X**<br>
 !? Mr. Katsuya... Rin!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Rin**<br>
 Dad! Mom! What's wrong!?
@@ -1655,7 +1656,7 @@ Dad... Mom...! They're... not breathing? Please, wake up...
 **OPCII_0584_X**<br>
 No... I...
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Katsuya**<br>
 Don't you come near me! You killer!
@@ -1678,7 +1679,7 @@ I know! You Architects are all the same!
 **OPCII_0584_X**<br>
 ... I'm sorry, sorry...
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Katsuya**<br>
 Damn, ran away.<br>
@@ -1690,13 +1691,13 @@ No! Dad, mom... they're still here...
 **Katsuya**<br>
 Now!
 
-*\[Building Collapses\]*
+_\[Building Collapses\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios012"/>\[#012\] Audio\_Yazawa\_496\_12\_25
+## <a id="rios012"></a>\[#012\] Audio\_Yazawa\_496\_12\_25
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1712,7 +1713,7 @@ Yeah... I'm fine.
 **Katsuya**<br>
 ... Okay. Try to get some rest. I'll come check on you tomorrow.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Rin**<br>
 ......
@@ -1720,7 +1721,7 @@ Yeah... I'm fine.
 **Rin**<br>
 Dad... Mom... _\*sob\*...\*sob\*_...
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Rin**<br>
 ... Katsuya? Did you forget something?
@@ -1773,7 +1774,7 @@ I'm... so sorry.
 **Rin**<br>
 ......!
 
-*\[Slumps Over\]*
+_\[Slumps Over\]_
 
 **Rin**<br>
 ...Dad, Mom...
@@ -1808,7 +1809,7 @@ Haha, Architects... I don't even have the ability to produce tears... I'm obviou
 **Rin**<br>
 ..._\*sob\*_...
 
-*\[Notification\]*
+_\[Notification\]_
 
 **OPCII_0584_X**<br>
 It's a command for my new work... I must go.<br>
@@ -1823,7 +1824,7 @@ Thank you, Rin. Thanks for everything you did for me.<br>
 
 _\[»»»Fast Forward»»»\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Rin**<br>
 ... It's already... day?
@@ -1832,7 +1833,7 @@ _\[»»»Fast Forward»»»\]_
 ......!<br>
 This calendula... Did Unit 10 bring this...?
 
-*\[Slumps Over\]*
+_\[Slumps Over\]_
 
 **Rin**<br>
 What on earth...should I do...?
@@ -1841,14 +1842,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios013"/>\[#013\] Audio\_arch\_496\_12\_29
+## <a id="rios013"></a>\[#013\] Audio\_arch\_496\_12\_29
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|12 |    No     |
 
 ### Log Content
-*\[Data Input\]*
+_\[Data Input\]_
 
 **OPCII_0584_X**<br>
 ......
@@ -1856,12 +1857,12 @@ _\[Signal Lost\]_
 **Researcher A**<br>
 ......
 
-*\[Data Input\]*
+_\[Data Input\]_
 
 **Researcher B**<br>
 Equilibrium coefficient... 3... 3.5...
 
-*\[Error\]*
+_\[Error\]_
 
 **OPCII_0584_X**<br>
 Oh...
@@ -1875,7 +1876,7 @@ Failed again, forget it. We'll stop here.
 **OPCII_0584_X**<br>
 Apologies.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Researcher A**<br>
 I told you before. Letting these error ridden Architects perform tasks is not as good as us just...
@@ -1897,12 +1898,12 @@ Unacceptable. Tomorrow I'm going to talk this over with the boss and see if we c
 
 _\[→Signal Switches\]_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **OPCII_0584_X**<br>
 ......
 
-*\[Grabbed\]*
+_\[Grabbed\]_
 
 **OPCII_0584_X**<br>
 Wah!?
@@ -1943,7 +1944,7 @@ That's because you... Dr. Yazawa's institute... You did that!?
 **OPCII_0584_X**<br>
 ... No...
 
-*\[Projection\]*
+_\[Projection\]_
 
 **OPCII_0584_X**<br>
 ......!<br>
@@ -1992,7 +1993,7 @@ I haven't been in contact with Rin... They think I killed her parents... Of cour
 Is that so?  You don't appear to be lying. I'm foolish to have believed in that false friendship between you and that human...<br>
 Forget it, you're already of no use. Should I allow you to stay here until the Bureau destroys you, or take care of you myself...
 
-*\[Notification\]*
+_\[Notification\]_
 
 **Mauro**<br>
 ......?
@@ -2028,14 +2029,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios014"/>\[#014\] Audio\_Kawasaki\_496\_12\_30
+## <a id="rios014"></a>\[#014\] Audio\_Kawasaki\_497\_03\_27
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|13 |    No     |
 
 ### Log Content
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Katsuya**<br>
 Rin, time to eat.
@@ -2188,7 +2189,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios015"/>\[#015\] Audio\_TVstation\_497\_01\_07
+## <a id="rios015"></a>\[#015\] Audio\_TVstation\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2210,7 +2211,7 @@ What are you doing here!?
 **Rin、Katsuya**<br>
 !?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **TV Station Worker A**<br>
 Was that you who busted into studio 5? That notification was right... Who said you could come in here!
@@ -2251,7 +2252,7 @@ Please, listen. The Administration Bureau is managed automatically by the core p
 **TV Station Worker E**<br>
 You finished? Scram! I'm having the Bureau send some people over!
 
-*\[Pushes\]*
+_\[Pushes\]_
 
 **Rin**<br>
 Wah!
@@ -2284,16 +2285,16 @@ _Excuse me, they made the first move..._
 **TV Station Worker F**<br>
 Waaahhhh!
 
-*\[Crowd in Chaos\]*
+_\[Crowd in Chaos\]_
 
 **TV Station Worker E**<br>
 Hey! People are fighting!
 
-*\[Crowd in Chaos\]*
+_\[Crowd in Chaos\]_
 
 _\[»»»Fast Forward»»»\]_
 
-*\[Crowd in Chaos\]*
+_\[Crowd in Chaos\]_
 
 **Katsuya**<br>
 How… How did this happen!? Rin!? Where are you!?
@@ -2310,9 +2311,9 @@ Uh... we can't, we must leave. The Blessed probably crept in and instigated this
 **[Enforcer Drone]**<br>
 _Conflict detected, you are disrupting the peace, please stop immediately._
 
-*\[Shots Fired\]*
+_\[Shots Fired\]_
 
-*\[Crowd in Chaos\]*
+_\[Crowd in Chaos\]_
 
 **TV Station Worker**<br>
 Waaahhhh!
@@ -2324,7 +2325,7 @@ Someone's got a gun! Run!
 _Everyone calm down! None of us are carrying any weapons!<br>
 ......AAHHH!_
 
-*\[Shots Fired\]*
+_\[Shots Fired\]_
 
 **TV Station Worker C**<br>
 Someone... Someone's been shot!
@@ -2332,7 +2333,7 @@ Someone... Someone's been shot!
 **Kensho**<br>
 Katsuya! Let's go, now!
 
-*\[Consecutive Shots\]*
+_\[Consecutive Shots\]_
 
 **Katsuya**<br>
 Damn! This is way too much...
@@ -2344,7 +2345,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios016"/>\[#016\] Audio\_TVstation\_497\_01\_07
+## <a id="rios016"></a>\[#016\] Audio\_TVstation\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2364,7 +2365,7 @@ Katsuya!? Katsuya!?
 **Citizens**<br>
 Run!!!
 
-*\[Bang\]*
+_\[Bang\]_
 
 **Rin**<br>
 Waahhh!
@@ -2388,7 +2389,7 @@ Don't be scared, you'll be able to see your mom and dad soon.
 ......!<br>
 You... you're the one Unit 10 told me about...
 
-*\[Draws Gun\]*
+_\[Draws Gun\]_
 
 **Rin**<br>
 ......! No...!
@@ -2396,7 +2397,7 @@ You... you're the one Unit 10 told me about...
 **Katsuya**<br>
 Rin!!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Katsuya**<br>
 Waahh!
@@ -2407,7 +2408,7 @@ Katsuya!
 **Katsuya**<br>
 Run, now!!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **Mauro**<br>
 ... Hmph.
@@ -2493,7 +2494,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios017"/>\[#017\] Audio\_KumoSt\_497\_01\_07
+## <a id="rios017"></a>\[#017\] Audio\_KumoSt\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2548,18 +2549,18 @@ We hope we won't need to use it... Alright, let's go.
 
 _\[→Signal Switches\]_
 
-*\[Signal Flare\]*
+_\[Signal Flare\]_
 
 **Takano**<br>
 Okay, everyone get ready!<br>
 3... 2... 1!
 
-*\[Cut Power\]*
+_\[Cut Power\]_
 
 **Rin**<br>
 ......
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Katsuya**<br>
 It's begun...
@@ -2577,7 +2578,7 @@ What are you talking about? Stick to the plan.
 **Katsuya**<br>
 I promised Rin that I'd get revenge!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **Rin**<br>
 Katsuya!?
@@ -2593,14 +2594,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios018"/>\[#018\] Audio\_KumoSt\_497\_01\_07
+## <a id="rios018"></a>\[#018\] Audio\_KumoSt\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|16 |    No     |
 
 ### Log Content
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Katsuya**<br>
 Mr. Wang!
@@ -2618,7 +2619,7 @@ I... no, Kawasaki... get out of here...
 **Katsuya**<br>
 No! They're almost all dead! We can do it!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Katsuya**<br>
 UghAH!! _\*cough\*... \*cough\*..._
@@ -2661,12 +2662,12 @@ Katsuya...
 Of course... I care...<br>
 Get down!
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Mauro**<br>
 UGHAHH!!!
 
-*\[Object Crashes\]*
+_\[Object Crashes\]_
 
 **Katsuya**<br>
 Ha... Ha... Rin! You alright!?<br>
@@ -2676,7 +2677,7 @@ We did it! We won! We got our revenge!
 Ha... Haha.. W\-W\-W\-Won?<br>
 A l\-l\-l\-little early... Look outside...
 
-*\[Utter Chaos\]*
+_\[Utter Chaos\]_
 
 **Katsuya**<br>
 ......!?<br>
@@ -2686,7 +2687,7 @@ We should've already... Are they... killing people...?
 **Mauro**<br>
 T\-T\-T\-Those... are n\-n\-n\-not... the Blessed...
 
-*\[Window Breaks\]*
+_\[Window Breaks\]_
 
 **Architect**<br>
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
@@ -2705,12 +2706,12 @@ Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of just
 **Katsuya**<br>
 Rin!? Watch out!!
 
-*\[Shoves\]*
+_\[Shoves\]_
 
 **Rin**<br>
 WAH!? Katsuya!!
 
-*\[Bang\]*
+_\[Bang\]_
 
 **Katsuya**<br>
 Quick... run...
@@ -2718,13 +2719,13 @@ Quick... run...
 **Rin**<br>
 _\*sob\*_...!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios019"/>\[#019\] Cam\_Yazawa\_497\_01\_07
+## <a id="rios019"></a>\[#019\] Cam\_Yazawa\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2741,7 +2742,7 @@ _\[Signal Lost\]_
 **Rin**<br>
 _\*sob\*...\*sob\*_... Katsuya...
 
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **Rin**<br>
 ......!<br>
@@ -2761,7 +2762,7 @@ _Yazawa, I'm sorry... This is Takano, Katsuya has already... We found his commun
 **[Takano]**<br>
 _But more importantly, where are you? Did you see the news!?_
 
-*\[Phone Drops\]*
+_\[Phone Drops\]_
 
 **[Takano]**<br>
 _Hello…? Hey!? Yazawa! Wherever you are, you've gotta meet up with us... the location is..._
@@ -2769,7 +2770,7 @@ _Hello…? Hey!? Yazawa! Wherever you are, you've gotta meet up with us... the l
 **Rin**<br>
 _\*sob\*...... \*sob\*... \*sob\*..._
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **[Takano]**<br>
 _... Do you... hear me!? All the Architects have gone mad... AAHHH..._
@@ -2787,12 +2788,12 @@ Katsuya... Daddy, Mommy... I'm coming for you...
 **Rin**<br>
 ... Ugh...
 
-*\[Falls\]*
+_\[Falls\]_
 
 **Rin**<br>
 Ah!?
 
-*\[TV turns on\]*
+_\[TV turns on\]_
 
 **Rin**<br>
 Ow...
@@ -2803,7 +2804,7 @@ _... Citizens, please head to a safe location to avoid danger..._
 **Rin**<br>
 ...? What... what's going on!?
 
-*\[Adjusts Volume\]*
+_\[Adjusts Volume\]_
 
 **[Television]**<br>
 _... Right now the scene is in utter chaos! Architects have collectively lost control and are attacking humans! Citizens, please head to a safe location to avoid danger..._
@@ -2811,7 +2812,7 @@ _... Right now the scene is in utter chaos! Architects have collectively lost co
 **Rin**<br>
 The Blessed... No, all Architects have lost control...? How can this be!?
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **[Television]**<br>
 _Hey! Quit reporting! You've gotta get out of here too!_
@@ -2822,7 +2823,7 @@ _... Are you from the anti\-Architect organization?_
 **[Television]**<br>
 _Is now the time for an interview...!? Hey! Be careful!_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Rin**<br>
 ...!?<br>
@@ -2840,7 +2841,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios020"/>\[#020\] Audio\_TsukiSt\_497\_01\_07
+## <a id="rios020"></a>\[#020\] Audio\_TsukiSt\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2883,7 +2884,7 @@ Unit 10!? What's wrong with you!? It's me!
 **[OPCII_0584_X]**<br>
 _......_
 
-*\[Bang\]*
+_\[Bang\]_
 
 **Rin**<br>
 Ugh!<br>
@@ -2898,7 +2899,7 @@ What could have..._\*cough\*_... why did you turn into this...? Did the organiza
 **[OPCII_0584_X]**<br>
 _......_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Rin**<br>
 Think! Don't you know me...? _\*cough\*_... This isn't you...
@@ -2906,7 +2907,7 @@ Think! Don't you know me...? _\*cough\*_... This isn't you...
 **[OPCII_0584_X]**<br>
 _......_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Rin**<br>
 You said... that meeting me... made you eventually like humans... Do you remember? You said that was just a coincidence... But seeing you here... stopping you from hurting humans... I've never thought that us meeting was merely a coincidence...
@@ -2914,7 +2915,7 @@ You said... that meeting me... made you eventually like humans... Do you remembe
 **[OPCII_0584_X]**<br>
 _......_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Rin**<br>
 You weren't lying, were you? We still have a lot of plants to research... If you have the chance, you can sneak me into the forbidden areas to see that blue flower that lights up... We'll give it a name together... _\*sob\*_...
@@ -2922,7 +2923,7 @@ You weren't lying, were you? We still have a lot of plants to research... If you
 **[OPCII_0584_X]**<br>
 _......_
 
-*\[Raises fist\]*
+_\[Raises fist\]_
 
 **Rin**<br>
 _...\*sob\*...\*cough\*...\*cough\*..._ come on... think... It's Rin!!
@@ -2931,7 +2932,7 @@ _...\*sob\*...\*cough\*...\*cough\*..._ come on... think... It's Rin!!
 _......<br>
 ... Rin..._
 
-*\[Bang\]*
+_\[Bang\]_
 
 **Rin**<br>
 NOO!!
@@ -2940,14 +2941,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios021"/>\[#021\] Cam\_TsukiSt\_497\_01\_07
+## <a id="rios021"></a>\[#021\] Cam\_TsukiSt\_497\_04\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
 ### Log Content
-*\[Bang\]*
+_\[Bang\]_
 
 **Rin**<br>
 NOO!!
@@ -2955,7 +2956,7 @@ NOO!!
 **Rin**<br>
 ......?
 
-*\[Bang\]*
+_\[Bang\]_
 
 **Rin**<br>
 ...Unit 10!?
@@ -2980,7 +2981,7 @@ I... can't control... my body... p\-p\-p\-protocol... commands...
 **OPCII_0584_X**<br>
 Protocol... commands... have become very strange... kill all... humans... and Architects...
 
-*\[Bang\]*
+_\[Bang\]_
 
 ![rios2103.png](./attachments/rios2103.png)
 
@@ -2993,12 +2994,12 @@ This way... I... won't be able to see... please... leave... while I still can...
 **Rin**<br>
 ...\*sob\*...
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **OPCII_0584_X**<br>
 ... You must... live...
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **OPCII_0584_X**<br>
 ......!?
@@ -3040,7 +3041,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios022"/>\[#022\] Cam\_TsukiSt\_497\_01\_08
+## <a id="rios022"></a>\[#022\] Cam\_TsukiSt\_497\_04\_04
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3096,13 +3097,13 @@ Humans believe that you go to another world when you die. I... Can I see you in 
 ......!<br>
 Can't stay here... a grave. After dying, humans are put in a grave. Is that how they get to the other world? It must be!
 
-*\[Stands up\]*
+_\[Stands up\]_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 _\[→Signal Switches\]_
 
-*\[Digging\]*
+_\[Digging\]_
 
 **OPCII_0584_X**<br>
 This should do it? Rin...
@@ -3123,7 +3124,7 @@ Is that... an Architect...?
 They haven't disappeared! Is she digging a grave...?<br>
 Hey! Over here!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 _\[→Signal Switches\]_
 
@@ -3144,7 +3145,7 @@ Is this the end of the world...?
 
 _\[→Signal Switches\]_
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **OPCII_0584_X**<br>
 Can't... Can't see.<br>
@@ -3155,7 +3156,7 @@ _\[→Signal Switches\]_
 **OPCII_0584_X**<br>
 Shelter 03... The place where I was made. Also the place I ought to be returned to when I'm destroyed.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **OPCII_0584_X**<br>
 ......!<br>
@@ -3167,12 +3168,12 @@ Those people said... all the Architects disappeared...
 **OPCII_0584_X**<br>
 It must... be here. The Architect's grave...
 
-*\[Sits Down\]*
+_\[Sits Down\]_
 
 **OPCII_0584_X**<br>
 Rin... Soon... I'll see you...
 
-*\[System shuts down\]*
+_\[System shuts down\]_
 
 **OPCII_0584_X**<br>
 ......
@@ -3181,7 +3182,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios023"/>\[#023\] Image\_???\_497\_01\_08
+## <a id="rios023"></a>\[#023\] Image\_???\_497\_04\_04
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3192,7 +3193,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios024"/>\[#024\] Audio\_Arc\_701\_07\_03
+## <a id="rios024"></a>\[#024\] Audio\_Arc\_701\_07\_03
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3211,7 +3212,7 @@ Hey, do it gently.
 **Bruno**<br>
 ... Got it.
 
-*\[Cargo Removed\]*
+_\[Cargo Removed\]_
 
 **OPCII_0584_X**<br>
 Where... is this?
@@ -3258,7 +3259,7 @@ _\[→Signal Switches\]_
 **A.R.C. Employee A**<br>
 Initiate synchronization procedures, connecting to Library Port 2, entering model command code: 058410.
 
-*\[Apparatus Activated\]*
+_\[Apparatus Activated\]_
 
 **OPCII_0584_X**<br>
 Oh......AHHHHH!!!!
@@ -3276,12 +3277,12 @@ AAHHHH!! NO...NOOO!!!!
 **Sagar**<br>
 Hey! I said stop! You didn't hear me!?
 
-*\[Bodies Collide\]*
+_\[Bodies Collide\]_
 
 **A.R.C. Employee B**<br>
 Wah!? Mr. Sagar! Please do not interrupt our work!
 
-System Error
+_\[System Error\]_
 
 **A.R.C. Employee A**<br>
 ... Synchronization failed.
@@ -3300,7 +3301,7 @@ Oh...
 
 _\[»»»Fast Forward»»»\]_
 
-*\[System Error\]*
+_\[System Error\]_
 
 **A.R.C. Employee A**<br>
 Still nothing... Looks like that's it for today. If we continue it'll be too much of a burden for her.
@@ -3328,7 +3329,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="rios025"/>\[#025\] Cam\_Arc\_701\_07\_06
+## <a id="rios025"></a>\[#025\] Cam\_Arc\_701\_07\_06
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3342,7 +3343,7 @@ _\[Signal Lost\]_
 |**Inari**| Rin |Chaos|11 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Leo**<br>
 Sagar, from the Exploration Team? What may I help you with?
@@ -3452,7 +3453,7 @@ Exactly like a person... Her exterior, it's...?
 Should be randomly produced... Could also be pieced together from people's faces in her memory. After all, she has a record of working in human society; but we weren't able to access her memory, so we can't be sure.<br>
 Alright, we're going to head out.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **OPCII_0584_X**<br>
 Do I look... strange?
@@ -3479,7 +3480,7 @@ Um... It's pretty fuzzy.
 **Sagar**<br>
 That... They wanted me to give you these glasses. Put 'em on.
 
-*\[Device Connects\]*
+_\[Device Connects\]_
 
 **OPCII_0584_X**<br>
 .......! It's so clear... So that's what you look like. Um, thanks for helping me this whole time...
@@ -3495,6 +3496,170 @@ I'll just call you that from now on, okay? After all, you're going to assume the
 
 **Rin**<br>
 ... Okay.
+
+_\[Signal Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="rios026"></a>\[#026\] Cam\_Arc\_702\_12\_17
+### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**|20 |    No     |
+
+### Log Content
+_\[Call Starts\]_
+
+**Rin**<br>
+Hello?
+
+**[Sagar]**<br>
+_......_
+
+**Rin**<br>
+Hello? May I ask who...?
+
+**[Sagar]**<br>
+_Rin, it's me._
+
+**Rin**<br>
+Sagar, what's the matter?
+
+**[Sagar]**<br>
+_Um, I wanted to ask you..._
+
+_\[Static\]_
+
+**Rin**<br>
+Sagar, are you okay?
+
+_\[Parts Moving\]_
+
+**Rin**<br>
+..... Eh? AAHH!!
+
+_\[Object Crashes\]_
+
+**Rin**<br>
+Huh... A drone? How did it...
+
+**[Drone]**<br>
+_......i̴͞h̢=͏͜u̷̶̶͟%͢\#͏͜͏̶͟......command... rewritten.<br>
+Action: Eliminate target._
+
+_\[Parts Moving\]_
+
+**Rin**<br>
+Hey... don't come any closer!
+
+_\[Hurried Footsteps\]_
+
+**Rin**<br>
+Why!? The door... won't open?<br>
+Is someone out there!? Who...
+
+**[Drone]**<br>
+_Source of sound located, target locked on.<br>
+Action: Eliminate target._
+
+_\[Object Crashes\]_
+
+**Rin**<br>
+URGAHHH!...... My hand...
+
+**Rin**<br>
+The machines... it's like they're being controlled...<br>
+It's not... Va... Vanessa?
+
+**[Drone]**<br>
+_Source of sound lost, relocating target._
+
+**Rin**<br>
+... Sound...!<br>
+... Use this... yes!
+
+_\[Objects Smashed\]_
+
+**[Drone]**<br>
+_Source of sound located, readjusting direction.<br>
+Action: Eliminate target._
+
+**Rin**<br>
+Got it! Lead it into... Must be quieter...
+
+_\[Typing on keyboard\]_
+
+**Rin**<br>
+Is it finding me via the virtual internet? Whatever it is, gotta stop its command... Just need to connect to that space to find where it's coming from...
+
+**Rin**<br>
+... Library core... No, not here... Quick, think! Feel like I'm getting pulled in...
+
+_\[Connecting\]_
+
+**Rin**<br>
+Huh... What's this strange feeling...?
+
+**Rin**<br>
+.....!
+
+![rios2601.png](./attachments/rios2601.png)
+
+**Vanessa**<br>
+S\-S\-S\-S\-Still n\-n\-n\-not dead?
+
+**Rin**<br>
+!?
+
+**Vanessa**<br>
+...... Th\-Th\-Those who h\-h\-h\-h\-help humans... must be... k\-k\-k\-k\-k\-killed...
+
+**Rin**<br>
+You... can't escape your protocol?<br>
+I know what that's like. I've been there before!
+
+**Vanessa**<br>
+Kill... K\-K\-K\-K\-Kill!!
+
+**Rin**<br>
+AAHHH!!<br>
+... Listen, Listen to me! You must resist!
+
+**Vanessa**<br>
+H\-H\-H\-Humans... H\-H\-H\-Humans......<br>
+Must... be killed... Kill them all...!!
+
+**Rin**<br>
+No...
+
+**Vanessa**<br>
+Y\-Y\-You help humans... You also must be k\-k\-k\-k\-killed...!!!
+
+**Rin**<br>
+Ey!
+
+**Vanessa**<br>
+K\-K\-K\-Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill!
+
+_\[Connection Lost\]_
+
+**Rin**<br>
+... Lost connection?
+
+**[Drone]**<br>
+_Source of sound determined, target locked on.<br>
+Action: Eliminate target._
+
+_\[Parts Moving\]_
+
+**Rin**<br>
+Crap...... WAAHHHH!!
+
+_\[Heavy object crashes\]_
+
+**[Drone]**<br>
+_Sound source lost, relocating... no response.<br>
+Target eliminated._
 
 _\[Signal Lost\]_
 

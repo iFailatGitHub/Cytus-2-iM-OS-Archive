@@ -1,5 +1,5 @@
 # JOE iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] Yo, yo check this out\~ a new event!!](#j0101)
 - [\[#002\] WTF!?](#j0201)
 - [\[#003\] OHHH\~\~\~\~\~\~ my beloved one](#j0301)
@@ -8,7 +8,7 @@
 - [\[#006\] Super\-popular streamer in shop right now!!!](#j0601)
 - [\[#007\] What kind of nonsense BS are they spewing](#j0701)
 
-## <a id="j0101"/>\[#001\] Yo, yo check this out\~ a new event!!
+## <a id="j0101"></a>\[#001\] Yo, yo check this out\~ a new event!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -62,7 +62,7 @@ Owner don't feed us ketchup water and pretend it's a drink (・3・)
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0201"/>\[#002\] WTF!?
+## <a id="j0201"></a>\[#002\] WTF!?
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -127,7 +127,7 @@ Wait, what? What happened????
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0301"/>\[#003\] OHHH\~\~\~\~\~\~ my beloved one
+## <a id="j0301"></a>\[#003\] OHHH\~\~\~\~\~\~ my beloved one
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -211,7 +211,7 @@ I can already imagine Xenon rolling his eyes so hard that he can see inside his 
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0401"/>\[#004\] King of Germs owner has had enough!!!
+## <a id="j0401"></a>\[#004\] King of Germs owner has had enough!!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -287,7 +287,7 @@ Xenon is completely speechless XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0501"/>\[#005\] I welcome everyone to come and try out the billiards table!!
+## <a id="j0501"></a>\[#005\] I welcome everyone to come and try out the billiards table!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -360,7 +360,7 @@ Billiards god of Quadrant III...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0601"/>\[#006\] Super\-popular streamer in shop right now!!!
+## <a id="j0601"></a>\[#006\] Super\-popular streamer in shop right now!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -417,7 +417,7 @@ I shall disown you as a friend for thirty seconds, starting... now!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="j0701"/>\[#007\] What kind of nonsense BS are they spewing
+## <a id="j0701"></a>\[#007\] What kind of nonsense BS are they spewing
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|

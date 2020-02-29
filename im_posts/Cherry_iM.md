@@ -1,5 +1,5 @@
 # Cherry iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] 《Cherry PuNK》New Official Account](#h0101)
 - [\[#002\] \[Announcement\] Additional Event Announcement](#h0201)
 - [\[#003\] Thank you to everyone who came yesterday](#h0301)
@@ -9,7 +9,7 @@
 - [\[#007\] Thank you to everyone for your concerns](#h0701)
 - [\[#008\] ROBO\_Radio\_LIVE performance announcement](#h0801)
 
-## <a id="h0101"/>\[#001\] 《Cherry PuNK》New Official Account
+## <a id="h0101"></a>\[#001\] 《Cherry PuNK》New Official Account
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -99,7 +99,7 @@ They're two sides of the same coin, no point arguing
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0201"/>\[#002\] \[Announcement\] Additional Event Announcement
+## <a id="h0201"></a>\[#002\] \[Announcement\] Additional Event Announcement
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -202,7 +202,7 @@ Both ChP and PAFF are awesome!<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0301"/>\[#003\] Thank you to everyone who came yesterday
+## <a id="h0301"></a>\[#003\] Thank you to everyone who came yesterday
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -324,7 +324,7 @@ That case was so freaky. Tend to stay away from chip surfing now\`\`
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0401"/>\[#004\] The corner of the city
+## <a id="h0401"></a>\[#004\] The corner of the city
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -433,7 +433,7 @@ From what I heard, it appears that she was already acquitted
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0501"/>\[#005\] Regarding recent rumors
+## <a id="h0501"></a>\[#005\] Regarding recent rumors
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -526,7 +526,7 @@ Wow Cherry backing up Xenon in her own statement
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0601"/>\[#006\] \[Announcement\] A thank you to fans and others for the support
+## <a id="h0601"></a>\[#006\] \[Announcement\] A thank you to fans and others for the support
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -610,7 +610,7 @@ Get lost
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0701"/>\[#007\] Thank you to everyone for your concerns
+## <a id="h0701"></a>\[#007\] Thank you to everyone for your concerns
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -699,7 +699,7 @@ Everyone in CP all seems to be really close to each other
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="h0801"/>\[#008\] ROBO\_Radio\_LIVE performance announcement
+## <a id="h0801"></a>\[#008\] ROBO\_Radio\_LIVE performance announcement
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|

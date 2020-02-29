@@ -1,5 +1,5 @@
 # ConneR iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] Reset](#c0101)
 - [\[#002\] New Instrument](#c0201)
 - [\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain](#c0301)
@@ -22,7 +22,7 @@
 - [\[#021\] Lecture at the Academy](#c2101)
 - [\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝](#c2201)
 
-## <a id="c0101"/>\[#001\] Reset
+## <a id="c0101"></a>\[#001\] Reset
 ### Post
 **ConneR**<br>
 Been five years since my last login. Nothing major has changed here apparently. Perhaps the thing that changed the most is myself. 
@@ -67,7 +67,7 @@ Looking forward to more music\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0201"/>\[#002\] New Instrument
+## <a id="c0201"></a>\[#002\] New Instrument
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -101,7 +101,7 @@ Awesome new master \\oo/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0301"/>\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain
+## <a id="c0301"></a>\[#003\] People from bio\-prosthetic companies may all need a prosthetic brain
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -158,7 +158,7 @@ They recently had a complete management change; must still be dealing with the a
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0401"/>\[#004\] Border of the North Concert
+## <a id="c0401"></a>\[#004\] Border of the North Concert
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -205,7 +205,7 @@ Excellent
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0501"/>\[#005\] Met an old friend in a new place
+## <a id="c0501"></a>\[#005\] Met an old friend in a new place
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -265,7 +265,7 @@ Not enough people know how to appreciate art
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0601"/>\[#006\] An era with no roots
+## <a id="c0601"></a>\[#006\] An era with no roots
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -309,7 +309,7 @@ Doing thing in ways most people can't agree with; I guess that's my destiny
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0701"/>\[#007\] Yet another advisor position
+## <a id="c0701"></a>\[#007\] Yet another advisor position
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -351,7 +351,7 @@ Go ahead, make your guess.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0801"/>\[#008\] The Cello
+## <a id="c0801"></a>\[#008\] The Cello
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -381,7 +381,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c0901"/>\[#009\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
+## <a id="c0901"></a>\[#009\] \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -437,7 +437,7 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1001"/>\[#010\] What is Archaeology
+## <a id="c1001"></a>\[#010\] What is Archaeology
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -471,7 +471,7 @@ Thank you Sensei for giving your point of view. I learned a lot!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1101"/>\[#011\] Treasures of the Past
+## <a id="c1101"></a>\[#011\] Treasures of the Past
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -514,7 +514,7 @@ Master Colin is our only hope
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1201"/>\[#012\] \[Repost\] A.R.C looking for professional Ruins explorer
+## <a id="c1201"></a>\[#012\] \[Repost\] A.R.C looking for professional Ruins explorer
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -568,7 +568,7 @@ I applied. Hope we can change them from the inside.
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1301"/>\[#013\] The Saxophone
+## <a id="c1301"></a>\[#013\] The Saxophone
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -612,7 +612,7 @@ I feel that Node13 is the perfect place to forget all the annoying stuff in live
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1401"/>\[#014\] The sincerest instance, right here, right now
+## <a id="c1401"></a>\[#014\] The sincerest instance, right here, right now
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -684,7 +684,7 @@ I can't wait for the next performance to be here!!!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1601"/>\[#016\] The truth of this world
+## <a id="c1601"></a>\[#016\] The truth of this world
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -732,7 +732,7 @@ Follow Sensei\~\~\~
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1701"/>\[#017\] Emptiness
+## <a id="c1701"></a>\[#017\] Emptiness
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -783,7 +783,7 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1801"/>\[#018\] Those long lost memories
+## <a id="c1801"></a>\[#018\] Those long lost memories
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -834,7 +834,7 @@ DENIED
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c1901"/>\[#019\] Let me tell everyone a quick anecdote
+## <a id="c1901"></a>\[#019\] Let me tell everyone a quick anecdote
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -885,7 +885,7 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2001"/>\[#020\] Overlords
+## <a id="c2001"></a>\[#020\] Overlords
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -971,7 +971,7 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2101"/>\[#021\] Lecture at the Academy
+## <a id="c2101"></a>\[#021\] Lecture at the Academy
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1036,7 +1036,7 @@ Thank you so much! I look forward to meeting you!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="c2201"/>\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
+## <a id="c2201"></a>\[#022\] The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|

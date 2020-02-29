@@ -1,5 +1,5 @@
 # Sagar OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Audio\_???\_701\_06\_25](#sos001)
 - [\[#002\] Cam\_61St\_702\_11\_26](#sos002)
 - [\[#003\] Audio\_Arc\_682\_06\_06](#sos003)
@@ -17,18 +17,19 @@
 - [\[#015\] Audio\_ArcETC\_696\_10\_20](#sos015)
 - [\[#016\] Audio\_???\_697\_11\_20](#sos016)
 - [\[#017\] Audio\_???\_697\_11\_20](#sos017)
-- [\[#018\] Audio\_ArcETC\_699\_04\_05](#sos018)
-- [\[#019\] Audio\_Sagar\_699\_04\_05](#sos019)
+- [\[#018\] Audio\_ArcETC\_698\_04\_05](#sos018)
+- [\[#019\] Audio\_Sagar\_698\_04\_05](#sos019)
 - [\[#020\] Audio\_Sagar\_702\_12\_09](#sos020)
-- [\[#021\] Audio\_ArcETC\_700\_01\_14](#sos021)
-- [\[#022\] Audio\_ArcETC\_700\_03\_20](#sos022)
-- [\[#023\] Cam\_ArcETC\_701\_05\_18](#sos023)
+- [\[#021\] Audio\_ArcETC\_699\_01\_14](#sos021)
+- [\[#022\] Audio\_ArcETC\_699\_03\_20](#sos022)
+- [\[#023\] Cam\_ArcETC\_699\_05\_18](#sos023)
 - [\[#024\] Audio\_Sagar\_702\_11\_30](#sos024)
 - [\[#025\] Audio\_???\_702\_12\_17](#sos025)
 - [\[#026\] Cam\_Sagar\_702\_12\_17](#sos026)
 - [\[#027\] Audio\_Sagar\_702\_12\_17](#sos027)
+- [\[#028\] Audio\_???\_702\_12\_17](#sos028)
 
-## <a id="sos001"/>\[#001\] Audio\_???\_701\_06\_25
+## <a id="sos001"></a>\[#001\] Audio\_???\_701\_06\_25
 ### Log Content
 **Bruno**<br>
 This is 08's Eagle\-01 squad, calling branch 03.
@@ -132,9 +133,9 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos002"/>\[#002\] Cam\_61St\_702\_11\_26
+## <a id="sos002"></a>\[#002\] Cam\_61St\_702\_11\_26
 ### Log Content
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Bruno**<br>
 Captain!
@@ -157,7 +158,7 @@ Hey, hey. If that were me it wouldn't have been that bleak. Must be a difference
 **Lucy**<br>
 Shut up, Jackal.
 
-*\[Picks up gun\]*
+_\[Picks up gun\]_
 
 **Alex**<br>
 Don't get pissed, Miss Freeze, I'm just speaking the truth... Hey Bambi, what's next? We going back to report this or what?
@@ -176,7 +177,7 @@ Hey! Bambi?
 
 _\[»»»Fast Forward»»»\]_
 
-*\[Creature Yelps\]*
+_\[Creature Yelps\]_
 
 **Sagar**<br>
 ... Bo Bo?<br>
@@ -229,7 +230,7 @@ You're right. But if you just think of yourself it might affect whether those be
 **Lucy**<br>
 ......
 
-*\[Picks up gun\]*
+_\[Picks up gun\]_
 
 ![sos0201.png](./attachments/sos0201.png)
 
@@ -253,7 +254,7 @@ I'm talking about you, Sagar.
 **Sagar**<br>
 ......
 
-*\[Creature Yelps\]*
+_\[Creature Yelps\]_
 
 **Lucy**<br>
 ...... ?
@@ -264,7 +265,7 @@ Oh... it probably thinks you're attacking me. Don't worry about it, Bo Bo.
 **Lucy**<br>
 ... That's enough for now.
 
-*\[Puts gun away\]*
+_\[Puts gun away\]_
 
 **Lucy**<br>
 Listen, Eagle\-01 is your squad. Everyone will follow your orders. If haven't been taken out, we ain't going down that easily... <br>
@@ -277,19 +278,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos003"/>\[#003\] Audio\_Arc\_682\_06\_06
+## <a id="sos003"></a>\[#003\] Audio\_Arc\_682\_06\_06
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 2 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **A.R.C. Security guard**<br>
 Wolf\-01, head back to the city!
 
-*\[Engine stalls\]*
+_\[Engine stalls\]_
 
 **A.R.C. Security guard**<br>
 Colin? Where is... everyone?
@@ -297,7 +298,7 @@ Colin? Where is... everyone?
 **Colin**<br>
 ... ugh...
 
-*\[Falls down\]*
+_\[Falls down\]_
 
 **A.R.C. Security guard**<br>
 Wah!? Medic! Hurry up!
@@ -374,7 +375,7 @@ Mr. Neumann's gone!
 
 _\[→Signal Switches\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Sagar**<br>
 Coming!<br>
@@ -428,7 +429,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos004"/>\[#004\] Audio\_wilderness\_702\_11\_28
+## <a id="sos004"></a>\[#004\] Audio\_wilderness\_702\_11\_28
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -553,7 +554,7 @@ Bambi! You know what I'm talking about!
 **Bruno**<br>
 Oh, shut the hell up and get moving!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Lucy**<br>
 Completely undisciplined.
@@ -578,14 +579,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos005"/>\[#005\] Audio\_Sagar\_694\_06\_10
+## <a id="sos005"></a>\[#005\] Audio\_Sagar\_694\_06\_10
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 4 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Inhabitant J**<br>
 Coming!
@@ -755,7 +756,7 @@ I... You... What are you saying!? I'll get in, you'll see!
 **Riya**<br>
 I'm going home. Good luck, dummy.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 Damn...<br>
@@ -765,7 +766,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos006"/>\[#006\] Audio\_shop\_694\_07\_12
+## <a id="sos006"></a>\[#006\] Audio\_shop\_694\_07\_12
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -783,7 +784,7 @@ That bugger really does work hard.
 
 _\[→Signal Switches\]_
 
-*\[Dashes \]*
+_\[Dashes \]_
 
 **Sagar**<br>
 Oh no, I'm gonna be late...
@@ -809,7 +810,7 @@ What are you looking at? You wanna get the crap beaten outta you!?
 **Man A**<br>
 Then get the hell out of here. It's none of your business.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Female**<br>
 Eh...? Help... ugh!?
@@ -820,7 +821,7 @@ Hey, hey! You still calling for help? What the hell is wrong with you?
 **Man A**<br>
 Don't be silly, we're not gonna do anything......
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Man A**<br>
 RAAAARRGHHHH!!!!!
@@ -829,7 +830,7 @@ RAAAARRGHHHH!!!!!
 !?<br>
 You......! How'd you get behind me......
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Man B**<br>
 AAARRGGHHHHH!!
@@ -838,7 +839,7 @@ AAARRGGHHHHH!!
 You guys have knives, you think I'm an idiot? I'm not gonna come at you straight on.<br>
 Are you alright?
 
-*\[Dashes \]*
+_\[Dashes \]_
 
 **Sagar**<br>
 Not even a thank you... forget it.
@@ -846,7 +847,7 @@ Not even a thank you... forget it.
 **Man In Black**<br>
 Don't move.
 
-*\[Pulls out a gun\]*
+_\[Pulls out a gun\]_
 
 **Sagar**<br>
 !?
@@ -860,7 +861,7 @@ What... what do you want...?
 **Man In Black**<br>
 Don't be nervous, it's just for protection.
 
-*\[Puts the gun away\]*
+_\[Puts the gun away\]_
 
 **Man In Black**<br>
 Take it easy, calm down and hear me out.
@@ -915,24 +916,24 @@ _\[→Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos007"/>\[#007\] Audio\_UFZ\_694\_07\_19
+## <a id="sos007"></a>\[#007\] Audio\_UFZ\_694\_07\_19
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 5 |    No     |
 
 ### Log Content
-*\[Audience applause\]*
+_\[Audience applause\]_
 
 **Host**<br>
 Ladies and Gentlemen, are you ready to experience pure, primal violence!?
 
-*\[Audience applause\]*
+_\[Audience applause\]_
 
 **Host**<br>
 Node 08 won't give you entertainment, but we will!! All styles allowed! No weight class! No rules! Hand\-to\-hand combat that only ends when someone gives up or collapses!
 
-*\[Audience applause\]*
+_\[Audience applause\]_
 
 **Sagar**<br>
 So, so many people... Is this real...?
@@ -1041,13 +1042,13 @@ Your center of gravity is on the left side and I'm guessing your knee's injured?
 **Red Desert**<br>
 You... Haha, I like it! Let's do this!
 
-*\[Audience applause\]*
+_\[Audience applause\]_
 
 **Host**<br>
 Oh! Looks like Red Desert has accepted Bambi's challenge and provocations!<br>
 Well then! I know we all hate this bulls\*\*\*! Let the competition officially～～BEGIN!!!!
 
-*\[Dashes \]*
+_\[Dashes \]_
 
 **Red Desert**<br>
 AAAARRGGHHHHH!!!!!!
@@ -1055,7 +1056,7 @@ AAAARRGGHHHHH!!!!!!
 **Sagar**<br>
 !!!!!!!!
 
-*\[Fists swinging\]*
+_\[Fists swinging\]_
 
 **Red Desert**<br>
 RARGH!!?
@@ -1066,7 +1067,7 @@ RARGH!!?
 **Audience**<br>
 !?!?!?!?!?
 
-*\[Falls over\]*
+_\[Falls over\]_
 
 **Sagar**<br>
 ... You swing a right just 'cuz I said that? Come on, you're a leftie. Tsk... sorry...
@@ -1089,14 +1090,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos008"/>\[#008\] Cam\_12St\_694\_08\_20
+## <a id="sos008"></a>\[#008\] Cam\_12St\_694\_08\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 6 |    No     |
 
 ### Log Content
-*\[Phone rings\]*
+_\[Phone rings\]_
 
 **Sagar**<br>
 Hello?
@@ -1127,12 +1128,12 @@ Hey.
 **Sagar**<br>
 ?
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Sagar**<br>
 !?
 
-*\[Wall breaks\]*
+_\[Wall breaks\]_
 
 **Sagar**<br>
 What are you doing!?
@@ -1168,14 +1169,14 @@ Why not? I heard you didn't even take the cash prize. You crazy?
 **Alex**<br>
 Ha...? I don't know what you're talking about. Whatever, I'm not here to talk with you about money. Since you won't face me on stage, then we'll just have to do it here!
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Sagar**<br>
 !!!!
 
-*\[Fist\]*
+_\[Fist\]_
 
-*\[Block\]*
+_\[Block\]_
 
 **Sagar**<br>
 Cut it out! I don't wanna fight with you!
@@ -1230,7 +1231,7 @@ My dad used to be on the Exploration Team, so I guess it's whatever style they u
 **Alex**<br>
 Exploration team? Hehe, you mean those guys who are thrown outside of the city walls to die for nothing? Ain't nothing fun about that...
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Alex**<br>
 Ugh!?<br>
@@ -1251,7 +1252,7 @@ He's dead.
 **Sagar**<br>
 ... What am I doing talking to you about this? Stop bothering me or I'm notifying the Administration Bureau. See ya.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Alex**<br>
 Hey, were you serious?
@@ -1265,7 +1266,7 @@ No, not that. I mean the Exploration Team. Are the guys in there really that tou
 **Sagar**<br>
 ... Compared to you, absolutely.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Alex**<br>
 ......
@@ -1274,7 +1275,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos009"/>\[#009\] Audio\_ArcETC\_695\_11\_20
+## <a id="sos009"></a>\[#009\] Audio\_ArcETC\_695\_11\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1295,12 +1296,12 @@ _\[>>> Fast Forward>>>\]_
 **????**<br>
 You lost, Bambi?
 
-*\[Fists\]*
+_\[Fists\]_
 
 **Sagar**<br>
 ......!?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Alex**<br>
 Not bad, reactions even faster than before.
@@ -1353,7 +1354,7 @@ Hahaha, few days ago I laughed even harder when I saw your enlistment score... t
 **Sagar**<br>
 Cut the crap! At least I got full mark on my physical ability.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Alex**<br>
 Anyone can get full mark on those kinds of tests... Eh, where are you going?<br>
@@ -1368,7 +1369,7 @@ Just 'cuz you provided me with some entertainment, I'll help you out. Go straigh
 **Sagar**<br>
 ... For real? Don't play me.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Alex**<br>
 What? Look ahead when you are walking.
@@ -1391,7 +1392,7 @@ Hehe, don't underestimate the training here, I am different from the past. Your 
 **Alex**<br>
 Hehehe, Really looking forward to it... Bambi.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Edwards**<br>
 ... Captain Raymond, that's Luka's son?
@@ -1400,7 +1401,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos010"/>\[#010\] Audio\_ArcETC\_695\_12\_11
+## <a id="sos010"></a>\[#010\] Audio\_ArcETC\_695\_12\_11
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1454,7 +1455,7 @@ I really respect the rules here, I think that there's a chance for everyone if y
 **Trainee H**<br>
 Hey... if we cooperate, us three won't accidentally break your hand, does that count as a benefit?
 
-*\[Footsteps \]*
+_\[Footsteps \]_
 
 **Sagar**<br>
 Let me remind you guys, it's prohibited for trainees to fight in private...
@@ -1466,7 +1467,7 @@ Shaming daddy like this......
 **Sagar**<br>
 ... Just as expected, it's because of my dad... alright.
 
-*\[Objects Crashing\]*
+_\[Objects Crashing\]_
 
 **Sagar**<br>
 If you wanna fight, I'm down!
@@ -1474,12 +1475,12 @@ If you wanna fight, I'm down!
 **Trainee H**<br>
 HA, HAHAHA, you're dead meat! Payne, Larry! Kick his a\*\*!
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Sagar**<br>
 Hmph!
 
-*\[Fists \]*
+_\[Fists \]_
 
 **Trainee P**<br>
 Holy s\*\*\*, what the f\*\*\*, he's a monster...
@@ -1487,12 +1488,12 @@ Holy s\*\*\*, what the f\*\*\*, he's a monster...
 **Trainee H**<br>
 Don't be scared! There are 3 of us! Surround him!
 
-*\[Blocks\]*
+_\[Blocks\]_
 
 **Sagar**<br>
 ...Ugh! Damn it...
 
-*\[Objects Crashing\]*
+_\[Objects Crashing\]_
 
 **Trainees**<br>
 !?!?!?!?
@@ -1525,7 +1526,7 @@ Hurry up, how long do you want me to wait?
 **Trainee H**<br>
 D\-Damn it! Sagar, you just wait and see!!
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Alex**<br>
 Ran away. F\*\*\*ing babies. Ha, how many times have you been caught up in this type of s\*\*\*? If I weren't on here to save your a\*\*...
@@ -1555,7 +1556,7 @@ Yeah. Can you leave me alone?
 **Alex**<br>
 Hehe... once a Jackal's locked onto its prey, it won't let go easily... Hahaha!!
 
-*\[Footsteps \]*
+_\[Footsteps \]_
 
 **Sagar**<br>
 ... F\*\*\* this...
@@ -1564,7 +1565,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos011"/>\[#011\] Audio\_13St20\_702\_11\_29
+## <a id="sos011"></a>\[#011\] Audio\_13St20\_702\_11\_29
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1601,7 +1602,7 @@ Hey, hey. Once a Jackal is locked onto its prey, it won't let go easily! Check o
 
 _\[→Signal Switches\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Watch Shop Owner**<br>
 Welcome! How can I help you?
@@ -1662,17 +1663,17 @@ Of course. The leather's in the back. Give me a sec.
 **Alex**<br>
 Take your time.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Alex**<br>
 ......
 
-*\[Installs transmitter\]*
+_\[Installs transmitter\]_
 
 **Alex**<br>
 It's done.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Watch Shop Owner**<br>
 Here you go. We've got several different types. I'd recommend this one. It's got a wood grain texture.
@@ -1682,7 +1683,7 @@ Alright. I trust your judgment. This design is absolutely spectacular. Please, g
 
 _\[→Signal Switches\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Alex**<br>
 Hey.
@@ -1715,7 +1716,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos012"/>\[#012\] Audio\_Sagar\_702\_11\_29
+## <a id="sos012"></a>\[#012\] Audio\_Sagar\_702\_11\_29
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1729,7 +1730,7 @@ _\[Signal Lost\]_
 |**Doldrums**|Sagar|Chaos|14 |
 
 ### Log Content
-*\[Signal Transmission\]*
+_\[Signal Transmission\]_
 
 **Bruno**<br>
 ......
@@ -1835,7 +1836,7 @@ Cut the s\*\*\*! This mission's mine!
 Great. Let's discuss the details.<br>
 Everyone else get back in position.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Lucy**<br>
 ... Strange.
@@ -1879,7 +1880,7 @@ Then you oughta hear what happened later... Sagar would happily tell you. He's g
 ... As a member of the team.<br>
 I'll leave you be.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Bruno**<br>
 ......
@@ -1888,7 +1889,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos013"/>\[#013\] Audio\_ArcETC\_696\_05\_04
+## <a id="sos013"></a>\[#013\] Audio\_ArcETC\_696\_05\_04
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -1913,7 +1914,7 @@ Found you, Bambi!!
 **Sagar**<br>
 ... No frigging way...
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Alex**<br>
 Found you! We're gonna see who's boss once and for all!
@@ -1943,7 +1944,7 @@ Eh? Someone else is here? Who're you?
 **Bruno**<br>
 ... Let's check out the mission synopsis.
 
-*\[Opens file\]*
+_\[Opens file\]_
 
 **Sagar**<br>
 "Locate the only Model G\-5 Mech Beast in area 3 and recover its core chip"... Model G\-5 Mech Beast?
@@ -1966,7 +1967,7 @@ The Model G\-5 is based on a four\-legged creature called a "giraffe". Its defin
 **Alex**<br>
 Vegetarian? Isn't that the perfect prey for a Jackal?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 Hey, where you going?
@@ -1996,7 +1997,7 @@ This? A competition? Sounds pretty boring...
 Ha, Ha, HAHAHAHA!!<br>
 There's no way I'm losing!!!
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Bruno**<br>
 ... You guys are a pain in the a\*\*. I just wanna complete this mission smoothly...
@@ -2014,7 +2015,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos014"/>\[#014\] Cam\_ArcETC\_696\_05\_04
+## <a id="sos014"></a>\[#014\] Cam\_ArcETC\_696\_05\_04
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2039,12 +2040,12 @@ Officer Bruno sounds like an Basicpedia... "Students, please study harder!"... H
 **Sagar**<br>
 Hey Officer, you're an outstanding advisor. I'll leave it up to you to draw it in.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 Hey! G\-5, over here!
 
-*\[Mech Turns\]*
+_\[Mech Turns\]_
 
 **Sagar**<br>
 Alright, it turned its head!
@@ -2052,12 +2053,12 @@ Alright, it turned its head!
 **Bruno**<br>
 ...? Wait...
 
-*\[Mech Turns\]*
+_\[Mech Turns\]_
 
 **Bruno**<br>
 ......! Quick, GET DOWN!!
 
-*\[Laser\]*
+_\[Laser\]_
 
 **Sagar**<br>
 Wah! Is that... a laser cannon!?
@@ -2065,7 +2066,7 @@ Wah! Is that... a laser cannon!?
 **Bruno**<br>
 With the output that thing's got, it'll cut right through a tree! Get behind a rock!
 
-*\[Laser\]*
+_\[Laser\]_
 
 **Sagar**<br>
 Damn, gun's broken... What is this thing!?
@@ -2076,7 +2077,7 @@ This mech was definitely created by the training officers... It doesn't even nee
 **Sagar**<br>
 Gotta be kidding me, there's no way we can even budge like this... Officer, you think you can get its attention?
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Bruno**<br>
 Damn, its shell is too thick, even the grenades aren't working...
@@ -2090,9 +2091,9 @@ Found you!!
 **Bruno**<br>
 Jackal! Watch out for the laser...
 
-*\[Laser\]*
+_\[Laser\]_
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Bruno**<br>
 Woah... fast as hell!?
@@ -2100,7 +2101,7 @@ Woah... fast as hell!?
 **Alex**<br>
 YOU WANNA KILL ME!? I DON'T THINK SO! DIE!!!!!
 
-*\[Rapid Gunfire\]*
+_\[Rapid Gunfire\]_
 
 **Alex**<br>
 !? Fricking hard as steel...
@@ -2108,9 +2109,9 @@ YOU WANNA KILL ME!? I DON'T THINK SO! DIE!!!!!
 **Sagar**<br>
 JUMP!!!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
-*\[Bodies colliding\]*
+_\[Bodies colliding\]_
 
 **Alex**<br>
 Eh... Sagar!? When did you...
@@ -2125,7 +2126,7 @@ Huh!? What trap...
 ... Got it!<br>
 Get outta the way!!!
 
-*\[Conducts electricity \]*
+_\[Conducts electricity \]_
 
 ![sos1401.png](./attachments/sos1401.png)
 
@@ -2168,7 +2169,7 @@ Hehe, face reality, bros. Perhaps that's not what you were going for, but that w
 **Alex**<br>
 ... Hmph.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 Hey, didn't you wanna fight?
@@ -2183,7 +2184,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos015"/>\[#015\] Audio\_ArcETC\_696\_10\_20
+## <a id="sos015"></a>\[#015\] Audio\_ArcETC\_696\_10\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2251,7 +2252,7 @@ Jackal, didn't see you all afternoon... You skipping class again?
 **Alex**<br>
 What, no good mommy? Just handling some personal business... You know, like grabbing this can of beer.
 
-*\[Opens beer\]*
+_\[Opens beer\]_
 
 **Bruno**<br>
 Yo, if you get caught...
@@ -2311,12 +2312,12 @@ Alright, I'll go find him. Thanks for giving me the heads up, Jackal.
 **Alex**<br>
 Get the hell out of here.
 
-*\[Door opens\]*
+_\[Door opens\]_
 
 **Bruno**<br>
 Gone? Alright... Jackal, tell me what's going on.
 
-*\[Projection\]*
+_\[Projection\]_
 
 **Bruno**<br>
 Why were Hank, Payne, and Larry shoved into the food waste barrel at the dump?
@@ -2338,7 +2339,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos016"/>\[#016\] Audio\_???\_697\_11\_20
+## <a id="sos016"></a>\[#016\] Audio\_???\_697\_11\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2396,17 +2397,17 @@ _\[»»»Fast Forward»»»\]_
 **Sagar**<br>
 ... Off by 5.8 degrees... that's strange. I've been following the navigation device to a tee. How'd I get so high up?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 Visibility is decreasing... About to lose my signal. Damn, hold on...
 
-*\[Taps\]*
+_\[Taps\]_
 
 **Sagar**<br>
 ......!? Wait a sec, are these weld marks?
 
-*\[Disassembles Device\]*
+_\[Disassembles Device\]_
 
 **Sagar**<br>
 Never seen this chip before. Is it disrupting the signal? <br>
@@ -2415,7 +2416,7 @@ Damn! Did Hank and them do this...?
 **Sagar**<br>
 Calling Big B! Calling Jackal! Can you hear me?
 
-*\[Static\]*
+_\[Static\]_
 
 **Sagar**<br>
 F\*\*\*! Even the reception is... I've got to find them!
@@ -2425,7 +2426,7 @@ _\[»»»Fast Forward»»»\]_
 **Sagar**<br>
 _\*heavy breathing\*_... They're over there! Jackal's in front? Good, climbing on the cliff...
 
-*\[Hurried footsteps\]*
+_\[Hurried footsteps\]_
 
 **Sagar**<br>
 ... Wait a sec. Something's off about the direciton of the wind...
@@ -2452,7 +2453,7 @@ Lost... Bambi... Ha... Eat my...
 **Sagar**<br>
 Listen closely! Your walking right into a giant wind storm. You gotta get out of there...
 
-*\[Signal cuts off\]*
+_\[Signal cuts off\]_
 
 **Sagar**<br>
 DAMN…… THEY'RE SCREWED!!!
@@ -2461,7 +2462,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos017"/>\[#017\] Audio\_???\_697\_11\_20
+## <a id="sos017"></a>\[#017\] Audio\_???\_697\_11\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2487,7 +2488,7 @@ That's what I'm worried about. After all, this is the forbidden areas...
 **Alex**<br>
 That dumb bag of meat will be fine. Hehe, I can't wait to see the look on his face when he finds out he lost to me...
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Trainees**<br>
 !?!?!?!?
@@ -2498,7 +2499,7 @@ What the hell! The mountain's collapsing!?
 **Bruno**<br>
 ... Watch out for falling rocks! Everyone, take cover!
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Bruno**<br>
 Listen... those are the solid explosives we're carrying!
@@ -2516,7 +2517,7 @@ Isn't that used for blowing through rock walls? What's that dumba\*\* doing blow
 Bambi!?<br>
 How the hell'd you get all the way up there!?
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Sagar**<br>
 ... Hey, hey... You hear that!?
@@ -2541,7 +2542,7 @@ You... you were setting off those explosives to notify us?
 **Sagar**<br>
 Nailed it! That's the only way I could reach you... WAHH!?
 
-*\[Cliff collapses\]*
+_\[Cliff collapses\]_
 
 **Sagar**<br>
 WAHHHH!!!!
@@ -2626,7 +2627,7 @@ Well said.
 **Bruno**<br>
 Captain Edwards!?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Edwards**<br>
 Willing to sacrifice yourself for your comrades. That's undoubtedly the act of a hero, Trainee Sagar. You may not have a wolf's gaze, but your selfless actions bring forth heroic courage in your comrades... This characteristic is far rarer than any other ability.
@@ -2642,7 +2643,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos018"/>\[#018\] Audio\_ArcETC\_699\_04\_05
+## <a id="sos018"></a>\[#018\] Audio\_ArcETC\_698\_04\_05
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2697,7 +2698,7 @@ YES, SIR!
 
 _\[→File Switches\]_
 
-*\[Binoculars\]*
+_\[Binoculars\]_
 
 **Edwards**<br>
 The target is 100 meters ahead. Squad Fox \- 03 is currently gathering intel. Our job is to carry out the capture. In a moment, you three are gonna follow me closely. I hope that through this mission you can pick up a lot of useful info.
@@ -2773,7 +2774,7 @@ Why not give him a gun?
 **Edwards**<br>
 What'd you say!? Letting a trainee carry a gun...
 
-*\[Flare gun fired\]*
+_\[Flare gun fired\]_
 
 **Exploration Team Member**<br>
 !!!<br>
@@ -2782,7 +2783,7 @@ That was the grave robbers... They're starting to retreat!
 **Alex**<br>
 We've no time! Do you want to save our guy or what!?
 
-*\[Bodies Collide\]*
+_\[Bodies Collide\]_
 
 **Edwards**<br>
 Watch your tone! I grew up with Will! Ain't nobody here that wants to save him more than me!
@@ -2791,12 +2792,12 @@ Watch your tone! I grew up with Will! Ain't nobody here that wants to save him m
 ......!<br>
 Then quit talking and do something! Letting us trainees experience a dangerous mission is your responsibility!
 
-*\[Draws Gun\]*
+_\[Draws Gun\]_
 
 **Sagar**<br>
 I'm heading out! When I get back, punish me according to the rules!
 
-*\[Sprints\]*
+_\[Sprints\]_
 
 **Edwards**<br>
 Sagar!!!
@@ -2805,7 +2806,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos019"/>\[#019\] Audio\_Sagar\_699\_04\_05
+## <a id="sos019"></a>\[#019\] Audio\_Sagar\_698\_04\_05
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -2831,7 +2832,7 @@ Lucien, I know you want to avenge your father, but you've got to be patient. We'
 **Grave Robber L**<br>
 I know...
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Grave Robber B**<br>
 EAHH!!
@@ -2843,7 +2844,7 @@ Enemy!
 **Grave Robber L**<br>
 F\*\*\*! Goddamn Exploration Team!
 
-*\[Rapid Gunfire\]*
+_\[Rapid Gunfire\]_
 
 **Grave Robbers**<br>
 \-WAH!!!<br>
@@ -2863,7 +2864,7 @@ That's why I came alone. If you set off those explosives at this distance, every
 Haha... a betting man...? Not bad... but you made two big mistakes...<br>
 Number 1——You don't know how much I want to kill you bastards. Number 2——You shouldn't have shot our legs... shoulda shot our hands!!
 
-*\[Gunfire\]*
+_\[Gunfire\]_
 
 **Sagar**<br>
 ERGHH!?
@@ -2871,12 +2872,12 @@ ERGHH!?
 **Edwards**<br>
 Sagar!!!
 
-*\[Gunfire\]*
+_\[Gunfire\]_
 
 **Grave Robbers**<br>
 !?
 
-*\[Rapid Gunfire\]*
+_\[Rapid Gunfire\]_
 
 _\[→File Switches\]_
 
@@ -2902,7 +2903,7 @@ Hey robbers, where's your leader? You got somebody else? Speak!
 **Fox - 03 Captain**<br>
 Wrong answer.
 
-*\[Punches\]*
+_\[Punches\]_
 
 **Grave Robber A**<br>
 POAHH!!!
@@ -2996,7 +2997,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos020"/>\[#020\] Audio\_Sagar\_702\_12\_09
+## <a id="sos020"></a>\[#020\] Audio\_Sagar\_702\_12\_09
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3059,7 +3060,7 @@ Okay. You two are on it. The rest of us will be spread out in the various exits 
 
 _\[→File Switches\]_
 
-*\[Binoculars\]*
+_\[Binoculars\]_
 
 **Lucy**<br>
 He's definitely in that house. But... it's already been ten days and he hasn't left.
@@ -3159,7 +3160,7 @@ I know.
 **Alex**<br>
 So I'm saying I don't want you to suffer, why don't us two......
 
-*\[Transmitter\]*
+_\[Transmitter\]_
 
 **Lucy**<br>
 The signal's moving!
@@ -3178,7 +3179,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos021"/>\[#021\] Audio\_ArcETC\_700\_01\_14
+## <a id="sos021"></a>\[#021\] Audio\_ArcETC\_699\_01\_14
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3212,7 +3213,7 @@ Don't worry about that crap. Let me show something cool.
 
 _\[→Signal Switches\]_
 
-*\[Gunshot\]*
+_\[Gunshot\]_
 
 **Instructor**<br>
 Excellent! Lucy, perfect score once more. Everybody, you can learn a thing or two from this.
@@ -3226,7 +3227,7 @@ Lucy, you're the best! Teach me!
 **Lucy**<br>
 ... Practice yourself.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Trainee B**<br>
 Ha, you wanna pork her or what? Big mistake. It's no use, I heard Mrs. Freeze's heart was made of ice! Hahaha!
@@ -3266,7 +3267,7 @@ Sagar... sir, right? Nice to meet you.
 **Sagar**<br>
 Uh, oh. Nice to meet you...
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Sagar**<br>
 ......<br>
@@ -3289,7 +3290,7 @@ _\[»»»Fast Forward»»»\]_
 Ha... Ha...
 
 **Alex**<br>
-You're movements need to be softer, yes, yes, yes... just like that——
+Your movements need to be softer, yes, yes, yes... just like that——
 
 **Lucy**<br>
 Instructor, I want to change partners. This officer keeps groping me.
@@ -3373,7 +3374,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos022"/>\[#022\] Audio\_ArcETC\_700\_03\_20
+## <a id="sos022"></a>\[#022\] Audio\_ArcETC\_699\_03\_20
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3395,7 +3396,7 @@ Hey, pull yourself together and finish it, alright? You'll get yelled at for sha
 **Alex**<br>
 Ugh... I think I'm gonna throw up...
 
-*\[Plate Smashes\]*
+_\[Plate Smashes\]_
 
 **Alex**<br>
 Oh? What's going on, bruh? There a fight or something?
@@ -3420,7 +3421,7 @@ Clean it up.
 
 _\[→File Switches\]_
 
-*\[Punch Combo\]*
+_\[Punch Combo\]_
 
 **Lucy**<br>
 Hoo...! Hah!
@@ -3452,12 +3453,12 @@ _\[»»»Fast Forward»»»\]_
 **Sagar**<br>
 Alright...let's begin.
 
-*\[Punches\]*
+_\[Punches\]_
 
 **Sagar**<br>
 Yeah, that's right. You'll be scored on your reactions for the test as well. When you're striking, keep your eye on both of my hands. If possible, try not to close your eyes. That'll help.
 
-*\[Punches\]*
+_\[Punches\]_
 
 **Sagar**<br>
 Not bad. Try switching to mid\-lower section attacks. That way the examiner will have a harder time getting a hold of your striking patterns. That'll get you higher scores.
@@ -3465,12 +3466,12 @@ Not bad. Try switching to mid\-lower section attacks. That way the examiner will
 **Lucy**<br>
 Like this?
 
-*\[Fist\]*
+_\[Fist\]_
 
 **Sagar**<br>
 ......!?
 
-*\[Blocks\]*
+_\[Blocks\]_
 
 **Lucy**<br>
 ......Uf!?
@@ -3518,7 +3519,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos023"/>\[#023\] Cam\_ArcETC\_701\_05\_18
+## <a id="sos023"></a>\[#023\] Cam\_ArcETC\_699\_05\_18
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3532,7 +3533,7 @@ _\[Signal Lost\]_
 |**Sacrifice**|Sagar|Chaos|14 |
 
 ### Log Content
-*\[Punch Combo\]*
+_\[Punch Combo\]_
 
 **Trainee A**<br>
 Hey, Mrs. Freeze, you practicing alone again?
@@ -3551,7 +3552,7 @@ You guys are drunk... what the hell? Let me go!
 **Trainee C**<br>
 Don't be so cold, baby...
 
-*\[Punches\]*
+_\[Punches\]_
 
 **Trainee C**<br>
 POOAHH!?<br>
@@ -3560,7 +3561,7 @@ Wah... Didn't think you had those kind of moves. Made some improvements, eh... D
 **Lucy**<br>
 Don't touch me... urgh...
 
-*\[Punch Combo\]*
+_\[Punch Combo\]_
 
 **Trainees**<br>
 \- Ooah!?<br>
@@ -3601,7 +3602,7 @@ _\[→File Switches\]_
 **Lucy**<br>
 Damn, separated from everyone... my compass, it's...
 
-*\[Slips\]*
+_\[Slips\]_
 
 **Lucy**<br>
 Wah!?
@@ -3624,7 +3625,7 @@ How'd you fall down here... totally off course. I'll toss you a rope. You grab i
 Lucy? What're you doing.....?<br>
 Waahh!?
 
-*\[Slips\]*
+_\[Slips\]_
 
 **Sagar**<br>
 Ouch... ahaha... Fell down myself. Embarrassing...
@@ -3689,7 +3690,7 @@ You couldn't do it, because you've never killed anyone before. You've never hurt
 **Lucy**<br>
 ... Don't you dare... bring them up!
 
-*\[Draws Gun\]*
+_\[Draws Gun\]_
 
 ![sos2301.png](./attachments/sos2301.png)
 
@@ -3725,7 +3726,7 @@ I... I'm truly sorry. I wish all that never happened... All I can do is give you
 ......!?<br>
 ..._\*sob\*_...
 
-*\[Pulls back the brush\]*
+_\[Pulls back the brush\]_
 
 **Sagar**<br>
 Look, we found a way out.
@@ -3734,7 +3735,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos024"/>\[#024\] Audio\_Sagar\_702\_11\_30
+## <a id="sos024"></a>\[#024\] Audio\_Sagar\_702\_11\_30
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3864,7 +3865,7 @@ I'm alright. The journey's just a little long, that's all. We're expecting to ar
 _Will do. Thanks for thinking of me.<br>
 ... Alright, I'll get back to work._
 
-*\[Disconnect\]*
+_\[Disconnect\]_
 
 **Sagar**<br>
 ......<br>
@@ -3874,7 +3875,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos025"/>\[#025\] Audio\_???\_702\_12\_17
+## <a id="sos025"></a>\[#025\] Audio\_???\_702\_12\_17
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -3908,7 +3909,7 @@ No target in our field of vision...
 **Alex**<br>
 Shhh! Listen. What's that noise?
 
-*\[Sensor\]*
+_\[Sensor\]_
 
 **Bruno**<br>
 !?<br>
@@ -3917,7 +3918,7 @@ That noise……! Quick, get down!!!
 **Squad Member**<br>
 !?!?
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Sagar**<br>
 WAH!!!!
@@ -3964,7 +3965,7 @@ F\*\*\*!!!
 **Sagar**<br>
 ...? What is this place? A storage unit?
 
-*\[Connect\]*
+_\[Connect\]_
 
 **[ConneR]**<br>
 _Good afternoon, Mr. Sagar. Ah, based on your progress, you should've been here at noon. Hope I didn't underestimate you._
@@ -4029,7 +4030,7 @@ Bambi? What are you doing? Respond!
 **Sagar**<br>
 ... I told you, remain in position and await orders.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Lucy**<br>
 Captain? Where are you going?
@@ -4050,14 +4051,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos026"/>\[#026\] Cam\_Sagar\_702\_12\_17
+## <a id="sos026"></a>\[#026\] Cam\_Sagar\_702\_12\_17
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|19 |    No     |
 
 ### Log Content
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 ![sos2602.png](./attachments/sos2602.png)
 
@@ -4080,7 +4081,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="sos027"/>\[#027\] Audio\_Sagar\_702\_12\_17
+## <a id="sos027"></a>\[#027\] Audio\_Sagar\_702\_12\_17
 ### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
@@ -4100,7 +4101,7 @@ Luka... Dad...?
 **Sagar**<br>
 WAHHHHH....!
 
-*\[Slips\]*
+_\[Slips\]_
 
 **Sagar**<br>
 ..._\*breathes heavily\*_... This place, it's...
@@ -4110,7 +4111,7 @@ WAHHHHH....!
 
 \[Play recording: Luka\_XXX\_XX\_XX\]
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **[??????]**<br>
 _El……Eliminate…… threat……_
@@ -4118,7 +4119,7 @@ _El……Eliminate…… threat……_
 **Luka**<br>
 Colin! On the left!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Colin**<br>
 Hee... Huff... What are these things? How many are there!?
@@ -4167,9 +4168,9 @@ Alright... One clip, then switch to me. That rock over there will be our first c
 **Colin**<br>
 Got it, 3——2——1!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
-*\[Runnning\]*
+_\[Runnning\]_
 
 **[??????]**<br>
 _El……Eliminate…… threat……_
@@ -4183,9 +4184,9 @@ Hmph. Just watch me.
 **Luka**<br>
 3——2——1!
 
-*\[Running\]*
+_\[Running\]_
 
-*\[Explosion\]*
+_\[Explosion\]_
 
 **Colin**<br>
 !?<br>
@@ -4197,7 +4198,7 @@ Run!!!!!
 **Colin**<br>
 Luka!! You screwing with me!?
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Luka**<br>
 If we keep this up we're both gonna die down here! That's the cold, hard truth!
@@ -4208,7 +4209,7 @@ Mothaf\*\*\*er! You don't trust me!?
 **Luka**<br>
 I believe you can do this; you're the only one who can report back everything that happened here.
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 **Luka**<br>
 This geographical formation will keep them at bay for a while, now get going! I'll pull through! Leave a vehicle for me!
@@ -4225,7 +4226,7 @@ Damn... If you don't come back, I'm coming right back to beat your a\*\*! You he
 **Luka**<br>
 You got it! See you in the city!
 
-*\[Sprinting\]*
+_\[Sprinting\]_
 
 **[??????]**<br>
 _El……Eliminate…… threat……_
@@ -4236,7 +4237,7 @@ Come on… ya freaks……
 **Luka**<br>
 AAHHHH!!!!
 
-*\[Consecutive Gunshots\]*
+_\[Consecutive Gunshots\]_
 
 _\[»»»Fast Forward»»»\]_
 
@@ -4259,6 +4260,175 @@ Sagar… Riya… Forgive me…<br>
 I love you all…
 
 _\[Recording ends\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="sos028"></a>\[#028\] Audio\_???\_702\_12\_17
+### Requirements
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**|20 |    No     |
+
+### Log Content
+**Sagar**<br>
+......
+
+**Lucy**<br>
+Captain!
+
+**Sagar**<br>
+Hey!?... Lucy. Didn't I tell you to sit back and await orders?
+
+**Lucy**<br>
+Your expression... What's the matter? What is this place...?
+
+**Sagar**<br>
+......<br>
+The target's not here. Start gathering data on the geography and environment. Take the information... take the information back.
+
+**Lucy**<br>
+Sagar, you alright?
+
+**Sagar**<br>
+......
+
+**Lucy**<br>
+What's going on? What happened in here?
+
+**Sagar**<br>
+... My father's... corpse.
+
+**Lucy**<br>
+What?
+
+**Sagar**<br>
+I saw his mission records... He was killed by Architects. This is where it happened...
+
+**Lucy**<br>
+Architects, killing people? That sort of thing, the higher\-ups...
+
+**Sagar**<br>
+... The target's father, Colin, was my father's colleague. When I was little, he came to my house and told us the truth about what had happened, but he was taken away by A.R.C.... They must know! They've been covering it up from my mother and I all these years...
+
+**Lucy**<br>
+Wait a second! If Architects are dangerous, then that model we brought back last year...
+
+**Sagar**<br>
+......!
+
+**Lucy**<br>
+You got to notify headquarters! And the data...
+
+**Sagar**<br>
+...... No!
+
+**Lucy**<br>
+Why not? This is an issue of safety. It falls under protocol.
+
+**Sagar**<br>
+This... I...
+
+**Lucy**<br>
+Sagar... you... you're not protecting that Architect, are you?
+
+**Sagar**<br>
+Sorry... I just think that before we get to the bottom of this, we shouldn't do that to her... I want to know exactly what their position is.
+
+**Lucy**<br>
+You...
+
+**Alex**<br>
+Bambi? Miss Freeze? You in there? What the hell happened?
+
+**Bruno**<br>
+Captain, you hear me? Just received a level S emergency command. Headquarters wants us to stop the mission immediately and head back asap.
+
+**Sagar**<br>
+......?<br>
+Okay, we're coming up.
+
+**Alex**<br>
+Hurry up! F\*\*\*... didn't even catch the bastard and we're getting called back and forth like frigging dogs...
+
+**Sagar**<br>
+Lucy, you go up first.<br>
+... Sorry. Please trust me. If I do something unforgivable... you know what to do.
+
+**Lucy**<br>
+... Alright.
+
+_\[»»»Fast Forward»»»\]_
+
+**Alex**<br>
+Damn, Bambi. How can you be so short!? You need to freaking jump just to reach!
+
+**Sagar**<br>
+... Did headquarters mention why we're heading back?
+
+**Alex**<br>
+Oh, no time for fun, huh? Something weird's going on. Miss Freeze, when you were down there, you two didn't...
+
+**Lucy**<br>
+Shut it.
+
+**Bruno**<br>
+Jackal, settle down.<br>
+Captain, there were no details. But something this sudden... I'm guessing the drones started attacking again and headquarters determined that it they may be affected...
+
+**Sagar**<br>
+... Got it. Thanks, Big B. Eagle\-01 squad, listen up! Report back to Node 08 immediately. We're heading out in ten minutes. Start prepping!
+
+_\[Footsteps\]_
+
+**Alex**<br>
+Ha? So that's it... Hey, don't you think he's acting weird?
+
+**Bruno**<br>
+Yeah. Like he's not here.<br>
+Lucy, what happened down there?
+
+**Lucy**<br>
+... Nothing.<br>
+Let's get ready.
+
+_\[→Signal Switches\]_
+
+_\[Call Starts\]_
+
+**[Rin]**<br>
+_Hello?_
+
+**Sagar**<br>
+......
+
+**[Rin]**<br>
+_Hello? May I ask who...?_
+
+**Sagar**<br>
+Rin, it's me.
+
+**[Rin]**<br>
+_Sagar, what's the matter?_
+
+**Sagar**<br>
+Um, I wanted to ask you...
+
+_\[Static\]_
+
+**Sagar**<br>
+... Huh? What's the matter?
+
+**[Rin]**<br>
+_Sa...... gar... you...... AHHH!_
+
+_\[Object Crashes\]_
+
+**Sagar**<br>
+Rin? What's the matter!? Rin！
+
+_\[Call Ends\]_
+
+_\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 

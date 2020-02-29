@@ -1,5 +1,5 @@
 # PAFF OS Logs
-## <a id="toc"/>List of Logs
+## <a id="toc"></a>List of Logs
 - [\[#001\] Show\_693\_03\_16](#pos001)
 - [\[#002\] Cam\_Noah\_693\_03\_16](#pos002)
 - [\[#003\] Call\_Chris\_693\_03\_29](#pos003)
@@ -62,8 +62,9 @@
 - [\[#060\] Audio\_Ward\_702\_12\_15](#pos060)
 - [\[#061\] Audio\_KyuuLab\_702\_12\_20\_1](#pos061)
 - [\[#062\] Audio\_KyuuLab\_702\_12\_20\_2](#pos062)
+- [\[#063\] Ò̴̵́̕S̶\_͟҉͞?̕͟?̴̷̡͘?̷̡̨̀́\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠](#pos063)
 
-## <a id="pos001"/>\[#001\] Show\_693\_03\_16
+## <a id="pos001"></a>\[#001\] Show\_693\_03\_16
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -83,7 +84,7 @@ Umm... hello?
 **PAFF**<br>
 Eh? Ah, I'm sorry. My name is...
 
-*\[Microphone drops\]*
+_\[Microphone drops\]_
 
 **Host**<br>
 ......
@@ -115,7 +116,7 @@ This one's no good. She's so nervous that she can barely talk properly.
 **Judge C**<br>
 She looks really cute too. What a shame...
 
-*\[Music\]*
+_\[Music\]_
 
 ![pos0101.png](./attachments/pos0101.png)
 
@@ -140,7 +141,7 @@ _\[»»» Fast Forward »»»\]_
 **PAFF**<br>
 ...... I... I'm done with my singing. Thank you...
 
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
 _\[Switch Signal\]_
 
@@ -191,14 +192,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos002"/>\[#002\] Cam\_Noah\_693\_03\_16
+## <a id="pos002"></a>\[#002\] Cam\_Noah\_693\_03\_16
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|37 |    No     |
 
 ### Log Content
-*\[Door opens\]*
+_\[Door opens\]_
 
 **Noah**<br>
 I'm home.
@@ -333,7 +334,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos003"/>\[#003\] Call\_Chris\_693\_03\_29
+## <a id="pos003"></a>\[#003\] Call\_Chris\_693\_03\_29
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -438,14 +439,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos004"/>\[#004\] Cam\_Noah\_693\_05\_11
+## <a id="pos004"></a>\[#004\] Cam\_Noah\_693\_05\_11
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|39 |    No     |
 
 ### Log Content
-*\[Sings\]*
+_\[Sings\]_
 
 **PAFF**<br>
 I have the singing part nailed down already... but I'm still nervous... after I signed, I will probably meet more strangers and fans...
@@ -535,7 +536,7 @@ Ok... then let me change my clothes. Thank you for the meal!
 **Noah**<br>
 You're welcome.
 
-*\[Door closes\]*
+_\[Door closes\]_
 
 **Noah**<br>
 ... I will be waiting for you.
@@ -544,7 +545,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos005"/>\[#005\] Cam\_Noah\_693\_06\_13
+## <a id="pos005"></a>\[#005\] Cam\_Noah\_693\_06\_13
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -639,7 +640,7 @@ Then here's a pop quiz for you: <br>
 When did "The Decommission" of Architects occur?
 
 **PAFF**<br>
-Hmm... I believe it's May 25th, 497 N.A.
+Hmm... I believe it's April 4th, 497 N.A.
 
 **Noah**<br>
 Correct! Due to the disappearance of the Architects, most of the Nodes' infrastructure went into paralysis. It almost resulted in a major "Blackout" crisis. In order to analyze and recreate ancient technology so a similar incident won't happen again, we founded A.R.C. Unfortunately, in recent years, not much notable progress had been made. Things finally took a turn for good when Dr. Neumann stepped onto the scene and debunked a lot of the false claims we made. Thanks to him, we are finally able to determine a clear direction for our exploration and research. His contributions saved us at least ten years of messing around and doing nothing.
@@ -678,7 +679,7 @@ Noah?
 ... Nothing.<br>
 No need to worry, My research is still going on. I truly believe that it can also be an important milestone in technology development. If only those old farts can actually think with their brains...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Hey! Didn't I tell you not to talk about work in front of Aroma!
@@ -699,7 +700,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos006"/>\[#006\] Mail\_Chris\_693\_07\_02
+## <a id="pos006"></a>\[#006\] Mail\_Chris\_693\_07\_02
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -709,7 +710,8 @@ _\[Signal Lost\]_
 **Subj.**: Event Schedule Notice<br>
 **From**: Chris Pinkman<br>
 **To**: Aroma White & Helena White
-___
+
+
 
 MonoCon "NOVA" in\-studio performance event
 
@@ -737,14 +739,14 @@ Chris
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos007"/>\[#007\] Cam\_Noah\_693\_08\_14
+## <a id="pos007"></a>\[#007\] Cam\_Noah\_693\_08\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|42 |    No     |
 
 ### Log Content
-*\[Knocks\]*
+_\[Knocks\]_
 
 **Helena**<br>
 Aroma? I'm coming in?<br>
@@ -882,7 +884,7 @@ Good... Aw, look at you, your face is a mess. Go wash your face. Noah is waiting
 **PAFF**<br>
 Got it... I'll be there soon.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **PAFF**<br>
 Sister... _\*Sobs\*..._
@@ -891,7 +893,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos008"/>\[#008\] Audio\_NMobile\_693\_08\_14
+## <a id="pos008"></a>\[#008\] Audio\_NMobile\_693\_08\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1031,7 +1033,7 @@ OK.
 **Noah**<br>
 ......
 
-*\[Smells hand\]*
+_\[Smells hand\]_
 
 **Noah**<br>
 ... Did I rush it? That's not good... Hehehe.
@@ -1040,14 +1042,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos009"/>\[#009\] Cam\_NDrivRec\_693\_08\_15
+## <a id="pos009"></a>\[#009\] Cam\_NDrivRec\_693\_08\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|44 |    No     |
 
 ### Log Content
-*\[Engine Sound\]*
+_\[Engine Sound\]_
 
 **Helena**<br>
 The car is here.
@@ -1115,7 +1117,7 @@ What's the matter? Are you still nervous?
 **Noah**<br>
 ......
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Helena**<br>
 Ah, it's from Chris.
@@ -1143,20 +1145,20 @@ OK. Aroma, it's Chris.
 **Helena**<br>
 AROMA！！！
 
-*\[Car Accident\]*
+_\[Car Accident\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos010"/>\[#010\] Cam094\_ARC\_H\_694\_05\_15
+## <a id="pos010"></a>\[#010\] Cam094\_ARC\_H\_694\_05\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|45 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Is she awake!?
@@ -1227,7 +1229,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos011"/>\[#011\] Cam\_TunerSan\_702\_09\_25
+## <a id="pos011"></a>\[#011\] Cam\_TunerSan\_702\_09\_25
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1300,7 +1302,7 @@ Just what should I do now...? _\*Sobs\*... \*sobs\*..._
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Advertisement Music\]*
+_\[Advertisement Music\]_
 
 **PAFF**<br>
 This song...
@@ -1324,7 +1326,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos012"/>\[#012\] Cam\_Hospital\_693\_08\_16
+## <a id="pos012"></a>\[#012\] Cam\_Hospital\_693\_08\_16
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1406,7 +1408,7 @@ What about the Nano arm?
 **Noah**<br>
 Is there really nothing left you can do!? You bunch of worthless fake doctors!!
 
-*\[Equipment crashing\]*
+_\[Equipment crashing\]_
 
 **Helena**<br>
 ......Noah!?
@@ -1448,7 +1450,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos013"/>\[#013\] cyTus\_Server 08\_702\_01\_18
+## <a id="pos013"></a>\[#013\] cyTus\_Server 08\_702\_01\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1489,7 +1491,7 @@ Independent creators love this type of unorthodox approach.
 **Aroma**<br>
 He's not here for the rehearsal either...
 
-*\[Loud cheers\]*
+_\[Loud cheers\]_
 
 **Aroma**<br>
 Wow... So many people...
@@ -1497,7 +1499,7 @@ Wow... So many people...
 **Helena**<br>
 Indeed, A part of this crowd is your most devoted fans. It seems that ROBO\_Head's performance has concluded.
 
-*\[System notification\]*
+_\[System notification\]_
 
 **[Staff A]**<br>
 _Excuse me. Miss PAFF, it's about time._
@@ -1530,9 +1532,9 @@ Aroma, don't be nervous! Fight!
 **Aroma**<br>
 Yes.
 
-*\[Teleport\]*
+_\[Teleport\]_
 
-*\[Music and cheers\]*
+_\[Music and cheers\]_
 
 ![aos1901.png](./attachments/aos1901.png)
 
@@ -1540,14 +1542,14 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos014"/>\[#014\] Audio\_Arena\_702\_07\_27
+## <a id="pos014"></a>\[#014\] Audio\_Arena\_702\_07\_27
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|50 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Sir, is the makeup done? It's almost time.
@@ -1570,7 +1572,7 @@ You're welcome\~ Since this is a rare physical concert, I'll be at the VIP secti
 **Helena**<br>
 We'll be in your care.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Aroma, the performance is about to start very soon. How's everything going? Do you feel any discomfort?
@@ -1611,7 +1613,7 @@ No problem. I have to pay a visit to the backstage to see how the preparation is
 **Aroma**<br>
 Understood.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Aroma**<br>
 ... Hmm... Tuner\-san, play the accompanying music for me.
@@ -1619,13 +1621,13 @@ Understood.
 **[Tuner-san]**<br>
 _《Gravity》instrumental, start!_
 
-*\[Accompanying music\]*
+_\[Accompanying music\]_
 
 **Aroma**<br>
 \*I spy overlying wings swing as I fly<br>
 Beneath the old moon's ray, when the starlights sway...\*
 
-*\[Stabilizer warning\]*
+_\[Stabilizer warning\]_
 
 **Aroma**<br>
 ......Ugh......
@@ -1657,7 +1659,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos015"/>\[#015\] Audio\_ARC\_H\_702\_07\_28
+## <a id="pos015"></a>\[#015\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1712,14 +1714,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos016"/>\[#016\] Audio\_Noah\_702\_08\_03
+## <a id="pos016"></a>\[#016\] Audio\_Noah\_702\_08\_03
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|50 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Aroma, be careful.
@@ -1745,7 +1747,7 @@ Since I already arrived home, I need to report my status to everyone on iM.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Aroma, I'm coming in?<br>
@@ -1796,9 +1798,9 @@ Thank you.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
-*\[Singing\]*
+_\[Singing\]_
 
 **Aroma**<br>
 \*そろそろ試合終了の鐘を鳴らしてよレフェリー<br>
@@ -1847,14 +1849,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos017"/>\[#017\] Audio\_Noah\_702\_09\_01
+## <a id="pos017"></a>\[#017\] Audio\_Noah\_702\_09\_01
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|51 |    No     |
 
 ### Log Content
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Helena**<br>
 Aroma.
@@ -1862,7 +1864,7 @@ Aroma.
 **Aroma**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Aroma? I'm coming in?
@@ -1922,7 +1924,7 @@ I don't want to go.
 **Aroma**<br>
 I SAID NO!!
 
-*\[Knocks over items\]*
+_\[Knocks over items\]_
 
 **[Tuner-san]**<br>
 _Item shattered. Please be careful._
@@ -1973,7 +1975,7 @@ You... you should get some rest. I will not disturb you anymore, okay?
 **Helena**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Aroma**<br>
 Sister...
@@ -1985,7 +1987,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos018"/>\[#018\] Audio\_Noah\_702\_09\_09
+## <a id="pos018"></a>\[#018\] Audio\_Noah\_702\_09\_09
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2001,7 +2003,7 @@ I'm... her sister. I'm her sister...!
 **Helena**<br>
 ... (Breaths deeply)
 
-*\[Door Knock\]*
+_\[Door Knock\]_
 
 **Helena**<br>
 Aroma, good morning. Wake up!
@@ -2018,7 +2020,7 @@ Aroma, good morning. Wake up!
 **Helena**<br>
 ... 0420...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[»»» Fast Forward 10 minutes »»»\]_
 
@@ -2047,7 +2049,7 @@ She took Tuner\-san with her, and she didn't answer my calls. She even went as f
 **Helena**<br>
 She doesn't want us to find her... Noah... could it be... that she's...
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Noah**<br>
 Helena! Get a hold of yourself!
@@ -2083,7 +2085,7 @@ Okay. I'll trust you with that, Noah...
 **Noah**<br>
 No problem. I'll handle this. Now go.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Noah**<br>
 ......
@@ -2091,7 +2093,7 @@ No problem. I'll handle this. Now go.
 **Noah**<br>
 Ahhhh... AHHHHH......
 
-*\[Punches table\]*
+_\[Punches table\]_
 
 **Noah**<br>
 I... can't repent my crimes like this, can't it...? All I did was bring even more suffering... I'm sorry...
@@ -2100,7 +2102,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos019"/>\[#019\] Cam\_Daily08\_702\_10\_18
+## <a id="pos019"></a>\[#019\] Cam\_Daily08\_702\_10\_18
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2178,7 +2180,7 @@ Idiot! This thing went out of production a long time ago! Besides, with NEKO's p
 **Vicky**<br>
 ... Fine, so you guys are still not persuaded? Then I'll present you my trump care! Look!
 
-*\[Items scattered\]*
+_\[Items scattered\]_
 
 ![pos1901.png](./attachments/pos1901.png)
 
@@ -2246,7 +2248,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos020"/>\[#020\] Audio\_Xmas\_688\_12\_24\_1
+## <a id="pos020"></a>\[#020\] Audio\_Xmas\_688\_12\_24\_1
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2355,7 +2357,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos021"/>\[#021\] Audio\_Xmas\_701\_12\_24
+## <a id="pos021"></a>\[#021\] Audio\_Xmas\_701\_12\_24
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2433,14 +2435,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos022"/>\[#022\] Audio\_Xmas\_688\_12\_24\_2
+## <a id="pos022"></a>\[#022\] Audio\_Xmas\_688\_12\_24\_2
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|53 |    No     |
 
 ### Log Content
-*\[Collecting Tableware\]*
+_\[Collecting Tableware\]_
 
 **Shop Owner**<br>
 Helena, ten\-minute break. Go see your little sister.<br>
@@ -2542,7 +2544,7 @@ Yeah! I want a refund, old man! Haha!
 **Shop Owner**<br>
 Shut your pie holes! Hmph, you guys are going to see the best show ever right now, let me tell you.
 
-*\[Music\]*
+_\[Music\]_
 
 **Customer C**<br>
 Eh? A child?
@@ -2564,7 +2566,7 @@ _\[»»» Fast Forward »»»\]_
 **PAFF**<br>
 ...... (Bows)
 
-*\[Audience Cheers\]*
+_\[Audience Cheers\]_
 
 _\[»»» Fast Forward »»»\]_
 
@@ -2605,7 +2607,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos023"/>\[#023\] Audio\_Academy\_702\_10\_07
+## <a id="pos023"></a>\[#023\] Audio\_Academy\_702\_10\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2642,7 +2644,7 @@ T, thank you... It's Baker...
 **NEKO#ΦωΦ**<br>
 Alrighty! Operation START!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **NEKO#ΦωΦ**<br>
 Hheellllllooo everyone\~ NEKO desu! Today, we are streaming at the Academy, where NEKO takes classes! You guys must be super curious, right? Although I don't have class today, let's get going! Ahahahaha!
@@ -2669,14 +2671,14 @@ What the f\*\*\* are you talking about... Ma waifu! Please gimme your autograph!
 **NEKO#ΦωΦ**<br>
 Hahaha! You guys are so passionate! Then come with NEKO!
 
-*\[Screams\]*
+_\[Screams\]_
 
 **PAFF**<br>
 I, incredible...
 
 _\[→Signal Switch\]_
 
-*\[System activate\]*
+_\[System activate\]_
 
 **[Library System]**<br>
 _Greetings, user. The fully\-automatic search system is now ready. What information would you like to inquire today?_
@@ -2726,7 +2728,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos024"/>\[#024\] Image\_Academy\_702\_10\_07
+## <a id="pos024"></a>\[#024\] Image\_Academy\_702\_10\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2737,7 +2739,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos025"/>\[#025\] Audio\_St07\_702\_10\_20
+## <a id="pos025"></a>\[#025\] Audio\_St07\_702\_10\_20
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2813,7 +2815,7 @@ Shh! NEKO has appeared! Take a photo now!
 **Hayato**<br>
 Eh? You're right. Okay...
 
-*\[Camera shutter\]*
+_\[Camera shutter\]_
 
 **Vicky**<br>
 ... Did she come back herself? I don't see PAFF.
@@ -2851,7 +2853,7 @@ Shut it! Look! The windows are open!
 **Hayato**<br>
 Ah! Got it!
 
-*\[Camera shutter\]*
+_\[Camera shutter\]_
 
 **Hayato**<br>
 Don't seem to catch a glimpse of PAFF in this one either...
@@ -2863,14 +2865,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos026"/>\[#026\] Audio\_Asakura\_702\_10\_07
+## <a id="pos026"></a>\[#026\] Audio\_Asakura\_702\_10\_07
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|57 |    No     |
 
 ### Log Content
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 Whew\~ Haha\~ Today's stream was AWESOME. The viewers were all hyped!
@@ -2934,7 +2936,7 @@ It's not your problem at all. It's more NEKO being too normal. Haha!
 Yeah...<br>
 However, seeing you get along with your fans... It looks like so much fun. I'm a little bit envious...
 
-*\[Lightly slaps face\]*
+_\[Lightly slaps face\]_
 
 **PAFF**<br>
 Wah!?
@@ -2945,7 +2947,7 @@ Aroma\-chan... PAFF's singing has always given everyone strength too, hasn't it?
 **PAFF**<br>
 Yes...
 
-*\[Eat snacks\]*
+_\[Eat snacks\]_
 
 **NEKO#ΦωΦ**<br>
 _\*Chewing\*_... Setting these things aside, how did the search go? The one for your classmate's info.
@@ -3008,7 +3010,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos027"/>\[#027\] Audio\_Daily08\_702\_10\_23
+## <a id="pos027"></a>\[#027\] Audio\_Daily08\_702\_10\_23
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3033,17 +3035,17 @@ Yeah, yeah, I know\~ Thanks for the hard work. I'll be leaving first. Hayato has
 **Vicky**<br>
 We're publishing a new special issue tomorrow. Don't you dare come in late!
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Vicky**<br>
 Alright. I'm definitely going to get this Æsir special done tonight!
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Vicky**<br>
 ... Unknown Caller? Hmph...
 
-*\[Answers\]*
+_\[Answers\]_
 
 **Vicky**<br>
 Tax administration, isn't it? I've seen this routine way too many goddamn times. Our company's accounting records are perfectly normal. There is none of that undeclared tax bulls\*\*\*! So stop bothering us!
@@ -3087,7 +3089,7 @@ It's mega exclusive news that we're this close to getting. Why the hell would I 
 **[N]**<br>
 _Then, Miss Russell, allow me to make things clear... As a reward for the investigation, I can transfer a down payment of half\-a\-million dollars to your account within ten minutes._
 
-*\[Crashing\]*
+_\[Crashing\]_
 
 **Vicky**<br>
 H... Half\-a\-million!?
@@ -3129,13 +3131,13 @@ _Miss Russell!? This is a once\-in\-a\-lifetime opportunity..._
 **Vicky**<br>
 I almost forgot my pride as a journalist... You want information? That get off your lazy a\*\* and go find it yourself!
 
-*\[Hang Up\]*
+_\[Hang Up\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos028"/>\[#028\] Cam\_Fwy01\_693\_08\_15
+## <a id="pos028"></a>\[#028\] Cam\_Fwy01\_693\_08\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3175,7 +3177,7 @@ An energy vehicle exploded right next to them. It's truly a miracle that they ma
 **Rescue Team Captain**<br>
 Enough with the dumb remarks. Better start cleaning up this mess.
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Team Member C**<br>
 C... captain!
@@ -3192,7 +3194,7 @@ WHAT?
 **Team Member C**<br>
 It's a girl... she's stuck inside!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Rescue Team Captain**<br>
 ... She... this girl...
@@ -3215,7 +3217,7 @@ You, inform the medical station. Tell them that a GCS 3 patient with serious inj
 **Team Member A**<br>
 On it!
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Team Member C**<br>
 How ironic... Her seatbelt was the only one that didn't break, which in turn secured her tightly to her seat... A device that generally saves lives ended up harming hers...
@@ -3226,7 +3228,7 @@ It's pointless to say such things now. Go get more people. We need all the help 
 **Team Member C**<br>
 Understood...
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Rescue Team Captain**<br>
 ... You probably don't know this, but I've seen the video of you singing on the internet... Your singing was beautiful.
@@ -3241,14 +3243,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos029"/>\[#029\] Audio\_Hospital\_694\_03\_28
+## <a id="pos029"></a>\[#029\] Audio\_Hospital\_694\_03\_28
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|59 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Clara**<br>
 Daniel! Wait up!
@@ -3263,12 +3265,12 @@ I, I'll be with you...
 **Daniel**<br>
 I said leave me alone!
 
-*\[Running\]*
+_\[Running\]_
 
 **Clara**<br>
 Ah! Daniel......! Waah!
 
-*\[Crash\]*
+_\[Crash\]_
 
 **Noah**<br>
 Are you alright? Oh, is that you, Clara? What's the matter?
@@ -3279,7 +3281,7 @@ No, nothing. We're here to visit Aroma. Here, your phone. Sorry about that.
 **Noah**<br>
 No need to worry. Do be more careful in the hallways though.
 
-*\[Running\]*
+_\[Running\]_
 
 **Clara**<br>
 Daniel!
@@ -3329,7 +3331,7 @@ Then that's it for now.
 
 _\[Call Ends\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Noah**<br>
 Helena... Ah! Iris, it's been a while. Are you here to visit Aroma?
@@ -3343,7 +3345,7 @@ No need to be so modest. Please come visit more often. Aroma will be very glad t
 **Iris**<br>
 Those two... I'll go catch them. Thank you!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Noah, Aroma reacted to her classmates just now. That's a great sign!
@@ -3397,7 +3399,7 @@ This is none of your business! Now p\*\*\* off!
 **Noah**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Noah**<br>
 I... I want to save her even more than you do...
@@ -3406,7 +3408,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos030"/>\[#030\] Audio\_Hospital\_694\_04\_20
+## <a id="pos030"></a>\[#030\] Audio\_Hospital\_694\_04\_20
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3416,7 +3418,7 @@ _\[Signal Lost\]_
 **Helena**<br>
 Please... please......!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Dr. Bryan! How's Aroma doing!?
@@ -3433,7 +3435,7 @@ Dr. Bryan! How's Aroma doing!?
 **Bryan**<br>
 I'm sor...
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Nurse A**<br>
 Mr. Black!
@@ -3445,7 +3447,7 @@ You worthless piece of s\*\*\* doctor!
 **Helena**<br>
 _\*Sobs\*..._
 
-*\[Punch\]*
+_\[Punch\]_
 
 **Bryan**<br>
 Waah! Stop! Stop hitting me!
@@ -3525,14 +3527,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos031"/>\[#031\] Audio\_Arc\_692\_08\_13
+## <a id="pos031"></a>\[#031\] Audio\_Arc\_692\_08\_13
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|60 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Researcher A**<br>
 Ah, you're here, director.
@@ -3578,7 +3580,7 @@ Haha, no need to be so nervous... Come to my office later. There are some small 
 **Researcher I**<br>
 Y, yes, Sir!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[»»» Fast Forward»»»\]_
 
@@ -3628,7 +3630,7 @@ Good. During the next department presentation, we'll show the higher\-ups the re
 **Researcher I**<br>
 No problem. Thank you, director! I will definitely work extra hard!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Noah**<br>
 It'll be here soon... the "beacon" for humans...
@@ -3637,7 +3639,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos032"/>\[#032\] Audio\_Arc\_692\_08\_20
+## <a id="pos032"></a>\[#032\] Audio\_Arc\_692\_08\_20
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3653,7 +3655,7 @@ It's alright, Samantha. Let him in.
 **[System]**<br>
 _Yes, Mr. Smith._
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Noah**<br>
 Leo, what the heck is this about? Why did our team's...
@@ -3692,7 +3694,7 @@ I understand your determination. Despite that, I would like you to wait a little
 **Noah**<br>
 Why?
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **Leo**<br>
 You, as well as Phoenix back then, are all very excited about using the technology you have to help drive human evolution towards a brand\-new world. Am I correct?
@@ -3728,7 +3730,7 @@ _Yes, Mr. Smith._
 **Noah**<br>
 ... Thank you, Sir.
 
-*\[Drinks wine\]*
+_\[Drinks wine\]_
 
 **Leo**<br>
 Ah, right. About the plans for what's coming next... I will restructure R&D department 01 into an independent department "zero". It'll be a non\-public organization that exists outside the current structure. Of course, you'll be the director.
@@ -3749,7 +3751,7 @@ Samantha.
 **[System]**<br>
 _Yes, Mr. Smith._
 
-*\[Projection\]*
+_\[Projection\]_
 
 **Noah**<br>
 ... That's a lot...!
@@ -3773,7 +3775,7 @@ I greatly appreciate the amazing contributions you've made for us, director. We'
 **Noah**<br>
 ... Understood.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Leo**<br>
 ... Samantha.
@@ -3798,7 +3800,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos033"/>\[#033\] Cam\_ARC\_H\_694\_04\_30
+## <a id="pos033"></a>\[#033\] Cam\_ARC\_H\_694\_04\_30
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3915,7 +3917,7 @@ _She was a very beautiful girl._
 **Noah**<br>
 Yes, she was. But... sorry.
 
-*\[Memory delete\]*
+_\[Memory delete\]_
 
 **Noah**<br>
 ......
@@ -3945,7 +3947,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos034"/>\[#034\] Cam\_ARC\_H\_694\_05\_12\_1
+## <a id="pos034"></a>\[#034\] Cam\_ARC\_H\_694\_05\_12\_1
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -3953,11 +3955,11 @@ _\[Signal Lost\]_
 
 ### Log Content
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)<br>
-*[Click the image to watch the movie]*
+_[Click the image to watch the movie]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos035"/>\[#035\] Cam\_ARC\_H\_694\_05\_12\_2
+## <a id="pos035"></a>\[#035\] Cam\_ARC\_H\_694\_05\_12\_2
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4033,7 +4035,7 @@ _Helena, sorry, but would you mind leaving the room for now...?_
 **[Helena]**<br>
 _………_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **[Noah]**<br>
 _... Reset the parameters. Let her body rest and recover. Prepare configuration No.7. We'll try again three days later._
@@ -4048,7 +4050,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos036"/>\[#036\] Audio\_ARC\_H\_694\_05\_15
+## <a id="pos036"></a>\[#036\] Audio\_ARC\_H\_694\_05\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4062,7 +4064,7 @@ _\[Signal Lost\]_
 |**Who Am I?**|PAFF |Chaos|10 |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Is she awake!?
@@ -4195,20 +4197,20 @@ Turn off the machine.
 **Noah**<br>
 I need to calm down. Leave me alone. Please.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos037"/>\[#037\] Audio\_Noah\_695\_06\_05
+## <a id="pos037"></a>\[#037\] Audio\_Noah\_695\_06\_05
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|63 |    No     |
 
 ### Log Content
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **[Helena]**<br>
 _Who is it?_
@@ -4223,7 +4225,7 @@ _... One moment._
 **Daniel**<br>
 ......
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 Oh, Daniel, you're here as well.
@@ -4285,7 +4287,7 @@ I will tell her that you guys came. Please, just give her some more time.
 **Daniel**<br>
 ... Hmph, I'm leaving.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Helena**<br>
 I'm really sorry, Iris.
@@ -4324,7 +4326,7 @@ No matter what, we... will always be best friends... _\*Sobs\*_...
 **Iris**<br>
 Yes... Thank you, sis Helena.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Helena**<br>
 ......
@@ -4339,7 +4341,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos038"/>\[#038\] Audio\_ARC\_H\_702\_07\_28
+## <a id="pos038"></a>\[#038\] Audio\_ARC\_H\_702\_07\_28
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4438,14 +4440,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos039"/>\[#039\] Cam\_Noah\_702\_09\_09
+## <a id="pos039"></a>\[#039\] Cam\_Noah\_702\_09\_09
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|64 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Noah**<br>
 ... Why are you still awake?
@@ -4576,7 +4578,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos040"/>\[#040\] Audio\_Vicky\_702\_11\_14
+## <a id="pos040"></a>\[#040\] Audio\_Vicky\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4611,7 +4613,7 @@ _\[→Signal Switches\]_
 **Vicky**<br>
 Waah!
 
-*\[Falls down\]*
+_\[Falls down\]_
 
 **Hayato**<br>
 Sis Vicky!
@@ -4640,7 +4642,7 @@ Yeah, I can... Oww! That hurt...
 **Hayato**<br>
 Hnngh... Ha!
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 _\[»»» Fast Forward»»»\]_
 
@@ -4709,7 +4711,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos041"/>\[#041\] Cam\_Charity\_687\_05\_13
+## <a id="pos041"></a>\[#041\] Cam\_Charity\_687\_05\_13
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4743,7 +4745,7 @@ I'm very happy! Thank you so much for adopting me, grandma Feng! You even let me
 **Feng**<br>
 Haha... good girl. Here, let's go inside.
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kaori**<br>
 Wow, it smells so nice\~
@@ -4801,7 +4803,7 @@ Everyone, no rushing!
 **???**<br>
 !?
 
-*\[Utensils clinging\]*
+_\[Utensils clinging\]_
 
 **Kaori**<br>
 Alright, alright. Everybody, line up here. If you haven't wash your hands, go wash them first! Only the good kids who follow the rules will get lunch!
@@ -4821,7 +4823,7 @@ Hey, quick, fill up the next bowl. There's still a lot of people waiting behind 
 **???**<br>
 Ah, okay...
 
-*\[Utensils clinging\]*
+_\[Utensils clinging\]_
 
 **???**<br>
 This one is for you.
@@ -4870,7 +4872,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos042"/>\[#042\] Cam\_Feng\_689\_04\_03
+## <a id="pos042"></a>\[#042\] Cam\_Feng\_689\_04\_03
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -4884,7 +4886,7 @@ _\[Signal Lost\]_
 |**Blossoms for Life**|PAFF |Chaos|11 |
 
 ### Log Content
-*\[Singing\]*
+_\[Singing\]_
 
 **Kaori**<br>
 _\*You and I. Just like butterflies, perfect hue and light.\*_
@@ -4985,7 +4987,7 @@ Ah, o, okay!
 **Kaori**<br>
 _\*You and I. Just like butterflies, perfect hue and light.\*_
 
-*\[Drum noise\]*
+_\[Drum noise\]_
 
 **Kaori**<br>
 ......
@@ -5007,7 +5009,7 @@ Here, I'll start again. You just follow my movement and tap your feet to the bea
 **Kaori**<br>
 _\*You and I. Just like butterflies, perfect hue and light.\*_
 
-*\[Drum noise\]*
+_\[Drum noise\]_
 
 **Kaori**<br>
 Much better. I'll keep going!
@@ -5015,7 +5017,7 @@ Much better. I'll keep going!
 **Kaori**<br>
 _\*Though it rains down our fate. Start up today.\*_
 
-*\[Drum noise\]*
+_\[Drum noise\]_
 
 **Kaori**<br>
 You're getting better and better! Maybe you do have the talent! That's awesome!
@@ -5032,7 +5034,7 @@ You're exaggerating things again... haha.
 **Kaori**<br>
 _\*You and I. Just like butterflies, perfect hue and light.\*_
 
-*\[Drum noise\]*
+_\[Drum noise\]_
 
 ![pos4201.png](./attachments/pos4201.png)
 
@@ -5040,7 +5042,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos043"/>\[#043\] Audio\_Asakura\_702\_11\_14
+## <a id="pos043"></a>\[#043\] Audio\_Asakura\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5050,7 +5052,7 @@ _\[Signal Lost\]_
 **NEKO#ΦωΦ**<br>
 Huff... Puff... Sis Yukiko, quick, open the door!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Kenta**<br>
 Big sister is back!
@@ -5093,7 +5095,7 @@ What's the matter, Kenta?<br>
 **Kouhei**<br>
 This face is really familiar... You...
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **Yukiko、Kouhei**<br>
 PAFF!???
@@ -5166,7 +5168,7 @@ Yes. Everyone, prepare to leave. We're all going. Staying at home alone is not s
 **PAFF**<br>
 T, thank you very much!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Yukiko**<br>
 Here, let's get ready to leave too. NEKO, Kenta, and Miss PAFF... No need to worry. You'll be safe soon.
@@ -5187,14 +5189,14 @@ Haha...
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos044"/>\[#044\] Audio\_St08\_702\_11\_14
+## <a id="pos044"></a>\[#044\] Audio\_St08\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|66 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 Kenta, is anyone outside?
@@ -5244,7 +5246,7 @@ NEKO... Can I sign it?
 **NEKO#ΦωΦ**<br>
 Umm... Y... yeah, you can.
 
-*\[Signs\]*
+_\[Signs\]_
 
 **PAFF**<br>
 Here, Kenta.
@@ -5285,7 +5287,7 @@ Hoho\~ Is this what it feels like to get carried?
 **PAFF**<br>
 Carried? What does that mean...
 
-*\[Alarm\]*
+_\[Alarm\]_
 
 **Men In Black**<br>
 Unit A has located the target. Initiate apprehend operation immediately.
@@ -5323,12 +5325,12 @@ O, okay!
 **Men In Black**<br>
 You're not getting away. Go after her! Surround them!
 
-*\[Honking\]*
+_\[Honking\]_
 
 **NEKO#ΦωΦ**<br>
 That's... daddy? It's daddy's car!!
 
-*\[Engine Sounds\]*
+_\[Engine Sounds\]_
 
 **NEKO#ΦωΦ**<br>
 Aroma\-chan, get in the car!!
@@ -5340,14 +5342,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos045"/>\[#045\] Cam\_Dash\_702\_11\_14
+## <a id="pos045"></a>\[#045\] Cam\_Dash\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|67 |    No     |
 
 ### Log Content
-*\[Brakes\]*
+_\[Brakes\]_
 
 **NEKO#ΦωΦ**<br>
 Here! Aroma\-chan, get in, now!!
@@ -5355,7 +5357,7 @@ Here! Aroma\-chan, get in, now!!
 **PAFF**<br>
 Wahhh!
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **NEKO#ΦωΦ**<br>
 All set! Move! Get going!
@@ -5363,7 +5365,7 @@ All set! Move! Get going!
 **Men In Black**<br>
 Wait! Stay where you a...
 
-*\[Engine Sounds\]*
+_\[Engine Sounds\]_
 
 **Pedestrian A**<br>
 There were so many people around that apartment we just passed by.
@@ -5415,19 +5417,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos046"/>\[#046\] Cam\_DragonSt\_694\_04\_25\_1
+## <a id="pos046"></a>\[#046\] Cam\_DragonSt\_694\_04\_25\_1
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|68 |    No     |
 
 ### Log Content
-*\[Guitar\]*
+_\[Guitar\]_
 
 **Hayato**<br>
 Hmm... Still not quite right...
 
-*\[Guitar\]*
+_\[Guitar\]_
 
 **Hayato**<br>
 Much better... No, that's a bit too much... Argh, what do I do?
@@ -5509,7 +5511,7 @@ Huh?
 Nothing... Oh, a crowd is starting to gather. Are you ready?<br>
 Ah\~Ah\~, Mic test, mic test\~
 
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
 **Hayato**<br>
 Ah, just give me another second... sorry.
@@ -5518,7 +5520,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos047"/>\[#047\] Cam\_08Daily\_702\_11\_17
+## <a id="pos047"></a>\[#047\] Cam\_08Daily\_702\_11\_17
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5588,7 +5590,7 @@ Wait, doesn't that sound a bit too ridiculous? Maybe it's all just a coincidence
 **Hayato**<br>
 I understand, but...
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Vicky**<br>
 Huh? That's strange. Who would come to the office at this time of the night?
@@ -5602,12 +5604,12 @@ _\*Sigh\*_ With her, that's entirely possible. You go answer the door. I need to
 **Hayato**<br>
 Okay.
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **Hayato**<br>
 Ah, one second, please...
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Hayato**<br>
 ......!?
@@ -5642,7 +5644,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos048"/>\[#048\] Cam\_Dash\_702\_11\_14
+## <a id="pos048"></a>\[#048\] Cam\_Dash\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5777,19 +5779,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos049"/>\[#049\] Audio\_Noah\_702\_11\_14
+## <a id="pos049"></a>\[#049\] Audio\_Noah\_702\_11\_14
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|69 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Helena**<br>
 ...... Aroma!
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **PAFF**<br>
 Sister...
@@ -5826,7 +5828,7 @@ Okay. Thank you.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **Noah**<br>
 ......
@@ -5907,7 +5909,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos050"/>\[#050\] Cam\_DragonSt\_694\_04\_25\_2
+## <a id="pos050"></a>\[#050\] Cam\_DragonSt\_694\_04\_25\_2
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -5921,7 +5923,7 @@ _\[Signal Lost\]_
 |**Recall**|PAFF |Chaos| 9 |
 
 ### Log Content
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
 **Kaori**<br>
 Woah! It's you guys...
@@ -5935,7 +5937,7 @@ We were afraid that we would miss the first few songs, so we had the head chef p
 **Brother Zhao**<br>
 He got so mad that his chef hat fell off and we got to see his shiny bald head! Hahaha!
 
-*\[Audience laughter\]*
+_\[Audience laughter\]_
 
 **Kaori**<br>
 Haha, you guys are so...
@@ -5957,7 +5959,7 @@ Well then, here's our first song!
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
 **Kaori**<br>
 Thank you everyone... Woah! Brother Zhao, are you crying!? You're overreacting!
@@ -5971,7 +5973,7 @@ Hehe! Thanks\~
 **Kaori**<br>
 Audience, please give a round of applause to my partner Hayato as well! He wrote more than half of our songs!
 
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
 **Hayato**<br>
 EH? Ummm... Ha, hahaha...
@@ -5979,7 +5981,7 @@ EH? Ummm... Ha, hahaha...
 **Kaori**<br>
 Hoho\~ Look at him, he's embarassed\~ His entire face is bright red.
 
-*\[Audience laughter\]*
+_\[Audience laughter\]_
 
 ![pos5002.png](./attachments/pos5002.png)
 
@@ -5987,7 +5989,7 @@ Hoho\~ Look at him, he's embarassed\~ His entire face is bright red.
 Well then, we've sung our songs and received our applause...<br>
 That's it for our performance today. Thanks, everybody!
 
-*\[Audience laughter\]*
+_\[Audience laughter\]_
 
 **Brother Zhao**<br>
 What the hell!? You only performed two songs!
@@ -6021,15 +6023,15 @@ Hahaha...
 Can't help it then.<br>
 If that's the case, tonight... we sing till we drop dead! How does that sound, everyone!?
 
-*\[Audience applauds\]*
+_\[Audience applauds\]_
 
-*\[Music\]*
+_\[Music\]_
 
 _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos051"/>\[#051\] Cam\_Dash\_702\_11\_17
+## <a id="pos051"></a>\[#051\] Cam\_Dash\_702\_11\_17
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6137,7 +6139,7 @@ Not calling you sister, that's... I can't do that. Our memories, and the years w
 **PAFF**<br>
 No matter how many "me"s exist in this body; no matter where I go next, what happens afterward; no matter... whether you're able to treat me as your little sister or not... you will always be my sister. The sister I love more than anyone else in this world. So... please don't say something like that...
 
-*\[Parks car\]*
+_\[Parks car\]_
 
 **Helena**<br>
 _\*Sobs\*... \*Bawls\*..._
@@ -6148,14 +6150,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos052"/>\[#052\] Audio\_Cafe\_702\_11\_17
+## <a id="pos052"></a>\[#052\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|70 |    No     |
 
 ### Log Content
-*\[Parks car\]*
+_\[Parks car\]_
 
 **Helena**<br>
 ... We're here.
@@ -6228,7 +6230,7 @@ Besides, my job as your agent is not over yet. Aroma definitely wants to sing ag
 **PAFF**<br>
 Yes! Sister... I'm so glad; you're finally acting like the sister I always knew. Hehe\~
 
-*\[Hugs\]*
+_\[Hugs\]_
 
 **PAFF**<br>
 ......!
@@ -6241,7 +6243,7 @@ Yes.
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **PAFF**<br>
 Hello...
@@ -6281,7 +6283,7 @@ NEKO will go down there with you as soon as I finish this drink!
 
 _\[»»» Fast Forward»»»\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **JOE**<br>
 Haven't clean this place in quite a while... Sorry about this. Even I feel kinda bad for letting a super idol stay in such a dusty basement.
@@ -6296,7 +6298,7 @@ I need to place some orders for the shop first. If you want anything, just press
 **PAFF**<br>
 Understood.
 
-*\[Door Closes\]*
+_\[Door Closes\]_
 
 **PAFF**<br>
 ......
@@ -6311,7 +6313,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos053"/>\[#053\] Cam\_DragonSt\_694\_04\_25\_3
+## <a id="pos053"></a>\[#053\] Cam\_DragonSt\_694\_04\_25\_3
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6339,34 +6341,34 @@ Gotcha. Bye\-bye!
 
 _\[Signal Switches\]_
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Kaori**<br>
 Good. Time for me to go back as well. Hnnnggg... Dang, this keyboard is heavy.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Kaori**<br>
 Accidentally sang a few too many songs. It's getting really late... Mom's probably already asleep?
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **Kaori**<br>
 ......
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Kaori**<br>
 ... No way...
 
 _\[Signal Switches\]_
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Kaori**<br>
 Ha... Ha... Ha... AH!
 
-*\[Falls down\]*
+_\[Falls down\]_
 
 **Kaori**<br>
 Damnit...
@@ -6382,12 +6384,12 @@ W, who are you? What do you want!?
 **Kaori**<br>
 Don't come near me!
 
-*\[Kicks\]*
+_\[Kicks\]_
 
 **Hunter**<br>
 UGH! You little b\*\*\*\*...
 
-*\[Hurried Footsteps\]*
+_\[Hurried Footsteps\]_
 
 **Kaori**<br>
 _\*Huff\*... \*Puff\*... HELP!_
@@ -6395,7 +6397,7 @@ _\*Huff\*... \*Puff\*... HELP!_
 **Hunter**<br>
 You're not getting away!
 
-*\[Taser\]*
+_\[Taser\]_
 
 **Kaori**<br>
 AHHHHHHHH!
@@ -6404,7 +6406,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos054"/>\[#054\] Image\_Base\_702\_11\_17
+## <a id="pos054"></a>\[#054\] Image\_Base\_702\_11\_17
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6415,19 +6417,19 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos055"/>\[#055\] Audio\_Cafe\_702\_11\_17
+## <a id="pos055"></a>\[#055\] Audio\_Cafe\_702\_11\_17
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|71 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **JOE**<br>
 ......?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Woah!? PAFF? Are you alright!? Why did you run upstairs?
@@ -6444,7 +6446,7 @@ Aroma\-chan! Your nose is bleeding!
 **NEKO#ΦωΦ**<br>
 Ah! It's the same as last time. Could it be, that you remembered something again?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Hey! Where are you going? You can barely stand. Take a seat and catch your breath first, okay?
@@ -6467,7 +6469,7 @@ I don't know...
 **JOE**<br>
 ... Kaori...?
 
-*\[Things crashing\]*
+_\[Things crashing\]_
 
 **JOE**<br>
 Hey!? You shouldn't be moving around anymore...
@@ -6484,16 +6486,16 @@ Hayato!
 **JOE**<br>
 ......!!
 
-*\[Runs\]*
+_\[Runs\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **NEKO#ΦωΦ**<br>
 Aroma\-chan! Where are you going!? Wait for me!
 
-*\[Runs\]*
+_\[Runs\]_
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hey! NEKO!
@@ -6542,12 +6544,12 @@ Only the address of the company...
 **NEKO#ΦωΦ**<br>
 NEKO will go there right now!
 
-*\[Doorbell\]*
+_\[Doorbell\]_
 
 **JOE**<br>
 Hey!
 
-*\[Phone Rings\]*
+_\[Phone Rings\]_
 
 **JOE**<br>
 What the hell? Who would call at this time...<br>
@@ -6563,14 +6565,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos056"/>\[#056\] Multi\_File\_P056
+## <a id="pos056"></a>\[#056\] Multi\_File\_P056
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|72 |    No     |
 
 ### Log Content
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **PAFF**<br>
 ... Hayato, what's the matter? You've been awfully quiet for a while now. Where are we going first?
@@ -6681,7 +6683,7 @@ Who gives a f\*\*\* about him!? Run for your damn lives first!
 
 _\[→Audio\_???\_697\_12\_25\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Member D**<br>
 Let's begin unloading the cargo.
@@ -6704,7 +6706,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos057"/>\[#057\] Multi\_File\_P057
+## <a id="pos057"></a>\[#057\] Multi\_File\_P057
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6809,7 +6811,7 @@ _Hayato..._
 **Hayato**<br>
 ......
 
-*\[Opens bottle\]*
+_\[Opens bottle\]_
 
 **[Feng]**<br>
 This... scent... Kaori?... Is it Kaori!? Where are you!?
@@ -6878,7 +6880,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos058"/>\[#058\] ???\_???\_??\_??\_??
+## <a id="pos058"></a>\[#058\] ???\_???\_??\_??\_??
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -6892,7 +6894,7 @@ _\[Signal Lost\]_
 **PAFF**<br>
 What is this place... Weren't I at the graveyard with NEKO and Hayato just now? I remember that our bags went missing...
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **PAFF**<br>
 What a bizarre red light. What exactly is this place...<br>
@@ -6905,7 +6907,7 @@ NEKO is looking at someone else's grave on the side... Is this what happened jus
 **PAFF**<br>
 ... Ugh! My head...
 
-*\[Signal Lost\]*
+_\[Signal Lost\]_
 
 **PAFF**<br>
 They're gone... What is going on?
@@ -6919,7 +6921,7 @@ They're gone... What is going on?
 **???**<br>
 So you can respond to me now? This is not the first time I met you here.
 
-*\[Footsteps\]*
+_\[Footsteps\]_
 
 **???**<br>
 Stay focused. Think about the things you want to see.
@@ -6986,7 +6988,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos059"/>\[#059\] Cam\_Ward\_702\_12\_14
+## <a id="pos059"></a>\[#059\] Cam\_Ward\_702\_12\_14
 ### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
@@ -7067,7 +7069,7 @@ Who said that! NEKO provided Aroma\-chan with both food and shelter when she was
 **PAFF**<br>
 Sigh... Not even three seconds have past and here we go again...
 
-*\[Lights Off\]*
+_\[Lights Off\]_
 
 **NEKO#ΦωΦ**<br>
 Eek! What now? Is it bedtime already?
@@ -7082,7 +7084,7 @@ Eh? Can't open the door either...
 **NEKO#ΦωΦ**<br>
 Whaaa... Are we being attacked again!? No...
 
-*\[Kicks Door\]*
+_\[Kicks Door\]_
 
 **Hayato**<br>
 Yikes, this door sure is sturdy... Ouch!
@@ -7123,7 +7125,7 @@ Sis Cherry is in danger!
 Damnit! We have to go out as soon as possible!<br>
 Come on! Open yourself, you big stupid door!
 
-*\[Kicks Door\]*
+_\[Kicks Door\]_
 
 **PAFF**<br>
 Hayato, wait!<br>
@@ -7142,7 +7144,7 @@ What are you talking about...?
 ......<br>
 ...... Hmph!!
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **NEKO#ΦωΦ**<br>
 ......!?
@@ -7158,14 +7160,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos060"/>\[#060\] Audio\_Ward\_702\_12\_15
+## <a id="pos060"></a>\[#060\] Audio\_Ward\_702\_12\_15
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|74 |    No     |
 
 ### Log Content
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **PAFF**<br>
 NEKO? Where are you going!?
@@ -7272,9 +7274,9 @@ _Looks like more experiments and tests are necessary to figure out the details, 
 **[Nora]**<br>
 _All in all, both of you should be exhausted. I am very thankful that you're still willing to stay here. Please get some rest. I must now go back to clean up this mess._
 
-*\[Wheelchair moving\]*
+_\[Wheelchair moving\]_
 
-*\[Door Opens\]*
+_\[Door Opens\]_
 
 **Hayato**<br>
 Nora's expressions... they feel different than what they usually are.
@@ -7285,7 +7287,7 @@ It was because she couldn't make the decision to sacrifice ROBO that led to... A
 **Hayato**<br>
 _\*Sniff\*_... Never thought Miss Cherry would be gone just like that...
 
-*\[Ringtone\]*
+_\[Ringtone\]_
 
 **Hayato**<br>
 Who would call...? NEKO!?
@@ -7294,14 +7296,14 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos061"/>\[#061\] Audio\_KyuuLab\_702\_12\_20\_1
+## <a id="pos061"></a>\[#061\] Audio\_KyuuLab\_702\_12\_20\_1
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|75 |    No     |
 
 ### Log Content
-*\[Data Input\]*
+_\[Data Input\]_
 
 **[Nora]**<br>
 _...... As expected, the virus' activity in your body has begun to change. This is all new data that hasn't been recorded._
@@ -7427,7 +7429,7 @@ _\[Signal Lost\]_
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="pos062"/>\[#062\] Audio\_KyuuLab\_702\_12\_20\_2
+## <a id="pos062"></a>\[#062\] Audio\_KyuuLab\_702\_12\_20\_2
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -7571,6 +7573,123 @@ Yes?
 **[Nora]**<br>
 _... Nothing, it's nothing. You... you really are an amazing person.<br>
 ... Thank you._
+
+_\[Signal Lost\]_
+
+[*(Click here to go back to the top)*](#toc)
+
+## <a id="pos063"></a>\[#063\] Ò̴̵́̕S̶\_͟҉͞?̕͟?̴̷̡͘?̷̡̨̀́\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**|76 |    No     |
+
+### Log Content
+_\[Footsteps\]_
+
+**PAFF**<br>
+Not a single person... Darn, I think I walked too far...
+
+**PAFF**<br>
+I've got to turn around and meet up with them...<br>
+Eh? What the... Why? Transmission isn't working...? Is the signal weaker here?
+
+**PAFF**<br>
+Nora? Xenon! Mr. Neumann! Can you hear me?
+
+**PAFF**<br>
+......
+
+**PAFF**<br>
+No... Calm down. I've got to find a way to find everyone...
+
+**PAFF**<br>
+... Nora said that the virus is still growing inside my body and that's why I was able to open the door last time. If I can control equipment in this network, perhaps I can retrieve some data from the OS space...
+
+**PAFF**<br>
+... I'll just have to try.<br>
+Imagine them in my mind...
+
+**PAFF**<br>
+......!<br>
+Is this...
+
+_\[Static\]_
+
+**??????**<br>
+......
+
+**PAFF**<br>
+As expected... I wasn't mistaken. You really do exist.
+
+**??????**<br>
+......
+
+**PAFF**<br>
+I've felt like someone's been watching me for a long time now. Before, I thought I was being followed, but after my ability was awakened, this feeling became stronger and stronger... More and more... real.
+
+**PAFF**<br>
+Now I understand. I felt it through "The Eye of Horus"... We encountered each other because we both possessed this ability. Nora also told me that she felt an unknown energy in the OS space...
+
+**PAFF**<br>
+It's you... It's always been you, hasn't it?
+
+**??????**<br>
+......
+
+**PAFF**<br>
+I also know that you're not Ivy. Though I have no way of confirming it... you're not our enemy.
+
+**??????**<br>
+......?
+
+**PAFF**<br>
+I've felt that malicious intent. Whoever their master is has an immense hatred for mankind. But I don't feel that from you. You just observe things, silently... Whether it's the Architects, humans, or this world, they have nothing to do with you.
+
+**PAFF**<br>
+... It must be... lonely.
+
+**??????**<br>
+......
+
+_\[Footsteps\]_
+
+**PAFF**<br>
+Um, can I... touch you?
+
+**??????**<br>
+......!
+
+_\[Static\]_
+
+**??????**<br>
+!?
+
+**[Nora]**<br>
+_... Miss PAFF! Can you hear me?_
+
+**PAFF**<br>
+Nora!?
+
+**[Nora]**<br>
+_I finally found you. Since you're the only one who uses the ability to enter the OS space, that surge caused us to split up. I'm repositioning and transmitting you back._
+
+**PAFF**<br>
+Okay, got it!<br>
+... So, can I...
+
+**??????**<br>
+......
+
+_\[Footsteps\]_
+
+**PAFF**<br>
+!? Wait! Don't go... ah!
+
+_\[Static\]_
+
+**??????**<br>
+......
 
 _\[Signal Lost\]_
 

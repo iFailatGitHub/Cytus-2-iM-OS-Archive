@@ -1,5 +1,5 @@
 # PAFF iM Posts
-## <a id="toc"/>List of Posts
+## <a id="toc"></a>List of Posts
 - [\[#001\] New Song Released.](#p0101)
 - [\[#002\] \[Announcement\] Connect to major platforms now!](#p0201)
 - [\[#003\] Thank you.](#p0301)
@@ -27,7 +27,7 @@
 - [\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides](#p2501)
 - [\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF](#p2601)
 
-## <a id="p0101"/>\[#001\] New Song Released.
+## <a id="p0101"></a>\[#001\] New Song Released.
 ### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
@@ -105,7 +105,7 @@ BOUGHT!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0201"/>\[#002\] \[Announcement\] Connect to major platforms now!
+## <a id="p0201"></a>\[#002\] \[Announcement\] Connect to major platforms now!
 ### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
@@ -159,7 +159,7 @@ Stop bundling a bunch of junk with it OK! Feels cheated!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0301"/>\[#003\] Thank you.
+## <a id="p0301"></a>\[#003\] Thank you.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -236,7 +236,7 @@ L\-O\-V\-E PAFF \\oo/
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0401"/>\[#004\] Thank you for the support!
+## <a id="p0401"></a>\[#004\] Thank you for the support!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -292,7 +292,7 @@ The composers that help make the music this time are also very good. The music m
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0501"/>\[#005\] \[Announcement\] 7th PAFFCON, ticket sales begin
+## <a id="p0501"></a>\[#005\] \[Announcement\] 7th PAFFCON, ticket sales begin
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -359,7 +359,7 @@ PAFF give me strength! Please let me get one!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0601"/>\[#006\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+## <a id="p0601"></a>\[#006\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -422,7 +422,7 @@ Can someone post the footage? The news footage is blurry and unrecognizable. Som
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0701"/>\[#007\] 7th PAFFCON, sold out
+## <a id="p0701"></a>\[#007\] 7th PAFFCON, sold out
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -490,7 +490,7 @@ Sis Helena please add some more tickets! I had my breaks arranged already! QQ
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0801"/>\[#008\] Want to chat with everybody.
+## <a id="p0801"></a>\[#008\] Want to chat with everybody.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -593,7 +593,7 @@ Everyone, thank you. ^^
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p0901"/>\[#009\] \[Repost\] Newest fall catalog ft. collaboration with PAFF
+## <a id="p0901"></a>\[#009\] \[Repost\] Newest fall catalog ft. collaboration with PAFF
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -665,7 +665,7 @@ No wonder you guys are called Puffs, since your brains have nothing but white cr
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1001"/>\[#010\] Good afternoon everyone, This is PAFF. ^^
+## <a id="p1001"></a>\[#010\] Good afternoon everyone, This is PAFF. ^^
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -760,7 +760,7 @@ Good night have a good sleep <3
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1101"/>\[#011\] At the backstage.
+## <a id="p1101"></a>\[#011\] At the backstage.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -829,7 +829,7 @@ Look forward to seeing PAFF!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1201"/>\[#012\] PAFF\-Official on Air.
+## <a id="p1201"></a>\[#012\] PAFF\-Official on Air.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -842,7 +842,7 @@ Look forward to seeing PAFF!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1301"/>\[#013\] \[Emergency Announcement\]
+## <a id="p1301"></a>\[#013\] \[Emergency Announcement\]
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -978,7 +978,7 @@ We should all pray...pray that PAFF will be alright<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1401"/>\[#014\] \[Announcement\] PAFF is now awake, everything is fine.
+## <a id="p1401"></a>\[#014\] \[Announcement\] PAFF is now awake, everything is fine.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1128,7 +1128,7 @@ You will be fine!<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1501"/>\[#015\] Going back home, sorry for making everybody worried.
+## <a id="p1501"></a>\[#015\] Going back home, sorry for making everybody worried.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1215,7 +1215,7 @@ Good work for both you and Sis! We will always support you!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1601"/>\[#016\] \[Announcement\] Public schedule put on hold
+## <a id="p1601"></a>\[#016\] \[Announcement\] Public schedule put on hold
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1291,7 +1291,7 @@ As a PUFFER I will not refund the ticket... I'll keep it as a souvenir
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1701"/>\[#017\] Please give PAFF all your support!
+## <a id="p1701"></a>\[#017\] Please give PAFF all your support!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1383,7 +1383,7 @@ Anyone know which hospital she is at?
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1801"/>\[#018\] Check up.
+## <a id="p1801"></a>\[#018\] Check up.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1470,7 +1470,7 @@ PAFF you're on your way<br>
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p1901"/>\[#019\] \[Announcement\] Premium collection now underway!
+## <a id="p1901"></a>\[#019\] \[Announcement\] Premium collection now underway!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1539,7 +1539,7 @@ We can only wait and see
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2001"/>\[#020\] \[Announcement\] Activities suspended and rest
+## <a id="p2001"></a>\[#020\] \[Announcement\] Activities suspended and rest
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1634,7 +1634,7 @@ Puffs let's go to Mono Music to figure out what the hell is up!!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2101"/>\[#021\] \[Announcement\] Regarding《Around the Nodes》concert tour refunds
+## <a id="p2101"></a>\[#021\] \[Announcement\] Regarding《Around the Nodes》concert tour refunds
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1735,7 +1735,7 @@ Don't really want to support Mono's events from now on. SkyEkho might be the bet
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2201"/>\[#022\] \[Announcement\] Tower 054 celebration event guest revealed
+## <a id="p2201"></a>\[#022\] \[Announcement\] Tower 054 celebration event guest revealed
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1821,7 +1821,7 @@ Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2301"/>\[#023\] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+## <a id="p2301"></a>\[#023\] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1946,7 +1946,7 @@ Stop exaggerating the truth idiots. It's not funny at all!
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2401"/>\[#024\] I am very sorry to everyone
+## <a id="p2401"></a>\[#024\] I am very sorry to everyone
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -2014,7 +2014,7 @@ What happened PAFF >"< Why are you making everyone so worried
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2501"/>\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
+## <a id="p2501"></a>\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -2103,7 +2103,7 @@ I combined the two hashtags so we can kill two birds with one stone. I'm a geniu
 
 [*(Click here to go back to the top)*](#toc)
 
-## <a id="p2601"/>\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF
+## <a id="p2601"></a>\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
