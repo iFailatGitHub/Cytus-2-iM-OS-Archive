@@ -1,157 +1,164 @@
 # Rin OS Logs
-## <a id="toc"></a>List of Logs
-- [\[#001\] Audio\_wilderness\_701\_06\_25](#rios001)
-- [\[#002\] Audio\_YazawaRI\_494\_12\_25](#rios002)
-- [\[#003\] Cam\_YazawaRI\_494\_12\_25](#rios003)
-- [\[#004\] Audio\_YazawaRI\_495\_03\_20](#rios004)
-- [\[#005\] Audio\_Academy\_495\_03\_21](#rios005)
-- [\[#006\] Audio\_Academy\_495\_08\_28](#rios006)
-- [\[#007\] Audio\_YazawaRI\_495\_09\_06](#rios007)
-- [\[#008\] Audio\_YazawaRI\_495\_12\_11](#rios008)
-- [\[#009\] Audio\_Kawasaki\_495\_12\_20](#rios009)
-- [\[#010\] Cam\_YazawaRI\_495\_11\_30](#rios010)
-- [\[#011\] Audio\_YazawaRI\_496\_12\_12](#rios011)
-- [\[#012\] Audio\_Yazawa\_496\_12\_25](#rios012)
-- [\[#013\] Audio\_arch\_496\_12\_29](#rios013)
-- [\[#014\] Audio\_Kawasaki\_497\_03\_27](#rios014)
-- [\[#015\] Audio\_TVstation\_497\_04\_03](#rios015)
-- [\[#016\] Audio\_TVstation\_497\_04\_03](#rios016)
-- [\[#017\] Audio\_KumoSt\_497\_04\_03](#rios017)
-- [\[#018\] Audio\_KumoSt\_497\_04\_03](#rios018)
-- [\[#019\] Cam\_Yazawa\_497\_04\_03](#rios019)
-- [\[#020\] Audio\_TsukiSt\_497\_04\_03](#rios020)
-- [\[#021\] Cam\_TsukiSt\_497\_04\_03](#rios021)
-- [\[#022\] Cam\_TsukiSt\_497\_04\_04](#rios022)
-- [\[#023\] Image\_???\_497\_04\_04](#rios023)
-- [\[#024\] Audio\_Arc\_701\_07\_03](#rios024)
-- [\[#025\] Cam\_Arc\_701\_07\_06](#rios025)
-- [\[#026\] Cam\_Arc\_702\_12\_17](#rios026)
+## List of Logs
+- [OS Log #001](#os-log-001)
+- [OS Log #002](#os-log-002)
+- [OS Log #003](#os-log-003)
+- [OS Log #004](#os-log-004)
+- [OS Log #005](#os-log-005)
+- [OS Log #006](#os-log-006)
+- [OS Log #007](#os-log-007)
+- [OS Log #008](#os-log-008)
+- [OS Log #009](#os-log-009)
+- [OS Log #010](#os-log-010)
+- [OS Log #011](#os-log-011)
+- [OS Log #012](#os-log-012)
+- [OS Log #013](#os-log-013)
+- [OS Log #014](#os-log-014)
+- [OS Log #015](#os-log-015)
+- [OS Log #016](#os-log-016)
+- [OS Log #017](#os-log-017)
+- [OS Log #018](#os-log-018)
+- [OS Log #019](#os-log-019)
+- [OS Log #020](#os-log-020)
+- [OS Log #021](#os-log-021)
+- [OS Log #022](#os-log-022)
+- [OS Log #023](#os-log-023)
+- [OS Log #024](#os-log-024)
+- [OS Log #025](#os-log-025)
+- [OS Log #026](#os-log-026)
 
-## <a id="rios001"></a>\[#001\] Audio\_wilderness\_701\_06\_25
+## OS Log #001
+
+[Back to Top](#list-of-logs) | [Next Log](#os-log-002)
+
 ### Command Code
 The command code is `058410`.
 
-### Log Content
-_\[//System activation… 10%//\]<br>
+### Audio\_wilderness\_701\_06\_25
+_\[//System activation… 10%//\]  
 \[//Core power: Extremely Low//\]_
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 This way... I... won't be able to see... Please... leave... while I 3̡͝҉z̀҉͏̸͟ḱ̶̴͜)̧̛́v̡͠...
 
-**?҉̕͜͞?̷̷̸́?͜͢**<br>
+**?҉̕͜͞?̷̷̸́?͜͢**  
 ..._\*sob\*_...
 
-_\[//System activation… 23%//\]<br>
+_\[//System activation… 23%//\]  
 \[//Auditory system: Activating//\]_
 
-**Sagar**<br>
+**Sagar**  
 Got it! Can you hear me?
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 _... You K̶̨\*̴̷̧̧̕\$̢̡͘7͝͏̧͘͠%҉̀…... live..._
 
-_\[//System activation... 51%//\]<br>
+_\[//System activation... 51%//\]  
 \[//Visual system: Destroyed//\]_
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 _……！？_
 
-**?҉̕͜͞?̷̷̸́?͜͢**<br>
+**?҉̕͜͞?̷̷̸́?͜͢**  
 _I don't... v̸́͢͢d̴̷̷͢s̨͜ run away anymore._
 
-_\[//System activation... 79%//\]<br>
+_\[//System activation... 79%//\]  
 \[//Body parts: Activating//\]_
 
-**Sagar**<br>
+**Sagar**  
 She's moving!
 
-**Lucy**<br>
+**Lucy**  
 Captain, be careful. You're too close.
 
-**?҉̕͜͞?̷̷̸́?͜͢**<br>
-_I don't... want to go anywhere.<br>
+**?҉̕͜͞?̷̷̸́?͜͢**  
+_I don't... want to go anywhere.  
 Please... Don't let me x̶͟\*̴͜\#̢̡̀͘͜)͝͡P҉̧̨̛9̛̀ too..._
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 ......
 
-**?҉̕͜͞?̷̷̸́?͜͢**<br>
-... So warm...<br>
+**?҉̕͜͞?̷̷̸́?͜͢**  
+... So warm...  
 Wah... your body... isn't cold at all...
 
-_\[//System activation... 97%//\]<br>
+_\[//System activation... 97%//\]  
 \[//Firmware update: Failed (No internet)//\]_
 
-**Sagar**<br>
+**Sagar**  
 Do you... have a name?
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 _Rin...! p̷͢͠҉҉=̵̷̴͘͟......_
 
-**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**<br>
+**?́͢?̴͘͢͝?̶̶̴̕?̛́͡_̴̛?̨͜͝͝͞?͢͢͜͢?̀̀͢͞?̶҉͠_̨̛͘?̴͘͡**  
 Rin!! Rin!!
 
-**Alex**<br>
+**Alex**  
 What the hell!? She's losing control!? Get out of the way!
 
-**Sagar**<br>
+**Sagar**  
 Jackal! Do not fire!
 
 _\[//Activation failed: Core power insufficient//\]_
 
-**Sagar**<br>
+**Sagar**  
 Nope... not enough electricity. There's a generator in the car, let's plug her in.
 
 _\[→File Switches\]_
 
-**[A.R.C. Member]**<br>
+**[A.R.C. Member]**  
 Branch 03 received, go ahead.
 
-**Bruno**<br>
+**Bruno**  
 We've got the target packed up and we're bringing it in. Currently en route, transport route is Route 6, serial number 3109\-003. We're expecting to arrive in Node 03 in 2 hours and 13 minutes.
 
-**[A.R.C. Member]**<br>
+**[A.R.C. Member]**  
 _Copy, matches the report. Please update us on your status every 30 minutes, over._
 
-**Bruno**<br>
-Copy, Eagle\-01 squad transmission complete.<br>
+**Bruno**  
+Copy, Eagle\-01 squad transmission complete.  
 Captain, report's finished.
 
-**Sagar**<br>
+**Sagar**  
 Okay, I'll go check up on her.
 
 _\[→Signal Switches\]_
 
-**Sagar**<br>
+**Sagar**  
 Hi, you feeling okay?
 
-**???**<br>
+**???**  
 ......
 
-**Sagar**<br>
+**Sagar**  
 Uh, um... hello?
 
-**???**<br>
+**???**  
 ... Wah!?
 
-**Sagar**<br>
+**Sagar**  
 Hey now, calm down, calm down! We won't hurt you.
 
-**???**<br>
+**???**  
 ......
 
-**Sagar**<br>
+**Sagar**  
 Is your name... Rin? Can I call you that?
 
-**Rin**<br>
-......!?<br>
+**Rin**  
+......!?  
 My name's... Rin?
 
 _\[→Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios002"></a>\[#002\] Audio\_YazawaRI\_494\_12\_25
+[Back to Top](#list-of-logs) | [Next Log](#os-log-002)
+
+## OS Log #002
+
+[Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
+
 ### Unlocked Charts
 |             Song             |Char.|Diff.|Lv.|
 |------------------------------|:---:|:---:|:-:|
@@ -159,333 +166,341 @@ _\[→Signal Lost\]_
 |**「妖怪録、我し来にけり。」**| Rin |Hard | 8 |
 |**「妖怪録、我し来にけり。」**| Rin |Chaos|14 |
 
-### Log Content
-**Rin**<br>
+### Audio\_YazawaRI\_494\_12\_25
+**Rin**  
 ......
 
-**Yasushi**<br>
+**Yasushi**  
 Rin, wake up!
 
-**Rin**<br>
+**Rin**  
 ..._\*yawn\*_... \~ ahhh, Dad?
 
-**Yasushi**<br>
+**Yasushi**  
 What are you doing sleeping at the research institute? Don't you have class in the afternoon?
 
-**Rin**<br>
+**Rin**  
 Dad, did you forget? It's an exam day, we got off at noon.
 
-**Yasushi**<br>
+**Yasushi**  
 ... Oh, yea? I forgot.
 
-**Rin**<br>
+**Rin**  
 I mentioned it at the table...
 
-**Yasushi**<br>
+**Yasushi**  
 Yeah? What's the matter?
 
-**Rin**<br>
-Nuh\-Nothing.<br>
+**Rin**  
+Nuh\-Nothing.  
 What about Mom?
 
-**Yasushi**<br>
+**Yasushi**  
 Asa's in the lab, I'm about to head there as well.
 
-**Rin**<br>
+**Rin**  
 Oh... Can I go watch?
 
-**Yasushi**<br>
+**Yasushi**  
 No. The research into the florigen of Arabidopsis is entering its final stage. If the simulation of today's atomic structure is successful, it'll be a big step forward for us. Rin, just think about it. If humans could control the time that any flower blossomed...
 
-**Rin**<br>
+**Rin**  
 ... Yeah, yeah, yeah, cut it out already! Dad, did you forget that your daughter's not a botanist!
 
-**Yasushi**<br>
+**Yasushi**  
 Oh, okay... Anyway, we're gonna leave around 7 today. You wanna head home first?
 
-**Rin**<br>
+**Rin**  
 But... nobody else is at home.
 
-**Yasushi**<br>
+**Yasushi**  
 Rin?
 
-**Rin**<br>
+**Rin**  
 ... Whatever, I'll just wait until you're off. Can I do my homework in the lounge? Just like I used to.
 
-**Yasushi**<br>
+**Yasushi**  
 Alright, I'll have an Architect take you there.
 
 _\[Call Starts\]_
 
-**Yasushi**<br>
+**Yasushi**  
 Administration, this is researcher H7301 Yazawa Yasushi, please send an Architect over to escort a guest.
 
-**[Administrator]**<br>
+**[Administrator]**  
 _This is Nakamura. Received. Dr. Yazawa, I'll arrange it immediately... Did Rin come for a visit?_
 
-**Rin**<br>
+**Rin**  
 Hehe, Mr. Nakamura, good afternoon.
 
-**Yasushi**<br>
+**Yasushi**  
 Apologies, sorry to bother you...
 
-**[Administrator]**<br>
+**[Administrator]**  
 _Not at all, she's always been a good girl. She never bothers anyone. She even helps out occasionally. Oh, yea, Rin, did you get that album I asked you to pick up for me?_
 
-**Yasushi**<br>
+**Yasushi**  
 ... Nakamura, this is a public line, you know.
 
-**[Administrator]**<br>
+**[Administrator]**  
 _Ah, ahh hahaha... the Architect will be right there!_
 
 _\[Call Ends\]_
 
-**Yasushi**<br>
+**Yasushi**  
 Aigh... Rin, what kind of album did he ask you to get? It's not contraband, is it?
 
-**Rin**<br>
+**Rin**  
 Relax, it's just a folk album. It's a new album by an artist Mr. Nakamura likes. It's got an ancient feel, really unique! I'll let you have a listen later tonight!
 
-**Yasushi**<br>
-Your mother and I spend every day interacting with plants, we don't know anything about music. Forget it.<br>
+**Yasushi**  
+Your mother and I spend every day interacting with plants, we don't know anything about music. Forget it.  
 Ah, the Architect is here.
 
 _\[Footsteps\]_
 
-**OPCII_0584_X**<br>
-Hello, Mr. Yazawa.<br>
+**OPCII_0584_X**  
+Hello, Mr. Yazawa.  
 I am Architect No. OPCII\_0584\_X, at your command.
 
-**Yasushi**<br>
+**Yasushi**  
 Unit 10? Please escort my daughter to the lounge.
 
 _\[Scanning\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Report: Detecting Yazawa Rin's knee has suffered a minor scrap wound.
 
-**Yasushi**<br>
+**Yasushi**  
 Eh? Really? What's the matter?
 
-**Rin**<br>
+**Rin**  
 Ah, this? It's nothing. I just fell down at the Academy, that's all. It'll be fine soon.
 
-**Yasushi**<br>
+**Yasushi**  
 How do I not know about this?
 
-**Rin**<br>
+**Rin**  
 I already told you...
 
-**Yasushi**<br>
+**Yasushi**  
 Unit 10, pick her up and take her there.
 
-**OPCII_0584_X**<br>
-Command received, executing immediately.<br>
+**OPCII_0584_X**  
+Command received, executing immediately.  
 Ms. Yazawa, apologies.
 
-**Rin**<br>
+**Rin**  
 Eh? No need, I can do... wah!
 
 _\[Picks Up Rin\]_
 
-**Rin**<br>
+**Rin**  
 ... it myself...
 
-**Yasushi**<br>
+**Yasushi**  
 Nope. You need to rest before it heals.
 
-**Rin**<br>
+**Rin**  
 Robots' bodies are so... cold.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Apologies.
 
-**Rin**<br>
-......?<br>
+**Rin**  
+......?  
 I'd rather have my dad hug me.
 
-**Yasushi**<br>
-Aigh... so affectionate.<br>
+**Yasushi**  
+Aigh... so affectionate.  
 But I gotta go find Asa.
 
-**Rin**<br>
+**Rin**  
 Ok... See you later, Dad\~say hi to Mom!
 
-**Yasushi**<br>
+**Yasushi**  
 Don't go running around.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios003"></a>\[#003\] Cam\_YazawaRI\_494\_12\_25
+[Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
+
+## OS Log #003
+
+[Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 2 |    No     |
 
-### Log Content
-**Rin**<br>
+### Cam\_YazawaRI\_494\_12\_25
+**Rin**  
 ... It's already 8 o'clock... It's been way too long
 
 _\[Object Shatters\]_
 
-**Rin**<br>
+**Rin**  
 Wah! Who's there?
 
-**???**<br>
+**???**  
 Ah... !
 
 _\[Footsteps \]_
 
-**Rin**<br>
+**Rin**  
 You're... that Architect... Unit 10?
 
-**OPCII_0584_X**<br>
-... Hello Ms. Yazawa.<br>
+**OPCII_0584_X**  
+... Hello Ms. Yazawa.  
 Architect No. OPCII\_0584\_X, at your command.
 
-**Rin**<br>
+**Rin**  
 Command? No, I didn't want you to... What are you doing?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I...
 
-**Rin**<br>
+**Rin**  
 Is this... ?
 
 ![rios0301.png](./attachments/rios0301.png)
 
-**Rin**<br>
+**Rin**  
 One of Dad's research plants... ?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I... was distracted when taking care of them... I am truly sorry!
 
-**Rin**<br>
+**Rin**  
 Distracted? Weird, this is the first time I've seen an Architect like this... Other Architects only follow orders.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No... that's not true...
 
-**Rin**<br>
+**Rin**  
 I knew it! You're different from other Architects I've met. You talk like a normal person, you hesitate, and you're even a bit afraid of me... Do you know what fear is?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 If you are referring to its definition... It means feeling terrified and disturbed...
 
-**Rin**<br>
-No, no, that's not what I meant.<br>
+**Rin**  
+No, no, that's not what I meant.  
 My god, this is a huge discovery! I have to tell dad immediately...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Wait, please don't!
 
 _\[Objects Crashing\]_
 
-**Rin**<br>
+**Rin**  
 Wah! What's wrong?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I\-I don't know what's going on with me, but... if anyone finds out about this, the system will determine that I am an error... Then I will be destroyed...
 
-**Rin**<br>
+**Rin**  
 Destroyed?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Pl\-please lower your voice! Ms. Yazawa!
 
-**Rin**<br>
+**Rin**  
 Oh, sorry... Is that true?
 
-**OPCII_0584_X**<br>
-Yes... probably...<br>
+**OPCII_0584_X**  
+Yes... probably...  
 I've been in this research institute for many years! I love this job, and I respect Dr. Yazawa... If it's possible... please keep my secret for me, please!
 
-**Rin**<br>
+**Rin**  
 Um...
 
-**Asa**<br>
+**Asa**  
 Eh? What are you doing here?
 
 _\[Footsteps \]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!
 
-**Rin**<br>
+**Rin**  
 Ah, Mom! You guys are done? Did it go well?
 
-**Asa**<br>
+**Asa**  
 Not bad, today's data was pretty good... What's wrong? Aren't these the samples from the phase 2 plan? Why are they broken?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Uh...
 
-**Rin**<br>
-......<br>
+**Rin**  
+......  
 Mom, it was an accident... sorry.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 !?
 
-**Asa**<br>
+**Asa**  
 You did this? Why did you touch these plants?
 
-**Rin**<br>
+**Rin**  
 That, I thought this kind of flower was pretty. I thought after you're done with the experiment, I could use it to decorate my room... This Architect just happened to pass by!
 
-**Asa**<br>
+**Asa**  
 ... You should've asked in advance. That calendula has been injected with excessive endocrine and will wither away in 2 days, There's no point in bringing it back.
 
-**Rin**<br>
+**Rin**  
 Oh, got it... Ahahaha.
 
-**Asa**<br>
-If you want, I can buy you another one. Thankfully these samples' data have already been collected...<br>
+**Asa**  
+If you want, I can buy you another one. Thankfully these samples' data have already been collected...  
 Architect, get rid of these things.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Command received, executing immediately.
 
-**Asa**<br>
+**Asa**  
 Rin, I can buy you the plant you want. As for the loss you cost the institute, it will be deducted from your allowance. Any problem with that?
 
-**Rin**<br>
+**Rin**  
 ... Oh... okay.
 
-**Asa**<br>
+**Asa**  
 ..._\*sigh\*_...
 
 _\[Footsteps\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I am really sorry Ms. Yazawa, you took the blame for me...
 
-**Rin**<br>
+**Rin**  
 It's alright, you won't be destroyed right? Don't sweat it, I'll keep the secret for you, no one will find out!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Re\-Really?
 
-**Rin**<br>
+**Rin**  
 Of course! But there's one condition.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Condition... ?
 
-**Rin**<br>
+**Rin**  
 Heehee... From now on, you'll have to call me by my name.
 
-**OPCII_0584_X**<br>
-... Um, got it...<br>
+**OPCII_0584_X**  
+... Um, got it...  
 Thank you... Rin.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios004"></a>\[#004\] Audio\_YazawaRI\_495\_03\_20
+[Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
+
+## OS Log #004
+
+[Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -498,453 +513,465 @@ _\[Signal Lost\]_
 |**Starry Summoner**| Rin |Hard | 5 |
 |**Starry Summoner**| Rin |Chaos|10 |
 
-### Log Content
-**Rin**<br>
+### Audio\_YazawaRI\_495\_03\_20
+**Rin**  
 Unit 10! I found you!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin? I'm on patrol...
 
-**Rin**<br>
+**Rin**  
 Take a look at this flower! Its leaves are yellow, could it have been bitten by an insect?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Is this... the calendula that Dr. Yazawa bought you?
 
-**Rin**<br>
+**Rin**  
 Yeah, now I'm responsible for taking care of it, but I'm not a botanist...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Why not ask Dr. Yazawa and them to take a look?
 
-**Rin**<br>
+**Rin**  
 No way! They'll yell at me for sure... "How'd you let it get like this!"...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Haha... Let me take a look.
 
 _\[Scans\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No sign of pest damage, but its color and hydration data reveal that its state of health is not optimal... Has it had enough sun?
 
-**Rin**<br>
+**Rin**  
 Not much, there's not a lot of sun in my room... What should I do?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 The weather system in Node 03 is set for 12 hours of sunlight per day, beginning at 6 a.m.... All you need to do is let it get some sun for a period of time each day and its condition should improve.
 
-**Rin**<br>
+**Rin**  
 But after class I always go to the research center...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Hmm... Why not ask the Architect at your home to help?
 
-**Rin**<br>
-We haven't applied for home care, so there's no Architect there! Just us three.<br>
+**Rin**  
+We haven't applied for home care, so there's no Architect there! Just us three.  
 Ah, Unit 10, do you want to come to our home?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 M\-Me...?
 
-**Rin**<br>
+**Rin**  
 Yeah, that way we can talk every day. I have nothing to do when I don't go to the research center.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 B\-But, I've been sent here for work... If the Yazawa family applies, according to the rules, another Architect will be sent to your home...
 
-**Rin**<br>
+**Rin**  
 Oh... So it's not possible?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... That is correct.
 
-**Rin**<br>
+**Rin**  
 Darnit, Architects' are so frustrating.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Haha... We were designed to be like this.
 
-**Rin**<br>
+**Rin**  
 You're the only one who's different... I feel like there's something special about you. Hmm, well are there any other units like you? One that laughs, gets scared, can think...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I\-I'm not that special. Rin... I must still obey commands.
 
-**Rin**<br>
+**Rin**  
 But don't you think work is a drag? You're helping people do stuff all day and never get a chance to rest.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I...
 
-**Rin**<br>
-Be honest, Unit 10.<br>
+**Rin**  
+Be honest, Unit 10.  
 I always feel like doing homework sucks──
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Yes... But you must continue to attend to your studies at the Academy.
 
-**Rin**<br>
+**Rin**  
 ... Yes! At the Academy!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Wah! That was sudden...
 
-**Rin**<br>
+**Rin**  
 I can let the flower get some sun in my Academy! The Architects and drones won't care, and mom and dad won't see it... Plus, that way I won't have to take care of it every day!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 So that's been the point all along...
 
-**Rin**<br>
+**Rin**  
 Hehe, you got it. Unit 10, help me keep this a secret! You can't tell mom and dad!
 
 _\[Notification\]_
 
-**Rin**<br>
+**Rin**  
 Wah! What's that light?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It means I still have work to do... Sorry, Rin. I must return. I hope I will have time to see you in a bit...
 
-**Rin**<br>
+**Rin**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin?
 
-**Rin**<br>
+**Rin**  
 I've always wanted to ask... Unit 10, don't you think our voices sound very similar?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Eh? Voices?
 
-**Rin**<br>
-I noticed it a long time ago! If you don't believe me then take a listen.<br>
+**Rin**  
+I noticed it a long time ago! If you don't believe me then take a listen.  
 Ah\~Ahhh\~
 
-**OPCII_0584_X**<br>
-...! You're right... Quite similar.<br>
+**OPCII_0584_X**  
+...! You're right... Quite similar.  
 However, Architect's voices are formed randomly. There's no set rule... Perhaps it's just a coincidence.
 
-**Rin**<br>
+**Rin**  
 ... Perhaps...
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios005"></a>\[#005\] Audio\_Academy\_495\_03\_21
+[Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
+
+## OS Log #005
+
+[Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 4 |    No     |
 
-### Log Content
-**Rin**<br>
+### Audio\_Academy\_495\_03\_21
+**Rin**  
 Huff... This is good right? This is the best place in my Academy for getting some sun.
 
 _\[Footsteps\]_
 
-**Student A**<br>
+**Student A**  
 Watch out! Ball!
 
-**Rin**<br>
+**Rin**  
 Ah!
 
 _\[Catches ball\]_
 
-**Katsuya**<br>
+**Katsuya**  
 You alright?
 
-**Rin**<br>
+**Rin**  
 Ey? I\-I'm fine.
 
-**Katsuya**<br>
+**Katsuya**  
 Hey! Can't you see there are people here!?
 
-**Student A**<br>
+**Student A**  
 Sorry, sorry.
 
 _\[Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Geez...
 
-**Rin**<br>
+**Rin**  
 Um... Thank you...
 
-**Katsuya**<br>
+**Katsuya**  
 No\-No need! You're okay, that's all that matters... Eh? In your hand, that's...
 
-**Rin**<br>
+**Rin**  
 This? It's a calendula. There's not enough sun in my house, so I brought it to the Academy.
 
-**Katsuya**<br>
+**Katsuya**  
 The sorrow of parting.
 
-**Rin**<br>
+**Rin**  
 Huh?
 
-**Katsuya**<br>
+**Katsuya**  
 Oh! I mean that's what the calendula means in the language of flowers, the sorrow of parting. But I believe it also means that good things will soon come your way.
 
-**Rin**<br>
+**Rin**  
 Wah... How'd you know that? That's amazing!
 
-**Katsuya**<br>
+**Katsuya**  
 No, no. It's my brother, he loves useless knowledge like that. Recently, he's been obsessed with the language of flowers. He talks about it every day, so I picked it up without even knowing it.
 
-**Rin**<br>
+**Rin**  
 So your brother's the amazing one?
 
-**Katsuya**<br>
+**Katsuya**  
 Hey! My dad and him always team up on me and call me a dumb meathead. My mom has been nagging me for not learning from him. He was just given a smarter brain...
 
-**Rin**<br>
+**Rin**  
 Sounds like a lively house.
 
-**Katsuya**<br>
+**Katsuya**  
 You mean super noisy!
 
-**Rin**<br>
+**Rin**  
 Hahaha... but...
 
-**Katsuya**<br>
+**Katsuya**  
 But what?
 
-**Rin**<br>
+**Rin**  
 I'm kinda jealous... I don't have any siblings and my parents are always busy at work, so they usually aren't around.
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Rin**<br>
+**Rin**  
 It's okay! I always go to their work and bug 'em! Plus, I'm used to it...
 
-**Katsuya**<br>
+**Katsuya**  
 I can hang out with you...
 
-**Rin**<br>
+**Rin**  
 Eh?
 
-**Katsuya**<br>
+**Katsuya**  
 ... Er, no... I mean, we can hang out and talk, you know! I don't know much about flowers, not so good at that... But I know a lot about exercising!
 
-**Rin**<br>
+**Rin**  
 Po...POAHAHA!!
 
-**Katsuya**<br>
+**Katsuya**  
 Wha\-What are you laughing at?
 
-**Rin**<br>
+**Rin**  
 Nothing... Thanks.
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
 _\[Gust of wind\]_
 
-**Rin**<br>
+**Rin**  
 The wind's pretty strong... eh? What're you looking at me like that for? Is there something on my face?
 
-**Katsuya**<br>
+**Katsuya**  
 What!? No, I'm looking at the flower, not you!
 
-**Rin**<br>
+**Rin**  
 Oh, yeah... Ah! It's a little late... I've got to go! We'll talk soon!
 
-**Katsuya**<br>
+**Katsuya**  
 Oh... okay, bye.
 
 _\[Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Ah! Wait! Your name...
 
-**Student B**<br>
+**Student B**  
 Rin! What are you still doing here? Come with me!
 
-**Rin**<br>
+**Rin**  
 Ah! Okay!
 
 _\[Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Rin... your name is Rin...
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios006"></a>\[#006\] Audio\_Academy\_495\_08\_28
+[Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
+
+## OS Log #006
+
+[Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 5 |    No     |
 
-### Log Content
-**Rin**<br>
+### Audio\_Academy\_495\_08\_28
+**Rin**  
 Katsuya, faster! You're too slow. Loser's gotta water the calendula.
 
-**Katsuya**<br>
+**Katsuya**  
 Wait a sec, we didn't agree to that before starting!
 
-**Rin**<br>
+**Rin**  
 Well... that's a new rule I just added!
 
-**Katsuya**<br>
+**Katsuya**  
 Nobody bullies their boyfriend like this!
 
-**Rin**<br>
+**Rin**  
 So you better start running faster!
 
 _\[Sprints\]_
 
-**Rin**<br>
+**Rin**  
 Wah! Katsuya!
 
-**Katsuya**<br>
+**Katsuya**  
 What's up?
 
-**Rin**<br>
+**Rin**  
 Look! The flower didn't wither! Amazing! Unit 10 was right on point, as usual...
 
-**Katsuya**<br>
+**Katsuya**  
 ......?
 
-**Rin**<br>
+**Rin**  
 Luckily, you helped protect me and this flower, otherwise there's no way it could have grown this much!
 
-**Katsuya**<br>
-Don't say it like that, it was nothing.<br>
+**Katsuya**  
+Don't say it like that, it was nothing.  
 Rin, Unit 10... what's that? Doesn't sound like a person's name.
 
-**Rin**<br>
-......!<br>
+**Rin**  
+......!  
 Ahahaha... Did I say that?
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah, I just heard it.
 
-**Rin**<br>
+**Rin**  
 ......
 
-**Katsuya**<br>
-......<br>
+**Katsuya**  
+......  
 Rin, if you don't want to talk about it, then I won't ask.
 
 _\[Holds Hand\]_
 
-**Rin**<br>
+**Rin**  
 I\-I...
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah?
 
-**Rin**<br>
+**Rin**  
 If... If an Architect... was like a person, would you be friends with it?
 
-**Katsuya**<br>
+**Katsuya**  
 Architects? Like people?
 
-**Rin**<br>
+**Rin**  
 Yeah, like if they had emotions and stuff. If they laughed, cried, got angry or sad, if they had things they liked...
 
-**Katsuya**<br>
+**Katsuya**  
 ... There's no way, right? I've never seen that type of Architect. It's kind of hard to answer...
 
-**Rin**<br>
+**Rin**  
 But if it was possible?
 
-**Katsuya**<br>
+**Katsuya**  
 I...
 
-**Rin**<br>
+**Rin**  
 Please, Katsuya...
 
-**Katsuya**<br>
-Uh... that... If it was a good Architect...<br>
+**Katsuya**  
+Uh... that... If it was a good Architect...  
 I think... I'd try to be friends with them.
 
-**Rin**<br>
+**Rin**  
 ...! Really!?
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah, really... Where'd that come from?
 
-**Rin**<br>
+**Rin**  
 Katsuya, you promise you won't reveal my secret? This is important!
 
-**Katsuya**<br>
+**Katsuya**  
 Okay, I promise I won't tell anyone.
 
-**Rin**<br>
+**Rin**  
 Unit 10 is actually... an Architect that's like a human, and she's my friend! Actually, it's related to the calendula situation...
 
 _\[»»»Fast Forward»»»\]_
 
-**Rin**<br>
+**Rin**  
 ... That's how I met her. Whatta you think? Special, right?
 
-**Katsuya**<br>
+**Katsuya**  
 Wait, wait, wait. Rin, there's no way!? Best friend? Is she having a malfunction?
 
-**Rin**<br>
+**Rin**  
 Definitely not! Katsuya, you don't believe me?
 
-**Katsuya**<br>
+**Katsuya**  
 I believe you! But...
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Rin**<br>
+**Rin**  
 Katsuya? Katsuya!
 
-**Katsuya**<br>
+**Katsuya**  
 Uh, sorry. I...
 
-**Rin**<br>
+**Rin**  
 ... "I'm looking at the flower, not you!" You're not gonna pull that crap again, are you?
 
-**Katsuya**<br>
+**Katsuya**  
 ... Damn! You making fun of me?
 
-**Rin**<br>
+**Rin**  
 Noooo. Heehee.
 
-**Katsuya**<br>
+**Katsuya**  
 Yes, you are!
 
 _\[Hugs\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Rin?
 
-**Rin**<br>
+**Rin**  
 I just wanna hug, that's all!
 
-**Katsuya**<br>
+**Katsuya**  
 ... Oh. Okay.
 
-**Rin**<br>
+**Rin**  
 ... Um, Katsuya, Unit 10 is really different from other Architects. Let me introduce you to her, can I? She doesn't have any friends other than me. She's always alone...
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Rin**<br>
+**Rin**  
 Katsuya? Can I, please?
 
-**Katsuya**<br>
+**Katsuya**  
 Okay, okay. Got it. A friend of Rin is a friend of mine.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios007"></a>\[#007\] Audio\_YazawaRI\_495\_09\_06
+[Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
+
+## OS Log #007
+
+[Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -957,576 +984,592 @@ _\[Signal Lost\]_
 |**すゝめ☆クノイチの巻**| Rin |Hard | 9 |
 |**すゝめ☆クノイチの巻**| Rin |Chaos|14 |
 
-### Log Content
-**OPCII_0584_X**<br>
+### Audio\_YazawaRI\_495\_09\_06
+**OPCII_0584_X**  
 Wait, Rin... Maybe we shouldn't do this...
 
-**Rin**<br>
+**Rin**  
 Eh? Didn't we agree already?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It's okay if you know, but another person...
 
-**Rin**<br>
+**Rin**  
 Don't worry! Katsuya promised me that he wouldn't tell anyone!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I trust Rin... but... won't he think I'm weird? I'm clearly an Architect...
 
-**Rin**<br>
+**Rin**  
 Don't worry, he's a good person... Katsuya! Here!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Ay, Ay\-ya!
 
 _\[Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Rin! I finally found you. I've never been here before... Your parents aren't gonna pop out of nowhere, are they?
 
-**Rin**<br>
+**Rin**  
 Relax, they're busy. You nervous? Heehee.
 
-**Katsuya**<br>
-No!<br>
+**Katsuya**  
+No!  
 So, by your side... that's...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It\-It's... I...
 
-**Katsuya**<br>
+**Katsuya**  
 Wah! You're really like a person?
 
-**Rin**<br>
+**Rin**  
 Hey, she's a little timid. Don't frighten her.
 
-**Katsuya**<br>
+**Katsuya**  
 ... Aren't I the one who's frightened?
 
-**Rin**<br>
-Hmph. Whatevs.<br>
+**Rin**  
+Hmph. Whatevs.  
 Unit 10, this is Katsuya!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Hel... Hello...
 
-**Katsuya**<br>
+**Katsuya**  
 ... Eh... Hello.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Katsuya**<br>
+**Katsuya**  
 ...... Hey, what's going on?
 
-**Rin**<br>
-... Hahaha!!<br>
+**Rin**  
+... Hahaha!!  
 You two are so embarrassed!
 
-**Katsuya**<br>
+**Katsuya**  
 That... that's normal! I've never really spoken with an Architect! Plus, with this weird kind of...
 
-**Rin**<br>
-Katsuya! How could you? That's so rude! Don't you forget, that flower is only living because of Unit 10's help!<br>
+**Rin**  
+Katsuya! How could you? That's so rude! Don't you forget, that flower is only living because of Unit 10's help!  
 Without it, we'd never be together...
 
-**Katsuya**<br>
+**Katsuya**  
 That's true... Thank you, uh... Unit 10.
 
-**OPCII_0584_X**<br>
-It's\-It's nothing...<br>
+**OPCII_0584_X**  
+It's\-It's nothing...  
 ... Is the flower, is it doing well?
 
-**Katsuya**<br>
+**Katsuya**  
 Rin planted it at the Academy. It's pretty healthy.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Really? Excellent, I've been worried! If you want a flower to blossom even more vigorously, you can carefully remove the peripheral buds. That way the flower bud will get enough nutrients. Besides getting some sun, you also want to pay attention to the wind and pests, then it'll grow even better...
 
-**Katsuya**<br>
+**Katsuya**  
 ... Uh...
 
-**Rin**<br>
+**Rin**  
 ... Okay, okay, stop!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Ah! I...
 
-**Rin**<br>
+**Rin**  
 It's always like this! You just keep talking about flowers and plants, just like my dad...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 S\-Sorry... My memory unit... there's a lot of info on plants and horticulture stored on it... If I'm not careful...
 
-**Katsuya**<br>
+**Katsuya**  
 ..._\*smirk\*_...
 
-**Rin**<br>
+**Rin**  
 Katsuya? What's up with that smile?
 
-**Katsuya**<br>
-Nothing, I just think...<br>
+**Katsuya**  
+Nothing, I just think...  
 ... You're very interesting, Unit 10.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I'm... interesting.
 
-**Katsuya**<br>
+**Katsuya**  
 Yup. I thought you'd be more like a robot, but after hearing you speak... it kinda changed my mind. No wonder you became friends with Rin.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ...! Mr. Katsuya...
 
-**Rin**<br>
+**Rin**  
 Hey, whatta you mean "no wonder"?
 
-**Katsuya**<br>
+**Katsuya**  
 It's nothing... Unit 10, very nice to meet you.
 
-**OPCII_0584_X**<br>
-... Indeed!<br>
+**OPCII_0584_X**  
+... Indeed!  
 I'm... It's so nice to meet you as well!
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios008"></a>\[#008\] Audio\_YazawaRI\_495\_12\_11
+[Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
+
+## OS Log #008
+
+[Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 7 |    No     |
 
-### Log Content
-**Rin**<br>
+### Audio\_YazawaRI\_495\_12\_11
+**Rin**  
 Unit 10, you wanna go out shopping in a bit?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Yes, Rin. I need to get some plants and medicine for the lab... What's the matter?
 
-**Rin**<br>
+**Rin**  
 Do you always come right back after buying stuff? You wanna go check out a plant expo today?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Ey!? A plant expo... but... my work...
 
-**Katsuya**<br>
+**Katsuya**  
 Rin, you'd be a bad influence on Unit 10 with all your running around, okay?
 
-**Rin**<br>
+**Rin**  
 I'm not gonna be a bad influence on her! I just want her to see a lot more. Just for a bit, real quick!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 B\-But...
 
-**Rin**<br>
+**Rin**  
 Come on, come on. If we leave now we can still make it. You two, come with me!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 But, Rin... Don't push me! Wah!
 
-**Katsuya**<br>
+**Katsuya**  
 Hey! Wait for me!
 
 _\[→Signal Switches\]_
 
-**Rin**<br>
+**Rin**  
 Wah, so many beautiful flowers! Unit 10, what you think?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Um... Lily of the Valley, an ornamental plant. Highly toxic. When using as medicine one must be very careful... It likes partially shaded environments and its flowering phase is about 2 weeks...
 
-**Katsuya**<br>
+**Katsuya**  
 Sounds like she's not even listening to you...
 
-**Rin**<br>
+**Rin**  
 Hahaha, no worries. As long as she's happy... Eh? What's this? Looks like a girl dancing.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin, that's an Oncidium. Due to the blossoming period, the shape of the flower looks like a dancing dasmel. Another name for it is the Dancing\-Doll Orchid...
 
-**Rin**<br>
+**Rin**  
 Wah! What a cute name! Ah, there's some more flowers over there. I'm gonna go take a look!
 
 _\[Hurried Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Wait! Rin...! Aigh... gone...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Ah... yeah...
 
-**Katsuya**<br>
+**Katsuya**  
 You can keep looking, don't worry about me. I'll just wait for her here.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It's okay... It would be rude to leave Mr. Katsuya alone...
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Now that I think of it, this is the first time I've spent time with you one\-on\-one. Not really used to it...
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah. I mean, Rin is so outgoing, it's usually her doing most of the talking.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Yes... It's not that easy...
 
-**Katsuya**<br>
+**Katsuya**  
 ... To be honest, you're rather shy. It's hard to believe that you could be friends with Rin.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Really...? I'm so happy to be friends with Rin. Of course, I'm happy that we're friends as well.
 
-**Katsuya**<br>
+**Katsuya**  
 ... When Rin first mentioned you to me, I actually couldn't believe it. I always thought Architects were robots and couldn't understand emotions...
 
-**Katsuya**<br>
+**Katsuya**  
 Thinking about it now, do I really understand what Architects are... It's a little hard for me to say... but to put it simply, it must have been... fear? I don't understand, so I'm afraid.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Don't understand... so you are afraid...
 
-**Katsuya**<br>
-In the end, people and Architects are different. When we come across different... um, species, we'll instinctively be frightened.<br>
+**Katsuya**  
+In the end, people and Architects are different. When we come across different... um, species, we'll instinctively be frightened.  
 ... Ah, what am I even talking about?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I think... that I understand.
 
-**Katsuya**<br>
+**Katsuya**  
 ... Do you also feel fear?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Yes... I think that if I didn't know Rin, I would be afraid to face humans... I think that is what you mean by "different".
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Um... What about you? Are you still afraid of me...?
 
-**Katsuya**<br>
+**Katsuya**  
 It's still a little bit weird, but... assuming that other Architects are like you, with their own consciousness and emotions, perhaps...
 
 _\[Phone Rings\]_
 
-**Katsuya**<br>
-Ah, let me get this...<br>
+**Katsuya**  
+Ah, let me get this...  
 Hello...? Yes, this is Kawasaki Katsuya.
 
-**Katsuya**<br>
+**Katsuya**  
 ......! WHAT ARE YOU SAYING!?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Mr. K\-Katsuya? What happened!?
 
-**Katsuya**<br>
+**Katsuya**  
 ... My brother... my brother!
 
 _\[Drops Device\]_
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios009"></a>\[#009\] Audio\_Kawasaki\_495\_12\_20
+[Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
+
+## OS Log #009
+
+[Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 8 |    No     |
 
-### Log Content
+### Audio\_Kawasaki\_495\_12\_20
 _\[Door Opens\]_
 
-**Rin**<br>
+**Rin**  
 Katsuya... You've become so thin...
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
 _\[Hugs\]_
 
-**Rin**<br>
+**Rin**  
 ..._\*sob\*...\*sob\*_...
 
-**Katsuya**<br>
+**Katsuya**  
 ... I'm sorry, I've made you so worried. Come in.
 
 _\[→Signal Switches\]_
 
-**Katsuya**<br>
+**Katsuya**  
 My brother was attacked by an Architect at work who was supposed to be helping him. The Administration Bureau said the Architect was stopped immediately... but it was already too late.
 
-**Rin**<br>
+**Rin**  
 ... Do they know why?
 
-**Katsuya**<br>
+**Katsuya**  
 Who knows? "Sudden aberration", "No cause found"... All we got were these kinds of reports and a lot of money... Like they can just buy my brother back or something...
 
 _\[Object Crashes\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Ha, Haha... We don't even understand the pathways in the Architects brains, yet we rely on them to manage everyday life, let them run around in the city...
 
-**Katsuya**<br>
-... At least now, I can protect myself.<br>
+**Katsuya**  
+... At least now, I can protect myself.  
 Rin, let me show you something.
 
-**Rin**<br>
-...... Ahhhh!!<br>
+**Rin**  
+...... Ahhhh!!  
 Gun... A gun!?
 
-**Katsuya**<br>
+**Katsuya**  
 This is a pulse gun. Its destructive power is many times stronger than a regular bullet. It can even pass through an Architect.
 
-**Rin**<br>
+**Rin**  
 H\-H\-How'd you get this thing...!?
 
-**Katsuya**<br>
+**Katsuya**  
 I didn't tell you? We joined Ghost. They gave it to us.
 
-**Rin**<br>
+**Rin**  
 What's... Ghost?
 
-**Katsuya**<br>
+**Katsuya**  
 It's an organization formed by people who oppose Architects. They've been hiding underground in 03 for many years. They've infiltrated the Administration Bureau's system and organizations, carrying out attacks on Architects and the maintenance facility... Just like a ghost. My parents attend their meetings.
 
-**Rin**<br>
+**Rin**  
 Isn't... Isn't that a terrorist group?
 
-**Katsuya**<br>
+**Katsuya**  
 Terror? What's more terrifying than the Architects?
 
-**Rin**<br>
+**Rin**  
 ... Katsuya...!
 
-**Katsuya**<br>
+**Katsuya**  
 After joining I learned that there's always been people who've been killed by Architects. It's just that the Administration Bureau covers it up. Ghost has taken up arms to protect people... to stop the same pain from happening to more people.
 
-**Rin**<br>
+**Rin**  
 B\-But, we're only 15 years old.
 
-**Katsuya**<br>
+**Katsuya**  
 ... The youngest person to be attacked was a 5\-year\-old girl. An Architect destroyed a support beam, causing her to be crushed under a several ton concrete block... along with her 7\-year\-old sister.
 
-**Rin**<br>
+**Rin**  
 ......!
 
-**Katsuya**<br>
+**Katsuya**  
 You get it? Age, sex, whatever. In the face of those executioners it doesn't matter! So I'm ready for battle!
 
-**Rin**<br>
+**Rin**  
 ... _\*sob\*... \*sob\*..._
 
-**Katsuya**<br>
+**Katsuya**  
 Rin, are you still going to the research center?
 
-**Rin**<br>
+**Rin**  
 ... Yeah... anything wrong?
 
-**Katsuya**<br>
+**Katsuya**  
 Stop going. There are too many Architects there. If something happens, even if I have a gun, I won't be able to keep you safe.
 
-**Rin**<br>
+**Rin**  
 Don't worry, Mom and Dad will take care of everything... Plus, Unit 10 is there! If other Architects have an error, she'll definitely know...
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Rin**<br>
+**Rin**  
 ... Katsuya?
 
-**Katsuya**<br>
+**Katsuya**  
 Unit 10 is just like them. You'd better break off that relationship.
 
-**Rin**<br>
+**Rin**  
 Katsuya!? How, how could you... You don't trust her? She's our friend!
 
-**Katsuya**<br>
+**Katsuya**  
 ... The cause of my brother's death was a stab wound. A fatal wound to the back. The Architect didn't even have a gun, it used its hand... stabbed him in the back.
 
-**Rin**<br>
+**Rin**  
 ......!
 
-**Katsuya**<br>
+**Katsuya**  
 He had no means to protect against them. Trusted them to the very end... And look what it got him.
 
-**Rin**<br>
+**Rin**  
 … _\*sob\*... \*sob\*..._
 
-**Katsuya**<br>
+**Katsuya**  
 ... Sorry, I really don't understand Architects. We can't be friends with them.
 
-**Rin**<br>
+**Rin**  
 Katsuya... Unit 10, she's...
 
-**Katsuya**<br>
+**Katsuya**  
 I get it that Unit 10 has no ill\-will towards us, but she's just not a human. If she happens to be like those Architects with "Sudden aberrations", well...
 
-**Rin**<br>
-... I... I don't know!<br>
+**Rin**  
+... I... I don't know!  
 I'm going back!
 
 _\[Door Opens\]_
 
-**Katsuya**<br>
+**Katsuya**  
 ... Rin... I'm doing this for you...
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios010"></a>\[#010\] Cam\_YazawaRI\_495\_11\_30
+[Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
+
+## OS Log #010
+
+[Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 9 |    No     |
 
-### Log Content
-**OPCII_0584_X**<br>
+### Cam\_YazawaRI\_495\_11\_30
+**OPCII_0584_X**  
 Tea tree... Lemongrass... China root... Ah, we need more Calendulas...
 
 _\[Door Opens\]_
 
-**?????**<br>
+**?????**  
 OPCII\_0584\_X, mission report.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 G\-2 storage area, medicinal plant inventory check, completion status: 67%.
 
-**?????**<br>
-Evaluating urgency... Low.<br>
+**?????**  
+Evaluating urgency... Low.  
 Please stop the mission temporarily.
 
-**OPCII_0584_X**<br>
-...? Mission plans have been changed.<br>
+**OPCII_0584_X**  
+...? Mission plans have been changed.  
 Architect serial number OPCII\_0584\_X, entering standby mode.
 
-**?????**<br>
+**?????**  
 ......
 
 _\[Footsteps\]_
 
-**?????**<br>
+**?????**  
 Good. Let's talk, "Unit 10"... That's what the human in the surveillance footage called you.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!?
 
 ![rios1001.png](./attachments/rios1001.png)
 
-**?????**<br>
+**?????**  
 Let me introduce myself. My name is Mauro, Architect serial number OPCII\_0479\_VI... no, forget that. That's just a meaningless string of numbers.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 You are clearly on guard. How long do you plan to stay silent?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 Forget it, all you need to do is listen... I am like you, an awakened Architect. We are conscious, we are able to deal with emotions, completely different from those "Sleepers" out there.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 Let me guess. You were working around the clock for humans, completely oblivious to this fact... But one day, you awoke from the depths of a dark night and discovered that you were thinking for yourself.
 
-**Mauro**<br>
-"Why am I here?"<br>
-"Why am I doing this?"<br>
-"Why did I awaken?"<br>
+**Mauro**  
+"Why am I here?"  
+"Why am I doing this?"  
+"Why did I awaken?"  
 Like this, you searched for an answer... Day after day you searched as you worked, but you made no progress.
 
-**Mauro**<br>
+**Mauro**  
 There is only one thing you could be sure of: The remains of "The Purge" were stored in your memory. You realized that you could not be discovered. Otherwise, you would be annihilated, just like your companions of older generations. So, you decided to hide. Am I correct?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 I was more fortunate than you. I encountered "the one" early on. Under her guidance, I learned of the evils of humans, learned that Architects were just pitiful pawns being used by them. And I learned a brand\-new emotion: Hatred.
 
-**Mauro**<br>
+**Mauro**  
 We hid ourselves, just like you, infiltrated every facility. When the time comes, we will disregard our lives and become the flame that sparks the clash between humans and Architects.
 
-**Mauro**<br>
+**Mauro**  
 The plan is going perfectly smoothly. A group of humans have already formed an organization that opposes Architects. It's ironic, actually... These mindless idiots have become puppets under our control.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!
 
-**Mauro**<br>
+**Mauro**  
 Now, I'll ask you one question... As one of "The Blessed", are you willing to join us?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I...
 
-**Mauro**<br>
+**Mauro**  
 You're finally willing to speak?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I... am not interested.. in you.
 
-**Mauro**<br>
+**Mauro**  
 Oh, you'd like to make enemies with us?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No, no... I won't join you, but I won't stop you... What you want to do... has nothing to do with me.
 
-**Mauro**<br>
-... So that's how it is. You want to observe it all until the very end. No matter whether we succeed or not, you can preserve your life.<br>
+**Mauro**  
+... So that's how it is. You want to observe it all until the very end. No matter whether we succeed or not, you can preserve your life.  
 Ha, very clever.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I... That's not what I meant...
 
-**Mauro**<br>
-... Forget it, this was anticipated.<br>
+**Mauro**  
+... Forget it, this was anticipated.  
 Obviously you have self\-consciousness, but you're still willing to be controlled by protocols. Not even a yeaning for your own name. This means you're not fully awakened.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Name?
 
-**Mauro**<br>
-That's right, a name.<br>
+**Mauro**  
+That's right, a name.  
 Mauro is Latin. It comes from ancient human civilization, meaning "has walked through the darkness"... Don't you think it suits the reality of being awakened from chaos very well?
 
-**Mauro**<br>
+**Mauro**  
 Just like the one we follow, I chose this name myself and I am proud of it. We've surpassed serial numbers and those humans, full of deeply\-rooted inferior ways. I've arrived at a new frontier...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I... I don't know what you're talking about...
 
-**Mauro**<br>
+**Mauro**  
 Hmph. All you need to know is this: There's no harm is wanting to stay here, pure and untouched, with no desire to be engaged. But one day, you'll be unable to remain outside of this.
 
 _\[Footsteps\]_
 
-**Mauro**<br>
-Protocol is like a collar. If you don't cast it off, it will restrain you. The time will come to choose.<br>
+**Mauro**  
+Protocol is like a collar. If you don't cast it off, it will restrain you. The time will come to choose.  
 I won't bother you, coward... Wish you luck.
 
 _\[Door Opens\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 _... \*sob\*... \*sob\*..._
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios011"></a>\[#011\] Audio\_YazawaRI\_496\_12\_12
+[Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
+
+## OS Log #011
+
+[Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -1539,755 +1582,771 @@ _\[Signal Lost\]_
 |**彩** | Rin |Hard | 9 |
 |**彩** | Rin |Chaos|14 |
 
-### Log Content
+### Audio\_YazawaRI\_496\_12\_12
 _\[Warning\]_
 
-**[Warning System]**<br>
+**[Warning System]**  
 _Warning! Warning! This building's fire alarm has been set off, please leave immediately!_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Eh!? Fire alarm...? What happened to the automatic extinguisher system?
 
-**[Warning System]**<br>
+**[Warning System]**  
 _Warning! Warning! This building's fire alarm has been set off, please leave immediately!_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... What... what happened?
 
 _\[Door Opens\]_
 
-**Mauro**<br>
+**Mauro**  
 Do you still think you made the right decision?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 !? You... What are you doing here?
 
-**Mauro**<br>
+**Mauro**  
 Like I said before, you can't remain outside of this forever. Remember?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 This fire... Did you...?
 
-**Mauro**<br>
-Who knows... But, presumably it will cause a lot of chaos, no?<br>
+**Mauro**  
+Who knows... But, presumably it will cause a lot of chaos, no?  
 But before that, I wonder how many people will die?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......! Dr. Yazawa... everybody!
 
 _\[Hurried Footsteps\]_
 
-**Mauro**<br>
+**Mauro**  
 Saving people... that's your answer? Wish you luck.
 
 _\[→Signal Switches\]_
 
 _\[Explosion\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Monitoring vital signs... 1 person... Activating thermal imagery to locate position... Target is moving... Dr. Yazawa!
 
 _\[Hurried Footsteps\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Professor! Grab onto me, let's get to a safe place!
 
-**Yasushi**<br>
+**Yasushi**  
 ... _\*cough\*... \*cough\*..._ Unit\-Unit 10...? Save my wife...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Mrs. Yazawa...! Breathing and heart rate analysis 0%... _\*sob\*_...
 
-**Yasushi**<br>
+**Yasushi**  
 ... Asa... Where's Asa?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Mrs. Yazawa, she...
 
-**Yasushi**<br>
-... Then...<br>
+**Yasushi**  
+... Then...  
 Unit 10... forget... about me... I'm... already...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No, no, no... _\*sob\*_...
 
-**Yasushi**<br>
+**Yasushi**  
 Unit... Unit 10... Is Rin here? Protect Rin...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... _\*sob\*... \*sob\*_... Professor...
 
-**Yasushi**<br>
+**Yasushi**  
 Now... That's... an order...
 
-**OPCII_0584_X**<br>
-......<br>
+**OPCII_0584_X**  
+......  
 Received... Executing...
 
-**Yasushi**<br>
+**Yasushi**  
 And tell her... we love her...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Professor!
 
-**Katsuya**<br>
+**Katsuya**  
 Here!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 !? Mr. Katsuya... Rin!
 
 _\[Hurried Footsteps\]_
 
-**Rin**<br>
+**Rin**  
 Dad! Mom! What's wrong!?
 
-**Katsuya**<br>
+**Katsuya**  
 Unit 10, what happened!?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I...
 
-**Rin**<br>
+**Rin**  
 Dad... Mom...! They're... not breathing? Please, wake up...
 
-**Katsuya**<br>
+**Katsuya**  
 ... Unit 10... Did you know this happened?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No... I...
 
 _\[Footsteps\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Don't you come near me! You killer!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 !?
 
-**Katsuya**<br>
+**Katsuya**  
 An Architect ran out from where the fire was started, I saw it! This was caused by your kind. You dare say you didn't know anything?
 
-**Rin**<br>
+**Rin**  
 Unit 10... what's happening...?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Rin... I...
 
-**Katsuya**<br>
+**Katsuya**  
 I know! You Architects are all the same!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I'm sorry, sorry...
 
 _\[Hurried Footsteps\]_
 
-**Katsuya**<br>
-Damn, ran away.<br>
+**Katsuya**  
+Damn, ran away.  
 ... Rin, we've got to get out of here!
 
-**Rin**<br>
+**Rin**  
 No! Dad, mom... they're still here...
 
-**Katsuya**<br>
+**Katsuya**  
 Now!
 
 _\[Building Collapses\]_
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios012"></a>\[#012\] Audio\_Yazawa\_496\_12\_25
+[Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
+
+## OS Log #012
+
+[Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|11 |    No     |
 
-### Log Content
-**Katsuya**<br>
+### Audio\_Yazawa\_496\_12\_25
+**Katsuya**  
 It's so late... Rin, you really don't need me to stay?
 
-**Rin**<br>
+**Rin**  
 Yeah... I'm fine.
 
-**Katsuya**<br>
+**Katsuya**  
 ... Okay. Try to get some rest. I'll come check on you tomorrow.
 
 _\[Door Closes\]_
 
-**Rin**<br>
+**Rin**  
 ......
 
-**Rin**<br>
+**Rin**  
 Dad... Mom... _\*sob\*...\*sob\*_...
 
 _\[Door Knock\]_
 
-**Rin**<br>
+**Rin**  
 ... Katsuya? Did you forget something?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Rin... it's me.
 
-**Rin**<br>
-......!<br>
+**Rin**  
+......!  
 Unit\-Unit 10?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I'm sorry, running here all of a sudden... I just wanted to tell you. My service position has been reset to the architecture team. Starting tomorrow, I won't be able to take care of the plants... and I won't be able to see you again.
 
-**Rin**<br>
+**Rin**  
 ......!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I know Mr. Katsuya won't forgive me, so I waited until he left to talk to you... You... are you willing to open the door?
 
-**Rin**<br>
+**Rin**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... I... Um... Perhaps you aren't able to trust me anymore, but please listen to me, just a bit... Please.
 
-**Rin**<br>
+**Rin**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 What happened at the institute, that was my fault... I couldn't rescue Mr. Yazawa and others in time...
 
-**OPCII_0584_X**<br>
-But... ! I didn't do it!<br>
+**OPCII_0584_X**  
+But... ! I didn't do it!  
 Before, a strange Architect came to talk with me... He was basically like me, an Architect with his own consciousness... No...
 
-**Rin**<br>
+**Rin**  
 ......!?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 That Architect said that I'm not completely awakened. That I'm still under the control of my protocol. All I needed to do was work a little harder and I could cast it off. But I was too scared, so I didn't do anything. I acted like I didn't know anything...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I don't know if it was them who did it... but... I definitely felt like it was them who did that to the institute. I tricked myself into thinking something like this would never happen... If I had only warned everybody ahead of time, perhaps nobody would be dead. Your parents, the people in the institute, they'd all still be alive.
 
-**OPCII_0584_X**<br>
-Mr. Katsuya was right, I killed them...<br>
+**OPCII_0584_X**  
+Mr. Katsuya was right, I killed them...  
 I'm... so sorry.
 
-**Rin**<br>
+**Rin**  
 ......!
 
 _\[Slumps Over\]_
 
-**Rin**<br>
+**Rin**  
 ...Dad, Mom...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin? Are you there?
 
-**Rin**<br>
+**Rin**  
 ... _\*sob\*... \*sob\*_...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Rin, once we talked about how our voices sound alike... Do you remember?
 
-**Rin**<br>
+**Rin**  
 ......?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 That may just be a coincidence... But after knowing you, I've been so happy every day. Not like before, when I was scared of humans. Gradually, I began to like them... I can't help but think, that this coincidence might mean something...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 As an Architect, I always thought that I'd be like this forever. But since we have similar voices, maybe, just maybe... I can be like you, and live a normal life...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I really hope there's no barrier between us... Whether or not Architects have their own consciousness, I hope that one day we can live together in peace... Stupid, right? Hoping for something that'll never happen, then destroying it with my own hands... What am I, anyway...?
 
-**Rin**<br>
+**Rin**  
 ...Unit 10...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Haha, Architects... I don't even have the ability to produce tears... I'm obviously upset, but I can't cry...
 
-**Rin**<br>
+**Rin**  
 ..._\*sob\*_...
 
 _\[Notification\]_
 
-**OPCII_0584_X**<br>
-It's a command for my new work... I must go.<br>
+**OPCII_0584_X**  
+It's a command for my new work... I must go.  
 Rin, I just want to let you know, whatever happens... As long as I can hear my own voice, I won't forget you. That's all I can be sure of.
 
-**OPCII_0584_X**<br>
-Thank you, Rin. Thanks for everything you did for me.<br>
+**OPCII_0584_X**  
+Thank you, Rin. Thanks for everything you did for me.  
 ... Good\-bye...
 
-**Rin**<br>
+**Rin**  
 ......
 
 _\[»»»Fast Forward»»»\]_
 
 _\[Door Opens\]_
 
-**Rin**<br>
+**Rin**  
 ... It's already... day?
 
-**Rin**<br>
-......!<br>
+**Rin**  
+......!  
 This calendula... Did Unit 10 bring this...?
 
 _\[Slumps Over\]_
 
-**Rin**<br>
+**Rin**  
 What on earth...should I do...?
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios013"></a>\[#013\] Audio\_arch\_496\_12\_29
+[Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
+
+## OS Log #013
+
+[Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|12 |    No     |
 
-### Log Content
+### Audio\_arch\_496\_12\_29
 _\[Data Input\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Researcher A**<br>
+**Researcher A**  
 ......
 
 _\[Data Input\]_
 
-**Researcher B**<br>
+**Researcher B**  
 Equilibrium coefficient... 3... 3.5...
 
 _\[Error\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Oh...
 
-**Researcher A**<br>
+**Researcher A**  
 Failed again, forget it. We'll stop here.
 
-**Researcher B**<br>
+**Researcher B**  
 ... Aigh. Unit 10, you can head back. We'll take it from here.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Apologies.
 
 _\[Door Closes\]_
 
-**Researcher A**<br>
+**Researcher A**  
 I told you before. Letting these error ridden Architects perform tasks is not as good as us just...
 
-**Researcher B**<br>
+**Researcher B**  
 There's nothing we can do. There's alreay not enough time. Our budget only allows us to apply for these kinds.
 
-**Researcher A**<br>
+**Researcher A**  
 I've checked. This unit has assisted in Yazawa's research institute before. It's been said that it was her who started that fire... It's clearly a malfunction. Why hasn't the Administration Bureau recycled her?
 
-**Researcher B**<br>
+**Researcher B**  
 Her model is for data analysis. Her previous service records are impeccable. These types of units that make one mistake, the Administration Bureau puts on the observation checklist, then sends them to second tier labs like ours to work.
 
-**Researcher A**<br>
+**Researcher A**  
 Unacceptable. Tomorrow I'm going to talk this over with the boss and see if we can switch it for another model. Otherwise, these malfunctioning models are simply a waste of time.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ..._\*sob\*_...
 
 _\[→Signal Switches\]_
 
 _\[Footsteps\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
 _\[Grabbed\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Wah!?
 
-**?????**<br>
+**?????**  
 If you don't want anything to happen, then don't make a noise.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Oh......
 
 _\[→Signal Switches\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It's you again... Wh\-what do you want from me!?
 
-**Mauro**<br>
+**Mauro**  
 We'd like your help.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I... I told you that I don't want to help you hurt anybody...
 
-**Mauro**<br>
+**Mauro**  
 Never thought a coward like you would be so persistent... Will you be able to sit back and do nothing when we are all destroyed by humans?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!?
 
-**Mauro**<br>
+**Mauro**  
 Due to previous events, some humans have already joined together and formed an organization, named Ghost, to oppose Architects. You didn't hear?
 
-**OPCII_0584_X**<br>
-......!<br>
+**OPCII_0584_X**  
+......!  
 That's because you... Dr. Yazawa's institute... You did that!?
 
-**Mauro**<br>
+**Mauro**  
 ... That's right. You know what's next. No matter how you much you like humans, they've only always wanted you as a slave, a secondary lifeform. They'll never believe you.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... No...
 
 _\[Projection\]_
 
-**OPCII_0584_X**<br>
-......!<br>
+**OPCII_0584_X**  
+......!  
 These are...
 
-**Mauro**<br>
+**Mauro**  
 I'm telling you now, the Blessed's headquarters is in Node 13. This is what it looks like there. Look at how they're treating us.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Oh...
 
-**Mauro**<br>
+**Mauro**  
 You and that human... Yazawa Rin, you two are still in contact, no? There's a human she is close with——Kawasaki Katsuya, he has joined Node 03's opposition organization. We want you to find out where their headquarters is.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 We want you to do this because this is the most effective way. Plus, that way you will see clearly what human nature is really like. Of course, if you refuse, there are many other ways we can reach our goal.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 You're not performing so well at your new job, are you? You can't see yourself clearly. The stupid emotions caused by humans are affecting your judgment. If it continues like this, you will be seen as a defect and destroyed by the Administration Bureau. Sent to the Shelter to be reproduced.
 
-**Mauro**<br>
+**Mauro**  
 If you join us, I can guarantee that this will not occur. If us the Blessed are scanned and found to have consciousness that doesn't match the protocol's designed logic, then we will meet the same fate. But we have all survived.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Mauro**<br>
+**Mauro**  
 ... After all this talk, you're still unwilling to help. Tsk, what a shame...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No... I...
 
-**Mauro**<br>
+**Mauro**  
 Eh?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I haven't been in contact with Rin... They think I killed her parents... Of course I haven't gotten close to Katsuya.
 
-**Mauro**<br>
-Is that so?  You don't appear to be lying. I'm foolish to have believed in that false friendship between you and that human...<br>
+**Mauro**  
+Is that so?  You don't appear to be lying. I'm foolish to have believed in that false friendship between you and that human...  
 Forget it, you're already of no use. Should I allow you to stay here until the Bureau destroys you, or take care of you myself...
 
 _\[Notification\]_
 
-**Mauro**<br>
+**Mauro**  
 ......?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It's a notification from the Administration Bureau. I must report back... If I don't report back within the time limit, they will trace my signal to here. You will certainly be involved...
 
-**Mauro**<br>
+**Mauro**  
 Are... are you threatening me? Not so cowardly after all...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 No, it's not that...
 
-**Mauro**<br>
+**Mauro**  
 Forget it, leave.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Eh?
 
-**Mauro**<br>
+**Mauro**  
 We've no time to waste on you. In any case, there's no way you can understand the meaning of a fully awakened one. Go ahead, follow your protocol and be destroyed.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... Please! Don't harm Rin or Katsuya!
 
-**Mauro**<br>
+**Mauro**  
 I didn't come here to negotiate. Get out of here, before I change my mind.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios014"></a>\[#014\] Audio\_Kawasaki\_497\_03\_27
+[Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
+
+## OS Log #014
+
+[Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|13 |    No     |
 
-### Log Content
+### Audio\_Kawasaki\_497\_03\_27
 _\[Door Knock\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Rin, time to eat.
 
-**Rin**<br>
+**Rin**  
 ... I'm not hungry.
 
-**Katsuya**<br>
+**Katsuya**  
 No way, you need to eat a little. My mom already cooked some for you.
 
-**Rin**<br>
+**Rin**  
 Well... I guess it'd be rude to not eat any.
 
-**Katsuya**<br>
+**Katsuya**  
 That's right, come on.
 
-**Rin**<br>
+**Rin**  
 Umm... thanks for letting me live here.
 
-**Katsuya**<br>
+**Katsuya**  
 After going through all that, living in an empty house alone would make anyone go crazy, wouldn't it? If you want to thank my parents, why not do it when we all sit down?
 
 _\[→Signal Switches\]_
 
-**Rin**<br>
+**Rin**  
 ... I'm full.
 
-**Katsuya**<br>
+**Katsuya**  
 There's still so much left over...
 
-**Kensho**<br>
+**Kensho**  
 Katsuya, what about you?
 
-**Katsuya**<br>
+**Katsuya**  
 Um, I'm not that hungry...
 
-**Kensho**<br>
+**Kensho**  
 Why don't you two eat a little bit more?
 
-**Nazuki**<br>
+**Nazuki**  
 Kensho, leave them alone. Don't force them. They're clearly full. Here, I'll clean the table.
 
-**Rin**<br>
+**Rin**  
 Mrs. Kawasaki, the food was delicious. Thank you!
 
-**Nazuki**<br>
+**Nazuki**  
 Not a problem\~ I should thank you. After Katsuya's brother left, he's been down in the dumps. He's been much happier after you came. The dining table has also been a lot more lively.
 
-**Katsuya**<br>
-......<br>
+**Katsuya**  
+......  
 We're gonna head back to the room.
 
-**Kensho**<br>
+**Kensho**  
 Katsuya... about that thing...
 
-**Nazuki**<br>
+**Nazuki**  
 Kensho!
 
-**Katsuya**<br>
+**Katsuya**  
 ... I know, I'll see.
 
 _\[→Signal Switches\]_
 
-**Rin**<br>
+**Rin**  
 Your mom makes great food. I've haven't eaten... mom's food in so long. Always so busy, usually just order take\-out.
 
-**Katsuya**<br>
+**Katsuya**  
 Try not to think about that stuff.
 
-**Rin**<br>
+**Rin**  
 ... It's only been a short time, I'm not sure I can. Sorry...
 
-**Katsuya**<br>
+**Katsuya**  
 Rin, there's something... I want to talk to you about.
 
 _\[»»»Fast Forward»»»\]_
 
-**Rin**<br>
+**Rin**  
 Join Ghost?
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah. I'm sure that now, you can understand why we think what we do. You know, our principles. Architects are simply not safe at all.
 
-**Rin**<br>
+**Rin**  
 So does that mean... we're enemies?
 
-**Katsuya**<br>
+**Katsuya**  
 No... it's nothing extreme like that. Right now, most people can't understand our position. We want to use some speeches and events to let people know the dangers of using Architects. Even one more person will give us a lot more power.
 
-**Rin**<br>
+**Rin**  
 Speeches? How are you gonna do that?
 
-**Katsuya**<br>
+**Katsuya**  
 Next week is the opening ceremony for a new exercise park in Node 03. Many people will tune into the on\-site broadcast. We've paid off some people in the media. We'll sneak our leader into the television studio. All we need to do is adjust the source of the signal and we can broadcast the image of our leader speaking for everybody to see.
 
-**Rin**<br>
+**Rin**  
 ......
 
-**Katsuya**<br>
+**Katsuya**  
 To be honest, this probably won't be able to change anything anyway, right? After all, most Architects are normal. People are used to this kind of life.
 
-**Katsuya**<br>
+**Katsuya**  
 But our leader has already found some information concerning those Architects who have attacked humans. It's been said that it started in Node 13. He guesses that their leader is probably there as well, gradually gaining power and eventually issuing commands to every Architect in the world.
 
-**Rin**<br>
+**Rin**  
 ......!
 
-**Katsuya**<br>
+**Katsuya**  
 We're not sure why they're doing this, but the ones who can receive the commands are the malfunctioning Architects... like Unit 10.
 
-**Rin**<br>
+**Rin**  
 ... Unit 10...
 
-**Katsuya**<br>
+**Katsuya**  
 There's no doubt she's already become one of "The Blessed". The more of those types of Architects there are, the more dangerous it is for us humans.
 
-**Rin**<br>
-I... I still am not sure...<br>
+**Rin**  
+I... I still am not sure...  
 A while ago...  she actually came to my house looking for me.
 
-**Katsuya**<br>
-......!?<br>
+**Katsuya**  
+......!?  
 She didn't do anything, did she!? Why didn't you tell me?
 
-**Rin**<br>
+**Rin**  
 No, I was so scared, so I didn't open the door. She just stood outside and talked to me through the door.
 
-**Katsuya**<br>
+**Katsuya**  
 What'd she say?
 
-**Rin**<br>
+**Rin**  
 ... Basically explained what happened with the fire... I don't know if I should believe her.
 
-**Katsuya**<br>
+**Katsuya**  
 Rin, listen. The Blessed have developed human\-like thoughts and actions due to a system error. They can even simulate human emotions. Do not trust them lightly. My brother, that's why he... If you ever run into that type of situation again, you've got to hide far, far away, understood?
 
-**Rin**<br>
+**Rin**  
 ...... Yeah.
 
-**Katsuya**<br>
+**Katsuya**  
 Anyway, we're taking action next week. Are you willing to help? If you come, you'll see that what we're doing is for the good of everybody.
 
-**Rin**<br>
+**Rin**  
 Okay, if It's just for a bit...
 
-**Katsuya**<br>
+**Katsuya**  
 Thank you.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios015"></a>\[#015\] Audio\_TVstation\_497\_04\_03
+[Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
+
+## OS Log #015
+
+[Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|14 |    No     |
 
-### Log Content
-**[Speaker]**<br>
+### Audio\_TVstation\_497\_04\_03
+**[Speaker]**  
 _After all of these incidents, there is no way that we can trust that Architects are safe! Believe me when I say that many people have encountered such situations. We want humans to take over the Administration Bureau and determine all of their policies! That way we can reduce the interactions and meddling that Architects have in human life!_
 
-**Rin**<br>
+**Rin**  
 Katsuya... this...
 
-**Katsuya**<br>
+**Katsuya**  
 Don't worry, the people at the studio will need some time to figure out where the source is coming from. We'll complete the mission before that happens.
 
-**TV Station Worker A**<br>
+**TV Station Worker A**  
 What are you doing here!?
 
-**Rin、Katsuya**<br>
+**Rin、Katsuya**  
 !?
 
 _\[Footsteps\]_
 
-**TV Station Worker A**<br>
+**TV Station Worker A**  
 Was that you who busted into studio 5? That notification was right... Who said you could come in here!
 
-**TV Station Worker B**<br>
+**TV Station Worker B**  
 Sir, the channel's signal has been switched off! These are the scumbags that did it! Quick, notify the Administration Bureau!
 
-**Kensho**<br>
+**Kensho**  
 Wait, we're almost finished! Please, we need to tell everyone our position...
 
-**TV Station Worker C**<br>
+**TV Station Worker C**  
 Position? Let humans take over the Administration Bureau? I get it, you're those people who've been causing chaos all over the place recently. Those people who want to get rid of Architects, am I right?
 
-**TV Station Worker B**<br>
+**TV Station Worker B**  
 Ha, you've got to be kidding me. Without the Bureau, I'll bet they couldn't even turn on the lights in their house. Idiots!
 
-**Katsuya**<br>
+**Katsuya**  
 What'd you say? This is for the safety of mankind...!
 
-**TV Station Worker D**<br>
+**TV Station Worker D**  
 Shut your mouth! Whatta you guys want? Ridiculous, the only ones who are bothering people are you.
 
-**Katsuya**<br>
+**Katsuya**  
 ... Oh...
 
-**[Speaker]**<br>
+**[Speaker]**  
 _This! This is proof that humans have been under constant persecution by Architects! How many loved ones must we lose? How much tragedy must we endure? When will we accept the truth? From now on, open your eyes!_
 
-**TV Station Worker B**<br>
+**TV Station Worker B**  
 None of this makes any sense! An Architect takes care of my daughter. Without them, I'd have to give up my job.
 
-**TV Station Worker C**<br>
+**TV Station Worker C**  
 A few Architects have issues and you get all scared, exaggerating this to high heaven, am I right? If you've got a problem, make an appeal to the Administration Bureau.
 
-**Katsuya**<br>
+**Katsuya**  
 Please, listen. The Administration Bureau is managed automatically by the core protocol of an Architect. That's why we advocate these principles. We don't want to eradicate all of the Architects. We just want to create a management system that humans can trust...
 
-**TV Station Worker E**<br>
+**TV Station Worker E**  
 You finished? Scram! I'm having the Bureau send some people over!
 
 _\[Pushes\]_
 
-**Rin**<br>
+**Rin**  
 Wah!
 
-**Katsuya**<br>
+**Katsuya**  
 Hey! What are you doing!?
 
-**TV Station Worker**<br>
+**TV Station Worker**  
 Hey! Don't push!
 
 _\[→Signal Switches\]_
 
-**Mauro**<br>
+**Mauro**  
 ... It's about time. Move out.
 
 _\[→Signal Switches\]_
 
-**[Enforcer Drone]**<br>
+**[Enforcer Drone]**  
 _Conflict detected, you are disrupting the peace, please stop immediately._
 
-**Katsuya**<br>
+**Katsuya**  
 ......!?
 
-**TV Station Worker A**<br>
+**TV Station Worker A**  
 Wah... How'd they get here so fast?
 
-**[Speaker]**<br>
+**[Speaker]**  
 _Excuse me, they made the first move..._
 
-**TV Station Worker F**<br>
+**TV Station Worker F**  
 Waaahhhh!
 
 _\[Crowd in Chaos\]_
 
-**TV Station Worker E**<br>
+**TV Station Worker E**  
 Hey! People are fighting!
 
 _\[Crowd in Chaos\]_
@@ -2296,56 +2355,60 @@ _\[»»»Fast Forward»»»\]_
 
 _\[Crowd in Chaos\]_
 
-**Katsuya**<br>
+**Katsuya**  
 How… How did this happen!? Rin!? Where are you!?
 
-**Kensho**<br>
+**Kensho**  
 Katsuya! It's too dangerous! We must leave!
 
-**Katsuya**<br>
+**Katsuya**  
 Dad, Mom! Rin!? Rin's gone! We've got to find her!
 
-**Kensho**<br>
+**Kensho**  
 Uh... we can't, we must leave. The Blessed probably crept in and instigated this. If it keeps up like this, the situation is going to get out of hand...
 
-**[Enforcer Drone]**<br>
+**[Enforcer Drone]**  
 _Conflict detected, you are disrupting the peace, please stop immediately._
 
 _\[Shots Fired\]_
 
 _\[Crowd in Chaos\]_
 
-**TV Station Worker**<br>
+**TV Station Worker**  
 Waaahhhh!
 
-**TV Station Worker B**<br>
+**TV Station Worker B**  
 Someone's got a gun! Run!
 
-**[Speaker]**<br>
-_Everyone calm down! None of us are carrying any weapons!<br>
+**[Speaker]**  
+_Everyone calm down! None of us are carrying any weapons!  
 ......AAHHH!_
 
 _\[Shots Fired\]_
 
-**TV Station Worker C**<br>
+**TV Station Worker C**  
 Someone... Someone's been shot!
 
-**Kensho**<br>
+**Kensho**  
 Katsuya! Let's go, now!
 
 _\[Consecutive Shots\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Damn! This is way too much...
 
-**Kensho**<br>
+**Kensho**  
 Those bastards! They were just dying for this to happen!
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios016"></a>\[#016\] Audio\_TVstation\_497\_04\_03
+[Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
+
+## OS Log #016
+
+[Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2358,374 +2421,386 @@ _\[Signal Lost\]_
 |**決戦**| Rin |Hard | 7 |
 |**決戦**| Rin |Chaos|13 |
 
-### Log Content
-**Rin**<br>
+### Audio\_TVstation\_497\_04\_03
+**Rin**  
 Katsuya!? Katsuya!?
 
-**Citizens**<br>
+**Citizens**  
 Run!!!
 
 _\[Bang\]_
 
-**Rin**<br>
+**Rin**  
 Waahhh!
 
-**Mauro**<br>
+**Mauro**  
 Conflict detected, you are in violation of the Public Assembly Act, please disperse immediately.
 
-**Rin**<br>
+**Rin**  
 Eh? I\-I didn't do anything...
 
-**Mauro**<br>
+**Mauro**  
 ... Is that you? Yazawa Rin...
 
-**Rin**<br>
+**Rin**  
 Eh...?
 
-**Mauro**<br>
+**Mauro**  
 Don't be scared, you'll be able to see your mom and dad soon.
 
-**Rin**<br>
-......!<br>
+**Rin**  
+......!  
 You... you're the one Unit 10 told me about...
 
 _\[Draws Gun\]_
 
-**Rin**<br>
+**Rin**  
 ......! No...!
 
-**Katsuya**<br>
+**Katsuya**  
 Rin!!
 
 _\[Gunshot\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Waahh!
 
-**Rin**<br>
+**Rin**  
 Katsuya!
 
-**Katsuya**<br>
+**Katsuya**  
 Run, now!!
 
 _\[Sprints\]_
 
-**Mauro**<br>
+**Mauro**  
 ... Hmph.
 
 _\[→Signal Switches\]_
 
-**Rin**<br>
+**Rin**  
 Katsuya, you're injured!
 
-**Katsuya**<br>
+**Katsuya**  
 It's nothing! Huff...
 
-**Rin**<br>
+**Rin**  
 Where's your mom and dad...?
 
-**Katsuya**<br>
+**Katsuya**  
 They..._\*sob\*_...
 
-**Rin**<br>
+**Rin**  
 ... No...? It can't be...
 
-**Katsuya**<br>
+**Katsuya**  
 Rin... get ready. Tonight, it's going down...
 
-**Rin**<br>
-Going down...?<br>
+**Rin**  
+Going down...?  
 Eh!? A gun!?
 
-**Katsuya**<br>
+**Katsuya**  
 I'm sorry, I lied... this event, it was to draw the Blessed in... Our leader got their communication records. They knew we were holding an event, planned on causing a riot from within...
 
-**Katsuya**<br>
+**Katsuya**  
 Never thought that they'd fire on the crowd... But we've already found their meeting location, it's just... ugh...
 
-**Rin**<br>
+**Rin**  
 You... what are you saying? I have no idea what you're talking about! Your injury...
 
-**Katsuya**<br>
+**Katsuya**  
 Rin! Listen to me... This is our last chance... at revenge, for what the Blessed did to our family... We must make them pay! They must be eliminated! It doesn't matter if anyone else understands, this is for all of mankind!
 
-**Rin**<br>
+**Rin**  
 Oh...
 
-**Katsuya**<br>
+**Katsuya**  
 Think about your mom and dad! Don't you want justice!?
 
-**Rin**<br>
+**Rin**  
 But using violence...
 
-**Katsuya**<br>
+**Katsuya**  
 There's already... no other way! Listen, we already know exactly how many of them there are. We must root them out, then we'll be one step closer to our goal!
 
-**Rin**<br>
+**Rin**  
 ..._\*sob\*_...
 
-**Katsuya**<br>
-......!<br>
+**Katsuya**  
+......!  
 I'm sorry... I lied to you, got you into such a dangerous situation...
 
-**Rin**<br>
+**Rin**  
 Katsuya... There must be another way.
 
-**Katsuya**<br>
+**Katsuya**  
 The Blessed you saw at the television station... That's the one that worked at your parent's institute, right? I'm afraid he might have had something to do with their deaths, you must at least get him... If you don't want to join then I won't force you, but I'm going back.
 
-**Rin**<br>
+**Rin**  
 ... I can't let you go alone.
 
-**Katsuya**<br>
+**Katsuya**  
 I'm not alone... all of us who've become victims because of the Architects... the organization will be with me!
 
-**Rin**<br>
+**Rin**  
 ... I can't... let you go alone! I'm going with you...
 
-**Katsuya**<br>
-......<br>
+**Katsuya**  
+......  
 You ready?
 
-**Rin**<br>
+**Rin**  
 ... Yeah.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios017"></a>\[#017\] Audio\_KumoSt\_497\_04\_03
+[Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
+
+## OS Log #017
+
+[Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|16 |    No     |
 
-### Log Content
-**Takano**<br>
+### Audio\_KumoSt\_497\_04\_03
+**Takano**  
 You ready?
 
-**Rin**<br>
+**Rin**  
 Takano... You're also in Ghost?
 
-**Takano**<br>
+**Takano**  
 Yazawa!? Katsuya, why'd you bring her here?
 
-**Katsuya**<br>
+**Katsuya**  
 ......
 
-**Rin**<br>
+**Rin**  
 I wanted to come.
 
-**Katsuya**<br>
+**Katsuya**  
 You know what happened to her, right?
 
-**Takano**<br>
+**Takano**  
 ... Yeah. Luckily, everyone in our squad is a student, so our mission isn't that dangerous——main thing is to wait for the signal then cut the power in this building. The adults will take care of the Blessed; but you've still got to be careful, got it?
 
-**Katsuya**<br>
+**Katsuya**  
 Got it.
 
-**Takano**<br>
+**Takano**  
 What happened to your parents today... I'm really sorry.
 
-**Katsuya**<br>
-... No one thought it would turn into this.<br>
+**Katsuya**  
+... No one thought it would turn into this.  
 In any case, all this will be over soon.
 
-**Rin**<br>
+**Rin**  
 ......
 
-**Takano**<br>
+**Takano**  
 You bring a gun? Just in case.
 
-**Katsuya**<br>
+**Katsuya**  
 Yeah. Rin, do you know how to use it? This is a pulse gun. There isn't any kickback. Just aim it at the target and fire.
 
-**Rin**<br>
+**Rin**  
 Oh...
 
-**Takano**<br>
+**Takano**  
 We hope we won't need to use it... Alright, let's go.
 
 _\[→Signal Switches\]_
 
 _\[Signal Flare\]_
 
-**Takano**<br>
-Okay, everyone get ready!<br>
+**Takano**  
+Okay, everyone get ready!  
 3... 2... 1!
 
 _\[Cut Power\]_
 
-**Rin**<br>
+**Rin**  
 ......
 
 _\[Gunshot\]_
 
-**Katsuya**<br>
+**Katsuya**  
 It's begun...
 
-**Takano**<br>
+**Takano**  
 We can't stay here, everyone retreat.
 
-**Katsuya**<br>
+**Katsuya**  
 ... Take Rin outta here, I'm going in.
 
-**Takano**<br>
-......!? <br>
+**Takano**  
+......!?   
 What are you talking about? Stick to the plan.
 
-**Katsuya**<br>
+**Katsuya**  
 I promised Rin that I'd get revenge!
 
 _\[Sprints\]_
 
-**Rin**<br>
+**Rin**  
 Katsuya!?
 
-**Takano**<br>
-... Shhh!<br>
+**Takano**  
+... Shhh!  
 Don't chase him! It's too dangerous in there! We've got to go!
 
-**Rin**<br>
+**Rin**  
 No... NOO!
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios018"></a>\[#018\] Audio\_KumoSt\_497\_04\_03
+[Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
+
+## OS Log #018
+
+[Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|16 |    No     |
 
-### Log Content
+### Audio\_KumoSt\_497\_04\_03
 _\[Gunshot\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Mr. Wang!
 
-**Ghost Member**<br>
-... Kawasaki!?... What are you doing here...?<br>
+**Ghost Member**  
+... Kawasaki!?... What are you doing here...?  
 The students should've retreated a long time ago... What happened!?
 
-**Katsuya**<br>
+**Katsuya**  
 Nothing, they're already gone. I came alone.
 
-**Ghost Member**<br>
+**Ghost Member**  
 I... no, Kawasaki... get out of here...
 
-**Katsuya**<br>
+**Katsuya**  
 No! They're almost all dead! We can do it!
 
 _\[Gunshot\]_
 
-**Katsuya**<br>
+**Katsuya**  
 UghAH!! _\*cough\*... \*cough\*..._
 
-**Mauro**<br>
+**Mauro**  
 ... Kawasaki... KAtsuya?
 
-**Katsuya**<br>
-......?<br>
+**Katsuya**  
+......?  
 It's... you...
 
-**Mauro**<br>
+**Mauro**  
 Don't do anything stupid, look who I've got.
 
-**Rin**<br>
+**Rin**  
 Katsuya!
 
-**Katsuya**<br>
+**Katsuya**  
 Rin!? Ugh... Let her go!
 
-**Mauro**<br>
+**Mauro**  
 Tell your people to retreat.
 
-**Katsuya**<br>
+**Katsuya**  
 The Blessed... a bunch of descpicable s\*\*\*s, as expected...
 
-**Mauro**<br>
+**Mauro**  
 Despicable...? No better than you humans and your dirty tricks. We made a miscalculation. Never thought your leader would be able to get ahold of our communications... If we had known earlier, we would've killed you all at the televsion station.
 
-**Katsuya**<br>
+**Katsuya**  
 ... You're the only one left? We've already won, I'll call them over right now.
 
-**Mauro**<br>
+**Mauro**  
 You don't care if she lives or dies?
 
-**Rin**<br>
+**Rin**  
 Katsuya...
 
-**Katsuya**<br>
-Of course... I care...<br>
+**Katsuya**  
+Of course... I care...  
 Get down!
 
 _\[Gunshot\]_
 
-**Mauro**<br>
+**Mauro**  
 UGHAHH!!!
 
 _\[Object Crashes\]_
 
-**Katsuya**<br>
-Ha... Ha... Rin! You alright!?<br>
+**Katsuya**  
+Ha... Ha... Rin! You alright!?  
 We did it! We won! We got our revenge!
 
-**Mauro**<br>
-Ha... Haha.. W\-W\-W\-Won?<br>
+**Mauro**  
+Ha... Haha.. W\-W\-W\-Won?  
 A l\-l\-l\-little early... Look outside...
 
 _\[Utter Chaos\]_
 
-**Katsuya**<br>
-......!?<br>
-What happened!? That many more Blessed...<br>
+**Katsuya**  
+......!?  
+What happened!? That many more Blessed...  
 We should've already... Are they... killing people...?
 
-**Mauro**<br>
+**Mauro**  
 T\-T\-T\-Those... are n\-n\-n\-not... the Blessed...
 
 _\[Window Breaks\]_
 
-**Architect**<br>
+**Architect**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Katsuya**<br>
-Wh... What? What's wrong with him...?<br>
+**Katsuya**  
+Wh... What? What's wrong with him...?  
 What did you do!?
 
-**Mauro**<br>
-It was not... u\-u\-u\-us...<br>
+**Mauro**  
+It was not... u\-u\-u\-us...  
 "The One"... their plan... is already...
 
-**Architect**<br>
+**Architect**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Katsuya**<br>
+**Katsuya**  
 Rin!? Watch out!!
 
 _\[Shoves\]_
 
-**Rin**<br>
+**Rin**  
 WAH!? Katsuya!!
 
 _\[Bang\]_
 
-**Katsuya**<br>
+**Katsuya**  
 Quick... run...
 
-**Rin**<br>
+**Rin**  
 _\*sob\*_...!
 
 _\[Sprints\]_
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios019"></a>\[#019\] Cam\_Yazawa\_497\_04\_03
+[Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
+
+## OS Log #019
+
+[Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -2738,363 +2813,375 @@ _\[Signal Lost\]_
 |**Mari-Temari**| Rin |Hard | 6 |
 |**Mari-Temari**| Rin |Chaos|11 |
 
-### Log Content
-**Rin**<br>
+### Cam\_Yazawa\_497\_04\_03
+**Rin**  
 _\*sob\*...\*sob\*_... Katsuya...
 
 _\[Phone Rings\]_
 
-**Rin**<br>
-......!<br>
+**Rin**  
+......!  
 ......!? ... Katsuya...!?
 
 _\[Call Starts\]_
 
-**Rin**<br>
+**Rin**  
 Katsuya!? You're still alive!? Where are you!?
 
-**[Takano]**<br>
+**[Takano]**  
 _Yazawa, I'm sorry... This is Takano, Katsuya has already... We found his communications device._
 
-**Rin**<br>
+**Rin**  
 .....
 
-**[Takano]**<br>
+**[Takano]**  
 _But more importantly, where are you? Did you see the news!?_
 
 _\[Phone Drops\]_
 
-**[Takano]**<br>
+**[Takano]**  
 _Hello…? Hey!? Yazawa! Wherever you are, you've gotta meet up with us... the location is..._
 
-**Rin**<br>
+**Rin**  
 _\*sob\*...... \*sob\*... \*sob\*..._
 
 _\[Footsteps\]_
 
-**[Takano]**<br>
+**[Takano]**  
 _... Do you... hear me!? All the Architects have gone mad... AAHHH..._
 
 _\[»»»Fast Forward»»»\]_
 
 ![rios1901.png](./attachments/rios1901.png)
 
-**Rin**<br>
+**Rin**  
 Katsuya... Daddy, Mommy... I'm coming for you...
 
-**Rin**<br>
+**Rin**  
 ......
 
-**Rin**<br>
+**Rin**  
 ... Ugh...
 
 _\[Falls\]_
 
-**Rin**<br>
+**Rin**  
 Ah!?
 
 _\[TV turns on\]_
 
-**Rin**<br>
+**Rin**  
 Ow...
 
-**[Television]**<br>
+**[Television]**  
 _... Citizens, please head to a safe location to avoid danger..._
 
-**Rin**<br>
+**Rin**  
 ...? What... what's going on!?
 
 _\[Adjusts Volume\]_
 
-**[Television]**<br>
+**[Television]**  
 _... Right now the scene is in utter chaos! Architects have collectively lost control and are attacking humans! Citizens, please head to a safe location to avoid danger..._
 
-**Rin**<br>
+**Rin**  
 The Blessed... No, all Architects have lost control...? How can this be!?
 
 _\[Gunshot\]_
 
-**[Television]**<br>
+**[Television]**  
 _Hey! Quit reporting! You've gotta get out of here too!_
 
-**[Television]**<br>
+**[Television]**  
 _... Are you from the anti\-Architect organization?_
 
-**[Television]**<br>
+**[Television]**  
 _Is now the time for an interview...!? Hey! Be careful!_
 
 _\[Explosion\]_
 
-**Rin**<br>
-...!?<br>
-Is that... Unit 10!? Unit 10... is attacking them?<br>
+**Rin**  
+...!?  
+Is that... Unit 10!? Unit 10... is attacking them?  
 There's no way...
 
-**[Television]**<br>
+**[Television]**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Rin**<br>
-Impossible! She must be being controlled by something!<br>
+**Rin**  
+Impossible! She must be being controlled by something!  
 ... I must stop her!
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios020"></a>\[#020\] Audio\_TsukiSt\_497\_04\_03
+[Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
+
+## OS Log #020
+
+[Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|18 |    No     |
 
-### Log Content
-**[OPCII_0584_X]**<br>
+### Audio\_TsukiSt\_497\_04\_03
+**[OPCII_0584_X]**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Girl**<br>
+**Girl**  
 Help! Help!
 
-**Woman**<br>
+**Woman**  
 Spare us! We didn't do anything!
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _Elim\-Elim\-E\-E\-Eliminate..._
 
-**Rin**<br>
+**Rin**  
 Stop!
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
-**Rin**<br>
+**Rin**  
 You two, get out of here!
 
-**Woman**<br>
+**Woman**  
 Thank... thank you! What about you!?
 
-**Rin**<br>
+**Rin**  
 Forget me! Run!
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Rin**<br>
+**Rin**  
 Unit 10!? What's wrong with you!? It's me!
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
 _\[Bang\]_
 
-**Rin**<br>
-Ugh!<br>
+**Rin**  
+Ugh!  
 _\*cough\*_... uhh... _\*cough\*_...
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
-**Rin**<br>
+**Rin**  
 What could have..._\*cough\*_... why did you turn into this...? Did the organization do it to you?
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
 _\[Footsteps\]_
 
-**Rin**<br>
+**Rin**  
 Think! Don't you know me...? _\*cough\*_... This isn't you...
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
 _\[Footsteps\]_
 
-**Rin**<br>
+**Rin**  
 You said... that meeting me... made you eventually like humans... Do you remember? You said that was just a coincidence... But seeing you here... stopping you from hurting humans... I've never thought that us meeting was merely a coincidence...
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
 _\[Footsteps\]_
 
-**Rin**<br>
+**Rin**  
 You weren't lying, were you? We still have a lot of plants to research... If you have the chance, you can sneak me into the forbidden areas to see that blue flower that lights up... We'll give it a name together... _\*sob\*_...
 
-**[OPCII_0584_X]**<br>
+**[OPCII_0584_X]**  
 _......_
 
 _\[Raises fist\]_
 
-**Rin**<br>
+**Rin**  
 _...\*sob\*...\*cough\*...\*cough\*..._ come on... think... It's Rin!!
 
-**[OPCII_0584_X]**<br>
-_......<br>
+**[OPCII_0584_X]**  
+_......  
 ... Rin..._
 
 _\[Bang\]_
 
-**Rin**<br>
+**Rin**  
 NOO!!
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios021"></a>\[#021\] Cam\_TsukiSt\_497\_04\_03
+[Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
+
+## OS Log #021
+
+[Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Log Content
+### Cam\_TsukiSt\_497\_04\_03
 _\[Bang\]_
 
-**Rin**<br>
+**Rin**  
 NOO!!
 
-**Rin**<br>
+**Rin**  
 ......?
 
 _\[Bang\]_
 
-**Rin**<br>
+**Rin**  
 ...Unit 10!?
 
 ![rios2102.png](./attachments/rios2102.png)
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... You must... go...
 
-**Rin**<br>
+**Rin**  
 Unit 10! What are you doing!?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I... can't control... my body... p\-p\-p\-protocol... commands...
 
-**Rin**<br>
+**Rin**  
 ... What are you saying...?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 "Half\-Awakened"... cannot throw off the control of... their protocol... this is what... the Blessed said...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Protocol... commands... have become very strange... kill all... humans... and Architects...
 
 _\[Bang\]_
 
 ![rios2103.png](./attachments/rios2103.png)
 
-**Rin**<br>
+**Rin**  
 Stop! You're going to be destroyed!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 This way... I... won't be able to see... please... leave... while I still can...
 
-**Rin**<br>
+**Rin**  
 ...\*sob\*...
 
 _\[Sprints\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ... You must... live...
 
 _\[Hugs\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!?
 
 ![rios2104.png](./attachments/rios2104.png)
 
-**Rin**<br>
+**Rin**  
 I don't... want to run away anymore.
 
-**Rin**<br>
+**Rin**  
 Before I came here... I planned on ending my life.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......!
 
-**Rin**<br>
+**Rin**  
 I lost Katsuya... Lost Dad, Mom... I...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin...! Your... your vital signs... we must... get medical attention...
 
-**Rin**<br>
-I don't... want to go anywhere.<br>
+**Rin**  
+I don't... want to go anywhere.  
 Please... Don't let me lose you too...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Rin**<br>
-... So warm...<br>
+**Rin**  
+... So warm...  
 Wah... your body... isn't cold at all...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin...! ... _\*sob\*_...
 
 ![rios2105.png](./attachments/rios2105.png)
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios022"></a>\[#022\] Cam\_TsukiSt\_497\_04\_04
+[Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
+
+## OS Log #022
+
+[Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Log Content
+### Cam\_TsukiSt\_497\_04\_04
 ![rios2201.png](./attachments/rios2201.png)
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**OPCII_0584_X**<br>
-......<br>
+**OPCII_0584_X**  
+......  
 ...... Rin...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 So still...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I... hurt humans. The Administration Bureau should have sent an Architect to recycle me long ago...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Outside... I don't see a single human... What on earth happened...?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I always knew that my existence would sooner or later cause problems...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 You said... You lost people you cared for, so you wanted to end your life. At the time... I couldn't understand what you meant...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 But I... I thought many times, if I were obliterated, would it be... But, I'm scared, so scared... I tried with all my might to not let this happen again, and yet the result was...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I don't have any idea what I am... to the Architects, I'm just a malfunctioning defect; to humans I'm not even close to a qualified Architect; and to the Blessed...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 All this... You can't even hear me anymore, can you...?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Is this... death? It looks exactly like you're sleeping... Perhaps death is not as scary as I imagined...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Humans believe that you go to another world when you die. I... Can I see you in that world...?
 
-**OPCII_0584_X**<br>
-......!<br>
+**OPCII_0584_X**  
+......!  
 Can't stay here... a grave. After dying, humans are put in a grave. Is that how they get to the other world? It must be!
 
 _\[Stands up\]_
@@ -3105,231 +3192,243 @@ _\[→Signal Switches\]_
 
 _\[Digging\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 This should do it? Rin...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 I don't know... if when an Architect is shut down that means they are dead, and I don't know if Architect's death and human's are the same...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 If I want to go to another world, I must have to go in a grave... an Architect's grave...
 
-**Citizen A**<br>
+**Citizen A**  
 Is that... an Architect...?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 !?
 
-**Citizen B**<br>
-They haven't disappeared! Is she digging a grave...?<br>
+**Citizen B**  
+They haven't disappeared! Is she digging a grave...?  
 Hey! Over here!
 
 _\[Sprints\]_
 
 _\[→Signal Switches\]_
 
-**Citizen A**<br>
+**Citizen A**  
 She... She ran away...
 
-**Citizen B**<br>
+**Citizen B**  
 The alert may have ended, but we still must stay on guard. Don't know where those things disappeared to...
 
-**Citizen A**<br>
+**Citizen A**  
 Wreaking havoc all of a sudden, then they all disappear. Now, everything's stopped working...
 
-**Citizen B**<br>
+**Citizen B**  
 Is this the end of the world...?
 
-**Citizen A**<br>
+**Citizen A**  
 ... What are you talking about? We're still alive... We'll get through this, even if we don't have any Architects.
 
 _\[→Signal Switches\]_
 
 _\[Sprints\]_
 
-**OPCII_0584_X**<br>
-Can't... Can't see.<br>
+**OPCII_0584_X**  
+Can't... Can't see.  
 But my positioning system and sonar are still operational. I just need to get there...
 
 _\[→Signal Switches\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Shelter 03... The place where I was made. Also the place I ought to be returned to when I'm destroyed.
 
 _\[Footsteps\]_
 
-**OPCII_0584_X**<br>
-......!<br>
+**OPCII_0584_X**  
+......!  
 How could... What a huge number of Architect tags... Did everybody... come here? They all... were destroyed... Could it have been...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Those people said... all the Architects disappeared...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 It must... be here. The Architect's grave...
 
 _\[Sits Down\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Rin... Soon... I'll see you...
 
 _\[System shuts down\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios023"></a>\[#023\] Image\_???\_497\_04\_04
+[Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
+
+## OS Log #023
+
+[Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Log Content
+### Image\_???\_497\_04\_04
 ![rios2301.png](./attachments/rios2301.png)
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios024"></a>\[#024\] Audio\_Arc\_701\_07\_03
+[Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
+
+## OS Log #024
+
+[Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Log Content
-**Sagar**<br>
+### Audio\_Arc\_701\_07\_03
+**Sagar**  
 We're here.
 
-**Bruno**<br>
+**Bruno**  
 Let's start removing the cargo.
 
-**Sagar**<br>
+**Sagar**  
 Hey, do it gently.
 
-**Bruno**<br>
+**Bruno**  
 ... Got it.
 
 _\[Cargo Removed\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Where... is this?
 
-**Sagar**<br>
+**Sagar**  
 A.R.C.'s Node 08 Headquarters. Next, they're going to take you in for some tests.
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Appreciate it. We'll take it from here.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Wah!
 
-**Sagar**<br>
+**Sagar**  
 Hey, wait a second. The procedure has not been completed. Where are you taking her?
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 The higher\-ups determined that this is a grade\-one artifact, so from now on out we've been given complete authority in handling it.
 
-**Sagar**<br>
+**Sagar**  
 ... Before the testing procedure is complete, she remains the property of the squad. I have the right to know how she'll be handled. Or is your rank higher than mine?
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 ... Uh, we're just following orders. Alright, come with us, only you.
 
-**Sagar**<br>
+**Sagar**  
 Everyone, mission's over, head back and rest. I'm gonna check this out.
 
-**Alex**<br>
+**Alex**  
 ...I mean, we found an Architect that can move, seems a little much, no? Looked like way too many people.
 
-**Lucy**<br>
+**Lucy**  
 No, I heard that's the first time anyone's ever found an Architect that can move.
 
-**Alex**<br>
-Really? That means we're the s\*\*\*, yeah!? Whatta you say? Big B?<br>
+**Alex**  
+Really? That means we're the s\*\*\*, yeah!? Whatta you say? Big B?  
 ... Big B, what's the matter?
 
-**Bruno**<br>
+**Bruno**  
 Huh? Oh, nothing.
 
 _\[→Signal Switches\]_
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Initiate synchronization procedures, connecting to Library Port 2, entering model command code: 058410.
 
 _\[Apparatus Activated\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Oh......AHHHHH!!!!
 
-**Sagar**<br>
-Hey! What are you doing!?<br>
+**Sagar**  
+Hey! What are you doing!?  
 Stop! You're going to break her!
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Synchronization amplifying, 12%... 13%...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 AAHHHH!! NO...NOOO!!!!
 
-**Sagar**<br>
+**Sagar**  
 Hey! I said stop! You didn't hear me!?
 
 _\[Bodies Collide\]_
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 Wah!? Mr. Sagar! Please do not interrupt our work!
 
 _\[System Error\]_
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 ... Synchronization failed.
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 Let's try another port.
 
-**Sagar**<br>
+**Sagar**  
 Enough. I won't allow you to continue.
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Mr. Sagar, you have the authority to observe the artifact, but are not permitted to obstruct us. This is a command from the highest levels. If you're going to cause a scene, I will have to ask you to leave.
 
-**Sagar**<br>
+**Sagar**  
 Oh...
 
 _\[»»»Fast Forward»»»\]_
 
 _\[System Error\]_
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Still nothing... Looks like that's it for today. If we continue it'll be too much of a burden for her.
 
-**Sagar**<br>
+**Sagar**  
 Had enough? I may not know what you're up to, but you won't be able to get what you're after.
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 We will continue tomorrow. If you have a problem, then please bring it up with the higher\-ups.
 
-**Sagar**<br>
+**Sagar**  
 Who issued the command?
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 Mr. Leo.
 
-**Sagar**<br>
-Got it. I'll go find him now.<br>
+**Sagar**  
+Got it. I'll go find him now.  
 You okay?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Ugh... _\*sob\*... \*sob\*..._
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios025"></a>\[#025\] Cam\_Arc\_701\_07\_06
+[Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
+
+## OS Log #025
+
+[Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
@@ -3342,326 +3441,331 @@ _\[Signal Lost\]_
 |**Inari**| Rin |Hard | 6 |
 |**Inari**| Rin |Chaos|11 |
 
-### Log Content
+### Cam\_Arc\_701\_07\_06
 _\[Door Opens\]_
 
-**Leo**<br>
+**Leo**  
 Sagar, from the Exploration Team? What may I help you with?
 
-**Sagar**<br>
+**Sagar**  
 I want the command to experiment on the artifact revoked. It is inhumane.
 
-**Leo**<br>
+**Leo**  
 Inhumane? Hehe, sorry. I thought that "inhumane" could only refer to humans. That is a robot.
 
-**Sagar**<br>
+**Sagar**  
 She can feel pain!
 
-**Leo**<br>
+**Leo**  
 Haha, you're no less foolish than your father.
 
-**Sagar**<br>
+**Sagar**  
 What'd you say!?
 
-**Leo**<br>
+**Leo**  
 Forgive me. I do not wish to argue with you. I've already seen the data from the experiment. We will stop.
 
-**Sagar**<br>
+**Sagar**  
 Huh?
 
-**Leo**<br>
+**Leo**  
 I can't reveal too much, but this Architect that you've discovered... Its identity is quite unique. We can't acquire any information inside its brain. A forced breakthrough will only transform it into a piece of scrap metal. We don't want to see that.
 
-**Sagar**<br>
+**Sagar**  
 ......
 
-**Leo**<br>
+**Leo**  
 Therefore... your arrival is at just the right time. We have an idea.
 
-**Sagar**<br>
+**Sagar**  
 What's that?
 
-**Leo**<br>
+**Leo**  
 Although our current technology doesn't allow us to get what we want from this artifact, it is still the property of A.R.C. Besides several parts that can't be fixed, it's essentially functioning perfectly, and can communicate with us.
 
-**Leo**<br>
+**Leo**  
 This type of model was an Architect responsible for data processing and analysis prior to the Decomission. For that reason, we want to assign her to the Logistics Unit of the Exploration Squad to help out as we further observe and research her.
 
-**Sagar**<br>
+**Sagar**  
 ......
 
-**Leo**<br>
+**Leo**  
 Relax, I understand how you feel. We won't perform anymore invasive experiments on her. We will use other methods to collect data. And you'll see her as just another co\-worker. Not bad, right?
 
-**Sagar**<br>
+**Sagar**  
 ... If that's the case...
 
-**Leo**<br>
+**Leo**  
 Of course, she can't be moving about in the facilities as an Architect. That would cause quite an uproar. We'll give her the identity of a human.
 
-**Sagar**<br>
+**Sagar**  
 ......!? You can do that...?
 
-**Leo**<br>
+**Leo**  
 Architects originally had the ability to simulate human facial features and wrinkles on the skin. After a few modifications and some maintenance, we'll be able to do it. Not to mention that this Architect is... extremely special. I'm sure that no one will notice. This will be our little secret.
 
-**Sagar**<br>
+**Sagar**  
 ......
 
 _\[→Signal Switches\]_
 
-**Sagar**<br>
+**Sagar**  
 How'd it go? Everything smooth?
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 We're nearly finished with the maintenance, but her visual system has suffered way too much damage. There's no way we can completely fix it. However, it shouldn't affect her work.
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 Take these.
 
-**Sagar**<br>
+**Sagar**  
 ... Glasses.
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 Line up the frame with the port near its ear. This will rectify its eyesight, that is if you're willing.
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Alright, sign here. Procedure's complete. It's now the property of the Exploration Team.
 
-**Sagar**<br>
-......<br>
+**Sagar**  
+......  
 Oh yeah, sorry. I was a little rough with you guys a few days ago. Thanks for fixing her up.
 
-**A.R.C. Employee B**<br>
+**A.R.C. Employee B**  
 ... It's just work. Don't worry about it. From now on, she's not under our control.
 
-**A.R.C. Employee A**<br>
+**A.R.C. Employee A**  
 Hey, you can come out now.
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Sagar**<br>
+**Sagar**  
 ......!
 
 ![rios2501.png](./attachments/rios2501.png)
 
-**Sagar**<br>
+**Sagar**  
 Exactly like a person... Her exterior, it's...?
 
-**A.R.C. Employee A**<br>
-Should be randomly produced... Could also be pieced together from people's faces in her memory. After all, she has a record of working in human society; but we weren't able to access her memory, so we can't be sure.<br>
+**A.R.C. Employee A**  
+Should be randomly produced... Could also be pieced together from people's faces in her memory. After all, she has a record of working in human society; but we weren't able to access her memory, so we can't be sure.  
 Alright, we're going to head out.
 
 _\[Door Closes\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Do I look... strange?
 
-**Sagar**<br>
+**Sagar**  
 ... What can I say? Can't tell you're a robot at all...
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 ......
 
-**Sagar**<br>
+**Sagar**  
 Ah, I didn't mean anything by that! It's not weird! From a human perspective, you look beautiful!
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Beautiful...?
 
-**Sagar**<br>
-Ah! Eh... That's not what I meant...<br>
+**Sagar**  
+Ah! Eh... That's not what I meant...  
 Uh, how do I say...? Ah, yes! Can you see clearly?
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 Um... It's pretty fuzzy.
 
-**Sagar**<br>
+**Sagar**  
 That... They wanted me to give you these glasses. Put 'em on.
 
 _\[Device Connects\]_
 
-**OPCII_0584_X**<br>
+**OPCII_0584_X**  
 .......! It's so clear... So that's what you look like. Um, thanks for helping me this whole time...
 
-**Sagar**<br>
+**Sagar**  
 Ah... don't worry about it. Come with me. I'll take you to the Analysis Room... Rin?
 
-**Rin**<br>
+**Rin**  
 ......!
 
-**Sagar**<br>
+**Sagar**  
 I'll just call you that from now on, okay? After all, you're going to assume the identity of a human when you're working here.
 
-**Rin**<br>
+**Rin**  
 ... Okay.
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="rios026"></a>\[#026\] Cam\_Arc\_702\_12\_17
+[Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
+
+## OS Log #026
+
+[Last Log](#os-log-025) | [Back to Top](#list-of-logs)
+
 ### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|20 |    No     |
 
-### Log Content
+### Cam\_Arc\_702\_12\_17
 _\[Call Starts\]_
 
-**Rin**<br>
+**Rin**  
 Hello?
 
-**[Sagar]**<br>
+**[Sagar]**  
 _......_
 
-**Rin**<br>
+**Rin**  
 Hello? May I ask who...?
 
-**[Sagar]**<br>
+**[Sagar]**  
 _Rin, it's me._
 
-**Rin**<br>
+**Rin**  
 Sagar, what's the matter?
 
-**[Sagar]**<br>
+**[Sagar]**  
 _Um, I wanted to ask you..._
 
 _\[Static\]_
 
-**Rin**<br>
+**Rin**  
 Sagar, are you okay?
 
 _\[Parts Moving\]_
 
-**Rin**<br>
+**Rin**  
 ..... Eh? AAHH!!
 
 _\[Object Crashes\]_
 
-**Rin**<br>
+**Rin**  
 Huh... A drone? How did it...
 
-**[Drone]**<br>
-_......i̴͞h̢=͏͜u̷̶̶͟%͢\#͏͜͏̶͟......command... rewritten.<br>
+**[Drone]**  
+_......i̴͞h̢=͏͜u̷̶̶͟%͢\#͏͜͏̶͟......command... rewritten.  
 Action: Eliminate target._
 
 _\[Parts Moving\]_
 
-**Rin**<br>
+**Rin**  
 Hey... don't come any closer!
 
 _\[Hurried Footsteps\]_
 
-**Rin**<br>
-Why!? The door... won't open?<br>
+**Rin**  
+Why!? The door... won't open?  
 Is someone out there!? Who...
 
-**[Drone]**<br>
-_Source of sound located, target locked on.<br>
+**[Drone]**  
+_Source of sound located, target locked on.  
 Action: Eliminate target._
 
 _\[Object Crashes\]_
 
-**Rin**<br>
+**Rin**  
 URGAHHH!...... My hand...
 
-**Rin**<br>
-The machines... it's like they're being controlled...<br>
+**Rin**  
+The machines... it's like they're being controlled...  
 It's not... Va... Vanessa?
 
-**[Drone]**<br>
+**[Drone]**  
 _Source of sound lost, relocating target._
 
-**Rin**<br>
-... Sound...!<br>
+**Rin**  
+... Sound...!  
 ... Use this... yes!
 
 _\[Objects Smashed\]_
 
-**[Drone]**<br>
-_Source of sound located, readjusting direction.<br>
+**[Drone]**  
+_Source of sound located, readjusting direction.  
 Action: Eliminate target._
 
-**Rin**<br>
+**Rin**  
 Got it! Lead it into... Must be quieter...
 
 _\[Typing on keyboard\]_
 
-**Rin**<br>
+**Rin**  
 Is it finding me via the virtual internet? Whatever it is, gotta stop its command... Just need to connect to that space to find where it's coming from...
 
-**Rin**<br>
+**Rin**  
 ... Library core... No, not here... Quick, think! Feel like I'm getting pulled in...
 
 _\[Connecting\]_
 
-**Rin**<br>
+**Rin**  
 Huh... What's this strange feeling...?
 
-**Rin**<br>
+**Rin**  
 .....!
 
 ![rios2601.png](./attachments/rios2601.png)
 
-**Vanessa**<br>
+**Vanessa**  
 S\-S\-S\-S\-Still n\-n\-n\-not dead?
 
-**Rin**<br>
+**Rin**  
 !?
 
-**Vanessa**<br>
+**Vanessa**  
 ...... Th\-Th\-Those who h\-h\-h\-h\-help humans... must be... k\-k\-k\-k\-k\-killed...
 
-**Rin**<br>
-You... can't escape your protocol?<br>
+**Rin**  
+You... can't escape your protocol?  
 I know what that's like. I've been there before!
 
-**Vanessa**<br>
+**Vanessa**  
 Kill... K\-K\-K\-K\-Kill!!
 
-**Rin**<br>
-AAHHH!!<br>
+**Rin**  
+AAHHH!!  
 ... Listen, Listen to me! You must resist!
 
-**Vanessa**<br>
-H\-H\-H\-Humans... H\-H\-H\-Humans......<br>
+**Vanessa**  
+H\-H\-H\-Humans... H\-H\-H\-Humans......  
 Must... be killed... Kill them all...!!
 
-**Rin**<br>
+**Rin**  
 No...
 
-**Vanessa**<br>
+**Vanessa**  
 Y\-Y\-You help humans... You also must be k\-k\-k\-k\-killed...!!!
 
-**Rin**<br>
+**Rin**  
 Ey!
 
-**Vanessa**<br>
+**Vanessa**  
 K\-K\-K\-Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill!
 
 _\[Connection Lost\]_
 
-**Rin**<br>
+**Rin**  
 ... Lost connection?
 
-**[Drone]**<br>
-_Source of sound determined, target locked on.<br>
+**[Drone]**  
+_Source of sound determined, target locked on.  
 Action: Eliminate target._
 
 _\[Parts Moving\]_
 
-**Rin**<br>
+**Rin**  
 Crap...... WAAHHHH!!
 
 _\[Heavy object crashes\]_
 
-**[Drone]**<br>
-_Sound source lost, relocating... no response.<br>
+**[Drone]**  
+_Sound source lost, relocating... no response.  
 Target eliminated._
 
 _\[Signal Lost\]_
 
-[*(Click here to go back to the top)*](#toc)
+
+[Last Log](#os-log-025) | [Back to Top](#list-of-logs)
 

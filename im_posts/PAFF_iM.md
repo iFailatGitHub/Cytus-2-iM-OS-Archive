@@ -1,118 +1,125 @@
 # PAFF iM Posts
-## <a id="toc"></a>List of Posts
-- [\[#001\] New Song Released.](#p0101)
-- [\[#002\] \[Announcement\] Connect to major platforms now!](#p0201)
-- [\[#003\] Thank you.](#p0301)
-- [\[#004\] Thank you for the support!](#p0401)
-- [\[#005\] \[Announcement\] 7th PAFFCON, ticket sales begin](#p0501)
-- [\[#006\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior](#p0601)
-- [\[#007\] 7th PAFFCON, sold out](#p0701)
-- [\[#008\] Want to chat with everybody.](#p0801)
-- [\[#009\] \[Repost\] Newest fall catalog ft. collaboration with PAFF](#p0901)
-- [\[#010\] Good afternoon everyone, This is PAFF. ^^](#p1001)
-- [\[#011\] At the backstage.](#p1101)
-- [\[#012\] PAFF\-Official on Air.](#p1201)
-- [\[#013\] \[Emergency Announcement\]](#p1301)
-- [\[#014\] \[Announcement\] PAFF is now awake, everything is fine.](#p1401)
-- [\[#015\] Going back home, sorry for making everybody worried.](#p1501)
-- [\[#016\] \[Announcement\] Public schedule put on hold](#p1601)
-- [\[#017\] Please give PAFF all your support!](#p1701)
-- [\[#018\] Check up.](#p1801)
-- [\[#019\] \[Announcement\] Premium collection now underway!](#p1901)
-- [\[#020\] \[Announcement\] Activities suspended and rest](#p2001)
-- [\[#021\] \[Announcement\] Regarding《Around the Nodes》concert tour refunds](#p2101)
-- [\[#022\] \[Announcement\] Tower 054 celebration event guest revealed](#p2201)
-- [\[#023\] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her](#p2301)
-- [\[#024\] I am very sorry to everyone](#p2401)
-- [\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides](#p2501)
-- [\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF](#p2601)
+## List of Posts
+- [iM Post #001](#im-post-001)
+- [iM Post #002](#im-post-002)
+- [iM Post #003](#im-post-003)
+- [iM Post #004](#im-post-004)
+- [iM Post #005](#im-post-005)
+- [iM Post #006](#im-post-006)
+- [iM Post #007](#im-post-007)
+- [iM Post #008](#im-post-008)
+- [iM Post #009](#im-post-009)
+- [iM Post #010](#im-post-010)
+- [iM Post #011](#im-post-011)
+- [iM Post #012](#im-post-012)
+- [iM Post #013](#im-post-013)
+- [iM Post #014](#im-post-014)
+- [iM Post #015](#im-post-015)
+- [iM Post #016](#im-post-016)
+- [iM Post #017](#im-post-017)
+- [iM Post #018](#im-post-018)
+- [iM Post #019](#im-post-019)
+- [iM Post #020](#im-post-020)
+- [iM Post #021](#im-post-021)
+- [iM Post #022](#im-post-022)
+- [iM Post #023](#im-post-023)
+- [iM Post #024](#im-post-024)
+- [iM Post #025](#im-post-025)
+- [iM Post #026](#im-post-026)
 
-## <a id="p0101"></a>\[#001\] New Song Released.
+## iM Post #001
+
+[Back to Top](#list-of-posts) | [Next Log](#im-post-002)
+
 ### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**KANATA**|PAFF |Easy | 2 |
 |**KANATA**|PAFF |Hard | 6 |
 
-### Post
-**PAFF-Official**<br>
+### New Song Released.
+**PAFF-Official**  
 New Song Released.
 
 ![p0101.png](./attachments/p0101.png)
 ### Replies
-**iluvpuf**<br>
+**iluvpuf**  
 So short! Must be her!!
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 It's the real PAFF!!
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 PAFF I will definitely download it!
 
-**LyLah1207**<br>
+**LyLah1207**  
 **\\PAFF/****\\PAFF/****\\PAFF/**
 
-**PrideCr0w**<br>
+**PrideCr0w**  
 Shut up and take my money!!
 
-**lenba**<br>
+**lenba**  
 PAFF I liked you since your very first EP <3
 
-**xxScarlexx**<br>
+**xxScarlexx**  
 ♡♡♡♡
 
-**Sopheee**<br>
+**Sopheee**  
 It's a dream come true to listen to PAFF's song for the whole day
 
-**CeLiA**<br>
+**CeLiA**  
 Living in the same Node as PAFF, so blessed
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 Man I'm jealous. I want to live in Node08 too
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 PAFF ever think about a Q&A event? ：D
 
-**Rob_Oto**<br>
+**Rob_Oto**  
 Nonstop loop play...
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 The entire Node can hear PAFF's singing!
 
-**Pascal626**<br>
+**Pascal626**  
 PAFF do you remember me? The one that gave you chocolate at the last event!!
 
-**AbbEE**<br>
+**AbbEE**  
 I want to sing as well as PAFF
 
-**beeeeeeeeee**<br>
+**beeeeeeeeee**  
 How can it be so gooooddd\~ QAQ
 
-**CyKa**<br>
+**CyKa**  
 It's amazing!!!! Love you PAFF!!
 
-**noneXenon**<br>
+**noneXenon**  
 Keep it up PAFF^^
 
-**MustangMartin**<br>
+**MustangMartin**  
 Your voice is very charming indeed \~\~ <3
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 ♡♡♡♡
 
-**Heart_Head**<br>
+**Heart_Head**  
 BOUGHT!
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0201"></a>\[#002\] \[Announcement\] Connect to major platforms now!
+[Back to Top](#list-of-posts) | [Next Log](#im-post-002)
+
+## iM Post #002
+
+[Last Log](#im-post-001) | [Back to Top](#list-of-posts) | [Next Log](#im-post-003)
+
 ### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**KANATA**|PAFF |Chaos| 9 |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Connect to major platforms now!
+**PAFF-Official**  
 The released new song "KANATA" took a long time to prepare. During the production, the composer and producer helped me a lot!
 
 Special thanks to A.R.C. for sponsoring the newest holo\-recreation technology! PUFFERs can now join PAFF on stage and sing together!
@@ -121,45 +128,49 @@ Visit the major platforms to connect now!
 
 ![p0201.png](./attachments/p0201.png)
 ### Replies
-**SancTityKnight**<br>
+**SancTityKnight**  
 Sounds pretty cool!!!
 
-**Lynx87**<br>
+**Lynx87**  
 Holo\-recreation? WTH is that? ：O
 
-**Sleepsystem**<br>
+**Sleepsystem**  
 No idea what it is.
 
-**CyKa**<br>
+**CyKa**  
 I'm telling you, you guys need to read more\~
 
-**NEKOSAIKOU**<br>
+**NEKOSAIKOU**  
 Stop acting like you know everything lol
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 \\We all know about PAFF's hard work/
 
-**SuduMan**<br>
+**SuduMan**  
 Damn my phone doesn't support it arghhh!!
 
-**iluvpuf**<br>
+**iluvpuf**  
 I see a lost NEKO fanboy, gtfo...
 
-**Marshall**<br>
+**Marshall**  
 I'm ready, body and mind. (?)
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 Marry me PAFF! <3
 
-**xxScarlexx**<br>
+**xxScarlexx**  
 ♡♡♡♡
 
-**AngryFan**<br>
+**AngryFan**  
 Stop bundling a bunch of junk with it OK! Feels cheated!
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0301"></a>\[#003\] Thank you.
+[Last Log](#im-post-001) | [Back to Top](#list-of-posts) | [Next Log](#im-post-003)
+
+## iM Post #003
+
+[Last Log](#im-post-002) | [Back to Top](#list-of-posts) | [Next Log](#im-post-004)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -171,72 +182,76 @@ Stop bundling a bunch of junk with it OK! Feels cheated!
 |**Fight Another Day (Andy Tunstall remix)**|PAFF |Easy | 2 |
 |**Fight Another Day (Andy Tunstall remix)**|PAFF |Hard | 6 |
 
-### Post
-**PAFF-Official**<br>
+### Thank you.
+**PAFF-Official**  
 Over 1 Million views now. Thank you, everybody.
 
 ![p0301.png](./attachments/p0301.png)
 ### Replies
-**CyKa**<br>
+**CyKa**  
 Only PAFF can surpass PAFF
 
-**iluvpuf**<br>
+**iluvpuf**  
 Looks like your next Platinum record is not too far away!
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 \\PAFF/ \\PAFF/ \\PAFF/ \\PAFF/
 
-**MustangMartin**<br>
+**MustangMartin**  
 All my friends are listening to the song <3
 
-**EdgeMan**<br>
+**EdgeMan**  
 I don't have any friends...
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 1M already? PAFF is really amazing\~
 
-**AbbEE**<br>
+**AbbEE**  
 Not surprised. PAFF gets all the records!
 
-**NEKOSAIKOU**<br>
+**NEKOSAIKOU**  
 Pfft what's with the attitude? Think you're a diva?
 
-**Lynx87**<br>
+**Lynx87**  
 F\*\*\* off you noob!!
 
-**CeLiA**<br>
+**CeLiA**  
 PAFF SAIKOU!
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 PAFF please post some more. Want to talk with you >///<
 
-**An0nym0us**<br>
+**An0nym0us**  
 Agreed. Usually it's the admins posting
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 Want to chat with PAFF ˊ▽ˋ
 
-**Anonymous**<br>
+**Anonymous**  
 Stream \~\~\~\~
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 PAFF is really busy, don't bother her
 
-**Sopheee**<br>
+**Sopheee**  
 PAFF! PAFF! PAFF! I really love you\~\~
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 PAFF for life
 
-**Pascal626**<br>
+**Pascal626**  
 L\-O\-V\-E PAFF \\oo/
 
-**LyLah1207**<br>
+**LyLah1207**  
 **\\PAFF/****\\PAFF/****\\PAFF/**
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0401"></a>\[#004\] Thank you for the support!
+[Last Log](#im-post-002) | [Back to Top](#list-of-posts) | [Next Log](#im-post-004)
+
+## iM Post #004
+
+[Last Log](#im-post-003) | [Back to Top](#list-of-posts) | [Next Log](#im-post-005)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -247,8 +262,8 @@ L\-O\-V\-E PAFF \\oo/
 |-----------|:---:|:---:|:-:|
 |**Survive**|PAFF |Chaos|10 |
 
-### Post
-**PAFF-Official**<br>
+### Thank you for the support!
+**PAFF-Official**  
 Little Puffs! Good news! PAFF is nominated for Radio POP's "Female Singer of The Year" award!!
 
 The judges are very positive about PAFF's new album. All thanks to the support from every little puff!
@@ -257,42 +272,46 @@ Let's us continue to cheer PAFF on!
 
 ![p0401.png](./attachments/p0401.png)
 ### Replies
-**Pascal626**<br>
+**Pascal626**  
 Must be because PAFF works really hard! That's why she gets acknowledged by the judges. The sales are gonna go through the roof.
 
-**AbbEE**<br>
+**AbbEE**  
 If these judges didn't give it a positive mark... I'll make them pay!
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 The idiot above me, please don't do anything stupid!
 
-**xxScarlexx**<br>
+**xxScarlexx**  
 **PAFF♡**
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 \\PAFF LOVE/
 
-**AngryFan**<br>
+**AngryFan**  
 Nice taste from these judges
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 It would be odd if they are NOT positive about it
 
-**CeLiA**<br>
+**CeLiA**  
 Really? Awesome!
 
-**IronFan**<br>
+**IronFan**  
 If PAFF doesn't get a positive score, nobody deserves one
 
-**iluvpuf**<br>
+**iluvpuf**  
 PAFF<3<3<3
 
-**AnyClue**<br>
+**AnyClue**  
 The composers that help make the music this time are also very good. The music matches PAFF's voice perfectly
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0501"></a>\[#005\] \[Announcement\] 7th PAFFCON, ticket sales begin
+[Last Log](#im-post-003) | [Back to Top](#list-of-posts) | [Next Log](#im-post-005)
+
+## iM Post #005
+
+[Last Log](#im-post-004) | [Back to Top](#list-of-posts) | [Next Log](#im-post-006)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -304,8 +323,8 @@ The composers that help make the music this time are also very good. The music m
 |**Baptism of Fire (CliqTrack remix)**|PAFF |Easy | 3 |
 |**Baptism of Fire (CliqTrack remix)**|PAFF |Hard | 7 |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] 7th PAFFCON, ticket sales begin
+**PAFF-Official**  
 Rise up little Puffs!
 
 The annual PAFFCON for this year has been set! This time, it will be a very rare physical concert, right in the Node 08 Dome! 
@@ -318,48 +337,52 @@ Well then, 7th PAFFCON, see you at Node 08!
 
 ![p0501.png](./attachments/p0501.png)
 ### Replies
-**NEKO#ΦωΦ**<br>
+**NEKO#ΦωΦ**  
 Wow a physical concert(ΦωΦ) quite ballsy move lol
 
-**IwontBuy**<br>
+**IwontBuy**  
 Ticket snatchers GO!
 
-**AngryFan**<br>
+**AngryFan**  
 SHUT up and take my money!!
 
-**Marshall**<br>
+**Marshall**  
 Static alarm set
 
-**iluvpuf**<br>
+**iluvpuf**  
 ♡♡♡
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 I'm ready!
 
-**AnyClue**<br>
+**AnyClue**  
 I just hope the site won't crash again...
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 I HOPE! Last time the entry screen cost me a whole minute... and I got nothing
 
-**SuduMan**<br>
+**SuduMan**  
 Damn ticket scalpers!
 
-**Lynx87**<br>
+**Lynx87**  
 I hate ticket scalpers... I hope they all get arrested
 
-**NEKOSAIKOU**<br>
+**NEKOSAIKOU**  
 Why does every comment here look like a fake account lololol
 
-**CeLiA**<br>
+**CeLiA**  
 PAFF give me strength! Please let me get one!
 
-**Sopheee**<br>
+**Sopheee**  
 \\PAFF you are so cute/
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0601"></a>\[#006\] \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+[Last Log](#im-post-004) | [Back to Top](#list-of-posts) | [Next Log](#im-post-006)
+
+## iM Post #006
+
+[Last Log](#im-post-005) | [Back to Top](#list-of-posts) | [Next Log](#im-post-007)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -370,59 +393,63 @@ PAFF give me strength! Please let me get one!
 |-----------------------------------------------|:---:|:---:|:-:|
 |**Bullet Waiting for Me (James Landino remix)**|PAFF |Chaos|11 |
 
-### Post
-**PAFF-Official**<br>
+### \[Repost\] Popular singer PAFF harassed by hardcore fan at event. Agency criticizes such behavior
+**PAFF-Official**  
 > PAFF's agent Helena: "We appreciate the passionate support from fans. However, we would also like everyone to control themselves and not harm PAFF."
 
 Fellow little Puffs please keep your emotions in check. Don't injure yourselves and please follow the rules!
 
 ![r0701.png](./attachments/r0701.png)
 ### Replies
-**AngryFan**<br>
+**AngryFan**  
 Disgusting, very disgusting
 
-**AngryFan**<br>
+**AngryFan**  
 Does not accept these kinds of behavior
 
-**AbbEE**<br>
+**AbbEE**  
 Definitely not a PUFFER, we know our place!
 
-**IronFan**<br>
+**IronFan**  
 I feel like we need to single him out. The admins are probably going to give him a non\-prosecution or something and let him off scot\-free. What if he does it again?
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 We would like fellow little Puffs to calm down. We don't do anything illegal!
 
-**CeLiA**<br>
+**CeLiA**  
 Must know your own place
 
-**Lynx87**<br>
+**Lynx87**  
 He keeps yelling that he is PAFF's friend, is he nuts or what?
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 Arrest him! Arrest him! Arrest him!
 
-**maplewing**<br>
+**maplewing**  
 Cuff him! Cuff him! Cuff him!
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 Any updates?
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 Seems like it's not a fan, just some crazy dude
 
-**iluvpuf**<br>
+**iluvpuf**  
 Wasn't that guy already arrested
 
-**Chevalier151**<br>
+**Chevalier151**  
 So it's now up to the admins? I feel like he needs to feel the rage of the fans...
 
-**An0nym0us**<br>
+**An0nym0us**  
 Can someone post the footage? The news footage is blurry and unrecognizable. Someone should have a clearer version.
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0701"></a>\[#007\] 7th PAFFCON, sold out
+[Last Log](#im-post-005) | [Back to Top](#list-of-posts) | [Next Log](#im-post-007)
+
+## iM Post #007
+
+[Last Log](#im-post-006) | [Back to Top](#list-of-posts) | [Next Log](#im-post-008)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -433,64 +460,68 @@ Can someone post the footage? The news footage is blurry and unrecognizable. Som
 |-------------------------------------------|:---:|:---:|:-:|
 |**Fight Another Day (Andy Tunstall remix)**|PAFF |Chaos|10 |
 
-### Post
-**PAFF-Official**<br>
+### 7th PAFFCON, sold out
+**PAFF-Official**  
 Thank you for the support little Puffs\~ all tickets have been sold!
 
 If her stamina can handle it, PAFF might try adding a few more physical sessions!
 
 ![p0701.png](./attachments/p0701.png)
 ### Replies
-**SuperSlow**<br>
+**SuperSlow**  
 Whyyyyyy, I was so prepared too...
 
-**iluvpuf**<br>
+**iluvpuf**  
 I got it!!! Muhahahah
 
-**NEKOSAIKOU**<br>
+**NEKOSAIKOU**  
 Fishy under\-the\-table crap, only scalpers win LOL
 
-**CyKa**<br>
+**CyKa**  
 **@NEKOSAIKOU** you are REALLY starting to irritate me = =
 
-**Chevalier151**<br>
-Got two tickets for physical area A ^\~^<br>
-Got two tickets for physical area A ^\~^<br>
+**Chevalier151**  
+Got two tickets for physical area A ^\~^  
+Got two tickets for physical area A ^\~^  
 Got two tickets for physical area A ^\~^
 
-**AnyClue**<br>
+**AnyClue**  
 Damn I envy your luck, mind sharing one
 
-**beeeeeeeeee**<br>
+**beeeeeeeeee**  
 What's this BS?! Sold out in under a minute!?
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 When will we get the info for the added sessions QQ
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 Got three tickets, my date is secured!
 
-**Pascal626**<br>
+**Pascal626**  
 I'll be there!!!! Hip hip hooray\~
 
-**Lynx87**<br>
+**Lynx87**  
 Uhhh didn't get one...
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 I got mine I can finally sleep...
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 GOT IT！！！！！！！！！！！！！！！
 
-**Sopheee**<br>
+**Sopheee**  
 Please PAFF add more sessions!
 
-**AbbEE**<br>
+**AbbEE**  
 Sis Helena please add some more tickets! I had my breaks arranged already! QQ
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0801"></a>\[#008\] Want to chat with everybody.
+[Last Log](#im-post-006) | [Back to Top](#list-of-posts) | [Next Log](#im-post-008)
+
+## iM Post #008
+
+[Last Log](#im-post-007) | [Back to Top](#list-of-posts) | [Next Log](#im-post-009)
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -503,97 +534,101 @@ Sis Helena please add some more tickets! I had my breaks arranged already! QQ
 |-------------------------------------|:---:|:---:|:-:|
 |**Baptism of Fire (CliqTrack remix)**|PAFF |Chaos|12 |
 
-### Post
-**PAFF-Official**<br>
+### Want to chat with everybody.
+**PAFF-Official**  
 Hello everyone, I am PAFF. For a while, both you guys and sis have been suggesting that I post more.
 ### Replies
-**PAFF-Official**<br>
+**PAFF-Official**  
 I also want to interact with everyone more. I'm still a bit nervous, but I'll give it a try.
 
-**iluvpuf**<br>
+**iluvpuf**  
 I love you PAFF! <3
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 It's OK PAFF, just do it at your pace ˊ▽ˋ
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 Is sis referring to your agent?
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Yes, Sis Helena.
 
-**YuritheBest**<br>
+**YuritheBest**  
 \\Hooray for yuri/
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 \\PAFF LOVE/
 
-**MustangMartin**<br>
+**MustangMartin**  
 What does PAFF do when you're free? <3
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 I usually do things like reading and singing.
 
-**AbbEE**<br>
+**AbbEE**  
 You really do like singing a lot XD
 
-**CyKa**<br>
+**CyKa**  
 Still singing even during break!!!!
 
-**Pascal626**<br>
+**Pascal626**  
 PAFF, you can interact with us more during your events\~
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 I don't really know what to say on the spot.
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Typing is easier than talking, but I am still kind of nervous.
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 PUFFERS are all nice people\~
 
-**Sopheee**<br>
+**Sopheee**  
 \\PAFF is so cute/
 
-**koolboss01**<br>
+**koolboss01**  
 It's alright. Try adding some emoticons while typing so people can get what feeling you want to express ^^
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 OK like this? ^^
 
-**koolboss01**<br>
+**koolboss01**  
 Haha you don't have to use this one\~ XDD
 
-**CeLiA**<br>
+**CeLiA**  
 \\PAFF is so cute/
 
-**KarenMayako**<br>
+**KarenMayako**  
 PAFF is a very different person when she is singing. Do you enjoy singing ： D
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Yes, I very much enjoy singing. I feel elated when I am singing^^
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Don't really know how to react to other things. Sorry.
 
-**Sayomi911**<br>
+**Sayomi911**  
 No need to say sorry lol
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 \\So Adorable/ \\So Adorable/ \\So Adorable/
 
-**An0nym0us**<br>
+**An0nym0us**  
 PAFF you can always PM me.
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 I love your songs\~
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Everyone, thank you. ^^
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p0901"></a>\[#009\] \[Repost\] Newest fall catalog ft. collaboration with PAFF
+[Last Log](#im-post-007) | [Back to Top](#list-of-posts) | [Next Log](#im-post-009)
+
+## iM Post #009
+
+[Last Log](#im-post-008) | [Back to Top](#list-of-posts) | [Next Log](#im-post-010)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -605,67 +640,71 @@ Everyone, thank you. ^^
 |**Fireflies (Funk Fiction remix)**|PAFF |Easy | 3 |
 |**Fireflies (Funk Fiction remix)**|PAFF |Hard | 6 |
 
-### Post
-**PAFF-Official**<br>
-> For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant\-garde elements creates a colorful and unique autumn listing. <br>
+### \[Repost\] Newest fall catalog ft. collaboration with PAFF
+**PAFF-Official**  
+> For the newest fall catalog, 9Tan Design has invited Node 08's popular diva PAFF for a collaboration! The latest fashion mixed with avant\-garde elements creates a colorful and unique autumn listing.   
 > Available on both physical and virtual storefronts! Dress\-switch now and experience the latest fashion!
 
 PAFF and 9Tan Design's collab autumn clothes are now available\~ This time, PAFF also performs the sponsored theme "Fireflies", please don't forget to listen!
 
 ![p0901.png](./attachments/p0901.png)
 ### Replies
-**KarenMayako**<br>
+**KarenMayako**  
 OMG it's gorgeous!!!!
 
-**CeLiA**<br>
+**CeLiA**  
 It fits PAFF so well\~
 
-**iluvpuf**<br>
+**iluvpuf**  
 ♡♡♡
 
-**Pascal626**<br>
+**Pascal626**  
 \\PAFF is BEAUTIFUL\~/
 
-**Sayomi911**<br>
+**Sayomi911**  
 Bought both the sponsored theme song and the dress!!
 
-**MustangMartin**<br>
+**MustangMartin**  
 I'm in love...<3
 
-**NEKO#ΦωΦ**<br>
-Why is the composing so good? Who did it?<br>
+**NEKO#ΦωΦ**  
+Why is the composing so good? Who did it?  
 Oh \~ it's NEKO\~ didn't get a single cent for it (ΦωΦ)
 
-**AngryFan**<br>
+**AngryFan**  
 LIES, I don't believe it's you
 
-**AnyClue**<br>
+**AnyClue**  
 Well, those who talk s\*\*\* about you is usually the one closest to you lol
 
-**Lynx87**<br>
+**Lynx87**  
 Here comes the wildcat again!
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 Deeply touched by PAFF's voice\~ QQ
 
-**koolboss01**<br>
+**koolboss01**  
 This song fits PAFF's voice and performance so well <3
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 PAFF is so kind!!!
 
-**CyKa**<br>
+**CyKa**  
 <3 !!! PAFF I LOVE U !!! <3
 
-**AbbEE**<br>
+**AbbEE**  
 Come be a faithful little Puff\~ Muhahaha
 
-**NEKOSAIKOU**<br>
+**NEKOSAIKOU**  
 No wonder you guys are called Puffs, since your brains have nothing but white cream. Poor bastards LMFAO
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1001"></a>\[#010\] Good afternoon everyone, This is PAFF. ^^
+[Last Log](#im-post-008) | [Back to Top](#list-of-posts) | [Next Log](#im-post-010)
+
+## iM Post #010
+
+[Last Log](#im-post-009) | [Back to Top](#list-of-posts) | [Next Log](#im-post-011)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -676,160 +715,168 @@ No wonder you guys are called Puffs, since your brains have nothing but white cr
 |----------------------------------|:---:|:---:|:-:|
 |**Fireflies (Funk Fiction remix)**|PAFF |Chaos|10 |
 
-### Post
-**PAFF-Official**<br>
+### Good afternoon everyone, This is PAFF. ^^
+**PAFF-Official**  
 Good afternoon everybody. This is PAFF. ^^
 ### Replies
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 !!! Good Afternoon PAFF !!!
 
-**iluvpuf**<br>
+**iluvpuf**  
 IIIIttt's PAFF <3<3
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 LOVE U PAFF\~\~
 
-**8pupu**<br>
+**8pupu**  
 Do we have a chance to hear "Gravity" live again? the one PAFF sang on Æsir\-FEST
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 If everyone wants to hear it, then I will sing it again. ^^
 
-**8pupu**<br>
+**8pupu**  
 Thank you PAFF\~ I will continue to support you!
 
-**lenba**<br>
+**lenba**  
 PAFF was not at Æsir\-FEST right? Wasn't it canceled?
 
-**Lynx87**<br>
+**Lynx87**  
 No she was on stage \~ it's A who didn't show up.
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 That event was never held, right?
 
-**SuduMan**<br>
+**SuduMan**  
 PAFF herself is here. We can just ask her
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 I don't remember it too well. I'm sorry...
 
-**CyKa**<br>
+**CyKa**  
 No need to say sorry\~ it's OK\~ XD
 
-**Chevalier151**<br>
+**Chevalier151**  
 BTW where has Æsir been? It's been like half a year since we last heard anything from him right?
 
-**MYMYM**<br>
+**MYMYM**  
 Who cares, iM artist come and go all the time lol
 
-**AngryFan**<br>
+**AngryFan**  
 Maybe he'll pop up somewhere someday
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Excuse me, I'm not feeling so well. Need to rest.
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 I enjoy chatting with everyone today. I'm not as nervous as last time.
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Hope we have the chance to chat again. ^^
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 If PAFF wants to chat, we little Puffs will always be here! Go get some rest!
 
-**AbbEE**<br>
+**AbbEE**  
 PAFF's not feeling well these days?
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 Rest some more, we will all support you <3
 
-**Michiko**<br>
+**Michiko**  
 Hope we can chat with PAFF on an event someday in the future!!
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Yes. If it's possible here, I should be able to talk a bit more when I'm on stage.
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Sis is telling me to go to bed. Thank you everyone for your care. ^^
 
-**KarenMayako**<br>
+**KarenMayako**  
 Night night PAFF \~
 
-**MustangMartin**<br>
+**MustangMartin**  
 Good night have a good sleep <3
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1101"></a>\[#011\] At the backstage.
+[Last Log](#im-post-009) | [Back to Top](#list-of-posts) | [Next Log](#im-post-011)
+
+## iM Post #011
+
+[Last Log](#im-post-010) | [Back to Top](#list-of-posts) | [Next Log](#im-post-012)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|16 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### At the backstage.
+**PAFF-Official**  
 Preparing backstage, see you guys later. ^^
 
 ![p1101.png](./attachments/p1101.png)
 ### Replies
-**Pascal626**<br>
+**Pascal626**  
 PAFF we are already at the venue. We're at the first row! Left side of the stage\~
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 PAFF we are waiting for you, been looking forward to your singing for a long time\~ see you later \\oo/
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 Our group of seven is right here at row 1! ^^
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 PAFF we are holding a huge billboard, right in the center of area A!
 
-**PaffCheckin**<br>
-Remember to check in to promote for PAFF!<br>
+**PaffCheckin**  
+Remember to check in to promote for PAFF!  
 Let everybody see our group work!
 
-**Lynx87**<br>
+**Lynx87**  
 YEAHHHH BOOOOIIIIIII!!!!
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 How come you guys are so fast, we are still waiting outside...
 
-**Chevalier151**<br>
+**Chevalier151**  
 Quick time goes by fast, those who are not here yet GL
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 You're the best <3
 
-**Anonymous**<br>
+**Anonymous**  
 MG what's this mountain of people!! I can't wait \~
 
-**iluvpuf**<br>
+**iluvpuf**  
 PAFF I'm at the very first row <3<3
 
-**AbbEE**<br>
+**AbbEE**  
 Excuse me can someone check out the souvenir shop for me...I'm looking for the commemorative Skin...are they all gone?
 
-**An0nym0us**<br>
+**An0nym0us**  
 Completely sold out!
 
-**SuduMan**<br>
+**SuduMan**  
 See you later\~
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 We are all waiting for you!
 
-**CyKa**<br>
+**CyKa**  
 Let PAFF see our energy
 
-**CeLiA**<br>
+**CeLiA**  
 Look forward to seeing PAFF!
 
-**LyLah1207**<br>
+**LyLah1207**  
 **\\PAFF/****\\PAFF/****\\PAFF/**
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1201"></a>\[#012\] PAFF\-Official on Air.
+[Last Log](#im-post-010) | [Back to Top](#list-of-posts) | [Next Log](#im-post-012)
+
+## iM Post #012
+
+[Last Log](#im-post-011) | [Back to Top](#list-of-posts) | [Next Log](#im-post-013)
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -837,12 +884,16 @@ Look forward to seeing PAFF!
 |**NEKO#ΦωΦ** |17 |    Yes    |
 |**ROBO_Head**|17 |    Yes    |
 
-### Post
-**PAFF-Official**<br>
+### PAFF\-Official on Air.
+**PAFF-Official**  
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1301"></a>\[#013\] \[Emergency Announcement\]
+[Last Log](#im-post-011) | [Back to Top](#list-of-posts) | [Next Log](#im-post-013)
+
+## iM Post #013
+
+[Last Log](#im-post-012) | [Back to Top](#list-of-posts) | [Next Log](#im-post-014)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -854,131 +905,135 @@ Look forward to seeing PAFF!
 |**Gravity**|PAFF |Easy | 3 |
 |**Gravity**|PAFF |Hard | 7 |
 
-### Post
-**PAFF-Official**<br>
-Fellow fans, sorry for the interruption. I am Helena, PAFF's agent.<br>
+### \[Emergency Announcement\]
+**PAFF-Official**  
+Fellow fans, sorry for the interruption. I am Helena, PAFF's agent.  
 A few moments ago, when performing the Encore song, PAFF collapsed on stage. We have PAFF taken to the hospital already. A doctor is checking on her.
 ### Replies
-**Ararar**<br>
+**Ararar**  
 EHHHHHHH what happened!?
 
-**Lynx87**<br>
+**Lynx87**  
 Can you guys at the venue tell us what the hell happened!?
 
-**PAFF-Official**<br>
-PAFF is in a stable condition, nothing critical. She just hasn't woke up.<br>
+**PAFF-Official**  
+PAFF is in a stable condition, nothing critical. She just hasn't woke up.  
 We would like fellow fans to calm down. We will update you accordingly.
 
-**AnyClue**<br>
+**AnyClue**  
 We are all still at the venue, no staff in sight and everything is a mess
 
-**CeLiA**<br>
+**CeLiA**  
 Is PAFF ok?
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 How can you say "stable" when she is still in a coma!?
 
-**Pascal626**<br>
+**Pascal626**  
 WHAT happened to PAFF QAQ NOOOOO!!!
 
-**Grimwood**<br>
+**Grimwood**  
 Is the concert still considered finished at this point?
 
-**AngryFan**<br>
+**AngryFan**  
 Yeah can we get a refund???
 
-**AbbEE**<br>
+**AbbEE**  
 I can't accept this... what's wrong with PAFF QQ
 
-**iluvpuf**<br>
+**iluvpuf**  
 PAFF is in a coma and all you are thinking about is MONEY!?
 
-**IronFan**<br>
+**IronFan**  
 Where are the officials when something this serious is happening?
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 It's an emergency what do you expect them to say? Stop complaining will ya?
 
-**CyKa**<br>
+**CyKa**  
 Did the connection just cut off all of a sudden? Anyone with the same problem?
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 Regarding the traffic flow, staff members have been informed. Please follow their instructions to leave the venue. Regarding ticket refunds, please follow **@PAFF\-Official** as more details will be coming soon. Right now I am focused on taking care of PAFF, sorry for any inconvenience caused...
 
-**SancTityKnight**<br>
-Good work Sis Helena! Hope PAFF is OK, everyone pray for PAFF! <br>
+**SancTityKnight**  
+Good work Sis Helena! Hope PAFF is OK, everyone pray for PAFF!   
 **\#PrayForPAFF**
 
-**CandiceNaoko**<br>
-We Puffs should not give Sis Helena any more pressure, pray for her!<br>
+**CandiceNaoko**  
+We Puffs should not give Sis Helena any more pressure, pray for her!  
 **\#PrayForPAFF**
 
-**LyLah1207**<br>
-I'll lend you my strength<br>
+**LyLah1207**  
+I'll lend you my strength  
 **\#PrayForPAFF**
 
-**H3LPL3SS**<br>
+**H3LPL3SS**  
 My friend also fainted at the same time with PAFF!! Why is this happening?
 
-**SuduMan**<br>
-Does anyone know which hospital PAFF is taken to?<br>
+**SuduMan**  
+Does anyone know which hospital PAFF is taken to?  
 **\#PrayForPAFF**
 
-**Cipher**<br>
+**Cipher**  
 My younger brother also fainted! Several other audiences in the virtual area also collapsed... virus attack?
 
-**M3rmaid**<br>
+**M3rmaid**  
 WTH?? Is it something to do with the connection system providers?
 
-**MustangMartin**<br>
-Everybody give PAFF some energy<br>
+**MustangMartin**  
+Everybody give PAFF some energy  
 **\#PrayForPAFF**
 
-**Avalonian**<br>
+**Avalonian**  
 My head was ringing HARD when the Encore song was playing... Hacker???
 
-**PAFF-Official**<br>
+**PAFF-Official**  
 As of now, we have informed A.R.C. about the connection issues and affected users. Please stay away from false speculations while the officials handle everything. Thank you.
 
-**koolboss01**<br>
-We should stay away from the internet for now. Friends who are still connected to the virtual area should disconnect too. <br>
+**koolboss01**  
+We should stay away from the internet for now. Friends who are still connected to the virtual area should disconnect too.   
 **\#PrayForPAFF**
 
-**Michiko**<br>
-Good work Sis Helena! Your sister will be alright!! QQ<br>
+**Michiko**  
+Good work Sis Helena! Your sister will be alright!! QQ  
 **\#PrayForPAFF**
 
-**Shahari**<br>
-Noooo\~ I don't want this PAFF please wake up! QQ<br>
+**Shahari**  
+Noooo\~ I don't want this PAFF please wake up! QQ  
 **\#PrayForPAFF**
 
-**Chevalier151**<br>
+**Chevalier151**  
 A.R.C. should have some responsibility right?
 
-**AngryFan**<br>
+**AngryFan**  
 Yeah **@Xenon** what are you doing??
 
-**Shibawu**<br>
+**Shibawu**  
 Why are you tagging his personal account? Idiot
 
-**Nanako**<br>
-No arguing please! We should disconnect for now and wait for results!<br>
+**Nanako**  
+No arguing please! We should disconnect for now and wait for results!  
 **\#PrayForPAFF**
 
-**AngryFan**<br>
+**AngryFan**  
 How are we going to know the results if we disconnect?????
 
-**KarenMayako**<br>
-Is there anything we can do besides wandering around worried sick...<br>
+**KarenMayako**  
+Is there anything we can do besides wandering around worried sick...  
 **\#PrayForPAFF**
 
-**PoolsKitten**<br>
-We should all pray...pray that PAFF will be alright<br>
+**PoolsKitten**  
+We should all pray...pray that PAFF will be alright  
 **\#PrayForPAFF**
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1401"></a>\[#014\] \[Announcement\] PAFF is now awake, everything is fine.
+[Last Log](#im-post-012) | [Back to Top](#list-of-posts) | [Next Log](#im-post-014)
+
+## iM Post #014
+
+[Last Log](#im-post-013) | [Back to Top](#list-of-posts) | [Next Log](#im-post-015)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -990,8 +1045,8 @@ We should all pray...pray that PAFF will be alright<br>
 |**Re:Boost**|PAFF |Easy | 2 |
 |**Re:Boost**|PAFF |Hard | 5 |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] PAFF is now awake, everything is fine.
+**PAFF-Official**  
 Greeting fellow fans. I am Helena, PAFF's agent. 
 
 PAFF is now awake. Her condition is stable, but to be absolutely certain that she is fine, we will be staying at the hospital for a few more days to do a complete check\-up.
@@ -1010,125 +1065,129 @@ For remaining with her and supporting her through all these times, I am deeply g
 
 ![p1401.png](./attachments/p1401.png)
 ### Replies
-**Pascal626**<br>
-PAFF!! QAQ \~\~\~\~\~\~<br>
+**Pascal626**  
+PAFF!! QAQ \~\~\~\~\~\~  
 **\#PrayForPAFF**
 
-**M3rmaid**<br>
-Sis Helena, you've worked hard. Both you and PAFF are amazing people! QQ<br>
+**M3rmaid**  
+Sis Helena, you've worked hard. Both you and PAFF are amazing people! QQ  
 **\#PrayForPAFF**
 
-**CeLiA**<br>
-We are all here!!<br>
+**CeLiA**  
+We are all here!!  
 **\#PrayForPAFF**
 
-**Popo**<br>
+**Popo**  
 Anyone got anything on the accident? Just curious.
 
-**iluvpuf**<br>
-PAFF Fight!! We are all here for you!!<br>
+**iluvpuf**  
+PAFF Fight!! We are all here for you!!  
 **\#PrayForPAFF**
 
-**SancTityKnight**<br>
-Everyone give PAFF our strength so she can get well soon!<br>
+**SancTityKnight**  
+Everyone give PAFF our strength so she can get well soon!  
 **\#PrayForPAFF**
 
-**CyKa**<br>
+**CyKa**  
 **@Popo** PAFF lost her childhood memory due to a car accident. Happened before she debuted. !!
 
-**HolyEarth**<br>
-Seriously!? Always been touched by her singing, now I respect her even more after knowing what happened to her<br>
+**HolyEarth**  
+Seriously!? Always been touched by her singing, now I respect her even more after knowing what happened to her  
 **\#PrayForPAFF**
 
-**MAN_Dora**<br>
-Come on PAFF we are all waiting for you!<br>
+**MAN_Dora**  
+Come on PAFF we are all waiting for you!  
 **\#PrayForPAFF**
 
-**CandiceNaoko**<br>
-Send our blessings to PAFF<br>
+**CandiceNaoko**  
+Send our blessings to PAFF  
 **\#PrayForPAFF**
 
-**LovePAFF**<br>
-PAFF has always worked hard for us, now it's our chance to work hard for her! Everybody lend her our powers!<br>
+**LovePAFF**  
+PAFF has always worked hard for us, now it's our chance to work hard for her! Everybody lend her our powers!  
 **\#PrayForPAFF**
 
-**PoolsKitten**<br>
-We will never leave PAFF no matter what!!!!<br>
+**PoolsKitten**  
+We will never leave PAFF no matter what!!!!  
 **\#PrayForPAFF**
 
-**NEKOSAIKOU**<br>
-Load of Bull S\*\*\* seriously you morons believe this fairy tale crap? lol<br>
+**NEKOSAIKOU**  
+Load of Bull S\*\*\* seriously you morons believe this fairy tale crap? lol  
 Puffs indeed, cream for brains lolol
 
-**iluvpuf**<br>
+**iluvpuf**  
 **@NEKOSAIKOU** Would you kindly shut the \*\*\*\* up??? Or do you need a good punch in the face for you to do that?
 
-**Lynx87**<br>
-Ignore that troll\-a\*\*hole<br>
+**Lynx87**  
+Ignore that troll\-a\*\*hole  
 **\#PrayForPAFF**
 
-**Chevalier151**<br>
+**Chevalier151**  
 **@NEKOSAIKOU** stop hiding behind the screen you coward
 
-**Cipher**<br>
+**Cipher**  
 Can the officials blacklist that account?
 
-**IronFan**<br>
-Just ignore him. All these a\-holes want is to create hatred. Let us defeat the trolls with our positivity!<br>
+**IronFan**  
+Just ignore him. All these a\-holes want is to create hatred. Let us defeat the trolls with our positivity!  
 **\#PrayForPAFF**
 
-**Sayomi911**<br>
-Pray for her.<br>
+**Sayomi911**  
+Pray for her.  
 **\#PrayForPAFF**
 
-**Grimwood**<br>
-Thank you to Sis Helena for taking care of PAFF, we know your hard work<br>
+**Grimwood**  
+Thank you to Sis Helena for taking care of PAFF, we know your hard work  
 **\#PrayForPAFF**
 
-**ArupakaKUN**<br>
-OMG I can't live without PAFF \~\~\~\~<br>
+**ArupakaKUN**  
+OMG I can't live without PAFF \~\~\~\~  
 **\#PrayForPAFF**
 
-**Xenon**<br>
+**Xenon**  
 **\#PrayForPAFF**
 
-**AbbEE**<br>
-Didn't know PAFF had such a tragic backstory QAQ<br>
+**AbbEE**  
+Didn't know PAFF had such a tragic backstory QAQ  
 **\#PrayForPAFF**
 
-**LyLah1207**<br>
-Everyone pray together!<br>
+**LyLah1207**  
+Everyone pray together!  
 **\#PrayForPAFF**
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 **\#PrayForPAFF**
 
-**Delora**<br>
-Knowing PAFF's story then listen to her songs, damn I want to cry QQQQQ<br>
+**Delora**  
+Knowing PAFF's story then listen to her songs, damn I want to cry QQQQQ  
 **\#PrayForPAFF**
 
-**Shahari**<br>
-Hearing your songs is a daily routine of mine ˊ\_ˋ<br>
+**Shahari**  
+Hearing your songs is a daily routine of mine ˊ\_ˋ  
 **\#ParyForPAFF**
 
-**xxScarlexx**<br>
+**xxScarlexx**  
 **\#ParyForPAFF**
 
-**Varinaya**<br>
-PAFF fight! We will always be there! We won't leave you! \*hugs\* <br>
+**Varinaya**  
+PAFF fight! We will always be there! We won't leave you! \*hugs\*   
 **\#ParyForPAFF**
 
-**Paffy**<br>
-Sis Helena is a great person. I want a sister like her QAQ<br>
+**Paffy**  
+Sis Helena is a great person. I want a sister like her QAQ  
 **\#ParyForPAFF**
 
-**m00nl16h7**<br>
-You will be fine!<br>
+**m00nl16h7**  
+You will be fine!  
 **\#ParyForPAFF**
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1501"></a>\[#015\] Going back home, sorry for making everybody worried.
+[Last Log](#im-post-013) | [Back to Top](#list-of-posts) | [Next Log](#im-post-015)
+
+## iM Post #015
+
+[Last Log](#im-post-014) | [Back to Top](#list-of-posts) | [Next Log](#im-post-016)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1139,159 +1198,167 @@ You will be fine!<br>
 |-----------|:---:|:---:|:-:|
 |**Gravity**|PAFF |Chaos|12 |
 
-### Post
-**PAFF-Official**<br>
-Arrived home with Sis.<br>
+### Going back home, sorry for making everybody worried.
+**PAFF-Official**  
+Arrived home with Sis.  
 I've seen everybody's blessings. Thank you. ^^
 
 ![p1501.png](./attachments/p1501.png)
 ### Replies
-**PAFF-Official**<br>
+**PAFF-Official**  
 The check\-ups show everything to be fine, but I still get dizzy when thinking about the concert. Going to rest now.
 
-**CandiceNaoko**<br>
-It's a post from the real PAFF! She's back home to rest, thank god >\_<**<br>
+**CandiceNaoko**  
+It's a post from the real PAFF! She's back home to rest, thank god >\_<**  
 \#PrayForPAFF**
 
-**Pascal626**<br>
+**Pascal626**  
 It's PAFF\~ QQ can finally rest assured. So what did the doctor say?
 
-**CeLiA**<br>
-Get some rest. We'll all be here for you!<br>
+**CeLiA**  
+Get some rest. We'll all be here for you!  
 **\#PrayForPAFF**
 
-**Varinaya**<br>
+**Varinaya**  
 PAFF please log off and get some rest
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 If it's a post from herself we should be a little at ease now.
 
-**IronFan**<br>
+**IronFan**  
 PAFF mentioned this "dizzy" thing several times already. Did the doctor not check it?
 
-**AbbEE**<br>
+**AbbEE**  
 PAFF I sent you many gifts and supplements to Mono for you\~
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 Doctor PLEASE take good care of PAFF!!!
 
-**Delora**<br>
-Get some rest：)<br>
+**Delora**  
+Get some rest：)  
 **\#PrayForPAFF**
 
-**Cipher**<br>
+**Cipher**  
 Maybe a more detailed check\-up? Since you still get dizzy and stuff
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 **\#PrayForPAFF**
 
-**koolboss01**<br>
+**koolboss01**  
 Did you tell your agent to cancel some of your work? You are working way too much for your body to handle
 
-**Michiko**<br>
+**Michiko**  
 Don't overwork PAFF!
 
-**PoolsKitten**<br>
-Hope PAFF can get a good rest<br>
+**PoolsKitten**  
+Hope PAFF can get a good rest  
 **\#PrayForPAFF**
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 Don't worry, Sis Helena will take good care of PAFF!
 
-**Grimwood**<br>
-Fight PAFF! Looking forward to seeing you on stage again!<br>
+**Grimwood**  
+Fight PAFF! Looking forward to seeing you on stage again!  
 **\#PrayForPAFF**
 
-**M3rmaid**<br>
-Really want to see PAFF on stage again...<br>
+**M3rmaid**  
+Really want to see PAFF on stage again...  
 **\#PrayForPAFF**
 
-**Lynx87**<br>
-Health comes before anything<br>
+**Lynx87**  
+Health comes before anything  
 **\#PrayForPAFF**
 
-**iluvpuf**<br>
+**iluvpuf**  
 Good work for both you and Sis! We will always support you!
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1601"></a>\[#016\] \[Announcement\] Public schedule put on hold
+[Last Log](#im-post-014) | [Back to Top](#list-of-posts) | [Next Log](#im-post-016)
+
+## iM Post #016
+
+[Last Log](#im-post-015) | [Back to Top](#list-of-posts) | [Next Log](#im-post-017)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|20 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Public schedule put on hold
+**PAFF-Official**  
 Dear little Puffs, we are sorry to tell you that since we still don't have the green light from PAFF's doctor, all public events are put on hold for now. Future events will also be postponed. 
 
 For more updates, please pay attention to **@PAFF\-Official** and the Monophonic Entertainment official site. Pray for PAFF!
 ### Replies
-**m00nl16h7**<br>
+**m00nl16h7**  
 How come, didn't she return home already?
 
-**iluvpuf**<br>
+**iluvpuf**  
 Heartbroken...
 
-**Paffy**<br>
+**Paffy**  
 But I already purchased tickets what should I do with them
 
-**Varinaya**<br>
+**Varinaya**  
 I'm going to curl up in a fetal position and cry myself to sleep...
 
-**AngryFan**<br>
+**AngryFan**  
 Why are the admins posting again? Sis Helena? PAFF?
 
-**CandiceNaoko**<br>
-Pray for PAFF's health first!<br>
+**CandiceNaoko**  
+Pray for PAFF's health first!  
 **\#PrayForPAFF**
 
-**Michiko**<br>
+**Michiko**  
 Didn't she say she went home with sis Helena yesterday???
 
-**Shahari**<br>
+**Shahari**  
 I won't accept his\~\~\~QAQ
 
-**AbbEE**<br>
+**AbbEE**  
 What's wrong with PAFF? Can we get Sis Helena to explain? Instead of this official PC crap
 
-**Sayomi911**<br>
-This is too cruel to us PUFFERs...<br>
+**Sayomi911**  
+This is too cruel to us PUFFERs...  
 **\#PrayForPAFF**
 
-**CyKa**<br>
-We can only hope for the best now...<br>
+**CyKa**  
+We can only hope for the best now...  
 **\#PrayForPAFF**
 
-**CeLiA**<br>
+**CeLiA**  
 WTF!!!!!
 
-**koolboss01**<br>
+**koolboss01**  
 PAFF just posted to say that her body should be fine, what's this all of a sudden QQ
 
-**SancTityKnight**<br>
-NOOOOO PAFF you need to be OK!! OTL<br>
+**SancTityKnight**  
+NOOOOO PAFF you need to be OK!! OTL  
 **\#PrayForPAFF**
 
-**Pascal626**<br>
-Is it that serious...<br>
+**Pascal626**  
+Is it that serious...  
 **\#PrayForPAFF**
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 Why did her condition deteriorate all of a sudden...?
 
-**IronFan**<br>
+**IronFan**  
 Finally snagged a ticket too, no choice but to refund it...?
 
-**An0nym0us**<br>
+**An0nym0us**  
 My girlfriend is gonna be really sad, she had her holidays arranged too
 
-**Lynx87**<br>
+**Lynx87**  
 As a PUFFER I will not refund the ticket... I'll keep it as a souvenir
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1701"></a>\[#017\] Please give PAFF all your support!
+[Last Log](#im-post-015) | [Back to Top](#list-of-posts) | [Next Log](#im-post-017)
+
+## iM Post #017
+
+[Last Log](#im-post-016) | [Back to Top](#list-of-posts) | [Next Log](#im-post-018)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1302,175 +1369,183 @@ As a PUFFER I will not refund the ticket... I'll keep it as a souvenir
 |------------|:---:|:---:|:-:|
 |**Re:Boost**|PAFF |Chaos|11 |
 
-### Post
-**PAFF-Official**<br>
+### Please give PAFF all your support!
+**PAFF-Official**  
 PAFF is slowly getting herself back into shape. Everyone, please continue to root for her.
 
 Recently the agent has been watching PAFF very closely, since she is always trying to secretly practice singing. Even virtual simulation training is off limits for her now!
 
 Tomorrow is the routine return check\-up. We believe that the doctor will see PAFF's improvements!
 ### Replies
-**Michiko**<br>
-PAFF will certainly do well since she is always hard on herself<br>
+**Michiko**  
+PAFF will certainly do well since she is always hard on herself  
 **\#PrayForPAFF**
 
-**SancTityKnight**<br>
-Doctor please take good care of our PAFF<br>
+**SancTityKnight**  
+Doctor please take good care of our PAFF  
 **\#PrayForPAFF**
 
-**Sayomi911**<br>
-Well at least PAFF got a good break. All that workload is too much for her QQ<br>
+**Sayomi911**  
+Well at least PAFF got a good break. All that workload is too much for her QQ  
 **\#PrayForPAFF**
 
-**AbbEE**<br>
-Doctor! Please!<br>
+**AbbEE**  
+Doctor! Please!  
 **\#PrayForPAFF**
 
-**Shahari**<br>
-Sis Helena take good care of PAFF as well\~<br>
+**Shahari**  
+Sis Helena take good care of PAFF as well\~  
 **\#PrayForPAFF**
 
-**Delora**<br>
-The doctor will certainly make sure that PAFF is ok\~<br>
+**Delora**  
+The doctor will certainly make sure that PAFF is ok\~  
 **\#PrayForPAFF**
 
-**LyLah1207**<br>
-So nervous... PAFF will be ok!<br>
+**LyLah1207**  
+So nervous... PAFF will be ok!  
 **\#PrayForPAFF**
 
-**2Bad**<br>
-Too Bad...<br>
+**2Bad**  
+Too Bad...  
 **\#PrayForPAFF**
 
-**m00nl16h7**<br>
-PUFFERs lend PAFF our powers, she will be fine<br>
+**m00nl16h7**  
+PUFFERs lend PAFF our powers, she will be fine  
 **\#PrayForPAFF**
 
-**Lynx87**<br>
+**Lynx87**  
 So is PAFF now at home or at the hospital?
 
-**Arianaya**<br>
+**Arianaya**  
 At home right? The doctor only told her to not be too tired
 
-**koolboss01**<br>
-Wait patiently PUFFERs, once PAFF is healthy we can sing with her again!<br>
+**koolboss01**  
+Wait patiently PUFFERs, once PAFF is healthy we can sing with her again!  
 **\#PrayForPAFF**
 
-**PoolsKitten**<br>
-PAFF fight\~ we are all waiting for you\~<br>
+**PoolsKitten**  
+PAFF fight\~ we are all waiting for you\~  
 **\#PrayForPAFF**
 
-**IronFan**<br>
+**IronFan**  
 **\#PrayForPAFF**
 
-**CeLiA**<br>
-Anticipating PAFF's return to the stage<br>
+**CeLiA**  
+Anticipating PAFF's return to the stage  
 **\#PrayForPAFF**
 
-**xxScarlexx**<br>
+**xxScarlexx**  
 **\#PrayForPAFF**
 
-**Pascal626**<br>
-PAFF I will always love you!!!!<br>
+**Pascal626**  
+PAFF I will always love you!!!!  
 **\#PrayForPAFF**
 
-**CandiceNaoko**<br>
-She will definitely recover!!<br>
+**CandiceNaoko**  
+She will definitely recover!!  
 **\#PrayForPAFF**
 
-**iluvpuf**<br>
+**iluvpuf**  
 Anyone know which hospital she is at?
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1801"></a>\[#018\] Check up.
+[Last Log](#im-post-016) | [Back to Top](#list-of-posts) | [Next Log](#im-post-018)
+
+## iM Post #018
+
+[Last Log](#im-post-017) | [Back to Top](#list-of-posts) | [Next Log](#im-post-019)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|21 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### Check up.
+**PAFF-Official**  
 Checking up at the hospital.
 ### Replies
-**CandiceNaoko**<br>
-PAFF is at the hospital, everyone pray for PAFF!<br>
+**CandiceNaoko**  
+PAFF is at the hospital, everyone pray for PAFF!  
 **\#PrayForPAFF**
 
-**Pascal626**<br>
-Lend her our powers! PUFFERs follow suit!<br>
+**Pascal626**  
+Lend her our powers! PUFFERs follow suit!  
 **\#PrayForPAFF**
 
-**CyKa**<br>
-Take mine<br>
+**CyKa**  
+Take mine  
 **\#PrayForPAFF**
 
-**CeLiA**<br>
-Mine too<br>
+**CeLiA**  
+Mine too  
 **\#PrayForPAFF**
 
-**AbbEE**<br>
-You got the power<br>
+**AbbEE**  
+You got the power  
 **\#PrayForPAFF**
 
-**ArupakaKUN**<br>
-Power for PAFF<br>
+**ArupakaKUN**  
+Power for PAFF  
 **\#PrayForPAFF**
 
-**LyLah1207**<br>
-POWER UP!<br>
+**LyLah1207**  
+POWER UP!  
 **\#PrayForPAFF**
 
-**Arianaya**<br>
-More people follow up!<br>
+**Arianaya**  
+More people follow up!  
 **\#PrayForPAFF**
 
-**iluvpuf**<br>
+**iluvpuf**  
 Is this the real PAFF?
 
-**Delora**<br>
-Sharing my power with PAFF \\o/<br>
+**Delora**  
+Sharing my power with PAFF \\o/  
 **\#PrayForPAFF**
 
-**PoolsKitten**<br>
-Is PAFF feeling better? Don't spend too much time online.<br>
+**PoolsKitten**  
+Is PAFF feeling better? Don't spend too much time online.  
 **\#PrayForPAFF**
 
-**MAN_Dora**<br>
-PAFF let's go!<br>
+**MAN_Dora**  
+PAFF let's go!  
 **\#PrayForPAFF**
 
-**Michiko**<br>
-Gogogo\~ get some rest<br>
+**Michiko**  
+Gogogo\~ get some rest  
 **\#PrayForPAFF**
 
-**SancTityKnight**<br>
-Lend PAFF our strength!!<br>
+**SancTityKnight**  
+Lend PAFF our strength!!  
 **\#PrayForPAFF**
 
-**Sayomi911**<br>
-PAFF please recover\~ We will always be here for you\~<br>
+**Sayomi911**  
+PAFF please recover\~ We will always be here for you\~  
 **\#PrayForPAFF**
 
-**Varinaya**<br>
-Which hospital is PAFF at right now?<br>
+**Varinaya**  
+Which hospital is PAFF at right now?  
 **\#PrayForPAFF**
 
-**m00nl16h7**<br>
-Come on you are almost there!<br>
+**m00nl16h7**  
+Come on you are almost there!  
 **\#PrayForPAFF**
 
-**Paffy**<br>
-Don't let the chain be broken!<br>
+**Paffy**  
+Don't let the chain be broken!  
 **\#PrayForPAFF**
 
-**Chevalier151**<br>
-PAFF you're on your way<br>
+**Chevalier151**  
+PAFF you're on your way  
 **\#PrayForPAFF**
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p1901"></a>\[#019\] \[Announcement\] Premium collection now underway!
+[Last Log](#im-post-017) | [Back to Top](#list-of-posts) | [Next Log](#im-post-019)
+
+## iM Post #019
+
+[Last Log](#im-post-018) | [Back to Top](#list-of-posts) | [Next Log](#im-post-020)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1482,64 +1557,68 @@ PAFF you're on your way<br>
 |**Green Hope**|PAFF |Easy | 3 |
 |**Green Hope**|PAFF |Hard | 7 |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Premium collection now underway!
+**PAFF-Official**  
 Dear little Puffs, we have some good news for you\~
 
 To support PAFF, who is still recovering, Mono Music plans to produce a special premium collection for PAFF. It will record all her hard work and will contain her best songs throughout all these years!
 
-Aaaanndd...in addition to behind\-the\-scenes and crossovers, we invited Monophonic Entertainment newcomers <br>
+Aaaanndd...in addition to behind\-the\-scenes and crossovers, we invited Monophonic Entertainment newcomers   
 **@Cherry PuNK** to compose the songs, guaranteed to bring everyone a brand\-new experience!
 
 Please pay attention to **@PAFF\-Official** and the upcoming updates!
 
 ![p1901.png](./attachments/p1901.png)
 ### Replies
-**Sayomi911**<br>
+**Sayomi911**  
 We don't want premium collection; we want PAFF to be healthy!
 
-**IronFan**<br>
+**IronFan**  
 Didn't she just return to the hospital for a check\-up?
 
-**Pascal626**<br>
+**Pascal626**  
 Won't PAFF get too tired from this, did the doctor give permission? Why is the agency doing this to PAFF QQ
 
-**HC**<br>
+**HC**  
 ... I'll buy it
 
-**iluvpuf**<br>
+**iluvpuf**  
 Who the hell is Cherry PuNK?
 
-**AbbEE**<br>
+**AbbEE**  
 Isn't this a bit too much work for PAFF? Is this Sis Helena's decision?
 
-**Lynx87**<br>
+**Lynx87**  
 Premium collections nowadays is likely handled by the companies..."likely"
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 As long as PAFF gets enough rest I don't mind. I am just worried.
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 What are they trying to promote some unknown newbie?
 
-**Michiko**<br>
+**Michiko**  
 It's more important to let PAFF rest!
 
-**koolboss01**<br>
+**koolboss01**  
 But for someone like PAFF who cares so much about performance quality, it would be hard for her to stay completely out of this...
 
-**CyKa**<br>
+**CyKa**  
 Don't work PAFF too much!!!
 
-**LyLah1207**<br>
+**LyLah1207**  
 I really hope PAFF's body has recovered enough to handle this
 
-**Chevalier151**<br>
+**Chevalier151**  
 We can only wait and see
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2001"></a>\[#020\] \[Announcement\] Activities suspended and rest
+[Last Log](#im-post-018) | [Back to Top](#list-of-posts) | [Next Log](#im-post-020)
+
+## iM Post #020
+
+[Last Log](#im-post-019) | [Back to Top](#list-of-posts) | [Next Log](#im-post-021)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
@@ -1552,276 +1631,288 @@ We can only wait and see
 |**Under the same sky**|PAFF |Hard | 7 |
 |**Under the same sky**|PAFF |Chaos| 9 |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Activities suspended and rest
+**PAFF-Official**  
 Dear little Puffs, on the recommendation of the doctor, PAFF will be traveling to another Node to rest and rehabilitate.
 
 Therefore all activities will be suspended for a while. For refund policies please visit the official site\~
 
 We hope that PAFF can recharge completely and return to the stage better than ever!
 ### Replies
-**AbbEE**<br>
+**AbbEE**  
 ...Why is this happening? QAQ|||
 
-**iluvpuf**<br>
+**iluvpuf**  
 PAFF...why...why...
 
-**Doubting**<br>
+**Doubting**  
 Is this doctor really a professional?
 
-**Lynx87**<br>
+**Lynx87**  
 What's with this garbage response!?
 
-**AngryFan**<br>
+**AngryFan**  
 Give us a REAL answer will ya??? Man so disappointed!!!
 
-**PoolsKitten**<br>
+**PoolsKitten**  
 Is it really that serious?
 
-**AngryFan**<br>
+**AngryFan**  
 So you think we will be satisfied with a single POST? Agency, you better give us an acceptable explanation!
 
-**Zobrion**<br>
+**Zobrion**  
 Broken...
 
-**CyKa**<br>
+**CyKa**  
 So the result of the check\-up is...
 
-**koolboss01**<br>
+**koolboss01**  
 Where the hell is the agency? Such little information is Unacceptable to us!!!
 
-**CeLiA**<br>
+**CeLiA**  
 There is no point in living in Node08 anymore...
 
-**Pascal626**<br>
+**Pascal626**  
 Isn't she fine just a while ago?
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 !?!?!?
 
-**An0nym0us**<br>
+**An0nym0us**  
 The hell?
 
-**LyLah1207**<br>
+**LyLah1207**  
 Can we at least see what PAFF looks like now?
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 I will not be satisfied with just a single post. Let us see PAFF
 
-**IronFan**<br>
+**IronFan**  
 So serious that she needs rehabilitation???
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 Is there a more medically advanced Node than Node08?
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 Sis Helena can we at least catch a glimpse of PAFF? We are all worried sick!!
 
-**Chevalier151**<br>
+**Chevalier151**  
 Just what kind of disease did she have?
 
-**Michiko**<br>
+**Michiko**  
 If it's really so serious, shouldn't the agency give us a more detailed explanation????? ˋ口ˊ
 
-**Cipher**<br>
+**Cipher**  
 WHAT?
 
-**m00nl16h7**<br>
+**m00nl16h7**  
 Please tell us the truth of PAFF's condition and let us see her. Please.
 
-**Sayomi911**<br>
+**Sayomi911**  
 Puffs let's go to Mono Music to figure out what the hell is up!!
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2101"></a>\[#021\] \[Announcement\] Regarding《Around the Nodes》concert tour refunds
+[Last Log](#im-post-019) | [Back to Top](#list-of-posts) | [Next Log](#im-post-021)
+
+## iM Post #021
+
+[Last Log](#im-post-020) | [Back to Top](#list-of-posts) | [Next Log](#im-post-022)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|26 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Regarding《Around the Nodes》concert tour refunds
+**PAFF-Official**  
 Dear little Puffs, thank you for your support and encouragement through all this time.
 
 Monophonic Entertainment is very sorry to announce that due to PAFF's personal health conditions, her《Around the Nodes》concert tour, which was originally scheduled to begin on 702/12/24, will be postponed indefinitely. We promise right here that all fans who purchased tickets will receive a full refund as long as they have the receipt. We sincerely apologize for the inconvenience caused.
 
 The《Around the Nodes》concert tour is canceled due to multiple reasons. Monophonic Entertainment would like to sincerely apologize again to the fans, artists and all parties that are affected by this decision. We would like fans who already purchased tickets to contact the Monophonic ticketing system to apply for a refund. In addition to a full refund, we will also absorb all the extra handling costs during the refund process ourselves.
 
-Details on the refunds are as follows:<br>
-1. Expiration Date:<br>
+Details on the refunds are as follows:  
+1. Expiration Date:  
 From now till 702/10/30 (included). Time will be based on the Administration Bureau's time of connection. 
 
-2. How to return the ticket:<br>
-(A) For those who received a virtual ticket via internet pay:<br>
+2. How to return the ticket:  
+(A) For those who received a virtual ticket via internet pay:  
 Based on the transaction data and the ID chip verification, we will automatically refund the cost of the ticket to the registered account. If you wish to change your registered information, please visit the link posted at point no.3.
 
-(B) For those who received a physical ticket at a Monophonic Entertainment or other certified partners' physical store location:<br>
+(B) For those who received a physical ticket at a Monophonic Entertainment or other certified partners' physical store location:  
 We will be distributing drones to each physical store location to help with the refund process.
 
-3. For the《Around the Nodes》specialized ticket refund system, please click the link to enter<br>
+3. For the《Around the Nodes》specialized ticket refund system, please click the link to enter  
 **@AroundtheNodes\_Ticket**
 
-4. Contacts:<br>
-**@MONO\_SERVICE** <br>
+4. Contacts:  
+**@MONO\_SERVICE**   
 Online 1\-on\-1 customer service that is available 24/7
 
 ![p2101.png](./attachments/p2101.png)
 ### Replies
-**beeeeeeeeee**<br>
+**beeeeeeeeee**  
 Hold it, hold it right there! What we want is NOT refunds!!
 
-**Michiko**<br>
+**Michiko**  
 In the end still no explanation at all for PAFF's current situation ˋ口ˊ
 
-**koolboss01**<br>
+**koolboss01**  
 PAFF, I won't ask for a refund. I want you to use our money to heal yourself
 
-**An0nym0us**<br>
+**An0nym0us**  
 Should I say "Not surprised, it's Mono"?
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 Link is completely dead. The so\-called "available 24/7" customer service system also have not responded at all. Available 24/7? More like absolute trash 24/7!!!
 
-**Poopytrap**<br>
+**Poopytrap**  
 Dude, do you have too much money to throw at random crap? Maybe this is all a scam ya know
 
-**vvv_IRIS_vvv**<br>
+**vvv_IRIS_vvv**  
 Mono officials, any announcements regarding the Æsir\-FEST incident?
 
-**AbbEE**<br>
-My god that's right<br>
-Mono should know about Æsir\-FEST too<br>
+**AbbEE**  
+My god that's right  
+Mono should know about Æsir\-FEST too  
 Since they agreed to let PAFF be a guest performer
 
-**koolboss01**<br>
+**koolboss01**  
 Does your company want to give an explanation for ANYTHING
 
-**CeLiA**<br>
+**CeLiA**  
 This is not the Mono I used to know...
 
-**HC**<br>
+**HC**  
 Calm down everybody. If you think about it, there's nothing wrong with how they are dealing with this
 
-**AngryFan**<br>
+**AngryFan**  
 Do you think that refunds will solve everything!!!?
 
-**m00nl16h7**<br>
-Where's Mono's CEO?<br>
+**m00nl16h7**  
+Where's Mono's CEO?  
 Are you setting up a press conference to apologize for this mess?
 
-**Chevalier151**<br>
+**Chevalier151**  
 Idiots refund is the only way they can handle a situation like this. What else are they gonna do
 
-**IronFan**<br>
+**IronFan**  
 I'm so disappointed. I will not support you guys anymore in the future
 
-**Mohito**<br>
+**Mohito**  
 Even though the news reports say that Æsir\-FEST was held, I still couldn't piece together my schedule that day
 
-**NotScalper**<br>
+**NotScalper**  
 It's great that we can ask for a refund. I bought 15 general admission tickets
 
-**SuduMan**<br>
+**SuduMan**  
 You must be a ticket scalper, right?
 
-**PaffCheckin**<br>
-I just paid a visit to the physical store locations around that area<br>
-They said that they didn't receive any instructions from HQ<br>
+**PaffCheckin**  
+I just paid a visit to the physical store locations around that area  
+They said that they didn't receive any instructions from HQ  
 Do you really have any intention to handle this situation properly?
 
-**StuffyMouth**<br>
+**StuffyMouth**  
 Don't really want to support Mono's events from now on. SkyEkho might be the better choice. They may be a smaller company, but look at the work they did with ConneR's concert; it was f\*\*\*\*\* awesome
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2201"></a>\[#022\] \[Announcement\] Tower 054 celebration event guest revealed
+[Last Log](#im-post-020) | [Back to Top](#list-of-posts) | [Next Log](#im-post-022)
+
+## iM Post #022
+
+[Last Log](#im-post-021) | [Back to Top](#list-of-posts) | [Next Log](#im-post-023)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|27 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Tower 054 celebration event guest revealed
+**PAFF-Official**  
 Dear little Puffs, do you remember the rookie band **@Cherry PuNK** who composed a song for PAFF \~\~
 
 Originally, PAFF was scheduled to participate in the Tower 054 new floor "108" 's opening celebration event. However, since she is still not feeling well, she is unable to be present at the event herself. She will be talking with everyone through a pre\-recorded video. Monophonic Entertainment also invited Cherry PuNK to be at the event as special guests!
 
 After hearing that they will be performing in place of the still recovering PAFF, the members of Cherry PuNK have been practicing really hard. Everyone, please remember to acknowledge them and give them a huge round of applause!
 ### Replies
-**Varinaya**<br>
+**Varinaya**  
 ???
 
-**Hatehate**<br>
+**Hatehate**  
 So is this the fan page for that Strawberry Pink thing now?
 
-**lrrllrrl**<br>
+**lrrllrrl**  
 It's Cherry PuNK damnit. You're mistaking it on purpose aren't you lmfao
 
-**MustangMartin**<br>
+**MustangMartin**  
 Click the post and I immediately thought I was on the wrong page
 
-**noneXenon**<br>
+**noneXenon**  
 Support Cherry PuNK \\oo/
 
-**Hulujam**<br>
+**Hulujam**  
 I mean, this was supposed to be PAFF's event. Since they're making a change, it's kinda reasonable for them to announce it here, right?
 
-**Strawcherry**<br>
+**Strawcherry**  
 I think it's OK
 
-**AngryFan**<br>
+**AngryFan**  
 BOOOO!!! No PAFF!! BOOOOOOO!!
 
-**Mohito**<br>
+**Mohito**  
 I see, so just news about some replacement team
 
-**TreeNoAlice**<br>
+**TreeNoAlice**  
 If Cherry's there, I'll support it :))))
 
-**IronFan**<br>
+**IronFan**  
 I remember in the last refund post I said that I will not support Mono's events ever again
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 I don't think it's OK >"< Has Mono given up on PAFF
 
-**Paffy**<br>
+**Paffy**  
 Just happen to be watching the rehearsal clip, for some reason PAFF just feels kinda...off?
 
-**SuduMan**<br>
+**SuduMan**  
 How so?
 
-**Paffy**<br>
+**Paffy**  
 She looks like she's in good spirits, but it doesn't really match the description the officials gave us a while ago. Like she's supposed to be resting, but it just doesn't look that way
 
-**Paffy**<br>
-Also I'm getting some serious Déjà vu from some of the things she said. You guys help me figure this out:<br>
+**Paffy**  
+Also I'm getting some serious Déjà vu from some of the things she said. You guys help me figure this out:  
 "Thank you to everyone for their support. I'm fine, nothing really serious" and " I hope that everyone is not affected by the false rumors out there. Please trust the agency's announcements"
 
-**iluvpuf**<br>
+**iluvpuf**  
 Weren't these the things she said about a year ago on a Mono press conference explaining her "dating" rumors?
 
-**maplewing**<br>
+**maplewing**  
 Dude why do you remember crap like this so clearly lol
 
-**Paffy**<br>
+**Paffy**  
 OMG you're right! I just found the clip; it's exactly the same. Everything, from the expressions to the words, is the same!!!!!
 
-**Mecha_Giga**<br>
+**Mecha_Giga**  
 Wait so that means?????
 
-**EvilForce**<br>
+**EvilForce**  
 More BS from Mono?
 
-**MYMYM**<br>
+**MYMYM**  
 There's a clip!! I'm gonna check it out\~\~\~\~\~\~
 
-**TunaLee**<br>
+**TunaLee**  
 Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2301"></a>\[#023\] \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+[Last Log](#im-post-021) | [Back to Top](#list-of-posts) | [Next Log](#im-post-023)
+
+## iM Post #023
+
+[Last Log](#im-post-022) | [Back to Top](#list-of-posts) | [Next Log](#im-post-024)
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1829,8 +1920,8 @@ Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 |**NEKO#ΦωΦ** |34 |    Yes    |
 |**ROBO_Head**|33 |    Yes    |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
+**PAFF-Official**  
 To our dear fans and precious customers,
 
 PAFF (Real name: Aroma White), an artist who is currently under contract with us, left the hospital she was resting at on the night of September 9th without notice and has been missing since. As of today, her agent, the agency, and other colleagues have been unable to make any kind of contact with her. 
@@ -1842,111 +1933,115 @@ We are essentially PAFF's closest family when it comes to her business. As our b
 We also hope that everyone can help us locate the whereabouts of PAFF. If you have any hints, please contact us. 
 
 
-Sincerely<br>
-Chris Carpenter<br>
+Sincerely  
+Chris Carpenter  
 Monophonic Entertainment CEO
 ### Replies
-**Hatehate**<br>
-WTF, you decide to tell us the truth NOW???<br>
+**Hatehate**  
+WTF, you decide to tell us the truth NOW???  
 So you really thought we were so stupid that we would believe your previous BS, didn't you!!!
 
-**Poopytrap**<br>
+**Poopytrap**  
 So they're washing their hand of her now; not sure if they did a good job though
 
-**TunaLee**<br>
+**TunaLee**  
 Not a very clean wash imo
 
-**beeeeeeeeee**<br>
-Seriously how long has it been and NOW you're asking for help<br>
+**beeeeeeeeee**  
+Seriously how long has it been and NOW you're asking for help  
 What if something really bad actually happened to her? Who's responsibility is that!!!??????????????
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 PAFF please be OK!!!
 
-**Poopytrap**<br>
+**Poopytrap**  
 Leaving without notice all of a sudden is so worrying...
 
-**StuffyMouth**<br>
+**StuffyMouth**  
 I truly feel that asking for a refund was one of the best decisions I ever made in my life
 
-**An0nym0us**<br>
-We've been saying, "Not surprised, it's Mono" for years<br>
-Well, look what we have now<br>
+**An0nym0us**  
+We've been saying, "Not surprised, it's Mono" for years  
+Well, look what we have now  
 "Surprise, Muthaf\*\*\*er!"
 
-**koolboss01**<br>
+**koolboss01**  
 I don't give a flying f\*\*\* about your apology statement. Fix your damn refund system first!!
 
-**CeLiA**<br>
+**CeLiA**  
 I don't think an apology statement can save this mess now
 
-**HC**<br>
+**HC**  
 If she's been missing for so long, could it be a kidnapping??
 
-**lenba**<br>
+**lenba**  
 So worried about PAFF >"< what should I do
 
-**TobeTobe**<br>
+**TobeTobe**  
 If it's really a kidnapping they would've informed the police a long time ago ok. Only thing Mono didn't want was to blow this out of proportion; no way they ignore PAFF's safety
 
-**Chevalier151**<br>
+**Chevalier151**  
 Hey, I've been wanting to boycott Mono since the beginning. Anybody care to join me now?
 
-**IronFan**<br>
-We should go protest at Mono headquarters<br>
+**IronFan**  
+We should go protest at Mono headquarters  
 Did they really think that all fans are nerds who don't go outside
 
-**Mohito**<br>
+**Mohito**  
 You just exposed yourself lul
 
-**NotScalper**<br>
+**NotScalper**  
 What's wrong with being a nerd? We go outside too
 
-**SuduMan**<br>
-So Mono's been looking for her all this time to no avail and is finally asking for help now<br>
+**SuduMan**  
+So Mono's been looking for her all this time to no avail and is finally asking for help now  
 Looks like they thought too highly of themselves before?
 
-**PaffCheckin**<br>
+**PaffCheckin**  
 Yep hand washing indeed. Keeping themselves squeaky clean
 
-**StuffyMouth**<br>
-So worried about her safety<br>
+**StuffyMouth**  
+So worried about her safety  
 If everyone works together we should find her in no time
 
-**Varinaya**<br>
+**Varinaya**  
 Pray that PAFF is alright!!
 
-**PaffCheckin**<br>
+**PaffCheckin**  
 **\#PrayForPAFF** Can we still use this
 
-**Hatehate**<br>
-Let me interpret this for everyone:<br>
-Hello<br>
-PAFF got lost, even though she's an adult<br>
-We can't do anything about it as well<br>
-You can't blame the agency<br>
-Because we are only responsible for making money with PAFF<br>
+**Hatehate**  
+Let me interpret this for everyone:  
+Hello  
+PAFF got lost, even though she's an adult  
+We can't do anything about it as well  
+You can't blame the agency  
+Because we are only responsible for making money with PAFF  
 We are not responsible for being her GPS
 
-**MustangMartin**<br>
-Dude WTF pretty accurate though<br>
+**MustangMartin**  
+Dude WTF pretty accurate though  
 LMFAO
 
-**Hulujam**<br>
+**Hulujam**  
 That's a super mean interpretation
 
-**AngryFan**<br>
+**AngryFan**  
 Getting even more angry after reading it
 
-**Strawcherry**<br>
+**Strawcherry**  
 **\#PrayForPAFF**
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 Stop exaggerating the truth idiots. It's not funny at all!
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2401"></a>\[#024\] I am very sorry to everyone
+[Last Log](#im-post-022) | [Back to Top](#list-of-posts) | [Next Log](#im-post-024)
+
+## iM Post #024
+
+[Last Log](#im-post-023) | [Back to Top](#list-of-posts) | [Next Log](#im-post-025)
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -1954,8 +2049,8 @@ Stop exaggerating the truth idiots. It's not funny at all!
 |**NEKO#ΦωΦ** |34 |    No     |
 |**ROBO_Head**|33 |    No     |
 
-### Post
-**Helena**<br>
+### I am very sorry to everyone
+**Helena**  
 After the agency's statement, I feel that I should officially apologize to everyone here as well. 
 
 Regarding the concealing of PAFF's situation. I understand that everyone is worried, panicked and angry. I am very sorry.
@@ -1966,62 +2061,66 @@ This has been a very difficult time for me and other people who care about PAFF.
 
 Last but not least, thank you for reading this entire post. I don't expect anyone to forgive me for what I've done, but I do at least hope that you can understand the struggles and sadness I experienced as her sister during this time.  
 
-Monophonic Entertainment<br>
-PAFF's agent<br>
+Monophonic Entertainment  
+PAFF's agent  
 Helena White
 ### Replies
-**HolyEarth**<br>
+**HolyEarth**  
 Sis fight! We are all here to support you \~\~\~\~\~
 
-**TreeNoAlice**<br>
+**TreeNoAlice**  
 Why didn't you tell us in the first place??
 
-**IronFan**<br>
+**IronFan**  
 So what, doesn't change the fact that you're Mono's accomplice
 
-**Sayomi911**<br>
+**Sayomi911**  
 Sis don't worry, PAFF will be fine
 
-**Grimwood**<br>
+**Grimwood**  
 PAFF, please at least contact your sister, she's worried sick\~\~\~\~
 
-**ArupakaKUN**<br>
+**ArupakaKUN**  
 Did you sell your younger sister to some shady organization
 
-**Delora**<br>
+**Delora**  
 Dude shut up. Now's not the time for nonsense
 
-**EvilForce**<br>
+**EvilForce**  
 If we're being critical, I feel that the way they handled this entire sage is...  flawed, and very, very questionable, to say the least
 
-**Smurky**<br>
+**Smurky**  
 The entire Mono PR team should go home and kill themselves
 
-**CandiceNaoko**<br>
+**CandiceNaoko**  
 Sis Helena, if there's anything you need, pls tell us
 
-**koolboss01**<br>
+**koolboss01**  
 We've been through worse situations than this. We'll be fine this time too :))))
 
-**Muahaha**<br>
+**Muahaha**  
 When you found out that she's missing from the hospital, why didn't you inform the police?
 
-**Ayx_Socket**<br>
+**Ayx_Socket**  
 **\#ParyForPAFF**
 
-**Shahari**<br>
+**Shahari**  
 What happened PAFF >"< Why are you making everyone so worried
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2501"></a>\[#025\] \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
+[Last Log](#im-post-023) | [Back to Top](#list-of-posts) | [Next Log](#im-post-025)
+
+## iM Post #025
+
+[Last Log](#im-post-024) | [Back to Top](#list-of-posts) | [Next Log](#im-post-026)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|36 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
+**PAFF-Official**  
 To our dear fans and beloved customers,
 
 For the past few days, Monophonic Entertainment has been at the center of a serious conflict. The situation has taken a turn for the worse, as a fellow Monophonic Entertainment artist was violently attacked and suffered physical injuries earlier today. These incidents have severely harmed the company's reputation and our employee's safety. They are also chipping away at the positive relationship this company has built with the fans throughout the years.
@@ -2030,87 +2129,91 @@ To fellow fans who are surrounding the Monophonic Entertainment Headquarters rig
 
 We believe that only reasonable and calm conversation can lead to a path of mutual understanding. 
 
-Sincerely<br>
+Sincerely  
 Monophonic Entertainment
 
 ![p2501.png](./attachments/p2501.png)
 ### Replies
-**SancTityKnight**<br>
+**SancTityKnight**  
 Keep fighting Mono\~
 
-**StuffyMouth**<br>
-PAFF we are all here to support you<br>
+**StuffyMouth**  
+PAFF we are all here to support you  
 Can you please return to us\~\~\~
 
-**koolboss01**<br>
-Reasonable? Bulls\*\*\*!<br>
-You screw with our PAFF and now you're asking US to be reasonable??<br>
+**koolboss01**  
+Reasonable? Bulls\*\*\*!  
+You screw with our PAFF and now you're asking US to be reasonable??  
 **\#MonoWillPay**
 
-**Shrimpyy**<br>
-If only you spent as much time actually doing stuff rather than coming up with all these fancy announcements<br>
+**Shrimpyy**  
+If only you spent as much time actually doing stuff rather than coming up with all these fancy announcements  
 **\#MonoWillPay**
 
-**Rob_Oto**<br>
-As long as you give PAFF back to me, I'll be fine with anything you do<br>
+**Rob_Oto**  
+As long as you give PAFF back to me, I'll be fine with anything you do  
 **\#PrayForPAFF**
 
-**AbbEE**<br>
+**AbbEE**  
 I'm a bit worried for your PR team... they might get assaulted too...
 
-**Juggernaut**<br>
-Who gives a damn about your stupid announcements anymore? Think we haven't had enough of your BS?<br>
+**Juggernaut**  
+Who gives a damn about your stupid announcements anymore? Think we haven't had enough of your BS?  
 **\#MonoWillPay**
 
-**WhiteEYE33**<br>
-Not bad, but I thought you guys had gangs behind you? Oh my, I'm so scared\~\~<br>
+**WhiteEYE33**  
+Not bad, but I thought you guys had gangs behind you? Oh my, I'm so scared\~\~  
 **\#MonoWillPay**
 
-**Miyoko1212**<br>
+**Miyoko1212**  
 Were you watching NEKO's stream too?
 
-**Jingleglimmer**<br>
+**Jingleglimmer**  
 I personally don't think Mono is a company with gang connections... Then again, who in the right mind would openly talk about this...
 
-**KirinKiraKira**<br>
+**KirinKiraKira**  
 **\#PrayForPAFF** vs **\#MonoWillPay**... Let's get ready to rumble\~\~\~\~!!!
 
-**Hatehate**<br>
-The only reason Cherry was assaulted was that she is YOUR artist. Shouldn't you guys be held responsible for that too???<br>
+**Hatehate**  
+The only reason Cherry was assaulted was that she is YOUR artist. Shouldn't you guys be held responsible for that too???  
 **\#MonoWillPay**
 
-**iluvpuf**<br>
+**iluvpuf**  
 Mono fight! PAFF fight!
 
-**Damn3D**<br>
-Missing artist, check. Injured artist, check. P\*\*\*ing off fans, double check. Refund issues, s\*\*\* tons. What else can you guys add to your amazing resume?<br>
+**Damn3D**  
+Missing artist, check. Injured artist, check. P\*\*\*ing off fans, double check. Refund issues, s\*\*\* tons. What else can you guys add to your amazing resume?  
 **\#MonoWillPay**
 
-**UCantCme**<br>
+**UCantCme**  
 Feeling that logic no longer exists in this building anymore lol. BUT nobody's gonna see this post anyway (Bye\~\~
 
-**CandiceNaoko**<br>
-Too much fake news<br>
+**CandiceNaoko**  
+Too much fake news  
 Aren't you folks going to clear up some of the questions?
 
-**AngryFan**<br>
-You people make me want to puke <br>
+**AngryFan**  
+You people make me want to puke   
 **\#MonoWillPay**
 
-**PAFFxNEKO**<br>
-**\#MonoWillPrayForPAFF**<br>
+**PAFFxNEKO**  
+**\#MonoWillPrayForPAFF**  
 I combined the two hashtags so we can kill two birds with one stone. I'm a genius >\_^
 
-[*(Click here to go back to the top)*](#toc)
 
-## <a id="p2601"></a>\[#026\] \[Annoucement\] Explaining the decision behind the contract termination of PAFF
+[Last Log](#im-post-024) | [Back to Top](#list-of-posts) | [Next Log](#im-post-026)
+
+## iM Post #026
+
+[Last Log](#im-post-025) | [Back to Top](#list-of-posts)
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|40 |    No     |
 
-### Post
-**PAFF-Official**<br>
+### \[Annoucement\] Explaining the decision behind the contract termination of PAFF
+**PAFF-Official**  
 To our dear fans and beloved customers,
 
 Monophonic Entertainment Inc. signed Miss Aroma White to a contract back in 695. For the past seven years, ever since her performance debut under the name "PAFF", we have always treated everything regarding Miss White with the highest possible standards. We always try our best to give fellow fans the best experience.
@@ -2121,93 +2224,94 @@ Therefore, we hereby announce the following information to fellow fans and frien
 
 We wish Miss White the best of luck in her future. We will continue to work hard to create the highest quality of performance experience. We hope that fellow fans can continue supporting our other artists.
 
-Sincerely<br>
+Sincerely  
 Monophonic Entertainment
 ### Replies
-**ArupakaKUN**<br>
-Holy s\*\*\*<br>
-Dick move, Mono, dick move...<br>
+**ArupakaKUN**  
+Holy s\*\*\*  
+Dick move, Mono, dick move...  
 You made all the money, lose an actual living person, gave us no clear explanation and now you terminate her contract when she is STILL MISSING???
 
-**Poopytrap**<br>
-Hiding behind all these big words... cowards!<br>
-Why don't you just terminate yourself?  <br>
+**Poopytrap**  
+Hiding behind all these big words... cowards!  
+Why don't you just terminate yourself?    
 **\#MonoWillPay**
 
-**Shahari**<br>
+**Shahari**  
 I've been waiting for news about PAFF every day and this is what I get in return...
 
-**Shrimpyy**<br>
-So you place property damage ahead of your artist getting injured...<br>
-Even though "Not surprised, it's Mono", you people will never cease to amaze me at how disgusting you can be<br>
+**Shrimpyy**  
+So you place property damage ahead of your artist getting injured...  
+Even though "Not surprised, it's Mono", you people will never cease to amaze me at how disgusting you can be  
 **\#MonoWillPay**
 
-**SancTityKnight**<br>
+**SancTityKnight**  
 TBH I think they're pretty unlucky themselves... who knew that PAFF would disappear all of a sudden
 
-**Varinaya**<br>
+**Varinaya**  
 Dude, RUN! You can't just say the truth! The angry mob will come knocking with their flaming pitchforks!
 
-**PAFFxNEKO**<br>
-**\#PrayForPAFF**<br>
+**PAFFxNEKO**  
+**\#PrayForPAFF**  
 **\#MonoWillPay**
 
-**Curo**<br>
-Super p\*\*\*ed off<br>
-The idol I've been following for 7 years just got tossed away like trash<br>
+**Curo**  
+Super p\*\*\*ed off  
+The idol I've been following for 7 years just got tossed away like trash  
 What, is she a tumor you're trying to get rid of???
 
-**Dreamer**<br>
-I call for another protest!!!<br>
-**\#F\*\*kYouMono**<br>
-**\#F\*\*kYouMono**<br>
+**Dreamer**  
+I call for another protest!!!  
+**\#F\*\*kYouMono**  
+**\#F\*\*kYouMono**  
 **\#F\*\*kYouMono**
 
-**HandsomeYi**<br>
-Truly feel bad for PAFF and CHERRY<br>
+**HandsomeYi**  
+Truly feel bad for PAFF and CHERRY  
 Got themselves involved with a garbage company like this
 
-**Srys_lee**<br>
-Ladies and gentlemen, I present to you\~<br>
-Mono Pride\~<br>
-We will continue to f\*\*\* with your favorite artists since we don't give a damn about what you think\~ Oh, but don't forget to give us money because f\*\*\* you<br>
+**Srys_lee**  
+Ladies and gentlemen, I present to you\~  
+Mono Pride\~  
+We will continue to f\*\*\* with your favorite artists since we don't give a damn about what you think\~ Oh, but don't forget to give us money because f\*\*\* you  
 Seriously, why don't you guys just go eat s\*\*\* and die
 
-**Arkman**<br>
-Mono Pride sounds so ironic now...<br>
+**Arkman**  
+Mono Pride sounds so ironic now...  
 **\#MonoWillPay**
 
-**PaffCheckin**<br>
-Just where exactly did paff go... does anyone have witness information?<br>
-No updates from Sis Helena either...<br>
+**PaffCheckin**  
+Just where exactly did paff go... does anyone have witness information?  
+No updates from Sis Helena either...  
 **\#PrayForPAFF**
 
-**AngryFan**<br>
-Made loads of money with PAFF, yet one mistake and you immediately abandon her...<br>
-Fool me once, shame on you. Fool me twice, shame on me. I will never spend another penny on anything with your name on it<br>
+**AngryFan**  
+Made loads of money with PAFF, yet one mistake and you immediately abandon her...  
+Fool me once, shame on you. Fool me twice, shame on me. I will never spend another penny on anything with your name on it  
 **\#MonoWillPay**
 
-**FuriousFan**<br>
+**FuriousFan**  
 **\#FYM \#FYM \#FYM**
 
-**MAN_Dora**<br>
+**MAN_Dora**  
 While I won't say it's entirely you guys' fault, this really does leave a bad taste in my mouth...
 
-**Juggernaut**<br>
-Boycott this BS!!!<br>
+**Juggernaut**  
+Boycott this BS!!!  
 Boycott until the end of the world!
 
-**Hatehate**<br>
-Congratulations, Mono, you played yourself.<br>
-Never seen a company that screws up as much as you folks<br>
+**Hatehate**  
+Congratulations, Mono, you played yourself.  
+Never seen a company that screws up as much as you folks  
 Mono is dead to me, see you in hell
 
-**TobeTobe**<br>
-And you had the GALL to wish her best of luck at the end... when you don't even know if she's alive or not! I am so angry that I want to cry...<br>
+**TobeTobe**  
+And you had the GALL to wish her best of luck at the end... when you don't even know if she's alive or not! I am so angry that I want to cry...  
 **\#PrayForPAFF**
 
-**IronFan**<br>
+**IronFan**  
 So disappointed in you people. You don't deserve PAFF. Goodbye
 
-[*(Click here to go back to the top)*](#toc)
+
+[Last Log](#im-post-025) | [Back to Top](#list-of-posts)
 
