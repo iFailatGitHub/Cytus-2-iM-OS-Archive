@@ -43,7 +43,8 @@ doesn't matter whether you tapped the note on PAFF's call. Attempting to select
 any character will just show a ruined version of the character's background,
 except for Vanessa, who will give you a choice to change your ending.
 
-You can watch the video of the bad ending [here](https://youtu.be/_c0Cf_zOwBc).
+You can watch the video of the bad ending, the title screen, and
+the character backgrounds [here](https://youtu.be/ElUm1YaBZYM).
 
 ### Easter Egg
 If you want an easter egg, **do not skip the credits in this ending**.
