@@ -33,7 +33,7 @@ You can watch the video of the good ending [here](https://youtu.be/XCF7z41jcn4).
 ## Neutral Ending
 To trigger the neutral ending, before battling against Vanessa, don't respond to
 PAFF's call, but tap the note at the end of the battle. Afterwards, you can unlock
-**Used to be** by reading [this iM post](./im_posts/Other_iM.md#im-post-150)
+**Used to be** by reading [this iM post](./im_posts/Other_iM.md#im-post-150).
 
 You can watch the video of the neutral ending [here](https://youtu.be/4ijHIlPNSGo).
 
