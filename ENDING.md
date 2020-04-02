@@ -7,9 +7,9 @@
 - [Bad Ending](#bad-ending)
 
 ## WARNING
-**IF YOU DON'T WANT TO GET SPOILED, GO READ ALL THE FREE OS LOGS FIRST**.
-Okay now that you read that, don't get mad at me reading more and getting
-spoiled.
+**IF YOU DON'T WANT TO GET SPOILED, GO READ ALL THE FREE OS LOGS FIRST**.  
+Okay now that you read that, don't get mad at me for reading more and
+getting spoiled.
 
 ## Requirements
 |   Char.   |Lv.|Lv. Locked?|
