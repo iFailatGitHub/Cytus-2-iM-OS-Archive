@@ -1275,6 +1275,9 @@ Every time I want to say "take care of yourself" to Robo\_head I forget that he 
 
 [Last Log](#im-post-021) | [Back to Top](#list-of-posts) | [Next Log](#im-post-023)
 
+### Story Lock
+You need to trigger **Æesir's attack on NEKO#ΦωΦ's stream** to unlock this post.
+
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -1425,6 +1428,9 @@ THE TRUTH! \*claps\*
 ## iM Post #024
 
 [Last Log](#im-post-023) | [Back to Top](#list-of-posts) | [Next Log](#im-post-025)
+
+### Story Lock
+You need to trigger **Æesir's attack on NEKO#ΦωΦ's stream** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|

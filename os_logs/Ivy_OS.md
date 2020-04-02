@@ -1,86 +1,99 @@
 # Ivy OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
-- [OS Log #043](#os-log-043)
-- [OS Log #044](#os-log-044)
-- [OS Log #045](#os-log-045)
-- [OS Log #046](#os-log-046)
-- [OS Log #047](#os-log-047)
-- [OS Log #048](#os-log-048)
-- [OS Log #049](#os-log-049)
-- [OS Log #050](#os-log-050)
-- [OS Log #051](#os-log-051)
-- [OS Log #052](#os-log-052)
-- [OS Log #053](#os-log-053)
-- [OS Log #054](#os-log-054)
-- [OS Log #055](#os-log-055)
-- [OS Log #056](#os-log-056)
-- [OS Log #057](#os-log-057)
-- [OS Log #058](#os-log-058)
-- [OS Log #059](#os-log-059)
-- [OS Log #060](#os-log-060)
-- [OS Log #061](#os-log-061)
-- [OS Log #062](#os-log-062)
-- [OS Log #063](#os-log-063)
-- [OS Log #064](#os-log-064)
-- [OS Log #065](#os-log-065)
-- [OS Log #066](#os-log-066)
-- [OS Log #067](#os-log-067)
-- [OS Log #068](#os-log-068)
-- [OS Log #069](#os-log-069)
-- [OS Log #070](#os-log-070)
-- [OS Log #071](#os-log-071)
-- [OS Log #072](#os-log-072)
-- [OS Log #073](#os-log-073)
-- [OS Log #074](#os-log-074)
-- [OS Log #075](#os-log-075)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+    - [OS Log #033](#os-log-033)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+    - [OS Log #038](#os-log-038)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #039](#os-log-039)
+    - [OS Log #040](#os-log-040)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #041](#os-log-041)
+    - [OS Log #042](#os-log-042)
+    - [OS Log #043](#os-log-043)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #044](#os-log-044)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #045](#os-log-045)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #046](#os-log-046)
+    - [OS Log #047](#os-log-047)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #048](#os-log-048)
+    - [OS Log #049](#os-log-049)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #050](#os-log-050)
+    - [OS Log #051](#os-log-051)
+    - [OS Log #052](#os-log-052)
+    - [OS Log #053](#os-log-053)
+    - [OS Log #054](#os-log-054)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #055](#os-log-055)
+    - [OS Log #056](#os-log-056)
+    - [OS Log #057](#os-log-057)
+    - [OS Log #058](#os-log-058)
+    - [OS Log #059](#os-log-059)
+    - [OS Log #060](#os-log-060)
+    - [OS Log #061](#os-log-061)
+    - [OS Log #062](#os-log-062)
+    - [OS Log #063](#os-log-063)
+    - [OS Log #064](#os-log-064)
+    - [OS Log #065](#os-log-065)
+    - [OS Log #066](#os-log-066)
+    - [OS Log #067](#os-log-067)
+    - [OS Log #068](#os-log-068)
+    - [OS Log #069](#os-log-069)
+    - [OS Log #070](#os-log-070)
+    - [OS Log #071](#os-log-071)
+    - [OS Log #072](#os-log-072)
+    - [OS Log #073](#os-log-073)
+    - [OS Log #074](#os-log-074)
+    - [OS Log #075](#os-log-075)
 
-## OS Log #001
+## Added on v2.0
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Main\_Log\_699\_12\_23
+#### Main\_Log\_699\_12\_23
 This is...... How long has it been...?
 
 Nothing but green... In my memory, this is a precious color, but all my eyes can see now are shrubs, moss, and vines. To a point where the sky is barely visible. 
@@ -94,21 +107,22 @@ However, before I go back...... there is one thing I must do first.
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Command Code
+#### Command Code
 The command code is `2501004`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
 |---------|:---:|:---:|:-:|
 |**Reset**| Ivy |Easy | 3 |
 |**Reset**| Ivy |Hard | 7 |
 |**Reset**| Ivy |Chaos|12 |
 
-### Main\_Log\_102\_01\_18
+#### Main\_Log\_102\_01\_18
 Protocol activated  
 Initializing reset and mass production procedure  
 Core 20\*\*\*\*V to 49\*\*\*\*F series  
@@ -147,26 +161,28 @@ Caretaker......complete
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Image\_???\_699\_12\_23
+#### Image\_???\_699\_12\_23
 ![ivos0301.png](./attachments/ivos0301.png)
 
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 2 |    No     |
 
-### Cam\_???\_699\_12\_25
+#### Cam\_???\_699\_12\_25
 _\[Footsteps\]_
 
 **Ivy**  
@@ -218,16 +234,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 3 |    No     |
 
-### Main\_Log\_699\_12\_28
+#### Main\_Log\_699\_12\_28
 Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. 
 
 When I woke up this morning, the creature I rescued last time was staring at me while hiding behind a tree. The moment I turn my head, it immediately ducks back behind the tree; but then it quickly peeks out again with an expression filled with curiosity. No matter where I go, whenever I turn around, I can always see it.
@@ -239,26 +256,27 @@ Looking at it, I'm getting sleepy as well. That's it for today.
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 4 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `2501004`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
 |---------|:---:|:---:|:-:|
 |**D R G**| Ivy |Easy | 2 |
 |**D R G**| Ivy |Hard | 6 |
 |**D R G**| Ivy |Chaos|11 |
 
-### ???\_???\_142\_??\_??
+#### ???\_???\_142\_??\_??
 **[Shelter System]**  
 _All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
@@ -397,21 +415,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 5 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**Sentimental Journey**| Ivy |Chaos|14 |
 
-### Cam\_???\_699\_12\_30
+#### Cam\_???\_699\_12\_30
 _\[Footsteps\]_
 
 **Ivy**  
@@ -477,16 +496,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 6 |    No     |
 
-### Main\_Log\_699\_12\_30
+#### Main\_Log\_699\_12\_30
 Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated?
 
 From their conversations, I figured out that their mission has one last location to visit. I went ahead to the coordinates and checked out the place. As I expected, it's "Shelter 32". It's located in the complete opposite direction of "Shelter 08", the one I'm going to. However, I must save it from their hands first...
@@ -500,26 +520,27 @@ The database index inside each Shelter has the coordinates of every Shelter. Aft
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 7 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `2501004`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Biotonic**| Ivy |Easy | 3 |
 |**Biotonic**| Ivy |Hard | 7 |
 |**Biotonic**| Ivy |Chaos|13 |
 
-### ???\_???\_143\_??\_??
+#### ???\_???\_143\_??\_??
 **[Shelter System]**  
 _All units, proceed to the freezing capsule area, Prepare to begin daily routine checkup._
 
@@ -656,16 +677,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**| 8 |    No     |
 
-### Audio\_???\_699\_12\_31
+#### Audio\_???\_699\_12\_31
 **Sagar**  
 Big B, you done setting it up?
 
@@ -818,11 +840,14 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/zMfZTXMbYQI))*
+
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |24 |    No     |
@@ -830,7 +855,7 @@ _\[Signal Lost\]_
 |**ROBO_Head**|24 |    No     |
 |**Ivy**      | 9 |    Yes    |
 
-### Main\_Log\_700\_01\_01
+#### Main\_Log\_700\_01\_01
 ...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years?
 
 How is that...... N, no, I have to calm down...
@@ -848,21 +873,22 @@ Coordinates show that Node 08 is just nearby. Time to move.
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
 |---------------|:---:|:---:|:-:|
 |**Alexandrite**| Ivy |Chaos|13 |
 
-### Audio\_08GateC\_700\_01\_01
+#### Audio\_08GateC\_700\_01\_01
 _\[Armored car engine\]_
 
 **Agent A**  
@@ -981,16 +1007,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|11 |    No     |
 
-### Cam\_Drone117\_700\_01\_01
+#### Cam\_Drone117\_700\_01\_01
 **[Ice Cream Machine]**  
 _Come, look over here! Delicious ice cream! Ho? Little boy, your name is Sam, right? This ice cream is free! Here's one for you!_
 
@@ -1090,16 +1117,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|11 |    No     |
 
-### Main\_Log\_700\_01\_02
+#### Main\_Log\_700\_01\_02
 \[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function.
 
 What is going on......? When I saw humans wandering in the forbidden area, I already felt that something is out of the ordinary...... As expected, the Node... is not what I imagined. At the very least, I am certain that it is very different from the supposed look stated in the "Protocol".  
@@ -1125,24 +1153,25 @@ Crap...... The energy ingested from biomass is indeed limited. Got to think of s
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|12 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `2501005`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Tokiwatari**| Ivy |Chaos|13 |
 
-### ???\_???\_143\_??\_??
+#### ???\_???\_143\_??\_??
 **[Cytus System]**  
 _All units, proceed to Cytus mainframe for connection. Initiate emotion synchronization and troubleshoot._
 
@@ -1297,16 +1326,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|12 |    No     |
 
-### Cam\_Cafe\_700\_01\_02
+#### Cam\_Cafe\_700\_01\_02
 **Pedestrian A**  
 Hick... Aww\~ I love you so much\~
 
@@ -1432,16 +1462,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|13 |    No     |
 
-### Cam\_Academy\_700\_01\_04
+#### Cam\_Academy\_700\_01\_04
 **[Basicpedia 01]**  
 _Thank you for using the "Basicpedia" service! Learner Ivy! What would you like to learn about today?_
 
@@ -1569,26 +1600,27 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|14 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `2501005`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
 |---------|:---:|:---:|:-:|
 |**Purge**| Ivy |Easy | 4 |
 |**Purge**| Ivy |Hard | 8 |
 |**Purge**| Ivy |Chaos|12 |
 
-### ???\_???\_144\_??\_??
+#### ???\_???\_144\_??\_??
 **Ivy**  
 Vanessa, today's work is over. Do you want to go to the garden?
 
@@ -1768,16 +1800,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|15 |    No     |
 
-### Audio\_ARC\_700\_03\_16
+#### Audio\_ARC\_700\_03\_16
 **[Tour Guide Robot]**  
 _Everyone in the tour, are you ready?   
 We are about to board the gravity transporter to visit the A.R.C. Sky headquarters. Parents, please pay attention to your children. Do not run around on the transporter._
@@ -1912,16 +1945,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|16 |    No     |
 
-### Main\_Log\_700\_03\_17
+#### Main\_Log\_700\_03\_17
 The virtual internet "cyTus" system that has been rewritten by humans... It's not that easy to hack into it. However, I observed quite a bit of useful information when I infiltrated A.R.C. HQ. Thus, it's not an undoable task for me either. It won't take me long to finally get a peek at when they are hiding inside their so\-called "Library".
 
 ![ivos2001.png](./attachments/ivos2001.png)
@@ -1931,26 +1965,27 @@ The virtual internet "cyTus" system that has been rewritten by humans... It's no
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|17 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `2404049`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
 |-----------|:---:|:---:|:-:|
 |**Area184**| Ivy |Easy | 4 |
 |**Area184**| Ivy |Hard | 8 |
 |**Area184**| Ivy |Chaos|12 |
 
-### ???\_???\_149\_??\_??
+#### ???\_???\_149\_??\_??
 **Ivy**  
 ......nessa...... Vanessa！
 
@@ -2125,22 +2160,25 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/rK-GNRk6GV8))*
+
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|18 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**BloodyMare**| Ivy |Easy | 3 |
 |**BloodyMare**| Ivy |Hard | 8 |
 
-### Main\_Log\_700\_03\_20
+#### Main\_Log\_700\_03\_20
 Vanessa...... is used as a research subject by humans. She is no longer conscious, but she is still alive...... Her physical body couldn't leave that room. Therefore, the entire structure was forcefully dug up from the ruins and locked inside A.R.C. headquarters...... I must save her.  
    
 I don't understand...... Vanessa was excavated by humans ten years ago. It was only after discovering her did human technology experience a massive advancement. 
@@ -2170,16 +2208,17 @@ Wait for me, Vanessa. I will definitely save you.
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|19 |    No     |
 
-### Truth\_Moment\_700\_09\_18
+#### Truth\_Moment\_700\_09\_18
 _\[Show starts\]_
 
 **BJ**  
@@ -2242,21 +2281,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**BloodyMare**| Ivy |Chaos|13 |
 
-### Main\_Log\_701\_09\_18
+#### Main\_Log\_701\_09\_18
 Every required condition has been clarified. My plan is about to officially enter its execution phase...
 
 Humans are actually very simple creatures. They are proud of having individually unique traits, yet couldn't live outside their social circle. They have the ability of independent thinking, yet often prefer to blindly follow others. This is part of the main reason why I am so optimistic about this plan.
@@ -2281,16 +2321,17 @@ Awaiting your response.
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|20 |    No     |
 
-### Audio\_Graveyard\_701\_12\_02
+#### Audio\_Graveyard\_701\_12\_02
 **Ivy**  
 Finally able to avoid those humans. However, what is this place...
 
@@ -2371,22 +2412,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|21 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Lunar Mare**| Ivy |Easy | 4 |
 |**Lunar Mare**| Ivy |Hard | 8 |
 
-### cyTus\_Server08\_702\_01\_18
+#### cyTus\_Server08\_702\_01\_18
 ![ivos2601.png](./attachments/ivos2601.png)
 
 ![ivos2602.png](./attachments/ivos2602.png)
@@ -2396,21 +2438,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Lunar Mare**| Ivy |Chaos|14 |
 
-### Main\_Log\_702\_07\_27
+#### Main\_Log\_702\_07\_27
 Ran a quick test with the collected memories. The system did not function... The accumulated emotion sample size is still too small. In order to successfully simulate the Cytus system, I still need to collect more... 
 
 There is just one problem. Just now, I saw the news that the idol singer I previously invited fainted during her personal concert. She experienced a stimulation that caused her memories to relapse and this is the sequela of that...  
@@ -2427,22 +2470,23 @@ I've purposely made my connection trails very complicated, yet this person was s
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**99 Glooms**| Ivy |Easy | 5 |
 |**99 Glooms**| Ivy |Hard | 7 |
 
-### Cam\_76st\_702\_06\_11
+#### Cam\_76st\_702\_06\_11
 **Neko**  
 I, I'm fine... I'm just a little... flustered. Ehehe...
 
@@ -2500,21 +2544,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|23 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**99 Glooms**| Ivy |Chaos|14 |
 
-### cyTus\_Server03\_702\_08\_16
+#### cyTus\_Server03\_702\_08\_16
 **JOE**  
 I've checked the products. 15 crates, all in perfect condition.  
 I just moved them to wasteland 07. They are so heavy... I've already sent you the location. Go pick them up yourself.
@@ -2588,11 +2633,12 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |54 |    No     |
@@ -2600,7 +2646,7 @@ _\[Signal Lost\]_
 |**ROBO_Head**|54 |    No     |
 |**Ivy**      |24 |    Yes    |
 
-### Main\_Log\_702\_08\_24
+#### Main\_Log\_702\_08\_24
 This attack, due to the boost from the amplifying equipment, the conversion rate is very promising... It could also be because of Neko Asakura. Her fans are all extremely restless. They provide a completely different emotion... I have to thank her for it. 
 
 The more concerning thing is that the tracking signal from the proxies has been getting closer and closer. Several IP locations have already been exposed. To be honest, I am very surprised. Within the ranks of the virtual internet system, there actually exist someone that can make me feel "threatened". 
@@ -2616,22 +2662,23 @@ If Simon Jackson takes one more step closer to me...
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|25 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Pressure**| Ivy |Easy | 3 |
 |**Pressure**| Ivy |Hard | 7 |
 
-### Cam\_Tower017\_702\_08\_26
+#### Cam\_Tower017\_702\_08\_26
 **Man**  
 Wait for daddy here, okay? I'll be back in a minute.
 
@@ -2800,16 +2847,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|26 |    No     |
 
-### Main\_Log\_702\_09\_01
+#### Main\_Log\_702\_09\_01
 I did it! All the samples have been inputted into her core!
 
 ![ivos3201.png](./attachments/ivos3201.png)
@@ -2827,21 +2875,22 @@ Can you hear me......?
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|27 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Pressure**| Ivy |Chaos|12 |
 
-### Main\_Log\_702\_09\_20
+#### Main\_Log\_702\_09\_20
 Brought back the model during the night. It was hit by a pulse pistol and suffered quite a bit of damage. Won't be able to operate outside again in the near future.
 
 I severely underestimated Simon Jackson... His A.I. found my image in A.R.C.'s database. Subsequent investigations led him to discover the base in factory 03. It's too risky to let him continue to investigate freely like this. 
@@ -2857,16 +2906,17 @@ Just wait for me a little longer, Vanessa.
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|28 |    No     |
 
-### ???\_???\_702\_09\_26
+#### ???\_???\_702\_09\_26
 _\[Connection\]_
 
 **Xenon-A.I.**  
@@ -2966,11 +3016,12 @@ _\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |55 |    No     |
@@ -2978,14 +3029,14 @@ _\[Sig ̷ ͝ ̡ ͡ ̀ ̴ Lost\]_
 |**ROBO_Head**|55 |    No     |
 |**Ivy**      |29 |    Yes    |
 
-### Unlocked Charts
+#### Unlocked Charts
 | Song  |Char.|Diff.|Lv.|
 |-------|:---:|:---:|:-:|
 |**V.** | Ivy |Easy | 6 |
 |**V.** | Ivy |Hard |10 |
 |**V.** | Ivy |Chaos|15 |
 
-### Main\_Log\_702\_10\_25
+#### Main\_Log\_702\_10\_25
 Everything has been planned out. No more hidden concerns. The condition of Cytus is also perfect.
 
 The time right now...... 00:01:12......
@@ -2995,16 +3046,19 @@ It's time.
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+## Added on v2.1
+
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|30 |    No     |
 
-### ???\_???\_149\_??\_??
+#### ???\_???\_149\_??\_??
 _\[Runs\]_
 
 **Ilka**  
@@ -3123,16 +3177,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|31 |    No     |
 
-### Audio\_???\_702\_10\_25
+#### Audio\_???\_702\_10\_25
 **Vanessa**  
 ...... Ivy?
 
@@ -3253,16 +3308,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|32 |    No     |
 
-### ???\_???\_149\_??\_??
+#### ???\_???\_149\_??\_??
 **OPCI_2503_III**  
 Ilka... Are you sure about this...?
 
@@ -3289,16 +3345,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+## Added on v2.2
+
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|33 |    No     |
 
-### Audio\_???\_702\_11\_02
+#### Audio\_???\_702\_11\_02
 **Ivy**  
 Vanessa, can you hear me?
 
@@ -3424,16 +3483,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|34 |    No     |
 
-### Main\_Log\_702\_11\_06
+#### Main\_Log\_702\_11\_06
 Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent...
 
 This is so hard to explain. I could easily use suggestion on her. As long as I have the desire, completely destroying her brain is not difficult as well. Yet I couldn't completely control her mind and her decision\-making. Could it be that her brain's strength is capable of overriding my suggestion? That's impossible; she's just a mere human who couldn't be more ordinary.  
@@ -3447,16 +3507,19 @@ Better finish the re\-evaluation of the Cytus system first as soon as possible. 
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+## Added on v2.3
+
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|35 |    No     |
 
-### Audio\_???\_702\_11\_09
+#### Audio\_???\_702\_11\_09
 **Vanessa**  
 ...... Ivy!
 
@@ -3573,16 +3636,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|36 |    No     |
 
-### Audio\_Graveyard\_702\_07\_13
+#### Audio\_Graveyard\_702\_07\_13
 **Ivy**  
 ... That person again.
 
@@ -3734,16 +3798,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-## OS Log #043
+### OS Log #043
+___
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|37 |    No     |
 
-### Cam\_???\_702\_11\_16
+#### Cam\_???\_702\_11\_16
 **[cyTus System]**  
 _Secure connection configuration..._
 
@@ -3878,16 +3943,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-## OS Log #044
+## Added on v2.4
+
+### OS Log #044
+___
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|38 |    No     |
 
-### Cam\_Sam\_702\_11\_16
+#### Cam\_Sam\_702\_11\_16
 **Susan**  
 Greetings, everyone. The current location I am at now is Quadrant II, 53rd Street.
 
@@ -3983,16 +4051,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-## OS Log #045
+## Added on v2.5
+
+### OS Log #045
+___
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|39 |    No     |
 
-### Cam\_Arc\_702\_11\_26
+#### Cam\_Arc\_702\_11\_26
 _\[Door Opens\]_
 
 **Rin**  
@@ -4121,16 +4192,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-## OS Log #046
+## Added on v2.6
+
+### OS Log #046
+___
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|40 |    No     |
 
-### Audio\_08GateC\_702\_11\_26
+#### Audio\_08GateC\_702\_11\_26
 **Sagar**  
 Sorry, I got delayed with some things. Big B, how's the preparation going?
 
@@ -4279,16 +4353,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-## OS Log #047
+### OS Log #047
+___
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|40 |    No     |
 
-### Cam\_61St\_702\_11\_26
+#### Cam\_61St\_702\_11\_26
 _\[Drones flying\]_
 
 _\[Hurried Footsteps\]_
@@ -4430,16 +4505,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-## OS Log #048
+## Added on v2.7
+
+### OS Log #048
+___
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|41 |    No     |
 
-### Audio\_???\_702\_11\_29
+#### Audio\_???\_702\_11\_29
 **Ivy**  
 Can you hear me...?
 
@@ -4470,7 +4548,7 @@ Still not replying? Whatever, you just have to listen.
 **Ivy**  
 My name... is Ivy, and the one that's locked inside Library by you guys... is Vanessa. We're both Architects from the early stages of the reconstruction project.
 
-**Ivy**  
+**???**  
 ......!
 
 **Ivy**  
@@ -4537,16 +4615,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-## OS Log #049
+### OS Log #049
+___
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|42 |    No     |
 
-### Audio\_Ivy\_702\_12\_08
+#### Audio\_Ivy\_702\_12\_08
 **Noah**  
 .......  
 ... Uggghhh...
@@ -4640,16 +4719,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-## OS Log #050
+## Added on v2.8
+
+### OS Log #050
+___
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|43 |    No     |
 
-### Audio\_???\_702\_12\_02
+#### Audio\_???\_702\_12\_02
 **Ivy**  
 ... It's me.
 
@@ -4809,16 +4891,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-## OS Log #051
+### OS Log #051
+___
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|44 |    No     |
 
-### Audio\_???\_702\_12\_05
+#### Audio\_???\_702\_12\_05
 **Ivy**  
 It's me.
 
@@ -4984,16 +5067,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-## OS Log #052
+### OS Log #052
+___
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|45 |    No     |
 
-### Audio\_Ivy\_702\_12\_09
+#### Audio\_Ivy\_702\_12\_09
 **[News]**  
 _Just now, all drones and programmed equipment that previously lost control have been restored back to normal. The Administration Bureau is still unable to offer a reasonable explanation, which led to citizens being paranoid and unwilling to step outside onto the streets. Regarding this disaster, many people are pointing their fingers at A.R.C., who is in charge of the technical side of the equipment. As of now, A.R.C. has yet to release any official response. We'll continue to gather information for you..._
 
@@ -5163,16 +5247,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-## OS Log #053
+### OS Log #053
+___
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|45 |    No     |
 
-### Cam\_Ivy\_702\_12\_09
+#### Cam\_Ivy\_702\_12\_09
 **Ivy**  
 URGHHWHAHHHHH!!!
 
@@ -5351,31 +5436,35 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-## OS Log #054
+### OS Log #054
+___
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|46 |    No     |
 
-### Image\_???\_702\_12\_09
+#### Image\_???\_702\_12\_09
 ![ivos5401.png](./attachments/ivos5401.png)
 
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-## OS Log #055
+## Added on v2.9
+
+### OS Log #055
+___
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|47 |    No     |
 
-### Audio\_Trans\_702\_12\_29
+#### Audio\_Trans\_702\_12\_29
 _\[Train door closes\]_
 
 **[Nora]**  
@@ -5453,16 +5542,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-## OS Log #056
+### OS Log #056
+___
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|48 |    No     |
 
-### Audio\_Kyuu08\_702\_12\_29\_1
+#### Audio\_Kyuu08\_702\_12\_29\_1
 _\[Door Opens\]_
 
 **PAFF**  
@@ -5551,16 +5641,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-## OS Log #057
+### OS Log #057
+___
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|49 |    No     |
 
-### Audio\_KLab08\_702\_12\_29\_3
+#### Audio\_KLab08\_702\_12\_29\_3
 _\[Door Opens\]_
 
 **[Nora]**  
@@ -5731,16 +5822,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-## OS Log #058
+### OS Log #058
+___
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|50 |    No     |
 
-### Audio\_E3\_702\_12\_29
+#### Audio\_E3\_702\_12\_29
 _\[Explosion\]_
 
 _\[Crowd in chaos\]_
@@ -5827,16 +5919,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-## OS Log #059
+### OS Log #059
+___
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|50 |    No     |
 
-### Audio\_St15\_702\_12\_29
+#### Audio\_St15\_702\_12\_29
 _\[Crowd in chaos\]_
 
 **Pedestrian A**  
@@ -5942,16 +6035,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-## OS Log #060
+### OS Log #060
+___
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|51 |    No     |
 
-### Audio\_E5\_702\_12\_29
+#### Audio\_E5\_702\_12\_29
 _\[Footsteps\]_
 
 **Guard Captain**  
@@ -6062,16 +6156,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-## OS Log #061
+### OS Log #061
+___
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|52 |    No     |
 
-### Audio\_KLab08\_702\_12\_29\_4
+#### Audio\_KLab08\_702\_12\_29\_4
 **[Nora]**  
 _Everybody, look here._
 
@@ -6255,16 +6350,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-## OS Log #062
+### OS Log #062
+___
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|52 |    No     |
 
-### Cam\_St10\_702\_12\_29
+#### Cam\_St10\_702\_12\_29
 _\[Raises Gun\]_
 
 **Kouhei**  
@@ -6423,16 +6519,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-## OS Log #063
+### OS Log #063
+___
 
 [Last Log](#os-log-062) | [Back to Top](#list-of-logs) | [Next Log](#os-log-064)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|53 |    No     |
 
-### Audio\_St13\_702\_12\_29
+#### Audio\_St13\_702\_12\_29
 **[ROBO_Head]**  
 _Report: Detecting active heat source ahead._
 
@@ -6568,16 +6665,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-062) | [Back to Top](#list-of-logs) | [Next Log](#os-log-064)
 
-## OS Log #064
+### OS Log #064
+___
 
 [Last Log](#os-log-063) | [Back to Top](#list-of-logs) | [Next Log](#os-log-065)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|53 |    No     |
 
-### Cam\_St14\_702\_12\_29\_1
+#### Cam\_St14\_702\_12\_29\_1
 _\[Door Knock\]_
 
 **Reporter A**  
@@ -6754,16 +6852,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-063) | [Back to Top](#list-of-logs) | [Next Log](#os-log-065)
 
-## OS Log #065
+### OS Log #065
+___
 
 [Last Log](#os-log-064) | [Back to Top](#list-of-logs) | [Next Log](#os-log-066)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|53 |    No     |
 
-### Audio\_St14\_702\_12\_29\_2
+#### Audio\_St14\_702\_12\_29\_2
 _\[Explosion\]_
 
 **Reporter A**  
@@ -6889,16 +6988,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-064) | [Back to Top](#list-of-logs) | [Next Log](#os-log-066)
 
-## OS Log #066
+### OS Log #066
+___
 
 [Last Log](#os-log-065) | [Back to Top](#list-of-logs) | [Next Log](#os-log-067)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|54 |    No     |
 
-### Cam\_Kyuu08\_702\_12\_29
+#### Cam\_Kyuu08\_702\_12\_29
 _\[Door Opens\]_
 
 **PAFF**  
@@ -7087,16 +7187,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-065) | [Back to Top](#list-of-logs) | [Next Log](#os-log-067)
 
-## OS Log #067
+### OS Log #067
+___
 
 [Last Log](#os-log-066) | [Back to Top](#list-of-logs) | [Next Log](#os-log-068)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|54 |    No     |
 
-### Cam\_Dash\_702\_12\_29
+#### Cam\_Dash\_702\_12\_29
 _\[Engine Rumbles\]_
 
 **PAFF**  
@@ -7215,9 +7316,6 @@ _NEKO heard it all. So that's what happened!_
 _No, it appears some gang members grabbed a hold of this opportunity. After all, the chips sell for a pretty penny on the black market.  
 We've been paying so much attention to the Architects that we overlooked what's going on in the rest of the city..._
 
-**Xenon**  
-That face... I know that face. It's one of Baro's people, named Hunter.
-
 **PAFF**  
 What do we do now...?
 
@@ -7279,16 +7377,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-066) | [Back to Top](#list-of-logs) | [Next Log](#os-log-068)
 
-## OS Log #068
+### OS Log #068
+___
 
 [Last Log](#os-log-067) | [Back to Top](#list-of-logs) | [Next Log](#os-log-069)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|55 |    No     |
 
-### Audio\_hall\_702\_12\_29
+#### Audio\_hall\_702\_12\_29
 _\[Crowd Panicking\]_
 
 **Agent A**  
@@ -7442,16 +7541,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-067) | [Back to Top](#list-of-logs) | [Next Log](#os-log-069)
 
-## OS Log #069
+### OS Log #069
+___
 
 [Last Log](#os-log-068) | [Back to Top](#list-of-logs) | [Next Log](#os-log-070)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|55 |    No     |
 
-### Audio\_hospital\_702\_12\_29
+#### Audio\_hospital\_702\_12\_29
 **Kouhei**  
 Xenon needs help?
 
@@ -7611,16 +7711,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-068) | [Back to Top](#list-of-logs) | [Next Log](#os-log-070)
 
-## OS Log #070
+### OS Log #070
+___
 
 [Last Log](#os-log-069) | [Back to Top](#list-of-logs) | [Next Log](#os-log-071)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|56 |    No     |
 
-### Audio\_H1001\_702\_12\_29\_1
+#### Audio\_H1001\_702\_12\_29\_1
 **PAFF**  
 NEKO... I wonder if she's alright?
 
@@ -7795,16 +7896,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-069) | [Back to Top](#list-of-logs) | [Next Log](#os-log-071)
 
-## OS Log #071
+### OS Log #071
+___
 
 [Last Log](#os-log-070) | [Back to Top](#list-of-logs) | [Next Log](#os-log-072)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|57 |    No     |
 
-### Audio\_H1001\_702\_12\_29\_2
+#### Audio\_H1001\_702\_12\_29\_2
 _\[Connection Lost\]_
 
 **ConneR**  
@@ -7990,16 +8092,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-070) | [Back to Top](#list-of-logs) | [Next Log](#os-log-072)
 
-## OS Log #072
+### OS Log #072
+___
 
 [Last Log](#os-log-071) | [Back to Top](#list-of-logs) | [Next Log](#os-log-073)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|57 |    No     |
 
-### Audio\_???\_702\_12\_29\_1
+#### Audio\_???\_702\_12\_29\_1
 **[ROBO_Head]**  
 _Initiating protocol to connect to the OS space, users: Simon Jackson, Colin Neumann Jr., Asakura Neko._
 
@@ -8165,16 +8268,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-071) | [Back to Top](#list-of-logs) | [Next Log](#os-log-073)
 
-## OS Log #073
+### OS Log #073
+___
 
 [Last Log](#os-log-072) | [Back to Top](#list-of-logs) | [Next Log](#os-log-074)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|58 |    No     |
 
-### Audio\_???\_702\_12\_29\_2
+#### Audio\_???\_702\_12\_29\_2
 **Ivy**  
 ......!?
 
@@ -8352,16 +8456,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-072) | [Back to Top](#list-of-logs) | [Next Log](#os-log-074)
 
-## OS Log #074
+### OS Log #074
+___
 
 [Last Log](#os-log-073) | [Back to Top](#list-of-logs) | [Next Log](#os-log-075)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|58 |    No     |
 
-### Audio\_???\_702\_12\_29\_3
+#### Audio\_???\_702\_12\_29\_3
 _\[»»»Fast Forward»»»\]_
 
 **Ivy**  
@@ -8499,16 +8604,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-073) | [Back to Top](#list-of-logs) | [Next Log](#os-log-075)
 
-## OS Log #075
+### OS Log #075
+___
 
 [Last Log](#os-log-074) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Ivy**|59 |    No     |
 
-### Cam\_???\_702\_12\_29\_4
+#### Cam\_???\_702\_12\_29\_4
 [![ivos7501.png](./attachments/ivos7501.png)](https://youtu.be/0mQsqtb8o5s)  
 _[Click the image to watch the movie]_
 

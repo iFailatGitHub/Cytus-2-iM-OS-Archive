@@ -1,27 +1,33 @@
 # Miku OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
+- [Added on v2.3.9](#added-on-v239)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
 
-## OS Log #001
+## Added on v2.3.9
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Cam01\_MHall\_702\_11\_30
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/UsipD0zSKFs))*
+
+#### Cam01\_MHall\_702\_11\_30
 ![mos0102.png](./attachments/mos0102.png)
 
 **Miku**  
@@ -37,18 +43,19 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
 |**Ten Thousand Stars**|Miku |Easy | 4 |
 |**Ten Thousand Stars**|Miku |Hard | 6 |
 |**Ten Thousand Stars**|Miku |Chaos|12 |
 
-### Cam01\_MHall\_702\_10\_09
+#### Cam01\_MHall\_702\_10\_09
 _\[Audience Cheer\]_
 
 _\[Lights off\]_
@@ -103,16 +110,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 2 |    No     |
 
-### Cam\_SLab01\_702\_10\_09
+#### Cam\_SLab01\_702\_10\_09
 ![mos0301.png](./attachments/mos0301.png)
 
 **[Staff A]**  
@@ -163,16 +171,17 @@ _\[Close Program\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 3 |    No     |
 
-### Cam\_Winona03\_702\_10\_09
+#### Cam\_Winona03\_702\_10\_09
 **Staff A**  
 Director, so this is where you are!
 
@@ -307,16 +316,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 4 |    No     |
 
-### Audio\_SLab01\_702\_11\_03
+#### Audio\_SLab01\_702\_11\_03
 **[TV]**  
 _... A while ago, due to an equipment error in Node 08's A.R.C. facility, the virtual internet cyTus was significantly damaged and went out of service temporarily. Many companies that suffered losses due to their use of virtual internet technology are also starting to file cases against A.R.C. and requesting compensation..._
 
@@ -444,23 +454,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 5 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Glass Wall**|Miku |Easy | 2 |
 |**Glass Wall**|Miku |Hard | 6 |
 |**Glass Wall**|Miku |Chaos|11 |
 
-### ???\_???\_??\_??\_??
+#### ???\_???\_??\_??\_??
 **Miku**  
 Ugh... ugh...
 
@@ -503,16 +514,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 5 |    No     |
 
-### ???\_???\_??\_??\_??
+#### ???\_???\_??\_??\_??
 **Miku**  
 _\*Sobs\*... \*Sobs\*..._
 
@@ -663,23 +675,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Cybernetic**|Miku |Easy | 3 |
 |**Cybernetic**|Miku |Hard | 7 |
 |**Cybernetic**|Miku |Chaos|12 |
 
-### Cam\_SLab03\_702\_11\_07
+#### Cam\_SLab03\_702\_11\_07
 _\[Projection\]_
 
 **Miku**  
@@ -852,16 +865,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 7 |    No     |
 
-### Audio\_SLab03\_702\_11\_12
+#### Audio\_SLab03\_702\_11\_12
 **Miku**  
 Hey, can I ask you something?
 
@@ -1007,16 +1021,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 8 |    No     |
 
-### Audio\_Itsuki\_702\_11\_14
+#### Audio\_Itsuki\_702\_11\_14
 **[Saito]**  
 _That's pretty much it. Got to make sure that the concert this month is a great success. We'll be in your care!_
 
@@ -1153,16 +1168,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**| 9 |    No     |
 
-### Cam\_SLab03\_702\_11\_16
+#### Cam\_SLab03\_702\_11\_16
 **Miku**  
 Wow\~ This is my first time meeting everyone outside of my room and the venue. I'm so happy...
 
@@ -1321,16 +1337,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|10 |    No     |
 
-### Audio\_Saito\_702\_11\_20
+#### Audio\_Saito\_702\_11\_20
 _\[Slams desk\]_
 
 **Okubo**  
@@ -1407,16 +1424,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|11 |    No     |
 
-### Cam27\_MHall\_702\_11\_30
+#### Cam27\_MHall\_702\_11\_30
 _\[Opens lock\]_
 
 **Furuhata**  
@@ -1497,23 +1515,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/PKklb7X9A0g))*
+
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|12 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Decade**|Miku |Easy | 3 |
 |**Decade**|Miku |Hard | 6 |
 |**Decade**|Miku |Chaos| 9 |
 
-### Cam01\_MHall\_702\_11\_30
+#### Cam01\_MHall\_702\_11\_30
 ![mos1402.png](./attachments/mos1402.png)
 
 **Miku**  
@@ -1588,16 +1609,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|13 |    No     |
 
-### Cam\_SLab03\_702\_12\_09
+#### Cam\_SLab03\_702\_12\_09
 _\[Door Opens\]_
 
 **Furuhata**  
@@ -1698,26 +1720,27 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Miku**|14 |    No     |
 
-### Command Code
+#### Command Code
 The command code is `390239`.
 
-### Unlocked Charts
+#### Unlocked Charts
 |             Song              |Char.|Diff.|Lv.|
 |-------------------------------|:---:|:---:|:-:|
 |**ラッキー☆オーブ (3R2 Remix)**|Miku |Easy | 4 |
 |**ラッキー☆オーブ (3R2 Remix)**|Miku |Hard | 7 |
 |**ラッキー☆オーブ (3R2 Remix)**|Miku |Chaos|11 |
 
-### Log\_Miku\_702\_11\_30
+#### Log\_Miku\_702\_11\_30
 Ah... ah? Can you hear me? I think it's working?
 
 Mr. Furuhata, I originally planned to leave a projection message for you in the interactive UI, but it seems that my image functions just couldn't do that anymore. However, at the end of everything, there are still some things I want to say to you while I still have my voice.

@@ -1,60 +1,74 @@
 # JOE OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
+- [Added on v1.4](#added-on-v14)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #032](#os-log-032)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #033](#os-log-033)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #034](#os-log-034)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #035](#os-log-035)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #036](#os-log-036)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #037](#os-log-037)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #038](#os-log-038)
+    - [OS Log #039](#os-log-039)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #040](#os-log-040)
+    - [OS Log #041](#os-log-041)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #042](#os-log-042)
 
-## OS Log #001
+## Added on v1.4
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Childish**| JOE |Easy | 4 |
 |**Childish**| JOE |Hard | 7 |
 |**Childish**| JOE |Chaos|12 |
 
-### Cam\_Cafe\_684\_08\_28
+#### Cam\_Cafe\_684\_08\_28
 **JOE**  
 Look! I have everything set up!
 
@@ -155,11 +169,12 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Cam\_Cafe\_687\_02\_27
+#### Cam\_Cafe\_687\_02\_27
 **JOE**  
 Look over there. It's that dog.
 
@@ -263,16 +278,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 2 |    No     |
 
-### Audio\_Cafe\_690\_01\_13
+#### Audio\_Cafe\_690\_01\_13
 _\[Doorbell\]_
 
 **JOE**  
@@ -347,21 +363,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
 |**Standby for Action**| JOE |Easy | 4 |
 
-### Audio\_Cafe\_691\_08\_12
+#### Audio\_Cafe\_691\_08\_12
 _\[Doorbell\]_
 
 **Saxon**  
@@ -448,16 +465,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 3 |    No     |
 
-### Cam\_124St\_691\_08\_12
+#### Cam\_124St\_691\_08\_12
 **Wang**  
 Good... I dare you to repeat that s\*\*\* again!
 
@@ -573,21 +591,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 4 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
 |**Standby for Action**| JOE |Hard | 8 |
 
-### Audio\_Cafe\_691\_08\_15
+#### Audio\_Cafe\_691\_08\_15
 _\[Doorbell\]_
 
 **Zark**  
@@ -711,16 +730,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 5 |    No     |
 
-### Cam\_Cafe\_692\_10\_21
+#### Cam\_Cafe\_692\_10\_21
 **Saxon**  
 Not bad. Boy, you've been improving fast recently.
 
@@ -819,21 +839,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
 |**Standby for Action**| JOE |Chaos|12 |
 
-### Message\_Group\_693\_05\_25
+#### Message\_Group\_693\_05\_25
 **KAI**  
 Hi, everyone, time for the band meeting  
 _[Sent at 08:35 PM]_
@@ -985,16 +1006,17 @@ _[Sent at 08:50 PM]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 7 |    No     |
 
-### Cam\_Velvet\_693\_08\_28
+#### Cam\_Velvet\_693\_08\_28
 ![jos0901.png](./attachments/jos0901.png)
 
 _\[Crowd screams and applauds\]_
@@ -1072,16 +1094,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 8 |    No     |
 
-### Cam\_Velvet\_693\_08\_28
+#### Cam\_Velvet\_693\_08\_28
 **Saxon**  
 JOE.
 
@@ -1159,21 +1182,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**| 9 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Open the Game**| JOE |Easy | 4 |
 
-### Image\_Hotpot\_693\_09\_01
+#### Image\_Hotpot\_693\_09\_01
 ![jos1101.png](./attachments/jos1101.png)
 
 Date: 693/09/01  
@@ -1182,16 +1206,17 @@ Location: Node 08 \- Hot Pot Restaurant
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|10 |    No     |
 
-### Audio\_Cafe\_694\_04\_27
+#### Audio\_Cafe\_694\_04\_27
 **JOE**  
 Hello, I'm JOE...
 
@@ -1322,21 +1347,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Open the Game**| JOE |Hard | 6 |
 
-### Cam\_Base\_694\_04\_27
+#### Cam\_Base\_694\_04\_27
 _\[Puts down crate\]_
 
 **JOE**  
@@ -1474,21 +1500,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|11 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Open the Game**| JOE |Chaos|13 |
 
-### Audio\_37St\_696\_07\_05
+#### Audio\_37St\_696\_07\_05
 **JOE**  
 Here ya go! Honey lemon juice with max sugar and no ice. All the syrup has sunk to the bottom, so it's gonna taste like diabetes if you suck it with a straw!
 
@@ -1630,16 +1657,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|12 |    No     |
 
-### Audio\_Base\_696\_07\_13
+#### Audio\_Base\_696\_07\_13
 _\[Puts down box\]_
 
 **Saxon**  
@@ -1759,21 +1787,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|13 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**Hydrangea**| JOE |Easy | 3 |
 
-### Cam\_Hospital04\_697\_04\_14
+#### Cam\_Hospital04\_697\_04\_14
 **JOE**  
 Hi\~ How are you doing today?
 
@@ -1912,16 +1941,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|14 |    No     |
 
-### Image\_Graveyard\_697\_04\_16
+#### Image\_Graveyard\_697\_04\_16
 ![jos1701.png](./attachments/jos1701.png)
 
 Date: 697/04/16  
@@ -1930,21 +1960,22 @@ Location: Node 08 \- Cemetery
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**Hydrangea**| JOE |Hard | 6 |
 
-### Audio\_Cafe\_697\_06\_07
+#### Audio\_Cafe\_697\_06\_07
 **Wang**  
 JOE, why does this Sea Breeze tastes so... light?
 
@@ -2037,21 +2068,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|16 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**Hydrangea**| JOE |Chaos|12 |
 
-### Log\_System\_697\_08\_12
+#### Log\_System\_697\_08\_12
 Exterior Data Record 6970811  
 File type: Document  
 Time received: 23:58:36  
@@ -2073,16 +2105,17 @@ Registered save time: 697\_0812\_0236
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|17 |    No     |
 
-### Audio\_Cafe\_697\_08\_19
+#### Audio\_Cafe\_697\_08\_19
 _\[Doorbell\]_
 
 **Wang**  
@@ -2197,22 +2230,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|17 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Absolutely**| JOE |Easy | 2 |
 |**Absolutely**| JOE |Hard | 5 |
 
-### Cam\_Cafe\_697\_08\_19
+#### Cam\_Cafe\_697\_08\_19
 **Diego**  
 Good stuff. Exactly the same as the one Saxon made.
 
@@ -2350,22 +2384,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|18 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
 |---------------------|:---:|:---:|:-:|
 |**Higher and Higher**| JOE |Easy | 3 |
 |**Higher and Higher**| JOE |Hard | 6 |
 
-### Call\_Fang\_698\_02\_12
+#### Call\_Fang\_698\_02\_12
 _\[Call Starts\]_
 
 **JOE**  
@@ -2454,22 +2489,23 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |          Song           |Char.|Diff.|Lv.|
 |-------------------------|:---:|:---:|:-:|
 |**Take me to the Future**| JOE |Easy | 3 |
 |**Take me to the Future**| JOE |Hard | 7 |
 
-### Cam\_Cafe\_698\_09\_09
+#### Cam\_Cafe\_698\_09\_09
 _\[Doorbell\]_
 
 **Zark**  
@@ -2607,21 +2643,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|20 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Absolutely**| JOE |Chaos|11 |
 
-### Call\_Diego\_701\_06\_25
+#### Call\_Diego\_701\_06\_25
 _\[Call Starts\]_
 
 **JOE**  
@@ -2748,21 +2785,22 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|21 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
 |---------------------|:---:|:---:|:-:|
 |**Higher and Higher**| JOE |Chaos|13 |
 
-### Mail\_Diego\_701\_06\_25
+#### Mail\_Diego\_701\_06\_25
 **Subj.**: Untitled  
 **From**: D  
 **To**: H.H.
@@ -2776,21 +2814,22 @@ D.
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |          Song           |Char.|Diff.|Lv.|
 |-------------------------|:---:|:---:|:-:|
 |**Take me to the Future**| JOE |Chaos|14 |
 
-### Cam\_Cafe\_701\_06\_28
+#### Cam\_Cafe\_701\_06\_28
 _Engines turned off_
 
 **Hunter**  
@@ -2939,16 +2978,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|22 |    No     |
 
-### Image\_Zark\_700\_02\_20
+#### Image\_Zark\_700\_02\_20
 ![jos2701.png](./attachments/jos2701.png)
 
 Date: 700/02/20  
@@ -2957,16 +2997,19 @@ Location: JOEZ Cafe
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/aaD9TOfq8HI))*
+
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|24 |    No     |
 
-### Cam\_Cafe\_702\_10\_01
+#### Cam\_Cafe\_702\_10\_01
 _\[Doorbell\]_
 
 **JOE**  
@@ -3069,23 +3112,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|24 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Nautilus**| JOE |Easy | 2 |
 |**Nautilus**| JOE |Hard | 5 |
 |**Nautilus**| JOE |Chaos|11 |
 
-### Cam\_DragonSt\_693\_06\_03
+#### Cam\_DragonSt\_693\_06\_03
 ![jos2901.png](./attachments/jos2901.png)
 
 Date: 693/06/03  
@@ -3094,22 +3138,25 @@ Location: Node 03 \- Wolong St.
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+## Added on v1.6
+
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|25 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Bass Music**| JOE |Easy | 2 |
 |**Bass Music**| JOE |Hard | 8 |
 
-### Cam\_Cafe\_702\_08\_18
+#### Cam\_Cafe\_702\_08\_18
 **JOE**  
 ... Then! That guy said my hair looks like a sea cucumber! Damnit... ugh...
 
@@ -3211,21 +3258,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|26 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Bass Music**| JOE |Chaos|13 |
 
-### Audio\_Graveyard\_702\_09\_29
+#### Audio\_Graveyard\_702\_09\_29
 **Xenon**  
 King of Germs.
 
@@ -3375,16 +3423,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+## Added on v1.8
+
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|27 |    No     |
 
-### Audio\_Base\_702\_09\_30
+#### Audio\_Base\_702\_09\_30
 _\[Door Opens\]_
 
 **Xenon**  
@@ -3533,16 +3584,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+## Added on v1.9
+
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|28 |    No     |
 
-### Audio\_Cafe\_702\_10\_19
+#### Audio\_Cafe\_702\_10\_19
 **[News]**  
 _...after six months of investigation, the special ops team of Node 08's law enforcement department launched a cleanup blitz yesterday. 16 suspects were arrested in Quadrant III and IV. Of the suspects, notorious pedophiles are among the criminals arrested..._
 
@@ -3699,16 +3753,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v2.0
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|29 |    No     |
 
-### cyTus\_Server03\_702\_11\_03
+#### cyTus\_Server03\_702\_11\_03
 **JOE**  
 Greetings, Mr. R. I found you a seller.
 
@@ -3830,16 +3887,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+## Added on v2.1
+
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|30 |    No     |
 
-### cyTus\_Server03\_702\_11\_06
+#### cyTus\_Server03\_702\_11\_06
 **[cyTus System]**  
 _Rald has logged in to the block_
 
@@ -3930,16 +3990,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+## Added on v2.2
+
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|31 |    No     |
 
-### Cam\_CArea\_702\_11\_08
+#### Cam\_CArea\_702\_11\_08
 _\[Footsteps\]_
 
 **Cherry**  
@@ -4063,16 +4126,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+## Added on v2.3
+
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|32 |    No     |
 
-### Audio\_St91\_702\_11\_10
+#### Audio\_St91\_702\_11\_10
 _\[Door Opens\]_
 
 **Hunter**  
@@ -4223,16 +4289,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+## Added on v2.4
+
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|33 |    No     |
 
-### Audio\_Cafe\_702\_11\_17
+#### Audio\_Cafe\_702\_11\_17
 _\[Door Opens\]_
 
 **JOE**  
@@ -4375,16 +4444,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|33 |    No     |
 
-### Audio\_Cafe\_702\_11\_17
+#### Audio\_Cafe\_702\_11\_17
 _\[Phone Rings\]_
 
 **JOE**  
@@ -4470,16 +4540,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+## Added on v2.8
+
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|34 |    No     |
 
-### Audio\_Baro\_702\_12\_21\_1
+#### Audio\_Baro\_702\_12\_21\_1
 _\[Door Opens\]_
 
 **Hunter**  
@@ -4618,16 +4691,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|34 |    No     |
 
-### Audio\_Baro\_702\_12\_21\_2
+#### Audio\_Baro\_702\_12\_21\_2
 **Zheng**  
 ... JOE? Haven't seen you in years.
 
@@ -4793,16 +4867,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+## Added on v2.9
+
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**JOE**|35 |    No     |
 
-### Audio\_Factory\_702\_12\_28
+#### Audio\_Factory\_702\_12\_28
 _\[Hurried Footsteps\]_
 
 **Gang Member A**  

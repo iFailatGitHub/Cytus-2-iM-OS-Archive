@@ -1,79 +1,99 @@
 # PAFF OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
-- [OS Log #043](#os-log-043)
-- [OS Log #044](#os-log-044)
-- [OS Log #045](#os-log-045)
-- [OS Log #046](#os-log-046)
-- [OS Log #047](#os-log-047)
-- [OS Log #048](#os-log-048)
-- [OS Log #049](#os-log-049)
-- [OS Log #050](#os-log-050)
-- [OS Log #051](#os-log-051)
-- [OS Log #052](#os-log-052)
-- [OS Log #053](#os-log-053)
-- [OS Log #054](#os-log-054)
-- [OS Log #055](#os-log-055)
-- [OS Log #056](#os-log-056)
-- [OS Log #057](#os-log-057)
-- [OS Log #058](#os-log-058)
-- [OS Log #059](#os-log-059)
-- [OS Log #060](#os-log-060)
-- [OS Log #061](#os-log-061)
-- [OS Log #062](#os-log-062)
-- [OS Log #063](#os-log-063)
+- [Added on v1.4](#added-on-v14)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+- [Added on v1.5](#added-on-v15)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+- [Added on v1.7](#added-on-v17)
+    - [OS Log #011](#os-log-011)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+- [Added on v1.9.1](#added-on-v191)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #026](#os-log-026)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #027](#os-log-027)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+    - [OS Log #033](#os-log-033)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+    - [OS Log #038](#os-log-038)
+    - [OS Log #039](#os-log-039)
+    - [OS Log #040](#os-log-040)
+    - [OS Log #041](#os-log-041)
+    - [OS Log #042](#os-log-042)
+    - [OS Log #043](#os-log-043)
+    - [OS Log #044](#os-log-044)
+    - [OS Log #045](#os-log-045)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #046](#os-log-046)
+    - [OS Log #047](#os-log-047)
+    - [OS Log #048](#os-log-048)
+    - [OS Log #049](#os-log-049)
+    - [OS Log #050](#os-log-050)
+    - [OS Log #051](#os-log-051)
+    - [OS Log #052](#os-log-052)
+    - [OS Log #053](#os-log-053)
+    - [OS Log #054](#os-log-054)
+    - [OS Log #055](#os-log-055)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #056](#os-log-056)
+    - [OS Log #057](#os-log-057)
+    - [OS Log #058](#os-log-058)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #059](#os-log-059)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #060](#os-log-060)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #061](#os-log-061)
+    - [OS Log #062](#os-log-062)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #063](#os-log-063)
 
-## OS Log #001
+## Added on v1.4
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|35 |    No     |
 
-### Show\_693\_03\_16
+#### Show\_693\_03\_16
 **Host**  
 Next up, performer no.12... Aroma White.  
 Please take your position and introduce yourself.
@@ -196,16 +216,17 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|37 |    No     |
 
-### Cam\_Noah\_693\_03\_16
+#### Cam\_Noah\_693\_03\_16
 _\[Door opens\]_
 
 **Noah**  
@@ -342,16 +363,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|38 |    No     |
 
-### Call\_Chris\_693\_03\_29
+#### Call\_Chris\_693\_03\_29
 **Chris**  
 That's more or less the situation. Miss White, what is your reply?
 
@@ -451,16 +473,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|39 |    No     |
 
-### Cam\_Noah\_693\_05\_11
+#### Cam\_Noah\_693\_05\_11
 _\[Sings\]_
 
 **PAFF**  
@@ -561,16 +584,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+## Added on v1.5
+
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|40 |    No     |
 
-### Cam\_Noah\_693\_06\_13
+#### Cam\_Noah\_693\_06\_13
 **[Television]**  
 ... In today's summit, Dr. Colin Neumann Jr. published his new thesis regarding ancient instruments and the culture surrounding them. His papers created a huge buzz in the academic world. This is Dr. Neumann's third open publication of the year...
 
@@ -720,16 +746,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|41 |    No     |
 
-### Mail\_Chris\_693\_07\_02
+#### Mail\_Chris\_693\_07\_02
 **Subj.**: Event Schedule Notice  
 **From**: Chris Pinkman  
 **To**: Aroma White & Helena White
@@ -763,16 +790,17 @@ Chris
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|42 |    No     |
 
-### Cam\_Noah\_693\_08\_14
+#### Cam\_Noah\_693\_08\_14
 _\[Knocks\]_
 
 **Helena**  
@@ -921,16 +949,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+## Added on v1.6
+
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|43 |    No     |
 
-### Audio\_NMobile\_693\_08\_14
+#### Audio\_NMobile\_693\_08\_14
 **Noah**  
 It's been a while since we three had dinner together. I reserve this table a whole week in advance just for this occasion... This is "L'Atelier de Charlotte", Node 08's most renowned 5\-Star Buffet. Delicacies from all across the world can be found here.   
 It's on me tonight. Eat whatever you desire.
@@ -1074,16 +1105,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/OsSSZvTUrms))*
+
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|44 |    No     |
 
-### Cam\_NDrivRec\_693\_08\_15
+#### Cam\_NDrivRec\_693\_08\_15
 _\[Engine Sound\]_
 
 **Helena**  
@@ -1187,16 +1221,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|45 |    No     |
 
-### Cam094\_ARC\_H\_694\_05\_15
+#### Cam094\_ARC\_H\_694\_05\_15
 _\[Door Opens\]_
 
 **Helena**  
@@ -1269,16 +1304,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+## Added on v1.7
+
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|48 |    No     |
 
-### Cam\_TunerSan\_702\_09\_25
+#### Cam\_TunerSan\_702\_09\_25
 **[News]**  
 _Therefore, we hereby announce the following information to fellow fans and friends in the media: After taking all issues into consideration, we have reached an agreement with Miss White's agent, Miss Helena White. We will be terminating the contract between Monophonic Entertainment Inc. and Miss Aroma White, effective immediately. We will no longer be responsible for her future career as an artist._
 
@@ -1370,16 +1408,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+## Added on v1.8
+
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|48 |    No     |
 
-### Cam\_Hospital\_693\_08\_16
+#### Cam\_Hospital\_693\_08\_16
 **Helena**  
 ...... Ugh......
 
@@ -1498,16 +1539,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|49 |    No     |
 
-### cyTus\_Server 08\_702\_01\_18
+#### cyTus\_Server 08\_702\_01\_18
 **Aroma**  
 Ugh...
 
@@ -1594,16 +1636,17 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|50 |    No     |
 
-### Audio\_Arena\_702\_07\_27
+#### Audio\_Arena\_702\_07\_27
 _\[Door Opens\]_
 
 **Helena**  
@@ -1715,16 +1758,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|50 |    No     |
 
-### Audio\_ARC\_H\_702\_07\_28
+#### Audio\_ARC\_H\_702\_07\_28
 **Aroma**  
 ......
 
@@ -1774,16 +1818,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|50 |    No     |
 
-### Audio\_Noah\_702\_08\_03
+#### Audio\_Noah\_702\_08\_03
 _\[Door Opens\]_
 
 **Helena**  
@@ -1913,16 +1958,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|51 |    No     |
 
-### Audio\_Noah\_702\_09\_01
+#### Audio\_Noah\_702\_09\_01
 _\[Door Knock\]_
 
 **Helena**  
@@ -2055,16 +2101,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+## Added on v1.9
+
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|52 |    No     |
 
-### Audio\_Noah\_702\_09\_09
+#### Audio\_Noah\_702\_09\_09
 **Helena**  
 ......
 
@@ -2174,16 +2223,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|54 |    No     |
 
-### Cam\_Daily08\_702\_10\_18
+#### Cam\_Daily08\_702\_10\_18
 **Hayato**  
 I'm back. Sighs\~ I'm exhausted...
 
@@ -2324,16 +2374,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+## Added on v1.9.1
+
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|53 |    No     |
 
-### Audio\_Xmas\_688\_12\_24\_1
+#### Audio\_Xmas\_688\_12\_24\_1
 **Shop Owner**  
 Helena! Table 3! Stop spacing out!
 
@@ -2437,16 +2490,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|53 |    No     |
 
-### Audio\_Xmas\_701\_12\_24
+#### Audio\_Xmas\_701\_12\_24
 **Helena**  
 Aroma...... Aroma？
 
@@ -2519,16 +2573,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|53 |    No     |
 
-### Audio\_Xmas\_688\_12\_24\_2
+#### Audio\_Xmas\_688\_12\_24\_2
 _\[Collecting Tableware\]_
 
 **Shop Owner**  
@@ -2695,23 +2750,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+## Added on v2.0
+
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|55 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**New World**|PAFF |Easy | 3 |
 |**New World**|PAFF |Hard | 6 |
 |**New World**|PAFF |Chaos|10 |
 
-### Audio\_Academy\_702\_10\_07
+#### Audio\_Academy\_702\_10\_07
 **NEKO#ΦωΦ**  
 Aroma\-chan\~ Hurry, hurry!
 
@@ -2820,31 +2878,33 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|55 |    No     |
 
-### Image\_Academy\_702\_10\_07
+#### Image\_Academy\_702\_10\_07
 ![pos2401_19201280.png](./attachments/pos2401_19201280.png)
 
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|56 |    No     |
 
-### Audio\_St07\_702\_10\_20
+#### Audio\_St07\_702\_10\_20
 **Hayato**  
 ......
 
@@ -2965,16 +3025,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+## Added on v2.1
+
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|57 |    No     |
 
-### Audio\_Asakura\_702\_10\_07
+#### Audio\_Asakura\_702\_10\_07
 _\[Door Closes\]_
 
 **NEKO#ΦωΦ**  
@@ -3114,16 +3177,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+## Added on v2.2
+
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|58 |    No     |
 
-### Audio\_Daily08\_702\_10\_23
+#### Audio\_Daily08\_702\_10\_23
 **Susan**  
 Here sis Vicky, coffee!
 
@@ -3245,16 +3311,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+## Added on v2.3
+
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|59 |    No     |
 
-### Cam\_Fwy01\_693\_08\_15
+#### Cam\_Fwy01\_693\_08\_15
 ![pos2801.png](./attachments/pos2801.png)
 
 **Noah**  
@@ -3355,16 +3424,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|59 |    No     |
 
-### Audio\_Hospital\_694\_03\_28
+#### Audio\_Hospital\_694\_03\_28
 _\[Door Opens\]_
 
 **Clara**  
@@ -3524,16 +3594,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|59 |    No     |
 
-### Audio\_Hospital\_694\_04\_20
+#### Audio\_Hospital\_694\_04\_20
 **Helena**  
 Please... please......!
 
@@ -3647,16 +3718,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|60 |    No     |
 
-### Audio\_Arc\_692\_08\_13
+#### Audio\_Arc\_692\_08\_13
 _\[Door Opens\]_
 
 **Researcher A**  
@@ -3763,16 +3835,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|60 |    No     |
 
-### Audio\_Arc\_692\_08\_20
+#### Audio\_Arc\_692\_08\_20
 **[System]**  
 _Mr. Smith, sorry for the interruption. Mr. Noah Black from R&D department 01 requests a meeting. His emotion numbers have reached stage Red. I have excluded him according to the security regulations..._
 
@@ -3928,16 +4001,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|61 |    No     |
 
-### Cam\_ARC\_H\_694\_04\_30
+#### Cam\_ARC\_H\_694\_04\_30
 **Researcher A**  
 Network bridge activate, 88%... 89%...
 
@@ -4079,32 +4153,34 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|61 |    No     |
 
-### Cam\_ARC\_H\_694\_05\_12\_1
+#### Cam\_ARC\_H\_694\_05\_12\_1
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)  
 _[Click the image to watch the movie]_
 
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|61 |    No     |
 
-### Cam\_ARC\_H\_694\_05\_12\_2
+#### Cam\_ARC\_H\_694\_05\_12\_2
 **Researcher A**  
 Prepare awakening process. Status A, B, all clear.
 
@@ -4190,23 +4266,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|62 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**Who Am I?**|PAFF |Easy | 2 |
 |**Who Am I?**|PAFF |Hard | 6 |
 |**Who Am I?**|PAFF |Chaos|10 |
 
-### Audio\_ARC\_H\_694\_05\_15
+#### Audio\_ARC\_H\_694\_05\_15
 _\[Door Opens\]_
 
 **Helena**  
@@ -4347,16 +4424,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|63 |    No     |
 
-### Audio\_Noah\_695\_06\_05
+#### Audio\_Noah\_695\_06\_05
 _\[Doorbell\]_
 
 **[Helena]**  
@@ -4489,16 +4567,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|64 |    No     |
 
-### Audio\_ARC\_H\_702\_07\_28
+#### Audio\_ARC\_H\_702\_07\_28
 **[TV]**  
 _... PAFF, the music diva who was harassed by a male fan a while ago, had another incident. At the end of a three\-hour physical concert at Node 08, she fainted on stage while singing the encore song "Gravity". The singer's sudden collapse had the audience in utter shock. Her agency immediately called off the concert and arranged her for an emergency medical checkup..._
 
@@ -4592,16 +4671,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|64 |    No     |
 
-### Cam\_Noah\_702\_09\_09
+#### Cam\_Noah\_702\_09\_09
 _\[Door Opens\]_
 
 **Noah**  
@@ -4734,16 +4814,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|64 |    No     |
 
-### Audio\_Vicky\_702\_11\_14
+#### Audio\_Vicky\_702\_11\_14
 **NEKO#ΦωΦ**  
 Ha... ha! Excuse me!
 
@@ -4871,23 +4952,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|65 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
 |---------------------|:---:|:---:|:-:|
 |**More Than Diamond**|PAFF |Easy | 2 |
 |**More Than Diamond**|PAFF |Hard | 5 |
 |**More Than Diamond**|PAFF |Chaos| 9 |
 
-### Cam\_Charity\_687\_05\_13
+#### Cam\_Charity\_687\_05\_13
 **Kaori**  
 Grandma Feng, we're here!
 
@@ -5036,23 +5118,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|65 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
 |---------------------|:---:|:---:|:-:|
 |**Blossoms for Life**|PAFF |Easy | 3 |
 |**Blossoms for Life**|PAFF |Hard | 7 |
 |**Blossoms for Life**|PAFF |Chaos|11 |
 
-### Cam\_Feng\_689\_04\_03
+#### Cam\_Feng\_689\_04\_03
 _\[Singing\]_
 
 **Kaori**  
@@ -5210,16 +5293,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-## OS Log #043
+### OS Log #043
+___
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|66 |    No     |
 
-### Audio\_Asakura\_702\_11\_14
+#### Audio\_Asakura\_702\_11\_14
 **NEKO#ΦωΦ**  
 Huff... Puff... Sis Yukiko, quick, open the door!
 
@@ -5361,16 +5445,17 @@ Haha...
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-## OS Log #044
+### OS Log #044
+___
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|66 |    No     |
 
-### Audio\_St08\_702\_11\_14
+#### Audio\_St08\_702\_11\_14
 _\[Door Opens\]_
 
 **NEKO#ΦωΦ**  
@@ -5518,16 +5603,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-## OS Log #045
+### OS Log #045
+___
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/7dEn9_P-AIQ))*
+
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|67 |    No     |
 
-### Cam\_Dash\_702\_11\_14
+#### Cam\_Dash\_702\_11\_14
 _\[Brakes\]_
 
 **NEKO#ΦωΦ**  
@@ -5597,16 +5685,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-## OS Log #046
+## Added on v2.4
+
+### OS Log #046
+___
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|68 |    No     |
 
-### Cam\_DragonSt\_694\_04\_25\_1
+#### Cam\_DragonSt\_694\_04\_25\_1
 _\[Guitar\]_
 
 **Hayato**  
@@ -5704,16 +5795,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-## OS Log #047
+### OS Log #047
+___
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|68 |    No     |
 
-### Cam\_08Daily\_702\_11\_17
+#### Cam\_08Daily\_702\_11\_17
 **Vicky**  
 Hi, sorry for pulling you out of your dreams at this time of the night.
 
@@ -5832,16 +5924,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-## OS Log #048
+### OS Log #048
+___
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|69 |    No     |
 
-### Cam\_Dash\_702\_11\_14
+#### Cam\_Dash\_702\_11\_14
 **PAFF**  
 That was close... Almost got recognized again...
 
@@ -5971,16 +6064,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-## OS Log #049
+### OS Log #049
+___
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|69 |    No     |
 
-### Audio\_Noah\_702\_11\_14
+#### Audio\_Noah\_702\_11\_14
 _\[Door Opens\]_
 
 **Helena**  
@@ -6105,23 +6199,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-## OS Log #050
+### OS Log #050
+___
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|70 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Recall**|PAFF |Easy | 3 |
 |**Recall**|PAFF |Hard | 6 |
 |**Recall**|PAFF |Chaos| 9 |
 
-### Cam\_DragonSt\_694\_04\_25\_2
+#### Cam\_DragonSt\_694\_04\_25\_2
 _\[Audience applauds\]_
 
 **Kaori**  
@@ -6231,16 +6326,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-## OS Log #051
+### OS Log #051
+___
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|70 |    No     |
 
-### Cam\_Dash\_702\_11\_17
+#### Cam\_Dash\_702\_11\_17
 **Helena**  
 Aroma... Aroma, wake up.
 
@@ -6354,16 +6450,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-## OS Log #052
+### OS Log #052
+___
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|70 |    No     |
 
-### Audio\_Cafe\_702\_11\_17
+#### Audio\_Cafe\_702\_11\_17
 _\[Parks car\]_
 
 **Helena**  
@@ -6521,16 +6618,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-## OS Log #053
+### OS Log #053
+___
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|71 |    No     |
 
-### Cam\_DragonSt\_694\_04\_25\_3
+#### Cam\_DragonSt\_694\_04\_25\_3
 **Hayato**  
 Then... I'll take my leave first. I want to go to the shopping strip... Sorry, I can't escort you home.
 
@@ -6618,31 +6716,35 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-## OS Log #054
+### OS Log #054
+___
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/-mdR-uFkYug))*
+
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|71 |    No     |
 
-### Image\_Base\_702\_11\_17
+#### Image\_Base\_702\_11\_17
 ![pos5402.png](./attachments/pos5402.png)
 
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-## OS Log #055
+### OS Log #055
+___
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|71 |    No     |
 
-### Audio\_Cafe\_702\_11\_17
+#### Audio\_Cafe\_702\_11\_17
 _\[Door Opens\]_
 
 **JOE**  
@@ -6785,16 +6887,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-## OS Log #056
+## Added on v2.5
+
+### OS Log #056
+___
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|72 |    No     |
 
-### Multi\_File\_P056
+#### Multi\_File\_P056
 _\[Footsteps\]_
 
 **PAFF**  
@@ -6930,16 +7035,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-## OS Log #057
+### OS Log #057
+___
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|72 |    No     |
 
-### Multi\_File\_P057
+#### Multi\_File\_P057
 _\[→Audio\_???\_697\_12\_25\]_
 
 **Phoenix**  
@@ -7108,16 +7214,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-## OS Log #058
+### OS Log #058
+___
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|72 |    No     |
 
-### ???\_???\_??\_??\_??
+#### ???\_???\_??\_??\_??
 **PAFF**  
 ......  
 ......Eh?
@@ -7220,17 +7327,20 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-## OS Log #059
+## Added on v2.6
+
+### OS Log #059
+___
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**PAFF**        |73 |    No     |
 |**Crystal PuNK**|23 |    No     |
 
-### Cam\_Ward\_702\_12\_14
+#### Cam\_Ward\_702\_12\_14
 **[Nora]**  
 _The alarm has been disabled. Everyone, please return to your rooms. This place is not designed to house so many people. The chips we have will interrupt the system's operations._
 
@@ -7396,16 +7506,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-## OS Log #060
+## Added on v2.7
+
+### OS Log #060
+___
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|74 |    No     |
 
-### Audio\_Ward\_702\_12\_15
+#### Audio\_Ward\_702\_12\_15
 _\[Door Opens\]_
 
 **PAFF**  
@@ -7536,16 +7649,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-## OS Log #061
+## Added on v2.8
+
+### OS Log #061
+___
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|75 |    No     |
 
-### Audio\_KyuuLab\_702\_12\_20\_1
+#### Audio\_KyuuLab\_702\_12\_20\_1
 _\[Data Input\]_
 
 **[Nora]**  
@@ -7673,16 +7789,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-## OS Log #062
+### OS Log #062
+___
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|75 |    No     |
 
-### Audio\_KyuuLab\_702\_12\_20\_2
+#### Audio\_KyuuLab\_702\_12\_20\_2
 **Member D**  
 Chief!
 
@@ -7826,16 +7943,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-## OS Log #063
+## Added on v2.9
+
+### OS Log #063
+___
 
 [Last Log](#os-log-062) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**PAFF**|76 |    No     |
 
-### Ò̴̵́̕S̶\_͟҉͞?̕͟?̴̷̡͘?̷̡̨̀́\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
+#### Ò̴̵́̕S̶\_͟҉͞?̕͟?̴̷̡͘?̷̡̨̀́\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 _\[Footsteps\]_
 
 **PAFF**  

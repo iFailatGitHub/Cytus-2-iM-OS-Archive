@@ -1,49 +1,57 @@
 # Crystal PuNK OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+    - [OS Log #033](#os-log-033)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #034](#os-log-034)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #035](#os-log-035)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #038](#os-log-038)
 
-## OS Log #001
+## Added on v2.5
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Audio\_Sewer\_702\_11\_18
+#### Audio\_Sewer\_702\_11\_18
 _\[Moves heavy stuff\]_
 
 **KAI**  
@@ -200,11 +208,12 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Audio\_KaiStudio\_702\_11\_19
+#### Audio\_KaiStudio\_702\_11\_19
 _\[Door Opens\]_
 
 **Xenon**  
@@ -335,11 +344,12 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Cam\_KaiStudio\_702\_11\_19
+#### Cam\_KaiStudio\_702\_11\_19
 **[NEKO]**  
 _... You be careful yourself too. Bye\-bye._
 
@@ -464,16 +474,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 2 |    No     |
 
-### Audio\_KaiStudio\_702\_11\_20
+#### Audio\_KaiStudio\_702\_11\_20
 _\[Ringtone\]_
 
 **Cherry**  
@@ -592,21 +603,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song         |   Char.    |Diff.|Lv.|
 |---------------------|:----------:|:---:|:-:|
 |**Sunshine Duration**|Crystal PuNK|Chaos|12 |
 
-### Cam\_KaiStudio\_702\_11\_21
+#### Cam\_KaiStudio\_702\_11\_21
 _\[Browsing data\]_
 
 **Xenon**  
@@ -765,16 +777,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 4 |    No     |
 
-### Audio\_KaiStudio\_702\_11\_22
+#### Audio\_KaiStudio\_702\_11\_22
 **[TV]**  
 _The reporter is at 33rd Boulevard of the Kamikawa area right now. As our viewers can see right now, this is the chaos caused by a complete failure of all traffic lights and some drones experiencing shutdowns or showing abnormal actions. As of now, the Administration Bureau has removed the malfunctioned machines. The reason for the malfunction is still yet to be known. Although this incident didn't cause any harm to security, a blockade line is still drawn and civilians are asked to stay as far away from this area as possible. Similar small\-scale malfunctions also occurred a few days ago at..._
 
@@ -941,16 +954,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 5 |    No     |
 
-### Audio\_RuinZone\_702\_11\_25
+#### Audio\_RuinZone\_702\_11\_25
 _\[Machine Gun\]_
 
 **Cherry**  
@@ -1124,16 +1138,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 6 |    No     |
 
-### Multi\_File\_CP008
+#### Multi\_File\_CP008
 **Bureau Supervisor**  
 Luis... we are all very sorry for Carly's accident. The Administration Bureau will take full responsibility for this error. We'll ensure that you get all the subsidies available. If there's anything else we can help...
 
@@ -1286,16 +1301,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 7 |    No     |
 
-### Audio\_Luis\_689\_08\_22
+#### Audio\_Luis\_689\_08\_22
 **Luis**  
 Sherry, I'm home.
 
@@ -1415,16 +1431,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 8 |    No     |
 
-### Audio\_Butsudou\_702\_11\_22
+#### Audio\_Butsudou\_702\_11\_22
 **Ryu**  
 Looks like everyone is here. It's been a long time, Diego.
 
@@ -1567,16 +1584,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**| 9 |    No     |
 
-### Audio\_SusukiSt\_702\_11\_24
+#### Audio\_SusukiSt\_702\_11\_24
 **Cherry**  
 We plan to meet them at that crossroad, right?
 
@@ -1756,23 +1774,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |   Char.    |Diff.|Lv.|
 |-------------|:----------:|:---:|:-:|
 |**Deep Dive**|Crystal PuNK|Easy | 2 |
 |**Deep Dive**|Crystal PuNK|Hard | 6 |
 |**Deep Dive**|Crystal PuNK|Chaos|13 |
 
-### Cam\_SusukiSt\_702\_11\_24\_1
+#### Cam\_SusukiSt\_702\_11\_24\_1
 _\[Explosion\]_
 
 **Pedestrian A**  
@@ -1922,16 +1941,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|10 |    No     |
 
-### Cam\_SusukiSt\_702\_11\_24\_2
+#### Cam\_SusukiSt\_702\_11\_24\_2
 **Xenon**  
 Whew... all done.
 
@@ -2000,16 +2020,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|11 |    No     |
 
-### Audio\_KaiStudio\_702\_12\_01
+#### Audio\_KaiStudio\_702\_12\_01
 _\[Ringtone\]_
 
 _\[Call starts\]_
@@ -2126,16 +2147,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|12 |    No     |
 
-### Audio\_Bookstore\_702\_12\_02
+#### Audio\_Bookstore\_702\_12\_02
 **Xenon**  
 What's the deal with this area?... There are traces of fire everywhere we go.
 
@@ -2255,23 +2277,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|12 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |   Char.    |Diff.|Lv.|
 |----------|:----------:|:---:|:-:|
 |**βinαrΨ**|Crystal PuNK|Easy | 4 |
 |**βinαrΨ**|Crystal PuNK|Hard | 7 |
 |**βinαrΨ**|Crystal PuNK|Chaos|12 |
 
-### Audio\_KyuuLab\_702\_12\_02
+#### Audio\_KyuuLab\_702\_12\_02
 _\[Door Opens\]_
 
 **Member D**  
@@ -2448,16 +2471,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|13 |    No     |
 
-### Cam\_Nora\_702\_12\_02
+#### Cam\_Nora\_702\_12\_02
 **[Nora]**  
 _Please, wait here. Daigo will bring them here._
 
@@ -2606,23 +2630,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|14 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      |   Char.    |Diff.|Lv.|
 |----------------|:----------:|:---:|:-:|
 |**Dark Madness**|Crystal PuNK|Easy | 4 |
 |**Dark Madness**|Crystal PuNK|Hard | 7 |
 |**Dark Madness**|Crystal PuNK|Chaos|13 |
 
-### Audio\_Nora\_702\_12\_02
+#### Audio\_Nora\_702\_12\_02
 **PAFF**  
 Wahh!!
 
@@ -2743,16 +2768,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|15 |    No     |
 
-### Audio\_Kyuu\_702\_12\_05
+#### Audio\_Kyuu\_702\_12\_05
 **Member D**  
 Diego… I don't remember inviting Baro onto our turf. What are you doing here with so many people?
 
@@ -2910,16 +2936,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|16 |    No     |
 
-### Audio\_KyuuLab\_702\_12\_07
+#### Audio\_KyuuLab\_702\_12\_07
 _\[Equipment operating\]_
 
 **[Nora]**  
@@ -3047,16 +3074,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|17 |    No     |
 
-### Audio\_Nora\_702\_12\_08
+#### Audio\_Nora\_702\_12\_08
 **[Game Console]**  
 _Player NEKO\#ΦωΦ WIN!_
 
@@ -3220,16 +3248,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|18 |    No     |
 
-### Multi\_File\_CP022
+#### Multi\_File\_CP022
 _\[→Audio\_???\_695\_10\_26\]_
 
 **Zhang**  
@@ -3364,16 +3393,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|18 |    No     |
 
-### Cam\_Kyuu\_702\_12\_10
+#### Cam\_Kyuu\_702\_12\_10
 **Cherry**  
 ……!
 
@@ -3543,16 +3573,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/94W9kT_CMBM))*
+
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|19 |    No     |
 
-### Cam\_Cafe\_702\_12\_10
+#### Cam\_Cafe\_702\_12\_10
 _\[Ringtone\]_
 
 **JOE**  
@@ -3625,16 +3658,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+## Added on v2.6
+
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|20 |    No     |
 
-### Audio\_Nora\_702\_12\_10\_1
+#### Audio\_Nora\_702\_12\_10\_1
 _\[Door Opens\]_
 
 **Cherry**  
@@ -3808,16 +3844,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|20 |    No     |
 
-### Audio\_Nora\_702\_12\_10\_2
+#### Audio\_Nora\_702\_12\_10\_2
 _\[Call Starts\]_
 
 **Cherry**  
@@ -3899,16 +3936,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|21 |    No     |
 
-### Audio\_KyuuLab\_702\_12\_11
+#### Audio\_KyuuLab\_702\_12\_11
 _\[Data Input\]_
 
 **[Nora]**  
@@ -4017,16 +4055,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|22 |    No     |
 
-### Cam\_Nora\_702\_12\_14
+#### Cam\_Nora\_702\_12\_14
 _\[Alarm\]_
 
 **[Kyuu Hou Kai System]**  
@@ -4190,16 +4229,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|22 |    No     |
 
-### Audio\_Kyuu\_702\_12\_14\_1
+#### Audio\_Kyuu\_702\_12\_14\_1
 **[Nora]**  
 _What... what is going on here? The defense system... is not attacking those drones?_
 
@@ -4320,16 +4360,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|22 |    No     |
 
-### Audio\_Kyuu\_702\_12\_14\_2
+#### Audio\_Kyuu\_702\_12\_14\_2
 **Xenon**  
 Huff... Puff... Last one left...
 
@@ -4464,16 +4505,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|23 |    No     |
 
-### Cam\_Ward\_702\_12\_14
+#### Cam\_Ward\_702\_12\_14
 _\[Door Opens\]_
 
 **Xenon**  
@@ -4650,16 +4692,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|24 |    No     |
 
-###  Audio\_Kyuu\_702\_12\_15\_1
+#### Audio\_Kyuu\_702\_12\_15\_1
 _\[Lights Off\]_
 
 **Member D**  
@@ -4752,16 +4795,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/twa5kn9Tcg0))*
+
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|24 |    No     |
 
-### Cam\_Ward\_702\_12\_15
+#### Cam\_Ward\_702\_12\_15
 _\[Kicks Door\]_
 
 **Xenon**  
@@ -4888,16 +4934,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v2.7
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|25 |    No     |
 
-### Audio\_Kyuu\_702\_12\_15\_2
+#### Audio\_Kyuu\_702\_12\_15\_2
 _\[Power on\]_
 
 **Kyuu Hou Kai Member**  
@@ -5054,16 +5103,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+## Added on v2.8
+
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|26 |    No     |
 
-### Message\_JOE\_702\_12\_21
+#### Message\_JOE\_702\_12\_21
 **JOE**  
 Yo, you there?  
 _[Sent at 01:23 AM]_
@@ -5122,23 +5174,24 @@ _[\[JOE is offline\]]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|27 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |             Song              |   Char.    |Diff.|Lv.|
 |-------------------------------|:----------:|:---:|:-:|
 |**The Cross (feat. Silvia Su)**|Crystal PuNK|Easy | 4 |
 |**The Cross (feat. Silvia Su)**|Crystal PuNK|Hard | 6 |
 |**The Cross (feat. Silvia Su)**|Crystal PuNK|Chaos|11 |
 
-### Audio\_KaiStudio\_702\_12\_24
+#### Audio\_KaiStudio\_702\_12\_24
 **NEKO#ΦωΦ**  
 Sensei, he's in the inner room.
 
@@ -5328,16 +5381,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|28 |    No     |
 
-### Audio\_Trans\_03\_702\_12\_26
+#### Audio\_Trans\_03\_702\_12\_26
 **[Platform Announcement]**  
 _Attention, fellow passengers. The express train directly to Node 08 is now arriving at the platform. For your own safety, please stand behind the yellow line._
 
@@ -5423,16 +5477,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+## Added on v2.9
+
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|29 |    No     |
 
-### Audio\_ruins08\_702\_12\_26
+#### Audio\_ruins08\_702\_12\_26
 _\[Consecutive Gunshots\]_
 
 **[Xenon A.I.]**  

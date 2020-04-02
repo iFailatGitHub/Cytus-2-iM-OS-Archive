@@ -1,40 +1,45 @@
 # Rin OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #026](#os-log-026)
 
-## OS Log #001
+## Added on v2.8
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Command Code
+#### Command Code
 The command code is `058410`.
 
-### Audio\_wilderness\_701\_06\_25
+#### Audio\_wilderness\_701\_06\_25
 _\[//System activation… 10%//\]  
 \[//Core power: Extremely Low//\]_
 
@@ -155,18 +160,19 @@ _\[→Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Unlocked Charts
+#### Unlocked Charts
 |             Song             |Char.|Diff.|Lv.|
 |------------------------------|:---:|:---:|:-:|
 |**「妖怪録、我し来にけり。」**| Rin |Easy | 4 |
 |**「妖怪録、我し来にけり。」**| Rin |Hard | 8 |
 |**「妖怪録、我し来にけり。」**| Rin |Chaos|14 |
 
-### Audio\_YazawaRI\_494\_12\_25
+#### Audio\_YazawaRI\_494\_12\_25
 **Rin**  
 ......
 
@@ -326,16 +332,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 2 |    No     |
 
-### Cam\_YazawaRI\_494\_12\_25
+#### Cam\_YazawaRI\_494\_12\_25
 **Rin**  
 ... It's already 8 o'clock... It's been way too long
 
@@ -497,23 +504,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
 |-------------------|:---:|:---:|:-:|
 |**Starry Summoner**| Rin |Easy | 2 |
 |**Starry Summoner**| Rin |Hard | 5 |
 |**Starry Summoner**| Rin |Chaos|10 |
 
-### Audio\_YazawaRI\_495\_03\_20
+#### Audio\_YazawaRI\_495\_03\_20
 **Rin**  
 Unit 10! I found you!
 
@@ -650,16 +658,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 4 |    No     |
 
-### Audio\_Academy\_495\_03\_21
+#### Audio\_Academy\_495\_03\_21
 **Rin**  
 Huff... This is good right? This is the best place in my Academy for getting some sun.
 
@@ -797,16 +806,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 5 |    No     |
 
-### Audio\_Academy\_495\_08\_28
+#### Audio\_Academy\_495\_08\_28
 **Rin**  
 Katsuya, faster! You're too slow. Loser's gotta water the calendula.
 
@@ -968,23 +978,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**すゝめ☆クノイチの巻**| Rin |Easy | 5 |
 |**すゝめ☆クノイチの巻**| Rin |Hard | 9 |
 |**すゝめ☆クノイチの巻**| Rin |Chaos|14 |
 
-### Audio\_YazawaRI\_495\_09\_06
+#### Audio\_YazawaRI\_495\_09\_06
 **OPCII_0584_X**  
 Wait, Rin... Maybe we shouldn't do this...
 
@@ -1122,16 +1133,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 7 |    No     |
 
-### Audio\_YazawaRI\_495\_12\_11
+#### Audio\_YazawaRI\_495\_12\_11
 **Rin**  
 Unit 10, you wanna go out shopping in a bit?
 
@@ -1267,16 +1279,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 8 |    No     |
 
-### Audio\_Kawasaki\_495\_12\_20
+#### Audio\_Kawasaki\_495\_12\_20
 _\[Door Opens\]_
 
 **Rin**  
@@ -1418,16 +1431,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**| 9 |    No     |
 
-### Cam\_YazawaRI\_495\_11\_30
+#### Cam\_YazawaRI\_495\_11\_30
 **OPCII_0584_X**  
 Tea tree... Lemongrass... China root... Ah, we need more Calendulas...
 
@@ -1566,23 +1580,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 | Song  |Char.|Diff.|Lv.|
 |-------|:---:|:---:|:-:|
 |**彩** | Rin |Easy | 4 |
 |**彩** | Rin |Hard | 9 |
 |**彩** | Rin |Chaos|14 |
 
-### Audio\_YazawaRI\_496\_12\_12
+#### Audio\_YazawaRI\_496\_12\_12
 _\[Warning\]_
 
 **[Warning System]**  
@@ -1741,16 +1756,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|11 |    No     |
 
-### Audio\_Yazawa\_496\_12\_25
+#### Audio\_Yazawa\_496\_12\_25
 **Katsuya**  
 It's so late... Rin, you really don't need me to stay?
 
@@ -1890,16 +1906,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|12 |    No     |
 
-### Audio\_arch\_496\_12\_29
+#### Audio\_arch\_496\_12\_29
 _\[Data Input\]_
 
 **OPCII_0584_X**  
@@ -2081,16 +2098,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|13 |    No     |
 
-### Audio\_Kawasaki\_497\_03\_27
+#### Audio\_Kawasaki\_497\_03\_27
 _\[Door Knock\]_
 
 **Katsuya**  
@@ -2245,16 +2263,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|14 |    No     |
 
-### Audio\_TVstation\_497\_04\_03
+#### Audio\_TVstation\_497\_04\_03
 **[Speaker]**  
 _After all of these incidents, there is no way that we can trust that Architects are safe! Believe me when I say that many people have encountered such situations. We want humans to take over the Administration Bureau and determine all of their policies! That way we can reduce the interactions and meddling that Architects have in human life!_
 
@@ -2405,23 +2424,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song  |Char.|Diff.|Lv.|
 |--------|:---:|:---:|:-:|
 |**決戦**| Rin |Easy | 4 |
 |**決戦**| Rin |Hard | 7 |
 |**決戦**| Rin |Chaos|13 |
 
-### Audio\_TVstation\_497\_04\_03
+#### Audio\_TVstation\_497\_04\_03
 **Rin**  
 Katsuya!? Katsuya!?
 
@@ -2558,16 +2578,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|16 |    No     |
 
-### Audio\_KumoSt\_497\_04\_03
+#### Audio\_KumoSt\_497\_04\_03
 **Takano**  
 You ready?
 
@@ -2662,16 +2683,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|16 |    No     |
 
-### Audio\_KumoSt\_497\_04\_03
+#### Audio\_KumoSt\_497\_04\_03
 _\[Gunshot\]_
 
 **Katsuya**  
@@ -2797,23 +2819,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|17 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
 |---------------|:---:|:---:|:-:|
 |**Mari-Temari**| Rin |Easy | 2 |
 |**Mari-Temari**| Rin |Hard | 6 |
 |**Mari-Temari**| Rin |Chaos|11 |
 
-### Cam\_Yazawa\_497\_04\_03
+#### Cam\_Yazawa\_497\_04\_03
 **Rin**  
 _\*sob\*...\*sob\*_... Katsuya...
 
@@ -2917,16 +2940,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|18 |    No     |
 
-### Audio\_TsukiSt\_497\_04\_03
+#### Audio\_TsukiSt\_497\_04\_03
 **[OPCII_0584_X]**  
 Ci\-Ci\-Ci\-CitiZENs... You've... committed the crimes of... Obstruction of justice and first\-level public endangerment... eliminate... immediately...
 
@@ -3021,16 +3045,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/vhgNIv9jVIM))*
+
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Cam\_TsukiSt\_497\_04\_03
+#### Cam\_TsukiSt\_497\_04\_03
 _\[Bang\]_
 
 **Rin**  
@@ -3125,16 +3152,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Cam\_TsukiSt\_497\_04\_04
+#### Cam\_TsukiSt\_497\_04\_04
 ![rios2201.png](./attachments/rios2201.png)
 
 **OPCII_0584_X**  
@@ -3270,31 +3298,33 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Image\_???\_497\_04\_04
+#### Image\_???\_497\_04\_04
 ![rios2301.png](./attachments/rios2301.png)
 
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Audio\_Arc\_701\_07\_03
+#### Audio\_Arc\_701\_07\_03
 **Sagar**  
 We're here.
 
@@ -3425,23 +3455,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
 |---------|:---:|:---:|:-:|
 |**Inari**| Rin |Easy | 3 |
 |**Inari**| Rin |Hard | 6 |
 |**Inari**| Rin |Chaos|11 |
 
-### Cam\_Arc\_701\_07\_06
+#### Cam\_Arc\_701\_07\_06
 _\[Door Opens\]_
 
 **Leo**  
@@ -3601,16 +3632,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+## Added on v2.9
+
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
 |**Rin**|20 |    No     |
 
-### Cam\_Arc\_702\_12\_17
+#### Cam\_Arc\_702\_12\_17
 _\[Call Starts\]_
 
 **Rin**  

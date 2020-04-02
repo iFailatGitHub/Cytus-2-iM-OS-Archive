@@ -142,6 +142,15 @@
 - [iM Post #142](#im-post-142)
 - [iM Post #143](#im-post-143)
 - [iM Post #144](#im-post-144)
+- [iM Post #145](#im-post-145)
+- [iM Post #146](#im-post-146)
+- [iM Post #147](#im-post-147)
+- [iM Post #148](#im-post-148)
+- [iM Post #149](#im-post-149)
+- [iM Post #150](#im-post-150)
+- [iM Post #151](#im-post-151)
+- [iM Post #152](#im-post-152)
+- [iM Post #153](#im-post-153)
 
 ## iM Post #001
 
@@ -1011,6 +1020,9 @@ If you think of it that way, a life where your path is already decided for you d
 ## iM Post #030
 
 [Last Log](#im-post-029) | [Back to Top](#list-of-posts) | [Next Log](#im-post-031)
+
+### Story Lock
+You need to trigger **ROBO_Head's recovered Æesir-FEST data** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -3591,6 +3603,9 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 
 [Last Log](#im-post-081) | [Back to Top](#list-of-posts) | [Next Log](#im-post-085)
 
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3607,6 +3622,9 @@ Want t\#͏̶̧̀͞^̷͢͝҉̴Ẃ̷̡͞f̵̸̛h́͢r̴̸̨̛é̕͞d̡̛͘t́͜͞
 ## iM Post #085
 
 [Last Log](#im-post-084) | [Back to Top](#list-of-posts) | [Next Log](#im-post-086)
+
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -3670,6 +3688,9 @@ I'm running dry these days from the lack of everything ARRRR
 
 [Last Log](#im-post-085) | [Back to Top](#list-of-posts) | [Next Log](#im-post-087)
 
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3715,6 +3736,9 @@ From what I've seen in the past few days, 08's not exactly a safe haven either L
 ## iM Post #087
 
 [Last Log](#im-post-086) | [Back to Top](#list-of-posts) | [Next Log](#im-post-088)
+
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -3788,6 +3812,9 @@ Dude you got something??
 
 [Last Log](#im-post-087) | [Back to Top](#list-of-posts) | [Next Log](#im-post-089)
 
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -3848,6 +3875,9 @@ OMG are you a prophet! The news came out. Go watch it now
 ## iM Post #089
 
 [Last Log](#im-post-088) | [Back to Top](#list-of-posts) | [Next Log](#im-post-090)
+
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -3990,6 +4020,9 @@ I have several friends who are trashing their albums right now LMFAO
 ## iM Post #090
 
 [Last Log](#im-post-089) | [Back to Top](#list-of-posts) | [Next Log](#im-post-091)
+
+### Story Lock
+You need to trigger **the iM breakdown & Vanessa's awakening** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -6745,7 +6778,7 @@ Maybe ARC's development have encountered problems?
 And btw the update has been fast just for that time period XD Before it was also slow, SUPER slow.
 
 **Cybel_Mach**  
-It seems every time a product is previewed by Master Henry, it ends up a mess. \#HenryNooo
+It seems every time a product is previewed by Master Henry, it ends up a mess. **\#HenryNooo **
 
 **Andy_Roid**  
 The connection device with a built\-in Trojan virus sounds really god awful
@@ -6762,6 +6795,9 @@ I don't think we can expect iM to get any better anytime soon lul
 ## iM Post #130
 
 [Last Log](#im-post-129) | [Back to Top](#list-of-posts) | [Next Log](#im-post-131)
+
+### Story Lock
+You need to trigger **Cherry's death** to unlock this post.
 
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
@@ -6875,6 +6911,9 @@ I thought I could watch Cherry become even more popular for decades to come QAQ
 
 [Last Log](#im-post-130) | [Back to Top](#list-of-posts) | [Next Log](#im-post-132)
 
+### Story Lock
+You need to trigger **Cherry's death** to unlock this post.
+
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
@@ -6941,6 +6980,9 @@ Don't know if the missing Xenon knows about this.....
 
 [Last Log](#im-post-131) | [Back to Top](#list-of-posts) | [Next Log](#im-post-133)
 
+### Story Lock
+You need to trigger **Cherry's death** to unlock this post.
+
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
@@ -6980,6 +7022,9 @@ I am Cherry's fan from her time at Crystal. I've felt empty ever since I heard t
 ## iM Post #133
 
 [Last Log](#im-post-132) | [Back to Top](#list-of-posts) | [Next Log](#im-post-134)
+
+### Story Lock
+You need to trigger **Cherry's death** to unlock this post.
 
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
@@ -7041,6 +7086,9 @@ Are conspiracy theorists all a little anti\-social?
 ## iM Post #134
 
 [Last Log](#im-post-133) | [Back to Top](#list-of-posts) | [Next Log](#im-post-135)
+
+### Story Lock
+You need to trigger **Cherry's death** to unlock this post.
 
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
@@ -7722,7 +7770,7 @@ haven't run into a single drone or Architect
 
 ## iM Post #144
 
-[Last Log](#im-post-143) | [Back to Top](#list-of-posts)
+[Last Log](#im-post-143) | [Back to Top](#list-of-posts) | [Next Log](#im-post-145)
 
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
@@ -7796,5 +7844,679 @@ think i jus heard the sound of anti\-fans smashing s\*\*\*
 Glass shattering bruh wwww
 
 
-[Last Log](#im-post-143) | [Back to Top](#list-of-posts)
+[Last Log](#im-post-143) | [Back to Top](#list-of-posts) | [Next Log](#im-post-145)
+
+## iM Post #145
+
+[Last Log](#im-post-144) | [Back to Top](#list-of-posts) | [Next Log](#im-post-146)
+
+### Story Lock
+You need to trigger **the Good Ending** to unlock this post.
+
+### Unlocked Charts
+|       Song       | Char. |Diff.|Lv.|
+|------------------|:-----:|:---:|:-:|
+|**The Whole Rest**|Vanessa|Easy | 4 |
+|**The Whole Rest**|Vanessa|Hard | 7 |
+|**The Whole Rest**|Vanessa|Chaos|12 |
+
+### Here I am!
+**PAFF**  
+Hey everyone, it's PAFF.  
+Did you all enjoy the performance in the Tower yesterday?  
+Been a long time since I was that excited singing. Actually, I was so nervous backstage that I was gripping my sister's hand and wouldn't go onstage.
+### Replies
+**iluvpuf**  
+First replyyyyy!!! PAFF that was awesome!!!!!!!!!!  
+Totally cried during the encore
+
+**PoolsKitten**  
+The encore songs Gravity and KANATA were like, a little 2 meaningful QAQ
+
+**m00nl16h7**  
+Sounded. So. Freaking. GOOD\~
+
+**LyLah1207**  
+The best singer evs!!! PAFF, I luv you!!!
+
+**PrideCr0w**  
+PAFF way to go ^^
+
+**lenba**  
+Voice is as beautiful as ever\~\~\~ <3
+
+**PAFF**  
+Thanks for liking it everyone. After all that happened, it really means alot to still have all of your support...
+
+**NEKO#ΦωΦ**  
+Aroma\-chan's the best<3  
+ΦωΦ  
+ΦωΦ  
+ΦωΦ  
+Time to collab on the next song♥\~(Φ∀Φ  )
+
+**PAFF**  
+Kay :) Thx for coming backstage to watch me. But I think you were 2 songs late?
+
+**NEKO#ΦωΦ**  
+uhh... try not to throw me under the bus in public how bout that (Φ////Φ)
+
+**Sopheee**  
+never thought that in my lifetime PAFF and NEKO's relationship would be so good  
+ive been putting up with this goddess battle fur evs...   
+guess it hasnt been in vain 0rz
+
+**CeLiA**  
+What a deal im gonna cherish that 4 for 3 lifetimez
+
+**SancTityKnight**  
+\\PAFF/ \\PAFF/ \\PAFF/ \\PAFF/
+
+**vvv_IRIS_vvv**  
+\\PAFF/ \\NEKO/ \\PAFF/ \\NEKO/
+
+**AbbEE**  
+so moving \~  i bow down b4 u
+
+**PAFF**  
+Oh yeah\~ I'll be holding a carnival to celebrate the reopening of the plaza on Restaurant Ave in Quadrant 2. I'm inviting lots of bands to come and perform. I'll be making an appearance as Kaori. You're all welcome to come see me :)
+
+**MustangMartin**  
+Gotta support chill concerts too!!
+
+**Pascal626**  
+I think Hayato is so soothing  
+Mr. Therapy
+
+**MAN_Dora**  
+definitely going, me and my friend said we'd go back and check out JOE's place a long time ago
+
+**Heart_Head**  
+PAFF's the best!!
+
+
+[Last Log](#im-post-144) | [Back to Top](#list-of-posts) | [Next Log](#im-post-146)
+
+## iM Post #146
+
+[Last Log](#im-post-145) | [Back to Top](#list-of-posts) | [Next Log](#im-post-147)
+
+### Story Lock
+You need to trigger **the Good Ending** to unlock this post.
+
+### Time 4 Early Bird NEKO\#(ΦωΦ) Interviews\~\~\~\~
+**NEKO#ΦωΦ**  
+Minasan\~\~Did you all get a good night's rest ΦωΦ  
+NEKO's new, healthier stream has begun\~\~\~  
+No one wants me to play video games on a stream this early, right? Σ(ΦдΦ)
+### Replies
+**KirinKiraKira**  
+Too early...
+
+**Arianaya**  
+I was just about to get into bed...
+
+**EvilForce**  
+Is it just me who finds it impossible to get used to the new NEKO www
+
+**Hulujam**  
+Playing games at this time... so should we like not go to work QAQ
+
+**NEKO#ΦωΦ**  
+No biggie. I know you all can't be as great as NEKO and get up this early (ΦωΦ)ゞ  
+Wait for it  
+Wait for it  
+WWWWait for it  
+Just a few more sexonds!ヽ(Φˋ口ˊΦ)ノ
+
+**maplewing**  
+Excuse me!?!? TYPO\~\~\~  
+\[This user has been muted\]
+
+**Smurky**  
+someone got up on the wrong side of the bed www
+
+**Poopytrap**  
+This week's record for quickest mute
+
+**NEKO#ΦωΦ**  
+Ooooookay, that's enough people.  
+Lazer dogg\~\~\~\~!
+
+**NEKO#ΦωΦ**  
+So today our guest is the netizen who managed to hide in a freezer to escape being attacked by drones and Architects. It was not easy to get him out here.
+
+**FCodex**  
+glad he could "meat" up with you
+
+**MirriLL**  
+Saw that person on the web. Seems like a "cool" guy www
+
+**Zigzag**  
+Staying in a fridge that long, sounds pretty "fishy" to me
+
+**C_H_U**  
+NEKO, u dont play games as much now huh
+
+**NekoSamurai**  
+after she became a freelance reporter her view count dropped in half  
+but ain't no one getting as many views for interviews as NEKO wwwwwww
+
+**Noposa**  
+Haven't seen NEKOSAIKOU in a while  
+She hasn't been on in fur evs
+
+**STANley**  
+Maybe she finally decided to stop being a computer geek\-ess  
+Perhaps she even signed with... Monophonic(???
+
+**Shibawu**  
+Never seen NEKOSAIKOU in person, but I'm guessin she ain't no artist \~
+
+
+[Last Log](#im-post-145) | [Back to Top](#list-of-posts) | [Next Log](#im-post-147)
+
+## iM Post #147
+
+[Last Log](#im-post-146) | [Back to Top](#list-of-posts) | [Next Log](#im-post-148)
+
+### Story Lock
+You need to trigger **the Good Ending** to unlock this post.
+
+### Time to rest a bit.
+**Xenon**  
+Life has gradually returned to its natural groove. I nearly forgot how much focusing on the music and performances one loves can help one relax.
+
+I lost a lot recently. I won't lie to you, or myself, acting all high and mighty and tell everyone to cherish what they have. I'm sure many of you are just like me. There may be someone or something that is never going to be brought back to life. We're just going to have to try and find a way to emerge from the haze that is suffering and loss.
+
+I'm not sure how frequently I am going to update my iM status. I'd like to spend more time with my family and loved ones. But if you think following this account will give you something of value, I won't take it down. At the very least, I can keep posting my show dates and new material.
+### Replies
+**TreeNoAlice**  
+X, we ain't never leaving you.
+
+**xxScarlexx**  
+I'm proud to be a fan of Holy X
+
+**Gearz_Igo**  
+Never let us down. Always the man we knew he was.
+
+**noneXenon**  
+Thanks Xenon for teaching me a lot. I'll keep supporting your music!!!
+
+**Axroid_Sona**  
+Xenon, keep it up  
+Cherry would want to see you happy
+
+**KiwaHu**  
+While wiping out injustice, all the poser fans got washed out as well
+
+**Wrinkleheart**  
+X, yeah boi  
+We'll stick with u
+
+**RyanRii**  
+You gonna start sueing those gossip mags or what
+
+**Quest_ION**  
+Well, those mags ended up doing the right thing and balancing it out for Xenon in the end
+
+**Pinevalley**  
+But they already caused way too much damage!!!
+
+**Pixely99**  
+Still can't believe Cherry left us like that
+
+**Gearz_Igo**  
+Thought I'd see Crystal PuNK revived during my lifetime Q\_Q
+
+**FindingCat**  
+I'll always follow Xenon, luv ya!!!
+
+**Queenof08**  
+Xenon, we'll support you always
+
+
+[Last Log](#im-post-146) | [Back to Top](#list-of-posts) | [Next Log](#im-post-148)
+
+## iM Post #148
+
+[Last Log](#im-post-147) | [Back to Top](#list-of-posts) | [Next Log](#im-post-149)
+
+### Story Lock
+You need to trigger **the Good Ending** to unlock this post.
+
+### Restart.
+**ConneR**  
+I thought I had seen through Reality. Yet I discovered that reality's falsehoods far surpass those of the imagination. Only after shedding a multitude of identities did I discover that my essence is nothing more than a drop in the ocean. The only belief that remains is too frail to withstand even a single blow. Starting from today, I'll use my new position in life to continue uncovering those stories that have been buried from sight. That which is worth protecting will most likely gradually change my original intentions.
+
+As for musical performances, I hope as you gaze upon the infinite night sky, you can hear me perform with the sea of stars.
+
+Will I see you... once more?
+### Replies
+**DMO**  
+I can't handle it.  
+Without ConneR sensei this world is lost, no?
+
+**T.Goldwell**  
+Sensei, don't go QAQ I want to continue listening to your performances ahhh
+
+**Amberclove**  
+I'll see you again, Professor!!! I promise!!!!
+
+**RaiKiyumi**  
+Is this sensei's last iM post?
+
+**Bolt_Urx**  
+Where's sensei going
+
+**GemFeather**  
+Following the Doc forever!!!
+
+**Dogleg**  
+There's no way ordinary people like us can see the reality that master sensei sees...
+
+**CozyCaty**  
+If ConneR sensei is just a drop in the ocean  
+Then we're just...
+
+**Brightswirls**  
+A drop in a pile of s\*\*\* (that already got blown away
+
+**Ewx_Data**  
+Take care of yourself, Sensei. Don't get hurt anymore
+
+**Otis_Emik**  
+You gonna keep searching the forbidden areas!?
+
+**C.Y.**  
+This is cool, but JOE just didn't stop busting on him XD
+
+
+[Last Log](#im-post-147) | [Back to Top](#list-of-posts) | [Next Log](#im-post-149)
+
+## iM Post #149
+
+[Last Log](#im-post-148) | [Back to Top](#list-of-posts) | [Next Log](#im-post-150)
+
+### Story Lock
+You need to trigger **the Good Ending** to unlock this post.
+
+### Check this OOOOOut!
+**JOEZ Cafe**  
+YOYOYO\~  
+The all new JOEZ CAFE, after undergoing some serious surgery is soon  
+Gonna. Re. Open. DOGGGG!!!  
+We're still in the same spot. Totally rebuilt.  
+Thx for all your help.  
+Ya'll put out some cash and manpower (oh sorry all yall with a screen in front of ur faces only get a rebuilt keyboard, yea im talkin bout u)  
+The whole thing went much quicker than anticipated  
+Really thought I wasn't gonna be able to make Yamato Brewery's launch event for their new flavor
+
+Anyway  
+We're starting operations tomorrow  
+Old friends and new, come on out  
+Come in for one free drink  
+Guest with the highest Happy Hour tab gets to pick songs for free  
+Let the most boss BASS player play ya'll a song
+
+Peace n Luv  
+JOE's OUT! (Mic Drop
+### Replies
+**moonin**  
+Finally, been waiting for the King of Germ's return
+
+**Xzavis**  
+And Yamameto's return...
+
+**MatsuyamaC**  
+Yamameto saved the boss' life, now he's like forced to buy stuff from Yamato Brewery wwwwww
+
+**foreheadless**  
+So, if we go to JOEZ will we see PAFF, NEKO and Xenon?
+
+**JOE**  
+Spoiler: you aren't coming  
+No worries I won't tell wwwww  
+Special guest, Schrodinger
+
+**Xenon**  
+Do you even know who Schrodinger is?
+
+**Duncan128**  
+Uh\-oh wwwwww attack of the intellectuals
+
+**ConneR**  
+He is going to say that he is a friend of Martini's.
+
+**TobeTobe**  
+This many rapid fire SLAMZ are too brutal for the King of Germs XDDDD
+
+**KamiCherry**  
+What's ConneR sensei doing hur  wwwwwwwwww
+
+**Uxi**  
+Ooooo snappp, does that mean ConneR sensei will be there?  
+That's like a million dreams come true in one
+
+**JOE**  
+ConneR's gonna switch out your rugby ball with a ghost pepper
+
+**RyanRii**  
+Is the pool table still there? Reset the records, I'm coming for a challenge!!!
+
+**JaneHikaru**  
+Just realized no one dared ask what the new flavor is XDDDDDDD
+
+**Ulxy_34RTH**  
+Dude, last time was way too hardcore...
+
+**FreeFinder**  
+Only BASS!? No one else!?
+
+
+[Last Log](#im-post-148) | [Back to Top](#list-of-posts) | [Next Log](#im-post-150)
+
+## iM Post #150
+
+[Last Log](#im-post-149) | [Back to Top](#list-of-posts) | [Next Log](#im-post-151)
+
+### Story Lock
+You need to trigger **the Neutral Ending** to unlock this post.
+
+### Unlocked Charts
+|     Song     | Char. |Diff.|Lv.|
+|--------------|:-----:|:---:|:-:|
+|**Used to be**|Vanessa|Easy | 2 |
+|**Used to be**|Vanessa|Hard | 5 |
+|**Used to be**|Vanessa|Chaos| 9 |
+
+### Time for NEKO\#(ΦωΦ)'s Interview Stream\~
+**NEKO#ΦωΦ**  
+Minasan\~\~Did you all get a good night's rest ΦωΦ  
+NEKO's new, healthier stream has begun\~\~\~  
+No one wants me to play video games on a stream this early, right? Σ(ΦдΦ)
+### Replies
+**KirinKiraKira**  
+Too early...
+
+**Arianaya**  
+I was just about to get into bed...
+
+**EvilForce**  
+Is it just me who finds it impossible to get used to the new NEKO www
+
+**Hulujam**  
+Playing games at this time... so should we like not go to work QAQ
+
+**VardoR**  
+Pretty happy to finally see NEKO with some positive energy
+
+**Mulder**  
+NEKO u doing okay recently??
+
+**NEKO#ΦωΦ**  
+No biggie. I know you all can't be as great as NEKO and get up this early (ΦωΦ)ゞ  
+We'll wait a few more sexondsヽ(Φˋ口ˊΦ)ノ
+
+**maplewing**  
+Excuse me!?!? TYPO\~\~\~  
+\[This user has been muted\]
+
+**Smurky**  
+someone got up on the wrong side of the bed www
+
+**Poopytrap**  
+This week's record for quickest mute
+
+**NEKO#ΦωΦ**  
+Ooooookay, that's enough people.  
+Let's do this!!
+
+**NEKO#ΦωΦ**  
+So today our guest is the netizen who managed to hide in a freezer to escape being attacked by drones and Architects. It was not easy to get him out here.
+
+**FCodex**  
+glad he could "meat" up with you
+
+**MirriLL**  
+Saw that person on the web. Seems like a "cool" guy www
+
+**Zigzag**  
+Staying in a fridge that long, sounds pretty "fishy" to me
+
+**C_H_U**  
+NEKO, u dont play games as much now huh
+
+**NekoSamurai**  
+after she became a freelance reporter her view count dropped in half  
+but ain't no one getting as many views for interviews as NEKO wwwwwww
+
+**Nix**  
+NEKO keep it up, you can do it :))))))
+
+**9me**  
+Tell u the truth, I can't bear to see NEKO like this...
+
+**Noposa**  
+Haven't seen NEKOSAIKOU in a while  
+She hasn't been on in fur evs
+
+**STANley**  
+Maybe she finally decided to stop being a computer geek\-ess  
+Perhaps she even signed with... Monophonic(???
+
+**Shibawu**  
+Never seen NEKOSAIKOU in person, but I'm guessin she ain't no artist \~
+
+
+[Last Log](#im-post-149) | [Back to Top](#list-of-posts) | [Next Log](#im-post-151)
+
+## iM Post #151
+
+[Last Log](#im-post-150) | [Back to Top](#list-of-posts) | [Next Log](#im-post-152)
+
+### Story Lock
+You need to trigger **the Neutral Ending** to unlock this post.
+
+### Got to keep moving forward.
+**Xenon**  
+Life has gradually returned to its natural groove. I nearly forgot how much focusing on the music and performances one loves can help one relax.
+
+I lost a lot recently. I won't lie to you, or myself, acting all high and mighty and tell everyone to cherish what they have. I'm sure many of you are just like me. There may be someone or something that is never going to be brought back to life. We're just going to have to try and find a way to emerge from the haze that is suffering and loss.
+
+I'm not sure how frequently I am going to update my iM status. I'd like to spend more time with my family and loved ones. But if you think following this account will give you something of value, I won't take it down. At the very least, I can keep posting my show dates and new material.
+### Replies
+**TreeNoAlice**  
+X, we ain't never leaving you.
+
+**xxScarlexx**  
+I'm proud to be a fan of Holy X
+
+**Gearz_Igo**  
+Never let us down. Always the man we knew he was.
+
+**noneXenon**  
+Thanks Xenon for teaching me a lot. I'll keep supporting your music!!!
+
+**CyberLord**  
+Losing PAFF and Cherry was a huge hit...  
+X, take care of yourself
+
+**Axroid_Sona**  
+Xenon, stay strong  
+PAFF and Cherry would want to see you happy
+
+**KiwaHu**  
+While wiping out injustice, all the poser fans got washed out as well
+
+**Wrinkleheart**  
+X, yeah boi  
+We'll stick with u
+
+**RyanRii**  
+You gonna start sueing those gossip mags or what
+
+**Quest_ION**  
+Well, those mags ended up doing the right thing and balancing it out for Xenon in the end
+
+**Pinevalley**  
+But they already caused way too much damage!!!
+
+**Pixely99**  
+Still can't believe Cherry left us like that
+
+**Pumpkinforest**  
+PAFF too... I had a bad feeling about all that ever since she went missing
+
+**FindingCat**  
+I'll always follow Xenon, luv ya!!!
+
+**Queenof08**  
+Xenon, we'll support you always
+
+**Jiwa77**  
+PAFF... \*sob\*... \*sob\*... \*sob\*...
+
+**ArupakaKUN**  
+X, stay strong
+
+**Gearz_Igo**  
+Xenon, you're gonna keep making music, right?
+
+
+[Last Log](#im-post-150) | [Back to Top](#list-of-posts) | [Next Log](#im-post-152)
+
+## iM Post #152
+
+[Last Log](#im-post-151) | [Back to Top](#list-of-posts) | [Next Log](#im-post-153)
+
+### Story Lock
+You need to trigger **the Neutral Ending** to unlock this post.
+
+### Restart.
+**ConneR**  
+I thought I had seen through Reality. Yet I discovered that reality's falsehoods far surpass those of the imagination. Only after shedding a multitude of identities did I discover that my essence is nothing more than a drop in the ocean. The only belief that remains is too frail to withstand even a single blow. Starting from today, I'll use my new position in life to continue uncovering those stories that have been buried from sight. That which is worth protecting will most likely gradually change my original intentions.
+
+As for musical performances, I hope as you gaze upon the infinite night sky, you can hear me perform with the sea of stars.
+
+Will I see you... once more?
+### Replies
+**DMO**  
+I can't handle it.  
+Without ConneR sensei this world is lost, no?
+
+**T.Goldwell**  
+Professor, don't go QAQ I want to continue listening to your performances ahhh
+
+**Amberclove**  
+I'll see you again, sensei!!! I promise!!!!
+
+**RaiKiyumi**  
+Is this sensei's last iM post?
+
+**Bolt_Urx**  
+Where's sensei going
+
+**GemFeather**  
+Following the Doc forever!!!
+
+**Dogleg**  
+There's no way ordinary people like us can see the reality that master sensei sees...
+
+**CozyCaty**  
+If ConneR sensei is just a drop in the ocean  
+Then we're just...
+
+**Brightswirls**  
+A drop in a pile of s\*\*\* (that already got blown away
+
+**Ewx_Data**  
+Take care of yourself, Sensei. Don't get hurt anymore
+
+**Otis_Emik**  
+You gonna keep searching the forbidden areas!?
+
+
+[Last Log](#im-post-151) | [Back to Top](#list-of-posts) | [Next Log](#im-post-153)
+
+## iM Post #153
+
+[Last Log](#im-post-152) | [Back to Top](#list-of-posts)
+
+### Story Lock
+You need to trigger **the Neutral Ending** to unlock this post.
+
+### JOEZ CAFE 100 (?) Years of Tradition: All new renovations are ready to go
+**JOEZ Cafe**  
+YOYOYO\~  
+The all new JOEZ CAFE, after undergoing some serious surgery is gonna reopen!!  
+We're still in the same spot. Totally rebuilt.  
+Thx for all your help.  
+Ya'll put out some cash and manpower   
+The whole thing went much quicker than anticipated  
+Really thought I wasn't gonna be able to make Yamato Brewery's launch event for their new flavor
+
+Anyway  
+We're starting operations tomorrow  
+Old friends and new, come on out  
+Come in for one free drink  
+Guest with the highest Happy Hour tab gets to pick songs for free  
+Let the most boss BASS player play ya'll a song
+
+Peace n Luv  
+Can't wait to see everyone again!
+### Replies
+**moonin**  
+Finally, been waiting for the King of Germ's return
+
+**Xzavis**  
+And Yamameto's return...
+
+**MatsuyamaC**  
+Yamameto saved the boss' life, now he's like forced to buy stuff from Yamato Brewery wwwwww
+
+**foreheadless**  
+So, if we go to JOEZ will we see NEKO and Xenon?
+
+**JOE**  
+They're still not feeling so well  
+I invited them, but still haven't got a positive response
+
+**StuffyMouth**  
+True  
+Recently, X's articles and NEKO's stream feel a little different from before
+
+**Duncan128**  
+I think NEKO's is about the same, its just she looks like she's forcing herself to smile
+
+**TobeTobe**  
+Hope they're able to pull themselves together
+
+**KamiCherry**  
+Isn't Boss JOE close with all them  
+Let's keep up the positive power posting \~\~\~
+
+**Uxi**  
+We all gotta keep moving forward
+
+**JaneHikaru**  
+We can do it! We stick together!
+
+**RamenBot**  
+Can I reserve 4 seats (?
+
+**RyanRii**  
+Is the pool table still there? Reset the records, I'm coming for a challenge!!!
+
+**JaneHikaru**  
+Just realized no one dared ask what the new flavor is XDDDDDDD
+
+**Ulxy_34RTH**  
+Dude, last time was way too hardcore...
+
+**FreeFinder**  
+Only BASS!? No one else!?
+
+
+[Last Log](#im-post-152) | [Back to Top](#list-of-posts)
 

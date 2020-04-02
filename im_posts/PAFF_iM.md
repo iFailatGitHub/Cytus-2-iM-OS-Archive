@@ -894,6 +894,9 @@ Look forward to seeing PAFF!
 
 [Last Log](#im-post-012) | [Back to Top](#list-of-posts) | [Next Log](#im-post-014)
 
+### Story Lock
+You need to trigger **the PAFFCON incident** to unlock this post.
+
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|

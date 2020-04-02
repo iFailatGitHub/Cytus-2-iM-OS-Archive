@@ -1,51 +1,67 @@
 # ROBO_Head OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
+- [Added on v1.4](#added-on-v14)
+    - [OS Log #001](#os-log-001)
+- [Added on v1.5](#added-on-v15)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+- [Added on v1.7](#added-on-v17)
+    - [OS Log #006](#os-log-006)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #014](#os-log-014)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #031](#os-log-031)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #032](#os-log-032)
+    - [OS Log #033](#os-log-033)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
 
-## OS Log #001
+## Added on v1.4
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|35 |    No     |
 
-### Cam\_Main\_Log\_697\_04\_06\_1
+#### Cam\_Main\_Log\_697\_04\_06\_1
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286  
 \[   0.0000\] Warning: unauthorized boot loader  
 \[   0.0000\] ?{(/?
@@ -55,16 +71,19 @@
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+## Added on v1.5
+
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|40 |    No     |
 
-### Cam\_Main\_Log\_697\_04\_06\_2
+#### Cam\_Main\_Log\_697\_04\_06\_2
 \[   0.3940\] Visual analyzer initialized.  
 \[   0.5547\] Phase 1: Environment scanning..........................checked  
 \[   0.6012\] 1 main structure detected. Structure integrity: 88%   
@@ -85,16 +104,17 @@
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|42 |    No     |
 
-### Cam\_Main\_Log\_697\_04\_06\_3
+#### Cam\_Main\_Log\_697\_04\_06\_3
 \[   8.1257\] Initializing linguistic simulation  
 \[  10.5547\] Main application.......................................installed  
 \[  20.6748\] Semiotics.................................................installed  
@@ -112,16 +132,19 @@
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+## Added on v1.6
+
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|43 |    No     |
 
-### Cam\_Main\_Log\_697\_04\_06\_4
+#### Cam\_Main\_Log\_697\_04\_06\_4
 \[    4.7521\] Sound receiver activated.  
 \[    4.8251\] Voice analyzer initialized.  
 \[    5.6748\] Phase 1: Environment scanning..........................checked  
@@ -143,16 +166,17 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|45 |    No     |
 
-### Cam\_Main\_Log\_697\_04\_06\_5
+#### Cam\_Main\_Log\_697\_04\_06\_5
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286  
 \[   0.0000\] Warning: unauthorized boot loader  
 \[   0.0000\] "8\])5\[7.\#8/\*{
@@ -162,16 +186,19 @@ Understood. I'll asky͞V͜͞f̶͟e̸waitW̢w̷͡yK͟͏h̵̡͘X͜H̛z҉̸̢E̵͜t
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+## Added on v1.7
+
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|48 |    No     |
 
-### Mail\_Log\_702\_09\_23
+#### Mail\_Log\_702\_09\_23
 Receiving message from Node 03  
 Target IP unknown  
 Decision：Begin reverse detection   
@@ -191,16 +218,19 @@ End of message
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+## Added on v1.9
+
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|52 |    No     |
 
-### Main\_Log\_702\_10\_22\_1
+#### Main\_Log\_702\_10\_22\_1
 Internet keyword search...  
 Sort: Message volume  
 Extracting keywords...... Complete
@@ -223,16 +253,17 @@ Speculation: Data lost due to old memory unit or unexpected hardware damage and 
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|54 |    No     |
 
-### Main\_Log\_702\_10\_22\_2
+#### Main\_Log\_702\_10\_22\_2
 Inputting activity planning...  
 Operation/Action denied; reasoning: conflict with supreme command.
 
@@ -272,23 +303,26 @@ Program activation... start
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+## Added on v2.0
+
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|55 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song       |  Char.  |Diff.|Lv.|
 |------------------|:-------:|:---:|:-:|
 |**Nocturnal Type**|ROBO_Head|Easy | 4 |
 |**Nocturnal Type**|ROBO_Head|Hard | 8 |
 |**Nocturnal Type**|ROBO_Head|Chaos|11 |
 
-### Main\_Log\_702\_10\_23\_1
+#### Main\_Log\_702\_10\_23\_1
 ![ros0901.png](./attachments/ros0901.png)
 
 Physical connection to memory unit NA702\_01...... Complete  
@@ -422,16 +456,17 @@ Program activation...... start
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|55 |    No     |
 
-### Main\_Log\_702\_10\_23\_2
+#### Main\_Log\_702\_10\_23\_2
 Physical connection to memory unit NA69X\_01...... Complete  
 Data loading rate...... 82.21%  
 Decision: This memory unit too old. File timeline block experienced physical damage, unable to be read
@@ -545,16 +580,17 @@ Decision: This unit currently in "Sad" emotion
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|56 |    No     |
 
-### Main\_Log\_702\_10\_23\_3
+#### Main\_Log\_702\_10\_23\_3
 Physical connection to memory unit NA69X\_02...... Complete  
 Data loading rate...... 24.01%  
 Decision: This memory unit experienced physical destruction. Files severely corrupted
@@ -582,16 +618,19 @@ Program activation...... start
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+## Added on v2.1
+
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|57 |    No     |
 
-### Main\_Log\_702\_10\_23\_4
+#### Main\_Log\_702\_10\_23\_4
 Recover corrupted file Cam\_Robo\_698\_06\_02  
 Program activation...... start
 
@@ -633,16 +672,17 @@ Begin replay
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|57 |    No     |
 
-### Main\_Log\_702\_10\_28
+#### Main\_Log\_702\_10\_28
 Inputting activity planning...  
 Operation/Action denied; reasoning: conflict with supreme command.
 
@@ -697,31 +737,37 @@ Activity start
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+## Added on v2.2
+
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|58 |    No     |
 
-### Cam03\_Center\_702\_11\_04
+#### Cam03\_Center\_702\_11\_04
 ![ros1401_72004800.png](./attachments/ros1401_72004800.png)
 
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+## Added on v2.4
+
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|59 |    No     |
 
-### Cam\_TigerSt\_702\_11\_08\_1
+#### Cam\_TigerSt\_702\_11\_08\_1
 **[ROBO_Head]**  
 _Hello, sorry for bothering you._
 
@@ -828,16 +874,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|59 |    No     |
 
-### Cam\_TigerSt\_702\_11\_08\_2
+#### Cam\_TigerSt\_702\_11\_08\_2
 **???**  
 _\*Huff\*... \*puff\*..._Outta my way, outta my way!
 
@@ -1001,16 +1048,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|60 |    No     |
 
-### Cam\_DragonSt\_702\_11\_13
+#### Cam\_DragonSt\_702\_11\_13
 **Pedestrian**  
 I haven't seen her. Go away. I'm busy.
 
@@ -1152,16 +1200,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|60 |    No     |
 
-### Cam\_Nora'sRoom\_698\_04\_13
+#### Cam\_Nora'sRoom\_698\_04\_13
 **[Nora]**  
 _ROBO, why did you lie? You even made a fake report._
 
@@ -1275,16 +1324,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|60 |    No     |
 
-### Audio\_Kyuuback\_702\_11\_15
+#### Audio\_Kyuuback\_702\_11\_15
 **Yamada**  
 The trapdoor is right ahead. Follow me.
 
@@ -1412,16 +1462,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/NvZ_ipT9VhU))*
+
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|61 |    No     |
 
-### Cam\_KyuuLab\_702\_11\_15
+#### Cam\_KyuuLab\_702\_11\_15
 _\[Door Opens\]_
 
 **Kyuu Hou Kai Member**  
@@ -1526,16 +1579,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|61 |    No     |
 
-### Audio\_KyuuLab\_702\_11\_15
+#### Audio\_KyuuLab\_702\_11\_15
 **Kyuu Hou Kai Member**  
 ......  
 Chief, what are we gonna do with this?
@@ -1657,16 +1711,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|62 |    No     |
 
-### Cam\_Kyuu\_702\_11\_20
+#### Cam\_Kyuu\_702\_11\_20
 _\[Gate Opens\]_
 
 **Member D**  
@@ -1832,16 +1887,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|63 |    No     |
 
-### Audio\_Kyuu\_702\_11\_22
+#### Audio\_Kyuu\_702\_11\_22
 **[ROBO_Head]**  
 _......_
 
@@ -1890,16 +1946,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|63 |    No     |
 
-### Audio\_Murata\_702\_11\_22
+#### Audio\_Murata\_702\_11\_22
 **Ichiro**  
 Welcome to my home. Not a fancy place, but still home.
 
@@ -2022,16 +2079,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|64 |    No     |
 
-### Audio\_Murata\_702\_11\_27
+#### Audio\_Murata\_702\_11\_27
 _\[Repairing\]_
 
 **Ichiro**  
@@ -2105,16 +2163,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|64 |    No     |
 
-### Cam\_Murata\_702\_11\_27
+#### Cam\_Murata\_702\_11\_27
 **Sonoko**  
 Thank you, ROBO. Sorry about this, you're supposed to be a guest...
 
@@ -2241,16 +2300,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|64 |    No     |
 
-### Audio\_Nora\_702\_11\_28
+#### Audio\_Nora\_702\_11\_28
 **[Nora]**  
 _\[Nora\]._
 
@@ -2370,16 +2430,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/uuOD-bTi1hA))*
+
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|65 |    No     |
 
-### Cam\_Nora\_702\_11\_29
+#### Cam\_Nora\_702\_11\_29
 ![ros2802.png](./attachments/ros2802.png)
 
 _\[ROBO_Head Start-Up\]_
@@ -2443,16 +2506,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+## Added on v2.5
+
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|66 |    No     |
 
-### Audio\_Nora\_702\_11\_29\_1
+#### Audio\_Nora\_702\_11\_29\_1
 **Kyuu Hou Kai Member**  
 Chief... I tried to stop them...
 
@@ -2541,16 +2607,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|66 |    No     |
 
-### Audio\_Nora\_702\_11\_29\_2
+#### Audio\_Nora\_702\_11\_29\_2
 **[Nora]**  
 _I understand. So the purpose of your visit to Node 03 is to confirm the identity of Miss Kaori Minamiya?_
 
@@ -2680,17 +2747,20 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+## Added on v2.6
+
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**ROBO_Head**   |67 |    No     |
 |**Crystal PuNK**|24 |    No     |
 
-### Cam\_KyuuLab\_702\_12\_15
+#### Cam\_KyuuLab\_702\_12\_15
 _\[Door Opens\]_
 
 **[ROBO_Head]**  
@@ -2873,16 +2943,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+## Added on v2.7
+
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|68 |    No     |
 
-### Audio\_Kyuu\_702\_12\_15\_3
+#### Audio\_Kyuu\_702\_12\_15\_3
 **[Nora]**  
 _All in all, both of you should be exhausted. I am very thankful that you're still willing to stay here. Please get some rest. I must now go back to clean up this mess._
 
@@ -3043,16 +3116,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|68 |    No     |
 
-### Audio\_Kyuu\_702\_12\_17
+#### Audio\_Kyuu\_702\_12\_17
 _\[Ringtone\]_
 
 _\[Call Starts\]_
@@ -3211,16 +3285,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v2.8
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|69 |    No     |
 
-### Audio\_Bookstore\_702\_12\_24
+#### Audio\_Bookstore\_702\_12\_24
 **ConneR**  
 This bookstore is much more shabbier than I imagined, haha. Shall I utter the secret code? I'm looking for "The Ninth...
 
@@ -3356,16 +3433,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**ROBO_Head**|69 |    No     |
 
-### Audio\_Kyuu\_702\_12\_24
+#### Audio\_Kyuu\_702\_12\_24
 **ConneR**  
 I see... A vaccine for "The Ender" virus, is it?
 

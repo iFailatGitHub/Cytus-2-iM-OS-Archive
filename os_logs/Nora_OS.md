@@ -1,47 +1,52 @@
 # Nora OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+    - [OS Log #033](#os-log-033)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
+    - [OS Log #036](#os-log-036)
 
-## OS Log #001
+## Added on v1.8
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Audio\_Trans\_08\_698\_06\_04
+#### Audio\_Trans\_08\_698\_06\_04
 **Cleaner A**  
 Sir... Sir...?
 
@@ -131,11 +136,12 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Cam\_Robo\_697\_04\_06\_1
+#### Cam\_Robo\_697\_04\_06\_1
 _\[ROBO_Head Start-Up\]_
 
 **[ROBO_Head]**  
@@ -199,17 +205,18 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
 |------------------|:---:|:---:|:-:|
 |**Drop The World**|Nora |Easy | 4 |
 |**Drop The World**|Nora |Hard | 8 |
 
-### Cam\_ARC\_688\_09\_02
+#### Cam\_ARC\_688\_09\_02
 **[Leo]**  
 _Phoenix, based on the aforementioned reasons, you are relieved of your position as Director of the A.R.C. technology department, effective immediately. You can go clear out your office now._
 
@@ -381,16 +388,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 2 |    No     |
 
-### Audio\_ABO03\_688\_12\_06
+#### Audio\_ABO03\_688\_12\_06
 **Lam**  
 ... Hmm, this is without a doubt an impressive resume and proposal.  
 I'll be honest with you; we don't need this resume at all. The name "Phoenix Wyle" speaks for itself among researchers. Your reputation far precedes you.
@@ -461,16 +469,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 2 |    No     |
 
-### Audio\_Butsudou\_690\_11\_20
+#### Audio\_Butsudou\_690\_11\_20
 **Lam**  
 So we meet again. In less than two years... judging by your face, you must've been through a lot between our two meetings, haven't you? You certainly didn't disappoint me.
 
@@ -631,16 +640,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 3 |    No     |
 
-### Cam\_Robo\_697\_04\_06\_2
+#### Cam\_Robo\_697\_04\_06\_2
 **[Nora]**  
 _I want to test your comprehensive ability... Can you explain to me what you just heard? ROBO._
 
@@ -707,21 +717,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
 |------------------|:---:|:---:|:-:|
 |**Drop The World**|Nora |Chaos|14 |
 
-### Audio\_ShinShenSt\_691\_01\_15
+#### Audio\_ShinShenSt\_691\_01\_15
 **Mogura Member A**  
 Mr. Shiino.
 
@@ -803,16 +814,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 4 |    No     |
 
-### Audio\_KyuuLab\_691\_01\_23
+#### Audio\_KyuuLab\_691\_01\_23
 _\[Punches Table\]_
 
 **Kim**  
@@ -919,16 +931,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 5 |    No     |
 
-### Audio\_???\_691\_01\_23
+#### Audio\_???\_691\_01\_23
 _\[Engines turned off\]_
 
 **Member A**  
@@ -1036,16 +1049,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 5 |    No     |
 
-### Cam\_Robo\_697\_04\_06\_03
+#### Cam\_Robo\_697\_04\_06\_03
 **[Nora]**  
 _That child... was me._
 
@@ -1127,22 +1141,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |           Song           |Char.|Diff.|Lv.|
 |--------------------------|:---:|:---:|:-:|
 |**Starlight (KIVΛ Remix)**|Nora |Easy | 2 |
 |**Starlight (KIVΛ Remix)**|Nora |Hard | 6 |
 
-### Cam\_KyuuLab\_691\_01\_25
+#### Cam\_KyuuLab\_691\_01\_25
 _\[Door Opens\]_
 
 **Member I**  
@@ -1219,16 +1234,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 7 |    No     |
 
-### Audio\_Nora\_694\_03\_08
+#### Audio\_Nora\_694\_03\_08
 _\[Door Opens\]_
 
 **Member I**  
@@ -1359,16 +1375,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 7 |    No     |
 
-### Audio\_Butsudou\_694\_09\_08
+#### Audio\_Butsudou\_694\_09\_08
 _\[Door Opens\]_
 
 **Phoenix**  
@@ -1509,21 +1526,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 8 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |           Song           |Char.|Diff.|Lv.|
 |--------------------------|:---:|:---:|:-:|
 |**Starlight (KIVΛ Remix)**|Nora |Chaos|11 |
 
-### Cam\_Nora\_695\_03\_03
+#### Cam\_Nora\_695\_03\_03
 _\[Door Opens\]_
 
 **Member I**  
@@ -1652,16 +1670,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 8 |    No     |
 
-### Audio\_Nora\_695\_03\_16
+#### Audio\_Nora\_695\_03\_16
 _\[Door Opens\]_
 
 _\[Music\]_
@@ -1796,16 +1815,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 9 |    No     |
 
-### Cam\_CLab06\_695\_04\_02
+#### Cam\_CLab06\_695\_04\_02
 ![noos1601.png](./attachments/noos1601.png)
 
 **[Nora]**  
@@ -1958,16 +1978,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**| 9 |    No     |
 
-### Audio\_Dash\_695\_05\_03
+#### Audio\_Dash\_695\_05\_03
 **Kim**  
 What is this all about!?
 
@@ -2070,22 +2091,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**Bastard of Hardcore**|Nora |Easy | 4 |
 |**Bastard of Hardcore**|Nora |Hard | 7 |
 
-### Audio\_KyuuLab\_695\_05\_08\_1
+#### Audio\_KyuuLab\_695\_05\_08\_1
 **Phoenix**  
 I believe everyone already knew the reason we are gathering here.  
 A few days ago, the element warehouse of Lab 03 was broken into by a thief.
@@ -2190,16 +2212,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|11 |    No     |
 
-### Audio\_KyuuLab\_695\_05\_08\_2
+#### Audio\_KyuuLab\_695\_05\_08\_2
 **[Nora]**  
 _Ichiro's not the thief._
 
@@ -2309,16 +2332,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|12 |    No     |
 
-### Cam\_Robo\_697\_04\_06\_4
+#### Cam\_Robo\_697\_04\_06\_4
 **[ROBO_Head]**  
 _Update database: Nora has ability to read digital information through brain.  
 Source: Unknown._
@@ -2416,16 +2440,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|13 |    No     |
 
-### Cam\_Butsudou\_697\_03\_02
+#### Cam\_Butsudou\_697\_03\_02
 _\[Door Opens\]_
 
 **Lam**  
@@ -2577,16 +2602,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|14 |    No     |
 
-### Audio\_Butsudou\_697\_03\_14
+#### Audio\_Butsudou\_697\_03\_14
 **Phoenix**  
 Ask your question.
 
@@ -2748,21 +2774,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**Bastard of Hardcore**|Nora |Chaos|13 |
 
-### Audio\_Robo\_697\_04\_06\_5
+#### Audio\_Robo\_697\_04\_06\_5
 **[Nora]**  
 _Even though after that incident where Phoenix got injured, Mogura sent us a lot of their bodyguards, I still wanted to be protected by someone I can trust._
 
@@ -2829,16 +2856,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|16 |    No     |
 
-### Audio\_Butsudou\_698\_04\_13
+#### Audio\_Butsudou\_698\_04\_13
 **Lam**  
 My, my, the head of the well\-known Hou Sang Tong decides to spare his time to pay us a visit. We apologize for the lack of a proper welcome, Mr. Huang.  
 Your recycling business has been quite successful. It has benefitted us a lot too.
@@ -2986,16 +3014,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|17 |    No     |
 
-### Cam\_Nora\_698\_04\_13
+#### Cam\_Nora\_698\_04\_13
 **[Nora]**  
 _ROBO, why did you lie? You even made a fake report._
 
@@ -3109,22 +3138,23 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|18 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**Jakarta PROGRESSION**|Nora |Easy | 3 |
 |**Jakarta PROGRESSION**|Nora |Hard | 8 |
 
-### Cam\_Nora\_698\_04\_28
+#### Cam\_Nora\_698\_04\_28
 _\[Door Opens\]_
 
 **Phoenix**  
@@ -3266,21 +3296,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
 |-----------------------|:---:|:---:|:-:|
 |**Jakarta PROGRESSION**|Nora |Chaos|14 |
 
-### Cam\_Butsudou\_698\_05\_28
+#### Cam\_Butsudou\_698\_05\_28
 _\[Door Opens\]_
 
 **Lam**  
@@ -3446,16 +3477,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|20 |    No     |
 
-### ?͜͠͝?͝҉̢͜͏?̶̀
+#### ?͜͠͝?͝҉̢͜͏?̶̀
 **？？？**  
 Ummm... Ughv̶̫}͚̖̪\*̴̼̘̙͔v͖̦̫̞͍̻̗6͖͚̼̙́\-̢̰...
 
@@ -3476,23 +3508,24 @@ _\[Sig>̵̧̀͘͠}̧̀̕҉>̛́ Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|21 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Eternity**|Nora |Easy | 3 |
 |**Eternity**|Nora |Hard | 7 |
 |**Eternity**|Nora |Chaos|11 |
 
-### Cam\_Nora\_698\_05\_29
+#### Cam\_Nora\_698\_05\_29
 **[Nora]**  
 _Umm..._
 
@@ -3644,23 +3677,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
 |------------------|:---:|:---:|:-:|
 |**Phagy Mutation**|Nora |Easy | 2 |
 |**Phagy Mutation**|Nora |Hard | 7 |
 |**Phagy Mutation**|Nora |Chaos|12 |
 
-### Log\_Phoenix\_698\_06\_01
+#### Log\_Phoenix\_698\_06\_01
 Research Log 6980601\_23
 
 Alright... This is the first research log for June of 698. This week, the medicine team tested a formula consists of refactored Acetylcysteine molecules in an attempt to suppress external symptoms. Despite several attempts, we are still unable to prevent "The Ender" from directly attacking human cells and leading to other symptoms. Similar to what has happened in the past, "The Ender" acts in a way that's almost... life\-like. It will bypass all defensive barriers and find new weaknesses to kill its host.
@@ -3684,16 +3718,17 @@ Save date of log: 698\_0601\_2703
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|22 |    No     |
 
-### Cam\_Butsudou\_698\_06\_02
+#### Cam\_Butsudou\_698\_06\_02
 _\[Door Opens\]_
 
 **Nora**  
@@ -3850,23 +3885,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|23 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**ATONEMENT**|Nora |Easy | 3 |
 |**ATONEMENT**|Nora |Hard | 6 |
 |**ATONEMENT**|Nora |Chaos|11 |
 
-### Cam\_KyuuLab\_698\_06\_02
+#### Cam\_KyuuLab\_698\_06\_02
 **[Nora]**  
 _Phoenix! I..._
 
@@ -4017,16 +4053,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/kyGIL0nU71o))*
+
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|24 |    No     |
 
-### Cam\_Robo\_698\_06\_02
+#### Cam\_Robo\_698\_06\_02
 **Member I**  
 Huff...... Puff..... This way!
 
@@ -4155,17 +4194,20 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v2.9
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
 |**Crystal PuNK**|28 |    No     |
 |**Nora**        |25 |    Yes    |
 
-### Audio\_KLab08\_702\_12\_29\_1
+#### Audio\_KLab08\_702\_12\_29\_1
 **[ROBO_Head]**  
 _Core load factor increasing 40%, energy input factor increasing 50%... Status: Connection stable._
 
@@ -4313,16 +4355,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|26 |    No     |
 
-### Audio\_DownSt\_702\_12\_29
+#### Audio\_DownSt\_702\_12\_29
 _\[Doorbell\]_
 
 **Ichiro**  
@@ -4445,16 +4488,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
 |**Nora**|26 |    No     |
 
-### Cam\_KLab08\_702\_12\_29\_2
+#### Cam\_KLab08\_702\_12\_29\_2
 _\[Door Opens\]_
 
 **ConneR**  
@@ -4484,7 +4528,7 @@ Please, relax. In my opinion it's not an issue. ROBO, do you remember what we ta
 **[ROBO_Head]**  
 _... Understood._
 
-_\[Footsteps\]_
+_\[Mechanical Footsteps\]_
 
 _\[Door Opens\]_
 

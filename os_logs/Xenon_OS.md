@@ -1,56 +1,73 @@
 # Xenon OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
-- [OS Log #043](#os-log-043)
-- [OS Log #044](#os-log-044)
-- [OS Log #045](#os-log-045)
+- [Added on v1.0](#added-on-v10)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+- [Added on v1.5](#added-on-v15)
+    - [OS Log #026](#os-log-026)
+- [Added on v1.7](#added-on-v17)
+    - [OS Log #027](#os-log-027)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #028](#os-log-028)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #029](#os-log-029)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #032](#os-log-032)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #033](#os-log-033)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #038](#os-log-038)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #039](#os-log-039)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #040](#os-log-040)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #041](#os-log-041)
+    - [OS Log #042](#os-log-042)
+    - [OS Log #043](#os-log-043)
+    - [OS Log #044](#os-log-044)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #045](#os-log-045)
 
-## OS Log #001
+## Added on v1.0
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Audio\_Studio\_702\_06\_24
+#### Audio\_Studio\_702\_06\_24
 _\[Guitar Riff\]_
 
 **Xenon**  
@@ -117,16 +134,17 @@ _\[Replay Ends\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Fighting**|Xenon|Easy | 2 |
 
-### Cam\_Cafe\_702\_06\_28
+#### Cam\_Cafe\_702\_06\_28
 _\[Doorbell\]_
 
 **JOE**  
@@ -206,21 +224,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 2 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Fighting**|Xenon|Hard | 7 |
 
-### Audio\_Arc\_702\_06\_29
+#### Audio\_Arc\_702\_06\_29
 **[Broadcast]**  
 ID number 7128, Simon Jackson, please come to Block D.  
 ID number 7128, Simon Jackson, please come to Block D.
@@ -301,16 +320,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 3 |    No     |
 
-### Call\_Xenon\_702\_07\_01
+#### Call\_Xenon\_702\_07\_01
 **JOE**  
 Hey, it's me. Do you have a minute?
 
@@ -382,21 +402,22 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 4 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
 |----------------|:---:|:---:|:-:|
 |**To the Light**|Xenon|Easy | 4 |
 
-### Cam\_Arc\_702\_07\_02
+#### Cam\_Arc\_702\_07\_02
 ![xos0501.png](./attachments/xos0501.png)
 
 **Xenon**  
@@ -454,21 +475,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 5 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
 |----------------|:---:|:---:|:-:|
 |**To the Light**|Xenon|Hard | 8 |
 
-### Mail\_Xenon\_702\_07\_09
+#### Mail\_Xenon\_702\_07\_09
 **Subj.**: Investigation of initiation error records  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -494,21 +516,22 @@ Report Ends
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Fighting**|Xenon|Chaos|11 |
 
-### Cam\_Arc\_702\_07\_10
+#### Cam\_Arc\_702\_07\_10
 ![xos0701.png](./attachments/xos0701.png)
 
 **Xenon**  
@@ -571,21 +594,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 7 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
 |----------------|:---:|:---:|:-:|
 |**To the Light**|Xenon|Chaos|12 |
 
-### Cam\_Arc\_702\_07\_20
+#### Cam\_Arc\_702\_07\_20
 ![xos0801.png](./attachments/xos0801.png)
 
 **ConneR**  
@@ -647,21 +671,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 8 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Phantom Razor**|Xenon|Easy | 4 |
 
-### Cam\_Arc\_702\_07\_21
+#### Cam\_Arc\_702\_07\_21
 **Davis**  
 What's up? Is there something you want from me?
 
@@ -716,21 +741,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**| 9 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Phantom Razor**|Xenon|Hard | 8 |
 
-### Cam\_Arc\_702\_07\_22
+#### Cam\_Arc\_702\_07\_22
 ![xos1001.png](./attachments/xos1001.png)
 
 **Xenon**  
@@ -780,21 +806,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Black Hole**|Xenon|Easy | 2 |
 
-### Cam\_Arc\_702\_07\_24
+#### Cam\_Arc\_702\_07\_24
 ![xos1101.png](./attachments/xos1101.png)
 
 **ConneR**  
@@ -863,21 +890,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|11 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Black Hole**|Xenon|Hard | 4 |
 
-### Mail\_Xenon\_702\_07\_26
+#### Mail\_Xenon\_702\_07\_26
 **Subj.**: Investigation of abnormal data flow and electrical overload  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -905,16 +933,17 @@ Report Ends
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|12 |    No     |
 
-### Audio\_Arc\_702\_07\_28\_01
+#### Audio\_Arc\_702\_07\_28\_01
 **Davis**  
 Next, we'll talk about the cases where music\-related connections cause users to experience physical discomfort. Simon, you're in charge of this.
 
@@ -974,21 +1003,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|13 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
 |--------------|:---:|:---:|:-:|
 |**Black Hole**|Xenon|Chaos|10 |
 
-### Audio\_Arc\_702\_07\_28\_02
+#### Audio\_Arc\_702\_07\_28\_02
 **Xenon**  
 Here's this month's working report.
 
@@ -1053,21 +1083,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|14 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
 |-----------|:---:|:---:|:-:|
 |**SAMURAI**|Xenon|Easy | 4 |
 
-### Mail\_Xenon\_702\_08\_07
+#### Mail\_Xenon\_702\_08\_07
 **Subj.**: Your request has being denied due to violation of protocol  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -1094,21 +1125,22 @@ Report Ends
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
 |-----------|:---:|:---:|:-:|
 |**SAMURAI**|Xenon|Hard | 9 |
 
-### Call\_Xenon\_702\_08\_10
+#### Call\_Xenon\_702\_08\_10
 **Xenon**  
 Hello.
 
@@ -1177,16 +1209,17 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|16 |    No     |
 
-### Mail\_Xenon\_702\_08\_12
+#### Mail\_Xenon\_702\_08\_12
 **Subj.**: Black Hole Track Log  
 **From**: ROBO_Head  
 **To**: Xenon
@@ -1206,21 +1239,22 @@ Sound\_701\_08\_12\_18\_36\_46\_764……100%
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|17 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
 |-----------|:---:|:---:|:-:|
 |**SAMURAI**|Xenon|Chaos|13 |
 
-### Cam\_Xenon\_702\_08\_15
+#### Cam\_Xenon\_702\_08\_15
 _\[Spray Paint\]_
 
 ![xos1801.png](./attachments/xos1801.png)
@@ -1283,16 +1317,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|18 |    No     |
 
-### Mail\_Xenon\_702\_08\_16
+#### Mail\_Xenon\_702\_08\_16
 **Subj.**: Photos and Mixing  
 **From**: Shao  
 **To**: Xenon
@@ -1310,16 +1345,17 @@ The mixing is finished as well. The virtual sound field's recording quality is p
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|19 |    No     |
 
-### Cam\_Cafe\_702\_08\_18
+#### Cam\_Cafe\_702\_08\_18
 ![xos2002.png](./attachments/xos2002.png)
 
 **JOE**  
@@ -1423,21 +1459,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|20 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
 |-----------------|:---:|:---:|:-:|
 |**Phantom Razor**|Xenon|Chaos|13 |
 
-### Mail\_Xenon\_702\_08\_20
+#### Mail\_Xenon\_702\_08\_20
 **Subj.**: Report on reverse tracking of target's connecting location  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -1464,21 +1501,22 @@ Report Ends
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|21 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
 |-------------------|:---:|:---:|:-:|
 |**IOLITE-SUNSTONE**|Xenon|Easy | 3 |
 
-### Cam\_Cafe\_702\_08\_24
+#### Cam\_Cafe\_702\_08\_24
 ![xos2302.png](./attachments/xos2302.png)
 
 _"Meanwhile, Node 08 Administration Bureau's security office has marked the streamer as a suspect and has brought her in for questioning. Details will require further investigation."_
@@ -1564,21 +1602,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
 |-------------------|:---:|:---:|:-:|
 |**IOLITE-SUNSTONE**|Xenon|Hard | 7 |
 
-### Mail\_Xenon\_702\_08\_23
+#### Mail\_Xenon\_702\_08\_23
 **Subj.**: Medium scale abnormal data flow and electrical overload  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -1605,21 +1644,22 @@ Report Ends
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|23 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
 |-------------------|:---:|:---:|:-:|
 |**IOLITE-SUNSTONE**|Xenon|Chaos|11 |
 
-### Audio\_Arc\_702\_08\_26
+#### Audio\_Arc\_702\_08\_26
 _\[Door Opens\]_
 
 **ConneR**  
@@ -1693,11 +1733,12 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |24 |    No     |
@@ -1706,7 +1747,7 @@ _\[Replay Ends\]_
 |**Xenon**    |24 |    No     |
 |**ConneR**   |24 |    No     |
 
-### Mail\_Xenon\_702\_08\_30
+#### Mail\_Xenon\_702\_08\_30
 **Subj.**: Captured footage of target  
 **From**: Anonymous  
 **To**: Simon Jackson
@@ -1735,16 +1776,19 @@ Report Ends
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+## Added on v1.5
+
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|25 |    No     |
 
-### Cam11\_St07\_702\_09\_26
+#### Cam11\_St07\_702\_09\_26
 **NEKO#ΦωΦ**  
 Are you really not staying for dinner? Kenta hasn't seen you for a long time. He would love to have you at the table.
 
@@ -1820,16 +1864,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+## Added on v1.7
+
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|26 |    No     |
 
-### Audio\_Graveyard\_702\_09\_29
+#### Audio\_Graveyard\_702\_09\_29
 **Xenon**  
 ...... I told you not to buy so many flowers every time.
 
@@ -1865,16 +1912,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+## Added on v1.8
+
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|27 |    No     |
 
-### Audio\_Cafe\_702\_09\_30
+#### Audio\_Cafe\_702\_09\_30
 _\[Doorbell\]_
 
 **JOE**  
@@ -2013,16 +2063,19 @@ Let's... cut to the chase. Follow me; I have something to show you.
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+## Added on v1.9
+
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|28 |    No     |
 
-### Audio\_Arc\_702\_10\_18
+#### Audio\_Arc\_702\_10\_18
 **Xenon**  
 Said suspect has been arrested. The missing people he purchased are also all escorted back to where they're from. This case is more or less closed.  
 That's it for the report on this event.
@@ -2111,16 +2164,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+## Added on v2.0
+
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|29 |    No     |
 
-### Audio\_Arc\_702\_10\_30
+#### Audio\_Arc\_702\_10\_30
 _\[Door Opens\]_
 
 **Davis**  
@@ -2263,16 +2319,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|30 |    No     |
 
-### Cam\_Arc\_702\_11\_01
+#### Cam\_Arc\_702\_11\_01
 **Davis**  
 The admins are almost here. Where's Simon?
 
@@ -2361,16 +2418,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+## Added on v2.1
+
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|31 |    No     |
 
-### Cam\_08court\_702\_11\_05
+#### Cam\_08court\_702\_11\_05
 **Agent H**  
 With things being so serious, looks like there's no way for you people to get off scot\-free this time.
 
@@ -2525,16 +2585,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+## Added on v2.2
+
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|32 |    No     |
 
-### Cam\_CArea\_702\_11\_08
+#### Cam\_CArea\_702\_11\_08
 _\[Alarm\]_
 
 **Xenon**  
@@ -2688,16 +2751,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|32 |    No     |
 
-### Audio\_CArea\_702\_11\_08\_1
+#### Audio\_CArea\_702\_11\_08\_1
 **[Control System]**  
 _Level A Alarm, Level A Alarm. A convict has escaped.  
 Level A Alarm, Level A Alarm. A convict has escaped._
@@ -2782,16 +2846,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|32 |    No     |
 
-### Audio\_CArea\_702\_11\_08\_2
+#### Audio\_CArea\_702\_11\_08\_2
 **Xenon**  
 ... Hey, where are you taking me?
 
@@ -2931,16 +2996,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+## Added on v2.3
+
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|33 |    No     |
 
-### Audio\_Port33\_702\_11\_10\_1
+#### Audio\_Port33\_702\_11\_10\_1
 **Cherry**  
 The transporter is over there. Thank god we made it in time. Let's go, Mad Dog. The cargo is in the last car.
 
@@ -3001,16 +3069,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|33 |    No     |
 
-### Audio\_Port33\_702\_11\_10\_2
+#### Audio\_Port33\_702\_11\_10\_2
 **Cherry**  
 ... Want some water?
 
@@ -3159,23 +3228,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+## Added on v2.4
+
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|34 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
 |---------|:---:|:---:|:-:|
 |**Karma**|Xenon|Easy | 3 |
 |**Karma**|Xenon|Hard | 7 |
 |**Karma**|Xenon|Chaos|11 |
 
-### Cam\_Port33\_702\_11\_17
+#### Cam\_Port33\_702\_11\_17
 **Cherry**  
 The transporter is almost here. Didn't think we would actually survive these seven days without a hitch.  
 ... R, thanks a lot.
@@ -3341,16 +3413,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+## Added on v2.5
+
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|35 |    No     |
 
-### Multi\_File\_X039
+#### Multi\_File\_X039
 _\[→Audio\_Kyle\_688\_04\_16\]_
 
 _\[Door Opens\]_
@@ -3528,23 +3603,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+## Added on v2.6
+
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|36 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Chosen**|Xenon|Easy | 4 |
 |**Chosen**|Xenon|Hard | 7 |
 |**Chosen**|Xenon|Chaos|13 |
 
-### Multi\_File\_X040
+#### Multi\_File\_X040
 _\[→Audio\_Capt.Wood\_688\_05\_01\]_
 
 **Andrew**  
@@ -3697,16 +3775,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+## Added on v2.7
+
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|37 |    No     |
 
-### Multi\_File\_X041
+#### Multi\_File\_X041
 _\[→Audio\_Capt.Wood\_690\_04\_02\]_
 
 **Andrew**  
@@ -3867,16 +3948,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|38 |    No     |
 
-### Multi\_File\_X042
+#### Multi\_File\_X042
 _\[→Audio\_Capt.Jackson\_693\_09\_31\]_
 
 **Agent M**  
@@ -4032,23 +4114,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-## OS Log #043
+### OS Log #043
+___
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|39 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Violet**|Xenon|Easy | 2 |
 |**Violet**|Xenon|Hard | 7 |
 |**Violet**|Xenon|Chaos|14 |
 
-### Multi\_File\_X043
+#### Multi\_File\_X043
 _\[→Audio\_53St.\_696\_05\_10\]_
 
 **Student A**  
@@ -4150,23 +4233,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-## OS Log #044
+### OS Log #044
+___
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|39 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Asylum**|Xenon|Easy | 3 |
 |**Asylum**|Xenon|Hard | 7 |
 |**Asylum**|Xenon|Chaos|12 |
 
-### Multi\_File\_X044
+#### Multi\_File\_X044
 **????**  
 Haaa... Haa...
 
@@ -4261,16 +4345,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-## OS Log #045
+## Added on v2.8
+
+### OS Log #045
+___
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Xenon**|40 |    No     |
 
-### Multi\_File\_X045
+#### Multi\_File\_X045
 _\[→Audio\_Hospital01\_696\_05\_10\]_
 
 **Cherry**  

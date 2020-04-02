@@ -1,75 +1,92 @@
 # ConneR OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
-- [OS Log #043](#os-log-043)
-- [OS Log #044](#os-log-044)
-- [OS Log #045](#os-log-045)
-- [OS Log #046](#os-log-046)
-- [OS Log #047](#os-log-047)
-- [OS Log #048](#os-log-048)
-- [OS Log #049](#os-log-049)
-- [OS Log #050](#os-log-050)
-- [OS Log #051](#os-log-051)
-- [OS Log #052](#os-log-052)
-- [OS Log #053](#os-log-053)
-- [OS Log #054](#os-log-054)
-- [OS Log #055](#os-log-055)
-- [OS Log #056](#os-log-056)
-- [OS Log #057](#os-log-057)
-- [OS Log #058](#os-log-058)
-- [OS Log #059](#os-log-059)
-- [OS Log #060](#os-log-060)
-- [OS Log #061](#os-log-061)
-- [OS Log #062](#os-log-062)
-- [OS Log #063](#os-log-063)
-- [OS Log #064](#os-log-064)
+- [Added on v1.0](#added-on-v10)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+- [Added on v1.5](#added-on-v15)
+    - [OS Log #033](#os-log-033)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #034](#os-log-034)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #035](#os-log-035)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #038](#os-log-038)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #039](#os-log-039)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #040](#os-log-040)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #041](#os-log-041)
+    - [OS Log #042](#os-log-042)
+    - [OS Log #043](#os-log-043)
+    - [OS Log #044](#os-log-044)
+    - [OS Log #045](#os-log-045)
+    - [OS Log #046](#os-log-046)
+    - [OS Log #047](#os-log-047)
+    - [OS Log #048](#os-log-048)
+    - [OS Log #049](#os-log-049)
+    - [OS Log #050](#os-log-050)
+    - [OS Log #051](#os-log-051)
+    - [OS Log #052](#os-log-052)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #053](#os-log-053)
+    - [OS Log #054](#os-log-054)
+    - [OS Log #055](#os-log-055)
+    - [OS Log #056](#os-log-056)
+    - [OS Log #057](#os-log-057)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #058](#os-log-058)
+    - [OS Log #059](#os-log-059)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #060](#os-log-060)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #061](#os-log-061)
+    - [OS Log #062](#os-log-062)
+    - [OS Log #063](#os-log-063)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #064](#os-log-064)
 
-## OS Log #001
+## Added on v1.0
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Log\_701\_12\_14\_1
+#### Log\_701\_12\_14\_1
 ![cos0101.png](./attachments/cos0101.png)
 
 Excavation log 7011214\_1  
@@ -95,16 +112,17 @@ Time of recording: 701\_1214\_0545
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Unlocked Charts
+#### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
 |-------------------------|:----:|:---:|:-:|
 |**Light of Buenos Aires**|ConneR|Easy | 3 |
 
-### Cam\_Arc\_701\_12\_16
+#### Cam\_Arc\_701\_12\_16
 **Sagar**  
 What's the patient's situation?
 
@@ -160,21 +178,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 2 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
 |-------------------------|:----:|:---:|:-:|
 |**Light of Buenos Aires**|ConneR|Hard | 7 |
 
-### Audio\_Raven\_701\_12\_21
+#### Audio\_Raven\_701\_12\_21
 _\[Door Opens\]_
 
 **Raven**  
@@ -261,16 +280,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 3 |    No     |
 
-### Cam\_Arc\_702\_01\_30
+#### Cam\_Arc\_702\_01\_30
 _\[Electronic Door\]_
 
 ![cos0402.png](./attachments/cos0402.png)
@@ -365,21 +385,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 4 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
 |--------------------|:----:|:---:|:-:|
 |**tondari-hanetari**|ConneR|Easy | 3 |
 
-### Audio\_Arc\_702\_02\_05
+#### Audio\_Arc\_702\_02\_05
 _\[Electronic Door\]_
 
 **Sagar**  
@@ -443,21 +464,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 5 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
 |-------------------------|:----:|:---:|:-:|
 |**Light of Buenos Aires**|ConneR|Chaos|12 |
 
-### Log\_702\_02\_14\_repaired
+#### Log\_702\_02\_14\_repaired
 \[Data partially damaged due to external force\]  
 Excavation Log 7011214  
 Location: Ruins N13A448  
@@ -489,21 +511,22 @@ Time of interruption: 701\_1214\_0637
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
 |--------------------|:----:|:---:|:-:|
 |**tondari-hanetari**|ConneR|Hard | 8 |
 
-### Audio\_Home\_697\_07\_11
+#### Audio\_Home\_697\_07\_11
 _\[Doorbell\]_
 
 **Grace**  
@@ -600,16 +623,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 6 |    No     |
 
-### Mail\_iM\_702\_07\_01
+#### Mail\_iM\_702\_07\_01
 **Subj.**: [Reply to account transfer request] Transfer "Colin Neumann Jr." to "ConneR"  
 **From**: iM service center  
 **To**: Colin Neumann Jr.
@@ -636,21 +660,22 @@ The iM full\-sense social networking team
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 7 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
 |-------------|:----:|:---:|:-:|
 |**Abduction**|ConneR|Easy | 4 |
 
-### Log\_Home\_697\_08\_08
+#### Log\_Home\_697\_08\_08
 Diary Log 6970808\_ConneR  
 Location: Node 08 Mansion
 
@@ -665,16 +690,17 @@ ConneR 6970808
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 8 |    No     |
 
-### Mail\_690\_05\_14
+#### Mail\_690\_05\_14
 To my son:
 
 When you see this letter, I might be on my last breath. Maybe I can't even remember who I am. Shortly after you and your mother Alyxia left, I was diagnosed with neurodegenerative dementia. Don't worry though; I wrote this letter when I'm still in the early stages of the disease. I might forget some words; my description of things might not be 100% clear; my thoughts might not flow smoothly. So, I had Grace help me. The letter you are reading now was basically co\-written by Grace and me. 
@@ -693,21 +719,22 @@ Colin Neumann Sr.
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**| 9 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
 |--------------------|:----:|:---:|:-:|
 |**tondari-hanetari**|ConneR|Chaos|13 |
 
-### Cam\_Arc\_702\_04\_04
+#### Cam\_Arc\_702\_04\_04
 ![cos0702.png](./attachments/cos0702.png)
 
 **Mark**  
@@ -757,21 +784,22 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
 |-------------|:----:|:---:|:-:|
 |**Abduction**|ConneR|Hard | 8 |
 
-### Diary\_ConneR\_702\_04\_06
+#### Diary\_ConneR\_702\_04\_06
 Diary Log 7020406\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -786,21 +814,22 @@ ConneR 7020406
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|11 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
 |----------------------|:----:|:---:|:-:|
 |**Nostalgia Sonatina**|ConneR|Easy | 4 |
 
-### Mail\_BH\_702\_07\_12
+#### Mail\_BH\_702\_07\_12
 **Subj.**: Allow us to offer our sincerest apologies  
 **From**: Body Hack Corp. VIP Service  
 **To**: Colin Neumann Jr.
@@ -822,16 +851,17 @@ Body Hack Corp. CEO
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|12 |    No     |
 
-### Call\_702\_07\_12
+#### Call\_702\_07\_12
 **ConneR**  
 Hello.
 
@@ -891,21 +921,22 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|13 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
 |-------------|:----:|:---:|:-:|
 |**Abduction**|ConneR|Chaos|11 |
 
-### Log\_Arc\_702\_07\_14
+#### Log\_Arc\_702\_07\_14
 Research Log 7020714\_ConneR
 
 The benefit of working inside A.R.C. is that I get to see all their unannounced inventions, research and all kinds of recreated technologies. Even though they have gathered the best talents here, without the data of past technology obtained through exploring the Ruins, especially the central database "Library" and the establishment of the virtual internet, A.R.C. will be nowhere near their current wealth and power. 
@@ -919,16 +950,17 @@ ConneR 7020714
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|13 |    No     |
 
-### Cam\_Arc\_702\_07\_20
+#### Cam\_Arc\_702\_07\_20
 ![xos0801.png](./attachments/xos0801.png)
 
 **ConneR**  
@@ -990,21 +1022,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|14 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
 |----------------------|:----:|:---:|:-:|
 |**Nostalgia Sonatina**|ConneR|Hard | 8 |
 
-### Cam\_Cafe\_702\_07\_21
+#### Cam\_Cafe\_702\_07\_21
 ![cos1302.png](./attachments/cos1302.png)
 
 _\[Doorbell\]_
@@ -1103,21 +1136,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
 |-----------|:----:|:---:|:-:|
 |**I luv U**|ConneR|Easy | 3 |
 
-### Diary\_ConneR\_702\_07\_22
+#### Diary\_ConneR\_702\_07\_22
 Diary Log 7020722\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -1130,16 +1164,17 @@ ConneR 7020722
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|16 |    No     |
 
-### Cam\_Arc\_702\_07\_24
+#### Cam\_Arc\_702\_07\_24
 ![xos1101.png](./attachments/xos1101.png)
 
 **ConneR**  
@@ -1208,21 +1243,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|16 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
 |----------------------|:----:|:---:|:-:|
 |**Nostalgia Sonatina**|ConneR|Chaos|13 |
 
-### Mail\_Arc\_702\_07\_27
+#### Mail\_Arc\_702\_07\_27
 **Subj.**: We invite you to be a guest at the conference  
 **From**: A.R.C. PR department  
 **To**: Colin Neumann Jr.
@@ -1241,21 +1277,22 @@ A.R.C. Supreme Committee
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|17 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
 |-----------|:----:|:---:|:-:|
 |**I luv U**|ConneR|Hard | 7 |
 
-### Diary\_ConneR\_702\_07\_28
+#### Diary\_ConneR\_702\_07\_28
 Diary Log 7020728\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -1268,16 +1305,17 @@ ConneR\_7020728
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|17 |    No     |
 
-### Mail\_Arc\_702\_07\_22
+#### Mail\_Arc\_702\_07\_22
 **Subj.**: Job Done  
 **From**: Underworld  
 **To**: Rald [This mail have been encrypted]
@@ -1293,21 +1331,22 @@ H.H
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|18 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**Instinct**|ConneR|Easy | 4 |
 
-### Audio\_Arc\_702\_08\_26
+#### Audio\_Arc\_702\_08\_26
 _\[Door Opens\]_
 
 **ConneR**  
@@ -1381,16 +1420,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|18 |    No     |
 
-### Diary\_ConneR\_702\_08\_26
+#### Diary\_ConneR\_702\_08\_26
 Diary Log 7020826\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -1403,21 +1443,22 @@ ConneR 7020826
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**Instinct**|ConneR|Hard | 8 |
 
-### Audio\_Arc\_702\_08\_12
+#### Audio\_Arc\_702\_08\_12
 _\[Alarm goes off\]_
 
 **Mark**  
@@ -1466,16 +1507,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|20 |    No     |
 
-### Mail\_Arc\_702\_08\_20
+#### Mail\_Arc\_702\_08\_20
 **Subj.**: Congratulations on a successful performance  
 **From**: SkyEkho_Maggie  
 **To**: ConneR
@@ -1495,21 +1537,22 @@ The entire SkyEkho team
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|20 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
 |-----------|:----:|:---:|:-:|
 |**I luv U**|ConneR|Chaos|11 |
 
-### Audio\_Arc\_702\_08\_07
+#### Audio\_Arc\_702\_08\_07
 **Nancy**  
 Hello, Doc. Getting coffee by yourself again today?
 
@@ -1595,16 +1638,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|21 |    No     |
 
-### Audio\_Arc\_702\_08\_08
+#### Audio\_Arc\_702\_08\_08
 **Staff A**  
 C3101? Do we even have a room that begins with C3 in our area?
 
@@ -1738,21 +1782,22 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**Instinct**|ConneR|Chaos|12 |
 
-### Audio\_Arc\_702\_08\_11
+#### Audio\_Arc\_702\_08\_11
 _\[Recording from wiretapped watch begins\]_
 
 _\[Call Starts\]_
@@ -1891,16 +1936,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|23 |    No     |
 
-### Audio\_Arc\_702\_08\_17
+#### Audio\_Arc\_702\_08\_17
 _\[Electronic Door\]_
 
 **Rin**  
@@ -2033,16 +2079,17 @@ _\[Replay Ends\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|24 |    No     |
 
-### Diary\_ConneR\_702\_08\_28
+#### Diary\_ConneR\_702\_08\_28
 Diary Log 7020828\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -2057,11 +2104,12 @@ ConneR 7020828
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |24 |    No     |
@@ -2069,14 +2117,14 @@ ConneR 7020828
 |**ROBO_Head**|24 |    No     |
 |**ConneR**   |24 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song       |Char. |Diff.|Lv.|
 |-----------------|:----:|:---:|:-:|
 |**Floor of Lava**|ConneR|Easy | 6 |
 |**Floor of Lava**|ConneR|Hard |10 |
 |**Floor of Lava**|ConneR|Chaos|15 |
 
-### Log\_702\_08\_08\_12
+#### Log\_702\_08\_08\_12
 Analysis Report 7020808\_12  
 Target Listing: Unknown Artifact  
 Quantity: 1  
@@ -2107,23 +2155,26 @@ Report Saved Time: 702\_0810\_1745
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+## Added on v1.5
+
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|25 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
 |-----------|:----:|:---:|:-:|
 |**Olympia**|ConneR|Easy | 3 |
 |**Olympia**|ConneR|Hard | 6 |
 |**Olympia**|ConneR|Chaos|12 |
 
-### Cam\_Arc\_702\_09\_21
+#### Cam\_Arc\_702\_09\_21
 _\[Door Opens\]_
 
 **ConneR**  
@@ -2247,16 +2298,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v1.6
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|26 |    No     |
 
-### Audio\_Factory3\_702\_09\_21\_1
+#### Audio\_Factory3\_702\_09\_21\_1
 _\[Engines turned off\]_
 
 **Xenon**  
@@ -2380,16 +2434,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+## Added on v1.8
+
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|27 |    No     |
 
-### Audio\_Factory3\_702\_09\_21\_2
+#### Audio\_Factory3\_702\_09\_21\_2
 **ConneR**  
 Haha, did you see that? The reactions of those people, how amusing. The level of their stupidity is practically out of this world. My, my, that was quite the sight to behold.
 
@@ -2503,16 +2560,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+## Added on v1.9
+
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|28 |    No     |
 
-### Mail\_Grace\_702\_10\_22
+#### Mail\_Grace\_702\_10\_22
 **Subj.**: Something is wrong with Sir  
 **From**: Grace Garcia  
 **To**: Colin Neumann Jr.
@@ -2528,16 +2588,17 @@ Grace
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|29 |    No     |
 
-### Cam\_Home\_702\_10\_23
+#### Cam\_Home\_702\_10\_23
 _\[Door Opens\]_
 
 **ConneR**  
@@ -2668,16 +2729,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+## Added on v2.0
+
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|30 |    No     |
 
-### Audio\_Arc\_702\_11\_02
+#### Audio\_Arc\_702\_11\_02
 _\[Door Opens\]_
 
 **Sagar**  
@@ -2792,16 +2856,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+## Added on v2.1
+
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|31 |    No     |
 
-### Diary\_ConneR\_702\_11\_04
+#### Diary\_ConneR\_702\_11\_04
 Diary Log 7021104\_ConneR  
 Location: A.R.C. HQ living quarters\_Room V017
 
@@ -2824,16 +2891,19 @@ ConneR 7021104
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+## Added on v2.2
+
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|32 |    No     |
 
-### Cam\_CArea\_702\_11\_08
+#### Cam\_CArea\_702\_11\_08
 _\[Alarm\]_
 
 **Xenon**  
@@ -2987,16 +3057,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+## Added on v2.3
+
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|33 |    No     |
 
-### Audio\_Port33\_702\_11\_10
+#### Audio\_Port33\_702\_11\_10
 **Cherry**  
 The transporter is over there. Thank god we made it in time. Let's go, Mad Dog. The cargo is in the last car.
 
@@ -3057,16 +3130,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|33 |    No     |
 
-### Cam\_Port33\_702\_11\_10
+#### Cam\_Port33\_702\_11\_10
 _\[Door Opens\]_
 
 **ConneR**  
@@ -3201,16 +3275,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-## OS Log #043
+### OS Log #043
+___
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|34 |    No     |
 
-### Audio\_Cafe\_690\_03\_16
+#### Audio\_Cafe\_690\_03\_16
 **Saxon**  
 ... This seems like a pretty significant deal. Never thought it would be from such a young lad like you.
 
@@ -3255,16 +3330,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-## OS Log #044
+### OS Log #044
+___
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|34 |    No     |
 
-### Cam\_Base\_690\_03\_16
+#### Cam\_Base\_690\_03\_16
 **???**  
 ... I can do it myself. It's just a tiny wound...
 
@@ -3436,16 +3512,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-## OS Log #045
+### OS Log #045
+___
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|35 |    No     |
 
-### Audio\_Sasha\_690\_03\_17
+#### Audio\_Sasha\_690\_03\_17
 **Sasha**  
 As expected, the news is all over the market now. Area 09 is no longer just an urban legend on the dark web.
 
@@ -3576,16 +3653,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-## OS Log #046
+### OS Log #046
+___
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|35 |    No     |
 
-### Audio\_Home\_676\_04\_08
+#### Audio\_Home\_676\_04\_08
 **Colin**  
 Wake up.
 
@@ -3735,16 +3813,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-## OS Log #047
+### OS Log #047
+___
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|36 |    No     |
 
-### Audio\_St166\_690\_3\_23
+#### Audio\_St166\_690\_3\_23
 _\[Call Starts\]_
 
 **[Sasha]**  
@@ -3837,16 +3916,17 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs) | [Next Log](#os-log-048)
 
-## OS Log #048
+### OS Log #048
+___
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|36 |    No     |
 
-### Audio\_Graveyard\_682\_06\_16
+#### Audio\_Graveyard\_682\_06\_16
 **Man A**  
 Riya, I'm sorry...
 
@@ -3976,16 +4056,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-047) | [Back to Top](#list-of-logs) | [Next Log](#os-log-049)
 
-## OS Log #049
+### OS Log #049
+___
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|37 |    No     |
 
-### Cam\_Sasha\_690\_06\_30
+#### Cam\_Sasha\_690\_06\_30
 **ConneR**  
 Huff... Puff...
 
@@ -4132,16 +4213,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-048) | [Back to Top](#list-of-logs) | [Next Log](#os-log-050)
 
-## OS Log #050
+### OS Log #050
+___
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|37 |    No     |
 
-### Audio\_admins\_690\_07\_07
+#### Audio\_admins\_690\_07\_07
 **???**  
 Captain Andrew.
 
@@ -4273,16 +4355,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-049) | [Back to Top](#list-of-logs) | [Next Log](#os-log-051)
 
-## OS Log #051
+### OS Log #051
+___
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|38 |    No     |
 
-### Cam\_Hotel\_690\_07\_09
+#### Cam\_Hotel\_690\_07\_09
 **Sasha**  
 Not everyone can score a reservation at this restaurant, so enjoy yourself.
 
@@ -4442,16 +4525,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-050) | [Back to Top](#list-of-logs) | [Next Log](#os-log-052)
 
-## OS Log #052
+### OS Log #052
+___
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|38 |    No     |
 
-### Audio\_Home\_683\_07\_09
+#### Audio\_Home\_683\_07\_09
 **Colin**  
 BASTARD! This guy too, that guy too... none of these bastards believe me!
 
@@ -4595,23 +4679,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-051) | [Back to Top](#list-of-logs) | [Next Log](#os-log-053)
 
-## OS Log #053
+## Added on v2.4
+
+### OS Log #053
+___
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|39 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
 |--------------------|:----:|:---:|:-:|
 |**Fur War, Pur War**|ConneR|Easy | 4 |
 |**Fur War, Pur War**|ConneR|Hard | 8 |
 |**Fur War, Pur War**|ConneR|Chaos|15 |
 
-### Audio\_St199\_690\_07\_10
+#### Audio\_St199\_690\_07\_10
 **Agent A**  
 This is Squad 3. Target of the transaction confirmed. A total of 8 people, including the encryption hacker working remotely. No other signs of life. Preparing for action.
 
@@ -4789,16 +4876,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-052) | [Back to Top](#list-of-logs) | [Next Log](#os-log-054)
 
-## OS Log #054
+### OS Log #054
+___
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|39 |    No     |
 
-### Multi\_Files\_686\_12\_23
+#### Multi\_Files\_686\_12\_23
 **[Tutorial System]**  
 _Year J model student representative Zoe Watson, please come to the stage for your speech._
 
@@ -4948,16 +5036,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-053) | [Back to Top](#list-of-logs) | [Next Log](#os-log-055)
 
-## OS Log #055
+### OS Log #055
+___
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|40 |    No     |
 
-### Audio\_Truck\_690\_07\_11
+#### Audio\_Truck\_690\_07\_11
 **Sasha**  
 Ughhh... huh?
 
@@ -5103,16 +5192,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-054) | [Back to Top](#list-of-logs) | [Next Log](#os-log-056)
 
-## OS Log #056
+### OS Log #056
+___
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|40 |    No     |
 
-### Multi\_Files\_686\_12\_21
+#### Multi\_Files\_686\_12\_21
 **Colin**  
 Alyxia! Alyxia!
 
@@ -5237,16 +5327,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-055) | [Back to Top](#list-of-logs) | [Next Log](#os-log-057)
 
-## OS Log #057
+### OS Log #057
+___
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|41 |    No     |
 
-### Audio\_Truck\_690\_07\_11
+#### Audio\_Truck\_690\_07\_11
 **Sasha**  
 ... I remember now. That guy who was always right behind me and kept getting second place... Turns out that was you.
 
@@ -5343,16 +5434,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-056) | [Back to Top](#list-of-logs) | [Next Log](#os-log-058)
 
-## OS Log #058
+## Added on v2.5
+
+### OS Log #058
+___
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|42 |    No     |
 
-### Audio\_Garion's\_702\_11\_20
+#### Audio\_Garion's\_702\_11\_20
 _\[Call Starts\]_
 
 **[Xenon]**  
@@ -5458,16 +5552,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-057) | [Back to Top](#list-of-logs) | [Next Log](#os-log-059)
 
-## OS Log #059
+### OS Log #059
+___
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|43 |    No     |
 
-### Audio\_Garion's\_702\_11\_20
+#### Audio\_Garion's\_702\_11\_20
 **Waiter**  
 Your order, sir.
 
@@ -5515,16 +5610,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-058) | [Back to Top](#list-of-logs) | [Next Log](#os-log-060)
 
-## OS Log #060
+## Added on v2.6
+
+### OS Log #060
+___
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|44 |    No     |
 
-### Audio\_13St57\_702\_11\_21
+#### Audio\_13St57\_702\_11\_21
 **ConneR**  
 How unfortunate. We could've enjoyed yesterday's meal together.
 
@@ -5600,16 +5698,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-059) | [Back to Top](#list-of-logs) | [Next Log](#os-log-061)
 
-## OS Log #061
+## Added on v2.7
+
+### OS Log #061
+___
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|45 |    No     |
 
-### Audio\_Sasha\_702\_11\_21
+#### Audio\_Sasha\_702\_11\_21
 **ConneR**  
 So? Any thoughts?
 
@@ -5763,16 +5864,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-060) | [Back to Top](#list-of-logs) | [Next Log](#os-log-062)
 
-## OS Log #062
+### OS Log #062
+___
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|45 |    No     |
 
-### Audio\_Sasha\_702\_12\_15
+#### Audio\_Sasha\_702\_12\_15
 _\[Door Knock\]_
 
 **Sasha**  
@@ -5941,16 +6043,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-061) | [Back to Top](#list-of-logs) | [Next Log](#os-log-063)
 
-## OS Log #063
+### OS Log #063
+___
 
 [Last Log](#os-log-062) | [Back to Top](#list-of-logs) | [Next Log](#os-log-064)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|46 |    No     |
 
-### Audio\_Sasha\_702\_12\_16
+#### Audio\_Sasha\_702\_12\_16
 **Sasha**  
 Do we really have to be in such a hurry? Perhaps there are other methods...
 
@@ -6120,16 +6223,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-062) | [Back to Top](#list-of-logs) | [Next Log](#os-log-064)
 
-## OS Log #064
+## Added on v2.8
+
+### OS Log #064
+___
 
 [Last Log](#os-log-063) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**ConneR**|47 |    No     |
 
-### Audio\_13St35\_702\_12\_17
+#### Audio\_13St35\_702\_12\_17
 **ConneR**  
 Hoho, compared to a few years ago, it seems that this area hasn't changed one bit. Still as captivating as ever... The vines on that towering church seem a bit more dense, no? Tsk tsk, they've done a good job taking care of it.
 

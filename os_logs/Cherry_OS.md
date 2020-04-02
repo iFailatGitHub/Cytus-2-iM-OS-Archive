@@ -1,58 +1,72 @@
 # Cherry OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
-- [OS Log #036](#os-log-036)
-- [OS Log #037](#os-log-037)
-- [OS Log #038](#os-log-038)
-- [OS Log #039](#os-log-039)
-- [OS Log #040](#os-log-040)
-- [OS Log #041](#os-log-041)
-- [OS Log #042](#os-log-042)
-- [OS Log #043](#os-log-043)
-- [OS Log #044](#os-log-044)
-- [OS Log #045](#os-log-045)
-- [OS Log #046](#os-log-046)
-- [OS Log #047](#os-log-047)
+- [Added on v1.1](#added-on-v11)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+    - [OS Log #032](#os-log-032)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #033](#os-log-033)
+    - [OS Log #034](#os-log-034)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #035](#os-log-035)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #036](#os-log-036)
+    - [OS Log #037](#os-log-037)
+    - [OS Log #038](#os-log-038)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #039](#os-log-039)
+    - [OS Log #040](#os-log-040)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #041](#os-log-041)
+    - [OS Log #042](#os-log-042)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #043](#os-log-043)
+- [Added on v2.3](#added-on-v23)
+    - [OS Log #044](#os-log-044)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #045](#os-log-045)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #046](#os-log-046)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #047](#os-log-047)
 
-## OS Log #001
+## Added on v1.1
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Message\_Xenon\_702\_09\_01
+#### Message\_Xenon\_702\_09\_01
 **Cherry**  
 Hello Simon, it's been a while  
 If you see this message, can you reply to me...?  
@@ -66,11 +80,12 @@ _[Sent at 11:32 PM]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Call\_Xenon\_702\_09\_03
+#### Call\_Xenon\_702\_09\_03
 _\[Call Starts\]_
 
 **Xenon**  
@@ -131,16 +146,17 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Unlocked Charts
+#### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
 |-----------------------------------------|:----:|:---:|:-:|
 |**Stop at nothing (Andy Tunstall remix)**|Cherry|Easy | 2 |
 
-### Cam\_Cafe\_702\_09\_06\_1
+#### Cam\_Cafe\_702\_09\_06\_1
 _\[Doorbell\]_
 
 **JOE**  
@@ -205,11 +221,12 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Message\_Group\_693\_05\_26
+#### Message\_Group\_693\_05\_26
 _[S.J. has joined the chat group]_  
 
 
@@ -351,21 +368,22 @@ _[Sent at 09:29 PM]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 2 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
 |-----------------------------------------|:----:|:---:|:-:|
 |**Stop at nothing (Andy Tunstall remix)**|Cherry|Hard | 7 |
 
-### Audio\_Cafe\_702\_09\_06\_2
+#### Audio\_Cafe\_702\_09\_06\_2
 **Xenon**  
 Man, JOE was annoying as f\*\*\* back then...
 
@@ -444,21 +462,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**RETRIEVE**|Cherry|Easy | 3 |
 
-### Audio\_Cherry's\_694\_09\_06\_1
+#### Audio\_Cherry's\_694\_09\_06\_1
 _\[Door Opens\]_
 
 **JOE、KAI**  
@@ -541,16 +560,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 3 |    No     |
 
-### Audio\_Cherry's\_694\_09\_06\_2
+#### Audio\_Cherry's\_694\_09\_06\_2
 _\[Door Opens\]_
 
 **JOE**  
@@ -670,21 +690,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 4 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
 |-----------------------------------------|:----:|:---:|:-:|
 |**Stop at nothing (Andy Tunstall remix)**|Cherry|Chaos|11 |
 
-### Image\_Cherry's\_693\_09\_06
+#### Image\_Cherry's\_693\_09\_06
 ![chos0801.png](./attachments/chos0801.png)
 
 Date: 693/09/06  
@@ -693,16 +714,17 @@ Location: Node 08 \- Quadrant III, Apartment 33
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 4 |    No     |
 
-### Audio\_Cafe\_702\_09\_06\_3
+#### Audio\_Cafe\_702\_09\_06\_3
 **Cherry**  
 See, I'm still wearing it, the necklace.
 
@@ -799,21 +821,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 5 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**RETRIEVE**|Cherry|Hard | 7 |
 
-### Image\_Hospital\_702\_09\_07
+#### Image\_Hospital\_702\_09\_07
 ![chos1001.png](./attachments/chos1001.png)
 
 Date: 702/09/07  
@@ -822,21 +845,22 @@ Location: Node 08 \- Quadrant III, Hospital 15
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 6 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
 |---------|:----:|:---:|:-:|
 |**Still**|Cherry|Easy | 2 |
 
-### Audio\_Studio\_702\_09\_08\_1
+#### Audio\_Studio\_702\_09\_08\_1
 **Cherry**  
 When did you move here?
 
@@ -901,16 +925,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 6 |    No     |
 
-### Audio\_Studio\_702\_09\_08\_2
+#### Audio\_Studio\_702\_09\_08\_2
 _\[Scan\]_
 
 **[Xenon-A.I.]**  
@@ -987,21 +1012,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**| 7 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**RETRIEVE**|Cherry|Chaos|12 |
 
-### Mail\_Chris\_702\_09\_10
+#### Mail\_Chris\_702\_09\_10
 **Subj.**: Event Schedule Notice  
 **From**:  Chris Pinkman  
 **To**:  Sherry Pauline
@@ -1028,17 +1054,18 @@ Chris
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**PAFF**  |17 |    No     |
 |**Cherry**| 8 |    No     |
 
-### Call\_Chris\_702\_09\_10
+#### Call\_Chris\_702\_09\_10
 _\[Call Starts\]_
 
 **Chris**  
@@ -1089,17 +1116,18 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**PAFF**  |17 |    No     |
 |**Cherry**| 9 |    No     |
 
-### Call\_Xenon\_702\_09\_11
+#### Call\_Xenon\_702\_09\_11
 _\[Call Starts\]_
 
 **Cherry**  
@@ -1168,21 +1196,22 @@ _\[Call Ends\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|10 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
 |---------|:----:|:---:|:-:|
 |**Still**|Cherry|Hard | 6 |
 
-### Cam\_76St\_702\_09\_14
+#### Cam\_76St\_702\_09\_14
 ![chos1601.png](./attachments/chos1601.png)
 
 Date: 702/09/14  
@@ -1191,21 +1220,22 @@ Location: Node 08 \- Quadrant III, 76th Street
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|11 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
 |---------|:----:|:---:|:-:|
 |**Still**|Cherry|Chaos|11 |
 
-### Cam\_76St\_702\_09\_15\_1
+#### Cam\_76St\_702\_09\_15\_1
 **[Xenon-A.I.]**  
 _Rewind complete. Communication records that match criteria: 0._
 
@@ -1296,21 +1326,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|12 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**CREDENCE**|Cherry|Easy | 3 |
 
-### Audio\_bug\_692\_05\_13
+#### Audio\_bug\_692\_05\_13
 _\[Gunshot\]_
 
 **Luis**  
@@ -1387,21 +1418,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|13 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**CREDENCE**|Cherry|Hard | 8 |
 
-### Cam\_Gamecenter\_695\_09\_15
+#### Cam\_Gamecenter\_695\_09\_15
 _\[Gunshot\]_
 
 **JOE**  
@@ -1526,21 +1558,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|14 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
 |--------------|:----:|:---:|:-:|
 |**SYSTEMFEIT**|Cherry|Easy | 3 |
 
-### Cam\_76St\_702\_09\_15\_2
+#### Cam\_76St\_702\_09\_15\_2
 ![chos2001.png](./attachments/chos2001.png)
 
 **[Xenon-A.I.]**  
@@ -1604,21 +1637,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|15 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
 |------------|:----:|:---:|:-:|
 |**CREDENCE**|Cherry|Chaos|12 |
 
-### Image\_Tower054\_702\_09\_15
+#### Image\_Tower054\_702\_09\_15
 ![chos2101.png](./attachments/chos2101.png)
 
 Date: 702/09/15  
@@ -1627,16 +1661,17 @@ Location: Quadrant III, Tower 054
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|16 |    No     |
 
-### Cam\_Cherry's\_694\_09\_07
+#### Cam\_Cherry's\_694\_09\_07
 **JOE**  
 I'm the King of Germs!!
 
@@ -1735,21 +1770,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|17 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
 |--------------|:----:|:---:|:-:|
 |**SYSTEMFEIT**|Cherry|Hard | 7 |
 
-### Message\_Joe\_702\_09\_18
+#### Message\_Joe\_702\_09\_18
 **Cherry**  
 Hi when does the Cafe open?  
 _[Sent at 09:58 AM]_
@@ -1833,16 +1869,17 @@ _[Sent at 10:08 AM]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|18 |    No     |
 
-### Cam\_Xenon's\_695\_10\_26
+#### Cam\_Xenon's\_695\_10\_26
 _\[Door Opens\]_
 
 **Xenon**  
@@ -1940,21 +1977,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
 |----------|:----:|:---:|:-:|
 |**hunted**|Cherry|Easy | 2 |
 
-### Cam\_Cafe\_702\_09\_18
+#### Cam\_Cafe\_702\_09\_18
 _\[Doorbell\]_
 
 **JOE**  
@@ -2062,16 +2100,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|20 |    No     |
 
-### Cam\_Riverside\_702\_09\_18\_1
+#### Cam\_Riverside\_702\_09\_18\_1
 _\[Engines Off\]_
 
 **Xenon**  
@@ -2154,21 +2193,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|21 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
 |----------|:----:|:---:|:-:|
 |**hunted**|Cherry|Hard | 6 |
 
-### Cam\_Riverside\_702\_09\_18\_2
+#### Cam\_Riverside\_702\_09\_18\_2
 _\[»»» Fast Forward »»»\]_
 
 ![chos2701.png](./attachments/chos2701.png)
@@ -2268,16 +2308,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|22 |    No     |
 
-### Audio\_Bug\_688\_09\_18
+#### Audio\_Bug\_688\_09\_18
 **Luis**  
 ... Still mad with daddy?
 
@@ -2356,21 +2397,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|22 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
 |--------------|:----:|:---:|:-:|
 |**SYSTEMFEIT**|Cherry|Chaos|13 |
 
-### Image\_Cherry\_688\_09\_18
+#### Image\_Cherry\_688\_09\_18
 ![chos2901.png](./attachments/chos2901.png)
 
 Date: 688/09/18  
@@ -2379,16 +2421,17 @@ Location: Node 08 \- Quadrant VI \- Academy 01 (Track Field)
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|23 |    No     |
 
-### Cam\_Factory3\_702\_09\_18\_1
+#### Cam\_Factory3\_702\_09\_18\_1
 **Xenon**  
 ……Sherry……Sherry！
 
@@ -2488,11 +2531,12 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |24 |    No     |
@@ -2500,8 +2544,8 @@ _\[Signal Lost\]_
 |**ROBO_Head**|24 |    No     |
 |**Cherry**   |24 |    No     |
 
-### Cam\_Factory3\_702\_09\_18\_2
-[![chos3101.png](./attachments/chos3101.png)](https://youtu.be/JG7hd0-f42E)  
+#### Cam\_Factory3\_702\_09\_18\_2
+[![chos3101.png](./attachments/chos3101.png)](https://youtu.be/HYtY0lEvHvE)  
 _[Click the image to watch the movie]_
 
 **Xenon**  
@@ -2584,11 +2628,12 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
 |**PAFF**     |24 |    No     |
@@ -2596,12 +2641,12 @@ _\[Signal Lost\]_
 |**ROBO_Head**|24 |    No     |
 |**Cherry**   |24 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
 |----------|:----:|:---:|:-:|
 |**hunted**|Cherry|Chaos|12 |
 
-### Image\_Factory3\_702\_09\_18
+#### Image\_Factory3\_702\_09\_18
 [![chos3201.png](./attachments/chos3201.png)](https://youtu.be/83x4Bh9ELmc)  
 _[Click the image to watch the movie]_
 
@@ -2611,22 +2656,25 @@ Location: Node 08 \- Quadrant I, Factory 03
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+## Added on v1.6
+
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|25 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
 |--------------|:----:|:---:|:-:|
 |**Capture me**|Cherry|Easy | 2 |
 |**Capture me**|Cherry|Hard | 7 |
 
-### Audio\_Hospital\_702\_09\_25
+#### Audio\_Hospital\_702\_09\_25
 **Jacob**  
 Miss Sherry, how are you feeling today?
 
@@ -2694,21 +2742,22 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|26 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
 |--------------|:----:|:---:|:-:|
 |**Capture me**|Cherry|Chaos|11 |
 
-### Cam\_Hospital\_702\_09\_25
+#### Cam\_Hospital\_702\_09\_25
 **Cherry**  
 Hello, I'm here to visit Shannon Jackson.
 
@@ -2806,16 +2855,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+## Added on v1.8
+
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|27 |    No     |
 
-### Audio\_Cherry's\_702\_10\_05
+#### Audio\_Cherry's\_702\_10\_05
 _\[Ringtone\]_
 
 _\[Call Starts\]_
@@ -2866,16 +2918,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs) | [Next Log](#os-log-036)
 
-## OS Log #036
+## Added on v1.9
+
+### OS Log #036
+___
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|28 |    No     |
 
-### Audio\_Cafe\_702\_10\_10
+#### Audio\_Cafe\_702\_10\_10
 _\[Doorbell\]_
 
 **Cherry**  
@@ -2935,16 +2990,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-035) | [Back to Top](#list-of-logs) | [Next Log](#os-log-037)
 
-## OS Log #037
+### OS Log #037
+___
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|28 |    No     |
 
-### Cam\_Cafe\_702\_10\_11
+#### Cam\_Cafe\_702\_10\_11
 _\[Doorbell\]_
 
 **JOE**  
@@ -3042,16 +3098,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-036) | [Back to Top](#list-of-logs) | [Next Log](#os-log-038)
 
-## OS Log #038
+### OS Log #038
+___
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|29 |    No     |
 
-### Audio\_Cherry's\_702\_10\_11
+#### Audio\_Cherry's\_702\_10\_11
 **Punk**  
 Meow\~
 
@@ -3116,23 +3173,26 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-037) | [Back to Top](#list-of-logs) | [Next Log](#os-log-039)
 
-## OS Log #039
+## Added on v2.0
+
+### OS Log #039
+___
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|30 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
 |-----------|:----:|:---:|:-:|
 |**Realize**|Cherry|Easy | 3 |
 |**Realize**|Cherry|Hard | 8 |
 |**Realize**|Cherry|Chaos|12 |
 
-### Audio\_Dash\_702\_10\_21
+#### Audio\_Dash\_702\_10\_21
 **Hunter**  
 Capo.
 
@@ -3271,16 +3331,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-038) | [Back to Top](#list-of-logs) | [Next Log](#os-log-040)
 
-## OS Log #040
+### OS Log #040
+___
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|31 |    No     |
 
-### Audio\_Cell32\_702\_11\_02
+#### Audio\_Cell32\_702\_11\_02
 _\[Door Opens\]_
 
 **Agent A**  
@@ -3390,16 +3451,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-039) | [Back to Top](#list-of-logs) | [Next Log](#os-log-041)
 
-## OS Log #041
+## Added on v2.1
+
+### OS Log #041
+___
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|32 |    No     |
 
-### Cam\_Cafe2\_702\_11\_05
+#### Cam\_Cafe2\_702\_11\_05
 _\[Doorbell\]_
 
 **Cherry**  
@@ -3540,16 +3604,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-040) | [Back to Top](#list-of-logs) | [Next Log](#os-log-042)
 
-## OS Log #042
+### OS Log #042
+___
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|33 |    No     |
 
-### Audio\_Cell32\_702\_11\_06
+#### Audio\_Cell32\_702\_11\_06
 _\[Heavy things falling down\]_
 
 **Angus**  
@@ -3643,16 +3708,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-041) | [Back to Top](#list-of-logs) | [Next Log](#os-log-043)
 
-## OS Log #043
+## Added on v2.2
+
+### OS Log #043
+___
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|34 |    No     |
 
-### Cam\_CArea\_702\_11\_08
+#### Cam\_CArea\_702\_11\_08
 **Cherry**  
 This is S. I'm in.
 
@@ -3825,16 +3893,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-042) | [Back to Top](#list-of-logs) | [Next Log](#os-log-044)
 
-## OS Log #044
+## Added on v2.3
+
+### OS Log #044
+___
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|35 |    No     |
 
-### Cam\_Port33\_702\_11\_10
+#### Cam\_Port33\_702\_11\_10
 **Hunter**  
 Listen up; after I get my hands on the cargo, you guys will board the transporter right away. Don't you dare do anything unnecessary. I accepted the money. The most I can do is pretend that I saw nothing.
 
@@ -4006,16 +4077,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-043) | [Back to Top](#list-of-logs) | [Next Log](#os-log-045)
 
-## OS Log #045
+## Added on v2.4
+
+### OS Log #045
+___
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|36 |    No     |
 
-### Cam\_Port33\_702\_11\_10
+#### Cam\_Port33\_702\_11\_10
 _\[Door Opens\]_
 
 **ConneR**  
@@ -4189,16 +4263,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-044) | [Back to Top](#list-of-logs) | [Next Log](#os-log-046)
 
-## OS Log #046
+## Added on v2.8
+
+### OS Log #046
+___
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|37 |    No     |
 
-### vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
+#### vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 **Cherry**  
 ……
 
@@ -4241,16 +4318,19 @@ Eh... ? What do... you want from me... ? NOO!!!
 
 [Last Log](#os-log-045) | [Back to Top](#list-of-logs) | [Next Log](#os-log-047)
 
-## OS Log #047
+## Added on v2.9
+
+### OS Log #047
+___
 
 [Last Log](#os-log-046) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
 |**Cherry**|38 |    No     |
 
-### Audio\_Cell32\_702\_12\_29
+#### Audio\_Cell32\_702\_12\_29
 **[TV]**  
 _The attacks that occurred earlier in Node 08 have spread to Quadrant II's industrial district, causing widespread panic amongst the citizens. Besides more and more drones joining in on the attack, many eyewitnesses also pointed out that the Architects gathered at A.R.C. headquarters have become more dangerous..._
 

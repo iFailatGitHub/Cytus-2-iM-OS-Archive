@@ -1,57 +1,77 @@
 # NEKO#ΦωΦ OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
-- [OS Log #029](#os-log-029)
-- [OS Log #030](#os-log-030)
-- [OS Log #031](#os-log-031)
-- [OS Log #032](#os-log-032)
-- [OS Log #033](#os-log-033)
-- [OS Log #034](#os-log-034)
-- [OS Log #035](#os-log-035)
+- [Added on v1.4](#added-on-v14)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+- [Added on v1.5](#added-on-v15)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+- [Added on v1.6](#added-on-v16)
+    - [OS Log #005](#os-log-005)
+- [Added on v1.7](#added-on-v17)
+    - [OS Log #006](#os-log-006)
+- [Added on v1.8](#added-on-v18)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+- [Added on v1.9](#added-on-v19)
+    - [OS Log #009](#os-log-009)
+- [Added on v1.9.1](#added-on-v191)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+- [Added on v2.0](#added-on-v20)
+    - [OS Log #012](#os-log-012)
+- [Added on v2.1](#added-on-v21)
+    - [OS Log #013](#os-log-013)
+- [Added on v2.2](#added-on-v22)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+- [Added on v2.4](#added-on-v24)
+    - [OS Log #027](#os-log-027)
+    - [OS Log #028](#os-log-028)
+    - [OS Log #029](#os-log-029)
+- [Added on v2.5](#added-on-v25)
+    - [OS Log #030](#os-log-030)
+    - [OS Log #031](#os-log-031)
+- [Added on v2.6](#added-on-v26)
+    - [OS Log #032](#os-log-032)
+- [Added on v2.7](#added-on-v27)
+    - [OS Log #033](#os-log-033)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #034](#os-log-034)
+    - [OS Log #035](#os-log-035)
 
-## OS Log #001
+## Added on v1.4
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/4U7ZKtWslDQ))*
+
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|35 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
 |----------------|:------:|:---:|:-:|
 |**extinguisher**|NEKO#ΦωΦ|Easy | 3 |
 |**extinguisher**|NEKO#ΦωΦ|Hard | 7 |
 
-### Cam057\_AB\_702\_09\_20
+#### Cam057\_AB\_702\_09\_20
 **Cherry**  
 Do we wait here?
 
@@ -151,21 +171,22 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|37 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
 |----------------|:------:|:---:|:-:|
 |**extinguisher**|NEKO#ΦωΦ|Chaos|11 |
 
-### Cam009\_AB\_702\_09\_20
+#### Cam009\_AB\_702\_09\_20
 **NEKO#ΦωΦ**  
 The new EP is really, really good! NEKO made a remix for it too! Ah, but I'm still not done making it!
 
@@ -313,16 +334,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+## Added on v1.5
+
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|40 |    No     |
 
-### Cam11\_St07\_702\_09\_20
+#### Cam11\_St07\_702\_09\_20
 **NEKO#ΦωΦ**  
 Yeepee\~ I'm home, I'm home!  
 Say\~ that was one heck of an uncomfortable ride, wasn't it? Can't you guys get a better car? NEKO was wrongly accused; shouldn't I be treated better!?
@@ -477,16 +501,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|42 |    No     |
 
-### Cam\_NL\_702\_09\_26
+#### Cam\_NL\_702\_09\_26
 _\[Doorbell\]_
 
 _\[Door Opens\]_
@@ -633,16 +658,21 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+## Added on v1.6
+
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/TNn8q5KzcvU))*
+
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|45 |    No     |
 
-### Cam11\_St07\_702\_09\_29
+#### Cam11\_St07\_702\_09\_29
 ![nos0502.png](./attachments/nos0502.png)
 
 **NEKO#ΦωΦ**  
@@ -707,16 +737,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+## Added on v1.7
+
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|48 |    No     |
 
-### Cam\_NL\_702\_09\_29
+#### Cam\_NL\_702\_09\_29
 _\[Door Opens\]_
 
 **NEKO#ΦωΦ**  
@@ -759,16 +792,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+## Added on v1.8
+
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|49 |    No     |
 
-### Cam\_NL\_702\_09\_29
+#### Cam\_NL\_702\_09\_29
 **NEKO#ΦωΦ**  
 Hah\~ That feels nice\~  
 Here, this is for you. You're sick, right? You should take this medicine.
@@ -898,16 +934,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|51 |    No     |
 
-### Cam\_NL\_702\_09\_30
+#### Cam\_NL\_702\_09\_30
 **NEKO#ΦωΦ**  
 You can sleep first. Lemme see... you can sleep on the bed. NEKO doesn't mind sleeping on the floor.
 
@@ -1013,16 +1050,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+## Added on v1.9
+
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|53 |    No     |
 
-### Audio\_NL\_702\_10\_04
+#### Audio\_NL\_702\_10\_04
 _\[Door Opens\]_
 
 **NEKO#ΦωΦ**  
@@ -1172,16 +1212,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+## Added on v1.9.1
+
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|54 |    No     |
 
-### Audio\_Asakura\_699\_12\_24
+#### Audio\_Asakura\_699\_12\_24
 _\[Door Opens\]_
 
 **NEKO#ΦωΦ**  
@@ -1340,16 +1383,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|54 |    No     |
 
-### Cam\_Asakura\_699\_12\_24
+#### Cam\_Asakura\_699\_12\_24
 **NEKO#ΦωΦ**  
 Linda\-chan, sorry about that. It's rare that you come to visit us, yet daddy went on a drunken rage again... He is the worst...
 
@@ -1439,16 +1483,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+## Added on v2.0
+
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|55 |    No     |
 
-### Audio\_Asakura\_702\_10\_13
+#### Audio\_Asakura\_702\_10\_13
 **NEKO#ΦωΦ**  
 All done\~ Kenta, time for dinner.
 
@@ -1605,16 +1652,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+## Added on v2.1
+
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|57 |    No     |
 
-### Audio\_Asakura\_702\_11\_01
+#### Audio\_Asakura\_702\_11\_01
 **NEKO#ΦωΦ**  
 Kenta, eat it.
 
@@ -1778,16 +1828,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+## Added on v2.2
+
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|58 |    No     |
 
-### Cam\_Academy\_702\_11\_06\_1
+#### Cam\_Academy\_702\_11\_06\_1
 _\[Class Bell\]_
 
 **Student A**  
@@ -1946,16 +1999,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|58 |    No     |
 
-### Cam\_Academy\_702\_11\_06\_2
+#### Cam\_Academy\_702\_11\_06\_2
 **NEKO#ΦωΦ**  
 This sucks... why am I the one harassed by the weird lecturer... But if I drop the course, I won't have enough credits...
 
@@ -2138,16 +2192,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|59 |    No     |
 
-### Audio\_Cafe\_702\_11\_07\_1
+#### Audio\_Cafe\_702\_11\_07\_1
 **Linda**  
 Hmm... I feel like a bit more Absinthe is probably better.
 
@@ -2245,16 +2300,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|59 |    No     |
 
-### Audio\_Cafe\_702\_11\_07\_2
+#### Audio\_Cafe\_702\_11\_07\_2
 **NEKO#ΦωΦ**  
 Well... that's pretty much it. Did you understand what I just said?
 
@@ -2386,16 +2442,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|60 |    No     |
 
-### Audio\_MB\_702\_11\_10
+#### Audio\_MB\_702\_11\_10
 **NEKO#ΦωΦ**  
 Ooh, lucky. No customers in the shop now. Aroma\-chan, wait here. I'll be done in a minute.
 
@@ -2536,16 +2593,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|60 |    No     |
 
-### Audio\_St33\_702\_11\_10
+#### Audio\_St33\_702\_11\_10
 **NEKO#ΦωΦ**  
 Linda\-chan! Thank you so much back there!
 
@@ -2731,16 +2789,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|61 |    No     |
 
-### Audio\_Velvet\_702\_11\_12
+#### Audio\_Velvet\_702\_11\_12
 **Jacky**  
 Sigh... Linda, wanna close the store and go grab a drink?
 
@@ -2880,16 +2939,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|61 |    No     |
 
-### Message\_Linda\_702\_11\_XX
+#### Message\_Linda\_702\_11\_XX
 **Linda**  
 You there  
 _[Sent at 03:43 PM]_
@@ -3009,16 +3069,17 @@ _[Sent at 03:54 PM]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|62 |    No     |
 
-### Cam\_St136\_695\_11\_13
+#### Cam\_St136\_695\_11\_13
 **Clara**  
 Hi\~
 
@@ -3178,16 +3239,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|62 |    No     |
 
-### Audio\_NL\_702\_11\_13
+#### Audio\_NL\_702\_11\_13
 **PAFF**  
 Uggghhh...
 
@@ -3317,16 +3379,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|62 |    No     |
 
-### Audio\_Evans\_702\_11\_14
+#### Audio\_Evans\_702\_11\_14
 _\[Doorbell\]_
 
 **[Daniel]**  
@@ -3392,16 +3455,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|62 |    No     |
 
-### Cam\_Evans\_702\_11\_14
+#### Cam\_Evans\_702\_11\_14
 **Daniel**  
 Take a seat. My girlfriend is not here, and I don't know where she put the coffee. You two okay with just water?
 
@@ -3532,16 +3596,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/e3X7Xy3y3T0))*
+
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|63 |    No     |
 
-### Cam\_Evans\_702\_11\_14
+#### Cam\_Evans\_702\_11\_14
 ![nos2602.png](./attachments/nos2602.png)
 
 **NEKO#ΦωΦ**  
@@ -3676,16 +3743,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+## Added on v2.4
+
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|64 |    No     |
 
-### Audio\_Cafe\_702\_11\_17
+#### Audio\_Cafe\_702\_11\_17
 **JOE**  
 Here, you calm down yet?
 
@@ -3814,16 +3884,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|65 |    No     |
 
-### Audio\_Trans\_08\_702\_11\_20
+#### Audio\_Trans\_08\_702\_11\_20
 _\[Platform Announcement Ring\]_
 
 **[Platform Announcement]**  
@@ -3950,16 +4021,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs) | [Next Log](#os-log-029)
 
-## OS Log #029
+### OS Log #029
+___
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|65 |    No     |
 
-### Cam\_Trans\_08\_702\_11\_20
+#### Cam\_Trans\_08\_702\_11\_20
 **NEKO#ΦωΦ**  
 G29, G29... The seat is right here! There really is no one in this carriage.
 
@@ -4121,16 +4193,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-028) | [Back to Top](#list-of-logs) | [Next Log](#os-log-030)
 
-## OS Log #030
+## Added on v2.5
+
+### OS Log #030
+___
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|66 |    No     |
 
-### Audio\_Shiraishi\_702\_11\_22
+#### Audio\_Shiraishi\_702\_11\_22
 **NEKO#ΦωΦ**  
 Mommy! Grandma! NEKO is back!
 
@@ -4256,16 +4331,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-029) | [Back to Top](#list-of-logs) | [Next Log](#os-log-031)
 
-## OS Log #031
+### OS Log #031
+___
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|66 |    No     |
 
-### Audio\_Grave\_702\_11\_23
+#### Audio\_Grave\_702\_11\_23
 **PAFF**  
 NEKO!
 
@@ -4422,16 +4498,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-030) | [Back to Top](#list-of-logs) | [Next Log](#os-log-032)
 
-## OS Log #032
+## Added on v2.6
+
+### OS Log #032
+___
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|67 |    No     |
 
-### Cam\_Nora\_702\_12\_14
+#### Cam\_Nora\_702\_12\_14
 **[Kyuu Hou Kai System]**  
 _Threat invasion detected in area 03, engaging full fortification in three minutes.  Security personnel, please proceed to your battle stations._
 
@@ -4574,16 +4653,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-031) | [Back to Top](#list-of-logs) | [Next Log](#os-log-033)
 
-## OS Log #033
+## Added on v2.7
+
+### OS Log #033
+___
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|68 |    No     |
 
-### Audio\_TigerSt\_702\_12\_15
+#### Audio\_TigerSt\_702\_12\_15
 _\[Ringtone\]_
 
 **Hayato**  
@@ -4715,16 +4797,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-032) | [Back to Top](#list-of-logs) | [Next Log](#os-log-034)
 
-## OS Log #034
+## Added on v2.8
+
+### OS Log #034
+___
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|69 |    No     |
 
-### Cam\_ShadowSt\_702\_12\_21
+#### Cam\_ShadowSt\_702\_12\_21
 **NEKO#ΦωΦ**  
 WAHHH... It's really pouring. Shoulda listened to mommy and brought an umbrella. The weather report here is as sucky as always! I'm starting to miss Node 08...
 
@@ -4854,23 +4939,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-033) | [Back to Top](#list-of-logs) | [Next Log](#os-log-035)
 
-## OS Log #035
+### OS Log #035
+___
 
 [Last Log](#os-log-034) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
 |**NEKO#ΦωΦ**|69 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 | Song  | Char.  |Diff.|Lv.|
 |-------|:------:|:---:|:-:|
 |**Rei**|NEKO#ΦωΦ|Easy | 3 |
 |**Rei**|NEKO#ΦωΦ|Hard | 7 |
 |**Rei**|NEKO#ΦωΦ|Chaos|11 |
 
-### Audio\_Baro03\_702\_12\_20
+#### Audio\_Baro03\_702\_12\_20
 **Diego**  
 Ha... _\*grunts\*_... gotta admit... you're pretty good... "X"... How about a drink? Whiskey? Kaoliang?
 

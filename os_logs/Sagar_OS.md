@@ -1,39 +1,44 @@
 # Sagar OS Logs
 ## List of Logs
-- [OS Log #001](#os-log-001)
-- [OS Log #002](#os-log-002)
-- [OS Log #003](#os-log-003)
-- [OS Log #004](#os-log-004)
-- [OS Log #005](#os-log-005)
-- [OS Log #006](#os-log-006)
-- [OS Log #007](#os-log-007)
-- [OS Log #008](#os-log-008)
-- [OS Log #009](#os-log-009)
-- [OS Log #010](#os-log-010)
-- [OS Log #011](#os-log-011)
-- [OS Log #012](#os-log-012)
-- [OS Log #013](#os-log-013)
-- [OS Log #014](#os-log-014)
-- [OS Log #015](#os-log-015)
-- [OS Log #016](#os-log-016)
-- [OS Log #017](#os-log-017)
-- [OS Log #018](#os-log-018)
-- [OS Log #019](#os-log-019)
-- [OS Log #020](#os-log-020)
-- [OS Log #021](#os-log-021)
-- [OS Log #022](#os-log-022)
-- [OS Log #023](#os-log-023)
-- [OS Log #024](#os-log-024)
-- [OS Log #025](#os-log-025)
-- [OS Log #026](#os-log-026)
-- [OS Log #027](#os-log-027)
-- [OS Log #028](#os-log-028)
+- [Added on v2.8](#added-on-v28)
+    - [OS Log #001](#os-log-001)
+    - [OS Log #002](#os-log-002)
+    - [OS Log #003](#os-log-003)
+    - [OS Log #004](#os-log-004)
+    - [OS Log #005](#os-log-005)
+    - [OS Log #006](#os-log-006)
+    - [OS Log #007](#os-log-007)
+    - [OS Log #008](#os-log-008)
+    - [OS Log #009](#os-log-009)
+    - [OS Log #010](#os-log-010)
+    - [OS Log #011](#os-log-011)
+    - [OS Log #012](#os-log-012)
+    - [OS Log #013](#os-log-013)
+    - [OS Log #014](#os-log-014)
+    - [OS Log #015](#os-log-015)
+    - [OS Log #016](#os-log-016)
+    - [OS Log #017](#os-log-017)
+    - [OS Log #018](#os-log-018)
+    - [OS Log #019](#os-log-019)
+    - [OS Log #020](#os-log-020)
+    - [OS Log #021](#os-log-021)
+    - [OS Log #022](#os-log-022)
+    - [OS Log #023](#os-log-023)
+    - [OS Log #024](#os-log-024)
+    - [OS Log #025](#os-log-025)
+    - [OS Log #026](#os-log-026)
+    - [OS Log #027](#os-log-027)
+- [Added on v2.9](#added-on-v29)
+    - [OS Log #028](#os-log-028)
 
-## OS Log #001
+## Added on v2.8
+
+### OS Log #001
+___
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-### Audio\_???\_701\_06\_25
+#### Audio\_???\_701\_06\_25
 **Bruno**  
 This is 08's Eagle\-01 squad, calling branch 03.
 
@@ -137,11 +142,12 @@ _\[Signal Lost\]_
 
 [Back to Top](#list-of-logs) | [Next Log](#os-log-002)
 
-## OS Log #002
+### OS Log #002
+___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-### Cam\_61St\_702\_11\_26
+#### Cam\_61St\_702\_11\_26
 _\[Hurried Footsteps\]_
 
 **Bruno**  
@@ -286,16 +292,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
-## OS Log #003
+### OS Log #003
+___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 2 |    No     |
 
-### Audio\_Arc\_682\_06\_06
+#### Audio\_Arc\_682\_06\_06
 _\[Door Opens\]_
 
 **A.R.C. Security guard**  
@@ -441,23 +448,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
-## OS Log #004
+### OS Log #004
+___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 3 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
 |---------------|:---:|:---:|:-:|
 |**Space Alien**|Sagar|Easy | 4 |
 |**Space Alien**|Sagar|Hard | 8 |
 |**Space Alien**|Sagar|Chaos|13 |
 
-### Audio\_wilderness\_702\_11\_28
+#### Audio\_wilderness\_702\_11\_28
 **Exploration Team Member**  
 Captain, scan's complete. This area's safe.
 
@@ -595,16 +603,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
 
-## OS Log #005
+### OS Log #005
+___
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 4 |    No     |
 
-### Audio\_Sagar\_694\_06\_10
+#### Audio\_Sagar\_694\_06\_10
 _\[Doorbell\]_
 
 **Inhabitant J**  
@@ -786,16 +795,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-004) | [Back to Top](#list-of-logs) | [Next Log](#os-log-006)
 
-## OS Log #006
+### OS Log #006
+___
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 5 |    No     |
 
-### Audio\_shop\_694\_07\_12
+#### Audio\_shop\_694\_07\_12
 **Shop Manager**  
 Sagar! Nice work. Would you like to stay and have a meal?
 
@@ -940,16 +950,17 @@ _\[→Signal Lost\]_
 
 [Last Log](#os-log-005) | [Back to Top](#list-of-logs) | [Next Log](#os-log-007)
 
-## OS Log #007
+### OS Log #007
+___
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 5 |    No     |
 
-### Audio\_UFZ\_694\_07\_19
+#### Audio\_UFZ\_694\_07\_19
 _\[Audience applause\]_
 
 **Host**  
@@ -1118,16 +1129,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-006) | [Back to Top](#list-of-logs) | [Next Log](#os-log-008)
 
-## OS Log #008
+### OS Log #008
+___
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 6 |    No     |
 
-### Cam\_12St\_694\_08\_20
+#### Cam\_12St\_694\_08\_20
 _\[Phone rings\]_
 
 **Sagar**  
@@ -1307,16 +1319,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-007) | [Back to Top](#list-of-logs) | [Next Log](#os-log-009)
 
-## OS Log #009
+### OS Log #009
+___
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 7 |    No     |
 
-### Audio\_ArcETC\_695\_11\_20
+#### Audio\_ArcETC\_695\_11\_20
 **[Edwards]**  
 _Everyone here is one of a kind, you guys are all elites. Starting from today you'll all be the new blood of the A.R.C. exploration training camp. On behalf of your training instructor, I'm looking forward to seeing you all pass the tests, officially join the unit, and excavate glory for all of mankind._
 
@@ -1437,16 +1450,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-008) | [Back to Top](#list-of-logs) | [Next Log](#os-log-010)
 
-## OS Log #010
+### OS Log #010
+___
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 7 |    No     |
 
-### Audio\_ArcETC\_695\_12\_11
+#### Audio\_ArcETC\_695\_12\_11
 **Sagar**  
 ... Alright, you got me. What's the deal?
 
@@ -1605,16 +1619,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-009) | [Back to Top](#list-of-logs) | [Next Log](#os-log-011)
 
-## OS Log #011
+### OS Log #011
+___
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 8 |    No     |
 
-### Audio\_13St20\_702\_11\_29
+#### Audio\_13St20\_702\_11\_29
 **Sagar**  
 We're here. It's this shop. Based on the analyzed data sent down from the top, we've determined that Dr. Neumann is a frequent customer here. We've just got to do a little bit of investigating...
 
@@ -1760,23 +1775,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-010) | [Back to Top](#list-of-logs) | [Next Log](#os-log-012)
 
-## OS Log #012
+### OS Log #012
+___
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 8 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
 |**Doldrums**|Sagar|Easy | 4 |
 |**Doldrums**|Sagar|Hard | 7 |
 |**Doldrums**|Sagar|Chaos|14 |
 
-### Audio\_Sagar\_702\_11\_29
+#### Audio\_Sagar\_702\_11\_29
 _\[Signal Transmission\]_
 
 **Bruno**  
@@ -1937,16 +1953,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-011) | [Back to Top](#list-of-logs) | [Next Log](#os-log-013)
 
-## OS Log #013
+### OS Log #013
+___
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 9 |    No     |
 
-### Audio\_ArcETC\_696\_05\_04
+#### Audio\_ArcETC\_696\_05\_04
 **Bruno**  
 Are you Sagar? I'm Bruno, from class B. We're on the same unit for the United Mission this time around.
 
@@ -2067,16 +2084,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-012) | [Back to Top](#list-of-logs) | [Next Log](#os-log-014)
 
-## OS Log #014
+### OS Log #014
+___
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**| 9 |    No     |
 
-### Cam\_ArcETC\_696\_05\_04
+#### Cam\_ArcETC\_696\_05\_04
 **Bruno**  
 Ey, Sagar, how's the electromagnetic trap coming?
 
@@ -2240,16 +2258,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-013) | [Back to Top](#list-of-logs) | [Next Log](#os-log-015)
 
-## OS Log #015
+### OS Log #015
+___
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|10 |    No     |
 
-### Audio\_ArcETC\_696\_10\_20
+#### Audio\_ArcETC\_696\_10\_20
 **[Edwards]**  
 _... Above is the list of all those who've been selected as reserve members of the exploration team. You'll all be put under the supervision of different training officers and put through an even more rigorous training period. You'll be put through the ringer, and breakthough whatever limits you thought you had._
 
@@ -2399,16 +2418,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-014) | [Back to Top](#list-of-logs) | [Next Log](#os-log-016)
 
-## OS Log #016
+### OS Log #016
+___
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|11 |    No     |
 
-### Audio\_???\_697\_11\_20
+#### Audio\_???\_697\_11\_20
 **Edwards**  
 Answer me. Where is this?
 
@@ -2526,23 +2546,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-015) | [Back to Top](#list-of-logs) | [Next Log](#os-log-017)
 
-## OS Log #017
+### OS Log #017
+___
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|11 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
 |-----------|:---:|:---:|:-:|
 |**Nídhögg**|Sagar|Easy | 5 |
 |**Nídhögg**|Sagar|Hard | 9 |
 |**Nídhögg**|Sagar|Chaos|14 |
 
-### Audio\_???\_697\_11\_20
+#### Audio\_???\_697\_11\_20
 **Bruno**  
 Jackal, that last message gave me a bad feeling...
 
@@ -2711,16 +2732,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-016) | [Back to Top](#list-of-logs) | [Next Log](#os-log-018)
 
-## OS Log #018
+### OS Log #018
+___
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|12 |    No     |
 
-### Audio\_ArcETC\_698\_04\_05
+#### Audio\_ArcETC\_698\_04\_05
 **Alex**  
 _...\*yawn\*..._
 
@@ -2878,23 +2900,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-017) | [Back to Top](#list-of-logs) | [Next Log](#os-log-019)
 
-## OS Log #019
+### OS Log #019
+___
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|13 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
 |**Legacy**|Sagar|Easy | 5 |
 |**Legacy**|Sagar|Hard | 7 |
 |**Legacy**|Sagar|Chaos|13 |
 
-### Audio\_Sagar\_698\_04\_05
+#### Audio\_Sagar\_698\_04\_05
 **Grave Robber A**  
 Perfect, no activity on their end. Keep moving towards the car!
 
@@ -3073,16 +3096,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-018) | [Back to Top](#list-of-logs) | [Next Log](#os-log-020)
 
-## OS Log #020
+### OS Log #020
+___
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|13 |    No     |
 
-### Audio\_Sagar\_702\_12\_09
+#### Audio\_Sagar\_702\_12\_09
 **Alex**  
 Bambi.  
 Bambi! Hello?
@@ -3259,23 +3283,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-019) | [Back to Top](#list-of-logs) | [Next Log](#os-log-021)
 
-## OS Log #021
+### OS Log #021
+___
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|14 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |              Song               |Char.|Diff.|Lv.|
 |---------------------------------|:---:|:---:|:-:|
 |**A Portent of the Silver Wheel**|Sagar|Easy | 3 |
 |**A Portent of the Silver Wheel**|Sagar|Hard | 7 |
 |**A Portent of the Silver Wheel**|Sagar|Chaos|13 |
 
-### Audio\_ArcETC\_699\_01\_14
+#### Audio\_ArcETC\_699\_01\_14
 **Sagar**  
 Today's training... ergh... is over. You're free to go!
 
@@ -3458,16 +3483,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-020) | [Back to Top](#list-of-logs) | [Next Log](#os-log-022)
 
-## OS Log #022
+### OS Log #022
+___
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|15 |    No     |
 
-### Audio\_ArcETC\_699\_03\_20
+#### Audio\_ArcETC\_699\_03\_20
 **Alex**  
 Shrimp... Shrimp...
 
@@ -3607,23 +3633,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-021) | [Back to Top](#list-of-logs) | [Next Log](#os-log-023)
 
-## OS Log #023
+### OS Log #023
+___
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|16 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
 |-------------|:---:|:---:|:-:|
 |**Sacrifice**|Sagar|Easy | 3 |
 |**Sacrifice**|Sagar|Hard | 7 |
 |**Sacrifice**|Sagar|Chaos|14 |
 
-### Cam\_ArcETC\_699\_05\_18
+#### Cam\_ArcETC\_699\_05\_18
 _\[Punch Combo\]_
 
 **Trainee A**  
@@ -3827,16 +3854,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-022) | [Back to Top](#list-of-logs) | [Next Log](#os-log-024)
 
-## OS Log #024
+### OS Log #024
+___
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|17 |    No     |
 
-### Audio\_Sagar\_702\_11\_30
+#### Audio\_Sagar\_702\_11\_30
 **Sagar**  
 This is channel 107.83, Captain Sagar...
 
@@ -3971,16 +3999,17 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-023) | [Back to Top](#list-of-logs) | [Next Log](#os-log-025)
 
-## OS Log #025
+### OS Log #025
+___
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|18 |    No     |
 
-### Audio\_???\_702\_12\_17
+#### Audio\_???\_702\_12\_17
 **Sagar**  
 We're here. The signal's thirty meters below the surface.
 
@@ -4151,16 +4180,19 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-024) | [Back to Top](#list-of-logs) | [Next Log](#os-log-026)
 
-## OS Log #026
+### OS Log #026
+___
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-### Requirements
+*(The OS Log has a video version, you can watch it on [this link](https://youtu.be/O96_Y0ONSkA))*
+
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|19 |    No     |
 
-### Cam\_Sagar\_702\_12\_17
+#### Cam\_Sagar\_702\_12\_17
 _\[Footsteps\]_
 
 ![sos2602.png](./attachments/sos2602.png)
@@ -4185,23 +4217,24 @@ _\[Signal Lost\]_
 
 [Last Log](#os-log-025) | [Back to Top](#list-of-logs) | [Next Log](#os-log-027)
 
-## OS Log #027
+### OS Log #027
+___
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|19 |    No     |
 
-### Unlocked Charts
+#### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
 |**Return of the Lamp**|Sagar|Easy | 4 |
 |**Return of the Lamp**|Sagar|Hard | 8 |
 |**Return of the Lamp**|Sagar|Chaos|14 |
 
-### Audio\_Sagar\_702\_12\_17
+#### Audio\_Sagar\_702\_12\_17
 **Sagar**  
 Luka... Dad...?
 
@@ -4371,16 +4404,19 @@ _\[Recording ends\]_
 
 [Last Log](#os-log-026) | [Back to Top](#list-of-logs) | [Next Log](#os-log-028)
 
-## OS Log #028
+## Added on v2.9
+
+### OS Log #028
+___
 
 [Last Log](#os-log-027) | [Back to Top](#list-of-logs)
 
-### Requirements
+#### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
 |**Sagar**|20 |    No     |
 
-### Audio\_???\_702\_12\_17
+#### Audio\_???\_702\_12\_17
 **Sagar**  
 ......
 
