@@ -44,7 +44,7 @@ any character will just show a ruined version of the character's background,
 except for Vanessa, who will give you a choice to change your ending.
 
 You can watch the video of the bad ending, the title screen, and
-the character backgrounds [here](https://youtu.be/ElUm1YaBZYM).
+the character backgrounds [here](https://youtu.be/h-AWxjBH44s).
 
 ### Easter Egg
 If you want an easter egg, **do not skip the credits in this ending**.
