@@ -18,22 +18,22 @@ getting spoiled.
 
 There are **three** endings for Cytus 2, and it all depends on what actions
 you take on the final boss against Vanessa after Ivy's death, that is,
-[this OS log](./os_logs/Vanessa_OS.md#os-log-037). After getting either
-**Good**/**Neutral** endings, you can change your ending by selecting the
-boss battle in the **Backup Database**.
+[Vanessa OS Log #37](./os_logs/Vanessa_OS.md#os-log-037).
+After getting either the **Good**/**Neutral** endings, you can change
+your ending by selecting the boss battle in the **Backup Database**.
 
 ## Good Ending
 To trigger the good ending, before battling against Vanessa, respond to
 PAFF's call by tapping any note in the cutscene. Tap the note at the end of
 the battle as well. Afterwards, you can unlock **The Whole Rest** by reading
-[this iM post](./im_posts/Other_iM.md#im-post-145).
+[Other iM Post #145](./im_posts/Other_iM.md#im-post-145).
 
 You can watch the video of the good ending [here](https://youtu.be/XCF7z41jcn4).
 
 ## Neutral Ending
 To trigger the neutral ending, before battling against Vanessa, don't respond to
 PAFF's call, but tap the note at the end of the battle. Afterwards, you can unlock
-**Used to be** by reading [this iM post](./im_posts/Other_iM.md#im-post-150).
+**Used to be** by reading [Other iM Post #150](./im_posts/Other_iM.md#im-post-150).
 
 You can watch the video of the neutral ending [here](https://youtu.be/4ijHIlPNSGo).
 
