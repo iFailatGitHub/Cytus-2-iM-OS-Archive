@@ -507,13 +507,13 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___  
 \- Compared cyTus's server data from past 35 years. Found records of multiple initiation errors.  
 \- No particular pattern in the initiation errors. System can detect and fix errors on its own.  
 \- Judging from the excerpted log files, errors are from within the system. Since A.R.C. keeps the completed log files in a closed network, has no physical access to it right now.
 
 Future actions: Continue to track initiation errors.  
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
@@ -922,7 +922,7 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___  
 \- About the mega\-scale connection error that occurred on January 18th, 702 N.A.  
 \- About the electrical load overcharge in the Node 08, Quadrant I area that occurred on January 18th, 702 N.A.
 
@@ -930,7 +930,7 @@ Initial Judgement: internet terrorist attack
 Source: unknown, reverse tracking activated.  
 Impact: Approximately 1,366,554 connection locations were intruded. Yet to clarify actual damage caused.  
 Reasonable to assume that electrical overload is related to the attack. Suspect may be using parrallel mega servers as instrument of crime.  
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
@@ -1115,14 +1115,14 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___  
 Received a verification request from  
 address: \[2600:1901:0:f599::\]  
 Connection mode: Normal; Security level: medium
 
 Replied result: Denied  
 Reason: According to NDA rules number 1\-7\-22 and 11\-9\-22, if connection environment has the possibility of revealing the true identity of both parties, or if the target has not fulfilled the condition to unlock the security protocol, requested party may not reveal its identity.  
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
@@ -1491,14 +1491,14 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___
 Reverse tracking results.  
 List of suspected attackers and their most common connection locations:  
 \[4620:100:6859::d2a4\]  
 \[4620:100:8c::c6:d6bb\]  
 \[4620:b00:e7cf::2377\]  
 \[4620:b00:898a::f00f\]  
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
@@ -1634,14 +1634,14 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___  
 \- About the large\-scale connection error that just occurred in block (74,02,20) of the server.  
 \- About the electrical load overcharge in the Node 08, Quadrant III area that just occurred.
 
 Malicious attack pattern similar to January 18th, 702 N.A. incident detected in that location.  
 Source: Around Quadrant I, can't eliminate possibility of being in the forbidden area. Reverse tracking activated.  
 Impact: Approximately 79,573 connection location intruded. Might cause light to medium level brain damage. Node 08 officials have dispatched the city's entire medical staff to provide victims with emergency treatment and care. A.R.C.'s HQ at Node 08 also stated that they will be providing support for both manpower and equipment. They will also be investigating the truth behind this incident.  
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
@@ -1764,7 +1764,7 @@ Access Permission: Private Key required.
 Source Location: \[Locked\]\[Dynamic Proxy Server activated\]
 
 Report  
-==========  
+___  
 Coordinate locked on.  
 Has identified suspect through online visual footage.
 
@@ -1773,7 +1773,7 @@ Analysis:
 [![xos2502.png](./attachments/xos2502.png)](https://youtu.be/AdRsMZG6MoE)  
 _[Click the image to watch the movie]_
 
-==========  
+___  
 Report Ends
 
 \*This document has the SDP Protocol activated. Attempting to input the incorrect private key will result in the deletion of this document and all copies.
