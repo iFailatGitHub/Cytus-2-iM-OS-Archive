@@ -147,6 +147,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Sagar**| 2 |    No     |
+
 #### Cam\_61St\_702\_11\_26
 _\[Hurried Footsteps\]_
 
@@ -300,7 +305,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 2 |    No     |
+|**Sagar**| 3 |    No     |
 
 #### Audio\_Arc\_682\_06\_06
 _\[Door Opens\]_
@@ -456,7 +461,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 3 |    No     |
+|**Sagar**| 4 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -611,7 +616,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 4 |    No     |
+|**Sagar**| 5 |    No     |
 
 #### Audio\_Sagar\_694\_06\_10
 _\[Doorbell\]_
@@ -803,7 +808,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 5 |    No     |
+|**Sagar**| 6 |    No     |
 
 #### Audio\_shop\_694\_07\_12
 **Shop Manager**  
@@ -958,7 +963,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 5 |    No     |
+|**Sagar**| 6 |    No     |
 
 #### Audio\_UFZ\_694\_07\_19
 _\[Audience applause\]_
@@ -1137,7 +1142,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 6 |    No     |
+|**Sagar**| 7 |    No     |
 
 #### Cam\_12St\_694\_08\_20
 _\[Phone rings\]_
@@ -1327,7 +1332,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 7 |    No     |
+|**Sagar**| 8 |    No     |
 
 #### Audio\_ArcETC\_695\_11\_20
 **[Edwards]**  
@@ -1458,7 +1463,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 7 |    No     |
+|**Sagar**| 8 |    No     |
 
 #### Audio\_ArcETC\_695\_12\_11
 **Sagar**  
@@ -1627,7 +1632,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 8 |    No     |
+|**Sagar**| 9 |    No     |
 
 #### Audio\_13St20\_702\_11\_29
 **Sagar**  
@@ -1783,7 +1788,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 8 |    No     |
+|**Sagar**| 9 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -1961,7 +1966,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 9 |    No     |
+|**Sagar**|10 |    No     |
 
 #### Audio\_ArcETC\_696\_05\_04
 **Bruno**  
@@ -2092,7 +2097,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**| 9 |    No     |
+|**Sagar**|10 |    No     |
 
 #### Cam\_ArcETC\_696\_05\_04
 **Bruno**  
@@ -2266,7 +2271,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|10 |    No     |
+|**Sagar**|11 |    No     |
 
 #### Audio\_ArcETC\_696\_10\_20
 **[Edwards]**  
@@ -2426,7 +2431,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|11 |    No     |
+|**Sagar**|12 |    No     |
 
 #### Audio\_???\_697\_11\_20
 **Edwards**  
@@ -2554,7 +2559,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|11 |    No     |
+|**Sagar**|12 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -2740,7 +2745,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|12 |    No     |
+|**Sagar**|13 |    No     |
 
 #### Audio\_ArcETC\_698\_04\_05
 **Alex**  
@@ -2908,7 +2913,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|13 |    No     |
+|**Sagar**|14 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -3104,7 +3109,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|13 |    No     |
+|**Sagar**|14 |    No     |
 
 #### Audio\_Sagar\_702\_12\_09
 **Alex**  
@@ -3291,7 +3296,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|14 |    No     |
+|**Sagar**|15 |    No     |
 
 #### Unlocked Charts
 |              Song               |Char.|Diff.|Lv.|
@@ -3491,7 +3496,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|15 |    No     |
+|**Sagar**|16 |    No     |
 
 #### Audio\_ArcETC\_699\_03\_20
 **Alex**  
@@ -3641,7 +3646,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|16 |    No     |
+|**Sagar**|17 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -3862,7 +3867,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|17 |    No     |
+|**Sagar**|18 |    No     |
 
 #### Audio\_Sagar\_702\_11\_30
 **Sagar**  
@@ -4007,7 +4012,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|18 |    No     |
+|**Sagar**|19 |    No     |
 
 #### Audio\_???\_702\_12\_17
 **Sagar**  
@@ -4190,7 +4195,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|19 |    No     |
+|**Sagar**|20 |    No     |
 
 #### Cam\_Sagar\_702\_12\_17
 _\[Footsteps\]_
@@ -4225,7 +4230,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|19 |    No     |
+|**Sagar**|20 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
@@ -4414,7 +4419,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Sagar**|20 |    No     |
+|**Sagar**|21 |    No     |
 
 #### Audio\_???\_702\_12\_17
 **Sagar**  

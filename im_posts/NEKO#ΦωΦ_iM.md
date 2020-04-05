@@ -108,6 +108,11 @@ So it is actually sponsored content lol
 
 [Last Log](#im-post-001) | [Back to Top](#list-of-posts) | [Next Log](#im-post-003)
 
+### Requirements
+|   Char.    |Lv.|Lv. Locked?|
+|------------|:-:|:---------:|
+|**NEKO#ΦωΦ**| 2 |    No     |
+
 ### Unlocked Charts
 |    Song     | Char.  |Diff.|Lv.|
 |-------------|:------:|:---:|:-:|
@@ -191,7 +196,7 @@ The whole thing ended after Robohead's performance, the crowd went on a complete
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 3 |    No     |
+|**NEKO#ΦωΦ**| 4 |    No     |
 
 ### Unlocked Charts
 |        Song        | Char.  |Diff.|Lv.|
@@ -252,7 +257,7 @@ Dude keep your d\*\*\* in your pants!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 4 |    No     |
+|**NEKO#ΦωΦ**| 5 |    No     |
 
 ### Unlocked Charts
 |            Song            | Char.  |Diff.|Lv.|
@@ -343,7 +348,7 @@ Feels like they will be scratching the backs of MeowBot (\*Φ∀Φ)\~♥
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 5 |    No     |
+|**NEKO#ΦωΦ**| 6 |    No     |
 
 ### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -454,7 +459,7 @@ NEKO's gonna play with MeowBot now (  ΦˋдˊΦ)=3 Hmpf
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 6 |    No     |
+|**NEKO#ΦωΦ**| 7 |    No     |
 
 ### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -526,7 +531,7 @@ Teehee (
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 8 |    No     |
+|**NEKO#ΦωΦ**| 9 |    No     |
 
 ### Unlocked Charts
 |            Song            | Char.  |Diff.|Lv.|
@@ -583,7 +588,7 @@ SOMEONE'S OFF (Φ皿Φﾒ)
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|10 |    No     |
+|**NEKO#ΦωΦ**|11 |    No     |
 
 ### Unlocked Charts
 |              Song              | Char.  |Diff.|Lv.|
@@ -669,7 +674,7 @@ Hmpf you want to challenge, well NEKO will accept it (Φ皿Φ)！！！
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|12 |    No     |
+|**NEKO#ΦωΦ**|13 |    No     |
 
 ### Unlocked Charts
 |        Song        | Char.  |Diff.|Lv.|
@@ -723,7 +728,7 @@ So even Robobrain can't figure it out (   ΦωΦ) hehe
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|13 |    No     |
+|**NEKO#ΦωΦ**|14 |    No     |
 
 ### Unlocked Charts
 |     Song     | Char.  |Diff.|Lv.|
@@ -797,7 +802,7 @@ Yep there are no games too hard for NEKO (ΦˋωˊΦ)=3
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|14 |    No     |
+|**NEKO#ΦωΦ**|15 |    No     |
 
 ### Unlocked Charts
 |     Song     | Char.  |Diff.|Lv.|
@@ -858,7 +863,7 @@ D D D D D D D
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|15 |    No     |
+|**NEKO#ΦωΦ**|16 |    No     |
 
 ### Unlocked Charts
 |              Song              | Char.  |Diff.|Lv.|
@@ -950,7 +955,7 @@ Denied on the very first date  Σ(ΦДΦ；≡；ΦдΦ)
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|18 |    No     |
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### Unlocked Charts
 |        Song         | Char.  |Diff.|Lv.|
@@ -1019,7 +1024,7 @@ So it's all a game...trollolololol
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|18 |    No     |
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### NEKO\#ΦωΦ streaming time \-「Explosion」
 **NEKO#ΦωΦ**  
@@ -1097,7 +1102,7 @@ Time to go to bed
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|19 |    No     |
+|**NEKO#ΦωΦ**|20 |    No     |
 
 ### Unlocked Charts
 |        Song         | Char.  |Diff.|Lv.|
@@ -1180,7 +1185,7 @@ Can you give the Bass back to me first?
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|20 |    No     |
+|**NEKO#ΦωΦ**|21 |    No     |
 
 ### Unlocked Charts
 |        Song         | Char.  |Diff.|Lv.|
@@ -1233,7 +1238,7 @@ It's only a dream though ΦωΦ
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|20 |    No     |
+|**NEKO#ΦωΦ**|21 |    No     |
 
 ### NEKO\#ΦωΦ streaming time \-「Stewrica」
 **NEKO#ΦωΦ**  
@@ -1320,7 +1325,7 @@ No more playing with viewers (╬ΦдΦ) you guys suck
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|21 |    No     |
+|**NEKO#ΦωΦ**|22 |    No     |
 
 ### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -1372,7 +1377,7 @@ Awesome!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|22 |    No     |
+|**NEKO#ΦωΦ**|23 |    No     |
 
 ### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -1439,7 +1444,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|25 |    No     |
+|**NEKO#ΦωΦ**|26 |    No     |
 
 ### \*\*\*System Announcement\*\*\*
 **Admin**  
@@ -1454,9 +1459,9 @@ Wait does that make you Holmes? But you're a girl XDDD
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |29 |    Yes    |
-|**NEKO#ΦωΦ** |29 |    Yes    |
-|**ROBO_Head**|29 |    Yes    |
+|**PAFF**     |30 |    Yes    |
+|**NEKO#ΦωΦ** |30 |    Yes    |
+|**ROBO_Head**|30 |    Yes    |
 
 ### ???
 **???**  
@@ -1471,7 +1476,7 @@ Wait does that make you Holmes? But you're a girl XDDD
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|30 |    No     |
+|**NEKO#ΦωΦ**|31 |    No     |
 
 ### Nyaann\~ Long time no see everyone (ΦωΦ)
 **NEKO#ΦωΦ**  
@@ -1639,7 +1644,7 @@ If you were in custody another day I might go riot at the Administration Bureau 
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|34 |    No     |
+|**NEKO#ΦωΦ**|35 |    No     |
 
 ### NEKO\#(ΦωΦ) streaming time: Return Special \- \[Project Wo\]
 **NEKO#ΦωΦ**  
@@ -1736,7 +1741,7 @@ Really hope RG can publish a game as cool as this too (Φ∀Φ)σ
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|36 |    No     |
+|**NEKO#ΦωΦ**|37 |    No     |
 
 ### Long Time No See!! Chatting time!!
 **NEKO#ΦωΦ**  
@@ -1854,9 +1859,9 @@ Bye Bye\~\~
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |39 |    Yes    |
-|**NEKO#ΦωΦ** |39 |    Yes    |
-|**ROBO_Head**|39 |    Yes    |
+|**PAFF**     |40 |    Yes    |
+|**NEKO#ΦωΦ** |40 |    Yes    |
+|**ROBO_Head**|40 |    Yes    |
 
 ### SUPER MEGA GIGA NEWS!!!
 **NEKO#ΦωΦ**  
@@ -1929,7 +1934,7 @@ PM pls!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|41 |    No     |
+|**NEKO#ΦωΦ**|42 |    No     |
 
 ### NEKO\#ΦωΦ streaming time \- Live Composing!!!
 **NEKO#ΦωΦ**  
@@ -2006,7 +2011,7 @@ Excited\~\~ NEKO's music is the best <3
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|43 |    No     |
+|**NEKO#ΦωΦ**|44 |    No     |
 
 ### NEKO\#ΦωΦ's chatting time
 **NEKO#ΦωΦ**  
@@ -2065,7 +2070,7 @@ Even I'm getting a bit bored streaming here all the time\~ Let's go play outside
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|45 |    No     |
+|**NEKO#ΦωΦ**|46 |    No     |
 
 ### Streaming at JOEZ Cafe today\~(\*Φ∀Φ)
 **NEKO#ΦωΦ**  
@@ -2143,7 +2148,7 @@ Hahaha thanks a lot for the visit!!!!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|46 |    No     |
+|**NEKO#ΦωΦ**|47 |    No     |
 
 ### Will NEKO actually participate in ROBO\_Radio\_Live ΦωΦ I dunno\~\~
 **NEKO#ΦωΦ**  
@@ -2238,7 +2243,7 @@ I warn you guys!! All of you have to be there!!! No matter what!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|52 |    No     |
+|**NEKO#ΦωΦ**|53 |    No     |
 
 ### NEKO's\~ super question time!! \\ΦωΦ)/
 **NEKO#ΦωΦ**  
@@ -2308,7 +2313,7 @@ Looking forward to seeing the result<3<3<3
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|53 |    No     |
+|**NEKO#ΦωΦ**|54 |    No     |
 
 ### Nyan Nyan goes outdoors ฅ(☼ Д ☼)ฅ
 **NEKO#ΦωΦ**  
@@ -2382,7 +2387,7 @@ The young drummer's shy smile is so adorable ❤
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|54 |    No     |
+|**NEKO#ΦωΦ**|55 |    No     |
 
 ### Having some crappy luck recently
 **Henry**  

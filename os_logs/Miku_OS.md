@@ -48,6 +48,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Miku**| 2 |    No     |
+
 #### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
 |----------------------|:---:|:---:|:-:|
@@ -118,7 +123,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 2 |    No     |
+|**Miku**| 3 |    No     |
 
 #### Cam\_SLab01\_702\_10\_09
 ![mos0301.png](./attachments/mos0301.png)
@@ -179,7 +184,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 3 |    No     |
+|**Miku**| 4 |    No     |
 
 #### Cam\_Winona03\_702\_10\_09
 **Staff A**  
@@ -324,7 +329,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 4 |    No     |
+|**Miku**| 5 |    No     |
 
 #### Audio\_SLab01\_702\_11\_03
 **[TV]**  
@@ -462,7 +467,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 5 |    No     |
+|**Miku**| 6 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -522,7 +527,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 5 |    No     |
+|**Miku**| 6 |    No     |
 
 #### ???\_???\_??\_??\_??
 **Miku**  
@@ -683,7 +688,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 6 |    No     |
+|**Miku**| 7 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -873,7 +878,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 7 |    No     |
+|**Miku**| 8 |    No     |
 
 #### Audio\_SLab03\_702\_11\_12
 **Miku**  
@@ -1029,7 +1034,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 8 |    No     |
+|**Miku**| 9 |    No     |
 
 #### Audio\_Itsuki\_702\_11\_14
 **[Saito]**  
@@ -1176,7 +1181,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**| 9 |    No     |
+|**Miku**|10 |    No     |
 
 #### Cam\_SLab03\_702\_11\_16
 **Miku**  
@@ -1345,7 +1350,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**|10 |    No     |
+|**Miku**|11 |    No     |
 
 #### Audio\_Saito\_702\_11\_20
 _\[Slams desk\]_
@@ -1432,7 +1437,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**|11 |    No     |
+|**Miku**|12 |    No     |
 
 #### Cam27\_MHall\_702\_11\_30
 _\[Opens lock\]_
@@ -1525,7 +1530,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**|12 |    No     |
+|**Miku**|13 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -1617,7 +1622,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**|13 |    No     |
+|**Miku**|14 |    No     |
 
 #### Cam\_SLab03\_702\_12\_09
 _\[Door Opens\]_
@@ -1728,7 +1733,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Miku**|14 |    No     |
+|**Miku**|15 |    No     |
 
 #### Command Code
 The command code is `390239`.

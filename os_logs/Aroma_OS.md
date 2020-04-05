@@ -171,6 +171,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 2 |    No     |
+
 #### Audio\_Hospital\_694\_03\_28
 _\[Door Opens\]_
 
@@ -258,6 +263,11 @@ _\[Signal Lost\]_
 ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
+
+#### Requirements
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Aroma**| 2 |    No     |
 
 #### Audio\_ARC\_H\_694\_5\_20
 **Aroma**  
@@ -443,7 +453,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 2 |    No     |
+|**Aroma**| 3 |    No     |
 
 #### Audio\_Academy\_694\_08\_01
 _\[Class Bell\]_
@@ -528,7 +538,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 2 |    No     |
+|**Aroma**| 3 |    No     |
 
 #### Cam\_Academy\_694\_08\_01
 _\[Class Bell\]_
@@ -670,7 +680,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 3 |    No     |
+|**Aroma**| 4 |    No     |
 
 #### Audio\_Academy\_694\_08\_12
 **Clara**  
@@ -782,7 +792,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 3 |    No     |
+|**Aroma**| 4 |    No     |
 
 #### Message\_Group\_694\_08\_15
 **Anonymous Watermelon**  
@@ -899,7 +909,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 4 |    No     |
+|**Aroma**| 5 |    No     |
 
 #### Cam\_Academy\_694\_08\_19
 **Aroma**  
@@ -1061,7 +1071,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 5 |    No     |
+|**Aroma**| 6 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1174,7 +1184,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 5 |    No     |
+|**Aroma**| 6 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1297,7 +1307,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 6 |    No     |
+|**Aroma**| 7 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1440,7 +1450,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 7 |    No     |
+|**Aroma**| 8 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -1567,7 +1577,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 7 |    No     |
+|**Aroma**| 8 |    No     |
 
 #### Cam\_Mono\_699\_01\_13
 **NEKO#ΦωΦ**  
@@ -1740,7 +1750,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 8 |    No     |
+|**Aroma**| 9 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -1892,7 +1902,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 8 |    No     |
+|**Aroma**| 9 |    No     |
 
 #### Audio\_Mono\_699\_05\_01
 **Helena**  
@@ -2007,7 +2017,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 9 |    No     |
+|**Aroma**|10 |    No     |
 
 #### Mail\_Æsir\_701\_09\_18
 **Subj.**: Invitation  
@@ -2039,7 +2049,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**| 9 |    No     |
+|**Aroma**|10 |    No     |
 
 #### Audio\_Mono\_701\_09\_20
 _\[Door Opens\]_
@@ -2192,7 +2202,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|10 |    No     |
+|**Aroma**|11 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -2323,7 +2333,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|11 |    No     |
+|**Aroma**|12 |    No     |
 
 #### cyTus\_Server08\_702\_01\_18
 **Aroma**  
@@ -2420,7 +2430,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|12 |    No     |
+|**Aroma**|13 |    No     |
 
 #### Mail\_Chris\_702\_03\_13
 **Subj.**: Event Schedule Notice  
@@ -2459,7 +2469,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|13 |    No     |
+|**Aroma**|14 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -2533,7 +2543,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|14 |    No     |
+|**Aroma**|15 |    No     |
 
 #### Audio\_Noah\_702\_06\_25
 **PAFF-Official**  
@@ -2649,7 +2659,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|15 |    No     |
+|**Aroma**|16 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -2812,7 +2822,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|16 |    No     |
+|**Aroma**|17 |    No     |
 
 #### Audio\_Arena\_702\_07\_27
 _\[Door Opens\]_
@@ -2934,7 +2944,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|17 |    No     |
+|**Aroma**|18 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -2999,7 +3009,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|18 |    No     |
+|**Aroma**|19 |    No     |
 
 #### Unlocked Charts
 |  Song  |Char.|Diff.|Lv.|
@@ -3116,7 +3126,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|19 |    No     |
+|**Aroma**|20 |    No     |
 
 #### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
@@ -3263,7 +3273,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|20 |    No     |
+|**Aroma**|21 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -3387,7 +3397,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|21 |    No     |
+|**Aroma**|22 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -3535,7 +3545,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|22 |    No     |
+|**Aroma**|23 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -3638,7 +3648,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|22 |    No     |
+|**Aroma**|23 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -3723,7 +3733,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|23 |    No     |
+|**Aroma**|24 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -3879,7 +3889,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|24 |    No     |
+|**Aroma**|25 |    No     |
 
 #### Cam\_ARC\_H\_694\_05\_12
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)  
@@ -3898,8 +3908,8 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|28 |    No     |
-|**Aroma**       |25 |    Yes    |
+|**Crystal PuNK**|29 |    No     |
+|**Aroma**       |26 |    Yes    |
 
 #### Audio\_Trans\_03\_702\_12\_26
 _\[Call Starts\]_
@@ -4032,7 +4042,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|26 |    No     |
+|**Aroma**|27 |    No     |
 
 #### Audio\_Noah\_702\_12\_29
 _\[Doorbell\]_
@@ -4162,7 +4172,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|26 |    No     |
+|**Aroma**|27 |    No     |
 
 #### Audio\_St03\_702\_12\_29
 **Hayato**  
@@ -4303,7 +4313,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Aroma**|26 |    No     |
+|**Aroma**|27 |    No     |
 
 #### Audio\_JOE\_702\_12\_29
 **Hayato**  

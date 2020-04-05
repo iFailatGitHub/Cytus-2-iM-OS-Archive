@@ -59,7 +59,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|35 |    No     |
+|**ROBO_Head**|36 |    No     |
 
 #### Cam\_Main\_Log\_697\_04\_06\_1
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286  
@@ -81,7 +81,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|40 |    No     |
+|**ROBO_Head**|41 |    No     |
 
 #### Cam\_Main\_Log\_697\_04\_06\_2
 \[   0.3940\] Visual analyzer initialized.  
@@ -112,7 +112,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|42 |    No     |
+|**ROBO_Head**|43 |    No     |
 
 #### Cam\_Main\_Log\_697\_04\_06\_3
 \[   8.1257\] Initializing linguistic simulation  
@@ -142,7 +142,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|43 |    No     |
+|**ROBO_Head**|44 |    No     |
 
 #### Cam\_Main\_Log\_697\_04\_06\_4
 \[    4.7521\] Sound receiver activated.  
@@ -174,7 +174,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|45 |    No     |
+|**ROBO_Head**|46 |    No     |
 
 #### Cam\_Main\_Log\_697\_04\_06\_5
 \[   0.0000\] A.R.C.MimicOS 2999.10.1\-psi32\-0e5555f66c12a92eaad6956139e988a45fc8f286  
@@ -196,7 +196,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|48 |    No     |
+|**ROBO_Head**|49 |    No     |
 
 #### Mail\_Log\_702\_09\_23
 Receiving message from Node 03  
@@ -228,7 +228,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|52 |    No     |
+|**ROBO_Head**|53 |    No     |
 
 #### Main\_Log\_702\_10\_22\_1
 Internet keyword search...  
@@ -261,7 +261,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|54 |    No     |
+|**ROBO_Head**|55 |    No     |
 
 #### Main\_Log\_702\_10\_22\_2
 Inputting activity planning...  
@@ -313,7 +313,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|55 |    No     |
+|**ROBO_Head**|56 |    No     |
 
 #### Unlocked Charts
 |       Song       |  Char.  |Diff.|Lv.|
@@ -464,7 +464,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|55 |    No     |
+|**ROBO_Head**|56 |    No     |
 
 #### Main\_Log\_702\_10\_23\_2
 Physical connection to memory unit NA69X\_01...... Complete  
@@ -588,7 +588,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|56 |    No     |
+|**ROBO_Head**|57 |    No     |
 
 #### Main\_Log\_702\_10\_23\_3
 Physical connection to memory unit NA69X\_02...... Complete  
@@ -628,7 +628,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|57 |    No     |
+|**ROBO_Head**|58 |    No     |
 
 #### Main\_Log\_702\_10\_23\_4
 Recover corrupted file Cam\_Robo\_698\_06\_02  
@@ -680,7 +680,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|57 |    No     |
+|**ROBO_Head**|58 |    No     |
 
 #### Main\_Log\_702\_10\_28
 Inputting activity planning...  
@@ -747,7 +747,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|58 |    No     |
+|**ROBO_Head**|59 |    No     |
 
 #### Cam03\_Center\_702\_11\_04
 ![ros1401_72004800.png](./attachments/ros1401_72004800.png)
@@ -765,7 +765,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|59 |    No     |
+|**ROBO_Head**|60 |    No     |
 
 #### Cam\_TigerSt\_702\_11\_08\_1
 **[ROBO_Head]**  
@@ -882,7 +882,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|59 |    No     |
+|**ROBO_Head**|60 |    No     |
 
 #### Cam\_TigerSt\_702\_11\_08\_2
 **???**  
@@ -1056,7 +1056,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|60 |    No     |
+|**ROBO_Head**|61 |    No     |
 
 #### Cam\_DragonSt\_702\_11\_13
 **Pedestrian**  
@@ -1208,7 +1208,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|60 |    No     |
+|**ROBO_Head**|61 |    No     |
 
 #### Cam\_Nora'sRoom\_698\_04\_13
 **[Nora]**  
@@ -1332,7 +1332,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|60 |    No     |
+|**ROBO_Head**|61 |    No     |
 
 #### Audio\_Kyuuback\_702\_11\_15
 **Yamada**  
@@ -1472,7 +1472,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|61 |    No     |
+|**ROBO_Head**|62 |    No     |
 
 #### Cam\_KyuuLab\_702\_11\_15
 _\[Door Opens\]_
@@ -1587,7 +1587,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|61 |    No     |
+|**ROBO_Head**|62 |    No     |
 
 #### Audio\_KyuuLab\_702\_11\_15
 **Kyuu Hou Kai Member**  
@@ -1719,7 +1719,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|62 |    No     |
+|**ROBO_Head**|63 |    No     |
 
 #### Cam\_Kyuu\_702\_11\_20
 _\[Gate Opens\]_
@@ -1895,7 +1895,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|63 |    No     |
+|**ROBO_Head**|64 |    No     |
 
 #### Audio\_Kyuu\_702\_11\_22
 **[ROBO_Head]**  
@@ -1954,7 +1954,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|63 |    No     |
+|**ROBO_Head**|64 |    No     |
 
 #### Audio\_Murata\_702\_11\_22
 **Ichiro**  
@@ -2087,7 +2087,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|64 |    No     |
+|**ROBO_Head**|65 |    No     |
 
 #### Audio\_Murata\_702\_11\_27
 _\[Repairing\]_
@@ -2171,7 +2171,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|64 |    No     |
+|**ROBO_Head**|65 |    No     |
 
 #### Cam\_Murata\_702\_11\_27
 **Sonoko**  
@@ -2308,7 +2308,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|64 |    No     |
+|**ROBO_Head**|65 |    No     |
 
 #### Audio\_Nora\_702\_11\_28
 **[Nora]**  
@@ -2440,7 +2440,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|65 |    No     |
+|**ROBO_Head**|66 |    No     |
 
 #### Cam\_Nora\_702\_11\_29
 ![ros2802.png](./attachments/ros2802.png)
@@ -2516,7 +2516,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|66 |    No     |
+|**ROBO_Head**|67 |    No     |
 
 #### Audio\_Nora\_702\_11\_29\_1
 **Kyuu Hou Kai Member**  
@@ -2615,7 +2615,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|66 |    No     |
+|**ROBO_Head**|67 |    No     |
 
 #### Audio\_Nora\_702\_11\_29\_2
 **[Nora]**  
@@ -2757,8 +2757,8 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**ROBO_Head**   |67 |    No     |
-|**Crystal PuNK**|24 |    No     |
+|**ROBO_Head**   |68 |    No     |
+|**Crystal PuNK**|25 |    No     |
 
 #### Cam\_KyuuLab\_702\_12\_15
 _\[Door Opens\]_
@@ -2953,7 +2953,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|68 |    No     |
+|**ROBO_Head**|69 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_15\_3
 **[Nora]**  
@@ -3124,7 +3124,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|68 |    No     |
+|**ROBO_Head**|69 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_17
 _\[Ringtone\]_
@@ -3295,7 +3295,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|69 |    No     |
+|**ROBO_Head**|70 |    No     |
 
 #### Audio\_Bookstore\_702\_12\_24
 **ConneR**  
@@ -3441,7 +3441,7 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|69 |    No     |
+|**ROBO_Head**|70 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_24
 **ConneR**  

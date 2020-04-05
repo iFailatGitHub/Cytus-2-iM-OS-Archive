@@ -174,6 +174,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**JOE**| 2 |    No     |
+
 #### Cam\_Cafe\_687\_02\_27
 **JOE**  
 Look over there. It's that dog.
@@ -286,7 +291,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 2 |    No     |
+|**JOE**| 3 |    No     |
 
 #### Audio\_Cafe\_690\_01\_13
 _\[Doorbell\]_
@@ -371,7 +376,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 3 |    No     |
+|**JOE**| 4 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
@@ -473,7 +478,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 3 |    No     |
+|**JOE**| 4 |    No     |
 
 #### Cam\_124St\_691\_08\_12
 **Wang**  
@@ -599,7 +604,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 4 |    No     |
+|**JOE**| 5 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
@@ -738,7 +743,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 5 |    No     |
+|**JOE**| 6 |    No     |
 
 #### Cam\_Cafe\_692\_10\_21
 **Saxon**  
@@ -847,7 +852,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 6 |    No     |
+|**JOE**| 7 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
@@ -1014,7 +1019,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 7 |    No     |
+|**JOE**| 8 |    No     |
 
 #### Cam\_Velvet\_693\_08\_28
 ![jos0901.png](./attachments/jos0901.png)
@@ -1102,7 +1107,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 8 |    No     |
+|**JOE**| 9 |    No     |
 
 #### Cam\_Velvet\_693\_08\_28
 **Saxon**  
@@ -1190,7 +1195,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**| 9 |    No     |
+|**JOE**|10 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -1214,7 +1219,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|10 |    No     |
+|**JOE**|11 |    No     |
 
 #### Audio\_Cafe\_694\_04\_27
 **JOE**  
@@ -1355,7 +1360,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|10 |    No     |
+|**JOE**|11 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -1508,7 +1513,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|11 |    No     |
+|**JOE**|12 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -1665,7 +1670,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|12 |    No     |
+|**JOE**|13 |    No     |
 
 #### Audio\_Base\_696\_07\_13
 _\[Puts down box\]_
@@ -1795,7 +1800,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|13 |    No     |
+|**JOE**|14 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -1949,7 +1954,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|14 |    No     |
+|**JOE**|15 |    No     |
 
 #### Image\_Graveyard\_697\_04\_16
 ![jos1701.png](./attachments/jos1701.png)
@@ -1968,7 +1973,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|15 |    No     |
+|**JOE**|16 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -2076,7 +2081,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|16 |    No     |
+|**JOE**|17 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -2113,7 +2118,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|17 |    No     |
+|**JOE**|18 |    No     |
 
 #### Audio\_Cafe\_697\_08\_19
 _\[Doorbell\]_
@@ -2238,7 +2243,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|17 |    No     |
+|**JOE**|18 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2392,7 +2397,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|18 |    No     |
+|**JOE**|19 |    No     |
 
 #### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
@@ -2497,7 +2502,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|19 |    No     |
+|**JOE**|20 |    No     |
 
 #### Unlocked Charts
 |          Song           |Char.|Diff.|Lv.|
@@ -2651,7 +2656,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|20 |    No     |
+|**JOE**|21 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2793,7 +2798,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|21 |    No     |
+|**JOE**|22 |    No     |
 
 #### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
@@ -2822,7 +2827,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|22 |    No     |
+|**JOE**|23 |    No     |
 
 #### Unlocked Charts
 |          Song           |Char.|Diff.|Lv.|
@@ -2986,7 +2991,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|22 |    No     |
+|**JOE**|23 |    No     |
 
 #### Image\_Zark\_700\_02\_20
 ![jos2701.png](./attachments/jos2701.png)
@@ -3007,7 +3012,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|24 |    No     |
+|**JOE**|25 |    No     |
 
 #### Cam\_Cafe\_702\_10\_01
 _\[Doorbell\]_
@@ -3120,7 +3125,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|24 |    No     |
+|**JOE**|25 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -3148,7 +3153,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|25 |    No     |
+|**JOE**|26 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -3266,7 +3271,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|26 |    No     |
+|**JOE**|27 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -3433,7 +3438,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|27 |    No     |
+|**JOE**|28 |    No     |
 
 #### Audio\_Base\_702\_09\_30
 _\[Door Opens\]_
@@ -3594,7 +3599,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|28 |    No     |
+|**JOE**|29 |    No     |
 
 #### Audio\_Cafe\_702\_10\_19
 **[News]**  
@@ -3763,7 +3768,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|29 |    No     |
+|**JOE**|30 |    No     |
 
 #### cyTus\_Server03\_702\_11\_03
 **JOE**  
@@ -3897,7 +3902,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|30 |    No     |
+|**JOE**|31 |    No     |
 
 #### cyTus\_Server03\_702\_11\_06
 **[cyTus System]**  
@@ -4000,7 +4005,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|31 |    No     |
+|**JOE**|32 |    No     |
 
 #### Cam\_CArea\_702\_11\_08
 _\[Footsteps\]_
@@ -4136,7 +4141,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|32 |    No     |
+|**JOE**|33 |    No     |
 
 #### Audio\_St91\_702\_11\_10
 _\[Door Opens\]_
@@ -4299,7 +4304,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|33 |    No     |
+|**JOE**|34 |    No     |
 
 #### Audio\_Cafe\_702\_11\_17
 _\[Door Opens\]_
@@ -4452,7 +4457,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|33 |    No     |
+|**JOE**|34 |    No     |
 
 #### Audio\_Cafe\_702\_11\_17
 _\[Phone Rings\]_
@@ -4550,7 +4555,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|34 |    No     |
+|**JOE**|35 |    No     |
 
 #### Audio\_Baro\_702\_12\_21\_1
 _\[Door Opens\]_
@@ -4699,7 +4704,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|34 |    No     |
+|**JOE**|35 |    No     |
 
 #### Audio\_Baro\_702\_12\_21\_2
 **Zheng**  
@@ -4877,7 +4882,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**JOE**|35 |    No     |
+|**JOE**|36 |    No     |
 
 #### Audio\_Factory\_702\_12\_28
 _\[Hurried Footsteps\]_

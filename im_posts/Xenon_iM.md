@@ -72,7 +72,7 @@ More music from Xenon, yeah. GL on the job! \\x/
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 2 |    No     |
+|**NEKO#ΦωΦ**| 3 |    No     |
 
 ### Preparing broadcast for new song.
 **Xenon**  
@@ -129,7 +129,7 @@ SOLO is awesome!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 6 |    No     |
+|**PAFF**| 7 |    No     |
 
 ### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -199,7 +199,7 @@ PM.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**| 7 |    No     |
+|**NEKO#ΦωΦ**| 8 |    No     |
 
 ### About Æsir\-FEST.
 **Xenon**  
@@ -267,7 +267,7 @@ Node03: Just according to Keikaku!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 8 |    No     |
+|**PAFF**| 9 |    No     |
 
 ### \[Ticket Request\] One in physical area A for 7th PAFFCON.
 **Xenon**  
@@ -337,7 +337,7 @@ NEKO\#ΦωΦ's mixtape logic this Unit can't analyze.：l
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|12 |    No     |
+|**PAFF**|13 |    No     |
 
 ### About Xenon and this iM account.
 **Xenon**  
@@ -410,7 +410,7 @@ Xenon I love you!!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|14 |    No     |
+|**PAFF**|15 |    No     |
 
 ### About the optic guitar.
 **Xenon**  
@@ -492,7 +492,7 @@ JOE close that JOEZ Cafe and make a comeback!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|16 |    No     |
+|**NEKO#ΦωΦ**|17 |    No     |
 
 ### My band members.
 **Xenon**  
@@ -576,7 +576,7 @@ You made the other members stand out too much!!! lol
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|18 |    No     |
+|**NEKO#ΦωΦ**|19 |    No     |
 
 ### Pray for PAFF.
 **Xenon**  
@@ -658,7 +658,7 @@ Sounds reliable but both identities sound so gross... (Φ  ωΦ)
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|21 |    No     |
+|**ROBO_Head**|22 |    No     |
 
 ### Teaser for new song "Black Hole".
 **Xenon**  
@@ -727,7 +727,7 @@ YAAASSSSSSS!!! \\x/\\x/\\x/\\x/\\x/
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|21 |    No     |
+|**PAFF**|22 |    No     |
 
 ### Virtual space performance is very successful. 
 **Xenon**  
@@ -810,8 +810,8 @@ The new song is really good!!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |28 |    No     |
-|**ROBO_Head**|28 |    No     |
+|**PAFF**     |29 |    No     |
+|**ROBO_Head**|29 |    No     |
 
 ### Please Calm Down.
 **Xenon**  
@@ -916,7 +916,7 @@ Someone send help. It's only been days, but the lack of NEKO streams are killing
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|32 |    No     |
+|**ROBO_Head**|33 |    No     |
 
 ### Some things must be stated clearly
 **Xenon**  
@@ -1007,7 +1007,7 @@ Should we boycott these terrible reports（￣へ￣）
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|37 |    No     |
+|**NEKO#ΦωΦ**|38 |    No     |
 
 ### Listen, all of you
 **Xenon**  
@@ -1100,7 +1100,7 @@ You shouldn’t take retards who trust info from stupid gossip magazines serious
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|48 |    No     |
+|**NEKO#ΦωΦ**|49 |    No     |
 
 ### It felt like forever since I last picked up the guitar.
 **Xenon**  
@@ -1166,10 +1166,10 @@ Thanks. I will if I have the time.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |54 |    Yes    |
-|**NEKO#ΦωΦ** |54 |    Yes    |
-|**ROBO_Head**|54 |    Yes    |
-|**Ivy**      |24 |    Yes    |
+|**PAFF**     |55 |    Yes    |
+|**NEKO#ΦωΦ** |55 |    Yes    |
+|**ROBO_Head**|55 |    Yes    |
+|**Ivy**      |25 |    Yes    |
 
 ### 　　　　　　　　　　
 **Xenon**  

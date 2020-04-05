@@ -78,7 +78,7 @@ Looking forward to more music\~\~\~
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**| 2 |    No     |
+|**ROBO_Head**| 3 |    No     |
 
 ### New Instrument
 **ConneR**  
@@ -116,7 +116,7 @@ Awesome new master \\oo/
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**| 4 |    No     |
+|**ROBO_Head**| 5 |    No     |
 
 ### People from bio\-prosthetic companies may all need a prosthetic brain
 **ConneR**  
@@ -177,7 +177,7 @@ They recently had a complete management change; must still be dealing with the a
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**| 7 |    No     |
+|**ROBO_Head**| 8 |    No     |
 
 ### Border of the North Concert
 **ConneR**  
@@ -228,7 +228,7 @@ Excellent
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**| 8 |    No     |
+|**ROBO_Head**| 9 |    No     |
 
 ### Unlocked Charts
 |       Song       |  Char.  |Diff.|Lv.|
@@ -292,7 +292,7 @@ Not enough people know how to appreciate art
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|10 |    No     |
+|**PAFF**|11 |    No     |
 
 ### An era with no roots
 **ConneR**  
@@ -340,7 +340,7 @@ Doing thing in ways most people can't agree with; I guess that's my destiny
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|11 |    No     |
+|**NEKO#ΦωΦ**|12 |    No     |
 
 ### Yet another advisor position
 **ConneR**  
@@ -386,7 +386,7 @@ Go ahead, make your guess.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**| 9 |    No     |
+|**ROBO_Head**|10 |    No     |
 
 ### The Cello
 **ConneR**  
@@ -420,7 +420,7 @@ I heard it when I was visiting Node13. It's a low but melodious tune. I really l
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|14 |    No     |
+|**ROBO_Head**|15 |    No     |
 
 ### \[Repost\] Acclaimed scholar Colin Neumann Jr. named head of AI research project 
 **ConneR**  
@@ -480,7 +480,7 @@ Only A.R.C. can have a project that catches Sensei's eye. Other minor stuff is n
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|16 |    No     |
+|**PAFF**|17 |    No     |
 
 ### What is Archaeology
 **ConneR**  
@@ -518,7 +518,7 @@ Thank you Sensei for giving your point of view. I learned a lot!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|18 |    No     |
+|**ROBO_Head**|19 |    No     |
 
 ### Treasures of the Past
 **ConneR**  
@@ -565,7 +565,7 @@ Master Colin is our only hope
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|20 |    No     |
+|**ROBO_Head**|21 |    No     |
 
 ### \[Repost\] A.R.C looking for professional Ruins explorer
 **ConneR**  
@@ -623,7 +623,7 @@ I applied. Hope we can change them from the inside.
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|22 |    No     |
+|**NEKO#ΦωΦ**|23 |    No     |
 
 ### The Saxophone
 **ConneR**  
@@ -671,7 +671,7 @@ I feel that Node13 is the perfect place to forget all the annoying stuff in live
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|22 |    No     |
+|**PAFF**|23 |    No     |
 
 ### The sincerest instance, right here, right now
 **ConneR**  
@@ -747,7 +747,7 @@ I can't wait for the next performance to be here!!!!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|25 |    No     |
+|**ROBO_Head**|26 |    No     |
 
 ### The truth of this world
 **ConneR**  
@@ -799,7 +799,7 @@ Follow Sensei\~\~\~
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|28 |    No     |
+|**PAFF**|29 |    No     |
 
 ### Emptiness
 **ConneR**  
@@ -854,7 +854,7 @@ I don't get Æsir's intentions. Like what benefit does he get by erasing the mem
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|31 |    No     |
+|**NEKO#ΦωΦ**|32 |    No     |
 
 ### Those long lost memories
 **ConneR**  
@@ -909,7 +909,7 @@ DENIED
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|38 |    No     |
+|**ROBO_Head**|39 |    No     |
 
 ### Let me tell everyone a quick anecdote
 **ConneR**  
@@ -964,7 +964,7 @@ Sensei, can you post this to NNN's social commentary column pretty pls XD
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|45 |    No     |
+|**ROBO_Head**|46 |    No     |
 
 ### Overlords
 **ConneR**  
@@ -1054,7 +1054,7 @@ A.R.C. agreed to let Sensei give a lecture!? You bet your a\*\* that I'm going t
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|47 |    No     |
+|**NEKO#ΦωΦ**|48 |    No     |
 
 ### Lecture at the Academy
 **ConneR**  
@@ -1123,9 +1123,9 @@ Thank you so much! I look forward to meeting you!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |51 |    Yes    |
-|**NEKO#ΦωΦ** |51 |    Yes    |
-|**ROBO_Head**|51 |    Yes    |
+|**PAFF**     |52 |    Yes    |
+|**NEKO#ΦωΦ** |52 |    Yes    |
+|**ROBO_Head**|52 |    Yes    |
 
 ### The O͠҉̷͘͞I̵͏\*͘͟6̧̛̀͢͜L̸̸̡͏̡N̷̡̕Ǫ̴̶̵ the Academy I̡̢͞H̴́)̶̀͘8̸҉̢̀̕7̸̨͏̶g̶̡t̴̡͢7͏͢͝/́̀͢͠͝
 **ConneR**  

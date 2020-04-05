@@ -15,7 +15,7 @@
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|34 |    No     |
+|**ROBO_Head**|35 |    No     |
 
 ### Yo, yo check this out\~ a new event!!
 **JOEZ Cafe**  
@@ -73,7 +73,7 @@ Owner don't feed us ketchup water and pretend it's a drink (・3・)
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|37 |    No     |
+|**ROBO_Head**|38 |    No     |
 
 ### WTF!?
 **JOEZ Cafe**  
@@ -142,7 +142,7 @@ Wait, what? What happened????
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|38 |    No     |
+|**ROBO_Head**|39 |    No     |
 
 ### OHHH\~\~\~\~\~\~ my beloved one
 **JOEZ Cafe**  
@@ -230,7 +230,7 @@ I can already imagine Xenon rolling his eyes so hard that he can see inside his 
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|42 |    No     |
+|**PAFF**|43 |    No     |
 
 ### King of Germs owner has had enough!!!
 **JOEZ Cafe**  
@@ -310,7 +310,7 @@ Xenon is completely speechless XD
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|42 |    No     |
+|**NEKO#ΦωΦ**|43 |    No     |
 
 ### I welcome everyone to come and try out the billiards table!!
 **JOEZ Cafe**  
@@ -387,7 +387,7 @@ Billiards god of Quadrant III...
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|45 |    No     |
+|**NEKO#ΦωΦ**|46 |    No     |
 
 ### Super\-popular streamer in shop right now!!!
 **JOEZ Cafe**  
@@ -448,7 +448,7 @@ I shall disown you as a friend for thirty seconds, starting... now!!!
 ### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|51 |    No     |
+|**NEKO#ΦωΦ**|52 |    No     |
 
 ### What kind of nonsense BS are they spewing
 **JOE**  

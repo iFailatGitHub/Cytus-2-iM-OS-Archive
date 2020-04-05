@@ -91,7 +91,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|35 |    No     |
+|**PAFF**|36 |    No     |
 
 #### Show\_693\_03\_16
 **Host**  
@@ -224,7 +224,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|37 |    No     |
+|**PAFF**|38 |    No     |
 
 #### Cam\_Noah\_693\_03\_16
 _\[Door opens\]_
@@ -371,7 +371,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|38 |    No     |
+|**PAFF**|39 |    No     |
 
 #### Call\_Chris\_693\_03\_29
 **Chris**  
@@ -481,7 +481,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|39 |    No     |
+|**PAFF**|40 |    No     |
 
 #### Cam\_Noah\_693\_05\_11
 _\[Sings\]_
@@ -594,7 +594,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|40 |    No     |
+|**PAFF**|41 |    No     |
 
 #### Cam\_Noah\_693\_06\_13
 **[Television]**  
@@ -754,7 +754,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|41 |    No     |
+|**PAFF**|42 |    No     |
 
 #### Mail\_Chris\_693\_07\_02
 **Subj.**: Event Schedule Notice  
@@ -798,7 +798,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|42 |    No     |
+|**PAFF**|43 |    No     |
 
 #### Cam\_Noah\_693\_08\_14
 _\[Knocks\]_
@@ -959,7 +959,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|43 |    No     |
+|**PAFF**|44 |    No     |
 
 #### Audio\_NMobile\_693\_08\_14
 **Noah**  
@@ -1115,7 +1115,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|44 |    No     |
+|**PAFF**|45 |    No     |
 
 #### Cam\_NDrivRec\_693\_08\_15
 _\[Engine Sound\]_
@@ -1229,7 +1229,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|45 |    No     |
+|**PAFF**|46 |    No     |
 
 #### Cam094\_ARC\_H\_694\_05\_15
 _\[Door Opens\]_
@@ -1314,7 +1314,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|48 |    No     |
+|**PAFF**|49 |    No     |
 
 #### Cam\_TunerSan\_702\_09\_25
 **[News]**  
@@ -1418,7 +1418,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|48 |    No     |
+|**PAFF**|49 |    No     |
 
 #### Cam\_Hospital\_693\_08\_16
 **Helena**  
@@ -1547,7 +1547,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|49 |    No     |
+|**PAFF**|50 |    No     |
 
 #### cyTus\_Server 08\_702\_01\_18
 **Aroma**  
@@ -1644,7 +1644,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|50 |    No     |
+|**PAFF**|51 |    No     |
 
 #### Audio\_Arena\_702\_07\_27
 _\[Door Opens\]_
@@ -1766,7 +1766,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|50 |    No     |
+|**PAFF**|51 |    No     |
 
 #### Audio\_ARC\_H\_702\_07\_28
 **Aroma**  
@@ -1826,7 +1826,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|50 |    No     |
+|**PAFF**|51 |    No     |
 
 #### Audio\_Noah\_702\_08\_03
 _\[Door Opens\]_
@@ -1966,7 +1966,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|51 |    No     |
+|**PAFF**|52 |    No     |
 
 #### Audio\_Noah\_702\_09\_01
 _\[Door Knock\]_
@@ -2111,7 +2111,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|52 |    No     |
+|**PAFF**|53 |    No     |
 
 #### Audio\_Noah\_702\_09\_09
 **Helena**  
@@ -2231,7 +2231,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|54 |    No     |
+|**PAFF**|55 |    No     |
 
 #### Cam\_Daily08\_702\_10\_18
 **Hayato**  
@@ -2384,7 +2384,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|53 |    No     |
+|**PAFF**|54 |    No     |
 
 #### Audio\_Xmas\_688\_12\_24\_1
 **Shop Owner**  
@@ -2498,7 +2498,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|53 |    No     |
+|**PAFF**|54 |    No     |
 
 #### Audio\_Xmas\_701\_12\_24
 **Helena**  
@@ -2581,7 +2581,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|53 |    No     |
+|**PAFF**|54 |    No     |
 
 #### Audio\_Xmas\_688\_12\_24\_2
 _\[Collecting Tableware\]_
@@ -2760,7 +2760,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|55 |    No     |
+|**PAFF**|56 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -2886,7 +2886,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|55 |    No     |
+|**PAFF**|56 |    No     |
 
 #### Image\_Academy\_702\_10\_07
 ![pos2401_19201280.png](./attachments/pos2401_19201280.png)
@@ -2902,7 +2902,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|56 |    No     |
+|**PAFF**|57 |    No     |
 
 #### Audio\_St07\_702\_10\_20
 **Hayato**  
@@ -3035,7 +3035,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|57 |    No     |
+|**PAFF**|58 |    No     |
 
 #### Audio\_Asakura\_702\_10\_07
 _\[Door Closes\]_
@@ -3187,7 +3187,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|58 |    No     |
+|**PAFF**|59 |    No     |
 
 #### Audio\_Daily08\_702\_10\_23
 **Susan**  
@@ -3321,7 +3321,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|59 |    No     |
+|**PAFF**|60 |    No     |
 
 #### Cam\_Fwy01\_693\_08\_15
 ![pos2801.png](./attachments/pos2801.png)
@@ -3432,7 +3432,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|59 |    No     |
+|**PAFF**|60 |    No     |
 
 #### Audio\_Hospital\_694\_03\_28
 _\[Door Opens\]_
@@ -3602,7 +3602,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|59 |    No     |
+|**PAFF**|60 |    No     |
 
 #### Audio\_Hospital\_694\_04\_20
 **Helena**  
@@ -3726,7 +3726,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|60 |    No     |
+|**PAFF**|61 |    No     |
 
 #### Audio\_Arc\_692\_08\_13
 _\[Door Opens\]_
@@ -3843,7 +3843,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|60 |    No     |
+|**PAFF**|61 |    No     |
 
 #### Audio\_Arc\_692\_08\_20
 **[System]**  
@@ -4009,7 +4009,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|61 |    No     |
+|**PAFF**|62 |    No     |
 
 #### Cam\_ARC\_H\_694\_04\_30
 **Researcher A**  
@@ -4161,7 +4161,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|61 |    No     |
+|**PAFF**|62 |    No     |
 
 #### Cam\_ARC\_H\_694\_05\_12\_1
 [![aos3301.png](./attachments/aos3301.png)](https://youtu.be/TSBQFpbsaAA)  
@@ -4178,7 +4178,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|61 |    No     |
+|**PAFF**|62 |    No     |
 
 #### Cam\_ARC\_H\_694\_05\_12\_2
 **Researcher A**  
@@ -4274,7 +4274,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|62 |    No     |
+|**PAFF**|63 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -4432,7 +4432,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|63 |    No     |
+|**PAFF**|64 |    No     |
 
 #### Audio\_Noah\_695\_06\_05
 _\[Doorbell\]_
@@ -4575,7 +4575,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|64 |    No     |
+|**PAFF**|65 |    No     |
 
 #### Audio\_ARC\_H\_702\_07\_28
 **[TV]**  
@@ -4679,7 +4679,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|64 |    No     |
+|**PAFF**|65 |    No     |
 
 #### Cam\_Noah\_702\_09\_09
 _\[Door Opens\]_
@@ -4822,7 +4822,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|64 |    No     |
+|**PAFF**|65 |    No     |
 
 #### Audio\_Vicky\_702\_11\_14
 **NEKO#ΦωΦ**  
@@ -4960,7 +4960,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|65 |    No     |
+|**PAFF**|66 |    No     |
 
 #### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
@@ -5126,7 +5126,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|65 |    No     |
+|**PAFF**|66 |    No     |
 
 #### Unlocked Charts
 |        Song         |Char.|Diff.|Lv.|
@@ -5301,7 +5301,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|66 |    No     |
+|**PAFF**|67 |    No     |
 
 #### Audio\_Asakura\_702\_11\_14
 **NEKO#ΦωΦ**  
@@ -5453,7 +5453,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|66 |    No     |
+|**PAFF**|67 |    No     |
 
 #### Audio\_St08\_702\_11\_14
 _\[Door Opens\]_
@@ -5613,7 +5613,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|67 |    No     |
+|**PAFF**|68 |    No     |
 
 #### Cam\_Dash\_702\_11\_14
 _\[Brakes\]_
@@ -5695,7 +5695,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|68 |    No     |
+|**PAFF**|69 |    No     |
 
 #### Cam\_DragonSt\_694\_04\_25\_1
 _\[Guitar\]_
@@ -5803,7 +5803,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|68 |    No     |
+|**PAFF**|69 |    No     |
 
 #### Cam\_08Daily\_702\_11\_17
 **Vicky**  
@@ -5932,7 +5932,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|69 |    No     |
+|**PAFF**|70 |    No     |
 
 #### Cam\_Dash\_702\_11\_14
 **PAFF**  
@@ -6072,7 +6072,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|69 |    No     |
+|**PAFF**|70 |    No     |
 
 #### Audio\_Noah\_702\_11\_14
 _\[Door Opens\]_
@@ -6207,7 +6207,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|70 |    No     |
+|**PAFF**|71 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -6334,7 +6334,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|70 |    No     |
+|**PAFF**|71 |    No     |
 
 #### Cam\_Dash\_702\_11\_17
 **Helena**  
@@ -6458,7 +6458,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|70 |    No     |
+|**PAFF**|71 |    No     |
 
 #### Audio\_Cafe\_702\_11\_17
 _\[Parks car\]_
@@ -6626,7 +6626,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|71 |    No     |
+|**PAFF**|72 |    No     |
 
 #### Cam\_DragonSt\_694\_04\_25\_3
 **Hayato**  
@@ -6726,7 +6726,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|71 |    No     |
+|**PAFF**|72 |    No     |
 
 #### Image\_Base\_702\_11\_17
 ![pos5402.png](./attachments/pos5402.png)
@@ -6742,7 +6742,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|71 |    No     |
+|**PAFF**|72 |    No     |
 
 #### Audio\_Cafe\_702\_11\_17
 _\[Door Opens\]_
@@ -6897,7 +6897,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|72 |    No     |
+|**PAFF**|73 |    No     |
 
 #### Multi\_File\_P056
 _\[Footsteps\]_
@@ -7043,7 +7043,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|72 |    No     |
+|**PAFF**|73 |    No     |
 
 #### Multi\_File\_P057
 _\[→Audio\_???\_697\_12\_25\]_
@@ -7222,7 +7222,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|72 |    No     |
+|**PAFF**|73 |    No     |
 
 #### ???\_???\_??\_??\_??
 **PAFF**  
@@ -7337,8 +7337,8 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**PAFF**        |73 |    No     |
-|**Crystal PuNK**|23 |    No     |
+|**PAFF**        |74 |    No     |
+|**Crystal PuNK**|24 |    No     |
 
 #### Cam\_Ward\_702\_12\_14
 **[Nora]**  
@@ -7516,7 +7516,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|74 |    No     |
+|**PAFF**|75 |    No     |
 
 #### Audio\_Ward\_702\_12\_15
 _\[Door Opens\]_
@@ -7659,7 +7659,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|75 |    No     |
+|**PAFF**|76 |    No     |
 
 #### Audio\_KyuuLab\_702\_12\_20\_1
 _\[Data Input\]_
@@ -7797,7 +7797,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|75 |    No     |
+|**PAFF**|76 |    No     |
 
 #### Audio\_KyuuLab\_702\_12\_20\_2
 **Member D**  
@@ -7953,7 +7953,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|76 |    No     |
+|**PAFF**|77 |    No     |
 
 #### Ò̴̵́̕S̶\_͟҉͞?̕͟?̴̷̡͘?̷̡̨̀́\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 _\[Footsteps\]_

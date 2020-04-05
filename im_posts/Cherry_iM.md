@@ -16,7 +16,7 @@
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|25 |    No     |
+|**PAFF**|26 |    No     |
 
 ### 《Cherry PuNK》New Official Account
 **CherryPuNK**  
@@ -110,7 +110,7 @@ They're two sides of the same coin, no point arguing
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|26 |    No     |
+|**PAFF**|27 |    No     |
 
 ### \[Announcement\] Additional Event Announcement
 **CherryPuNK**  
@@ -217,7 +217,7 @@ Both ChP and PAFF are awesome!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|28 |    No     |
+|**PAFF**|29 |    No     |
 
 ### Thank you to everyone who came yesterday
 **CherryPuNK**  
@@ -343,7 +343,7 @@ That case was so freaky. Tend to stay away from chip surfing now\`\`
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|29 |    No     |
+|**PAFF**|30 |    No     |
 
 ### The corner of the city
 **CherryPuNK**  
@@ -456,7 +456,7 @@ From what I heard, it appears that she was already acquitted
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|33 |    No     |
+|**ROBO_Head**|34 |    No     |
 
 ### Regarding recent rumors
 **CherryPuNK**  
@@ -553,7 +553,7 @@ Wow Cherry backing up Xenon in her own statement
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|37 |    No     |
+|**PAFF**|38 |    No     |
 
 ### \[Announcement\] A thank you to fans and others for the support
 **CherryPuNK**  
@@ -641,7 +641,7 @@ Get lost
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|43 |    No     |
+|**PAFF**|44 |    No     |
 
 ### Thank you to everyone for your concerns
 **CherryPuNK**  
@@ -734,7 +734,7 @@ Everyone in CP all seems to be really close to each other
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|46 |    No     |
+|**PAFF**|47 |    No     |
 
 ### ROBO\_Radio\_LIVE performance announcement
 **Cherry**  

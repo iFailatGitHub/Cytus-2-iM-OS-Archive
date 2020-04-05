@@ -165,6 +165,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Rin**| 2 |    No     |
+
 #### Unlocked Charts
 |             Song             |Char.|Diff.|Lv.|
 |------------------------------|:---:|:---:|:-:|
@@ -340,7 +345,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 2 |    No     |
+|**Rin**| 3 |    No     |
 
 #### Cam\_YazawaRI\_494\_12\_25
 **Rin**  
@@ -512,7 +517,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 3 |    No     |
+|**Rin**| 4 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -666,7 +671,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 4 |    No     |
+|**Rin**| 5 |    No     |
 
 #### Audio\_Academy\_495\_03\_21
 **Rin**  
@@ -814,7 +819,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 5 |    No     |
+|**Rin**| 6 |    No     |
 
 #### Audio\_Academy\_495\_08\_28
 **Rin**  
@@ -986,7 +991,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 6 |    No     |
+|**Rin**| 7 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -1141,7 +1146,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 7 |    No     |
+|**Rin**| 8 |    No     |
 
 #### Audio\_YazawaRI\_495\_12\_11
 **Rin**  
@@ -1287,7 +1292,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 8 |    No     |
+|**Rin**| 9 |    No     |
 
 #### Audio\_Kawasaki\_495\_12\_20
 _\[Door Opens\]_
@@ -1439,7 +1444,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**| 9 |    No     |
+|**Rin**|10 |    No     |
 
 #### Cam\_YazawaRI\_495\_11\_30
 **OPCII_0584_X**  
@@ -1588,7 +1593,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|10 |    No     |
+|**Rin**|11 |    No     |
 
 #### Unlocked Charts
 | Song  |Char.|Diff.|Lv.|
@@ -1764,7 +1769,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|11 |    No     |
+|**Rin**|12 |    No     |
 
 #### Audio\_Yazawa\_496\_12\_25
 **Katsuya**  
@@ -1914,7 +1919,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|12 |    No     |
+|**Rin**|13 |    No     |
 
 #### Audio\_arch\_496\_12\_29
 _\[Data Input\]_
@@ -2106,7 +2111,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|13 |    No     |
+|**Rin**|14 |    No     |
 
 #### Audio\_Kawasaki\_497\_03\_27
 _\[Door Knock\]_
@@ -2271,7 +2276,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|14 |    No     |
+|**Rin**|15 |    No     |
 
 #### Audio\_TVstation\_497\_04\_03
 **[Speaker]**  
@@ -2432,7 +2437,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|15 |    No     |
+|**Rin**|16 |    No     |
 
 #### Unlocked Charts
 |  Song  |Char.|Diff.|Lv.|
@@ -2586,7 +2591,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|16 |    No     |
+|**Rin**|17 |    No     |
 
 #### Audio\_KumoSt\_497\_04\_03
 **Takano**  
@@ -2691,7 +2696,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|16 |    No     |
+|**Rin**|17 |    No     |
 
 #### Audio\_KumoSt\_497\_04\_03
 _\[Gunshot\]_
@@ -2827,7 +2832,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|17 |    No     |
+|**Rin**|18 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -2948,7 +2953,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|18 |    No     |
+|**Rin**|19 |    No     |
 
 #### Audio\_TsukiSt\_497\_04\_03
 **[OPCII_0584_X]**  
@@ -3055,7 +3060,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|19 |    No     |
+|**Rin**|20 |    No     |
 
 #### Cam\_TsukiSt\_497\_04\_03
 _\[Bang\]_
@@ -3160,7 +3165,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|19 |    No     |
+|**Rin**|20 |    No     |
 
 #### Cam\_TsukiSt\_497\_04\_04
 ![rios2201.png](./attachments/rios2201.png)
@@ -3306,7 +3311,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|19 |    No     |
+|**Rin**|20 |    No     |
 
 #### Image\_???\_497\_04\_04
 ![rios2301.png](./attachments/rios2301.png)
@@ -3322,7 +3327,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|19 |    No     |
+|**Rin**|20 |    No     |
 
 #### Audio\_Arc\_701\_07\_03
 **Sagar**  
@@ -3463,7 +3468,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|19 |    No     |
+|**Rin**|20 |    No     |
 
 #### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
@@ -3642,7 +3647,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Rin**|20 |    No     |
+|**Rin**|21 |    No     |
 
 #### Cam\_Arc\_702\_12\_17
 _\[Call Starts\]_

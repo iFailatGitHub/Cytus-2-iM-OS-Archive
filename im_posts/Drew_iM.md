@@ -10,7 +10,7 @@
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|19 |    No     |
+|**ROBO_Head**|20 |    No     |
 
 ### New Account
 **Drew**  
@@ -29,7 +29,7 @@ I guess I'll use it only when I am by myself.
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**ROBO_Head**|25 |    No     |
+|**ROBO_Head**|26 |    No     |
 
 ### Uncomfortable environment
 **Drew**  

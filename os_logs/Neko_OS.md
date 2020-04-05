@@ -180,6 +180,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Neko**| 2 |    No     |
+
 #### Audio\_Shiraishi\_690\_08\_12
 **Saku**  
 NEKO? Come over here. Daddy and mommy have something to tell you.
@@ -308,7 +313,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 2 |    No     |
+|**Neko**| 3 |    No     |
 
 #### Cam\_Class\_I\-6\_696\_12\_01
 _\[Class Bell\]_
@@ -461,7 +466,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 2 |    No     |
+|**Neko**| 3 |    No     |
 
 #### Audio\_St07\_697\_01\_08
 **Neko**  
@@ -605,7 +610,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 3 |    No     |
+|**Neko**| 4 |    No     |
 
 #### Cam\_Dash\_697\_06\_07
 **Neko**  
@@ -768,7 +773,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 4 |    No     |
+|**Neko**| 5 |    No     |
 
 #### Cam\_NL\_697\_11\_16
 **Kouhei**  
@@ -943,7 +948,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 5 |    No     |
+|**Neko**| 6 |    No     |
 
 #### Audio\_NL\_698\_07\_07
 _\[Door Opens\]_
@@ -1094,7 +1099,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 6 |    No     |
+|**Neko**| 7 |    No     |
 
 #### Audio\_Asakura\_698\_08\_15
 _\[Door Opens\]_
@@ -1232,7 +1237,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 7 |    No     |
+|**Neko**| 8 |    No     |
 
 #### Audio\_Arcade\_698\_08\_15
 **Neko**  
@@ -1384,7 +1389,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 8 |    No     |
+|**Neko**| 9 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -1533,7 +1538,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**| 9 |    No     |
+|**Neko**|10 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -1674,7 +1679,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|10 |    No     |
+|**Neko**|11 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -1825,7 +1830,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|11 |    No     |
+|**Neko**|12 |    No     |
 
 #### Audio\_Neko\_698\_11\_24
 _\[Hurried Footsteps\]_
@@ -1979,7 +1984,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|12 |    No     |
+|**Neko**|13 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -2154,7 +2159,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|13 |    No     |
+|**Neko**|14 |    No     |
 
 #### Audio\_Arcade\_698\_12\_18
 **Neko**  
@@ -2313,7 +2318,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|13 |    No     |
+|**Neko**|14 |    No     |
 
 #### Unlocked Charts
 |  Song  |Char.|Diff.|Lv.|
@@ -2485,7 +2490,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|14 |    No     |
+|**Neko**|15 |    No     |
 
 #### Audio\_Mono\_698\_12\_19
 _\[Notification\]_
@@ -2566,7 +2571,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|14 |    No     |
+|**Neko**|15 |    No     |
 
 #### Unlocked Charts
 |  Song  |Char.|Diff.|Lv.|
@@ -2657,7 +2662,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|15 |    No     |
+|**Neko**|16 |    No     |
 
 #### Audio\_Mono\_699\_04\_12
 _\[Call Starts\]_
@@ -2739,7 +2744,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|16 |    No     |
+|**Neko**|17 |    No     |
 
 #### Cam\_Shiraishi\_699\_04\_20
 _\[Door Opens\]_
@@ -2908,7 +2913,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|17 |    No     |
+|**Neko**|18 |    No     |
 
 #### Call\_Linda\_699\_02\_25
 _\[Call Starts\]_
@@ -3041,7 +3046,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|18 |    No     |
+|**Neko**|19 |    No     |
 
 #### Audio\_Neko\_699\_05\_01
 _\[Rips contract\]_
@@ -3207,7 +3212,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|19 |    No     |
+|**Neko**|20 |    No     |
 
 #### Cam\_Asakura\_699\_05\_18
 **Neko**  
@@ -3324,7 +3329,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|19 |    No     |
+|**Neko**|20 |    No     |
 
 #### Audio\_Studio\_699\_05\_19
 _\[Door Knock\]_
@@ -3457,7 +3462,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|20 |    No     |
+|**Neko**|21 |    No     |
 
 #### Cam\_Dash\_699\_05\_20\_1
 _\[Car Engine Stops\]_
@@ -3613,7 +3618,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|21 |    No     |
+|**Neko**|22 |    No     |
 
 #### Cam\_Dash\_699\_05\_20\_2
 **Kouhei**  
@@ -3765,7 +3770,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|22 |    No     |
+|**Neko**|23 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -3903,7 +3908,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|23 |    No     |
+|**Neko**|24 |    No     |
 
 #### Unlocked Charts
 |             Song              |Char.|Diff.|Lv.|
@@ -4028,7 +4033,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|23 |    No     |
+|**Neko**|24 |    No     |
 
 #### Cam\_76st\_702\_06\_11
 **Neko**  
@@ -4140,7 +4145,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|24 |    No     |
+|**Neko**|25 |    No     |
 
 #### Unlocked Charts
 |                  Song                  |Char.|Diff.|Lv.|
@@ -4227,8 +4232,8 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|28 |    No     |
-|**Neko**        |25 |    Yes    |
+|**Crystal PuNK**|29 |    No     |
+|**Neko**        |26 |    Yes    |
 
 #### Audio\_Asakura\_702\_12\_29
 **NEKO**  
@@ -4378,7 +4383,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Neko**|26 |    No     |
+|**Neko**|27 |    No     |
 
 #### Audio\_hospital\_702\_12\_29
 _\[Notification\]_

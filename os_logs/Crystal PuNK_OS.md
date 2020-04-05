@@ -213,6 +213,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 2 |    No     |
+
 #### Audio\_KaiStudio\_702\_11\_19
 _\[Door Opens\]_
 
@@ -349,6 +354,11 @@ ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
+#### Requirements
+|     Char.      |Lv.|Lv. Locked?|
+|----------------|:-:|:---------:|
+|**Crystal PuNK**| 2 |    No     |
+
 #### Cam\_KaiStudio\_702\_11\_19
 **[NEKO]**  
 _... You be careful yourself too. Bye\-bye._
@@ -482,7 +492,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 2 |    No     |
+|**Crystal PuNK**| 3 |    No     |
 
 #### Audio\_KaiStudio\_702\_11\_20
 _\[Ringtone\]_
@@ -611,7 +621,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 3 |    No     |
+|**Crystal PuNK**| 4 |    No     |
 
 #### Unlocked Charts
 |        Song         |   Char.    |Diff.|Lv.|
@@ -785,7 +795,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 4 |    No     |
+|**Crystal PuNK**| 5 |    No     |
 
 #### Audio\_KaiStudio\_702\_11\_22
 **[TV]**  
@@ -962,7 +972,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 5 |    No     |
+|**Crystal PuNK**| 6 |    No     |
 
 #### Audio\_RuinZone\_702\_11\_25
 _\[Machine Gun\]_
@@ -1146,7 +1156,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 6 |    No     |
+|**Crystal PuNK**| 7 |    No     |
 
 #### Multi\_File\_CP008
 **Bureau Supervisor**  
@@ -1309,7 +1319,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 7 |    No     |
+|**Crystal PuNK**| 8 |    No     |
 
 #### Audio\_Luis\_689\_08\_22
 **Luis**  
@@ -1439,7 +1449,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 8 |    No     |
+|**Crystal PuNK**| 9 |    No     |
 
 #### Audio\_Butsudou\_702\_11\_22
 **Ryu**  
@@ -1592,7 +1602,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**| 9 |    No     |
+|**Crystal PuNK**|10 |    No     |
 
 #### Audio\_SusukiSt\_702\_11\_24
 **Cherry**  
@@ -1782,7 +1792,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|10 |    No     |
+|**Crystal PuNK**|11 |    No     |
 
 #### Unlocked Charts
 |    Song     |   Char.    |Diff.|Lv.|
@@ -1949,7 +1959,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|10 |    No     |
+|**Crystal PuNK**|11 |    No     |
 
 #### Cam\_SusukiSt\_702\_11\_24\_2
 **Xenon**  
@@ -2028,7 +2038,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|11 |    No     |
+|**Crystal PuNK**|12 |    No     |
 
 #### Audio\_KaiStudio\_702\_12\_01
 _\[Ringtone\]_
@@ -2155,7 +2165,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|12 |    No     |
+|**Crystal PuNK**|13 |    No     |
 
 #### Audio\_Bookstore\_702\_12\_02
 **Xenon**  
@@ -2285,7 +2295,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|12 |    No     |
+|**Crystal PuNK**|13 |    No     |
 
 #### Unlocked Charts
 |   Song   |   Char.    |Diff.|Lv.|
@@ -2479,7 +2489,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|13 |    No     |
+|**Crystal PuNK**|14 |    No     |
 
 #### Cam\_Nora\_702\_12\_02
 **[Nora]**  
@@ -2638,7 +2648,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|14 |    No     |
+|**Crystal PuNK**|15 |    No     |
 
 #### Unlocked Charts
 |      Song      |   Char.    |Diff.|Lv.|
@@ -2776,7 +2786,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|15 |    No     |
+|**Crystal PuNK**|16 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_05
 **Member D**  
@@ -2944,7 +2954,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|16 |    No     |
+|**Crystal PuNK**|17 |    No     |
 
 #### Audio\_KyuuLab\_702\_12\_07
 _\[Equipment operating\]_
@@ -3082,7 +3092,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|17 |    No     |
+|**Crystal PuNK**|18 |    No     |
 
 #### Audio\_Nora\_702\_12\_08
 **[Game Console]**  
@@ -3256,7 +3266,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|18 |    No     |
+|**Crystal PuNK**|19 |    No     |
 
 #### Multi\_File\_CP022
 _\[→Audio\_???\_695\_10\_26\]_
@@ -3401,7 +3411,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|18 |    No     |
+|**Crystal PuNK**|19 |    No     |
 
 #### Cam\_Kyuu\_702\_12\_10
 **Cherry**  
@@ -3583,7 +3593,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|19 |    No     |
+|**Crystal PuNK**|20 |    No     |
 
 #### Cam\_Cafe\_702\_12\_10
 _\[Ringtone\]_
@@ -3668,7 +3678,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|20 |    No     |
+|**Crystal PuNK**|21 |    No     |
 
 #### Audio\_Nora\_702\_12\_10\_1
 _\[Door Opens\]_
@@ -3852,7 +3862,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|20 |    No     |
+|**Crystal PuNK**|21 |    No     |
 
 #### Audio\_Nora\_702\_12\_10\_2
 _\[Call Starts\]_
@@ -3944,7 +3954,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|21 |    No     |
+|**Crystal PuNK**|22 |    No     |
 
 #### Audio\_KyuuLab\_702\_12\_11
 _\[Data Input\]_
@@ -4063,7 +4073,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|22 |    No     |
+|**Crystal PuNK**|23 |    No     |
 
 #### Cam\_Nora\_702\_12\_14
 _\[Alarm\]_
@@ -4237,7 +4247,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|22 |    No     |
+|**Crystal PuNK**|23 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_14\_1
 **[Nora]**  
@@ -4368,7 +4378,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|22 |    No     |
+|**Crystal PuNK**|23 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_14\_2
 **Xenon**  
@@ -4513,7 +4523,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|23 |    No     |
+|**Crystal PuNK**|24 |    No     |
 
 #### Cam\_Ward\_702\_12\_14
 _\[Door Opens\]_
@@ -4700,7 +4710,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|24 |    No     |
+|**Crystal PuNK**|25 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_15\_1
 _\[Lights Off\]_
@@ -4805,7 +4815,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|24 |    No     |
+|**Crystal PuNK**|25 |    No     |
 
 #### Cam\_Ward\_702\_12\_15
 _\[Kicks Door\]_
@@ -4944,7 +4954,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|25 |    No     |
+|**Crystal PuNK**|26 |    No     |
 
 #### Audio\_Kyuu\_702\_12\_15\_2
 _\[Power on\]_
@@ -5113,7 +5123,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|26 |    No     |
+|**Crystal PuNK**|27 |    No     |
 
 #### Message\_JOE\_702\_12\_21
 **JOE**  
@@ -5182,7 +5192,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|27 |    No     |
+|**Crystal PuNK**|28 |    No     |
 
 #### Unlocked Charts
 |             Song              |   Char.    |Diff.|Lv.|
@@ -5389,7 +5399,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|28 |    No     |
+|**Crystal PuNK**|29 |    No     |
 
 #### Audio\_Trans\_03\_702\_12\_26
 **[Platform Announcement]**  
@@ -5487,7 +5497,7 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|29 |    No     |
+|**Crystal PuNK**|30 |    No     |
 
 #### Audio\_ruins08\_702\_12\_26
 _\[Consecutive Gunshots\]_

@@ -139,6 +139,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|  Char.  |Lv.|Lv. Locked?|
+|---------|:-:|:---------:|
+|**Xenon**| 2 |    No     |
+
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
 |------------|:---:|:---:|:-:|
@@ -232,7 +237,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 2 |    No     |
+|**Xenon**| 3 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -328,7 +333,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 3 |    No     |
+|**Xenon**| 4 |    No     |
 
 #### Call\_Xenon\_702\_07\_01
 **JOE**  
@@ -410,7 +415,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 4 |    No     |
+|**Xenon**| 5 |    No     |
 
 #### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
@@ -483,7 +488,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 5 |    No     |
+|**Xenon**| 6 |    No     |
 
 #### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
@@ -524,7 +529,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 6 |    No     |
+|**Xenon**| 7 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -602,7 +607,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 7 |    No     |
+|**Xenon**| 8 |    No     |
 
 #### Unlocked Charts
 |      Song      |Char.|Diff.|Lv.|
@@ -679,7 +684,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 8 |    No     |
+|**Xenon**| 9 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -749,7 +754,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**| 9 |    No     |
+|**Xenon**|10 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -814,7 +819,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|10 |    No     |
+|**Xenon**|11 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -898,7 +903,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|11 |    No     |
+|**Xenon**|12 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -941,7 +946,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|12 |    No     |
+|**Xenon**|13 |    No     |
 
 #### Audio\_Arc\_702\_07\_28\_01
 **Davis**  
@@ -1011,7 +1016,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|13 |    No     |
+|**Xenon**|14 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -1091,7 +1096,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|14 |    No     |
+|**Xenon**|15 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -1133,7 +1138,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|15 |    No     |
+|**Xenon**|16 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -1217,7 +1222,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|16 |    No     |
+|**Xenon**|17 |    No     |
 
 #### Mail\_Xenon\_702\_08\_12
 **Subj.**: Black Hole Track Log  
@@ -1247,7 +1252,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|17 |    No     |
+|**Xenon**|18 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -1325,7 +1330,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|18 |    No     |
+|**Xenon**|19 |    No     |
 
 #### Mail\_Xenon\_702\_08\_16
 **Subj.**: Photos and Mixing  
@@ -1353,7 +1358,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|19 |    No     |
+|**Xenon**|20 |    No     |
 
 #### Cam\_Cafe\_702\_08\_18
 ![xos2002.png](./attachments/xos2002.png)
@@ -1467,7 +1472,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|20 |    No     |
+|**Xenon**|21 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char.|Diff.|Lv.|
@@ -1509,7 +1514,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|21 |    No     |
+|**Xenon**|22 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1610,7 +1615,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|22 |    No     |
+|**Xenon**|23 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1652,7 +1657,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|23 |    No     |
+|**Xenon**|24 |    No     |
 
 #### Unlocked Charts
 |       Song        |Char.|Diff.|Lv.|
@@ -1741,11 +1746,11 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |24 |    No     |
-|**NEKO#ΦωΦ** |24 |    No     |
-|**ROBO_Head**|24 |    No     |
-|**Xenon**    |24 |    No     |
-|**ConneR**   |24 |    No     |
+|**PAFF**     |25 |    No     |
+|**NEKO#ΦωΦ** |25 |    No     |
+|**ROBO_Head**|25 |    No     |
+|**Xenon**    |25 |    No     |
+|**ConneR**   |25 |    No     |
 
 #### Mail\_Xenon\_702\_08\_30
 **Subj.**: Captured footage of target  
@@ -1786,7 +1791,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|25 |    No     |
+|**Xenon**|26 |    No     |
 
 #### Cam11\_St07\_702\_09\_26
 **NEKO#ΦωΦ**  
@@ -1874,7 +1879,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|26 |    No     |
+|**Xenon**|27 |    No     |
 
 #### Audio\_Graveyard\_702\_09\_29
 **Xenon**  
@@ -1922,7 +1927,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|27 |    No     |
+|**Xenon**|28 |    No     |
 
 #### Audio\_Cafe\_702\_09\_30
 _\[Doorbell\]_
@@ -2073,7 +2078,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|28 |    No     |
+|**Xenon**|29 |    No     |
 
 #### Audio\_Arc\_702\_10\_18
 **Xenon**  
@@ -2174,7 +2179,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|29 |    No     |
+|**Xenon**|30 |    No     |
 
 #### Audio\_Arc\_702\_10\_30
 _\[Door Opens\]_
@@ -2327,7 +2332,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|30 |    No     |
+|**Xenon**|31 |    No     |
 
 #### Cam\_Arc\_702\_11\_01
 **Davis**  
@@ -2428,7 +2433,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|31 |    No     |
+|**Xenon**|32 |    No     |
 
 #### Cam\_08court\_702\_11\_05
 **Agent H**  
@@ -2595,7 +2600,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|32 |    No     |
+|**Xenon**|33 |    No     |
 
 #### Cam\_CArea\_702\_11\_08
 _\[Alarm\]_
@@ -2759,7 +2764,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|32 |    No     |
+|**Xenon**|33 |    No     |
 
 #### Audio\_CArea\_702\_11\_08\_1
 **[Control System]**  
@@ -2854,7 +2859,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|32 |    No     |
+|**Xenon**|33 |    No     |
 
 #### Audio\_CArea\_702\_11\_08\_2
 **Xenon**  
@@ -3006,7 +3011,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|33 |    No     |
+|**Xenon**|34 |    No     |
 
 #### Audio\_Port33\_702\_11\_10\_1
 **Cherry**  
@@ -3077,7 +3082,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|33 |    No     |
+|**Xenon**|34 |    No     |
 
 #### Audio\_Port33\_702\_11\_10\_2
 **Cherry**  
@@ -3238,7 +3243,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|34 |    No     |
+|**Xenon**|35 |    No     |
 
 #### Unlocked Charts
 |  Song   |Char.|Diff.|Lv.|
@@ -3423,7 +3428,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|35 |    No     |
+|**Xenon**|36 |    No     |
 
 #### Multi\_File\_X039
 _\[→Audio\_Kyle\_688\_04\_16\]_
@@ -3613,7 +3618,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|36 |    No     |
+|**Xenon**|37 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -3785,7 +3790,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|37 |    No     |
+|**Xenon**|38 |    No     |
 
 #### Multi\_File\_X041
 _\[→Audio\_Capt.Wood\_690\_04\_02\]_
@@ -3956,7 +3961,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|38 |    No     |
+|**Xenon**|39 |    No     |
 
 #### Multi\_File\_X042
 _\[→Audio\_Capt.Jackson\_693\_09\_31\]_
@@ -4122,7 +4127,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|39 |    No     |
+|**Xenon**|40 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -4241,7 +4246,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|39 |    No     |
+|**Xenon**|40 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
@@ -4355,7 +4360,7 @@ ___
 #### Requirements
 |  Char.  |Lv.|Lv. Locked?|
 |---------|:-:|:---------:|
-|**Xenon**|40 |    No     |
+|**Xenon**|41 |    No     |
 
 #### Multi\_File\_X045
 _\[→Audio\_Hospital01\_696\_05\_10\]_

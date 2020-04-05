@@ -117,6 +117,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**ConneR**| 2 |    No     |
+
 #### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
 |-------------------------|:----:|:---:|:-:|
@@ -186,7 +191,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 2 |    No     |
+|**ConneR**| 3 |    No     |
 
 #### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
@@ -288,7 +293,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 3 |    No     |
+|**ConneR**| 4 |    No     |
 
 #### Cam\_Arc\_702\_01\_30
 _\[Electronic Door\]_
@@ -393,7 +398,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 4 |    No     |
+|**ConneR**| 5 |    No     |
 
 #### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
@@ -472,7 +477,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 5 |    No     |
+|**ConneR**| 6 |    No     |
 
 #### Unlocked Charts
 |          Song           |Char. |Diff.|Lv.|
@@ -519,7 +524,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 6 |    No     |
+|**ConneR**| 7 |    No     |
 
 #### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
@@ -631,7 +636,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 6 |    No     |
+|**ConneR**| 7 |    No     |
 
 #### Mail\_iM\_702\_07\_01
 **Subj.**: [Reply to account transfer request] Transfer "Colin Neumann Jr." to "ConneR"  
@@ -668,7 +673,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 7 |    No     |
+|**ConneR**| 8 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
@@ -698,7 +703,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 8 |    No     |
+|**ConneR**| 9 |    No     |
 
 #### Mail\_690\_05\_14
 To my son:
@@ -727,7 +732,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**| 9 |    No     |
+|**ConneR**|10 |    No     |
 
 #### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
@@ -792,7 +797,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|10 |    No     |
+|**ConneR**|11 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
@@ -822,7 +827,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|11 |    No     |
+|**ConneR**|12 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
@@ -859,7 +864,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|12 |    No     |
+|**ConneR**|13 |    No     |
 
 #### Call\_702\_07\_12
 **ConneR**  
@@ -929,7 +934,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|13 |    No     |
+|**ConneR**|14 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char. |Diff.|Lv.|
@@ -958,7 +963,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|13 |    No     |
+|**ConneR**|14 |    No     |
 
 #### Cam\_Arc\_702\_07\_20
 ![xos0801.png](./attachments/xos0801.png)
@@ -1030,7 +1035,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|14 |    No     |
+|**ConneR**|15 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
@@ -1144,7 +1149,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|15 |    No     |
+|**ConneR**|16 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
@@ -1172,7 +1177,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|16 |    No     |
+|**ConneR**|17 |    No     |
 
 #### Cam\_Arc\_702\_07\_24
 ![xos1101.png](./attachments/xos1101.png)
@@ -1251,7 +1256,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|16 |    No     |
+|**ConneR**|17 |    No     |
 
 #### Unlocked Charts
 |         Song         |Char. |Diff.|Lv.|
@@ -1285,7 +1290,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|17 |    No     |
+|**ConneR**|18 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
@@ -1313,7 +1318,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|17 |    No     |
+|**ConneR**|18 |    No     |
 
 #### Mail\_Arc\_702\_07\_22
 **Subj.**: Job Done  
@@ -1339,7 +1344,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|18 |    No     |
+|**ConneR**|19 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1428,7 +1433,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|18 |    No     |
+|**ConneR**|19 |    No     |
 
 #### Diary\_ConneR\_702\_08\_26
 Diary Log 7020826\_ConneR  
@@ -1451,7 +1456,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|19 |    No     |
+|**ConneR**|20 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1515,7 +1520,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|20 |    No     |
+|**ConneR**|21 |    No     |
 
 #### Mail\_Arc\_702\_08\_20
 **Subj.**: Congratulations on a successful performance  
@@ -1545,7 +1550,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|20 |    No     |
+|**ConneR**|21 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
@@ -1646,7 +1651,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|21 |    No     |
+|**ConneR**|22 |    No     |
 
 #### Audio\_Arc\_702\_08\_08
 **Staff A**  
@@ -1790,7 +1795,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|22 |    No     |
+|**ConneR**|23 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1944,7 +1949,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|23 |    No     |
+|**ConneR**|24 |    No     |
 
 #### Audio\_Arc\_702\_08\_17
 _\[Electronic Door\]_
@@ -2087,7 +2092,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|24 |    No     |
+|**ConneR**|25 |    No     |
 
 #### Diary\_ConneR\_702\_08\_28
 Diary Log 7020828\_ConneR  
@@ -2112,10 +2117,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |24 |    No     |
-|**NEKO#ΦωΦ** |24 |    No     |
-|**ROBO_Head**|24 |    No     |
-|**ConneR**   |24 |    No     |
+|**PAFF**     |25 |    No     |
+|**NEKO#ΦωΦ** |25 |    No     |
+|**ROBO_Head**|25 |    No     |
+|**ConneR**   |25 |    No     |
 
 #### Unlocked Charts
 |      Song       |Char. |Diff.|Lv.|
@@ -2165,7 +2170,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|25 |    No     |
+|**ConneR**|26 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
@@ -2308,7 +2313,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|26 |    No     |
+|**ConneR**|27 |    No     |
 
 #### Audio\_Factory3\_702\_09\_21\_1
 _\[Engines turned off\]_
@@ -2444,7 +2449,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|27 |    No     |
+|**ConneR**|28 |    No     |
 
 #### Audio\_Factory3\_702\_09\_21\_2
 **ConneR**  
@@ -2570,7 +2575,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|28 |    No     |
+|**ConneR**|29 |    No     |
 
 #### Mail\_Grace\_702\_10\_22
 **Subj.**: Something is wrong with Sir  
@@ -2596,7 +2601,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|29 |    No     |
+|**ConneR**|30 |    No     |
 
 #### Cam\_Home\_702\_10\_23
 _\[Door Opens\]_
@@ -2739,7 +2744,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|30 |    No     |
+|**ConneR**|31 |    No     |
 
 #### Audio\_Arc\_702\_11\_02
 _\[Door Opens\]_
@@ -2866,7 +2871,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|31 |    No     |
+|**ConneR**|32 |    No     |
 
 #### Diary\_ConneR\_702\_11\_04
 Diary Log 7021104\_ConneR  
@@ -2901,7 +2906,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|32 |    No     |
+|**ConneR**|33 |    No     |
 
 #### Cam\_CArea\_702\_11\_08
 _\[Alarm\]_
@@ -3067,7 +3072,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|33 |    No     |
+|**ConneR**|34 |    No     |
 
 #### Audio\_Port33\_702\_11\_10
 **Cherry**  
@@ -3138,7 +3143,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|33 |    No     |
+|**ConneR**|34 |    No     |
 
 #### Cam\_Port33\_702\_11\_10
 _\[Door Opens\]_
@@ -3283,7 +3288,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|34 |    No     |
+|**ConneR**|35 |    No     |
 
 #### Audio\_Cafe\_690\_03\_16
 **Saxon**  
@@ -3338,7 +3343,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|34 |    No     |
+|**ConneR**|35 |    No     |
 
 #### Cam\_Base\_690\_03\_16
 **???**  
@@ -3520,7 +3525,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|35 |    No     |
+|**ConneR**|36 |    No     |
 
 #### Audio\_Sasha\_690\_03\_17
 **Sasha**  
@@ -3661,7 +3666,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|35 |    No     |
+|**ConneR**|36 |    No     |
 
 #### Audio\_Home\_676\_04\_08
 **Colin**  
@@ -3821,7 +3826,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|36 |    No     |
+|**ConneR**|37 |    No     |
 
 #### Audio\_St166\_690\_3\_23
 _\[Call Starts\]_
@@ -3924,7 +3929,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|36 |    No     |
+|**ConneR**|37 |    No     |
 
 #### Audio\_Graveyard\_682\_06\_16
 **Man A**  
@@ -4064,7 +4069,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|37 |    No     |
+|**ConneR**|38 |    No     |
 
 #### Cam\_Sasha\_690\_06\_30
 **ConneR**  
@@ -4221,7 +4226,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|37 |    No     |
+|**ConneR**|38 |    No     |
 
 #### Audio\_admins\_690\_07\_07
 **???**  
@@ -4363,7 +4368,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|38 |    No     |
+|**ConneR**|39 |    No     |
 
 #### Cam\_Hotel\_690\_07\_09
 **Sasha**  
@@ -4533,7 +4538,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|38 |    No     |
+|**ConneR**|39 |    No     |
 
 #### Audio\_Home\_683\_07\_09
 **Colin**  
@@ -4689,7 +4694,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|39 |    No     |
+|**ConneR**|40 |    No     |
 
 #### Unlocked Charts
 |        Song        |Char. |Diff.|Lv.|
@@ -4884,7 +4889,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|39 |    No     |
+|**ConneR**|40 |    No     |
 
 #### Multi\_Files\_686\_12\_23
 **[Tutorial System]**  
@@ -5044,7 +5049,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|40 |    No     |
+|**ConneR**|41 |    No     |
 
 #### Audio\_Truck\_690\_07\_11
 **Sasha**  
@@ -5200,7 +5205,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|40 |    No     |
+|**ConneR**|41 |    No     |
 
 #### Multi\_Files\_686\_12\_21
 **Colin**  
@@ -5335,7 +5340,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|41 |    No     |
+|**ConneR**|42 |    No     |
 
 #### Audio\_Truck\_690\_07\_11
 **Sasha**  
@@ -5444,7 +5449,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|42 |    No     |
+|**ConneR**|43 |    No     |
 
 #### Audio\_Garion's\_702\_11\_20
 _\[Call Starts\]_
@@ -5560,7 +5565,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|43 |    No     |
+|**ConneR**|44 |    No     |
 
 #### Audio\_Garion's\_702\_11\_20
 **Waiter**  
@@ -5620,7 +5625,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|44 |    No     |
+|**ConneR**|45 |    No     |
 
 #### Audio\_13St57\_702\_11\_21
 **ConneR**  
@@ -5708,7 +5713,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|45 |    No     |
+|**ConneR**|46 |    No     |
 
 #### Audio\_Sasha\_702\_11\_21
 **ConneR**  
@@ -5872,7 +5877,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|45 |    No     |
+|**ConneR**|46 |    No     |
 
 #### Audio\_Sasha\_702\_12\_15
 _\[Door Knock\]_
@@ -6051,7 +6056,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|46 |    No     |
+|**ConneR**|47 |    No     |
 
 #### Audio\_Sasha\_702\_12\_16
 **Sasha**  
@@ -6233,7 +6238,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**ConneR**|47 |    No     |
+|**ConneR**|48 |    No     |
 
 #### Audio\_13St35\_702\_12\_17
 **ConneR**  

@@ -63,7 +63,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|35 |    No     |
+|**NEKO#ΦωΦ**|36 |    No     |
 
 #### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -179,7 +179,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|37 |    No     |
+|**NEKO#ΦωΦ**|38 |    No     |
 
 #### Unlocked Charts
 |      Song      | Char.  |Diff.|Lv.|
@@ -344,7 +344,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|40 |    No     |
+|**NEKO#ΦωΦ**|41 |    No     |
 
 #### Cam11\_St07\_702\_09\_20
 **NEKO#ΦωΦ**  
@@ -509,7 +509,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|42 |    No     |
+|**NEKO#ΦωΦ**|43 |    No     |
 
 #### Cam\_NL\_702\_09\_26
 _\[Doorbell\]_
@@ -670,7 +670,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|45 |    No     |
+|**NEKO#ΦωΦ**|46 |    No     |
 
 #### Cam11\_St07\_702\_09\_29
 ![nos0502.png](./attachments/nos0502.png)
@@ -747,7 +747,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|48 |    No     |
+|**NEKO#ΦωΦ**|49 |    No     |
 
 #### Cam\_NL\_702\_09\_29
 _\[Door Opens\]_
@@ -802,7 +802,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|49 |    No     |
+|**NEKO#ΦωΦ**|50 |    No     |
 
 #### Cam\_NL\_702\_09\_29
 **NEKO#ΦωΦ**  
@@ -942,7 +942,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|51 |    No     |
+|**NEKO#ΦωΦ**|52 |    No     |
 
 #### Cam\_NL\_702\_09\_30
 **NEKO#ΦωΦ**  
@@ -1060,7 +1060,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|53 |    No     |
+|**NEKO#ΦωΦ**|54 |    No     |
 
 #### Audio\_NL\_702\_10\_04
 _\[Door Opens\]_
@@ -1222,7 +1222,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|54 |    No     |
+|**NEKO#ΦωΦ**|55 |    No     |
 
 #### Audio\_Asakura\_699\_12\_24
 _\[Door Opens\]_
@@ -1391,7 +1391,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|54 |    No     |
+|**NEKO#ΦωΦ**|55 |    No     |
 
 #### Cam\_Asakura\_699\_12\_24
 **NEKO#ΦωΦ**  
@@ -1493,7 +1493,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|55 |    No     |
+|**NEKO#ΦωΦ**|56 |    No     |
 
 #### Audio\_Asakura\_702\_10\_13
 **NEKO#ΦωΦ**  
@@ -1662,7 +1662,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|57 |    No     |
+|**NEKO#ΦωΦ**|58 |    No     |
 
 #### Audio\_Asakura\_702\_11\_01
 **NEKO#ΦωΦ**  
@@ -1838,7 +1838,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|58 |    No     |
+|**NEKO#ΦωΦ**|59 |    No     |
 
 #### Cam\_Academy\_702\_11\_06\_1
 _\[Class Bell\]_
@@ -2007,7 +2007,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|58 |    No     |
+|**NEKO#ΦωΦ**|59 |    No     |
 
 #### Cam\_Academy\_702\_11\_06\_2
 **NEKO#ΦωΦ**  
@@ -2200,7 +2200,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|59 |    No     |
+|**NEKO#ΦωΦ**|60 |    No     |
 
 #### Audio\_Cafe\_702\_11\_07\_1
 **Linda**  
@@ -2308,7 +2308,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|59 |    No     |
+|**NEKO#ΦωΦ**|60 |    No     |
 
 #### Audio\_Cafe\_702\_11\_07\_2
 **NEKO#ΦωΦ**  
@@ -2450,7 +2450,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|60 |    No     |
+|**NEKO#ΦωΦ**|61 |    No     |
 
 #### Audio\_MB\_702\_11\_10
 **NEKO#ΦωΦ**  
@@ -2601,7 +2601,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|60 |    No     |
+|**NEKO#ΦωΦ**|61 |    No     |
 
 #### Audio\_St33\_702\_11\_10
 **NEKO#ΦωΦ**  
@@ -2797,7 +2797,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|61 |    No     |
+|**NEKO#ΦωΦ**|62 |    No     |
 
 #### Audio\_Velvet\_702\_11\_12
 **Jacky**  
@@ -2947,7 +2947,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|61 |    No     |
+|**NEKO#ΦωΦ**|62 |    No     |
 
 #### Message\_Linda\_702\_11\_XX
 **Linda**  
@@ -3077,7 +3077,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|62 |    No     |
+|**NEKO#ΦωΦ**|63 |    No     |
 
 #### Cam\_St136\_695\_11\_13
 **Clara**  
@@ -3247,7 +3247,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|62 |    No     |
+|**NEKO#ΦωΦ**|63 |    No     |
 
 #### Audio\_NL\_702\_11\_13
 **PAFF**  
@@ -3387,7 +3387,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|62 |    No     |
+|**NEKO#ΦωΦ**|63 |    No     |
 
 #### Audio\_Evans\_702\_11\_14
 _\[Doorbell\]_
@@ -3463,7 +3463,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|62 |    No     |
+|**NEKO#ΦωΦ**|63 |    No     |
 
 #### Cam\_Evans\_702\_11\_14
 **Daniel**  
@@ -3606,7 +3606,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|63 |    No     |
+|**NEKO#ΦωΦ**|64 |    No     |
 
 #### Cam\_Evans\_702\_11\_14
 ![nos2602.png](./attachments/nos2602.png)
@@ -3753,7 +3753,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|64 |    No     |
+|**NEKO#ΦωΦ**|65 |    No     |
 
 #### Audio\_Cafe\_702\_11\_17
 **JOE**  
@@ -3892,7 +3892,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|65 |    No     |
+|**NEKO#ΦωΦ**|66 |    No     |
 
 #### Audio\_Trans\_08\_702\_11\_20
 _\[Platform Announcement Ring\]_
@@ -4029,7 +4029,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|65 |    No     |
+|**NEKO#ΦωΦ**|66 |    No     |
 
 #### Cam\_Trans\_08\_702\_11\_20
 **NEKO#ΦωΦ**  
@@ -4203,7 +4203,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|66 |    No     |
+|**NEKO#ΦωΦ**|67 |    No     |
 
 #### Audio\_Shiraishi\_702\_11\_22
 **NEKO#ΦωΦ**  
@@ -4339,7 +4339,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|66 |    No     |
+|**NEKO#ΦωΦ**|67 |    No     |
 
 #### Audio\_Grave\_702\_11\_23
 **PAFF**  
@@ -4508,7 +4508,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|67 |    No     |
+|**NEKO#ΦωΦ**|68 |    No     |
 
 #### Cam\_Nora\_702\_12\_14
 **[Kyuu Hou Kai System]**  
@@ -4663,7 +4663,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|68 |    No     |
+|**NEKO#ΦωΦ**|69 |    No     |
 
 #### Audio\_TigerSt\_702\_12\_15
 _\[Ringtone\]_
@@ -4807,7 +4807,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|69 |    No     |
+|**NEKO#ΦωΦ**|70 |    No     |
 
 #### Cam\_ShadowSt\_702\_12\_21
 **NEKO#ΦωΦ**  
@@ -4947,7 +4947,7 @@ ___
 #### Requirements
 |   Char.    |Lv.|Lv. Locked?|
 |------------|:-:|:---------:|
-|**NEKO#ΦωΦ**|69 |    No     |
+|**NEKO#ΦωΦ**|70 |    No     |
 
 #### Unlocked Charts
 | Song  | Char.  |Diff.|Lv.|

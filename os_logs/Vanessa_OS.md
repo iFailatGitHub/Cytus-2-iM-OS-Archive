@@ -177,6 +177,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+|   Char.   |Lv.|Lv. Locked?|
+|-----------|:-:|:---------:|
+|**Vanessa**| 2 |    No     |
+
 #### ???\_???\_143\_??\_??
 **[Shelter System]**  
 _Beginning construction of Tower 001. Everyone, please stay connected and report your progress._
@@ -315,6 +320,11 @@ ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
+#### Requirements
+|   Char.   |Lv.|Lv. Locked?|
+|-----------|:-:|:---------:|
+|**Vanessa**| 2 |    No     |
+
 #### ???\_???\_143\_??\_??
 **Ivy**  
 Given our relationship, in human society we would be called "sisters".
@@ -436,7 +446,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 2 |    No     |
+|**Vanessa**| 3 |    No     |
 
 #### ???\_???\_144\_??\_??
 **OPCI_2177_I**  
@@ -618,7 +628,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 3 |    No     |
+|**Vanessa**| 4 |    No     |
 
 #### ???\_???\_144\_??\_??
 **[Shelter System]**  
@@ -819,7 +829,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 3 |    No     |
+|**Vanessa**| 4 |    No     |
 
 #### ???\_???\_144\_??\_??
 **[Shelter System]**  
@@ -1043,8 +1053,8 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Ivy**    |59 |    No     |
-|**Vanessa**| 4 |    Yes    |
+|**Ivy**    |60 |    No     |
+|**Vanessa**| 5 |    Yes    |
 
 #### Audio\_H1001\_702\_12\_29\_1
 **[Nora]**  
@@ -1176,7 +1186,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 5 |    No     |
+|**Vanessa**| 6 |    No     |
 
 #### Audio\_St21\_702\_12\_29
 **Nate**  
@@ -1364,7 +1374,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 5 |    No     |
+|**Vanessa**| 6 |    No     |
 
 #### Audio\_St34\_702\_12\_29
 _\[Explosion\]_
@@ -1533,7 +1543,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 5 |    No     |
+|**Vanessa**| 6 |    No     |
 
 #### Unlocked Charts
 | Song  | Char. |Diff.|Lv.|
@@ -1700,7 +1710,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 6 |    No     |
+|**Vanessa**| 7 |    No     |
 
 #### Cam\_H1001\_702\_12\_29\_1
 **PAFF**  
@@ -1890,7 +1900,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 6 |    No     |
+|**Vanessa**| 7 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_2
 _\[Metal Pounding\]_
@@ -2059,7 +2069,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 7 |    No     |
+|**Vanessa**| 8 |    No     |
 
 #### Audio\_St02\_702\_12\_29
 **JOE**  
@@ -2190,7 +2200,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 8 |    No     |
+|**Vanessa**| 9 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_3
 **Xenon**  
@@ -2348,7 +2358,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 8 |    No     |
+|**Vanessa**| 9 |    No     |
 
 #### Cam\_H1001\_702\_12\_29\_2
 **[Nora]**  
@@ -2566,7 +2576,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**| 9 |    No     |
+|**Vanessa**|10 |    No     |
 
 #### Unlocked Charts
 |  Song  | Char. |Diff.|Lv.|
@@ -2799,7 +2809,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|10 |    No     |
+|**Vanessa**|11 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_5
 **[Nora]**  
@@ -2989,7 +2999,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|11 |    No     |
+|**Vanessa**|12 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_6
 **Noah**  
@@ -3122,7 +3132,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|11 |    Yes    |
+|**Vanessa**|12 |    Yes    |
 
 #### Cam\_???\_702\_12\_29
 [![vos1901.png](./attachments/vos1901.png)](https://youtu.be/wFGIdbWGBFI)  
@@ -3139,7 +3149,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|12 |    No     |
+|**Vanessa**|13 |    No     |
 
 #### Unlocked Charts
 |               Song               | Char. |Diff.|Lv.|
@@ -3292,7 +3302,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|12 |    No     |
+|**Vanessa**|13 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_7
 **ConneR**  
@@ -3434,7 +3444,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|13 |    No     |
+|**Vanessa**|14 |    No     |
 
 #### Audio\_A1\_702\_12\_29
 **JOE**  
@@ -3565,7 +3575,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|13 |    No     |
+|**Vanessa**|14 |    No     |
 
 #### Cam\_A1012\_702\_12\_29
 **[?̷̡͘͠?̨̢͟?̶̡͘?̶̢?̶͝?́͡͠?̸̛͢]**  
@@ -3713,7 +3723,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|14 |    No     |
+|**Vanessa**|15 |    No     |
 
 #### Audio\_A1012\_702\_12\_29
 _\[Consecutive Gunshots\]_
@@ -3893,7 +3903,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|14 |    No     |
+|**Vanessa**|15 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_8
 **PAFF**  
@@ -4064,7 +4074,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|15 |    No     |
+|**Vanessa**|16 |    No     |
 
 #### Audio\_C3\_702\_12\_29
 **Ivy**  
@@ -4212,7 +4222,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|16 |    No     |
+|**Vanessa**|17 |    No     |
 
 #### Unlocked Charts
 |   Song    | Char. |Diff.|Lv.|
@@ -4418,7 +4428,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|16 |    No     |
+|**Vanessa**|17 |    No     |
 
 #### Unlocked Charts
 | Song  | Char. |Diff.|Lv.|
@@ -4635,7 +4645,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|17 |    No     |
+|**Vanessa**|18 |    No     |
 
 #### Audio\_St02\_702\_12\_29
 **Team Member A**  
@@ -4823,7 +4833,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|18 |    No     |
+|**Vanessa**|19 |    No     |
 
 #### Cam\_hall\_702\_12\_29\_1
 **Team Member C**  
@@ -4973,7 +4983,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|19 |    No     |
+|**Vanessa**|20 |    No     |
 
 #### Audio\_hall\_702\_12\_29\_2
 **ConneR**  
@@ -5162,7 +5172,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|19 |    No     |
+|**Vanessa**|20 |    No     |
 
 #### Audio\_H0C21\_702\_12\_29
 **Team Member A**  
@@ -5313,7 +5323,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|20 |    No     |
+|**Vanessa**|21 |    No     |
 
 #### Audio\_St06\_702\_12\_29
 **[Drone]**  
@@ -5491,7 +5501,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|21 |    No     |
+|**Vanessa**|22 |    No     |
 
 #### Cam\_hall\_702\_12\_29\_2
 **JOE**  
@@ -5683,7 +5693,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|22 |    No     |
+|**Vanessa**|23 |    No     |
 
 #### Audio\_hall\_702\_12\_29\_3
 _\[Gunshot\]_
@@ -5882,7 +5892,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|23 |    No     |
+|**Vanessa**|24 |    No     |
 
 #### Audio\_Library\_702\_12\_29
 _\[Hurried Footsteps\]_
@@ -6064,7 +6074,7 @@ ___
 #### Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|24 |    No     |
+|**Vanessa**|25 |    No     |
 
 #### Unlocked Charts
 |            Song             | Char. |Diff.|Lv.|
@@ -6075,9 +6085,9 @@ ___
 |**V. //System Offline//**    |Vanessa|Easy | 4 |
 |**V. //System Offline//**    |Vanessa|Hard | 8 |
 |**V. //System Offline//**    |Vanessa|Chaos|13 |
-|**Ⅱ́̕**                        |Vanessa|Easy | 5 |
-|**Ⅱ́̕**                        |Vanessa|Hard | 9 |
-|**Ⅱ́̕**                        |Vanessa|Chaos|14 |
+|** ͟͝͞Ⅱ́̕  **                |Vanessa|Easy | 5 |
+|** ͟͝͞Ⅱ́̕  **                |Vanessa|Hard | 9 |
+|** ͟͝͞Ⅱ́̕  **                |Vanessa|Chaos|14 |
 
 #### Cam\_Library\_702\_12\_29
 **Ivy**  

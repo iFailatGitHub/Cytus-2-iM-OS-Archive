@@ -112,6 +112,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 2 |    No     |
+
 #### Command Code
 The command code is `2501004`.
 
@@ -166,6 +171,11 @@ ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**| 2 |    No     |
+
 #### Image\_???\_699\_12\_23
 ![ivos0301.png](./attachments/ivos0301.png)
 
@@ -180,7 +190,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 2 |    No     |
+|**Ivy**| 3 |    No     |
 
 #### Cam\_???\_699\_12\_25
 _\[Footsteps\]_
@@ -242,7 +252,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 3 |    No     |
+|**Ivy**| 4 |    No     |
 
 #### Main\_Log\_699\_12\_28
 Been six days since I woke up, and I haven't even made it out of the jungle... It appears that the distance is much further than I imagined. It seems like there is no end to the wall of green. Fortunately, food sources are abundant. 
@@ -264,7 +274,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 4 |    No     |
+|**Ivy**| 5 |    No     |
 
 #### Command Code
 The command code is `2501004`.
@@ -423,7 +433,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 5 |    No     |
+|**Ivy**| 6 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -504,7 +514,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 6 |    No     |
+|**Ivy**| 7 |    No     |
 
 #### Main\_Log\_699\_12\_30
 Been following those humans for the entire day... They seem to refer to themselves as "Exploration team". The words "Eagle\-01" can be seen on their equipment. They took that creature away. I wonder how it is going to be treated?
@@ -528,7 +538,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 7 |    No     |
+|**Ivy**| 8 |    No     |
 
 #### Command Code
 The command code is `2501004`.
@@ -685,7 +695,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**| 8 |    No     |
+|**Ivy**| 9 |    No     |
 
 #### Audio\_???\_699\_12\_31
 **Sagar**  
@@ -850,10 +860,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |24 |    No     |
-|**NEKO#ΦωΦ** |24 |    No     |
-|**ROBO_Head**|24 |    No     |
-|**Ivy**      | 9 |    Yes    |
+|**PAFF**     |25 |    No     |
+|**NEKO#ΦωΦ** |25 |    No     |
+|**ROBO_Head**|25 |    No     |
+|**Ivy**      |10 |    Yes    |
 
 #### Main\_Log\_700\_01\_01
 ...... The information obtained from Shelter 32's database index showed that it is right now the end of 699 N.A. already. If I do some basic calculations, this means I've been unconscious for...... more than five hundred years?
@@ -881,7 +891,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|10 |    No     |
+|**Ivy**|11 |    No     |
 
 #### Unlocked Charts
 |     Song      |Char.|Diff.|Lv.|
@@ -1015,7 +1025,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|11 |    No     |
+|**Ivy**|12 |    No     |
 
 #### Cam\_Drone117\_700\_01\_01
 **[Ice Cream Machine]**  
@@ -1125,7 +1135,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|11 |    No     |
+|**Ivy**|12 |    No     |
 
 #### Main\_Log\_700\_01\_02
 \[System Alert\] Insufficient power (6%). Diverting all power to maintain basic function.
@@ -1161,7 +1171,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|12 |    No     |
+|**Ivy**|13 |    No     |
 
 #### Command Code
 The command code is `2501005`.
@@ -1334,7 +1344,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|12 |    No     |
+|**Ivy**|13 |    No     |
 
 #### Cam\_Cafe\_700\_01\_02
 **Pedestrian A**  
@@ -1470,7 +1480,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|13 |    No     |
+|**Ivy**|14 |    No     |
 
 #### Cam\_Academy\_700\_01\_04
 **[Basicpedia 01]**  
@@ -1608,7 +1618,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|14 |    No     |
+|**Ivy**|15 |    No     |
 
 #### Command Code
 The command code is `2501005`.
@@ -1808,7 +1818,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|15 |    No     |
+|**Ivy**|16 |    No     |
 
 #### Audio\_ARC\_700\_03\_16
 **[Tour Guide Robot]**  
@@ -1953,7 +1963,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|16 |    No     |
+|**Ivy**|17 |    No     |
 
 #### Main\_Log\_700\_03\_17
 The virtual internet "cyTus" system that has been rewritten by humans... It's not that easy to hack into it. However, I observed quite a bit of useful information when I infiltrated A.R.C. HQ. Thus, it's not an undoable task for me either. It won't take me long to finally get a peek at when they are hiding inside their so\-called "Library".
@@ -1973,7 +1983,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|17 |    No     |
+|**Ivy**|18 |    No     |
 
 #### Command Code
 The command code is `2404049`.
@@ -2170,7 +2180,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|18 |    No     |
+|**Ivy**|19 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2216,7 +2226,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|19 |    No     |
+|**Ivy**|20 |    No     |
 
 #### Truth\_Moment\_700\_09\_18
 _\[Show starts\]_
@@ -2289,7 +2299,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|19 |    No     |
+|**Ivy**|20 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2329,7 +2339,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|20 |    No     |
+|**Ivy**|21 |    No     |
 
 #### Audio\_Graveyard\_701\_12\_02
 **Ivy**  
@@ -2420,7 +2430,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|21 |    No     |
+|**Ivy**|22 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2446,7 +2456,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|22 |    No     |
+|**Ivy**|23 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -2478,7 +2488,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|22 |    No     |
+|**Ivy**|23 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -2552,7 +2562,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|23 |    No     |
+|**Ivy**|24 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -2641,10 +2651,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |54 |    No     |
-|**NEKO#ΦωΦ** |54 |    No     |
-|**ROBO_Head**|54 |    No     |
-|**Ivy**      |24 |    Yes    |
+|**PAFF**     |55 |    No     |
+|**NEKO#ΦωΦ** |55 |    No     |
+|**ROBO_Head**|55 |    No     |
+|**Ivy**      |25 |    Yes    |
 
 #### Main\_Log\_702\_08\_24
 This attack, due to the boost from the amplifying equipment, the conversion rate is very promising... It could also be because of Neko Asakura. Her fans are all extremely restless. They provide a completely different emotion... I have to thank her for it. 
@@ -2670,7 +2680,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|25 |    No     |
+|**Ivy**|26 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -2855,7 +2865,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|26 |    No     |
+|**Ivy**|27 |    No     |
 
 #### Main\_Log\_702\_09\_01
 I did it! All the samples have been inputted into her core!
@@ -2883,7 +2893,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|27 |    No     |
+|**Ivy**|28 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -2914,7 +2924,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|28 |    No     |
+|**Ivy**|29 |    No     |
 
 #### ???\_???\_702\_09\_26
 _\[Connection\]_
@@ -3024,10 +3034,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |55 |    No     |
-|**NEKO#ΦωΦ** |55 |    No     |
-|**ROBO_Head**|55 |    No     |
-|**Ivy**      |29 |    Yes    |
+|**PAFF**     |56 |    No     |
+|**NEKO#ΦωΦ** |56 |    No     |
+|**ROBO_Head**|56 |    No     |
+|**Ivy**      |30 |    Yes    |
 
 #### Unlocked Charts
 | Song  |Char.|Diff.|Lv.|
@@ -3056,7 +3066,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|30 |    No     |
+|**Ivy**|31 |    No     |
 
 #### ???\_???\_149\_??\_??
 _\[Runs\]_
@@ -3185,7 +3195,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|31 |    No     |
+|**Ivy**|32 |    No     |
 
 #### Audio\_???\_702\_10\_25
 **Vanessa**  
@@ -3316,7 +3326,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|32 |    No     |
+|**Ivy**|33 |    No     |
 
 #### ???\_???\_149\_??\_??
 **OPCI_2503_III**  
@@ -3355,7 +3365,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|33 |    No     |
+|**Ivy**|34 |    No     |
 
 #### Audio\_???\_702\_11\_02
 **Ivy**  
@@ -3491,7 +3501,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|34 |    No     |
+|**Ivy**|35 |    No     |
 
 #### Main\_Log\_702\_11\_06
 Ran a quick check\-up. The plant experienced no errors. The images of Simon Jackson do indeed exist in Neko Asakura's brain. However, when faced with questioning from the Administration Bureau's agents, she still insisted that he is innocent...
@@ -3517,7 +3527,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|35 |    No     |
+|**Ivy**|36 |    No     |
 
 #### Audio\_???\_702\_11\_09
 **Vanessa**  
@@ -3644,7 +3654,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|36 |    No     |
+|**Ivy**|37 |    No     |
 
 #### Audio\_Graveyard\_702\_07\_13
 **Ivy**  
@@ -3806,7 +3816,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|37 |    No     |
+|**Ivy**|38 |    No     |
 
 #### Cam\_???\_702\_11\_16
 **[cyTus System]**  
@@ -3953,7 +3963,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|38 |    No     |
+|**Ivy**|39 |    No     |
 
 #### Cam\_Sam\_702\_11\_16
 **Susan**  
@@ -4061,7 +4071,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|39 |    No     |
+|**Ivy**|40 |    No     |
 
 #### Cam\_Arc\_702\_11\_26
 _\[Door Opens\]_
@@ -4202,7 +4212,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|40 |    No     |
+|**Ivy**|41 |    No     |
 
 #### Audio\_08GateC\_702\_11\_26
 **Sagar**  
@@ -4361,7 +4371,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|40 |    No     |
+|**Ivy**|41 |    No     |
 
 #### Cam\_61St\_702\_11\_26
 _\[Drones flying\]_
@@ -4515,7 +4525,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|41 |    No     |
+|**Ivy**|42 |    No     |
 
 #### Audio\_???\_702\_11\_29
 **Ivy**  
@@ -4623,7 +4633,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|42 |    No     |
+|**Ivy**|43 |    No     |
 
 #### Audio\_Ivy\_702\_12\_08
 **Noah**  
@@ -4729,7 +4739,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|43 |    No     |
+|**Ivy**|44 |    No     |
 
 #### Audio\_???\_702\_12\_02
 **Ivy**  
@@ -4899,7 +4909,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|44 |    No     |
+|**Ivy**|45 |    No     |
 
 #### Audio\_???\_702\_12\_05
 **Ivy**  
@@ -5075,7 +5085,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|45 |    No     |
+|**Ivy**|46 |    No     |
 
 #### Audio\_Ivy\_702\_12\_09
 **[News]**  
@@ -5255,7 +5265,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|45 |    No     |
+|**Ivy**|46 |    No     |
 
 #### Cam\_Ivy\_702\_12\_09
 **Ivy**  
@@ -5444,7 +5454,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|46 |    No     |
+|**Ivy**|47 |    No     |
 
 #### Image\_???\_702\_12\_09
 ![ivos5401.png](./attachments/ivos5401.png)
@@ -5462,7 +5472,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|47 |    No     |
+|**Ivy**|48 |    No     |
 
 #### Audio\_Trans\_702\_12\_29
 _\[Train door closes\]_
@@ -5550,7 +5560,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|48 |    No     |
+|**Ivy**|49 |    No     |
 
 #### Audio\_Kyuu08\_702\_12\_29\_1
 _\[Door Opens\]_
@@ -5649,7 +5659,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|49 |    No     |
+|**Ivy**|50 |    No     |
 
 #### Audio\_KLab08\_702\_12\_29\_3
 _\[Door Opens\]_
@@ -5830,7 +5840,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|50 |    No     |
+|**Ivy**|51 |    No     |
 
 #### Audio\_E3\_702\_12\_29
 _\[Explosion\]_
@@ -5927,7 +5937,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|50 |    No     |
+|**Ivy**|51 |    No     |
 
 #### Audio\_St15\_702\_12\_29
 _\[Crowd in chaos\]_
@@ -6043,7 +6053,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|51 |    No     |
+|**Ivy**|52 |    No     |
 
 #### Audio\_E5\_702\_12\_29
 _\[Footsteps\]_
@@ -6164,7 +6174,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|52 |    No     |
+|**Ivy**|53 |    No     |
 
 #### Audio\_KLab08\_702\_12\_29\_4
 **[Nora]**  
@@ -6358,7 +6368,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|52 |    No     |
+|**Ivy**|53 |    No     |
 
 #### Cam\_St10\_702\_12\_29
 _\[Raises Gun\]_
@@ -6527,7 +6537,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|53 |    No     |
+|**Ivy**|54 |    No     |
 
 #### Audio\_St13\_702\_12\_29
 **[ROBO_Head]**  
@@ -6673,7 +6683,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|53 |    No     |
+|**Ivy**|54 |    No     |
 
 #### Cam\_St14\_702\_12\_29\_1
 _\[Door Knock\]_
@@ -6860,7 +6870,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|53 |    No     |
+|**Ivy**|54 |    No     |
 
 #### Audio\_St14\_702\_12\_29\_2
 _\[Explosion\]_
@@ -6996,7 +7006,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|54 |    No     |
+|**Ivy**|55 |    No     |
 
 #### Cam\_Kyuu08\_702\_12\_29
 _\[Door Opens\]_
@@ -7195,7 +7205,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|54 |    No     |
+|**Ivy**|55 |    No     |
 
 #### Cam\_Dash\_702\_12\_29
 _\[Engine Rumbles\]_
@@ -7385,7 +7395,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|55 |    No     |
+|**Ivy**|56 |    No     |
 
 #### Audio\_hall\_702\_12\_29
 _\[Crowd Panicking\]_
@@ -7549,7 +7559,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|55 |    No     |
+|**Ivy**|56 |    No     |
 
 #### Audio\_hospital\_702\_12\_29
 **Kouhei**  
@@ -7719,7 +7729,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|56 |    No     |
+|**Ivy**|57 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_1
 **PAFF**  
@@ -7904,7 +7914,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|57 |    No     |
+|**Ivy**|58 |    No     |
 
 #### Audio\_H1001\_702\_12\_29\_2
 _\[Connection Lost\]_
@@ -8100,7 +8110,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|57 |    No     |
+|**Ivy**|58 |    No     |
 
 #### Audio\_???\_702\_12\_29\_1
 **[ROBO_Head]**  
@@ -8276,7 +8286,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|58 |    No     |
+|**Ivy**|59 |    No     |
 
 #### Audio\_???\_702\_12\_29\_2
 **Ivy**  
@@ -8464,7 +8474,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|58 |    No     |
+|**Ivy**|59 |    No     |
 
 #### Audio\_???\_702\_12\_29\_3
 _\[»»»Fast Forward»»»\]_
@@ -8612,7 +8622,7 @@ ___
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
 |-------|:-:|:---------:|
-|**Ivy**|59 |    No     |
+|**Ivy**|60 |    No     |
 
 #### Cam\_???\_702\_12\_29\_4
 [![ivos7501.png](./attachments/ivos7501.png)](https://youtu.be/0mQsqtb8o5s)  

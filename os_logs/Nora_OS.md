@@ -141,6 +141,11 @@ ___
 
 [Last Log](#os-log-001) | [Back to Top](#list-of-logs) | [Next Log](#os-log-003)
 
+#### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 2 |    No     |
+
 #### Cam\_Robo\_697\_04\_06\_1
 _\[ROBO_Head Start-Up\]_
 
@@ -209,6 +214,11 @@ _\[Signal Lost\]_
 ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
+
+#### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**Nora**| 2 |    No     |
 
 #### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
@@ -396,7 +406,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 2 |    No     |
+|**Nora**| 3 |    No     |
 
 #### Audio\_ABO03\_688\_12\_06
 **Lam**  
@@ -477,7 +487,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 2 |    No     |
+|**Nora**| 3 |    No     |
 
 #### Audio\_Butsudou\_690\_11\_20
 **Lam**  
@@ -648,7 +658,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 3 |    No     |
+|**Nora**| 4 |    No     |
 
 #### Cam\_Robo\_697\_04\_06\_2
 **[Nora]**  
@@ -725,7 +735,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 3 |    No     |
+|**Nora**| 4 |    No     |
 
 #### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
@@ -822,7 +832,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 4 |    No     |
+|**Nora**| 5 |    No     |
 
 #### Audio\_KyuuLab\_691\_01\_23
 _\[Punches Table\]_
@@ -939,7 +949,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 5 |    No     |
+|**Nora**| 6 |    No     |
 
 #### Audio\_???\_691\_01\_23
 _\[Engines turned off\]_
@@ -1057,7 +1067,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 5 |    No     |
+|**Nora**| 6 |    No     |
 
 #### Cam\_Robo\_697\_04\_06\_03
 **[Nora]**  
@@ -1149,7 +1159,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 6 |    No     |
+|**Nora**| 7 |    No     |
 
 #### Unlocked Charts
 |           Song           |Char.|Diff.|Lv.|
@@ -1242,7 +1252,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 7 |    No     |
+|**Nora**| 8 |    No     |
 
 #### Audio\_Nora\_694\_03\_08
 _\[Door Opens\]_
@@ -1383,7 +1393,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 7 |    No     |
+|**Nora**| 8 |    No     |
 
 #### Audio\_Butsudou\_694\_09\_08
 _\[Door Opens\]_
@@ -1534,7 +1544,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 8 |    No     |
+|**Nora**| 9 |    No     |
 
 #### Unlocked Charts
 |           Song           |Char.|Diff.|Lv.|
@@ -1678,7 +1688,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 8 |    No     |
+|**Nora**| 9 |    No     |
 
 #### Audio\_Nora\_695\_03\_16
 _\[Door Opens\]_
@@ -1823,7 +1833,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 9 |    No     |
+|**Nora**|10 |    No     |
 
 #### Cam\_CLab06\_695\_04\_02
 ![noos1601.png](./attachments/noos1601.png)
@@ -1986,7 +1996,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**| 9 |    No     |
+|**Nora**|10 |    No     |
 
 #### Audio\_Dash\_695\_05\_03
 **Kim**  
@@ -2099,7 +2109,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|10 |    No     |
+|**Nora**|11 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -2220,7 +2230,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|11 |    No     |
+|**Nora**|12 |    No     |
 
 #### Audio\_KyuuLab\_695\_05\_08\_2
 **[Nora]**  
@@ -2340,7 +2350,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|12 |    No     |
+|**Nora**|13 |    No     |
 
 #### Cam\_Robo\_697\_04\_06\_4
 **[ROBO_Head]**  
@@ -2448,7 +2458,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|13 |    No     |
+|**Nora**|14 |    No     |
 
 #### Cam\_Butsudou\_697\_03\_02
 _\[Door Opens\]_
@@ -2610,7 +2620,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|14 |    No     |
+|**Nora**|15 |    No     |
 
 #### Audio\_Butsudou\_697\_03\_14
 **Phoenix**  
@@ -2782,7 +2792,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|15 |    No     |
+|**Nora**|16 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -2864,7 +2874,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|16 |    No     |
+|**Nora**|17 |    No     |
 
 #### Audio\_Butsudou\_698\_04\_13
 **Lam**  
@@ -3022,7 +3032,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|17 |    No     |
+|**Nora**|18 |    No     |
 
 #### Cam\_Nora\_698\_04\_13
 **[Nora]**  
@@ -3146,7 +3156,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|18 |    No     |
+|**Nora**|19 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -3304,7 +3314,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|19 |    No     |
+|**Nora**|20 |    No     |
 
 #### Unlocked Charts
 |         Song          |Char.|Diff.|Lv.|
@@ -3485,7 +3495,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|20 |    No     |
+|**Nora**|21 |    No     |
 
 #### ?͜͠͝?͝҉̢͜͏?̶̀
 **？？？**  
@@ -3516,7 +3526,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|21 |    No     |
+|**Nora**|22 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -3685,7 +3695,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|22 |    No     |
+|**Nora**|23 |    No     |
 
 #### Unlocked Charts
 |       Song       |Char.|Diff.|Lv.|
@@ -3726,7 +3736,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|22 |    No     |
+|**Nora**|23 |    No     |
 
 #### Cam\_Butsudou\_698\_06\_02
 _\[Door Opens\]_
@@ -3893,7 +3903,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|23 |    No     |
+|**Nora**|24 |    No     |
 
 #### Unlocked Charts
 |    Song     |Char.|Diff.|Lv.|
@@ -4063,7 +4073,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|24 |    No     |
+|**Nora**|25 |    No     |
 
 #### Cam\_Robo\_698\_06\_02
 **Member I**  
@@ -4204,8 +4214,8 @@ ___
 #### Requirements
 |     Char.      |Lv.|Lv. Locked?|
 |----------------|:-:|:---------:|
-|**Crystal PuNK**|28 |    No     |
-|**Nora**        |25 |    Yes    |
+|**Crystal PuNK**|29 |    No     |
+|**Nora**        |26 |    Yes    |
 
 #### Audio\_KLab08\_702\_12\_29\_1
 **[ROBO_Head]**  
@@ -4363,7 +4373,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|26 |    No     |
+|**Nora**|27 |    No     |
 
 #### Audio\_DownSt\_702\_12\_29
 _\[Doorbell\]_
@@ -4496,7 +4506,7 @@ ___
 #### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**Nora**|26 |    No     |
+|**Nora**|27 |    No     |
 
 #### Cam\_KLab08\_702\_12\_29\_2
 _\[Door Opens\]_

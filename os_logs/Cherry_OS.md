@@ -151,6 +151,11 @@ ___
 
 [Last Log](#os-log-002) | [Back to Top](#list-of-logs) | [Next Log](#os-log-004)
 
+#### Requirements
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 2 |    No     |
+
 #### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
 |-----------------------------------------|:----:|:---:|:-:|
@@ -225,6 +230,11 @@ _\[Signal Lost\]_
 ___
 
 [Last Log](#os-log-003) | [Back to Top](#list-of-logs) | [Next Log](#os-log-005)
+
+#### Requirements
+|  Char.   |Lv.|Lv. Locked?|
+|----------|:-:|:---------:|
+|**Cherry**| 2 |    No     |
 
 #### Message\_Group\_693\_05\_26
 _[S.J. has joined the chat group]_  
@@ -376,7 +386,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 2 |    No     |
+|**Cherry**| 3 |    No     |
 
 #### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
@@ -470,7 +480,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 3 |    No     |
+|**Cherry**| 4 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -568,7 +578,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 3 |    No     |
+|**Cherry**| 4 |    No     |
 
 #### Audio\_Cherry's\_694\_09\_06\_2
 _\[Door Opens\]_
@@ -698,7 +708,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 4 |    No     |
+|**Cherry**| 5 |    No     |
 
 #### Unlocked Charts
 |                  Song                   |Char. |Diff.|Lv.|
@@ -722,7 +732,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 4 |    No     |
+|**Cherry**| 5 |    No     |
 
 #### Audio\_Cafe\_702\_09\_06\_3
 **Cherry**  
@@ -829,7 +839,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 5 |    No     |
+|**Cherry**| 6 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -853,7 +863,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 6 |    No     |
+|**Cherry**| 7 |    No     |
 
 #### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
@@ -933,7 +943,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 6 |    No     |
+|**Cherry**| 7 |    No     |
 
 #### Audio\_Studio\_702\_09\_08\_2
 _\[Scan\]_
@@ -1020,7 +1030,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**| 7 |    No     |
+|**Cherry**| 8 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1062,8 +1072,8 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**PAFF**  |17 |    No     |
-|**Cherry**| 8 |    No     |
+|**PAFF**  |18 |    No     |
+|**Cherry**| 9 |    No     |
 
 #### Call\_Chris\_702\_09\_10
 _\[Call Starts\]_
@@ -1124,8 +1134,8 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**PAFF**  |17 |    No     |
-|**Cherry**| 9 |    No     |
+|**PAFF**  |18 |    No     |
+|**Cherry**|10 |    No     |
 
 #### Call\_Xenon\_702\_09\_11
 _\[Call Starts\]_
@@ -1204,7 +1214,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|10 |    No     |
+|**Cherry**|11 |    No     |
 
 #### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
@@ -1228,7 +1238,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|11 |    No     |
+|**Cherry**|12 |    No     |
 
 #### Unlocked Charts
 |  Song   |Char. |Diff.|Lv.|
@@ -1334,7 +1344,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|12 |    No     |
+|**Cherry**|13 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1426,7 +1436,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|13 |    No     |
+|**Cherry**|14 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1566,7 +1576,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|14 |    No     |
+|**Cherry**|15 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
@@ -1645,7 +1655,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|15 |    No     |
+|**Cherry**|16 |    No     |
 
 #### Unlocked Charts
 |    Song    |Char. |Diff.|Lv.|
@@ -1669,7 +1679,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|16 |    No     |
+|**Cherry**|17 |    No     |
 
 #### Cam\_Cherry's\_694\_09\_07
 **JOE**  
@@ -1778,7 +1788,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|17 |    No     |
+|**Cherry**|18 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
@@ -1877,7 +1887,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|18 |    No     |
+|**Cherry**|19 |    No     |
 
 #### Cam\_Xenon's\_695\_10\_26
 _\[Door Opens\]_
@@ -1985,7 +1995,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|19 |    No     |
+|**Cherry**|20 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
@@ -2108,7 +2118,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|20 |    No     |
+|**Cherry**|21 |    No     |
 
 #### Cam\_Riverside\_702\_09\_18\_1
 _\[Engines Off\]_
@@ -2201,7 +2211,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|21 |    No     |
+|**Cherry**|22 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
@@ -2316,7 +2326,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|22 |    No     |
+|**Cherry**|23 |    No     |
 
 #### Audio\_Bug\_688\_09\_18
 **Luis**  
@@ -2405,7 +2415,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|22 |    No     |
+|**Cherry**|23 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
@@ -2429,7 +2439,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|23 |    No     |
+|**Cherry**|24 |    No     |
 
 #### Cam\_Factory3\_702\_09\_18\_1
 **Xenon**  
@@ -2539,10 +2549,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |24 |    No     |
-|**NEKO#ΦωΦ** |24 |    No     |
-|**ROBO_Head**|24 |    No     |
-|**Cherry**   |24 |    No     |
+|**PAFF**     |25 |    No     |
+|**NEKO#ΦωΦ** |25 |    No     |
+|**ROBO_Head**|25 |    No     |
+|**Cherry**   |25 |    No     |
 
 #### Cam\_Factory3\_702\_09\_18\_2
 [![chos3101.png](./attachments/chos3101.png)](https://youtu.be/HYtY0lEvHvE)  
@@ -2636,10 +2646,10 @@ ___
 #### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |24 |    No     |
-|**NEKO#ΦωΦ** |24 |    No     |
-|**ROBO_Head**|24 |    No     |
-|**Cherry**   |24 |    No     |
+|**PAFF**     |25 |    No     |
+|**NEKO#ΦωΦ** |25 |    No     |
+|**ROBO_Head**|25 |    No     |
+|**Cherry**   |25 |    No     |
 
 #### Unlocked Charts
 |   Song   |Char. |Diff.|Lv.|
@@ -2666,7 +2676,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|25 |    No     |
+|**Cherry**|26 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
@@ -2750,7 +2760,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|26 |    No     |
+|**Cherry**|27 |    No     |
 
 #### Unlocked Charts
 |     Song     |Char. |Diff.|Lv.|
@@ -2865,7 +2875,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|27 |    No     |
+|**Cherry**|28 |    No     |
 
 #### Audio\_Cherry's\_702\_10\_05
 _\[Ringtone\]_
@@ -2928,7 +2938,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|28 |    No     |
+|**Cherry**|29 |    No     |
 
 #### Audio\_Cafe\_702\_10\_10
 _\[Doorbell\]_
@@ -2998,7 +3008,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|28 |    No     |
+|**Cherry**|29 |    No     |
 
 #### Cam\_Cafe\_702\_10\_11
 _\[Doorbell\]_
@@ -3106,7 +3116,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|29 |    No     |
+|**Cherry**|30 |    No     |
 
 #### Audio\_Cherry's\_702\_10\_11
 **Punk**  
@@ -3183,7 +3193,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|30 |    No     |
+|**Cherry**|31 |    No     |
 
 #### Unlocked Charts
 |   Song    |Char. |Diff.|Lv.|
@@ -3339,7 +3349,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|31 |    No     |
+|**Cherry**|32 |    No     |
 
 #### Audio\_Cell32\_702\_11\_02
 _\[Door Opens\]_
@@ -3461,7 +3471,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|32 |    No     |
+|**Cherry**|33 |    No     |
 
 #### Cam\_Cafe2\_702\_11\_05
 _\[Doorbell\]_
@@ -3612,7 +3622,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|33 |    No     |
+|**Cherry**|34 |    No     |
 
 #### Audio\_Cell32\_702\_11\_06
 _\[Heavy things falling down\]_
@@ -3718,7 +3728,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|34 |    No     |
+|**Cherry**|35 |    No     |
 
 #### Cam\_CArea\_702\_11\_08
 **Cherry**  
@@ -3903,7 +3913,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|35 |    No     |
+|**Cherry**|36 |    No     |
 
 #### Cam\_Port33\_702\_11\_10
 **Hunter**  
@@ -4087,7 +4097,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|36 |    No     |
+|**Cherry**|37 |    No     |
 
 #### Cam\_Port33\_702\_11\_10
 _\[Door Opens\]_
@@ -4273,7 +4283,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|37 |    No     |
+|**Cherry**|38 |    No     |
 
 #### vÒ̴̵́̕S̶\_͟҉͞V͢͜͡҉a͏͢?̕͟e̷̡̕?̴̷̡͘?̷̡̨̀́ą͘͟͝\_̛́͘͢?͘͜҉?͏͟?̸́\_̸̡́̀͠?̨̢̛͞͡?̶̷͜\_̡͠͠͝͡?̧͝?̴̧͠
 **Cherry**  
@@ -4328,7 +4338,7 @@ ___
 #### Requirements
 |  Char.   |Lv.|Lv. Locked?|
 |----------|:-:|:---------:|
-|**Cherry**|38 |    No     |
+|**Cherry**|39 |    No     |
 
 #### Audio\_Cell32\_702\_12\_29
 **[TV]**  

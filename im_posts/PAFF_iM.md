@@ -113,6 +113,11 @@ BOUGHT!
 
 [Last Log](#im-post-001) | [Back to Top](#list-of-posts) | [Next Log](#im-post-003)
 
+### Requirements
+| Char.  |Lv.|Lv. Locked?|
+|--------|:-:|:---------:|
+|**PAFF**| 2 |    No     |
+
 ### Unlocked Charts
 |   Song   |Char.|Diff.|Lv.|
 |----------|:---:|:---:|:-:|
@@ -174,7 +179,7 @@ Stop bundling a bunch of junk with it OK! Feels cheated!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 2 |    No     |
+|**PAFF**| 3 |    No     |
 
 ### Unlocked Charts
 |                   Song                    |Char.|Diff.|Lv.|
@@ -255,7 +260,7 @@ L\-O\-V\-E PAFF \\oo/
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 3 |    No     |
+|**PAFF**| 4 |    No     |
 
 ### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -315,7 +320,7 @@ The composers that help make the music this time are also very good. The music m
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 4 |    No     |
+|**PAFF**| 5 |    No     |
 
 ### Unlocked Charts
 |                Song                 |Char.|Diff.|Lv.|
@@ -386,7 +391,7 @@ PAFF give me strength! Please let me get one!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 5 |    No     |
+|**PAFF**| 6 |    No     |
 
 ### Unlocked Charts
 |                     Song                      |Char.|Diff.|Lv.|
@@ -453,7 +458,7 @@ Can someone post the footage? The news footage is blurry and unrecognizable. Som
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**| 7 |    No     |
+|**PAFF**| 8 |    No     |
 
 ### Unlocked Charts
 |                   Song                    |Char.|Diff.|Lv.|
@@ -525,9 +530,9 @@ Sis Helena please add some more tickets! I had my breaks arranged already! QQ
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |11 |    No     |
-|**NEKO#ΦωΦ** | 9 |    No     |
-|**ROBO_Head**| 9 |    No     |
+|**PAFF**     |12 |    No     |
+|**NEKO#ΦωΦ** |10 |    No     |
+|**ROBO_Head**|10 |    No     |
 
 ### Unlocked Charts
 |                Song                 |Char.|Diff.|Lv.|
@@ -632,7 +637,7 @@ Everyone, thank you. ^^
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|13 |    No     |
+|**PAFF**|14 |    No     |
 
 ### Unlocked Charts
 |               Song               |Char.|Diff.|Lv.|
@@ -708,7 +713,7 @@ No wonder you guys are called Puffs, since your brains have nothing but white cr
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|15 |    No     |
+|**PAFF**|16 |    No     |
 
 ### Unlocked Charts
 |               Song               |Char.|Diff.|Lv.|
@@ -807,7 +812,7 @@ Good night have a good sleep <3
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|16 |    No     |
+|**PAFF**|17 |    No     |
 
 ### At the backstage.
 **PAFF-Official**  
@@ -880,9 +885,9 @@ Look forward to seeing PAFF!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |17 |    Yes    |
-|**NEKO#ΦωΦ** |17 |    Yes    |
-|**ROBO_Head**|17 |    Yes    |
+|**PAFF**     |18 |    Yes    |
+|**NEKO#ΦωΦ** |18 |    Yes    |
+|**ROBO_Head**|18 |    Yes    |
 
 ### PAFF\-Official on Air.
 **PAFF-Official**  
@@ -900,7 +905,7 @@ You need to trigger **the PAFFCON incident** to unlock this post.
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|17 |    No     |
+|**PAFF**|18 |    No     |
 
 ### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -1040,7 +1045,7 @@ We should all pray...pray that PAFF will be alright
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|18 |    No     |
+|**PAFF**|19 |    No     |
 
 ### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -1194,7 +1199,7 @@ You will be fine!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|19 |    No     |
+|**PAFF**|20 |    No     |
 
 ### Unlocked Charts
 |   Song    |Char.|Diff.|Lv.|
@@ -1285,7 +1290,7 @@ Good work for both you and Sis! We will always support you!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|20 |    No     |
+|**PAFF**|21 |    No     |
 
 ### \[Announcement\] Public schedule put on hold
 **PAFF-Official**  
@@ -1365,7 +1370,7 @@ As a PUFFER I will not refund the ticket... I'll keep it as a souvenir
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|20 |    No     |
+|**PAFF**|21 |    No     |
 
 ### Unlocked Charts
 |    Song    |Char.|Diff.|Lv.|
@@ -1461,7 +1466,7 @@ Anyone know which hospital she is at?
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|21 |    No     |
+|**PAFF**|22 |    No     |
 
 ### Check up.
 **PAFF-Official**  
@@ -1552,7 +1557,7 @@ PAFF you're on your way
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|21 |    No     |
+|**PAFF**|22 |    No     |
 
 ### Unlocked Charts
 |     Song     |Char.|Diff.|Lv.|
@@ -1625,7 +1630,7 @@ We can only wait and see
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|24 |    No     |
+|**PAFF**|25 |    No     |
 
 ### Unlocked Charts
 |         Song         |Char.|Diff.|Lv.|
@@ -1724,7 +1729,7 @@ Puffs let's go to Mono Music to figure out what the hell is up!!
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|26 |    No     |
+|**PAFF**|27 |    No     |
 
 ### \[Announcement\] Regarding《Around the Nodes》concert tour refunds
 **PAFF-Official**  
@@ -1829,7 +1834,7 @@ Don't really want to support Mono's events from now on. SkyEkho might be the bet
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|27 |    No     |
+|**PAFF**|28 |    No     |
 
 ### \[Announcement\] Tower 054 celebration event guest revealed
 **PAFF-Official**  
@@ -1919,9 +1924,9 @@ Is it wrong to find love for Cherry PuNK in PAFF's dungeon
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |34 |    Yes    |
-|**NEKO#ΦωΦ** |34 |    Yes    |
-|**ROBO_Head**|33 |    Yes    |
+|**PAFF**     |35 |    Yes    |
+|**NEKO#ΦωΦ** |35 |    Yes    |
+|**ROBO_Head**|34 |    Yes    |
 
 ### \[Announcement\] Fellow Monophonic Entertainment singer PAFF gone missing for several weeks; request assistance from fans and friends to help search for her
 **PAFF-Official**  
@@ -2048,9 +2053,9 @@ Stop exaggerating the truth idiots. It's not funny at all!
 ### Requirements
 |    Char.    |Lv.|Lv. Locked?|
 |-------------|:-:|:---------:|
-|**PAFF**     |34 |    No     |
-|**NEKO#ΦωΦ** |34 |    No     |
-|**ROBO_Head**|33 |    No     |
+|**PAFF**     |35 |    No     |
+|**NEKO#ΦωΦ** |35 |    No     |
+|**ROBO_Head**|34 |    No     |
 
 ### I am very sorry to everyone
 **Helena**  
@@ -2120,7 +2125,7 @@ What happened PAFF >"< Why are you making everyone so worried
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|36 |    No     |
+|**PAFF**|37 |    No     |
 
 ### \[Announcement\] Monophonic Entertainment urges fans to calm down; do not let unnecessary violence further intensify the conflict between both sides
 **PAFF-Official**  
@@ -2213,7 +2218,7 @@ I combined the two hashtags so we can kill two birds with one stone. I'm a geniu
 ### Requirements
 | Char.  |Lv.|Lv. Locked?|
 |--------|:-:|:---------:|
-|**PAFF**|40 |    No     |
+|**PAFF**|41 |    No     |
 
 ### \[Annoucement\] Explaining the decision behind the contract termination of PAFF
 **PAFF-Official**  
