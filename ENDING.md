@@ -14,7 +14,7 @@ getting spoiled.
 ## Requirements
 |   Char.   |Lv.|Lv. Locked?|
 |-----------|:-:|:---------:|
-|**Vanessa**|24 |    No     |
+|**Vanessa**|25 |    No     |
 
 There are **three** endings for Cytus 2, and it all depends on what actions
 you take on the final boss against Vanessa after Ivy's death, that is,
