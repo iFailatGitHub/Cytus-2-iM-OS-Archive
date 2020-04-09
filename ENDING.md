@@ -1,7 +1,6 @@
 # Cytus 2 Ending
 
 ## List of Endings
-- [Requirements](#requirements)
 - [Good Ending](#good-ending)
 - [Neutral Ending](#neutral-ending)
 - [Bad Ending](#bad-ending)
@@ -54,7 +53,7 @@ in the respective sections:
 | Section             | Staff                        |
 |---------------------|------------------------------|
 | Executive Producer  | Gulujam **C**hang            |
-| Art Director        | Ching**Yeh**                 |
+| Art Director        | Ching**Y**eh                 |
 | Lead Animator       | Kuan**T**ian                 |
 | Lead Chart Designer | Bee L**u**                   |
 | Chart Designer      | **S**am Liu                  |
