@@ -85,6 +85,9 @@
     - [OS Log #073](#os-log-073)
     - [OS Log #074](#os-log-074)
     - [OS Log #075](#os-log-075)
+- [Added on v3.1](#added-on-v31)
+    - [OS Log #076](#os-log-076)
+    - [OS Log #077](#os-log-077)
 
 ## Added on v2.0
 
@@ -8617,7 +8620,7 @@ _\[Signal Lost\]_
 ### OS Log #075
 ___
 
-[Last Log](#os-log-074) | [Back to Top](#list-of-logs)
+[Last Log](#os-log-074) | [Back to Top](#list-of-logs) | [Next Log](#os-log-076)
 
 #### Requirements
 | Char. |Lv.|Lv. Locked?|
@@ -8629,5 +8632,192 @@ ___
 _[Click the image to watch the movie]_
 
 
-[Last Log](#os-log-074) | [Back to Top](#list-of-logs)
+[Last Log](#os-log-074) | [Back to Top](#list-of-logs) | [Next Log](#os-log-076)
+
+## Added on v3.1
+
+### OS Log #076
+___
+
+[Last Log](#os-log-075) | [Back to Top](#list-of-logs) | [Next Log](#os-log-077)
+
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|61 |    No     |
+
+#### Image\_St415\_702\_12\_17
+![ivos7601.png](./attachments/ivos7601.png)
+
+
+[Last Log](#os-log-075) | [Back to Top](#list-of-logs) | [Next Log](#os-log-077)
+
+### OS Log #077
+___
+
+[Last Log](#os-log-076) | [Back to Top](#list-of-logs)
+
+#### Requirements
+| Char. |Lv.|Lv. Locked?|
+|-------|:-:|:---------:|
+|**Ivy**|61 |    No     |
+
+#### Unlocked Charts
+|    Song    |Char.|Diff.|Lv.|
+|------------|:---:|:---:|:-:|
+|**conflict**| Ivy |Easy | 6 |
+|**conflict**| Ivy |Hard | 9 |
+|**conflict**| Ivy |Chaos|15 |
+
+#### Audio\_08GateE\_702\_12\_06
+_\[Door Opens\]_
+
+**Agents B and C**  
+Captain! Tough work!
+
+**Agent A**  
+Yeah. Is everything looking normal down there?
+
+**Agent B**  
+The target has already been identified with both a recognition signal and by eyesight. One heavy\-duty self\-driving transport carrier, model number AC\-04, carrying one item. It'll be arriving at the gate in 20 seconds.
+
+**Agent C**  
+Strange, a delivery in the middle of the night... Even we have to work overtime.
+
+**Agent B**  
+You ain't been here too long, still don't know? Happens all the time. A.R.C.'s deliveries are never regular.
+
+_\[Alarm\]_
+
+**[Security System]**  
+_Transport unit has arrived. Connection to the Administration Bureau Security System established. Remote preparation for the inspection process complete._
+
+**Agent B**  
+Testing vehicle's internal virus viscosity level...... Under 0.0001%. It's safe.
+
+**Agent A**  
+_Looks like there are no issues. Okay, begin scanning._
+
+_\[Weight Scan\]_
+
+**[Security System]**  
+_Report: Load weight is 100.5 kilograms. No signs of life. Contains metal compound components.  
+Structure scan... aborted. Cause: Insufficient authorization privileges._
+
+**Agent C**  
+Tsk. Why can't even we see what's inside? Aren't we enforcement agents?
+
+**Agent B**  
+Haha, some of A.R.C.'s shipments don't need to be cleared. After all, they've got a production facility right outside of the gate and the Exploration Team set up a meetup point there. There's bound to be industry secrets.
+
+**Agent C**  
+Ha... such a dignified explanation. We're not under the authority of A.R.C., why care about stuff like that?
+
+**Agent A**  
+Quit complaining, we just do as we're told and we'll be fine...  
+...... Eh!
+
+_\[Static\]_
+
+**Agent B**  
+......? Interference...?
+
+**Agent A**  
+What the... hey, report the situation.
+
+**Agent B**  
+Okay, I'll go check it out immediately...  
+... Error check complete. No errors in the system.
+
+**Agent C**  
+Transport vehicle's still there and the alarm didn't sound, but the signal waves exceeded normal range just a bit...Tsk... What's been up with A.R.C.'s stuff recently? First, iM breaks, then the drones keep malfunctioning...
+
+**Agent B**  
+They're the top of the food chain, give 'em some time! In any case, they'll get it done.
+
+**Agent C**  
+I can't be as optimistic as you... Captain, whatta we do?
+
+**Agent A**  
+Christ... enlarge the image of the door.
+
+_\[Projection\]_
+
+**Agent B**  
+Nothing at all... Looks like it was just an issue with the signal.
+
+**Agent C**  
+Should I take a small team to check it out?
+
+**Agent A**  
+You kidding? If this gets political, we'll get crushed by A.R.C.'s legal department...  
+Alright, just let it slide.
+
+**Agents B and C**  
+Yes, sir!
+
+_\[→Signal Switches\]_
+
+**[Security System]**  
+_Test results: No abnormalities. Permitted to pass. Please wait until the main gate has completely opened and follow the assigned route.  
+Target destination: A.R.C. Headquarters "A.R.C. Sky"._
+
+_\[Engine Rumbling\]_
+
+_\[Footsteps\]_
+
+**Ivy**  
+Got it.
+
+**[Rin]**  
+_I still... can't believe it._
+
+**Ivy**  
+Relax, my hacking abilities are flawless. The humans won't figure out that I've switched the "shipment" until the transportation vehicle reaches its destination... Even then, they won't be able to track me.
+
+**[Rin]**  
+_That's not what I meant... I'm just a little surprised. Everything you said is true...  
+You really are... you're... Æsir?_
+
+**Ivy**  
+I do not expect you to trust me completely, I just want you to help out and provide necessary intel. Or perhaps there's something you want this time around?
+
+**[Rin]**  
+_N\-No...  
+But, if I have to say, I'm a little bit curious..._
+
+**Ivy**  
+Curious?
+
+**[Rin]**  
+_About... this unit. It was initially headed to that empty area... It uses our technology, yet it's different from us. Why would A.R.C. want..._
+
+**Ivy**  
+That is not important. It meets my requirements and will allow me to save Vanessa. That's all I need to know.
+
+**[Rin]**  
+_......_
+
+**Ivy**  
+That's enough with the small talk.  
+The plan is only 50% complete. Do what you need to do. I'll be in contact.
+
+**[Rin]**  
+_O\-Okay. Then, I'll disconnect first..._
+
+_\[Stands Up\]_
+
+**Ivy**  
+......  
+Hmph. No matter why the humans made this...
+
+_\[Object Crashes\]_
+
+**Ivy**  
+This time... I'll be the one using it.
+
+_\[Signal Switches\]_
+
+
+[Last Log](#os-log-076) | [Back to Top](#list-of-logs)
 
