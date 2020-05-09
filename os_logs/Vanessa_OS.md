@@ -6085,9 +6085,9 @@ ___
 |**V. //System Offline//**    |Vanessa|Easy | 4 |
 |**V. //System Offline//**    |Vanessa|Hard | 8 |
 |**V. //System Offline//**    |Vanessa|Chaos|13 |
-|**Ⅱ́̕**                        |Vanessa|Easy | 5 |
-|**Ⅱ́̕**                        |Vanessa|Hard | 9 |
-|**Ⅱ́̕**                        |Vanessa|Chaos|14 |
+|**͟͝͞Ⅱ́̕**                        |Vanessa|Easy | 5 |
+|**͟͝͞Ⅱ́̕**                        |Vanessa|Hard | 9 |
+|**͟͝͞Ⅱ́̕**                        |Vanessa|Chaos|14 |
 
 #### Cam\_Library\_702\_12\_29
 **Ivy**  

@@ -62,4 +62,4 @@ in the respective sections:
 If you haven't noticed, it spells **CYTUS I**. This unlocks the
 **Cytus I Note Skin**. To use it, you'll have to go through the either the
 [neutral](#neutral-ending) or [good](#good-ending) endings so you can play
-charts once again
+charts once again.
