@@ -60,4 +60,6 @@ in the respective sections:
 | Special Thanks      | Crypton Future Media **I**nc |
 
 If you haven't noticed, it spells **CYTUS I**. This unlocks the
-**Cytus I Note Skin**. Obviously you'll have to change note skins to use this.
+**Cytus I Note Skin**. To use it, you'll have to go through the either the
+[neutral](#neutral-ending) or [good](#good-ending) endings so you can play
+charts once again
